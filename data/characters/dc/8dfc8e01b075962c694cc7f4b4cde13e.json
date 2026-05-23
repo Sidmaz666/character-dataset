@@ -4,9 +4,9 @@
   "native_name": null,
   "full_name": "Wally West",
   "basic_info": {
-    "gender": "",
+    "gender": "Unknown",
     "species": "Metahuman",
-    "race": "",
+    "race": null,
     "bloodline": null,
     "height_cm": null,
     "weight_kg": null,
@@ -117,7 +117,9 @@
   "achievements": [
     "Created by artist Carmine Infantino and writer John Broome"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

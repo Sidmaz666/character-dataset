@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -95,7 +95,7 @@
       "Protecting others"
     ],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Aggressive",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -103,7 +103,9 @@
     "strengths": [
       "Brave"
     ],
-    "weaknesses": []
+    "weaknesses": [
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Character arc summary",
@@ -134,8 +136,12 @@
     "total": 308
   },
   "weaknesses": {
-    "list": [],
-    "factors": []
+    "list": [
+      "Aggressive"
+    ],
+    "factors": [
+      "aggressive"
+    ]
   },
   "relationships": {
     "nemesis": null,
@@ -296,7 +302,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "The Punisher is an antihero appearing in American comic books published by Marvel Comics. Created by writer Gerry Conway and artists John Romita Sr. and Ross Andru, the character first appeared in The Amazing Spider-Man #129, originally depicted as an assassin and adversary of the superhero Spider-Man. The Punisher's brutal nature and willingness to kill made him an anomaly in mainstream American comic books when he debuted in 1974. By the late 1980s, the Punisher was part of a wave of psychologically troubled antiheroes. At the height of his popularity in the early 1990s, the character was simultaneously featured in four monthly publications: The Punisher, The Punisher War Journal, The Punisher: War Zone, and The Punisher Armory. While his popularity declined markedly in the mid-1990s, writer Garth Ennis revived interest in the character in the early 2000s, particularly in various series under the Max imprint.",
+  "about": "Francis is a cyborg is a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

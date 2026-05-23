@@ -108,7 +108,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Joestar group"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

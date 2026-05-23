@@ -168,7 +168,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Prism Rondo"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -279,7 +283,7 @@
   "notable_battles": [],
   "quotes": [],
   "voice_acting": {
-    "native_language": "Uchiyama Kouki (Japanese)",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Christopher Bonwell",

@@ -171,7 +171,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Monster Association"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

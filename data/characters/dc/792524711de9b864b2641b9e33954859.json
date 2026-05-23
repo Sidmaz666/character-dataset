@@ -135,7 +135,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Sinestro Corps"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

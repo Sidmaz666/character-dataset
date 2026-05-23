@@ -177,7 +177,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Clover Kingdom",
+        "Wizard King"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

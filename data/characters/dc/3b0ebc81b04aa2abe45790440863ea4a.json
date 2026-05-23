@@ -4,9 +4,9 @@
   "native_name": null,
   "full_name": "Atrocitus",
   "basic_info": {
-    "gender": "",
+    "gender": "Unknown",
     "species": "Ryutian",
-    "race": "",
+    "race": null,
     "bloodline": null,
     "height_cm": null,
     "weight_kg": null,
@@ -112,8 +112,12 @@
     "affinity": "Evil",
     "alignment": "Evil"
   },
-  "achievements": [],
-  "titles": [],
+  "achievements": [
+    "Supervillain"
+  ],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

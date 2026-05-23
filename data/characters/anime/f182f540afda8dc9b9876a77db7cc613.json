@@ -113,7 +113,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Konoha",
+        "Team Guy"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -279,7 +284,7 @@
     "story_importance": "Supporting",
     "note": null
   },
-  "about": "Age: 17\n\nFormerly a prodigy child actress, Kana Arima lost most of her footing in the entertainment industry due to the poor reputation she garnered for herself on set during her grade school years. Though her attitude has greatly reformed by the present day, her image as merely a washed-up child actor continues to hamper her efforts.",
+  "about": "Kuna, Mashiro known as a Kunoichi serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Anastasia faction"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

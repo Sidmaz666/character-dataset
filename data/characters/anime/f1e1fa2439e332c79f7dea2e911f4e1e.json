@@ -180,7 +180,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Fairy Tail Guild",
+        "Cait Shelter"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -318,7 +323,7 @@
     "note": null
   },
   "publisher": "anime",
-  "about": "Age: 12-16\nOccupation: Mage\nAffiliation: Cait Shelter, Fairy Tail Guild\nTeam: Team Natsu\nKnown relatives: Grandeeny (foster mother), Carla (foster sister)\nMagic: Sky Dragon Slayer Magic\n\nWendy is the Dragon slayer of the Sky, which means that she has the same power as Natsu Dragneel and Gajeel Redfox, but with the ability to manipulate air. Wendy can eat air, but can't heal as well in polluted areas. Her magic allows her to heal people from the most serious of injuries, even those caused by a dragon, allowing her to use even a kiss to heal other people and can even counteract other magic; however, there seems to be a limit to how much she can use.",
+  "about": "Wendy Marvell is a mage who serves as a minor character from Anime.",
   "note": null,
   "source": "anime"
 }

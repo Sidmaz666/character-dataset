@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kitauji High"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -275,7 +279,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Sound! Euphonium (Japanese: 響け! ユーフォニアム, Hepburn: Hibike! Yūfoniamu) is a Japanese novel series written by Ayano Takeda. The story is set in Uji, Kyoto and focuses on the Kitauji High School Music Club, whose concert band is steadily improving thanks to the newly appointed adviser's strict instruction.\nA manga adaptation illustrated by Hami was serialized on the Kono Manga ga Sugoi! Web website. Kyoto Animation was in charge of its anime adaptations: it produced two seasons of a television series adaptation in 2015 and 2016, depicting the first high school year of the main character, Kumiko Oumae. Two animated films titled Liz and the Blue Bird and Sound! Euphonium: The Movie – Our Promise: A Brand New Day, both taking place during Kumiko's second year of high school, premiered in 2018 and 2019 respectively. A third season focused on Kumiko in her third year of high school aired in 2024, preceded by the theatrical OVA Ensemble Contest in 2023.",
+  "about": "Yoshikawa, Yuuko known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

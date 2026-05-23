@@ -78,7 +78,7 @@
     "dislikes": [
       "Dishonesty"
     ],
-    "fear": "Unknown",
+    "fear": "Failing to protect others",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -96,7 +96,9 @@
     "Considered Batman's two closest allies",
     "Created by Chuck Dixon and Tom Lyle"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -137,7 +139,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Batgirl",
+        "Spoiler"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -258,8 +265,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Potential exists",
     "power_evolution": [],

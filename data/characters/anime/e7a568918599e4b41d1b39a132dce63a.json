@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Xcution"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Ichigo"

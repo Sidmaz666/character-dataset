@@ -5,7 +5,7 @@
   "full_name": "Christopher Bradley",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 193,
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -313,7 +313,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "David North is a character appearing in American comic books published by Marvel Comics. He is primarily known as Maverick and went by Agent Zero while operating within the Weapon X program. The character first appeared in X-Men #5 and was created by writer John Byrne and co-writer/artist Jim Lee.",
+  "about": "Christopher Bradley is a male mercenary; former adventurer, student is a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

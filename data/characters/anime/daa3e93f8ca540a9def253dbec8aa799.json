@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Roger Pirates"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Garp"
@@ -280,7 +284,7 @@
     "story_importance": "Legendary character",
     "note": null
   },
-  "about": "This is a list of pirates and pirate crews in the One Piece manga by Eiichiro Oda.\nInitially two of the three great powers are pirates: the Four Emperors and the Seven Warlords of the Sea, with the Marines making up the third great power. Before their abolition, the Seven Warlords were privateers aligned with the World Government, which exists in a delicate balance of power with the Four Emperors.\nThis article does not include pirates originating from the One Piece films or video games.",
+  "about": "Gol D., Roger known as a Pirate King serving as legendary character from Anime.",
   "note": null,
   "source": "anime"
 }

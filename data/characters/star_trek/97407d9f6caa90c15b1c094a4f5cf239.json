@@ -9,14 +9,14 @@
     "race": "Hologram (Photonic)",
     "bloodline": null,
     "height_cm": 180,
-    "weight_kg": 0,
-    "age": "Developed over 7 years",
+    "age": "Unknown",
     "birthday": "2371 (activated)",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Blue (light emitter)",
@@ -369,7 +369,7 @@
     "I have seventeen hundred medical databases at my disposal."
   ],
   "voice_acting": {
-    "native_language": "Robert Picardo",
+    "native_language": "English",
     "english": "Robert Picardo",
     "note": "Also played the Holo-Doors in Voyager",
     "native_name": null,

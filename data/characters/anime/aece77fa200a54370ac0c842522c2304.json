@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Bakufu"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

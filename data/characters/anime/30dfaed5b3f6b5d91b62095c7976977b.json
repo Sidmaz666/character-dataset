@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Armed Detective Agency"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -236,7 +240,7 @@
   "ultimate_move": null,
   "trump_card": null,
   "power_attributes": {
-    "power_type": null,
+    "power_type": "Spiritual Energy",
     "power_source": "Unknown",
     "combat_style": [],
     "weapon": "Unknown",
@@ -281,7 +285,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 25\nBirthday: December 7\nHeight: 166 cm\nWeight: 52 kg\nBlood Type: O\nLikes: Flowers, eels, sake, wagashi (Japanese sweets)\nDislikes: Male chauvinism, weak men\nAbility: Thou Shalt Not Die; which allows her to heal external wounds. However, to heal someone they must first be \"half-dead\"; meaning they must have fatally serious injuries before she can use her ability. Due to this, her ability is inconvenient for healing minimal wounds since she needs to fatally injure that person first.",
+  "about": "Yosano, Akiko known as a Doctor serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

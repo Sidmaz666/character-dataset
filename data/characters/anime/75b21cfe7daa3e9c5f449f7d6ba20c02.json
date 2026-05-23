@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "ARGUS"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,

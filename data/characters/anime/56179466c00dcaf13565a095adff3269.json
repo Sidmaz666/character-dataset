@@ -173,7 +173,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Bath House"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

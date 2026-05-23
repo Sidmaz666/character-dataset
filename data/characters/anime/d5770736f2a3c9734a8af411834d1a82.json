@@ -8,7 +8,6 @@
     "species": "Human",
     "race": "Human",
     "height_cm": 145,
-    "weight_kg": 0,
     "age": "15",
     "birthday": "Unknown",
     "blood_type": "B",
@@ -16,7 +15,8 @@
     "zodiac": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Unknown",
@@ -305,7 +305,7 @@
     "story_importance": "Minor",
     "note": null
   },
-  "about": "Age: 15\nBirthdate: May 24, Gemini\nHeight: 161 cm (5'3\")\nBlood type: F\nAffiliation:  Inuarashi Musketeer Squad\nDevil fruit: None\n\nCarrot is a rabbit mink in the Warrior Beast Tribe, a member of the Inuarashi Musketeer Squad, and a ruler's aide.\n\nShe is extremely fast and strong. She likes carrots and has a extremely outgoing personality.\n\nCarrot is a white-furred, blonde-haired rabbit mink and has a humanoid body with rabbit ears, a rabbit-like nose, and a large round tail.",
+  "about": "Alice Carroll (anime character) is a minor character from Anime.",
   "note": null,
   "source": "anime"
 }

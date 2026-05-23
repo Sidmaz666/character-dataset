@@ -4,9 +4,9 @@
   "native_name": null,
   "full_name": "Vision (android)",
   "basic_info": {
-    "gender": "",
-    "species": "",
-    "race": "",
+    "gender": "Unknown",
+    "species": "Unknown",
+    "race": null,
     "bloodline": null,
     "height_cm": null,
     "weight_kg": null,
@@ -120,7 +120,9 @@
     "Created by Roy Thomas and artist John Buscema",
     "Created by Hank Pym"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

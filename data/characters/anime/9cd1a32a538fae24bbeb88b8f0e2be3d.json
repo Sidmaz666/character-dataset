@@ -176,7 +176,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Forger Family"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

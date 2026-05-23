@@ -130,7 +130,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Sinister Six"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

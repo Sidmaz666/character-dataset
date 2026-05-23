@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Roswaal mansion"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

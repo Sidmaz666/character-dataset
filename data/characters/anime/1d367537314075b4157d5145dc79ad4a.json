@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -279,7 +283,7 @@
     "native_name": null,
     "japanese": "Unknown"
   },
-  "about": "Unit: UNDEAD\nAge: 18\nBirthday: November 2\nClub: Light Music Club\n\nA self-proclaimed \"Vampire\" who becomes completely miserable when the sun shines on him, even in the early morning, Rei is one of the \"Three Oddballs.\" While he appears sociable, he never shares his true intentions with anyone. He speaks and acts like an elder, and he also knows a lot about the school's history. Since he studied abroad for a year, he has to repeat a grade.\n\nEven though Rei is the president of the Light Music Club, he makes no effort to put things together. He loves his brother, second year Ritsu Sakuma, but receives harsh treatment in return. He is a member of the unit UNDEAD.\n\n(Source: Ensemble Stars! Wikia)",
+  "about": "Sakuma, Manabu known as a Teacher serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

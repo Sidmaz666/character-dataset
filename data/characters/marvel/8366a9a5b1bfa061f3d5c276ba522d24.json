@@ -73,7 +73,7 @@
     "traits": [],
     "likes": [],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -90,7 +90,9 @@
   "achievements": [
     "Created by Roy Thomas and John Buscema"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -131,7 +133,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Wakanda",
+        "Jabari"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -250,8 +257,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

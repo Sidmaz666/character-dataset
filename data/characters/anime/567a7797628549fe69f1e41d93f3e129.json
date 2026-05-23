@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Prison"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

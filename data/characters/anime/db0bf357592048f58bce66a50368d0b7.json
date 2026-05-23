@@ -113,7 +113,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "UA High",
+        "Class 1-A"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -281,7 +286,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "The My Hero Academia manga and anime series features various characters created by Kōhei Horikoshi. The series takes place in a fictional world where over 80% of the population possesses a superpower, commonly referred to as a \"Quirk\" (個性, Kosei). Peoples' acquisition of these abilities has given rise to both professional heroes and villains.",
+  "about": "Yaoyorozu, Momo known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

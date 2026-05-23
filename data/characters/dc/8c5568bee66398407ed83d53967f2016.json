@@ -132,7 +132,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Gotham"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -269,7 +273,7 @@
     "note": null
   },
   "publisher": "dc",
-  "about": "Bluebird is a fictional character appearing in American comic books published by DC Comics, primarily in association with Batman. Harper Row was created by writer Scott Snyder and artist Greg Capullo, first appearing in Batman #7, before debuting as Bluebird in Batman #28. Harper Row's Bluebird identity was designed by artist Dustin Nguyen. Within the fictional DC Universe, Harper Row officially joins Batman's group of allies during the events of Batman Eternal, a year-long weekly maxiseries.",
+  "about": "Cullen Row is a character from DC Comics.",
   "note": null,
   "source": "dc"
 }

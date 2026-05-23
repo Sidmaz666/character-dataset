@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "CCG"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -280,7 +284,7 @@
     "story_importance": "Major character",
     "note": null
   },
-  "about": "Age: 17\n\nFormerly a prodigy child actress, Kana Arima lost most of her footing in the entertainment industry due to the poor reputation she garnered for herself on set during her grade school years. Though her attitude has greatly reformed by the present day, her image as merely a washed-up child actor continues to hamper her efforts.",
+  "about": "Arima, Kishou known as a Investigator serving as a major from Anime.",
   "note": null,
   "source": "anime"
 }

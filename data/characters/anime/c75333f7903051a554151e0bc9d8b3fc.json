@@ -114,7 +114,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Armed Detective Agency"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -286,7 +290,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 26\nBirthday: October 21\nHeight: 168 cm\nWeight: 57 kg\nBlood type: O\nLikes: Logical thinking, fantasy horror\nDislikes: Common sense, useless knowledge\nAbility: Super Deduction; allows him to deduce the \"truth\" about a certain situation/crime and giving him complete information such as where to find evidence and who the culprit is within a matter of seconds. Ranpo \"activates\" this ability by putting on a pair of glasses given to him by the director.",
+  "about": "Edogawa, Ranpo known as a Detective serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

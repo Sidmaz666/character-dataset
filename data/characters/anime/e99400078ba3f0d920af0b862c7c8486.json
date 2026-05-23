@@ -131,8 +131,12 @@
     "affinity": "Neutral",
     "alignment": "True Neutral"
   },
-  "achievements": [],
-  "titles": [],
+  "achievements": [
+    "Royalty"
+  ],
+  "titles": [
+    "Royalty"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",

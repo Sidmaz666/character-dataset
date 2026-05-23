@@ -8,7 +8,6 @@
     "species": "Human",
     "race": "Human",
     "height_cm": 250,
-    "weight_kg": 0,
     "age": "Adult",
     "birthday": "Unknown",
     "blood_type": "Unknown",
@@ -16,7 +15,8 @@
     "zodiac": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Unknown",
@@ -276,7 +276,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Viktoriya Ivanovna Serebryakova is a mage and a conscript in the Empire's army, and in the past were a member of Platoon 3 under Tanya's leadership. After that, she joined the new Wing Battalion named \"V601\" to serve as Tanya's adjutant.\n\n(Source: Youjo Senki Wikia)",
+  "about": "Emporio Ivankov is a female revolutionary is a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

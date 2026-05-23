@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "W-0 Unit"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -278,7 +282,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 17\nRank: Major\nNationality: Britannian\n\nLeila Malcal is the daughter of a Britannian noble family that disagreed with the dated system of rule in the empire, which made them defect to the E.U. as exiles. Born in Europe, Leila was adopted by the Malcal family after the deaths of her parents. She became a Major in the E.U. Army and originally served as an adjutant to Commander Anou in the W-0 Unit. Leila planned the military operation known as Operation Alpha with the objective of rescuing the surrounded 132nd Regiment in Narva. However, Leila confronted Anou over his last minute decision to use Japanese youngsters for suicide attacks and finally removed Anou from his command position. After the success of the operation, she was promoted to the rank of Lieutenant Colonel by General Smilas and given direct command of the W-0 Unit.\n\n\n(Source: Code Geass Wikia)",
+  "about": "Malcal, Leila known as a Captain serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

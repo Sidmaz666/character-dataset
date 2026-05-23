@@ -177,7 +177,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Blue Lock",
+        "Bastard Munchen"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -315,7 +320,7 @@
     "note": null
   },
   "publisher": "anime",
-  "about": "Age: 17\nBirthday: August 8\nHeight: 176cm\nBlood type: AB\nLikes: dolphins, sleeping, soccer, summer and canned pineapple\nDislikes: mozuku\nWeapon: dribbling\n\nMeguru Bachira is a whimsical forward who plays following his instincts. When first arriving at Blue Lock, he was a member of Team Z during First Selection. His main goal was to find soccer rivals to play with who also have a \"monster\" inside of them. Later, his goal changes to becoming the best striker in the world when he overcomes his childhood trauma.\n\n(Source: Blue Lock Wiki, edited)",
+  "about": "Bachira Meguru is a minor character from Anime.",
   "note": null,
   "source": "anime"
 }

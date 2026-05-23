@@ -116,7 +116,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "FBI"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Light"
@@ -281,7 +285,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 18\nHeight: 181 cm\n\nRayne is one of the five of the main purifiers. He is quiet, and shy when meeting new people. He was especially shy when he met Angelique. He loves books, and to read. He spends his spare time experimenting, and researching on artifacts. He is also a great cook. He also has sincere feelings for Angelique, and will do anything to protect her. Though he is very shy in showing his feelings towards Angelique. The weapon he uses to purify the Thanatos, is a silver pistol.",
+  "about": "Penber, Raye known as a FBI Agent serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

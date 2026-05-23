@@ -114,7 +114,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Zombie"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -281,7 +285,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Birthday: November 24\nHeight: 182 cm\nBlood type: AB\n\nShimotsuki Shun is the male representative for the month of November. He is an idol under Tsukino Talent Production, and is a member of the unit Procellarum.\n\nShun has collar-length silvery-white hair and lime-colored eyes. He is one of the tallest among the twelve male idols. His smile comes of as profound yet enigmatic, although he himself claims that there is no deep meaning behind it. He also constantly wears a black choker.",
+  "about": "Shimotsuki, Ryuuma is a zombie known as a Samurai serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kirigakure"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -277,7 +281,7 @@
     "story_importance": "Major character",
     "note": null
   },
-  "about": "Teruki Hanazawa is a second-year student at Black Vinegar Middle School. \n\n\n(Source: Mob Psycho 100 Wikia)",
+  "about": "Terumi, Mei known as a Ninja serving as a major from Anime.",
   "note": null,
   "source": "anime"
 }

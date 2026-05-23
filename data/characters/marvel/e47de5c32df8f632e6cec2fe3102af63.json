@@ -130,7 +130,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Guardians of the Galaxy"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Sabaody"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Heroes/Protagonists"

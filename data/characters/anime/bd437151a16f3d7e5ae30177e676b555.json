@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Boxing world"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Takamura"

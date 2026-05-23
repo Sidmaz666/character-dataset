@@ -172,7 +172,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Martial Arts"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

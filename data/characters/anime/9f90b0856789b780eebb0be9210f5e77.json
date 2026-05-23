@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Qin"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -274,7 +278,7 @@
     "story_importance": "Major character",
     "note": null
   },
-  "about": "He is a military commander, a living legend from the past. One of the Six Great Generals of Qin who were able to stop any attack and crush the enemy. His blood is boiling and always looking for a battlefield to fight on. His name was so frightening that the enemy immediately surrendered once they heard of it.\n\nOu Ki is a man of exceptional intelligence and strength. He always leads the attack in front of his soldiers, turning them into \"demons\", as described by the enemies on the battlefield. He has achieved great renown throughout the whole of China, and he was, together with the other 5 great generals of Qin, a part of the \"Golden Era\". \n\n\n\n\n\n\n\nStats\nStrength 98\nLeadership 93\nIntelligence 95",
+  "about": "Wang, Jian known as a General serving as a major from Anime.",
   "note": null,
   "source": "anime"
 }

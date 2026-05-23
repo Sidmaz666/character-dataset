@@ -5,7 +5,7 @@
   "full_name": "Hunter Zolomon",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 185,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Keystone City, Kansas",
     "place": null,
@@ -120,7 +120,9 @@
   "achievements": [
     "Powers and Abilities"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

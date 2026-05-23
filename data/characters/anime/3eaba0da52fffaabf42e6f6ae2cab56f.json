@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kirito's faction"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -275,7 +279,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 15\nBirthday: November 22nd\nHeight: 155 cm (5'1\")\nWeight: 43 kg (94 lbs)\nBlood type: B\nSongs: Ayano's Theory of Happiness (アヤノの幸福理論, Ayano no Koufuku Riron), Transparent Answer (Toumei Answer), Lost Time Memory, and Additional Memory\nEye Ability: \nFirst appeared in Transparent Answer. A cheerful girl who was Shintarou's classmate. In the summer of her first year of high school, she made contact with Shintarou, who had a tendency to keep a distance, but who soon relented to her advances and genuinely enjoyed her company. From then on the two became close friends. Shintarou catches her crying one day but is at a loss at what to do and leaves. The next day it is revealed that she had committed suicide for some unknown reason.\n\n\n\n\n(Source: Vocaloid Wikia)",
+  "about": "Ayano, Keiko known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

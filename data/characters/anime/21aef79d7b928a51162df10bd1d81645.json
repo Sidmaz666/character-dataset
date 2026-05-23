@@ -114,7 +114,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Survey Corps",
+        "Levi Squad"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

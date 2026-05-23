@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Tengenji"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Gintoki"

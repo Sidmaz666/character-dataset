@@ -130,7 +130,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "X-Men"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

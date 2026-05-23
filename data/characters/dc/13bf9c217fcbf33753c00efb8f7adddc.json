@@ -128,7 +128,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Rogues"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -265,7 +269,7 @@
     "note": null
   },
   "publisher": "dc",
-  "about": "The Hatter (called Hatta in Through the Looking-Glass) is a fictional character in Lewis Carroll's 1865 book Alice's Adventures in Wonderland and its 1871 sequel Through the Looking-Glass. He is often referred to as the Mad Hatter in adaptations and pop culture, though this term was never used by Carroll. The phrase \"mad as a hatter\" predates Carroll's works. The Hatter and the March Hare are described as \"both mad\" by the Cheshire Cat in Alice's Adventures in Wonderland.",
+  "about": "The Hatter (called Hatta in Through the Looking-Glass) is a fictional character in Lewis Carroll's 1865 book Alice's Adventures in Wonderland its 1871 sequel Through the Looking-Glass. He is often referred to as the Mad Hatter in adaptations and pop culture, though this term was never used by Carroll. The phrase \"mad as a hatter\" predates Carroll's works. The Hatter and the March Hare are described as \"both mad\" by the Cheshire Cat in Alice's Adventures in Wonderland.",
   "note": null,
   "source": "dc"
 }

@@ -224,7 +224,10 @@
     "mother": null,
     "adoptive_brother": null,
     "master": null,
-    "relatives": [],
+    "relatives": [
+      "Becca (mother)",
+      "Homelander"
+    ],
     "grandson": null,
     "girlfriend": null,
     "Stand": null,
@@ -252,7 +255,10 @@
     "captain": null,
     "protects": null,
     "comrades": [],
-    "family": [],
+    "family": [
+      "Becca (mother)",
+      "Homelander"
+    ],
     "daughter": null,
     "subject": null,
     "former crew": null,
@@ -339,7 +345,7 @@
     "Mom said I am special because I am good, not because I have powers."
   ],
   "voice_acting": {
-    "native_language": "Cameron Crovetti",
+    "native_language": "English",
     "english": "Cameron Crovetti",
     "note": null,
     "native_name": null,
@@ -371,7 +377,7 @@
   },
   "id": "edde0d8a51a545c478f31000a72a9185",
   "publisher": "the_boys",
-  "about": "John Gillman, better known as the Homelander, is a fictional character and the secondary antagonist of the comic book series The Boys, and the main antagonist of the media franchise of the same name created by Garth Ennis and Darick Robertson. He is depicted as a psychopathic and sadistic narcissist with a nihilistic and hedonistic worldview who serves as the extremely powerful leader of the Seven—a group of corrupt and hedonistic superheroes grown and funded by Vought-American—and is the archenemy of Billy Butcher. Beneath his public image as a noble hero, Homelander cares little about the well-being of those he professes to protect. Described as the living personification of how the world sees the United States, the character has received critical acclaim along with Antony Starr's portrayal in the series. Homelander has been compared to Superman and Captain America.",
+  "about": "Ryan Butcher is a supe/human hybrid and a child from The Boys.",
   "note": null,
   "source": "the_boys"
 }

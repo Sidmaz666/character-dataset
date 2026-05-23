@@ -5,7 +5,7 @@
   "full_name": "Metron",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 185,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Supertown, New Genesis",
     "place": null,

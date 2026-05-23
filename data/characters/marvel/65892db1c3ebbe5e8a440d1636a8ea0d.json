@@ -8,15 +8,15 @@
     "species": "Mutant",
     "race": "Mutant",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "-",
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -304,7 +304,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "A wrecking yard (Australian, New Zealand, and Canadian English) known as a scrapyard (Irish, British, and South African English) or junkyard (American English), is a business that dismantles wrecked or decommissioned vehicles. Its usable parts are sold for vehicle repairs, while unusable metal parts are sold to recycling companies. Other terms include wreck yard, wrecker's yard, salvage yard, breaker's yard, dismantler, and scrapheap. In the UK, Ireland and South Africa, car salvage yards are called car breakers, and motorcycle salvage yards are called bike breakers. In Australia, New Zealand, and Canada, they are often referred to as wreckers.",
+  "about": "A wrecking yard (Australian, New Zealand, and Canadian English) known as a scrapyard (Irish, British, and South African English) or junkyard (American English), is a business that dismantles wrecked or decommissioned vehicles. Its usable parts are sold for vehicle repairs, while unusable metal parts are sold to recycling companies. Other terms include wreck yard, wrecker's yard, salvage yard, breaker's yard, dismantler, and scrapheap. In the UK, Ireland South Africa, car salvage yards are called car breakers, and motorcycle salvage yards are called bike breakers. In Australia, New Zealand, and Canada, they are often referred to as wreckers.",
   "note": null,
   "source": "marvel"
 }

@@ -105,7 +105,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Rakugo school"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -269,7 +273,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "A legendary rakugo performer who is haunted by his past. He refused to take in any apprentices until he met Yotarou.\n\nAs a child, Bon had originally trained as a dancer until damage to his leg left him unable to dance. Bon's mother, a geisha, sent him to train as a rakugo performer under the Seventh Generation Yakumo Yuurakutei alongside Shin, a boy who shows up unexpectedly and is accepted on a whim. While he proved to be adept at the basics of rakugo, and possessed impressive potential to memorize stories, his performances were stiff and lacked emotion and passion. Shin, with his impressive love for rakugo, quickly overtook him. As an apprentice, he was given the name \"Kikuhiko.\" In an attempt to find his own style, Kikuhiko began performing 'bawdy and erotic' stories and discovered his strong ability to personify feminine characters.",
+  "about": "Sukeroku Yuurakutei is a male rakugo performer is a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

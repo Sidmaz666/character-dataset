@@ -189,7 +189,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Atlanteans"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Namor"
@@ -304,7 +308,7 @@
   "notable_battles": [],
   "quotes": [],
   "voice_acting": {
-    "native_language": "David Sobolov (English)",
+    "native_language": "English",
     "english": "David Sobolov",
     "note": null,
     "native_name": null,

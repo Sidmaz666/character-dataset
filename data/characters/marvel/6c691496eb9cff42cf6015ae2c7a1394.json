@@ -205,7 +205,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Symbiote Imperium"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Thor"

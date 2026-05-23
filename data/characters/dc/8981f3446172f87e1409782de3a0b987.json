@@ -8,15 +8,15 @@
     "species": "Human",
     "race": "Human",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Brown",
@@ -307,7 +307,7 @@
     "note": null
   },
   "publisher": "dc",
-  "about": "Man-Bat (Dr. Robert Kirkland \"Kirk\" Langstrom) is a fictional character appearing in American comic books published by DC Comics. Introduced in Detective Comics #400 (June 1970) as an enemy of the superhero Batman, the character belongs to the collective of adversaries that make up his rogues gallery. Originally portrayed as a supervillain, later incarnations show the Man-Bat as a sympathetic villain or antihero.\nIn the original version of the story, Kirk Langstrom was a zoologist who tried to give humans a bat's acute sonar sense. He managed to develop an extract that could supposedly do this. Upon testing it on himself, he transformed into an anthropomorphic feral half-bat hybrid, lacking sapience and acting purely on instinct. Batman managed to reverse the effects, but Langstrom would return as the Man-Bat time and time again, albeit not necessarily as a villain, as Langstrom would sometimes retain enough sanity to use his powers for good. Several other characters have since appeared as similar Man-Bat creatures, including Langstrom's wife Francine, his father Abraham Langstrom, and some League of Assassins operatives that make up the Man-Bat Commandos.\nSince his debut at the end of the Silver Age of Comic Books, the Man-Bat has been featured in various media adaptations, including television series and video games. In 2017, the Man-Bat was ranked as IGN's 16th-best Batman villain.",
+  "about": "Man-Bat known as a Zoologist serving as a supporting character from Dc.",
   "note": null,
   "source": "dc"
 }

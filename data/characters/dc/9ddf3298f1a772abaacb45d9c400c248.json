@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -104,8 +104,10 @@
     "likes": [
       "Protecting others"
     ],
-    "dislikes": [],
-    "fear": "Unknown",
+    "dislikes": [
+      "Cynicism"
+    ],
+    "fear": "Failing to protect others",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -113,7 +115,10 @@
     "strengths": [
       "Brave"
     ],
-    "weaknesses": []
+    "weaknesses": [
+      "Naive",
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Character arc summary",
@@ -143,8 +148,14 @@
     "total": 569
   },
   "weaknesses": {
-    "list": [],
-    "factors": []
+    "list": [
+      "Naive",
+      "Aggressive"
+    ],
+    "factors": [
+      "naive",
+      "aggressive"
+    ]
   },
   "relationships": {
     "nemesis": null,

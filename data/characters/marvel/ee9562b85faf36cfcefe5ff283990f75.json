@@ -4,8 +4,8 @@
   "native_name": null,
   "full_name": "Living Brain",
   "basic_info": {
-    "gender": "-",
-    "species": null,
+    "gender": "Unknown",
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 198,
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null

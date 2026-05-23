@@ -5,7 +5,7 @@
   "full_name": "Roxanne Washington",
   "basic_info": {
     "gender": "Female",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 168,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State",
     "place": null,
@@ -301,7 +301,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "\"Nation X\" is a 2009–2010 crossover storyline published by Marvel Comics featuring the X-Men. Published in the aftermath of the \"Utopia\" storyline and dealing with the return of Magneto, the story appeared across several different books, including Uncanny X-Men #515–522, Nation X #1–4 and X-Men: Legacy #228–230. Its writers include James Asmus, Matt Fraction, Grace Randolph, Scott Snyder, Simon Spurrier, and Christopher Yost, and its artists include Leonard Kirk, Mike Allred, Terry Dodson, Greg Land and Whilce Portacio.",
+  "about": "\"Nation X\" is a 2009–2010 crossover storyline published by Marvel Comics featuring the X-Men. Published in the aftermath of the \"Utopia\" storyline and dealing with the return of Magneto, the story appeared across several different books, including Uncanny X-Men #515–522, Nation X #1–4 and X-Men: Legacy #228–230. Its writers include James Asmus, Matt Fraction, Grace Randolph, Scott Snyder, Simon Spurrier, and Christopher Yost, and its artists include Leonard Kirk, Mike Allred, Terry Dodson, Greg Land Whilce Portacio.",
   "note": null,
   "source": "marvel"
 }

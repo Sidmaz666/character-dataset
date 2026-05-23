@@ -204,7 +204,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Spider Society"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Peter Parker",
@@ -320,7 +324,7 @@
   "notable_battles": [],
   "quotes": [],
   "voice_acting": {
-    "native_language": "Brian Bloom (English)",
+    "native_language": "English",
     "english": "Brian Bloom",
     "note": null,
     "native_name": null,

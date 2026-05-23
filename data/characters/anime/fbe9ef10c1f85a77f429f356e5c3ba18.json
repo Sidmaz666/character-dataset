@@ -115,7 +115,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Gotei 13",
+        "12th Division"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Opposing faction"

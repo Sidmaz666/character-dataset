@@ -176,7 +176,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Aogiri Tree",
+        "Washuu"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

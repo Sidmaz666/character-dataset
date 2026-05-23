@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Passione"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -278,7 +282,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Birthday: 1985\nAge: 16\nGender: Male\nHeight: 178 cm\nNationality: Italian\nOccupation: Passione Soldato, Bucciarati's Subordinate\nStand: Purple Haze\n\nFugo is a member of Buccellati's gang and is known to lose his patience and explode with anger. He is also the main character of the spin-off novel Hajishirazu no Purple Haze: JoJo no Kimyou na Bouken yori.",
+  "about": "Fugo, Pannacotta known as a Gangster serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

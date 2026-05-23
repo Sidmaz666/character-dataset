@@ -116,7 +116,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Zhao"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -280,7 +284,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Grade: 4\nAge: 11-12 (anime), 14 (manga)\nBirthday: July 13\nHeight: 140-148 cm\nBlood type: O\nFavorite subject: Mathematics, Physical education\nDisliked subject: Mandarin, Japanese\nFavorite color: green\nFavorite flower: Chinese Peony\nFavorite food: Dim Sum, chocolate\nDisliked food: Konnyaku\nFamily: mother, four sisters, Meilin Li (cousin, anime only)\n\nShaoran is a distant relative of Clow Reed, the creator of the Clow Cards. As a member of the Li clan of sorcerers from Hong Kong, of which Clow's mother was a member, Shaoran believes that he should be the one to inherit the Clow Cards, not Sakura Kinomoto. He first appears as an antagonist in the story, capturing a few cards for himself in the anime (though none in the manga).",
+  "about": "Li, Mu known as a General serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -181,7 +181,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "SPK",
+        "Wammy's House"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Light Yagami",
@@ -309,7 +314,7 @@
     "I won't let you kill me."
   ],
   "voice_acting": {
-    "native_language": "Noriko Hidaka",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Cathy Weseluck",
@@ -354,7 +359,7 @@
     "story_importance": "Protagonist (second half)",
     "note": null
   },
-  "about": "Height: 212 cm\nWeight: 130 kg\nTrue Identity: Alexander the Great/Iskandar, King of Conquerors\nMaster: Waver Velvet\nCatalyst: Mantle once worn by Iskandar himself\nHoly Grail War No.: 4th Holy Grail War\n\nRider was originally meant to be summoned by Lord Kayneth El-Melloi Archibald, but due to some circumstances, he ended up being Waver Velvet's servant.\n\nIskandar, or how he refers to himself, the King of Conquerors is a noble and courageous man, who prefers to conquer his enemies by winning without killing and controlling without humiliating them. He is known as a marvelous ruler who once almost conquered the whole known world.\n\nHe is not pragmatic, but is a person who lets history run its course and acts according to his impulses. While he is wild and somewhat inconsiderate to others, his greed ultimately resulted in the happiness of the people he ruled over.\n\nIn the new era, Rider is mostly amazed by ordinary modern things, and usually spends his free time exploring modern war vehicles and machinery.",
+  "about": "River, Nate known as a Head of SPK (Special Provision for Kira) serving as protagonist (second half) from Anime.",
   "note": null,
   "source": "anime"
 }

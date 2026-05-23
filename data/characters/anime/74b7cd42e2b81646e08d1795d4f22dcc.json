@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Anteiku"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -271,7 +275,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Birthday: March 19\n\nShe is Fumiya Tomozaki's classmate who has been regarded as a perfect existence, which means she excels at everything she does. \n\n(Source: Bottom-Tier Character Tomozaki-kun Wiki)",
+  "about": "Fueguchi, Hinami is a ghoul known as a Ghoul serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

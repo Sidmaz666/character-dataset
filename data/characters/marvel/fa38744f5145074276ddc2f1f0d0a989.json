@@ -8,15 +8,15 @@
     "species": "Spartoi",
     "race": "Spartoi",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Blue",
@@ -325,7 +325,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "J'son is a fictional character appearing in American comic books published by Marvel Comics. He is the leader of the alien Spartax empire as well as the father of Star-Lord and Victoria.",
+  "about": "Mister Knife is a spartoi known as a Crimelord; former emperor, prince serving as a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School council"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,

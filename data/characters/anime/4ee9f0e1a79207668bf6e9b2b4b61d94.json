@@ -109,7 +109,11 @@
     "editor": null,
     "son": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Clock Tower"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -279,7 +283,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Birthday: October 3\nHeight: 157 cm\nWeight: 50 kg\nBlood type: B\n\nWaver Velvet is a nineteen-year-old student at Clock Tower, an institute of the Magus Association, and mage with a recognized magical lineage of three generations. While he is talented, he is not recognized by his peers or lecturers.\n\nAn intelligent young man, Waver came up with the revolutionary concept that a mage's power could be increased through effort, experience, and knowledge rather than increasing magical potential through that of a mage's heirs. His idea is dismissed by his lecturer, the nobleman Kayneth Archibald El-Melloi, who tears up Waver's manuscript without another thought.\n\n\n(Source: Wikipedia)",
+  "about": "Velvet, Waver known as a Mage serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

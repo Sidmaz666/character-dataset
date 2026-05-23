@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -272,7 +276,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Birthday: June 7\nBlood type: A\n\nA young, deaf transfer student with an amazingly positive outlook on life. Despite being a victim of continuous bullying, she always keeps a smile on her face.",
+  "about": "Nishimiya, Shouko known as a Student serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

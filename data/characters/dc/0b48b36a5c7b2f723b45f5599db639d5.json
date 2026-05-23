@@ -132,7 +132,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Gotham"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

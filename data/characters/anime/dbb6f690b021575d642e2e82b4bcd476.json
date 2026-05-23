@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Seiren High"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -278,7 +282,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "He is a second-year wing spiker at Kamomedai High.",
+  "about": "Hoshimi, Junna known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

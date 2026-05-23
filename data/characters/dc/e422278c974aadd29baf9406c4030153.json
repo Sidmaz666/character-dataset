@@ -76,16 +76,20 @@
       "Kind",
       "Determined"
     ],
-    "likes": [],
+    "likes": [
+      "Helping others"
+    ],
     "dislikes": [
       "Dishonesty"
     ],
     "fear": "Unknown",
     "dream": "Unknown",
-    "personality_type": "Unknown",
+    "personality_type": "ISFJ",
     "Dream": null,
     "alignment": null,
-    "strengths": [],
+    "strengths": [
+      "Determined"
+    ],
     "weaknesses": []
   },
   "character": {
@@ -138,7 +142,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Orange Lantern Corps"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -93,7 +93,7 @@
       "Protecting others"
     ],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -112,7 +112,9 @@
   "achievements": [
     "Known as the temporary killer of the Earth-616 Spider-Man in the storyline \"Spider-Man: The Other\""
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

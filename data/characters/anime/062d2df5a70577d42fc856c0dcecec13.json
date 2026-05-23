@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Armed Detective Agency"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -280,7 +284,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 15\nBirthday: March 4\nBlood type: O\nHeight: 152 cm\nBWH: 83-57-83\nHobbies: reading\nSkills: solo singing (member of choir)\nFood likes: oranges, anko (sweet bean paste)\nFood dislikes: milk, noodles\n\nA first year student, the daughter of a family who's run a nearby temple for generations. A fan of reading, she has a deep fondness for Japanese literature. She's also a gifted singer, earning her a spot in the choir. Gentle and caring to those around her, but often finds herself going in circles anyway.\n\n(Source: Official website)",
+  "about": "Kunikida, Doppo known as a Detective serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

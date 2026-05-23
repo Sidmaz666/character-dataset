@@ -72,14 +72,18 @@
     "traits": [
       "Intelligent"
     ],
-    "likes": [],
+    "likes": [
+      "Learning"
+    ],
     "dislikes": [],
     "fear": "Unknown",
     "dream": "Unknown",
-    "personality_type": "Unknown",
+    "personality_type": "INTJ",
     "Dream": null,
     "alignment": null,
-    "strengths": [],
+    "strengths": [
+      "Intelligent"
+    ],
     "weaknesses": []
   },
   "character": {
@@ -130,7 +134,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Rogues"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

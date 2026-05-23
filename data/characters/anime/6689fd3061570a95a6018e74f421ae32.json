@@ -115,7 +115,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "UA High",
+        "Class 1-A"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Heroes/Protagonists"
@@ -283,7 +288,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 15\nBirthday: October 30\nHeight: 158 cm (5'2\")\nAffiliation: U.A.\nQuirk: Dark Shadow\n\nA very serious-minded student in class 1-A whose head resembles that of a crow's. His Quirk, \"Dark Shadow\" gives him control of a sentient shadow that has a variety of uses, from attacking to defense to support. Within a dark environment, his shadow becomes more powerful but harder to control. Vice versa, if he is in a environment with a lot of light, it becomes easier to control but far weaker.\n\n(Source: Wikipedia, edited)",
+  "about": "Tokoyami, Fumikage known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

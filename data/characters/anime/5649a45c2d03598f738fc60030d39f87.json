@@ -177,7 +177,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Forger Family",
+        "Eden Academy"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

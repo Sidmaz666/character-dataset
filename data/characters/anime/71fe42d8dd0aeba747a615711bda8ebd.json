@@ -102,7 +102,7 @@
     "face": null,
     "transform": null
   },
-  "about": "Age: 14 \nBirthday: September 12, 2001\nBlood type: B\n\nKensuke Aida is an otaku, a military buff, Toji's best friend, and one of the \"Other Children,\" Eva pilot candidates in the same class as Shinji, Toji, Rei, Asuka, and Hikari. His hobbies include camping in the mountains surrounding Tokyo-3 and playing at simulated war reenacting—by himself. Kensuke solidifies his friendship with Shinji after Shinji saves him and Toji during the fight against the fourth Angel, Shamshel. Kensuke dreams of becom",
+  "about": "Aida, Kensuke known as a Pilot serving as a supporting character from Anime.",
   "publisher": "anime",
   "relationships": {
     "leader": null,
@@ -122,7 +122,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "NERV"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

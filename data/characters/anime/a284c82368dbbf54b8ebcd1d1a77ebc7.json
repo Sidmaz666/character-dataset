@@ -8,7 +8,6 @@
     "species": "Human",
     "race": "Human",
     "height_cm": 680,
-    "weight_kg": 0,
     "age": "Adult",
     "birthday": "Unknown",
     "blood_type": "Unknown",
@@ -16,7 +15,8 @@
     "zodiac": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Black",
@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Thriller Bark Pirates"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,

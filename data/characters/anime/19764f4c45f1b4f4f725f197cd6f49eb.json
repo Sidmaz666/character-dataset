@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Hunter Association"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Target/Hunted"
@@ -288,7 +292,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "The Hunter × Hunter manga series, created by Yoshihiro Togashi, features an extensive cast of characters. It takes place in a fictional universe where licensed specialists known as Hunters travel the world taking on special jobs ranging from treasure hunting to assassination. The story initially focuses on Gon Freecss and his quest to become a Hunter in order to find his father, Ging, who is himself a famous Hunter. On the way, Gon meets and becomes close friends with Killua Zoldyck, Kurapika and Leorio Paradinight.\nAlthough most characters are human, most possess superhuman strength or supernatural abilities due to Nen, the ability to control one's own life energy or aura. The world of the series also includes fantastical beasts such as the Chimera Ants and the Five great calamities.",
+  "about": "Bine, Knuckle known as a Hunter serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

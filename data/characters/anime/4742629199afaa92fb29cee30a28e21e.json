@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Johzenji High"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Karasuno"
@@ -230,7 +234,7 @@
     "face": null,
     "transform": null
   },
-  "about": "Team: Jouzenji\nAge: 16\nYear: 2nd Year, Class 7\nHeight: 177 cm\nWeight: 66.7 kg\nNumber: 1\nPosition: Wing Spiker\nRole: Captain\n\nThe recently instated captain of the Jouzenji volleyball team, as the third years graduated before spring preliminaries. Values spirit and fun over all else, contrary to the teams original motto \"valor and simplicity.\"",
+  "about": "Terushima, Yuuji known as a Student serving as a supporting character from Anime.",
   "publisher": "anime",
   "abilities": [],
   "signature_moves": [],

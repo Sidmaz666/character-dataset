@@ -8,15 +8,15 @@
     "species": "Human",
     "race": "Human",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "-",
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -315,7 +315,7 @@
     "note": null
   },
   "publisher": "dc",
-  "about": "This is a list of characters in the universe of the Cartoon Network's Ben 10 franchise.",
+  "about": "Kevin Ethan Levin is a male is a supporting character from Dc.",
   "note": null,
   "source": "dc"
 }

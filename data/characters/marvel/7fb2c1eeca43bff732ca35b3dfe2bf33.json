@@ -70,7 +70,7 @@
     "traits": [],
     "likes": [],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -88,7 +88,9 @@
     "Created by Stan Lee and Jack Kirby",
     "Invented as Kang in The Avengers #8"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -245,8 +247,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

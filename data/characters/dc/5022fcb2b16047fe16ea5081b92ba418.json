@@ -72,7 +72,7 @@
     "traits": [],
     "likes": [],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Failing to protect others",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -89,7 +89,9 @@
   "achievements": [
     "Created by artist Carmine Infantino and writer John Broome"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -246,8 +248,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],
@@ -265,7 +267,7 @@
     "note": null
   },
   "publisher": "dc",
-  "about": "Wallace Rudolph \"Wally\" West is a superhero appearing in American comic books published by DC Comics as the original Kid Flash and the third Flash,  the fastest man in the multiverse. Created by artist Carmine Infantino and writer John Broome, his power consists mainly of superhuman speed. The nephew of Iris West, he first appeared in Flash #110 (1959), which depicted his transformation into Kid Flash. Under the mantle of Kid Flash, Wally was depicted as a teenage sidekick to his uncle-by-marriage, Barry Allen, and a founding member of the Teen Titans. After Barry's death in Crisis on Infinite Earths in 1985, Wally took on the role of the Flash in 1986, and would be the main Flash until 2009, and again from 2021.\nGenerally portrayed as a white man with red hair and green eyes, Wally was reinterpreted as biracial for DC's 2011 New 52 relaunch. A desire from fans to see the original interpretation of the character restored, however, led to Wally returning in 2016's DC Rebirth, while his New 52 reinterpretation was made into a separate character, Ace West, to avoid confusion.\nWally West has appeared in many other forms of media and was featured as the incarnation of the Flash in the Cartoon Network series Justice League, voiced by Michael Rosenbaum, and the 2010 film Justice League: Crisis on Two Earths, voiced by Josh Keaton. As Kid Flash, he appeared in Cartoon Network's Teen Titans series voiced again by Michael Rosenbaum and subsequently in the Young Justice series, voiced by Jason Spisak. In live action, Keiynan Lonsdale played the character in Arrowverse shows, notably The Flash and Legends of Tomorrow.",
+  "about": "Kid Flash (Wally) is a superhero from DC Comics.",
   "note": null,
   "source": "dc"
 }

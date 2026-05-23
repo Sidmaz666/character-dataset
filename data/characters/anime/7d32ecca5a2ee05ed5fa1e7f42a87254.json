@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Aincrad"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,

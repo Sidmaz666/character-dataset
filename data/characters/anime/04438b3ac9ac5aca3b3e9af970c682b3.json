@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Decay"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -282,7 +286,7 @@
     "story_importance": "Major antagonist",
     "note": null
   },
-  "about": "Birthday: November 11\nAbility: Crime and Punishment\nName in original language (Russian): Фёдор Достоевский (Fyodor Dostoyevskyi)\n\n\nHe is the Head of the Underground Organization \"Rats in the House of the Dead.\"\nHe is a part of the organization \"Decay of Angels.\"",
+  "about": "Dostoevsky, Fyodor known as a Criminal serving as major antagonist from Anime.",
   "note": null,
   "source": "anime"
 }

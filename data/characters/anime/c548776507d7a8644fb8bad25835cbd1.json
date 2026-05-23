@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "San Magnolia"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -282,7 +286,7 @@
     "story_importance": "Protagonist",
     "note": null
   },
-  "about": "Height: 160 cm\nRace: Pureblood Celena\nHair: Silver\nEyes: Silver\n\nShe is more commonly known as Lena by her friends and as Handler One to her subordinates, and is an elite Republican soldier who rose to the rank of Major at the young age of 16. She is the commander of Shin and the Spearhead Squadron, whom she communicates with via the long-distance communication device known as the Para-RAID.\n\n\n\n\n\n(Source: 86 - Eighty Six - Wiki)",
+  "about": "Milizé, Vladilena known as a Handler serving as protagonist from Anime.",
   "note": null,
   "source": "anime"
 }

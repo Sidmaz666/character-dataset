@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Seiren High"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Claudine"
@@ -284,7 +288,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Team: Shiratorizawa Academy\nAge: 18\nBirthday: May 20\nHeight: 187.7cm (6'2\") \nWeight: 71.1kg\nYear: 3rd Year, Class 2\nNumber: 5\nPosition: Middle Blocker\nLikes: Shounen Jump, chocolate ice cream, cute actresses\nOther Name: The Guess Monster",
+  "about": "Tendou, Maya known as a Student serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

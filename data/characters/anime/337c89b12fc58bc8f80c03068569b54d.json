@@ -129,8 +129,12 @@
     "affinity": "Neutral",
     "alignment": "True Neutral"
   },
-  "achievements": [],
-  "titles": [],
+  "achievements": [
+    "student"
+  ],
+  "titles": [
+    "student"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",

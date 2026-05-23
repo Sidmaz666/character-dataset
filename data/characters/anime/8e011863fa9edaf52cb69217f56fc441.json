@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Gotei 13"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

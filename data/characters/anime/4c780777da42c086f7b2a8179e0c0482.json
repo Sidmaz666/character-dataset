@@ -114,7 +114,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "UA High",
+        "Class 1-A"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -288,7 +293,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 15-16\nBirthday: July 1\nBlood Type: AB\nHeight: 177 cm (5'9½\")\n\nA student of the General Department of Education at Yuuei. Despite wanting to be part of the heroics department, his physical fitness test scores were never good enough and his Quirk was always considered to be \"more suitable for a villain.\"",
+  "about": "Shinsou, Hitoshi known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

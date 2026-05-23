@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "China team"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Smile"
@@ -283,7 +287,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Ping Pong (Japanese: ピンポン, Hepburn: Pin Pon) is a Japanese manga series written and illustrated by Taiyō Matsumoto about table tennis. It was serialized in Shogakukan's seinen manga magazine Big Comic Spirits from 1996 to 1997 and collected in five tankōbon volumes. The story follows high schoolers and childhood friends Peco and Smile, as they compete in the national table tennis tournament where they face talented players from all over the country.\nIt was adapted into a 2002 live-action film. An anime television series adaptation produced by Tatsunoko Production and directed by Masaaki Yuasa was aired on Fuji TV's Noitamina block between April and June 2014. In North America, Funimation (later Crunchyroll LLC) licensed the series in 2014. Viz Media released the manga in 2020.",
+  "about": "Kong, Wenge known as a Ping pong player serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

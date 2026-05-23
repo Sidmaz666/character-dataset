@@ -5,7 +5,7 @@
   "full_name": "Frederick Foswell",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 165,
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -312,7 +312,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "Spider-Man is a superhero who appears in American comic books published by Marvel Comics. He is a modern reimagining of the popular character Spider-Man, created in 2011 by writer Brian Michael Bendis and artist Sara Pichelli, along with input by Marvel's then-editor-in-chief Axel Alonso. Miles Morales debuted in Ultimate Comics: Fallout #4.",
+  "about": "Big Man known as a Reporter, professional criminal serving as a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

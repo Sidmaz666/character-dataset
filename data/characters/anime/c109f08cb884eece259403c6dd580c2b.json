@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -275,7 +279,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Monogatari (物語; \"Story\") is a Japanese light novel series written by Nisio Isin and illustrated by Vofan. The story follows Koyomi Araragi, a third-year high school student who survives a vampire attack and finds himself helping girls affected by various supernatural phenomena that act as proxies for their emotional and mental issues. Since November 2006, Kodansha published 29 volumes in the series under its Kodansha Box imprint. All of the series' story arcs share the common title suffix -monogatari (物語).\nShaft has animated the Monogatari series several times since 2009. The \"first season\" of the anime adaptation consists of 30 episodes, which were broadcast in Japan between July 2009 and December 2012. The second season consists of 28 episodes broadcast between July and December 2013, and the \"final season\" consists of 42 episodes broadcast between December 2014 and June 2019. A prequel anime film trilogy, Kizumonogatari, was released in 2016 and 2017. An anime adaptation of the \"Off Season\" and \"Monster Season\" novels aired from July to October 2024. A manga adaptation, illustrated by Oh! great and titled Bakemonogatari, was serialized in Kodansha's Weekly Shōnen Magazine from March 2018 to March 2023.",
+  "about": "Sengoku, Nadeko known as a Student serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

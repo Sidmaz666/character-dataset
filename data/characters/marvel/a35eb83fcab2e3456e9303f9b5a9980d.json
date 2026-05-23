@@ -70,16 +70,20 @@
     "traits": [
       "Intelligent"
     ],
-    "likes": [],
+    "likes": [
+      "Learning"
+    ],
     "dislikes": [
       "Dishonesty"
     ],
-    "fear": "Unknown",
+    "fear": "Failing to protect others",
     "dream": "Unknown",
-    "personality_type": "Unknown",
+    "personality_type": "INTJ",
     "Dream": null,
     "alignment": null,
-    "strengths": [],
+    "strengths": [
+      "Intelligent"
+    ],
     "weaknesses": []
   },
   "character": {
@@ -92,7 +96,9 @@
     "Also known as Mister Fantastic",
     "Created by Stan Lee and Jack Kirby"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -257,8 +263,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

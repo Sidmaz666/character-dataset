@@ -5,18 +5,18 @@
   "full_name": "Adrianna Tomaz",
   "basic_info": {
     "gender": "Female",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "-",
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Shiruta, Kahndaq",
     "place": null,

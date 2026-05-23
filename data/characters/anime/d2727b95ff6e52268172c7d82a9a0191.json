@@ -199,7 +199,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Own faction"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Hogyoku",
@@ -323,7 +327,7 @@
     "This world is meaningless - I will create new meaning."
   ],
   "voice_acting": {
-    "native_language": "Junichi Suwabe",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Kyle Hebert",
@@ -360,7 +364,7 @@
     "story_importance": "Main villain (Soul Society arc)",
     "note": null
   },
-  "about": "Sosuke Aizen (Japanese: 藍（あい）染（ぜん） 惣（そ）右（う）介（すけ）, Hepburn: Aizen Sosuke) is a fictional character in the Japanese manga and anime series Bleach created by Tite Kubo. He is the main antagonist of the first part of the story of Bleach. Serving as captain of the Fifth Division of Soul Reapers when he is introduced, Aizen later fakes his death and horribly betrays the Soul Society in search of immense power to overthrow and defeat the Soul King, before Ichigo Kurosaki and Kisuke Urahara defeat him in the newest iteration. His former lieutenant is Momo Hinamori.",
+  "about": "Sousuke Aizen is a soul reaper/arrancar and a captain/traitor is a main villain (soul society arc) from Anime.",
   "note": null,
   "source": "anime"
 }

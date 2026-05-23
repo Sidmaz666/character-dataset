@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Class 3-E"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

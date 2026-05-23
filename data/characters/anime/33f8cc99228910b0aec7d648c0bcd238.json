@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Yeagerists"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -280,7 +284,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Anya is a young girl who can read other people's thoughts and is the only one who knows of her family's secrets. She is 5 years old, but claims to be 6. Originally an experimental human test subject dubbed \"Subject 007,\" she escaped and moved from one orphanage to another before being adopted by Loid. She likes spy anime and thinks anything involving \"secrets\" and \"missions\" are exciting.",
+  "about": "Floch Forster is a male soldier is a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

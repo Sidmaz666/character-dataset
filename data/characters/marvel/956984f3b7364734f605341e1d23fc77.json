@@ -182,7 +182,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Life Foundation"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Spider-Man"
@@ -321,7 +325,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "The symbiotes, also known as the Klyntar, are a fictional species of extraterrestrial parasitic life forms appearing in American comic books published by Marvel Comics, most commonly in association with Spider-Man. The symbiotes, as their alternative name suggest, form a symbiotic bond with their hosts, through which a single entity is created. They are able to alter their hosts' personalities and memories, often influencing their darkest desires, along with amplifying their physical and emotional traits and personality and thereby granting them super-human abilities. The symbiotes are also weakened when in range of extreme sounds or sonic frequencies. There are more than 40 known symbiotes in the Marvel Universe.",
+  "about": "Agony is a symbiote known as a Symbiote serving as a minor character from Marvel.",
   "note": null,
   "source": "marvel"
 }

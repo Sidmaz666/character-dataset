@@ -108,7 +108,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Survey Corps"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -273,7 +277,7 @@
     "story_importance": "Major character",
     "note": null
   },
-  "about": "Birthday: October 14\nHeight: 188 cm (6' 2\")\nWeight: 92 kg (203 lbs)\nAffiliations: Survey Corps\n\nErwin Smith is the Commander of the Scouting Legion, known for his foresight, intelligence, and drive. His ultimate goal is for humanity to return to its former glory and would sacrifice any number of his men for the sake of mankind as a whole.\n\nNote: Erwin is the official English transliteration by Kodansha.",
+  "about": "Smith, Erwin known as a Commander serving as a major from Anime.",
   "note": null,
   "source": "anime"
 }

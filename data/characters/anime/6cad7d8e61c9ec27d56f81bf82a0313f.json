@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Gang"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -276,7 +280,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Gender: Male\nAge: 32\nHeight: 185 cm (6'1\")\nHair Color: Light Brown\nEye Color: Blue\nBlood Type: O+\n\nMax is a journalist aswell as a reporter First seeing it's effects on his army friend Max, after meeting Ash in prison he then takes it upon himself to continue his investigations into Banana Fish.\nHe served in the United States army alongside his friend Griffin, and was in part of the NYPD for a while. He came to work as a reporter.",
+  "about": "Lobo, Max known as a Gang member serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

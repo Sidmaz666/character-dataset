@@ -206,7 +206,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Various governments"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "X-Men"

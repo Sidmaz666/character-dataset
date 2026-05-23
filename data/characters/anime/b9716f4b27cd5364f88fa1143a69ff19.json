@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kamogawa Boxing Gym"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

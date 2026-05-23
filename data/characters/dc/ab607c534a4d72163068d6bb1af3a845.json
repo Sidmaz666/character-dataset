@@ -132,7 +132,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Metropolis"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Phantom Troupe"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -276,7 +280,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 18\nBirthday: July 7\nHeight: 185 cm\nBlood Type: AB\nWeapon: Acrobatic Finishing, Extreme Spatial Awareness, Physique, Reflex, Drive Shot, Flow State\n\nRyuusei Shidou is a supporting character of the Blue Lock.\n\nShidou unlike most forwards has no concrete dream of becoming the world's best striker but rather seeks to enjoy life to the fullest by playing football.\n\nOut of the original 300 forwards chosen to be apart of the Blue Lock Project, Ryuusei is an ideal candidate for the type of striker Ego strives to create and after the Japan U-20 match, Shidou is ranked as one of the top players in Blue Lock.\n\n(Source: Blue Lock Wiki)",
+  "about": "Ryuseih, Shalnark known as a Troupe member serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

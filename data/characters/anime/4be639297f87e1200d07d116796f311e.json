@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Armed Detective Agency"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -277,7 +281,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 22\nBirthday: June 19\nHeight: 181 cm\nWeight: 67 kg\nBlood type: AB\nLikes: Suicide, sake, women, crabs, Ajinomoto (a Japanese brand of seasoning)\nDislikes: Dogs, Nakahara Chuuya\nAbility: No Longer Human; the ability to nullify other abilities through touch.\n\nDazai Osamu is based on a Japanese author by same name. His ability No longer human is also based on Dazai Osamu's popular Japanese novel by same name.",
+  "about": "Dazai, Osamu known as a Detective serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

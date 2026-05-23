@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Tokyo Police"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,

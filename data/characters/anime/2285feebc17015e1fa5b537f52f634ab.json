@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Given band"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -234,7 +238,7 @@
   "ultimate_move": null,
   "trump_card": null,
   "power_attributes": {
-    "power_type": null,
+    "power_type": "Spiritual Energy",
     "power_source": "Unknown",
     "combat_style": [],
     "weapon": "Unknown",
@@ -274,7 +278,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 22\nHeight: 178 cm\nBirthday: July 13\nBlood type: O\n\nGraduate student. Bassist of the band Given.",
+  "about": "Nakayama, Haruki known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

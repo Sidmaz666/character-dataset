@@ -110,7 +110,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Shie Hassaikai"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -235,7 +239,7 @@
   "ultimate_move": null,
   "trump_card": null,
   "power_attributes": {
-    "power_type": null,
+    "power_type": "Spiritual Energy",
     "power_source": "Unknown",
     "combat_style": [],
     "weapon": "Unknown",
@@ -281,7 +285,7 @@
     "story_importance": "Antagonist",
     "note": null
   },
-  "about": "The My Hero Academia manga and anime series features various characters created by Kōhei Horikoshi. The series takes place in a fictional world where over 80% of the population possesses a superpower, commonly referred to as a \"Quirk\" (個性, Kosei). Peoples' acquisition of these abilities has given rise to both professional heroes and villains.",
+  "about": "Chisaki, Kai known as a Villain serving as antagonist from Anime.",
   "note": null,
   "source": "anime"
 }

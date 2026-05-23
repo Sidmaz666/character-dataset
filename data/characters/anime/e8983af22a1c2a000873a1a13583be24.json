@@ -105,7 +105,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Wammy's House"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

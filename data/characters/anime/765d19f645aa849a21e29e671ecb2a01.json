@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Adventurer party"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

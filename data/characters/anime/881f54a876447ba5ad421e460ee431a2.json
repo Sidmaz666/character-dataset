@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -279,7 +283,7 @@
     "native_name": null,
     "japanese": "Takako Honda"
   },
-  "about": "Birthday: March 8\n\nThe central figure in Yumeko's class. She is very prideful and quick to snap.\n\n(Source: Honey's Anime)",
+  "about": "Saotome, Junko known as a Teacher serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

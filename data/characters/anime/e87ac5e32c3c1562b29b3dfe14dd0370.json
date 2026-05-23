@@ -129,8 +129,12 @@
     "affinity": "Neutral",
     "alignment": "True Neutral"
   },
-  "achievements": [],
-  "titles": [],
+  "achievements": [
+    "Mage"
+  ],
+  "titles": [
+    "Mage"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",

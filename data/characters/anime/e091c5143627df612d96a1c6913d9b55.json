@@ -200,7 +200,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Z Fighters",
+        "Namekians"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"

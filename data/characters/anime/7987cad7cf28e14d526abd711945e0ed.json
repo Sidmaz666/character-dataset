@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Demon Slayer Corps"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -282,7 +286,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "She is a Demon Hunter and the Insect Pillar of the Demon Killing Corps. Due to her below-average physical strength, her sword style relies on poisons, high speed/agility, and straight jabs, somewhat resembling fencing.",
+  "about": "Kochou, Shinobu known as a Hashira serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

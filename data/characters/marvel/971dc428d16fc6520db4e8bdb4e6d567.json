@@ -192,7 +192,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Sakaaran Empire"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Hulk"
@@ -337,7 +341,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "Warlord Kragos is a character from Marvel Comics who serves as Warlord. They possesses the abilities of Superhuman Strength, Combat Skill, Durability. They originates from [object Object].",
+  "about": "Warlord Kragos is a character from Marvel Comics is a Warlord. They possesses the abilities of Superhuman Strength, Combat Skill, Durability. They originates from [object Object].",
   "note": null,
   "source": "marvel"
 }

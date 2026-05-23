@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Santa Prisca",
     "place": null,
@@ -116,7 +116,9 @@
     "Regarded as one of Batman’s most enduring enemies",
     "Created by Chuck Dixon"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

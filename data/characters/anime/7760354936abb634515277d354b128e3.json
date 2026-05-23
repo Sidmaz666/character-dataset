@@ -108,7 +108,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Agency"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -276,7 +280,7 @@
     "story_importance": "Main heroine",
     "note": null
   },
-  "about": "Age: 14 (debut), 24 (end) \nBirthdate: November 5, 1993 \nBlood Type: B \nHeight: 162cm \nWeight: 44kg \n\nAzuki is Mashiro's classmate. Her dream is to be a voice actor. She agreed to marry Mashiro when both of their dreams come true. However, she also told him that in the mean time, they should not have any distractions so they will contact each other only through emails. Her best friend is Kaya Miyoshi. \n\nAlthough her outer image is shy, she is a very mysterious girl. It is sometimes hard to know what she is thinking about.",
+  "about": "Azuki, Miho known as a Student serving as main heroine from Anime.",
   "note": null,
   "source": "anime"
 }

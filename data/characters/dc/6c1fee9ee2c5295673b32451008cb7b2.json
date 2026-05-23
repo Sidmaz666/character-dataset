@@ -74,7 +74,7 @@
     "dislikes": [
       "Dishonesty"
     ],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -91,7 +91,9 @@
   "achievements": [
     "Created by Bob Haney and Nick Cardy and debuted in Aquaman #29 (Septe"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -260,8 +262,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

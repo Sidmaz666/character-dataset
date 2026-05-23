@@ -175,7 +175,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kree Empire"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Opposing faction"

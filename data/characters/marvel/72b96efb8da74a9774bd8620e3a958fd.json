@@ -70,7 +70,7 @@
     "traits": [],
     "likes": [],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Failing to protect others",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -87,7 +87,9 @@
   "achievements": [
     "Created by writer-editor Stan Lee and artist Jack Kirby"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -244,8 +246,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

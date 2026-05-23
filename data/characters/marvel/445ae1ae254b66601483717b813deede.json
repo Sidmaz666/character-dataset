@@ -132,7 +132,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Independent"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

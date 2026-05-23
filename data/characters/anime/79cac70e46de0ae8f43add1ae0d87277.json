@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "CCG"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -272,7 +276,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Species: Human\nAge: 19 (Tokyo Ghoul), 22 (Tokyo Ghoul:re)\nBirthday: June 8\nHeight: 160 cm\nWeight: 47 kg (Tokyo Ghoul), 48 kg (Tokyo Ghoul:re)\nBlood type: AB\nAffiliations: CCG, Ghoul Restaurant (formerly)\nWard: 13th (current), 20th (formerly)\nQuinque: Scorpion 1/56 (Bikaku), 13's Jason (Rinkaku)\n\nJuuzou Suzuya is a Rank 3 Ghoul Investigator. In the past, he went by the name Rei Suzuya. He is the partner of Yukinori Shinohara. He is a young man with an androgynous appearance. He bears stitches on his lips and other places, used as both first-aid and fashion. His hair is pinned with a stitching string in a Roman numeral 13 pattern, and has large pupils that leave an eerie and frightening impression.\n\nJuuzou has a childish, careless behaviour, does not care for the property of others, is enthusiastic, and often very resourceful in his job. He seems to have no qualms in killing ghouls.\n\nAfter the two-year time skip of Tokyo Ghoul:re, Suzuya's hair is dyed black, and he is the leader of his own squad. He demonstrates maturity and even appears to empathize with ghouls unlike before. He is also far more invested in the welfare of his CCG coworkers, and has a particularly close relationship with Sasaki Haise.\n\n(Source: Tokyo Ghoul Wikia)",
+  "about": "Suzuya, Juuzou known as a Investigator serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

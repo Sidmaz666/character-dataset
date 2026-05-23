@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -276,7 +280,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 17\nClass: 2-2\nBirthdate: April 27\nHeight: 186 cm (6'1)\nWeight:  Unknown\nBlood type: O\nSchool: Seika High School\nSpecial skill: Everything he does\nFavorite thing: Observing Misaki work\nFavorite food: Porridge, Misa-chan's omelet rice and anything else she makes\nFavorite word: Ayuzawa Misaki\n\nOne of the most popular boys at Seika High, Usui appears to take little interest in anything and prefers to observe things as they unfold, though proves to be extraordinarily talented in numerous areas. He develops an interest in Misaki and is the first to learn she is working at a maid café, but chooses to keep her secret and soon falls in love with her. While she dismisses his behavior simply as harassment and teasing (but claims he just wanted to see her \"interesting expressions\"), he continues to watch over and protect her no matter what it takes like injuring himself in the process, as well as offering insightful advice on how to deal with the boys at Seika effectively and fairly. He appears to be the only male student at school that Misaki is willing to speak to as an equal. Little is known about Usui's background and he is reluctant to speak about it, though he reveals a willingness to tell Misaki. He has an older brother and lives alone in an apartment.",
+  "about": "Usui, Kazuyoshi known as a Teacher serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Shirone"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -278,7 +282,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Race: Half-Alv\nClass: Enchanter\nSubclass: Scribe\nAffiliation: Debauchery Tea Party\n\nShiroe was a graduate student majoring in engineering when he was trapped in the game Elder Tale. Naturally a cautious and thoughtful introvert, he has played the game since middle school and is a veteran with a near-encyclopaedic knowledge of the game, which is known for its depth and complexity.\n\nAlthough Shiroe is socially awkward and tends to be asocial, he does not actually dislike other people. Instead, he is fiercely independent and wary of others who approach him with ulterior motives. He is not above helping people who are really in need, and he appears to have a soft spot for beginners—for example for the twins Tohya and Minori. In addition, he can be quite protective of people he cares for, a trait that Nyanta used to tease him about.",
+  "about": "Shirone, Zanoba known as a Prince serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

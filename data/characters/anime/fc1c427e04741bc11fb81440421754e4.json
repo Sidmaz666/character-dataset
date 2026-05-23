@@ -177,7 +177,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Black Bulls",
+        "Clover Kingdom"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -315,7 +320,7 @@
     "note": null
   },
   "publisher": "anime",
-  "about": "Age: 15-16\n\n\nHeight: 155 cm\nBirthday (the day he was found at the church): October 4\nSign: Libra\nBlood type: A\nLikes: Sister Lily\n\nAsta is an orphan who was left under the care of a church in the village of Hage. He has dreams of being the Wizard King, however, he is unable to use magic and trains a lot to have good physical strength. The grimoire he received held a five leaf clover, a number never heard of before.\n\nA four-leaved clover is considered extremely lucky, but within a five-leaved clover, resides a demon.",
+  "about": "Asta is a minor character from Anime.",
   "note": null,
   "source": "anime"
 }

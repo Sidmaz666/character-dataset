@@ -5,7 +5,7 @@
   "full_name": "Salu Digby",
   "basic_info": {
     "gender": "Female",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 168,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "United Planets, 31st century",
     "place": null,

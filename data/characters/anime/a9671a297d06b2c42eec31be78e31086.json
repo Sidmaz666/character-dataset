@@ -218,7 +218,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Holy Church",
+        "Mages' Association"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Kiritsugu Emiya (rival)"
@@ -344,7 +349,7 @@
     "I have no wish for the Grail. I wish to see the results of wishes."
   ],
   "voice_acting": {
-    "native_language": "Sayori Ochi",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Crispin Freeman",

@@ -5,7 +5,7 @@
   "full_name": "Kendra Saunders",
   "basic_info": {
     "gender": "Female",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 175,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "St. Roch, Louisiana, JLA Watchtower; formerly Manhattan, New York (as a member of the JSA)",
     "place": null,

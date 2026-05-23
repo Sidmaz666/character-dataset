@@ -158,7 +158,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Eisler Memorial Hospital"
+      ]
+    ],
     "enemy": [
       "Villains/Antagonists"
     ],
@@ -272,7 +276,7 @@
     "I will find that monster."
   ],
   "voice_acting": {
-    "native_language": "Hidenobu Kiuchi",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Unknown",

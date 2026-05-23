@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Araragi"
@@ -287,7 +291,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Shinobu is a girl who lives with Meme in an abandoned building. She loves donuts from \"Mister Donut.\" She was named Shinobu by Meme at the beginning of Hitagi Crab, suggesting her kanji name Shinobu (忍), having \"heart\" (心) under \"blade\" (刃), matches with her original personality.",
+  "about": "Ougi Oshino is a oddity and a student is a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -72,16 +72,20 @@
     "traits": [
       "Loyal"
     ],
-    "likes": [],
+    "likes": [
+      "Spending time with friends"
+    ],
     "dislikes": [
       "Dishonesty"
     ],
     "fear": "Unknown",
     "dream": "Unknown",
-    "personality_type": "Unknown",
+    "personality_type": "ISTJ",
     "Dream": null,
     "alignment": null,
-    "strengths": [],
+    "strengths": [
+      "Loyal"
+    ],
     "weaknesses": []
   },
   "character": {
@@ -132,7 +136,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Blue Lantern Corps"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Various"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

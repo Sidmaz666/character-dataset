@@ -113,7 +113,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "UA High",
+        "Class 1-B"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Class 1-A"

@@ -8,7 +8,6 @@
     "species": "Human",
     "race": null,
     "bloodline": null,
-    "height_cm": 0,
     "weight_kg": 1918.7,
     "age": null,
     "birthday": "Unknown",
@@ -16,7 +15,8 @@
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null
   },
   "appearance": {
     "eye_color": "Blue",
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null

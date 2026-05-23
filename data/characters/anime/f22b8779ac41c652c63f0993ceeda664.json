@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Steel Ball Run"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Johnny"
@@ -282,7 +286,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Birthday: 1867\nAge: 13-121\nGender: Male\nHeight: 185 cm (6'1\") ,  195 cm (6'5\")\nRace: Human (formerly), Vampire (onwards)\nNationality: British\n\nThe central villain of the JoJo's Bizarre Adventure series, Dio is an immortal vampire and the arch rival of the Joestar family.\n\n\nPart 1: Phantom Blood\n\nPart 3: Stardust Crusaders\n\nPart 6: Stone Ocean",
+  "about": "Brando, Diego known as a Jockey serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

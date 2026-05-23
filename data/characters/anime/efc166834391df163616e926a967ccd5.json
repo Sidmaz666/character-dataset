@@ -114,7 +114,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Vikings"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Opposing faction"

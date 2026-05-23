@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Mobile",
     "place": null,
@@ -99,7 +99,9 @@
     "likes": [
       "Protecting others"
     ],
-    "dislikes": [],
+    "dislikes": [
+      "Losing"
+    ],
     "fear": "Low intelligence",
     "dream": "Various",
     "personality_type": "ENFJ",

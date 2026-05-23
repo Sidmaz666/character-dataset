@@ -7,15 +7,15 @@
     "species": "Supe Team",
     "race": "N/A",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
-    "age": "Decades old (disbanded)",
+    "age": "Unknown",
     "birthday": "N/A",
     "zodiac": "N/A",
     "blood_type": "N/A",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "N/A",
@@ -303,7 +303,7 @@
     "We were the first. We should be the best."
   ],
   "voice_acting": {
-    "native_language": "N/A",
+    "native_language": "English",
     "english": "N/A",
     "note": null,
     "native_name": null,
@@ -335,7 +335,7 @@
   },
   "id": "a5d13200a4d69911d36333885193d379",
   "publisher": "the_boys",
-  "about": "The third season of the American satirical superhero television series The Boys, the first series in the franchise based on the comic book series of the same name written by Garth Ennis and Darick Robertson, was developed for television by American writer and television producer Eric Kripke. The season is produced by Sony Pictures Television Studios and Amazon Studios in association with Point Grey Pictures, Original Film, Kripke Enterprises, Kickstart Entertainment and KFL Nightsky Productions.",
+  "about": "Payback is a supe team known as a Superhero Team from The Boys.",
   "note": null,
   "source": "the_boys"
 }

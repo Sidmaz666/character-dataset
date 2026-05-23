@@ -5,7 +5,7 @@
   "full_name": "Ares",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 185,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Avengers Tower, formerly Olympus",
     "place": null,
@@ -103,7 +103,7 @@
     "dislikes": [
       "Dishonesty"
     ],
-    "fear": "Unknown",
+    "fear": "Aggressive",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -111,7 +111,9 @@
     "strengths": [
       "Brave"
     ],
-    "weaknesses": []
+    "weaknesses": [
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Character arc summary",
@@ -143,8 +145,12 @@
     "total": 457
   },
   "weaknesses": {
-    "list": [],
-    "factors": []
+    "list": [
+      "Aggressive"
+    ],
+    "factors": [
+      "aggressive"
+    ]
   },
   "relationships": {
     "nemesis": "Wonder Woman",

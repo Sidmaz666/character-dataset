@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Boreas"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -276,7 +280,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Rudeus Greyrat is a reincarnated NEET who died, but his memories of his past life remained. His current body possesses high affinity for magic, even as a child.",
+  "about": "Eris Boreas Greyrat is a female swordswoman is a main character from Anime.",
   "note": null,
   "source": "anime"
 }

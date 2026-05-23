@@ -4,19 +4,19 @@
   "native_name": null,
   "full_name": "Ego",
   "basic_info": {
-    "gender": "-",
-    "species": null,
+    "gender": "Unknown",
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "-",
@@ -298,7 +298,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "Ego the Living Planet is a fictional character appearing in American comic books published by Marvel Comics. The character first appeared in Thor #132 and was created by writer Stan Lee and artist Jack Kirby.",
+  "about": "Ego known as a Inapplicable serving as a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

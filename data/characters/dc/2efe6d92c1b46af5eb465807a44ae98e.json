@@ -8,15 +8,15 @@
     "species": "Kryptonian",
     "race": "Kryptonian",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Black",
@@ -93,7 +93,7 @@
       "Protecting others"
     ],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,

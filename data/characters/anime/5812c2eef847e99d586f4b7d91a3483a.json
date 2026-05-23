@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Seiren High"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Maya"
@@ -281,7 +285,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Birthday: April 20 (Aries)\nAge: 28\nBlood type: A\nHeight: 176cm (5'9\")\nWeight: 55kg (121 lbs)\nOccupation: Actor (20 years experience)\nRepresentation: Nitto Entertainment (Nichigei)\n\nVeteran actor with 20 years of experience in the entertainment industry. He enjoys crushing young actors' careers as a hobby.\n\nUntil recently, he had been the \"Sexiest Man of the Year\" for five years in a row.\n\n(Source: Aniplex USA)",
+  "about": "Saijou, Claudine known as a Student serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

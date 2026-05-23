@@ -5,7 +5,7 @@
   "full_name": "Martha Franklin",
   "basic_info": {
     "gender": "Female",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 173,
@@ -119,7 +119,9 @@
   "achievements": [
     "Created in 2011 by writer Brian Michael Bendis and artist Sara Pichel"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

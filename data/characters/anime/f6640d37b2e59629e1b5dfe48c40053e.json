@@ -174,7 +174,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Blue Lock",
+        "Team Z"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -312,7 +317,7 @@
     "note": null
   },
   "publisher": "anime",
-  "about": "Race: Human\nAge: 18\nHeight: 177 cm (5'9¾\")\nAbilities: \nHe was the best disciple of Bang's dojo, until he went on a rampage against the other students and disabled many of them for life. He was expelled after getting a beating by Bang.\n\n\n(Source: One-Punch Man Wiki)",
+  "about": "Barou Shoei is a minor character from Anime.",
   "note": null,
   "source": "anime"
 }

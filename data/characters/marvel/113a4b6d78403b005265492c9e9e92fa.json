@@ -190,7 +190,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Life Foundation"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Spider-Man"

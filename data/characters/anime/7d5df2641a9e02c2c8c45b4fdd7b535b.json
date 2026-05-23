@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -272,7 +276,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Birthday: May 25, 1980\n\nOdokawa, a 41-year-old taxi driver, is an eccentric and quiet walrus who does not open up to others. He has a serious and compassionate side. His hobbies include listening to rakugo before going to bed and listening to the radio while working. \n\n(Source: Odd Taxi Wiki, edited)",
+  "about": "Uchiyamada, Hiroshi known as a Teacher serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -110,7 +110,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "UA High",
+        "Class 1-A"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -278,7 +283,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 15\nBirthday: June 16\nHeight: 152cm (5'0\")\nAffiliation: U.A.\nQuirk: Invisibility \n\nTooru is a bubbly, cheery, easy going girl that does most things with an upbeat attitude. \n\n(Source: Boku no Hero Academia Wiki)",
+  "about": "Hagakure, Tooru known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

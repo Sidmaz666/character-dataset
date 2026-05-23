@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "CCG"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -283,7 +287,7 @@
     "story_importance": "Protagonist",
     "note": null
   },
-  "about": "The legendary archrival of Miyamoto Musashi. Raised by Kanemaki Jisai, after he is found as a baby in casket, floating on the ocean.\n\nHe develops an intense attachment to swords and fencing at an early age, possessing an almost preternatural ability to react to his opponents' moves. \n\nKojirou is deaf and mute, though still literate. His personality is very playful, almost child-like. Ittousai has also commented on the possibility that Kojirou's eyes have become better developed to compensate for his lack of hearing.\n\nKojirou is renowned for his \"Tsubame Gaeshi\" (Turning Swallow Cut) technique, inspired by the movement of a swallow in flight.\n\nNo voice actors have been added to this character. Help improve our database by searching for a voice actor, and adding this character to their roles .",
+  "about": "Haise Sasaki is a ghoul and a investigator is a protagonist from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -72,7 +72,7 @@
     "traits": [],
     "likes": [],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -89,7 +89,9 @@
   "achievements": [
     "Known as the Yellow Lantern Corps"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -130,7 +132,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Sinestro Corps"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -248,8 +254,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Potential exists",
     "power_evolution": [],

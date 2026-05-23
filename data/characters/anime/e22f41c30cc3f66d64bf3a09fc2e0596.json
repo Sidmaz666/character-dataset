@@ -115,7 +115,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Homurahara Academy",
+        "Mage Association"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -224,7 +229,7 @@
     "mentors": []
   },
   "voice_acting": {
-    "native_language": "Atsuko Tanaka",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Unknown",
@@ -287,7 +292,7 @@
     "story_importance": "Supporting",
     "note": null
   },
-  "about": "Height: 165 cm\nWeight: 53 kg\n\nShe is an English teacher at Shirou's school, homeroom instructor of Shirou's class and the supervising teacher for the archery dojo. She is widely called \"Tiger,\" a nickname she dislikes (\"Taiga\" and \"Tiger\" sound similar in Japanese), though Shirou refers to her as \"Fuji-nee\" (older sister Fuji). After Kiritsugu died, Taiga became Shirou's guardian and has been living with him for several years. Taiga and Shirou are very close, and she regards him as a younger brother.\n\nShe's initially distrustful of Saber, believing that \"some strange woman was trying to take Shirou from her\" as she put it. She becomes exasperated whenever a new girl appears at Shirou's house, thinking he stashes girls at his house. Taiga always shows up for breakfast and dinner at Shirou's house to have some of Sakura's cooking, and always saves some scraps from breakfast for her lunch.\n\n\n(Source: Wikipedia)",
+  "about": "Taiga Fujimura is a teacher/magical researcher serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

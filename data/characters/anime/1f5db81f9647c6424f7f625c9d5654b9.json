@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Given band"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -274,7 +278,7 @@
     "story_importance": "Protagonist",
     "note": null
   },
-  "about": "Age: 17 Height: 165 cm\n\nThe main protagonist of KonoSuba. A sixteen-year-old Japanese teenager who became a game-obsessed shut-in after having his heart broken over his childhood friend during middle school. He is sent to the parallel reality after dying from acute stress reaction, forcing Aqua to come with him after she irritates him with her attitude. Kazuma is classed as an Adventurer which, despite being the lowest ranked class, allows him to learn various skills from other classes, albeit at an increased cost. With his ability, Kazuma learns basic skills such as stealing, archery, monster detection, and basic magic.\n\n(Source: Wikipedia)",
+  "about": "Satou, Mafuyu known as a Student serving as protagonist from Anime.",
   "note": null,
   "source": "anime"
 }

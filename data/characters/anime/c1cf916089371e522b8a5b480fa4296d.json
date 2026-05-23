@@ -177,7 +177,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Defense Force",
+        "Kaiju No. 8"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

@@ -97,7 +97,7 @@
       "Protecting others"
     ],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Aggressive",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -105,7 +105,9 @@
     "strengths": [
       "Brave"
     ],
-    "weaknesses": []
+    "weaknesses": [
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Character arc summary",
@@ -134,8 +136,12 @@
     "total": 579
   },
   "weaknesses": {
-    "list": [],
-    "factors": []
+    "list": [
+      "Aggressive"
+    ],
+    "factors": [
+      "aggressive"
+    ]
   },
   "relationships": {
     "nemesis": null,

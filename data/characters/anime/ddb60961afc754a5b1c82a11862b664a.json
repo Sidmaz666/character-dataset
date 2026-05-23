@@ -105,7 +105,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Student council"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -269,7 +273,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Birthday: March 3\nBlood Type: O\nHeight: 154 cm\n\nChika Fujiwara is the secretary of the Shuchiin Academy student council. She has been friends with Shinomiya since middle school. She is ditzy and likes to gossip and often throws a wrench in Shinomiya and Shirogane's plans due to her unpredictability. Even so, she is quite a bit more well-adjusted than her fellow student council members and sometimes takes it upon herself to teach them how to overcome their shortcomings.",
+  "about": "Fujiwara, Chika known as a Student serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Chandilar, Shi'ar Galaxy; mobile throughout the Shi'ar Empire and surrounding galaxies.",
     "place": null,
@@ -109,7 +109,9 @@
     "strengths": [
       "Brave"
     ],
-    "weaknesses": []
+    "weaknesses": [
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Character arc summary",
@@ -140,8 +142,12 @@
     "total": 497
   },
   "weaknesses": {
-    "list": [],
-    "factors": []
+    "list": [
+      "Aggressive"
+    ],
+    "factors": [
+      "aggressive"
+    ]
   },
   "relationships": {
     "nemesis": null,

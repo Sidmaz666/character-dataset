@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Bizarro World",
     "place": null,
@@ -97,7 +97,7 @@
       "Protecting others"
     ],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Losing power",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -116,7 +116,9 @@
   "achievements": [
     "Powers and Abilities"
   ],
-  "titles": [],
+  "titles": [
+    "Supervillain"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,

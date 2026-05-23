@@ -74,7 +74,7 @@
     "traits": [],
     "likes": [],
     "dislikes": [],
-    "fear": "Unknown",
+    "fear": "Failing to protect others",
     "dream": "Unknown",
     "personality_type": "Unknown",
     "Dream": null,
@@ -92,7 +92,9 @@
     "Known as Batwoman",
     "Created by writers Greg Rucka"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -261,8 +263,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

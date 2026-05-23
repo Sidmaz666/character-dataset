@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -294,7 +294,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "Century is a character from Marvel Comics who serves as Tracker, adventurer. They originates from [object Object].",
+  "about": "Century is a character from Marvel Comics is a Tracker, adventurer. They originates from [object Object].",
   "note": null,
   "source": "marvel"
 }

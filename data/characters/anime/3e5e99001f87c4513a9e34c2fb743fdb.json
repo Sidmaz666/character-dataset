@@ -177,7 +177,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Defense Force",
+        "Tactical Unit"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -315,7 +320,7 @@
     "note": null
   },
   "publisher": "anime",
-  "about": "Age: 15\nBirthday: July 30\nHeight: 159cm (5'3\")\nAffiliation: U.A.\nQuirk: Acid\n\nA student in class 1-A with pink hair and lilac skin. Her Quirk is \"Acid\" and is able to excrete an acidic fluid from her body, as well as controlling its corrosive strength and stickiness. She initially chose \"Alien Queen\" as her Hero name, but later chose \"Pinky\" after the whole class compared the first choice to the xenomorph.\n\n(Source: Wikipedia)",
+  "about": "Mina Ashiro is a minor character from Anime.",
   "note": null,
   "source": "anime"
 }

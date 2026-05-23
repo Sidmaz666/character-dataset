@@ -5,7 +5,7 @@
   "full_name": "Calvin Montgomery Rankin",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 188,
@@ -101,7 +101,7 @@
     "dislikes": [
       "Dishonesty"
     ],
-    "fear": "Unknown",
+    "fear": "Aggressive",
     "dream": "Various",
     "personality_type": "ENFJ",
     "Dream": null,
@@ -109,7 +109,9 @@
     "strengths": [
       "Brave"
     ],
-    "weaknesses": []
+    "weaknesses": [
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Character arc summary",
@@ -142,8 +144,12 @@
     "total": 354
   },
   "weaknesses": {
-    "list": [],
-    "factors": []
+    "list": [
+      "Aggressive"
+    ],
+    "factors": [
+      "aggressive"
+    ]
   },
   "relationships": {
     "nemesis": null,

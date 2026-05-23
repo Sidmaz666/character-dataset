@@ -187,7 +187,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Illyasviel von Einzbern (Master)"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Gilgamesh (defeated by)"
@@ -308,7 +312,7 @@
     "This is the power of a hero!"
   ],
   "voice_acting": {
-    "native_language": "Joji Nakata",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Kyle Hebert",
@@ -347,7 +351,7 @@
     "story_importance": "Servant",
     "note": null
   },
-  "about": "Height: 191 cm\nWeight: 81 kg\nMaster: Matou Kariya\nHoly Grail War Number: 4th Holy Grail War\n\nBerserker is known to have three distinct Noble Phantasms, as shown on his status page. However, due to the enchantment that obscured his identity, his status page was shown blurred, making it impossible to identify the specific names and natures of his Phantasms, save for the sword Arondight. In addition, this Berserker is uniquely able to make anything he chooses into his own Noble Phantasm and effectively wield them, from telephone poles to the Noble Phantasms of other Servants.\n\n\n(Source: Wikipedia)",
+  "about": "Heracles (Berserker) is a divine spirit/heroic spirit a berserker-class servant from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -103,7 +103,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Howl Pendragon",
+        "Moving Castle household"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -215,7 +220,7 @@
     "mentors": []
   },
   "voice_acting": {
-    "native_language": "Chieko Baisho",
+    "native_language": "Japanese",
     "note": null,
     "native_name": null,
     "english": "Unknown",

@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Given band"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -232,7 +236,7 @@
   "ultimate_move": null,
   "trump_card": null,
   "power_attributes": {
-    "power_type": null,
+    "power_type": "Spiritual Energy",
     "power_source": "Unknown",
     "combat_style": [],
     "weapon": "Unknown",
@@ -272,7 +276,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Affiliation(s): NERV\nRank: Special Inspector\nAge: 30\nBirthday: June 17, 1985\nKnown relatives: Misato Katsuragi (lover, former girlfriend), Asuka Langley Soryu (former guardian of)\nBlood type: A \n\nKaji, while only being a special inspector, secretly works for SEELE investigating NERV's true intentions. He is always called by his last name, Kaji. During college, he had a serious relationship with Misato, but after having long broken up, they see each other again on the UN fleet ferrying Unit 02 and its pilot, Asuka Langley Soryu, to Japan.",
+  "about": "Kaji, Akihiko known as a Student serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

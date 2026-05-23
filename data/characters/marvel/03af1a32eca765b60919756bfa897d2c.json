@@ -4,19 +4,19 @@
   "native_name": null,
   "full_name": "One-Above-All",
   "basic_info": {
-    "gender": "-",
+    "gender": "Unknown",
     "species": "Cosmic Entity",
     "race": "Cosmic Entity",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": null,
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "-",
@@ -28,9 +28,9 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
-    "base_of_operations": "-",
+    "base_of_operations": "Unknown",
     "place": null,
     "current": null,
     "base": null
@@ -292,7 +292,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "The Celestials are fictional characters appearing in American comic books published by Marvel Comics. Depicted as cosmic beings, they debuted in the Bronze Age of Comic Books and have reappeared on numerous occasions.",
+  "about": "One-Above-All is a cosmic entity serving as a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

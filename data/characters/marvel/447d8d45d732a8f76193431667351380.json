@@ -5,7 +5,7 @@
   "full_name": "Callisto",
   "basic_info": {
     "gender": "Female",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 175,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship",
     "place": null,
@@ -99,7 +99,10 @@
     "likes": [
       "Protecting others"
     ],
-    "dislikes": [],
+    "dislikes": [
+      "Losing",
+      "Chaos"
+    ],
     "fear": "Slow speed",
     "dream": "Various",
     "personality_type": "ENFJ",

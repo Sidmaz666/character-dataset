@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Decay"
+      ]
+    ],
     "enemy": [
       "Heroes/Protagonists"
     ],
@@ -282,7 +286,7 @@
     "story_importance": "Antagonist",
     "note": null
   },
-  "about": "Bungo Stray Dogs (Japanese: 文豪ストレイドッグス, Hepburn: Bungō Sutorei Doggusu; lit. 'Literary Stray Dogs'), also abbreviated as BSD, is a Japanese manga series written by Kafka Asagiri and illustrated by Sango Harukawa, which has been serialized in Kadokawa Shoten's seinen manga magazine Young Ace since 2012. Each character is named after influential authors and writers of the late 19th century to early 20th century and their powers are based on said author's books. The series follows the members of the Armed Detective Agency as they try to protect Yokohama from organizations such as the Port Mafia. The story mainly focuses on the weretiger Atsushi Nakajima, who joins others gifted with supernatural powers to accomplish different tasks including solving mysteries and carrying out missions assigned by the agency.\nAs of 2025, ten light novels have been published. An anime television series adaptation produced by Bones aired in 2016 in two parts; the first season aired between April and June 2016, and the second season aired between October and December 2016. An anime film, Bungo Stray Dogs: Dead Apple, was released in March 2018. A third season aired between April and June 2019. A fourth season aired between January and March 2023. A fifth season aired from July to September 2023.\nA spin-off television series adaptation of Bungo Stray Dogs Wan! aired from January to March 2021, with a second season set to premiere in July 2026. A live-action film, Bungo Stray Dogs The Movie: Beast, was released in Japan in January 2022.",
+  "about": "Montgomery, Lucy Maud known as a Criminal serving as antagonist from Anime.",
   "note": null,
   "source": "anime"
 }

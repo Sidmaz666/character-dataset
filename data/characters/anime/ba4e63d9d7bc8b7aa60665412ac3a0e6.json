@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Shiratorizawa Academy"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Hinata, Kageyama"
@@ -279,7 +283,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Team: Shiratorizawa Academy\nAge: 18\nBirthday: August 13\nHeight: 189.5 cm (6' 2.6\")\nWeight: 84.8 kg (187 lbs)\nYear: 3rd Year, Class 3\nNumber: 1\nPosition: Wing Spiker\nFavorite Food: hayashi rice\nCurrent Concern: None.\nOther Name: Super Ace, The Lefty, Ushiwaka/Ushiwaka-chan (by Oikawa), Japan (by Hinata)\n\nWakatoshi Ushijima is a third year at Shiratorizawa Academy and the captain and ace of the school's boys' volleyball team. Currently, he is the number one ace in the Miyagi Prefecture and one of the country's top three aces, along with Sakusa and Kiryu.",
+  "about": "Ushijima, Wakatoshi known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

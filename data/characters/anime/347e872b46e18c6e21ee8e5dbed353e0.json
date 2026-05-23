@@ -114,7 +114,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Hunter Association"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Gon"
@@ -287,7 +291,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 22\nBlood type: A\nOccupation: Hunter\nNen type: Enhancement\n\nPalm Siberia is Knov's apprentice who develops a crush on Gon at one stage. She, on most occasions, has scruffy hair and too much make-up, not too mention a frightening aura caused by stress. However, sometimes she will do herself up and looks stunning.",
+  "about": "Siberia, Palm known as a Hunter serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

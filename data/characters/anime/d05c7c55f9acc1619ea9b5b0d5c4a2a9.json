@@ -112,7 +112,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Armed Detective Agency"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -281,7 +285,7 @@
     "story_importance": "Major character",
     "note": null
   },
-  "about": "Age: 45\nBirthday: January 10\nHeight: 186 cm\nWeight: 71 kg\nBlood type: B\nLikes: Cats, sukiyaki, alcohol, equality\nDislikes: Feudalism\nAbility: All Men Are Equal; allows him to suppress the abilities of those in the Armed Detective Agency. According to Dazai, it can “adjust the power of their abilities so that they may be controlled.” However, applicants have to pass an \"exam entrance\" (i.e. they have to display values compatible with the Agency's in perilous situations) to fall under the range of the ability.\n\nPresident of the Armed Detective Agency.",
+  "about": "Fukuzawa, Yukichi known as a Detective serving as a major from Anime.",
   "note": null,
   "source": "anime"
 }

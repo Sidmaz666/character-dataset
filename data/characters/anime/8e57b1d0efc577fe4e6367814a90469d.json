@@ -112,7 +112,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "UA High",
+        "Class 3-A"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,
@@ -282,7 +287,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 17\nBirthday: March 4\nHeight: 177 cm (5'9½\")\nAffiliation: Yuuei\nQuirk: Manifest\n\nTamaki is a third-year student at Yuuei High and is part of The Big Three.\n\n(Source: Boku no Hero Academia Wiki)",
+  "about": "Amajiki, Tamaki known as a Student serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

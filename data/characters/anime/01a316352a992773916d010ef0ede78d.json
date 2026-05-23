@@ -117,7 +117,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Port Mafia"
+      ]
+    ],
     "partner": null,
     "father": null,
     "mother": null,
@@ -281,7 +285,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 22\nBirthday: April 29\nHeight: 160cm\nWeight: 60kg\nBlood type: B\nLikes: Hats, fighting, booze, music\nDislikes: Osamu Dazai\nAbility: For the Tainted Sorrow; \n\nExecutive Member of the Port Mafia.\n\n\n(Source: Easy Going Scans)",
+  "about": "Nakahara, Chuuya known as a Executive serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

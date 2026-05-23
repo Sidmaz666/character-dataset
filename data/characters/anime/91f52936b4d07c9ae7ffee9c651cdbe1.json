@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Hunter Association"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Target/Hunted"

@@ -117,7 +117,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Warriors"
+      ]
+    ],
     "enemy": [
       "Opposing faction"
     ],

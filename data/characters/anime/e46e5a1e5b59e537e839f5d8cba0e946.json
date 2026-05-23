@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Dead End"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Opposing faction"
@@ -284,7 +288,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Birth Date: March 13\nGender: Male\nAge: 22, 32 (future self)\nHeight: 182 cm\nWeight: 75 kg\nBlood Type: O\nFlame: Rain\n\nSuperbi Squalo is an assassin and the second-in-command of the Varia, the Vongola family's independent assassin squad. He is most notable for his long silver hair, and is always seen wearing his Varia uniform in both the anime and the manga.\n\nHe is a very loud character, and has a tendency to shout \"VOOOI!!!\" (the Italian version of the plural \"You\") before saying something or while in battle.\n\nSqualo is known as one of the \"Vongola's Sword Masters\", other being Yamamoto Takeshi. For that reason, Yamamoto somewhat admires him as a awesome swordsman. He was also Yamamoto's tutor.\n\nHe is supposed to represent the sin of Pride since his name, Superbi, comes from \"superbia\", Latin term for pride.",
+  "about": "Superdia, Ruijerd known as a Warrior serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

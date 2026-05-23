@@ -132,7 +132,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "H.I.V.E.",
+        "Titans"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

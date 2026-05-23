@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Adventurer party"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -282,7 +286,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Delicious in Dungeon (Japanese: ダンジョン飯, Hepburn: Danjon Meshi; lit. 'Dungeon Meals'), is a Japanese manga series written and illustrated by Ryoko Kui. It was serialized in Enterbrain's seinen manga magazine Harta from February 2014 to September 2023, with its chapters collected in 14 tankōbon volumes. The story follows a group of adventurers in a fantasy world who, after failing to defeat a dragon that consumed one of their own, embark on a journey through a dungeon to revive her, surviving by cooking and eating the monsters they encounter along the way.\nYen Press has licensed the series in North America. An anime television series adaptation produced by Trigger aired from January to June 2024. A second season has been announced.",
+  "about": "Donato, Marcille is a elf known as a Mage serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

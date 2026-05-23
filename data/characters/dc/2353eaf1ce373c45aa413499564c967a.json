@@ -5,7 +5,7 @@
   "full_name": "Richard Rogers Flag",
   "basic_info": {
     "gender": "Male",
-    "species": null,
+    "species": "Unknown",
     "race": null,
     "bloodline": null,
     "height_cm": 185,
@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Belle Reve, Louisiana",
     "place": null,
@@ -97,7 +97,10 @@
     "likes": [
       "Protecting others"
     ],
-    "dislikes": [],
+    "dislikes": [
+      "Chaos",
+      "Betrayal"
+    ],
     "fear": "The truth being hidden",
     "dream": "Various",
     "personality_type": "ENFJ",

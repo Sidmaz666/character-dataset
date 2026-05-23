@@ -8,15 +8,15 @@
     "species": "Cosmic Entity",
     "race": "Abstract Entity",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": "Eternal",
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Unknown",

@@ -62,7 +62,9 @@
   "power_attributes": {
     "power_type": "Superhuman",
     "power_source": "Various",
-    "combat_style": [],
+    "combat_style": [
+      "Magic"
+    ],
     "weapon": "Staff",
     "equipment": [
       "Staff"
@@ -82,7 +84,9 @@
     "Dream": null,
     "alignment": null,
     "strengths": [],
-    "weaknesses": []
+    "weaknesses": [
+      "Aggressive"
+    ]
   },
   "character": {
     "arc": "Unknown",
@@ -94,7 +98,9 @@
     "Considered a goddess or a nymph",
     "Renowned for her vast knowledge of potions and herbs"
   ],
-  "titles": [],
+  "titles": [
+    "Mage"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -135,7 +141,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Sorceress"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,

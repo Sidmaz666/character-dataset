@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kunugigaoka"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Class 3-E"

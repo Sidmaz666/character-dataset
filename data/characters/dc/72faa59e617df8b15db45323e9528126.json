@@ -73,16 +73,20 @@
     "traits": [
       "Brave"
     ],
-    "likes": [],
+    "likes": [
+      "Protecting others"
+    ],
     "dislikes": [
       "Dishonesty"
     ],
-    "fear": "Unknown",
+    "fear": "Failing to protect others",
     "dream": "Unknown",
-    "personality_type": "Unknown",
+    "personality_type": "ENFJ",
     "Dream": null,
     "alignment": null,
-    "strengths": [],
+    "strengths": [
+      "Brave"
+    ],
     "weaknesses": []
   },
   "character": {
@@ -94,7 +98,9 @@
   "achievements": [
     "Created by writer Gardner Fox and artist Joe Kubert"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": "Unknown",
@@ -135,7 +141,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Justice League",
+        "Thanagar"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -254,8 +265,8 @@
     "japanese": "Unknown"
   },
   "story": {
-    "status": "Unknown",
-    "fate": "Unknown",
+    "status": "Active",
+    "fate": "Alive",
     "transformation": null,
     "awakening_potential": "Awakened",
     "power_evolution": [],

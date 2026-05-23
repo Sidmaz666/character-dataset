@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Wandenreich"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Heroes/Protagonists"
@@ -286,7 +290,7 @@
     "story_importance": "Antagonist",
     "note": null
   },
-  "about": "Race: Quincy\nBirthday: June 30\nHeight: 155 cm\n\nGrammy Thoumeaux is a Quincy and a member of the Wandenreich's Sternritter with the designation \"V\" - \"The Visionary\". He has the ability to turn fantasy into reality.\n\nHe has a child-like appearance, with messy blond hair, youthful features, and red eyes. His attire is a variation of the Sternritter's typical white uniform, consisting of a loose trench coat featuring a hood and a high collar.\n\nHowever, this body is only a product of his power. His real vessel is a disembodied brain in a protective casing.\n\nDuring Wandenreich's second invasion Gremmy fights against Zaraki Kenpachi.\n\n\n\n(Source: Bleach Wiki)",
+  "about": "Thoumeaux, Gremmy is a quincy known as a Sternritter serving as antagonist from Anime.",
   "note": null,
   "source": "anime"
 }

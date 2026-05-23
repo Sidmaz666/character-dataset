@@ -9,14 +9,14 @@
     "race": "Shinigami",
     "bloodline": "N/A",
     "height_cm": 210,
-    "weight_kg": 0,
     "age": "Unknown (immortal)",
     "birthday": "Unknown",
     "zodiac": "Unknown",
     "blood_type": "N/A",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Yellow with red/black pupils",
@@ -380,7 +380,7 @@
     "I wonder how this will end..."
   ],
   "voice_acting": {
-    "native_language": "Shido Nakamura (Japanese)",
+    "native_language": "Japanese",
     "note": "Shido Nakamura gave a memorable performance",
     "native_name": null,
     "english": "Brian Drummond",

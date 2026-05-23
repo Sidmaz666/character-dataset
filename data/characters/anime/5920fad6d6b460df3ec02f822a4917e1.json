@@ -116,7 +116,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Espada",
+        "Aizen"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Heroes/Protagonists"

@@ -181,7 +181,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Olympian Gods"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Odin"

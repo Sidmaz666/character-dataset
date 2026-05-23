@@ -108,7 +108,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Karuta association"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Chihaya"

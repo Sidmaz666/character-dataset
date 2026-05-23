@@ -114,7 +114,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Gotei 13",
+        "11th Division"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -283,7 +288,7 @@
     "story_importance": "Supporting",
     "note": null
   },
-  "about": "Higuruma is a public defense lawyer who often took on impossibly difficult cases in order to protect the wrongfully accused. Having since given up on the justice system completely, Hiromi currently participates in the Culling Game as one of the only players with 100 points. He serves as the primary antagonist of the Tokyo No. 1 Colony Arc.\n\n(Source: Jujutsu Kaisen Wiki)",
+  "about": "Muguruma, Kensei is a soul reaper known as a Captain serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

@@ -28,7 +28,7 @@
     "hair": null
   },
   "origin": {
-    "place_of_birth": "-",
+    "place_of_birth": "Unknown",
     "current_location": null,
     "base_of_operations": "Central Cityplex, 25th Century",
     "place": null,
@@ -101,7 +101,9 @@
     "likes": [
       "Protecting others"
     ],
-    "dislikes": [],
+    "dislikes": [
+      "Losing"
+    ],
     "fear": "Physically weak",
     "dream": "Various",
     "personality_type": "ENFJ",

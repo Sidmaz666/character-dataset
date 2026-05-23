@@ -114,7 +114,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Caesar's group"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -286,7 +290,7 @@
     "story_importance": "Antagonist",
     "note": null
   },
-  "about": "The World Government (Japanese: 世界政府, Hepburn: Sekai Seifu) is a fictional global empire that rules over the world of One Piece by Eiichiro Oda. The World Government is affiliated with over 170 nations from around the world[ch. 398] and is led by Nerona Imu. Its greatest enemies are pirates such as the Straw Hats and the Revolutionary Army, who unlike most pirates directly oppose the Government.\nEight centuries after its foundation by a group of twenty kings known as the First 20 (最初の20人, Sekai Seifu),[ch. 497] their descendants, the Celestial Dragons, live luxurious lives and abuse their power.[ch. 498] The capital of the World Government is the Holy Land of Marijoa (マリージョア, Marījoa; Mary Geoise) and its governing headquarters is Pangaea Castle (パンゲア城, Pangea-jō) where there is an Empty Throne (虚の玉座, Kara no Gyokuza) said to symbolize that not a single person from any of the twenty families of Celestial Dragons can rule the world, but in actuality used by Imu.[ch. 396][ch. 763][ch. 907][ch. 908]\nThe top leaders of the Government such as Imu, the Five Elders, the Holy Knights of God' highest-ranking officers like their supreme commander Garling, and the commander-in-chief Kong reside and govern from Mary Geoise, which is also the jurisdiction of the Holy Knights of God,[ch. 1054], and the home of the Celestial Dragons. Every four years, the royals of nations that are members of the Government assemble in Pangaea Castle to host the Reverie (世界会議, Reverī; Levely).[ch. 906]\nThe World Government initially controls two of the three types of great powers in One Piece: the Marines, described as the public face of the government, and the Seven Warlords of the Sea, allied privateers who hunt other pirates. The Government also includes other military forces such as the ten Cipher Pol intelligence agencies. Two years after the story begins, the Seven Warlords are abolished and replaced with clones made from their Bloodline Elements (血統因子, Kettō Inshi; Lineage Factor), as the World Government begins to more aggressively confront the strongest pirates known as the Four Emperors of the Sea as well as the Revolutionary Army.",
+  "about": "Clown, Caesar known as a Scientist serving as antagonist from Anime.",
   "note": null,
   "source": "anime"
 }

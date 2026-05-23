@@ -107,7 +107,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "SERN"
+      ]
+    ],
     "enemy": [
       "Rival"
     ],
@@ -274,7 +278,7 @@
     "story_importance": "Supporting character",
     "note": null
   },
-  "about": "Age: 17\nHeight: 181cm\nBlood Type: A\nAffiliation: Day Class\nWeapon: Bloody Rose\n\nZero is Yuuki's childhood friend and student at Cross Academy. He is also a Guardian and likewise on the disciplinary committee. Zero has been living with Yuuki and Headmaster Cross, as the headmaster is his legal guardian. His family, a linear of vampire hunters, was murdered by a pureblood vampire when he was young. He harbors a deep hatred for vampires and claims to have taken on the role of Guardian to learn to hunt them better.",
+  "about": "Kiryuu, Moeka known as a Reporter serving as a supporting character from Anime.",
   "note": null,
   "source": "anime"
 }

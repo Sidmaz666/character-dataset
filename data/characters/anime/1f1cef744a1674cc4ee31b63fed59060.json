@@ -8,7 +8,6 @@
     "species": "Human",
     "race": "Human",
     "height_cm": 880,
-    "weight_kg": 0,
     "age": "60s",
     "birthday": "Unknown",
     "blood_type": "Unknown",
@@ -16,7 +15,8 @@
     "zodiac": "Unknown",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Blue",
@@ -113,7 +113,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Big Mom Pirates"
+      ]
+    ],
     "colleague": null,
     "partner": null,
     "father": null,
@@ -285,7 +289,7 @@
     "story_importance": "Major antagonist",
     "note": null
   },
-  "about": "Age: 48\nHeight: 509 cm (16'8\")\nAffiliations: Big Mom Pirates; Charlotte Family\nDevil fruit: Mochi-Mochi no Mi (type: Paramecia)\nBounty: 1,057,000,000 Beli\n\nCharlotte Katakuri is the second son of the Charlotte Family and one of the Three Sweet Commanders of the Big Mom Pirates as well as Totto Land's Minister of Flour, governing over Wheat Island.\n\nKatakuri has a very serious, no-nonsense demeanor, caring greatly about his crew and family's objectives. With his heightened Kenbunshoku Haki allowing him to see a little bit into the future and make smart judgment calls, he is dedicated to efficiently dealing with all possible threats within his vicinity and is thus among the few Charlotte children that can be seen taking action without instructions from Big Mom herself.\n\n\n(Source: One Piece Wiki)",
+  "about": "Charlotte, Linlin known as a Pirate serving as major antagonist from Anime.",
   "note": null,
   "source": "anime"
 }

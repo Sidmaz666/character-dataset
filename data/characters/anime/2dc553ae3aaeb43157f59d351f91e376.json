@@ -108,7 +108,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Demon Slayer Corps"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -276,7 +280,7 @@
     "story_importance": "Main character",
     "note": null
   },
-  "about": "Age: 19 (chapter first), 21 (as of chapter 28)\nBirthday: February 8\nRace: human\nGender: male\nHeight: 176 cm (5'9\")\nWeight: 69 kg (152 lbs)\nHair color: black\nEye color: dark blue\n\nGiyuu Tomioka is a Demon Hunter and the Water Pillar of the Demon Slayer Corps.",
+  "about": "Tomioka, Giyuu known as a Hashira serving as a main character from Anime.",
   "note": null,
   "source": "anime"
 }

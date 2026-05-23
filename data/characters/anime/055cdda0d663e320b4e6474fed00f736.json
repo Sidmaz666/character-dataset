@@ -115,7 +115,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "CCG"
+      ]
+    ],
     "enemy": null,
     "partner": null,
     "father": null,

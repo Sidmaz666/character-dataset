@@ -7,15 +7,15 @@
     "species": "Organization",
     "race": "N/A",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": "Active",
     "birthday": "N/A",
     "zodiac": "N/A",
     "blood_type": "N/A",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "N/A",
@@ -290,7 +290,7 @@
   "notable_battles": [],
   "quotes": [],
   "voice_acting": {
-    "native_language": "N/A",
+    "native_language": "English",
     "english": "N/A",
     "note": null,
     "native_name": null,
@@ -322,7 +322,7 @@
   },
   "id": "6edbeaae00db9c13ed435478a32a7191",
   "publisher": "the_boys",
-  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "about": "Red River is a organization known as a Supe Orphanage from The Boys.",
   "note": null,
   "source": "the_boys"
 }

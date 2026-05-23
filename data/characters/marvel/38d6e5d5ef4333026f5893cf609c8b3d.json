@@ -4,9 +4,9 @@
   "native_name": null,
   "full_name": "Nathaniel Richards",
   "basic_info": {
-    "gender": "",
-    "species": "",
-    "race": "",
+    "gender": "Unknown",
+    "species": "Unknown",
+    "race": null,
     "bloodline": null,
     "height_cm": null,
     "weight_kg": null,
@@ -115,7 +115,9 @@
   "achievements": [
     "Created by Stan Lee and Jack Kirby"
   ],
-  "titles": [],
+  "titles": [
+    "Superhero"
+  ],
   "bounty": {
     "amount": null,
     "currency": null,
@@ -301,7 +303,7 @@
     "note": null
   },
   "publisher": "marvel",
-  "about": "The Invisible Woman is a superhero appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in The Fantastic Four #1. Susan Storm is a founding member of the Fantastic Four and was the first female superhero published by Marvel during the Silver Age of Comic Books.",
+  "about": "Kang known as a Superhero serving as a supporting character from Marvel.",
   "note": null,
   "source": "marvel"
 }

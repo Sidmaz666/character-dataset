@@ -111,7 +111,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Kirito's faction",
+        "Knights of the Blood"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -282,7 +287,7 @@
     "story_importance": "Main heroine",
     "note": null
   },
-  "about": "Birthdate: September 30\nAge: 15 (Beginning of Aincrad arc); 17 (End of Aincrad arc, Fairy Dance arc); 18 (Phantom Bullet arc); 19 (Alicization Arc)\nHeight: 168 cm\nWeight: 55 kg\nThree Sizes (BWH): 82-60-83\nWeapons of choice: Wind Fleuret (1st Floor), Lambent Light (Forged by Lisbeth)\n\nAsuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she's extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.",
+  "about": "Yuuki, Asuna known as a Student serving as main heroine from Anime.",
   "note": null,
   "source": "anime"
 }

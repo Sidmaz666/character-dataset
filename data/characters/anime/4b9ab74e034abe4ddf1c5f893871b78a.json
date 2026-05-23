@@ -178,7 +178,12 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "Hero Association",
+        "S-Class"
+      ]
+    ],
     "colleague": null,
     "enemy": null,
     "partner": null,
@@ -316,7 +321,7 @@
     "note": null
   },
   "publisher": "anime",
-  "about": "The Skull Knight is one of the most mysterious and prolific characters introduced in Berserk, a towering warrior dressed in full armor whose ornaments, especially his helmet, are shaped as parts of a human skeleton, hence his moniker, who rides a massive, ghostly black horse. Though ominous and macabre, he is an enemy of the Godhand and its acolytes, hunting down Apostles and devouring their Behelits; especially bitter is his rivalry with Zodd the Immortal, whom he was often showed to overwhelm with ease. \n\nHe wields a powerful sword that, when stuck down his throat, becomes a terrible, Behelit-coated blade capable of slashing rifts through reality itself, thus allowing the Skull Knight to move freely around the world or even between different dimensions.",
+  "about": "The Skull Knight is one of the most mysterious and prolific characters introduced in Berserk, a towering warrior dressed in full armor whose ornaments, especially his helmet, are shaped as parts of a human skeleton, hence his moniker, who rides a massive, ghostly black horse. Though ominous and macabre, he is an enemy of the Godhand its acolytes, hunting down Apostles and devouring their Behelits; especially bitter is his rivalry with Zodd the Immortal, whom he was often showed to overwhelm with ease. \n\nHe wields a powerful sword that, when stuck down his throat, becomes a terrible, Behelit-coated blade capable of slashing rifts through reality itself, thus allowing the Skull Knight to move freely around the world or even between different dimensions.",
   "note": null,
   "source": "anime"
 }

@@ -109,7 +109,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -276,7 +280,7 @@
     "story_importance": "Protagonist",
     "note": null
   },
-  "about": "Age: 17\nBirthday: December 1\nZodiac: Sagittarius \n\nMitsuha is generally a kind individual like Taki. She is a very determined person, sometimes persistent, and is also adventurous. Mitsuha wants to live in the city because she is desperately getting tired of the countryside.",
+  "about": "Miyamizu, Mitsuha known as a Student serving as protagonist from Anime.",
   "note": null,
   "source": "anime"
 }

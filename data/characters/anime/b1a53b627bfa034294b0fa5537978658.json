@@ -8,7 +8,6 @@
     "species": "Human",
     "race": "Human",
     "height_cm": 191,
-    "weight_kg": 0,
     "age": "29",
     "birthday": "September 2",
     "blood_type": "S",
@@ -16,7 +15,8 @@
     "zodiac": "Virgo",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "Brown",
@@ -288,7 +288,7 @@
     "story_importance": "Major character",
     "note": null
   },
-  "about": "Age: 29; 31\nBirthdate: September 2\nHeight: 191cm (6'3\") \nAffiliation: Kuja; Kuja Pirates; Shichibukai\nOccupation: Pirate Captain; Empress of Amazon Lily; Shichibukai\nDevil Fruit: Mero Mero no Mi (Love-Love Fruit)\nType: Paramecia\nBounty: 1,659,000,000\n\nShe is one of the Shichibukai and captain of the Kuja Pirates. She is the Empress of the Amazon Tribe on the Isle of Woman. She detests the World Government, but wants to keep her Shichibukai title. Her immense beauty belies her cruel personality, as shown when she kicks a kitten in her way.",
+  "about": "Boa, Hancock known as a Pirate Empress serving as a major from Anime.",
   "note": null,
   "source": "anime"
 }

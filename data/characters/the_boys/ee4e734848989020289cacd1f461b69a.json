@@ -7,15 +7,15 @@
     "species": "Corporation",
     "race": "N/A",
     "bloodline": null,
-    "height_cm": 0,
-    "weight_kg": 0,
     "age": "Decades old",
     "birthday": "N/A",
     "zodiac": "N/A",
     "blood_type": "N/A",
     "weight_kkg": null,
     "bmi": null,
-    "nationality": null
+    "nationality": null,
+    "height_cm": null,
+    "weight_kg": null
   },
   "appearance": {
     "eye_color": "N/A",
@@ -348,7 +348,7 @@
     "Saving the world or taking it over, either way profits are up."
   ],
   "voice_acting": {
-    "native_language": "N/A",
+    "native_language": "English",
     "english": "N/A",
     "note": null,
     "native_name": null,

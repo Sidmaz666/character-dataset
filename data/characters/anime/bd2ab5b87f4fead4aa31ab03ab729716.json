@@ -111,7 +111,11 @@
     "son": null,
     "servant": null,
     "teammate": null,
-    "friend": null,
+    "friend": [
+      [
+        "School"
+      ]
+    ],
     "colleague": null,
     "enemy": [
       "Villains/Antagonists"
@@ -278,7 +282,7 @@
     "story_importance": "Protagonist",
     "note": null
   },
-  "about": "Age: 18\nGender: Male\nBirthday: June 6th\n\nThe main character and narrator. Ishida bullied Nishimiya Shouko in elementary school and when she transferred away, he was ostracized and bullied by his former friends. He started to ignore those around him (imagining them with a large X across their face) and was driven to the point of suicide. He changed his mind after he apologized to Nishimiya and began to spend time with her. He learned sign language specifically so he could apologize to her and is shown to be very talented in it. He feels like he hasn't been punished enough for bullying Nishimiya and often wishes he could kill his younger self. He seems resigned to the fact that he will never be able to have friends again.",
+  "about": "Ishida, Shouya known as a Student serving as protagonist from Anime.",
   "note": null,
   "source": "anime"
 }

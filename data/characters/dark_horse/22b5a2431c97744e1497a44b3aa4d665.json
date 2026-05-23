@@ -1,0 +1,316 @@
+{
+  "id": "22b5a2431c97744e1497a44b3aa4d665",
+  "name": "Johann",
+  "native_name": null,
+  "full_name": "Johann",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Spirit",
+    "race": "Ghost",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Glowing blue",
+    "hair_color": "None",
+    "skin_color": "Spectral blue",
+    "notable_features": [
+      "Floating",
+      "Ghost form"
+    ],
+    "skin": "Spectral blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "B.P.R.D.",
+    "current_location": "B.P.R.D.",
+    "base_of_operations": "B.P.R.D. HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Psychic Spirit",
+    "secondary": null,
+    "rank_title": "Agent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "B.P.R.D."
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Abe Sapien #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ghost Form",
+      "native_name": null,
+      "description": "Become intangible",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Ghost Form"
+  ],
+  "ultimate_move": "Ghost Form",
+  "trump_card": "Ghost Form",
+  "power_attributes": {
+    "power_type": "Spirit",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Ghost Form",
+    "ultimate_move": "Ghost Form"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Mysterious",
+      "Protective"
+    ],
+    "likes": [
+      "Peace and quiet"
+    ],
+    "dislikes": [
+      "Threats to loved ones"
+    ],
+    "fear": "Holy objects",
+    "dream": "Help others",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Wise"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Spirit guide",
+    "motivation": "Help others",
+    "alignment": "Good",
+    "affinity": "Good"
+  },
+  "achievements": [
+    "Voiced by Peter Lenkov (English)"
+  ],
+  "titles": [
+    "Spirit"
+  ],
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 10,
+    "speed": 60,
+    "durability": 50,
+    "power": 70,
+    "combat": 20,
+    "total": 290
+  },
+  "weaknesses": {
+    "list": [
+      "Holy objects"
+    ],
+    "factors": [
+      "physically weak",
+      "poor combat skills"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Abe Sapien",
+      "Hellboy",
+      "Liz Sherman"
+    ],
+    "enemies": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Abe Sapien",
+      "Hellboy",
+      "Liz Sherman"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Abe Sapien",
+      "Hellboy",
+      "Liz Sherman"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Peter Lenkov",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (spirit)",
+    "fate": "Alive",
+    "transformation": false,
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "dark_horse",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "B.P.R.D. HQ",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Johann is a German male given name. It is derived from Iohannes, which is the Latin form of the Greek name Iōánnēs (Ἰωάννης), itself derived from Hebrew name Yochanan (יוֹחָנָן‎) in turn from its extended form Yehochanan (יְהוֹחָנָן‎), meaning \"Yahweh is Gracious\" or \"Yahweh is Merciful\". Its English language equivalent is John. It is uncommon as a surname.",
+  "note": null,
+  "source": "dark_horse"
+}

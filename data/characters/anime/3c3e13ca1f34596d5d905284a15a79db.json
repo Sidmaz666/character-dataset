@@ -1,0 +1,399 @@
+{
+  "id": "3c3e13ca1f34596d5d905284a15a79db",
+  "name": "Katsuki Bakugo",
+  "native_name": "爆豪勝己",
+  "full_name": "Katsuki Bakugo",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Quirk user)",
+    "bloodline": "Bakugo Family",
+    "height_cm": 172,
+    "weight_kg": 61,
+    "age": "15-16",
+    "birthday": "April 20",
+    "zodiac": "Aries",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.6,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spiky blonde hair",
+      "Red eyes",
+      "Aggressive expression",
+      "Muscular build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Hero-in-training",
+    "rank_title": "Class 1-A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Class 1-A"
+    ],
+    "previous": [],
+    "relatives": [
+      "Mitsuki Bakugo (mother)",
+      "Masaru Bakugo (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia Episode 1",
+    "manga": "My Hero Academia Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Explosion",
+      "native_name": "爆破",
+      "description": "Creates explosions from sweat in palms. Can control blast size and direction.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Mid",
+      "limit": "Sweat production"
+    },
+    {
+      "name": "AP Shot",
+      "native_name": "APショット",
+      "description": "Concentrated explosion in small area for maximum damage.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Mid",
+      "limit": "Accuracy required"
+    },
+    {
+      "name": "Howitzer Impact",
+      "native_name": "火砕龍",
+      "description": "Creates tornado of explosions for devastating area attack.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Area",
+      "limit": "Stamina"
+    }
+  ],
+  "signature_moves": [
+    "Explosion",
+    "AP Shot",
+    "Howitzer Impact"
+  ],
+  "ultimate_move": "Full Power Explosion",
+  "trump_card": "Unlimited explosions",
+  "power_attributes": {
+    "power_type": "Quirk",
+    "power_source": "Explosion",
+    "combat_style": [
+      "Explosive",
+      "Close combat"
+    ],
+    "weapon": "Explosions",
+    "equipment": [
+      "Gauntlets"
+    ],
+    "trump_card": "Unlimited explosions",
+    "ultimate_move": "Full Power Explosion"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Competitive",
+      "Proud",
+      "Determined",
+      "Hot-tempered",
+      "Loyal"
+    ],
+    "likes": [
+      "Winning",
+      "Being #1",
+      "Deku (rival)",
+      "Spicy food"
+    ],
+    "dislikes": [
+      "Losing",
+      "Weakness",
+      "Being looked down on"
+    ],
+    "fear": "Being weak",
+    "dream": "Become #1 hero",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Bakugo starts as arrogant bully to Deku. Through training and rivalry, learns teamwork while maintaining competitive edge.",
+    "motivation": "Become #1 hero, surpass All Might",
+    "affinity": "Red/Explosion",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "U.A. student",
+    "Sports Festival winner",
+    "Provisional license"
+  ],
+  "titles": [
+    "Explosion Hero",
+    "Kacchan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 82,
+    "speed": 85,
+    "durability": 78,
+    "power": 92,
+    "combat": 88,
+    "total": 503
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfident",
+      "Emotional",
+      "Sweat-dependent"
+    ],
+    "factors": [
+      "Wet conditions"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Deku (rival)",
+    "allies": [
+      "Deku",
+      "Todoroki",
+      "Kirishima",
+      "Iida"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Izuku Midoriya",
+        "relationship": "Rival/childhood friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Shigaraki",
+      "All For One"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Kirishima",
+    "rival": "Deku",
+    "mentor": "All Might",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Deku",
+      "Todoroki",
+      "Kirishima",
+      "Iida"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Deku (rival)",
+      "Deku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Deku"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Deku",
+      "Todoroki",
+      "Kirishima",
+      "Iida"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "All Might"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Deku",
+      "result": "Draw",
+      "method": "Explosion vs OFA"
+    },
+    {
+      "opponent": "Shigaraki",
+      "result": "Ongoing",
+      "method": "Explosion"
+    }
+  ],
+  "quotes": [
+    "I'll be #1!",
+    "Deku!",
+    "Die!"
+  ],
+  "voice_acting": {
+    "native_language": "Nobuhiko Okamoto (Japanese)",
+    "note": "Loud, aggressive",
+    "native_name": null,
+    "english": "Clifford Chapin",
+    "japanese": "Nobuhiko Okamoto"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Training to be hero",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Arrogant",
+      "Team player",
+      "Hero",
+      "Leader"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "U.A. High",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14-17\nBirthday: April 20\nHeight: 172 cm (5'7\")\nAffiliation: U.A.\nQuirk: Explosion\nHero Name: Great Explosion Murder God Dynamight\n\nKatsuki is a very aggressive person and bullies Izuku Midoriya, who he also treats in some ways as a rival. He has a superiority complex and wants to be first, to be the best at everything. He doesn't like when people look down on him, as if they were superior to him, and gets mad easily. He is extremely arrogant, but also very smart and capable. He also thinks of people such as Izuku Midoriya as an obstacle on his path to becoming the greatest hero. \n\n(Source: Boku no Hero Academia Wikia)",
+  "note": null,
+  "source": "anime"
+}

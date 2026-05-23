@@ -1,0 +1,324 @@
+{
+  "id": "1fcb344876b76d730d5741fcc7b25df9",
+  "name": "Douma",
+  "native_name": "",
+  "full_name": "Douma",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "15",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Cult Leader",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Betrayal",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Cult Leader"
+  ],
+  "titles": [
+    "Cult Leader"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jouichirou Yukihira"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Jouichirou Yukihira"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Jouichirou Yukihira"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jouichirou Yukihira"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15-16\nBirthday: November 6\nHeight: 171 cm\nWeight: 57 kg\nBlood type: B\nCuisine Style: Yukihira Style Recipes \nFood Forte: All\nGeneration: 92nd\nAffiliation: Tootsuki Culinary Academy, \n\nHe is the son of Jouichirou Yukihira and, until it closed, worked at his father's restaurant, Restaurant Yukihira. As one of the main protagonist in the manga, Souma fight his odds in the elite school to becoming the best chef in the world even with strong background discrimination of his academy. He is currently a student at Tootsuki Culinary Academy and a resident of Polar Star Dormitory. \n\nSouma is a rather energetic child who has the constant drive to move forward with his cooking, mostly due to his rivalry with his father. Due to his drive to move forward Souma is willing to try odd things with food including \"Grilled Squid Tentacles Dressed in Peanut Butter,\" though these dishes usually don't go over too well. It is because the will of Souma to try to move forward, his dishes are often considered as creative and innovative by some peers and lecturers; leading his rivalry with all the students in the Tootsuki Culinary Academy. Through all this, Souma maintains a laid back attitude towards just about everything but cooking.\n\nSouma can cook many different foods in many different styles, though he prefers what he calls \"Yukihira Style,\" which is the cooking style which he learned from his father. Souma shows an immense capability for cooking and a special adaption with learning from his mistakes, and improvising through learning from said mistakes. It is due to his creativity and also resourcefulness, Souma is able to create the same dishes with different ways of cooking that would create even. Unlike most student whom used lavish ingredients, Souma didn't care about the classes of the ingredients which he claimed that it wasn't expensive ingredients, classy backgrounds, nor fancy techniques made the food better, but rather it's the wise usage and alternatives made the food interesting, and the customer's satisfaction about the food that matters. Further more, he also claimed that undefeated food in just the looks and taste in regal made him bored, which the boredom would made the chef stop improving their dishes. To eliminate such boredom, Souma continued to search for different styles of cooking around the world in order to improve his cooking skills.",
+  "note": null,
+  "source": "anime"
+}

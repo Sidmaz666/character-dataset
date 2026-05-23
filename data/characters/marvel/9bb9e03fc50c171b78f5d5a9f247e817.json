@@ -1,0 +1,397 @@
+{
+  "name": "Heimdall",
+  "native_name": null,
+  "full_name": "Heimdall",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Asgardian",
+    "race": "Asgardian",
+    "bloodline": null,
+    "height_cm": 218,
+    "weight_kg": 238,
+    "age": "Ancient",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 50.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Orange/Gold (All-Seeing Eyes)",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "All-seeing eyes",
+      "Bifrost Sword",
+      "Golden armor",
+      "Massive stature"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Asgard",
+    "current_location": "Asgard",
+    "base_of_operations": "Bifrost Bridge",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Guardian of the Bifrost",
+    "secondary": "Gatekeeper of Asgard",
+    "rank_title": "All-Seer",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Asgard"
+    ],
+    "previous": [],
+    "relatives": [
+      "Sif (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Journey into Mystery #85 (1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "All-Seeing Vision",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Omniversal"
+    },
+    {
+      "name": "Superhuman Senses",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global"
+    },
+    {
+      "name": "Bifrost Sword",
+      "type": "Weapon",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long"
+    },
+    {
+      "name": "Asgardian Physiology",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Bifrost Slash",
+    "All-Seeing Gaze",
+    "Hofund Strike",
+    "Gatekeeper's Judgment"
+  ],
+  "ultimate_move": "Bifrost Judgment",
+  "trump_card": "All-Seeing Omniscience",
+  "power_attributes": {
+    "power_type": "Asgardian + Cosmic Awareness",
+    "power_source": "Asgardian + Cosmic Connection",
+    "combat_style": [
+      "Swordsmanship",
+      "Defensive",
+      "Strategic"
+    ],
+    "weapon": "Hofund (Bifrost Sword)",
+    "equipment": [
+      "Golden armor"
+    ],
+    "trump_card": "All-Seeing Omniscience",
+    "ultimate_move": "Bifrost Judgment"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Stoic",
+      "Wise",
+      "Vigilant",
+      "Honorable",
+      "Patient"
+    ],
+    "likes": [
+      "Silence",
+      "Vigilance",
+      "Order",
+      "Asgard"
+    ],
+    "dislikes": [
+      "Deception",
+      "Threats to Asgard",
+      "Loki's schemes"
+    ],
+    "fear": "Failing to see a threat",
+    "dream": "Eternal vigilance over the realms",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise",
+      "Patient",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "The eternal watchman of Asgard who stands guard at the Bifrost Bridge. His all-seeing eyes can perceive everything across the Nine Realms (and beyond). A loyal servant of Odin who helped Thor countless times. Has faced Ragnarok and returned. His sense of duty is absolute.",
+    "motivation": "Guard the Bifrost and protect Asgard from all threats",
+    "affinity": "Vision/Guardianship",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Centuries of flawless guardianship",
+    "Detected countless invasions",
+    "Survived Ragnarok",
+    "Helped Thor save Asgard"
+  ],
+  "titles": [
+    "Heimdall",
+    "Guardian of the Bifrost",
+    "Gatekeeper",
+    "All-Seer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 88,
+    "speed": 75,
+    "durability": 90,
+    "power": 88,
+    "combat": 88,
+    "total": 514
+  },
+  "weaknesses": {
+    "list": [
+      "Duty-bound loyalty",
+      "Blind spots to certain magics",
+      "Isolation"
+    ],
+    "factors": [
+      "Cannot leave post easily",
+      "Some dark magics obscure his vision",
+      "Loneliness of eternal vigilance"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Loki",
+    "allies": [
+      "Thor",
+      "Odin",
+      "Sif",
+      "Warriors Three"
+    ],
+    "enemies": [
+      "Loki",
+      "Frost Giants",
+      "Surtur"
+    ],
+    "love_interest": null,
+    "best_friend": "Thor",
+    "mentor": "Odin",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Thor",
+      "Odin",
+      "Sif",
+      "Warriors Three"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Loki"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Odin"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Odin"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Thor",
+      "Odin",
+      "Sif",
+      "Warriors Three"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Odin"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Frost Giants",
+      "result": "Victory",
+      "method": "Sword combat and Bifrost control"
+    },
+    {
+      "opponent": "Dark Elves",
+      "result": "Victory",
+      "method": "Defensive guardianship"
+    }
+  ],
+  "quotes": [
+    "I see everything. I hear everything. Nothing escapes my watch.",
+    "The Bifrost is the way between worlds. And I am its guardian."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Guardian of Bifrost",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Heimdall",
+      "Guardian of Bifrost",
+      "All-Seer"
+    ],
+    "role": "Major Supporting Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Bifrost Teleportation"
+    ],
+    "vehicles": [],
+    "headquarters": "Bifrost Observatory",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "9bb9e03fc50c171b78f5d5a9f247e817",
+  "publisher": "marvel",
+  "about": "In Norse mythology, Heimdall is a god. He is the son of Odin and nine sisters. Heimdall keeps watch for invaders and the onset of Ragnarök from his dwelling Himinbjörg, where the burning rainbow bridge Bifröst meets the sky. He is attested as possessing foreknowledge and keen senses, particularly eyesight and hearing. The god and his possessions are described in enigmatic manners. For example, Heimdall is golden-toothed, \"the head is called his sword\", and he is \"the whitest of the gods.\"",
+  "note": null,
+  "source": "marvel"
+}

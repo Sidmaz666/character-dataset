@@ -1,0 +1,353 @@
+{
+  "id": "182f335b0f9e787cab30ca0e6f2b132a",
+  "name": "Berserker",
+  "native_name": "ヘラクレス",
+  "full_name": "Heracles (Berserker)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Divine Spirit/Heroic Spirit",
+    "race": "Demigod (Zeus son)",
+    "height_cm": 185,
+    "weight_kg": 80,
+    "age": "Unknown (immortal)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Massive muscular build, chain armor, twelve labors symbol",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Greece (mythological)",
+    "current_location": "Fuyuki City",
+    "base_of_operations": "Fuyuki City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Berserker-class Servant",
+    "secondary": "Greek hero",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Illyasviel von Einzbern (Master)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "game": "Fate/stay night (2004)",
+    "manga": "Fate/stay night (2006)",
+    "comics": null
+  },
+  "abilities": [
+    {
+      "name": "God Hand",
+      "native_name": "神性",
+      "description": "Twelve labors granted immortality; cannot die, only destroyed by nine lives",
+      "type": "Invulnerability",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Self"
+    },
+    {
+      "name": "Monster Strength",
+      "native_name": "怪力",
+      "description": "Superhuman strength befitting his labors",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee"
+    },
+    {
+      "name": "Madness Enhancement",
+      "native_name": "狂化",
+      "description": "Gains stats but loses sanity and reason",
+      "type": "Buff",
+      "tier": "B+",
+      "power_level": 80,
+      "range": "Self"
+    },
+    {
+      "name": "Battle Continuation",
+      "native_name": "持続戦闘",
+      "description": "Able to fight after lethal wounds",
+      "type": "Survival",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Nine Lives",
+    "Axia Caliburn",
+    "God Hand activation"
+  ],
+  "ultimate_move": "Nine Lives (九命)",
+  "trump_card": "God Hand - full twelve lives",
+  "power_attributes": {
+    "power_type": "Divine might",
+    "power_source": "Greek god heritage",
+    "combat_style": [
+      "Melee brawler",
+      "Berserker rage"
+    ],
+    "weapon": "Sword",
+    "equipment": [
+      "Sword"
+    ],
+    "trump_card": "God Hand - full twelve lives",
+    "ultimate_move": "Nine Lives (九命)"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Loyal",
+      "Reckless",
+      "Proud"
+    ],
+    "likes": [
+      "Honorable combat",
+      "Master Illya"
+    ],
+    "dislikes": [
+      "Cowardice",
+      "Magic"
+    ],
+    "fear": "Losing purpose",
+    "dream": "Complete twelve labors worth of tasks",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Reckless"
+    ]
+  },
+  "character": {
+    "arc": "Faithful Servant in Grail War",
+    "motivation": "Serve Master faithfully",
+    "affinity": "Divine",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Completed twelve labors",
+    "Fought in 4th and 5th Grail War",
+    "Survived multiple deaths"
+  ],
+  "titles": [
+    "Greek Hero",
+    "Son of Zeus",
+    "Berserker-class Servant"
+  ],
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 100,
+    "speed": 70,
+    "durability": 100,
+    "power": 98,
+    "combat": 90,
+    "total": 513
+  },
+  "relationships": {
+    "master": "Illyasviel von Einzbern",
+    "nemesis": "Gilgamesh (defeated by)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Gilgamesh"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Gilgamesh (defeated by)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Illyasviel von Einzbern (Master)"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gilgamesh",
+      "result": "Defeat",
+      "method": "Killed after exhausting God Hand"
+    }
+  ],
+  "quotes": [
+    "I am your shield!",
+    "This is the power of a hero!"
+  ],
+  "voice_acting": {
+    "native_language": "Joji Nakata",
+    "note": null,
+    "native_name": null,
+    "english": "Kyle Hebert",
+    "japanese": "Ryoutarou Okiayu"
+  },
+  "story": {
+    "status": "Manifested",
+    "fate": "Destroyed by Gilgamesh after exhausting lives",
+    "role_in_story": "Servant",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Reckless"
+    ],
+    "factors": [
+      "reckless"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Fuyuki City",
+    "story_importance": "Servant",
+    "note": null
+  },
+  "about": "Height: 191 cm\nWeight: 81 kg\nMaster: Matou Kariya\nHoly Grail War Number: 4th Holy Grail War\n\nBerserker is known to have three distinct Noble Phantasms, as shown on his status page. However, due to the enchantment that obscured his identity, his status page was shown blurred, making it impossible to identify the specific names and natures of his Phantasms, save for the sword Arondight. In addition, this Berserker is uniquely able to make anything he chooses into his own Noble Phantasm and effectively wield them, from telephone poles to the Noble Phantasms of other Servants.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

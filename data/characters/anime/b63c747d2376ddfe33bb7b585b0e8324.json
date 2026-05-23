@@ -1,0 +1,418 @@
+{
+  "id": "b63c747d2376ddfe33bb7b585b0e8324",
+  "name": "Tenshinhan",
+  "native_name": "天津飯",
+  "full_name": "Tenshinhan",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Triclops)",
+    "race": "Triclops",
+    "bloodline": "Triclops",
+    "height_cm": 183,
+    "weight_kg": 75,
+    "age": "22-25",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Three eyes",
+      "Black hair",
+      "Orange gi",
+      "Muscular",
+      "Third eye"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Kame House",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Martial Artist",
+    "secondary": "Z Fighter",
+    "rank_title": "Master",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Z Fighters",
+      "Crane School (former)"
+    ],
+    "previous": [
+      "Crane School"
+    ],
+    "relatives": [
+      "Chiaotzu (best friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Episode 101",
+    "manga": "Dragon Ball Chapter 112",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tri-Beam",
+      "native_name": "三つ子の光線",
+      "description": "Powerful energy beam fired from third eye. Drains life force but devastating.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Life force"
+    },
+    {
+      "name": "Four Arms Technique",
+      "native_name": "四手の技",
+      "description": "Grows two extra arms for combat. Increases fighting ability.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Energy"
+    },
+    {
+      "name": "Multi-Form",
+      "native_name": "四身の拳",
+      "description": "Splits into four identical clones. Each has quarter power.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Power division"
+    },
+    {
+      "name": "Ki Sense",
+      "native_name": "気感知",
+      "description": "Can sense ki signatures across planets. Detect power levels.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Planetary",
+      "limit": "Concentration"
+    }
+  ],
+  "signature_moves": [
+    "Tri-Beam",
+    "Four Arms",
+    "Multi-Form"
+  ],
+  "ultimate_move": "Tri-Beam",
+  "trump_card": "Third eye power",
+  "power_attributes": {
+    "power_type": "Ki",
+    "power_source": "Training",
+    "combat_style": [
+      "Martial Arts",
+      "Ki blasts"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Weighted clothing"
+    ],
+    "trump_card": "Third eye power",
+    "ultimate_move": "Tri-Beam"
+  },
+  "personality": {
+    "traits": [
+      "Honorable",
+      "Serious",
+      "Loyal",
+      "Proud",
+      "Determined",
+      "Noble"
+    ],
+    "likes": [
+      "Training",
+      "Chiaotzu",
+      "Honor",
+      "Justice"
+    ],
+    "dislikes": [
+      "Cheating",
+      "Evil",
+      "Weakness",
+      "Dishonor"
+    ],
+    "fear": "Failing friends",
+    "dream": "Become stronger, protect Earth",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Tenshinhan is the triclops warrior, former student of Crane School. Defeated by Goku, becomes ally. One of Earth's strongest fighters. Always training.",
+    "motivation": "Become stronger, protect Earth",
+    "affinity": "Orange/Three eyes",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Goku (tournament)",
+    "Z Fighter",
+    "Mastered Tri-Beam"
+  ],
+  "titles": [
+    "Triclops",
+    "Master",
+    "Z Fighter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Zeni",
+    "details": "Warrior"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 85,
+    "speed": 82,
+    "durability": 88,
+    "power": 90,
+    "combat": 92,
+    "total": 519
+  },
+  "weaknesses": {
+    "list": [
+      "Overuses Tri-Beam",
+      "Too honorable",
+      "Power limits"
+    ],
+    "factors": [
+      "Chiaotzu",
+      "Earth"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Vegeta, Frieza",
+    "allies": [
+      "Goku",
+      "Chiaotzu",
+      "Krillin",
+      "Yamcha"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Chiaotzu",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Frieza",
+      "Cell",
+      "Nappa"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Launch (implied)",
+    "best_friend": "Chiaotzu",
+    "rival": "Goku",
+    "mentor": "Master Shen",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Goku",
+      "Chiaotzu",
+      "Krillin",
+      "Yamcha"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Vegeta, Frieza",
+      "Goku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Goku"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Goku",
+      "Chiaotzu",
+      "Krillin",
+      "Yamcha"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Master Shen"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Goku",
+      "result": "Loss",
+      "method": "Tournament"
+    },
+    {
+      "opponent": "Nappa",
+      "result": "Loss",
+      "method": "Sacrifice"
+    },
+    {
+      "opponent": "Cell",
+      "result": "Loss",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I am Tenshinhan!",
+    "Tri-Beam!",
+    "I won't lose!"
+  ],
+  "voice_acting": {
+    "native_language": "Hirotaka Suzuoki (Japanese)",
+    "note": "Serious, determined",
+    "native_name": null,
+    "english": "John Burgmeier",
+    "japanese": "Kouichi Yamadera"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues training",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Crane Student",
+      "Z Fighter",
+      "Master",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kame House",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Tenshinhan is a fictional character from the Dragon Ball manga series created by Akira Toriyama. Trained by the Turtle Hermit's rival, the Crane Hermit, he starts out as an enemy of Son Goku but soon makes peace and becomes an ally. He is usually accompanied by Chiaotzu, his training partner and best friend, whom he can communicate with telepathically.\n\nTenshinhan has a unique physical composition, he has the ability to grow arms from his back, split into four people, and he has a third eye on his forehead. During the early years of his life, Tenshinhan entered the ruthless Crane-Style School where he learned powerful ki-based techniques such as the Dodonpa, the Kikoho and the Taiyo-Ken, he was taught deadly assassination techniques by the Crane Hermit's younger brother, Tao Pai Pai.\n\nAt the time of his introduction, Tenshinhan is among the most powerful warriors in the series, matched only by Goku himself. Heavily devoted to martial arts, reclusive and disciplined, Tenshinhan is one of the strongest humans within the Dragon Ball world. He battles alongside the other characters when major threats to the Earth surface, often courageously engaging enemies far more powerful than himself.\n\nAs is the case with a handful of other characters from the early chapters of Dragon Ball, Tenshinhan was inspired by a character from Journey to the West; his unique feature of having a third eye was derived from the Chinese god Erlang Shen.\n\nAccording to the Daizenshuu book 7 and the PlayStation 2 game Dragon Ball Z: Budokai Tenkaichi, Tenshinhan is a descendant of the alien race of the \"Three-Eyed clan.\"\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

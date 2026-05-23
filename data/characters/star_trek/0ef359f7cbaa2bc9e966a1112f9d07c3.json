@@ -1,0 +1,408 @@
+{
+  "id": "0ef359f7cbaa2bc9e966a1112f9d07c3",
+  "name": "James T. Kirk",
+  "native_name": null,
+  "full_name": "James Tiberius Kirk",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 77,
+    "age": "Born 2237",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown (later gray)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Athletic build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Riverside, Iowa, Earth",
+    "current_location": "Unknown",
+    "base_of_operations": "USS Enterprise",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Starfleet Captain",
+    "secondary": "Admiral",
+    "rank_title": "Captain, later Admiral",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Starfleet",
+      "Federation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Winona Kirk (mother)",
+      "George Kirk (father)",
+      "Sam Kirk (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Trek: The Original Series (1966)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Exceptional command presence and tactical genius",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Requires crew"
+    },
+    {
+      "name": "Kirk Fu",
+      "native_name": null,
+      "description": "Improvisational hand-to-hand combat style",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Requires physical combat"
+    },
+    {
+      "name": "Phaser Mastery",
+      "native_name": null,
+      "description": "Expert with Starfleet weapons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires phaser"
+    },
+    {
+      "name": "Tactical Analysis",
+      "native_name": null,
+      "description": "Brilliant battlefield strategist",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "N/A",
+      "limit": "Requires combat scenario"
+    }
+  ],
+  "signature_moves": [
+    "Flying dropkick",
+    "Punch combo",
+    "Improvised weapon use"
+  ],
+  "ultimate_move": "The Kirk Move",
+  "trump_card": "Improvisational genius",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "Human ingenuity and Starfleet training",
+    "combat_style": [
+      "Kirk Fu",
+      "Judo",
+      "Wrestling"
+    ],
+    "weapon": "Phaser,bat'leth",
+    "equipment": [
+      "Comm badge",
+      "Tricorder"
+    ],
+    "trump_card": "Improvisational genius",
+    "ultimate_move": "The Kirk Move"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Daring",
+      "Rebellious",
+      "Romantic"
+    ],
+    "likes": [
+      "Adventure",
+      "Women",
+      "The Enterprise"
+    ],
+    "dislikes": [
+      "Bureaucracy",
+      "Klingons"
+    ],
+    "fear": "Losing his crew",
+    "dream": "Explore strange new worlds",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Legendary starship captain who saved Earth multiple times",
+    "motivation": "Seek out new life and new civilizations",
+    "affinity": "N/A",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Khan",
+    "Saved Earth from Nomad",
+    "First contact with numerous species",
+    "Explored the galaxy"
+  ],
+  "titles": [
+    "The Captain",
+    "Admiral"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 75,
+    "speed": 75,
+    "durability": 70,
+    "power": 50,
+    "combat": 80,
+    "total": 440
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Emotional attachments"
+    ],
+    "factors": "His romantic nature caused issues"
+  },
+  "relationships": {
+    "nemesis": "Khan Noonien Singh",
+    "allies": [
+      "Spock",
+      "McCoy",
+      "Scott"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Spock",
+        "relationship": "First Officer",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Khan",
+      "Romulans",
+      "Klingons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Khan Noonien Singh",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Various (including Spock's mother)",
+    "best_friend": "Spock",
+    "rival": "Khan Noonien Singh",
+    "mentor": "Captain Christopher Pike",
+    "student": "Hikaru Sulu",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spock",
+      "McCoy",
+      "Scott"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Khan Noonien Singh"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Khan Noonien Singh"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Hikaru Sulu"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spock",
+      "McCoy",
+      "Scott"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Captain Christopher Pike"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Khan",
+      "result": "Victory",
+      "method": "Clever trap with ship's computer"
+    },
+    {
+      "opponent": "Gorn",
+      "result": "Victory",
+      "method": "Improvised weapons"
+    }
+  ],
+  "quotes": [
+    "Live long and prosper.",
+    "I'm in love with this ship.",
+    " KHAN!"
+  ],
+  "voice_acting": {
+    "native_language": "William Shatner",
+    "english": "William Shatner",
+    "note": "Portrayed by William Shatner",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (various timelines)",
+    "fate": "Various across timelines",
+    "transformation": "N/A",
+    "awakening_potential": "Could have achieved more promotions",
+    "power_evolution": [
+      "Cadet",
+      "Captain",
+      "Admiral"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Shuttlecraft"
+    ],
+    "vehicles": [
+      "USS Enterprise"
+    ],
+    "headquarters": "USS Enterprise",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "James Tiberius Kirk, often known as Captain Kirk, is a fictional character in the Star Trek media franchise. Originally played by Canadian actor William Shatner, Kirk is best known as the captain of the starship USS Enterprise in the original Star Trek series (1966–1969). Kirk leads his crew as they explore new worlds and \"boldly go where no man has gone before\". Often, the characters of Spock and Leonard \"Bones\" McCoy act as his logical and emotional sounding boards, respectively.",
+  "note": null,
+  "source": "star_trek"
+}

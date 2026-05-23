@@ -1,0 +1,407 @@
+{
+  "id": "a84832d6385940ccebc42bc7da33daa7",
+  "name": "Yuji Itadori",
+  "native_name": "虎杖悠仁",
+  "full_name": "Yuji Itadori",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Vessel)",
+    "race": "Human",
+    "bloodline": "Itadori Family",
+    "height_cm": 173,
+    "weight_kg": 80,
+    "age": "15",
+    "birthday": "March 20",
+    "zodiac": "Pisces",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 26.7,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde/Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Pink hair",
+      "Athletic build",
+      "Jujutsu High uniform",
+      "Kind eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Sorcerer",
+    "secondary": "Student",
+    "rank_title": "First-year",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jujutsu High",
+      "Occult Research Club"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandfather (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen Episode 1",
+    "manga": "Jujutsu Kaisen Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": "超人間的な力",
+      "description": "Incredible physical strength from being Sukuna's vessel.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Human limits"
+    },
+    {
+      "name": "Cursed Energy",
+      "native_name": "呪力",
+      "description": "Can sense and manipulate cursed energy for attacks.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee/Short",
+      "limit": "Training"
+    },
+    {
+      "name": "Divergent Fist",
+      "native_name": "脱臼した拳",
+      "description": "Punches that deliver double impact with cursed energy.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Black Flash",
+      "native_name": "黒閃",
+      "description": "Distortion in space when cursed energy hits within 0.000001 seconds.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Timing"
+    }
+  ],
+  "signature_moves": [
+    "Divergent Fist",
+    "Black Flash",
+    "Sukuna's techniques"
+  ],
+  "ultimate_move": "Black Flash",
+  "trump_card": "Sukuna's power",
+  "power_attributes": {
+    "power_type": "Cursed Energy",
+    "power_source": "Innate + Sukuna",
+    "combat_style": [
+      "Taijutsu",
+      "Cursed energy"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Sukuna's power",
+    "ultimate_move": "Black Flash"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Selfless",
+      "Brave",
+      "Optimistic",
+      "Determined",
+      "Caring"
+    ],
+    "likes": [
+      "Helping others",
+      "Friends",
+      "Snacks",
+      "Grandpa's words"
+    ],
+    "dislikes": [
+      "Injustice",
+      "People suffering",
+      "Evil curses"
+    ],
+    "fear": "Losing friends",
+    "dream": "Save people, proper death",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Cursed"
+    ]
+  },
+  "character": {
+    "arc": "Yuji swallows Sukuna's finger to save friends, becomes his vessel. Joins Jujutsu High to help people.",
+    "motivation": "Save people, exorcise curses",
+    "affinity": "Pink/Kindness",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Sukuna's vessel",
+    "Jujutsu High student",
+    "Exorcised curses"
+  ],
+  "titles": [
+    "Vessel",
+    "First-year"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Sorcerer"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 88,
+    "speed": 85,
+    "durability": 88,
+    "power": 85,
+    "combat": 82,
+    "total": 503
+  },
+  "weaknesses": {
+    "list": [
+      "Inexperienced",
+      "Too selfless",
+      "Sukuna's influence"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Sukuna, Mahito",
+    "allies": [
+      "Megumi",
+      "Nobara",
+      "Gojo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Megumi Fushiguro",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Sukuna",
+      "Curse users"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Megumi/Nobara",
+    "rival": "None",
+    "mentor": "Gojo",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Megumi",
+      "Nobara",
+      "Gojo",
+      "Megumi/Nobara"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sukuna, Mahito",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Megumi",
+      "Nobara",
+      "Gojo",
+      "Megumi/Nobara"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Gojo"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mahito",
+      "result": "Victory",
+      "method": "Black Flash"
+    },
+    {
+      "opponent": "Curses",
+      "result": "Victory",
+      "method": "Cursed energy"
+    }
+  ],
+  "quotes": [
+    "I'll save people!",
+    "I don't want to regret anything.",
+    "I'm the one who decides!"
+  ],
+  "voice_acting": {
+    "native_language": "Junya Enoki (Japanese)",
+    "note": "Energetic, kind",
+    "native_name": null,
+    "english": "Adam McArthur",
+    "japanese": "Junya Enoki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "Vessel",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Human",
+      "Vessel",
+      "Sorcerer",
+      "Hero"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Jujutsu High",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15\nBirthdate: March 20\nHeight: 173 cm (5'8'')\nWeight: 80 kg (176 lbs)\n\nYuuji, a first-year student at Tokyo Metropolitan Curse Technical College, is a muscular teenager with big light brown eyes and light brown spiky hair. After becoming a host for Sukuna, a small line appeared below each of his eyes.\n\nYuuji is a fair person who cares greatly for not only his comrades, but anyone he views as people with their own wills, despite how deep or shallow his connection to them is. He cares greatly for the \"value of a life\" and to this end he will ensure that others receive a \"fair death.\" He is easy to anger in the face of pure cruelty and unfair judgement of other people.\n\n\n(Source: Jujutsu Kaisen Wiki)",
+  "note": null,
+  "source": "anime"
+}

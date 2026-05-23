@@ -1,0 +1,449 @@
+{
+  "id": "e2fa0ab1ce5b4c6e263db41ec32e2306",
+  "name": "Omni-Man",
+  "native_name": null,
+  "full_name": "Nolan Grayson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Viltrumite",
+    "race": "Viltrumite",
+    "bloodline": "Grayson",
+    "height_cm": 190,
+    "weight_kg": 100,
+    "age": "Unknown (thousands of years)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red (Viltrumite)",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Powerful Viltrumite build",
+      "Blue suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Viltrum",
+    "current_location": "Earth",
+    "base_of_operations": "Guardian Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Guardians of the Globe",
+    "rank_title": "Founding Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe",
+      "Grayson family"
+    ],
+    "previous": [
+      "Viltrum Empire"
+    ],
+    "relatives": [
+      "Mark Grayson (Invincible, son)",
+      "Oliver Grayson (son)",
+      "Debbie Grayson (wife)",
+      "Andressa (second wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Invincible #1",
+    "comics": "Image Comics 2002",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Incredible physical strength - one of strongest beings",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "None known"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Travel at extreme velocities through space",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Nigh-Invulnerability",
+      "native_name": null,
+      "description": "Nearly indestructible",
+      "type": "Defense",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Very few can harm"
+    },
+    {
+      "name": "Super Speed",
+      "native_name": null,
+      "description": "Move at incredible speeds",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Healing Factor",
+      "native_name": null,
+      "description": "Rapid healing from injuries",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Severe damage"
+    },
+    {
+      "name": "Sonic Clap",
+      "native_name": null,
+      "description": "Devastating sonic shockwave",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Omni-Punch",
+    "Flight Strike",
+    "Sonic Clap"
+  ],
+  "ultimate_move": "Full Viltrumite Power",
+  "trump_card": "Viltrumite Wrath",
+  "power_attributes": {
+    "power_type": "Viltrumite Physiology",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Flight combat",
+      "Martial arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Hero suit"
+    ],
+    "trump_card": "Viltrumite Wrath",
+    "ultimate_move": "Full Viltrumite Power"
+  },
+  "personality": {
+    "traits": [
+      "Duty-bound",
+      "Honorable",
+      "Stoic",
+      "Loving father"
+    ],
+    "likes": [
+      "Protecting Earth",
+      "Family"
+    ],
+    "dislikes": [
+      "Viltrum ways",
+      "Weakness"
+    ],
+    "fear": "Losing family",
+    "dream": "Protect Earth and family",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Strength",
+      "Flight",
+      "Super Speed",
+      "Healing Factor"
+    ],
+    "weaknesses": [
+      "Vulnerab"
+    ]
+  },
+  "character": {
+    "arc": "Viltrumite warrior who chose Earth over empire",
+    "motivation": "Protect his new home",
+    "affinity": "Protection",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Guardians founder",
+    "Protected Earth for years",
+    "Defeated fellow Viltrumites"
+  ],
+  "titles": [
+    "Omni-Man",
+    "Nolan Grayson",
+    "The Last Viltrumite"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 95,
+    "combat": 90,
+    "total": 570
+  },
+  "weaknesses": {
+    "list": [
+      "Only a few beings can harm",
+      "Viltrumite weakness (rare)",
+      "Magic"
+    ],
+    "factors": [
+      "Other Viltrumites"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thragg",
+    "allies": [
+      "Mark Grayson",
+      "Debbie Grayson",
+      "Guardians"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Mark Grayson",
+        "relationship": "Son",
+        "trust_level": "Maximum"
+      },
+      {
+        "name": "Debbie Grayson",
+        "relationship": "Wife",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Viltrum Empire",
+      "Thragg"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Thragg",
+        "relationship": "Arch-enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Debbie Grayson",
+    "best_friend": "Allen the Alien",
+    "rival": "Thragg",
+    "mentor": null,
+    "student": "Mark Grayson",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Mark Grayson",
+      "Debbie Grayson",
+      "Guardians",
+      "Allen the Alien"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thragg"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Invincible"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Invincible"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Thragg"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Mark Grayson"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mark Grayson",
+      "Debbie Grayson",
+      "Guardians",
+      "Allen the Alien"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mark Grayson",
+      "result": "Defeat",
+      "method": "Refused to kill"
+    },
+    {
+      "opponent": "Thragg",
+      "result": "Victory",
+      "method": "Killed him"
+    },
+    {
+      "opponent": "Guardians",
+      "result": "Victory",
+      "method": "Killed them all"
+    }
+  ],
+  "quotes": [
+    "The society I come from values one thing: conquest.",
+    "You have to be willing to do whatever it takes to protect the people you love."
+  ],
+  "voice_acting": {
+    "native_language": "J.K. Simmons (English)",
+    "english": "J.K. Simmons",
+    "note": "Main cast in animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Becomes ruler of Viltrum",
+    "transformation": "Turned against Viltrum",
+    "awakening_potential": "Full power",
+    "power_evolution": [
+      "Conquerer",
+      "Protector",
+      "Emperor"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Guardian jet"
+    ],
+    "headquarters": "Guardian HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "Omni-Man (Nolan Grayson) is a character in American comic books published by Image Comics. He was created by writer Robert Kirkman and artist Cory Walker (with Ryan Ottley). Omni-Man is the father of Invincible / Mark Grayson and Oliver Grayson, and a member of the alien Viltrumite race, working as a superhero on Earth. Omni-Man is a main character in Invincible, and has made cameo appearances in Supreme, Noble Causes, and Dynamo 5.\nIn the Invincible television series and the video games Invincible: Guarding the Globe, Mortal Kombat 1, and Invincible VS, Omni-Man is voiced by J. K. Simmons.",
+  "note": null,
+  "source": "image_comics"
+}

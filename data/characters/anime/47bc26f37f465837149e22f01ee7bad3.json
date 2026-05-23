@@ -1,0 +1,409 @@
+{
+  "id": "47bc26f37f465837149e22f01ee7bad3",
+  "name": "Zenitsu Agatsuma",
+  "native_name": "我妻善逸",
+  "full_name": "Zenitsu Agatsuma",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Demon Slayer)",
+    "bloodline": "Agatsuma Family",
+    "height_cm": 164,
+    "weight_kg": 58,
+    "age": "16",
+    "birthday": "September 3",
+    "zodiac": "Virgo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Yellow haori",
+      "Scared expression",
+      "Earrings"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan (Taisho era)",
+    "base_of_operations": "Demon Slayer Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Slayer",
+    "secondary": "None",
+    "rank_title": "Mizunoto",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandfather (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer Episode 1",
+    "manga": "Demon Slayer Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Thunder Breathing",
+      "native_name": "雷の呼吸",
+      "description": "Lightning-fast sword techniques that mimic thunder and lightning.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "First Form",
+      "native_name": "壱ノ型",
+      "description": "Thunderclap and Flash - lightning speed dash attack.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Mid",
+      "limit": "Single form mastery"
+    },
+    {
+      "name": "Enhanced Hearing",
+      "native_name": "聴覚",
+      "description": "Exceptional hearing can detect demons and their movements.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Sleeping Power",
+      "native_name": "睡眠中の力",
+      "description": "When unconscious/sleeping, fights with full power and skill.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Must be unconscious"
+    }
+  ],
+  "signature_moves": [
+    "Thunderclap and Flash",
+    "Thunder Breathing",
+    "Lightning speed"
+  ],
+  "ultimate_move": "Seventh Form: Honoikazuchi",
+  "trump_card": "Sleeping state",
+  "power_attributes": {
+    "power_type": "Breathing Style",
+    "power_source": "Thunder Breathing",
+    "combat_style": [
+      "Swordsmanship",
+      "Lightning speed"
+    ],
+    "weapon": "Nichirin Sword",
+    "equipment": [
+      "Sword"
+    ],
+    "trump_card": "Sleeping state",
+    "ultimate_move": "Seventh Form: Honoikazuchi"
+  },
+  "personality": {
+    "traits": [
+      "Cowardly",
+      "Loud",
+      "Loyal",
+      "Kind",
+      "Anxious",
+      "Brave (when asleep)"
+    ],
+    "likes": [
+      "Nezuko",
+      "Safety",
+      "Tanjiro",
+      "Inosuke (reluctantly)"
+    ],
+    "dislikes": [
+      "Demons",
+      "Danger",
+      "Being scared",
+      "Thunder"
+    ],
+    "fear": "Everything dangerous",
+    "dream": "Live peacefully, marry Nezuko",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cowardly",
+      "Anxious"
+    ]
+  },
+  "character": {
+    "arc": "Zenitsu starts as cowardly crybaby. Through training and friendship, becomes brave demon slayer despite fear.",
+    "motivation": "Protect friends, overcome fear",
+    "affinity": "Yellow/Thunder",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Demon Slayer",
+    "Mastered First Form",
+    "Created Seventh Form"
+  ],
+  "titles": [
+    "Thunder Breather",
+    "Coward"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Slayer"
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 75,
+    "speed": 92,
+    "durability": 70,
+    "power": 88,
+    "combat": 85,
+    "total": 482
+  },
+  "weaknesses": {
+    "list": [
+      "Cowardly",
+      "Anxious",
+      "Only one form (awake)"
+    ],
+    "factors": [
+      "Conscious fear"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Muzan, Upper Moons",
+    "allies": [
+      "Tanjiro",
+      "Inosuke",
+      "Nezuko",
+      "Giyu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tanjiro Kamado",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Muzan",
+      "Upper Moons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Nezuko",
+    "best_friend": "Tanjiro",
+    "rival": "Inosuke",
+    "mentor": "Jigoro",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tanjiro",
+      "Inosuke",
+      "Nezuko",
+      "Giyu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Muzan, Upper Moons",
+      "Inosuke"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Inosuke"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tanjiro",
+      "Inosuke",
+      "Nezuko",
+      "Giyu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jigoro"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spider Demon",
+      "result": "Victory",
+      "method": "Thunder Breathing"
+    },
+    {
+      "opponent": "Upper Six",
+      "result": "Victory",
+      "method": "Seventh Form"
+    }
+  ],
+  "quotes": [
+    "I'm scared!",
+    "I can do it!",
+    "Thunderclap and Flash!"
+  ],
+  "voice_acting": {
+    "native_language": "Hiro Shimono (Japanese)",
+    "note": "Panicky, loud",
+    "native_name": null,
+    "english": "Aleks Le",
+    "japanese": "Hiro Shimono"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Coward",
+      "Slayer",
+      "Thunder master",
+      "Hero"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Demon Slayer HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16\nBirthday: September 3\nHeight: 164.5 cm\nWeight: 58 kg\n\nZenitsu Agatsuma is a member of the Demon Killing Corps and a traveling companion of Kamado Tanjirou.\n\nZenitsu has fair skin and downward-sloped, scared-looking eyes that fade from soft brown to gold. He has short, yellow hair of varying lengths, cutting off squarely at the ends where it fades to a darker orange color, that falls in front of his face in uneven bangs. Before he became a Demon Slayer, Zenitsu's hair was originally black, but it turned the color it is currently when he was struck by lightning during his training.\n\nHis name is pronounced \"Zen-itsu.\"",
+  "note": null,
+  "source": "anime"
+}

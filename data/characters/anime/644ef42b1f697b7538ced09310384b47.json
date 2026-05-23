@@ -1,0 +1,401 @@
+{
+  "id": "644ef42b1f697b7538ced09310384b47",
+  "name": "All Might",
+  "native_name": "オールマイト",
+  "full_name": "Toshinori Yagi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 220,
+    "weight_kg": 250,
+    "age": "49",
+    "birthday": "June 10",
+    "zodiac": "Gemini",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 51.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Muscular form",
+      "Blonde hair",
+      "Hero costume",
+      "Gaunt true form"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pro Hero",
+    "secondary": "Teacher",
+    "rank_title": "Symbol of Peace",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Pro Heroes"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia Episode 1",
+    "manga": "My Hero Academia Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "One For All",
+      "native_name": "ワン・フォー・オール",
+      "description": "Stockpiling quirk passed down through generations. Grants immense strength and speed.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Time limit, injury"
+    },
+    {
+      "name": "Super Strength",
+      "native_name": "怪力",
+      "description": "Immense physical strength capable of changing weather with punches.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Injury limits"
+    },
+    {
+      "name": "Super Speed",
+      "native_name": "超速",
+      "description": "Can move faster than eye can see, create wind pressure.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Stamina"
+    }
+  ],
+  "signature_moves": [
+    "Detroit Smash",
+    "Texas Smash",
+    "United States of Smash"
+  ],
+  "ultimate_move": "United States of Smash",
+  "trump_card": "One For All 100%",
+  "power_attributes": {
+    "power_type": "Quirk",
+    "power_source": "One For All",
+    "combat_style": [
+      "Punching",
+      "Heroics"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Hero costume"
+    ],
+    "trump_card": "One For All 100%",
+    "ultimate_move": "United States of Smash"
+  },
+  "personality": {
+    "traits": [
+      "Heroic",
+      "Optimistic",
+      "Selfless",
+      "Inspiring",
+      "Kind",
+      "Determined"
+    ],
+    "likes": [
+      "Teaching",
+      "Saving people",
+      "Deku",
+      "Peace"
+    ],
+    "dislikes": [
+      "Villains",
+      "Injustice",
+      "Giving up"
+    ],
+    "fear": "Failing students",
+    "dream": "Create peaceful society",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "All Might was the greatest hero who passed his quirk to Deku. Now teaching while his power fades.",
+    "motivation": "Train successor, protect peace",
+    "affinity": "Gold/Peace",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Symbol of Peace",
+    "No. 1 Hero",
+    "Defeated All For One",
+    "Trained Deku"
+  ],
+  "titles": [
+    "Symbol of Peace",
+    "No. 1 Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 95,
+    "speed": 88,
+    "durability": 85,
+    "power": 95,
+    "combat": 90,
+    "total": 533
+  },
+  "weaknesses": {
+    "list": [
+      "Injury limits time",
+      "Aging",
+      "One For All fading"
+    ],
+    "factors": [
+      "3 hour limit",
+      "Physical damage"
+    ]
+  },
+  "relationships": {
+    "nemesis": "All For One",
+    "allies": [
+      "Deku",
+      "Endeavor",
+      "Gran Torino"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Deku",
+        "relationship": "Successor",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "All For One",
+      "Shigaraki"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "All For One",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "None",
+    "best_friend": "Gran Torino",
+    "rival": "Endeavor",
+    "mentor": "Gran Torino",
+    "student": "Deku",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Deku",
+      "Endeavor",
+      "Gran Torino"
+    ],
+    "colleague": null,
+    "enemy": [
+      "All For One",
+      "Endeavor"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Endeavor"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Deku"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Deku",
+      "Endeavor",
+      "Gran Torino"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Gran Torino"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "All For One",
+      "result": "Victory",
+      "method": "One For All"
+    },
+    {
+      "opponent": "Shigaraki",
+      "result": "Victory",
+      "method": "United States of Smash"
+    }
+  ],
+  "quotes": [
+    "I am here!",
+    "You can become a hero!",
+    "It's fine now. Why? Because I am here!"
+  ],
+  "voice_acting": {
+    "native_language": "Kenta Miyake (Japanese)",
+    "note": "Booming heroic voice",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Retired",
+    "fate": "Retired, teaching",
+    "transformation": "Muscle form",
+    "awakening_potential": "Passed torch",
+    "power_evolution": [
+      "Hero",
+      "Symbol",
+      "Teacher",
+      "Retired"
+    ],
+    "role_in_story": "Mentor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "U.A. High",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: June 10\nHeight: 220 cm (7'2\")\nAffiliation: U.A.\nQuirk: One for All\n\nAll Might is the No. 1 Hero and the \"Symbol of Peace.\" He is famous for routinely saving the day with a smile on his face.\n\nIn his hero form, All Might is a very tall and muscular man whose design resembles classic American superhero comics. His whole body has more shadows than a normal human being.\n\n\n\n(Source: Boku no Hero Academia Wikia, edited)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,435 @@
+{
+  "name": "Venom (Eddie Brock)",
+  "native_name": null,
+  "full_name": "Edward Charles Allan Brock",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human / Symbiote Hybrid",
+    "race": "Human + Symbiote",
+    "bloodline": "Unknown",
+    "height_cm": 191,
+    "weight_kg": 118,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 32.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White (symbiote)",
+    "hair_color": "Blonde (human) / None (symbiote)",
+    "skin_color": "Fair (human) / Black (symbiote)",
+    "notable_features": [
+      "Black symbiote suit",
+      "White spider emblem",
+      "Large muscular build",
+      "Sharp teeth and tongue"
+    ],
+    "skin": "Fair (human) / Black (symbiote)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "San Francisco",
+    "current_location": "New York City",
+    "base_of_operations": "New York City / San Francisco",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Journalist (formerly)",
+    "secondary": "Vigilante / Anti-Hero",
+    "rank_title": "Venom",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Lethal Protector"
+    ],
+    "previous": [
+      "Daily Globe (journalist)",
+      "Sinister Six (temporary)"
+    ],
+    "relatives": [
+      "Carl Brock (father)",
+      "Symbiote (partner)",
+      "Anne Weying (ex-wife)",
+      "Carnage (offspring symbiote)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #300 (May 1988)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Symbiote Bond",
+      "native_name": null,
+      "description": "Bonded with an alien Klyntar symbiote granting superhuman strength, agility, durability. Symbiote can shapeshift, create weapons, and provides organic webbing.",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Weak to fire and sonic attacks"
+    },
+    {
+      "name": "Spider-Sense Immunity",
+      "native_name": null,
+      "description": "Symbiote bonded with Spider-Man first, making Venom invisible to Spider-Man spider-sense. Only non-symbiote enemy immune.",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Shapeshifting",
+      "native_name": null,
+      "description": "Symbiote can change form, create tendrils, weapons, and camouflage. Can mimic clothing and other appearances.",
+      "type": "Transformation",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Requires biomass"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Symbiote rapidly heals host injuries and can reattach severed limbs. Near-immortal healing capabilities.",
+      "type": "Healing",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Weakened by fire/sonic"
+    }
+  ],
+  "signature_moves": [
+    "Symbiote Slam",
+    "Tendril Strike",
+    "Lethal Protector"
+  ],
+  "ultimate_move": "Maximum Carnage (Full symbiote rage mode)",
+  "trump_card": "Symbiote Bond + Spider-Sense Immunity",
+  "power_attributes": {
+    "power_type": "Alien Symbiote",
+    "power_source": "Klyntar Symbiote",
+    "combat_style": [
+      "Brute force",
+      "Tendril combat",
+      "Shapeshifting"
+    ],
+    "weapon": "Symbiote tendrils",
+    "equipment": [
+      "Symbiote suit (living armor)"
+    ],
+    "trump_card": "Symbiote Bond + Spider-Sense Immunity",
+    "ultimate_move": "Maximum Carnage (Full symbiote rage mode)"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Protective",
+      "Obsessive",
+      "Conflicted",
+      "Anti-heroic",
+      "Determined"
+    ],
+    "likes": [
+      "Protecting innocents as Lethal Protector",
+      "Anne Weying",
+      "Symbiote bond",
+      "Being left alone"
+    ],
+    "dislikes": [
+      "Spider-Man",
+      "Being hunted",
+      "Fire",
+      "Sonic attacks",
+      "Carnage"
+    ],
+    "fear": "Losing the symbiote or being consumed by it",
+    "dream": "Live peacefully as a Lethal Protector, protecting innocents in his own way",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic",
+      "Protective"
+    ],
+    "weaknesses": [
+      "Obsessive",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Journalist ruined by Spider-Man who bonded with the alien symbiote. Became Venom, Spider-Man arch-nemesis. Later evolved into an anti-hero Lethal Protector protecting innocents. Fathered Carnage (another symbiote). Complex relationship with Spider-Man fluctuating between enemy and reluctant ally.",
+    "motivation": "Protect the innocent (Lethal Protector), vengeance against Spider-Man (initially)",
+    "affinity": "Symbiote",
+    "alignment": "Chaotic Neutral (later Neutral Good)"
+  },
+  "achievements": [
+    "Became Venom",
+    "Survived symbiote bonding",
+    "Created Carnage",
+    "Evolved into Lethal Protector",
+    "Defeated multiple symbiote threats"
+  ],
+  "titles": [
+    "Venom",
+    "Lethal Protector",
+    "Eddie Brock",
+    "The Symbiote"
+  ],
+  "bounty": {
+    "amount": "$20,000,000",
+    "currency": "USD",
+    "details": "Extremely dangerous meta-human wanted by S.H.I.E.L.D."
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 95,
+    "speed": 85,
+    "durability": 92,
+    "power": 88,
+    "combat": 85,
+    "total": 517
+  },
+  "weaknesses": {
+    "list": [
+      "Fire",
+      "Sonic attacks",
+      "Emotional instability"
+    ],
+    "factors": [
+      "Symbiote can be separated",
+      "Fire and sonic are lethal"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Spider-Man (formerly) / Carnage (currently)",
+    "allies": [
+      "Spider-Man (reluctant ally)",
+      "Black Cat (sometimes)",
+      "Flash Thompson (Agent Venom)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Spider-Man",
+        "relationship": "Arch-nemesis turned reluctant ally",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Carnage",
+      "Spider-Man (early)",
+      "Anti-Venom",
+      "Toxin"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Carnage",
+        "relationship": "Symbiote offspring and mortal enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Anne Weying (ex-wife)",
+    "best_friend": "Symbiote",
+    "rival": "Spider-Man",
+    "mentor": null,
+    "student": "Flash Thompson (Agent Venom)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Man (reluctant ally)",
+      "Black Cat (sometimes)",
+      "Flash Thompson (Agent Venom)",
+      "Symbiote"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Spider-Man (formerly) / Carnage (currently)",
+      "Spider-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Spider-Man"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Flash Thompson"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Man",
+      "Black Cat",
+      "Flash Thompson",
+      "Symbiote"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spider-Man",
+      "result": "Multiple draws",
+      "method": "Brute force and symbiote abilities"
+    },
+    {
+      "opponent": "Carnage",
+      "result": "Victory (with Spider-Man help)",
+      "method": "Fire/sonic exploitation and symbiote combat"
+    }
+  ],
+  "quotes": [
+    "We are Venom.",
+    "We will protect the innocent. We will be the Lethal Protector.",
+    "Spider-Man took everything from me. Now we take everything from him."
+  ],
+  "voice_acting": {
+    "native_language": "Tom Hardy",
+    "english": "Tom Hardy",
+    "note": "Voice in Venom film and Spider-Man games",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Acts as anti-hero Lethal Protector",
+    "transformation": "Human to Symbiote host",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Journalist",
+      "Venom (villain)",
+      "Lethal Protector (anti-hero)",
+      "King in Black (cosmic)"
+    ],
+    "role_in_story": "Major Character (Anti-Hero/Villain)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-slinging",
+      "Symbiote flight"
+    ],
+    "vehicles": [
+      "Motorcycle (sometimes)"
+    ],
+    "headquarters": "San Francisco / NYC (mobile)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "ec70d7245a76ed76486a53f2dc7b88d8",
+  "publisher": "marvel",
+  "about": "Edward Charles Allan Brock is a character appearing in American comic books published by Marvel Comics. The character was created by David Michelinie and Todd McFarlane, making a cameo appearance in Web of Spider-Man #18, before making his first full appearance in The Amazing Spider-Man #300 as the most well-known host of the Venom symbiote. The character has since appeared in many Marvel Comics publications, including Venom. He has endured as one of Spider-Man's most prominent villains. He later evolved into an antihero, slowly distancing himself from his initial goal to ruin Spider-Man's life to instead do good, even occasionally allying with Spider-Man.",
+  "note": null,
+  "source": "marvel"
+}

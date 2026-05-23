@@ -1,0 +1,389 @@
+{
+  "id": "32789a7c2e37786c0a2825c39a36b99d",
+  "name": "Pavel Chekov",
+  "native_name": null,
+  "full_name": "Pavel Andreievich Chekov",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Russian)",
+    "bloodline": "Chekov",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "age": "22 at start of TOS",
+    "birthday": "2244",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Light Brown (thick)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Youthful face",
+      "Thick eyebrows",
+      "Heavy Russian accent"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Russia, Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (various)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Navigator/Science Officer",
+    "secondary": "Security Officer",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "USS Enterprise (various)"
+    ],
+    "relatives": [
+      "Various Russian family"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Original Series (1966) - \"Where No Man Has Gone Before\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Navigation",
+      "native_name": null,
+      "description": "Expert navigator and cartographer",
+      "type": "Tech",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires navigational computer"
+    },
+    {
+      "name": "Mathematics",
+      "native_name": null,
+      "description": "Incredible mental math abilities",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Mental",
+      "limit": "Limited practical application"
+    }
+  ],
+  "signature_moves": [
+    "Navigation Calculation",
+    "Russian Enthusiasm",
+    "Computer Calculation"
+  ],
+  "ultimate_move": "Perfect Navigation",
+  "trump_card": "Mental Calculation Speed",
+  "power_attributes": {
+    "power_type": "Technical",
+    "power_source": "Training",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Navigational Controls"
+    ],
+    "trump_card": "Mental Calculation Speed",
+    "ultimate_move": "Perfect Navigation"
+  },
+  "personality": {
+    "traits": [
+      "Enthusiastic",
+      "Young",
+      "Eager",
+      "Proud of Russian Heritage",
+      "Nervous"
+    ],
+    "likes": [
+      "Science",
+      "The Enterprise",
+      "Russia"
+    ],
+    "dislikes": [
+      "Being Underestimated",
+      "Danger"
+    ],
+    "fear": "Letting the Captain Down",
+    "dream": "Being a Great Starfleet Officer",
+    "personality_type": "ISFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Navigation",
+      "Mathematics"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Young prodigy who matured into experienced officer, represented Soviet-American cooperation",
+    "motivation": "Proving himself worthy",
+    "affinity": "Science",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Graduated Starfleet Academy at young age",
+    "Served through historic five-year mission",
+    "Navigated many dangerous missions",
+    "Eventually achieved rank of Lieutenant Commander"
+  ],
+  "titles": [
+    "Ensign",
+    "Lieutenant Chekov",
+    "Navigation Officer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 60,
+    "speed": 65,
+    "durability": 60,
+    "power": 55,
+    "combat": 60,
+    "total": 382
+  },
+  "weaknesses": {
+    "list": [
+      "Youth and Inexperience",
+      "Nervous Under Pressure"
+    ],
+    "factors": [
+      "Young age at start of series"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various enemies",
+    "allies": [
+      "James T. Kirk",
+      "Spock",
+      "Sulu",
+      "Uhura"
+    ],
+    "allies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Captain",
+        "trust_level": "High"
+      },
+      {
+        "name": "Spock",
+        "relationship": "Science collaboration",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Klingons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Various women",
+    "best_friend": "Sulu (friendly rivalry)",
+    "rival": "Sulu (friendly competition)",
+    "mentor": "Spock",
+    "student": "Various cadets",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "James T. Kirk",
+      "Spock",
+      "Sulu",
+      "Uhura",
+      "Sulu (friendly rivalry)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various enemies",
+      "Sulu (friendly competition)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Sulu"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various cadets"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "James T. Kirk",
+      "Spock",
+      "Sulu",
+      "Uhura"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Spock"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Navigation and support"
+    }
+  ],
+  "quotes": [
+    "Captain, I am having too much fun.",
+    "Worse than that, it's Russian.",
+    "I calculate our position as..."
+  ],
+  "voice_acting": {
+    "native_language": "Walter Koenig",
+    "english": "Walter Koenig",
+    "note": "Iconic young officer of TOS",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Continued service in Starfleet",
+    "transformation": "Matured from young ensign to experienced officer",
+    "awakening_potential": "Became accomplished Starfleet officer",
+    "power_evolution": [
+      "Ensign",
+      "Lieutenant",
+      "Lieutenant Commander"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (various)"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise Bridge",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Pavel Andreievich Chekov is a fictional character in the Star Trek universe.",
+  "note": null,
+  "source": "star_trek"
+}

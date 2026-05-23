@@ -1,0 +1,376 @@
+{
+  "id": "6c3dd3478af70e4df3f31763974958c4",
+  "name": "Static",
+  "native_name": null,
+  "full_name": "Virgil Ovid Hawkins",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Bang Baby",
+    "bloodline": null,
+    "height_cm": 170,
+    "weight_kg": 63,
+    "age": "14-16",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark Brown",
+    "notable_features": [],
+    "skin": "Dark Brown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Paris Island, Dakota City",
+    "current_location": "Dakota City",
+    "base_of_operations": "Dakota City, Titans Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Student",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Teen Titans",
+      "Shadow Cabinet",
+      "Heroes"
+    ],
+    "previous": [],
+    "relatives": [
+      "Robert Hawkins (father)",
+      "Jean Hawkins (mother, deceased)",
+      "Sharon Hawkins (sister)",
+      "Homer Hawkins (grandfather)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Static #1 (June, 1993)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Electrokinesis",
+      "native_name": null,
+      "description": "Ability to generate, absorb, and control electricity and magnetism. Can create lightning bolts, electric force fields, and manipulate electromagnetic fields.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Water conductivity weakens attacks"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can create electromagnetic fields to levitate and propel himself through the air on static discs.",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Magnetic Manipulation",
+      "native_name": null,
+      "description": "Can magnetize and demagnetize metal objects, create magnetic force fields, and manipulate metal weapons.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": "Only affects ferromagnetic materials"
+    },
+    {
+      "name": "Electric Force Fields",
+      "native_name": null,
+      "description": "Can create protective electrostatic barriers that can deflect projectiles and protect from attacks.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Electric Bolt",
+    "Static Discharge",
+    "Magnetic Pulse"
+  ],
+  "ultimate_move": "Electromagnetic Pulse Blast",
+  "trump_card": "Full Power Lightning Storm",
+  "power_attributes": {
+    "power_type": "Electromagnetism",
+    "power_source": "Bang Baby Mutation",
+    "combat_style": [
+      "Street Fight",
+      "Electric Combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Magnetic Manipulation"
+    ],
+    "trump_card": "Full Power Lightning Storm",
+    "ultimate_move": "Electromagnetic Pulse Blast"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Intelligent",
+      "Witty",
+      "Protective"
+    ],
+    "likes": [
+      "Science",
+      "Helping others",
+      "Family"
+    ],
+    "dislikes": [
+      "Bullies",
+      "Injustice",
+      "Corruption"
+    ],
+    "fear": "Losing control of powers",
+    "dream": "Protecting Dakota City",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Young hero learning to balance normal life with superhero responsibilities while dealing with Bang Babies",
+    "motivation": "Protecting the innocent and proving himself",
+    "affinity": "Electricity",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Founded Hero League",
+    "Member of Teen Titans"
+  ],
+  "titles": [
+    "Sparky",
+    "Virg",
+    "V-Man",
+    "Static"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 70,
+    "durability": 65,
+    "power": 95,
+    "combat": 55,
+    "total": 415
+  },
+  "weaknesses": {
+    "list": [
+      "Water conducts electricity",
+      "High EMP can disable powers"
+    ],
+    "factors": [
+      "Requires electrical charges to maintain power"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ebon",
+    "allies": [
+      "Richie Foley (Gear)",
+      "Shade",
+      "Heroes"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Ebon",
+      "Hot-Streak",
+      "Perma"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Frieda Gellen",
+    "best_friend": "Richie Foley",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Richie Foley (Gear)",
+      "Shade",
+      "Heroes",
+      "Richie Foley"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ebon"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Richie Foley",
+      "Shade",
+      "Heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Voltage!",
+    "Don't make it weird!SDS"
+  ],
+  "voice_acting": {
+    "native_language": "Phil LaMarr",
+    "english": "Phil LaMarr",
+    "note": "Static Shock animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Static Saucer"
+    ],
+    "vehicles": [],
+    "headquarters": "Dakota City",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Static is a superhero appearing in American comic books published by DC Comics. The character was created by Milestone Comics founders Dwayne McDuffie, Denys Cowan, Michael Davis, Derek T. Dingle, and Christopher Priest. The character first appeared in a 3-page preview in Icon #1 with his first full appearance in Static #1, written by McDuffie and Robert L. Washington III and illustrated by John Paul Leon. He is a member of a fictional subspecies of humans with superhuman abilities known as metahumans. Not born with his powers, Hawkins' abilities develop after an incident exposes him to a radioactive chemical called \"Quantum Juice\", turning him into a \"Bang Baby\".",
+  "note": null,
+  "source": "dc"
+}

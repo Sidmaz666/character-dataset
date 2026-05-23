@@ -1,0 +1,422 @@
+{
+  "id": "df5efd551be84f33ae403f107449b7c4",
+  "name": "Shinji Ikari",
+  "native_name": "碇シンジ",
+  "full_name": "Shinji Ikari",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Pilot)",
+    "bloodline": "Ikari Family",
+    "height_cm": 150,
+    "weight_kg": 42,
+    "age": "14",
+    "birthday": "September 6",
+    "zodiac": "Virgo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown hair",
+      "Plug suit",
+      "Headset",
+      "Melancholic expression",
+      "Slouched posture"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo-3",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "NERV HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Evangelion Pilot",
+    "secondary": "Student",
+    "rank_title": "Third Child",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV",
+      "Class 2-A"
+    ],
+    "previous": [],
+    "relatives": [
+      "Gendo Ikari (father)",
+      "Yui Ikari (mother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Neon Genesis Evangelion Episode 1",
+    "manga": "Evangelion Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "AT Field",
+      "native_name": "A.T.フィールド",
+      "description": "Absolute Terror Field - physical barrier that protects Eva from attacks. Can be offensive.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self/Area",
+      "limit": "Synchronization"
+    },
+    {
+      "name": "Synchronization",
+      "native_name": "同期",
+      "description": "Syncs with Evangelion Unit-01 for control. Higher sync = more power. Can reach 400%.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Mental state"
+    },
+    {
+      "name": "Berserk Mode",
+      "native_name": "暴走",
+      "description": "Unit-01 goes berserk, unleashing incredible power unconsciously. Can defeat Angels.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Area",
+      "limit": "Uncontrollable"
+    },
+    {
+      "name": "Instrumentality",
+      "native_name": "人類補完計画",
+      "description": "Can initiate Human Instrumentality Project. Merges all souls into one.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Global",
+      "limit": "Will required"
+    }
+  ],
+  "signature_moves": [
+    "AT Field",
+    "Progressive Knife",
+    "Berserk Mode"
+  ],
+  "ultimate_move": "Instrumentality",
+  "trump_card": "Mother's soul in Unit-01",
+  "power_attributes": {
+    "power_type": "AT Field",
+    "power_source": "Soul",
+    "combat_style": [
+      "Mecha",
+      "AT Field"
+    ],
+    "weapon": "Progressive Knife",
+    "equipment": [
+      "Evangelion Unit-01"
+    ],
+    "trump_card": "Mother's soul in Unit-01",
+    "ultimate_move": "Instrumentality"
+  },
+  "personality": {
+    "traits": [
+      "Depressed",
+      "Anxious",
+      "Kind",
+      "Introverted",
+      "Conflicted",
+      "Sensitive"
+    ],
+    "likes": [
+      "Music (SDAT)",
+      "Alone time",
+      "Approval",
+      "Peace"
+    ],
+    "dislikes": [
+      "Conflict",
+      "Father",
+      "Being hurt",
+      "Responsibility"
+    ],
+    "fear": "Being abandoned",
+    "dream": "Escape pain, find acceptance",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "AT Field",
+      "Synchronization",
+      "Berserk Mode",
+      "Instrumentality"
+    ],
+    "weaknesses": [
+      "Anxious"
+    ]
+  },
+  "character": {
+    "arc": "Shinji is the reluctant Eva pilot forced to fight Angels. Struggles with depression, father issues, and fear of hurting others. Eventually accepts himself.",
+    "motivation": "Escape pain, gain father's approval",
+    "affinity": "Purple/AT Field",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Third Child",
+    "Defeated Angels",
+    "Survived Instrumentality"
+  ],
+  "titles": [
+    "Third Child",
+    "Pilot"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Pilot"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 65,
+    "speed": 70,
+    "durability": 75,
+    "power": 90,
+    "combat": 70,
+    "total": 448
+  },
+  "weaknesses": {
+    "list": [
+      "Depression",
+      "Fear of rejection",
+      "Emotional instability"
+    ],
+    "factors": [
+      "Father's approval",
+      "Asuka/Rei"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Angels, SEELE",
+    "allies": [
+      "Rei",
+      "Asuka",
+      "Misato",
+      "Kaji"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rei Ayanami",
+        "relationship": "Fellow pilot",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Angels",
+      "SEELE"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kaworu/Asuka",
+    "best_friend": "Kaworu",
+    "rival": "Asuka",
+    "mentor": "Misato",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rei",
+      "Asuka",
+      "Misato",
+      "Kaji",
+      "Kaworu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Angels, SEELE",
+      "Asuka"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Gendo"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Gendo"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Asuka"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rei",
+      "Asuka",
+      "Misato",
+      "Kaji",
+      "Kaworu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Misato"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sachiel",
+      "result": "Victory",
+      "method": "Berserk Mode"
+    },
+    {
+      "opponent": "Kaworu",
+      "result": "Victory",
+      "method": "Forced choice"
+    }
+  ],
+  "quotes": [
+    "I mustn't run away!",
+    "I'm so messed up.",
+    "Nobody understands me."
+  ],
+  "voice_acting": {
+    "native_language": "Megumi Ogata (Japanese)",
+    "note": "Melancholic, hesitant",
+    "native_name": null,
+    "english": "Spike Spencer",
+    "japanese": "Megumi Ogata"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Instrumentality/Reboot",
+    "transformation": "Berserk Mode",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Reluctant",
+      "Pilot",
+      "Instrumentality",
+      "Reboot"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Evangelion Unit-01"
+    ],
+    "headquarters": "NERV HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14\nBirthday: June 6, 2001\nHeight: 155 cm (5'1\")\nBlood type: A\nFather: Gendo Ikari\nMother: Yui Ikari\nGuardian: Misato Katsuragi\n\nShinji Ikari is the Third Child (\"Third Children\" in Japanese), who pilots Unit 01. He is the son of Gendo and the late Yui Ikari. Abandoned by his father, Gendo, when he was a toddler, Shinji often ran away from difficult situations. As a pilot, he panics easily and reacts very poorly to unexpected events. Over time and with encouragement from Misato, he learns to be less cowardly, more outspoken, and more confident.",
+  "note": null,
+  "source": "anime"
+}

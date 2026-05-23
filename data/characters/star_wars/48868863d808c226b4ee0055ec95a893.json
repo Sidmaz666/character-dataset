@@ -1,0 +1,401 @@
+{
+  "id": "48868863d808c226b4ee0055ec95a893",
+  "name": "Yoda",
+  "native_name": null,
+  "full_name": "Yoda",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Unknown (Yoda's species)",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 66,
+    "weight_kg": 14,
+    "age": "Over 900 years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 32.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "White",
+    "skin_color": "Green",
+    "notable_features": [
+      "Pointed ears",
+      "Small stature"
+    ],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased (became one with the Force)",
+    "current_location": "Deceased (became one with the Force)",
+    "base_of_operations": "Jedi Temple, Dagobah",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Master",
+    "secondary": "Grand Master of the Jedi Order",
+    "rank_title": "Grand Master",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode V: The Empire Strikes Back (1980)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Telekinesis",
+      "native_name": "Force Telekinesis",
+      "description": "Move massive objects including starships",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Requires intense focus"
+    },
+    {
+      "name": "Force Spirit",
+      "native_name": "Force Spirit",
+      "description": "Retain consciousness after death",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Learned from Qui-Gon"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": "Mind trick",
+      "description": "Influence weaker minds, communicate telepathically",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Precognitive Reflexes",
+      "native_name": "Sense",
+      "description": "Sense danger before it happens",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Cannot see everything"
+    }
+  ],
+  "signature_moves": [
+    "Force throw",
+    "Mind trick",
+    "Telepathic communication"
+  ],
+  "ultimate_move": "Force Ghost",
+  "trump_card": "900+ years of wisdom",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "Light side of the Force",
+    "combat_style": [
+      "Ataru",
+      "All forms"
+    ],
+    "weapon": "Green lightsaber",
+    "equipment": [
+      "Gimer Cane"
+    ],
+    "trump_card": "900+ years of wisdom",
+    "ultimate_move": "Force Ghost"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Patient",
+      "Mysterious",
+      "Spiritual"
+    ],
+    "likes": [
+      "Teaching",
+      "Meditation"
+    ],
+    "dislikes": [
+      "Rushing",
+      "Pride"
+    ],
+    "fear": "Jedi Order's destruction",
+    "dream": "Preserve Jedi knowledge",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "Greatest Jedi Master, trained generations, became Force ghost",
+    "motivation": "Preserve the Jedi Order",
+    "affinity": "Force",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Trained countless Jedi including Luke",
+    "Mastered all forms of lightsaber combat",
+    "Became Force ghost",
+    "Defeated Darth Sidious (momentarily)"
+  ],
+  "titles": [
+    "Grand Master",
+    "The Jedi Master"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 65,
+    "speed": 80,
+    "durability": 80,
+    "power": 100,
+    "combat": 95,
+    "total": 520
+  },
+  "weaknesses": {
+    "list": [
+      "Old age",
+      "Small stature"
+    ],
+    "factors": "Physical limitations despite power"
+  },
+  "relationships": {
+    "nemesis": "Darth Sidious",
+    "allies": [
+      "Obi-Wan Kenobi",
+      "Luke Skywalker",
+      "Mace Windu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Luke Skywalker",
+        "relationship": "Last Jedi student",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Sith Order",
+      "Empire"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Sidious",
+        "relationship": "Sith Lord",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Count Dooku (former student)",
+    "rival": "Darth Sidious",
+    "mentor": null,
+    "student": "Luke Skywalker, Obi-Wan Kenobi, many others",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Obi-Wan Kenobi",
+      "Luke Skywalker",
+      "Mace Windu",
+      "Count Dooku (former student)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Sidious"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Darth Sidious"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Luke Skywalker, Obi-Wan Kenobi, many others"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Obi-Wan Kenobi",
+      "Luke Skywalker",
+      "Mace Windu",
+      "Count Dooku"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Darth Sidious",
+      "result": "Draw",
+      "method": "Escaped after duel"
+    },
+    {
+      "opponent": "Darth Vader",
+      "result": "Victory",
+      "method": "Defeated in lightsaber combat"
+    }
+  ],
+  "quotes": [
+    "Fear is the path to the dark side.",
+    "Do or do not. There is no try.",
+    "Wars not make one great."
+  ],
+  "voice_acting": {
+    "native_language": "Frank Oz",
+    "english": "Frank Oz",
+    "note": "Voice by Frank Oz",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Became one with the Force",
+    "fate": "Died on Dagobah, appeared as Force ghost",
+    "transformation": "N/A",
+    "awakening_potential": "Would have trained more Jedi",
+    "power_evolution": [
+      "Jedi Initiate",
+      "Jedi Knight",
+      "Jedi Master",
+      "Grand Master",
+      "Force Ghost"
+    ],
+    "role_in_story": "Mentor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Jedi Temple, Dagobah",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Yoda is a fictional character in the Star Wars franchise. He is a small, green, elderly humanoid alien who is powerful with the Force, and he typically speaks in an inverted phrase order. He first appeared in the 1980 film The Empire Strikes Back, in which he is voiced and puppeteered by Frank Oz, who reprised the role in the sequel film Return of the Jedi (1983), and in the Star Wars prequel trilogy, the sequel trilogy, and the animated series Star Wars Rebels. Other actors who have voiced Yoda are Tom Kane, John Lithgow, Peter McConnell, Piotr Michael and Tony Pope. In addition to films and television series, Yoda has appeared in comics, novels, video games and commercials.",
+  "note": null,
+  "source": "star_wars"
+}

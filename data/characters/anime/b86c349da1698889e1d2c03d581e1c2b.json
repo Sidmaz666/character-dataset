@@ -1,0 +1,315 @@
+{
+  "id": "b86c349da1698889e1d2c03d581e1c2b",
+  "name": "Eri",
+  "native_name": "",
+  "full_name": "Eri",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "red",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "white short sleeve"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Seiran Kobayashi (Japanese)",
+    "Voiced by Emily Neves (English)"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Emily Neves",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Seiran Kobayashi"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Eri is a child with bandages all over her body. She wears a white short sleeve dress and has a small horn on the right side of her forehead and has white, long, choppy, unkempt hair. She also has red eyes. Under her bandages, her arms are shown to have numerous scars.\n\nHer relationship with Chisaki and the Eight Precepts suggest that she has never felt affection in her life. As she has claimed up until now, Izuku's touch was the first time she felt kindness, which overwhelmed her. When murderous intents are directed at her, she does not scream, nor cry and simply remains silent, because instead of bracing for the pain, she knows she has no choice but to accept.\n\nEri is, however, willing to let herself go with Chisaki in order to protect those that help her. She feels guilt over other people being hurt in order to rescue her.\n\nEri is the granddaughter of the ex-Capo of the Yakuza group, The Eight Precepts of Death. At a young age, she accidentally used her newly manifested Quirk on her father and it caused him to vanish. Her Quirk resembled neither of her parents' so her mother believed her existence to be cursed and gave the girl up to her father. Her grandfather then left her in the care of his protege, Kai Chisaki, so that he could test her to identify her Quirk as well be able to sympathize as it seemed as if they had similar Quirks. However, her Quirk was misdiagnosed and was in fact \"Rewind\" and not \"Vanish.\"\n\nChisaki took over the organization and then began to experiment on Eri to turn her Quirk into a weapon. Through unknown means, he discovered that her blood had properties that suppress the bodies' ability to manifest \"Quirk Factor,\" inhibiting someone's Quirk. He manufactured them into bullets that can be shot at a target and inject them with her blood. He did this by destroying Eri with his Quirk, collecting blood, and then repairing her. He did this hundreds upon thousands of times, despite Eri's pain. Eri tried to escape and resist many times but to no avail and eventually accepted her fate as a prisoner.\n\n\n(Source: Boku no Hero Academia Wikia)",
+  "note": null,
+  "source": "anime"
+}

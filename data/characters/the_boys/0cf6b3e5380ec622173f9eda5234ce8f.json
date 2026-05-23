@@ -1,0 +1,327 @@
+{
+  "name": "G-Men",
+  "native_name": null,
+  "full_name": "G-Men (Superhero Team)",
+  "basic_info": {
+    "gender": "N/A",
+    "species": "Supe Team",
+    "race": "N/A",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": "Active",
+    "birthday": "N/A",
+    "zodiac": "N/A",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "N/A",
+    "hair_color": "N/A",
+    "skin_color": "N/A",
+    "notable_features": [
+      "X-Men parody team",
+      "Many members",
+      "Vought team"
+    ],
+    "skin": "N/A",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Vought",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero Team",
+    "secondary": null,
+    "rank_title": "G-Men",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Various",
+      "type": "Team",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A"
+    }
+  ],
+  "signature_moves": [
+    "Team Assault"
+  ],
+  "ultimate_move": "G-Men Strike",
+  "trump_card": "Mutant (Supe) Team",
+  "power_attributes": {
+    "power_type": "Supe Team",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Team",
+      "Varied"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Team uniforms"
+    ],
+    "trump_card": "Mutant (Supe) Team",
+    "ultimate_move": "G-Men Strike"
+  },
+  "personality": {
+    "traits": [
+      "Diverse",
+      "Corrupt",
+      "Parody of X-Men"
+    ],
+    "likes": [
+      "Fame",
+      "Power",
+      "Vought approval"
+    ],
+    "dislikes": [
+      "Criticism"
+    ],
+    "fear": "Exposure",
+    "dream": "Dominance",
+    "personality_type": "N/A",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Various"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Vought superhero team parodying the X-Men. Known for having many members and a questionable leader.",
+    "motivation": "Vought service",
+    "affinity": "Team",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Vought superhero team"
+  ],
+  "titles": [
+    "G-Men",
+    "G-Team"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 75,
+    "speed": 70,
+    "durability": 72,
+    "power": 78,
+    "combat": 75,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Corrupt leadership",
+      "Vought dependency"
+    ],
+    "factors": [
+      "Internal corruption"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": "N/A",
+    "best_friend": "N/A",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "N/A"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "N/A"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "N/A",
+    "english": "N/A",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought team",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "",
+      "G-Men"
+    ],
+    "role": "Team",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Vought transport"
+    ],
+    "headquarters": "Vought",
+    "story_importance": "Minor Team",
+    "note": null
+  },
+  "id": "0cf6b3e5380ec622173f9eda5234ce8f",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

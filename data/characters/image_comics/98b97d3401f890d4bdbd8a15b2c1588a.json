@@ -1,0 +1,380 @@
+{
+  "name": "Donald",
+  "native_name": null,
+  "full_name": "Donald Ferguson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Cyborg)",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 80,
+    "age": "40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Professional suit",
+      "Hidden cyborg components",
+      "Loyal demeanor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "Global Defense Agency HQ",
+    "base_of_operations": "GDA Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "GDA Agent",
+    "secondary": "Cecil Stedman's right-hand",
+    "rank_title": "Agent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Global Defense Agency"
+    ],
+    "previous": [
+      "US Government"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #1 (2003)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cyborg Enhancements",
+      "type": "Technology",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self"
+    },
+    {
+      "name": "Combat Training",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 68,
+      "range": "Self"
+    },
+    {
+      "name": "Tactical Support",
+      "type": "Mental",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Self"
+    },
+    {
+      "name": "Self-Destruct (cyborg)",
+      "type": "Technology",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Self-Destruct Protocol",
+    "Tactical Support",
+    "Cyborg Defense"
+  ],
+  "ultimate_move": "Self-Sacrifice Protocol",
+  "trump_card": "Loyalty + Cyborg Durability",
+  "power_attributes": {
+    "power_type": "Cyborg",
+    "power_source": "GDA Cybernetic Reconstruction",
+    "combat_style": [
+      "Support",
+      "Tactical",
+      "Self-sacrifice"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Cybernetic implants",
+      "Self-destruct"
+    ],
+    "trump_card": "Loyalty + Cyborg Durability",
+    "ultimate_move": "Self-Sacrifice Protocol"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Dutiful",
+      "Selfless",
+      "Brave",
+      "Professional"
+    ],
+    "likes": [
+      "Order",
+      "Protecting people",
+      "Serving Cecil"
+    ],
+    "dislikes": [
+      "Chaos",
+      "Threats to Earth",
+      "Danger"
+    ],
+    "fear": "Failing to protect people",
+    "dream": "Continue serving the GDA indefinitely",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Cecil Stedman's loyal right-hand man who was secretly a cyborg rebuilt by the GDA after dying on duty. Has died multiple times and been rebuilt, each time more cyborg than human. His absolute loyalty leads him to sacrifice himself repeatedly for the greater good.",
+    "motivation": "Serve the GDA and protect humanity",
+    "affinity": "Loyalty/Technology",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Rebuilt after multiple deaths",
+    "Critical GDA operative",
+    "Saved Earth multiple times"
+  ],
+  "titles": [
+    "Donald Ferguson",
+    "Agent Donald",
+    "Cecil's Right Hand"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 60,
+    "speed": 55,
+    "durability": 70,
+    "power": 50,
+    "combat": 62,
+    "total": 369
+  },
+  "weaknesses": {
+    "list": [
+      "Humanity loss",
+      "Dependency on GDA",
+      "Cyborg vulnerabilities"
+    ],
+    "factors": [
+      "Increasingly machine",
+      "Cannot exist without GDA",
+      "Self-destruct is final"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Cecil Stedman",
+      "Invincible",
+      "GDA"
+    ],
+    "enemies": [
+      "Invincible villains",
+      "Viltrumite threats"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": "Cecil Stedman",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Cecil Stedman",
+      "Invincible",
+      "GDA"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Invincible villains",
+      "Viltrumite threats"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Cecil Stedman",
+      "Invincible",
+      "GDA"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Cecil Stedman"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Death (Rebuilt)",
+      "method": "Self-destruct against Omni-Man"
+    }
+  ],
+  "quotes": [
+    "I serve at the pleasure of Director Stedman."
+  ],
+  "voice_acting": {
+    "native_language": "Chris Diamantopoulos",
+    "english": "Chris Diamantopoulos",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active (Rebuilt)",
+    "fate": "Cyborg endlessly rebuilt by GDA",
+    "transformation": "Cyborg",
+    "awakening": null,
+    "power_evolution": [
+      "Donald Ferguson",
+      "Cyborg-Donald",
+      "GDA Cyborg Agent"
+    ],
+    "role": "Supporting Character",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "GDA vehicles"
+    ],
+    "vehicles": [
+      "GDA transport"
+    ],
+    "headquarters": "GDA HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "98b97d3401f890d4bdbd8a15b2c1588a",
+  "publisher": "image_comics",
+  "about": "Donald is a Scottish masculine given name. It is derived from the Gaelic name Dòmhnall. This comes from the Proto-Celtic *Dumno-ualos (\"world-ruler\" or \"world-wielder\"). The final -d in Donald is partly derived from a misinterpretation of the Gaelic pronunciation by English speakers. A short form of Donald is Don, and pet forms of Donald include Donnie and Donny. The feminine given name Donella is derived from Donald.\nDonald has cognates in other Celtic languages: Modern Irish Dónal (anglicised as Donal and Donall); Scottish Gaelic  Dòmhnall, Domhnull and Dòmhnull; Welsh Dyfnwal and Cumbric Dumnagual. Although the feminine given name Donna is sometimes used as a feminine form of Donald, the names are not etymologically related.",
+  "note": null,
+  "source": "image_comics"
+}

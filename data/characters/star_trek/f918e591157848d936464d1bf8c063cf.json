@@ -1,0 +1,408 @@
+{
+  "id": "f918e591157848d936464d1bf8c063cf",
+  "name": "Tuvok",
+  "native_name": null,
+  "full_name": "Tuvok",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Vulcan",
+    "race": "Vulcan",
+    "bloodline": "Tuvok",
+    "height_cm": 185,
+    "weight_kg": 78,
+    "age": "124 when on Voyager",
+    "birthday": "Unknown, 2265-2270",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Olive/Tan",
+    "notable_features": [
+      "Pointed ears",
+      "Slanted eyebrows",
+      "Vulcan composure"
+    ],
+    "skin": "Olive/Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vulcan",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Security Chief",
+    "secondary": "First Officer",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [],
+    "relatives": [
+      "Sarek (distant relative)",
+      "T'Pel (wife)",
+      "Children"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mind Meld",
+      "native_name": "Tal-tor shon",
+      "description": "Telepathic technique for connecting minds",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short",
+      "limit": "Requires physical contact"
+    },
+    {
+      "name": "Vulcan Nerve Pinch",
+      "native_name": null,
+      "description": "Press to specific points to render unconscious",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Melee",
+      "limit": "Requires contact"
+    },
+    {
+      "name": "Security Mastery",
+      "native_name": null,
+      "description": "Expert in security protocols and tactical operations",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Requires systems and backup"
+    }
+  ],
+  "signature_moves": [
+    "Vulcan Logic",
+    "Mind Meld",
+    "Security Protocols"
+  ],
+  "ultimate_move": "Mind Meld with the Voyager Crew",
+  "trump_card": "Vulcan Mental Discipline",
+  "power_attributes": {
+    "power_type": "Psionic/Combat",
+    "power_source": "Vulcan Training",
+    "combat_style": [
+      "Vulcan Martial Arts",
+      "Suus Mahna"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Tricorder",
+      "Phaser"
+    ],
+    "trump_card": "Vulcan Mental Discipline",
+    "ultimate_move": "Mind Meld with the Voyager Crew"
+  },
+  "personality": {
+    "traits": [
+      "Logical",
+      "Patient",
+      "Stoic",
+      "Occasionally Irritable (with Janeway)",
+      "Honorable"
+    ],
+    "likes": [
+      "Logic",
+      "Chess",
+      "Meditation"
+    ],
+    "dislikes": [
+      "Illogical Behavior",
+      "Janeway's Stubbornness",
+      "Chaos"
+    ],
+    "fear": "Emotional Loss of Control",
+    "dream": "Returning Home Logically",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Vulcan officer who served as Janeway's security chief in Delta Quadrant, maintained logic under extreme circumstances",
+    "motivation": "Applying Vulcan logic to chaotic situations",
+    "affinity": "Security",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Maintained security during 7-year voyage",
+    "Served as acting first officer",
+    "Mentored Seven of Nine",
+    "Solved many crew conflicts with logic",
+    "Preserved Vulcan honor in Delta Quadrant"
+  ],
+  "titles": [
+    "Lieutenant Tuvok",
+    "Security Chief",
+    "The Vulcan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 75,
+    "speed": 75,
+    "durability": 80,
+    "power": 72,
+    "combat": 80,
+    "total": 472
+  },
+  "weaknesses": {
+    "list": [
+      "Pon Farr Still Affects Him",
+      "Stubborn Captain"
+    ],
+    "factors": [
+      "Years away from wife tested him",
+      "Limited social skills"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various Delta Quadrant threats",
+    "allies": [
+      "Kathryn Janeway",
+      "Chakotay",
+      "Seven of Nine",
+      "Neelix"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kathryn Janeway",
+        "relationship": "Captain",
+        "trust_level": "High"
+      },
+      {
+        "name": "Seven of Nine",
+        "relationship": "Mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Kazon",
+      "Borg"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "T'Pel (wife)",
+    "best_friend": "Kathryn Janeway (despite differences)",
+    "rival": "Neelix (lighthearted)",
+    "mentor": "Various Vulcans",
+    "student": "Seven of Nine",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kathryn Janeway",
+      "Chakotay",
+      "Seven of Nine",
+      "Neelix",
+      "Kathryn Janeway (despite differences)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various Delta Quadrant threats",
+      "Neelix (lighthearted)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Neelix"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Seven of Nine"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kathryn Janeway",
+      "Chakotay",
+      "Seven of Nine",
+      "Neelix"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various Vulcans"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kazon",
+      "result": "Various victories",
+      "method": "Tactical planning"
+    },
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Security expertise"
+    }
+  ],
+  "quotes": [
+    "Captain, may I remind you that illogical behavior is hardly productive.",
+    "Fascinating.",
+    "I do not experience boredom."
+  ],
+  "voice_acting": {
+    "native_language": "Tim Russ",
+    "english": "Tim Russ",
+    "note": "Second major Vulcan in Star Trek franchise",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Returned to Vulcan, continued service",
+    "transformation": "Maintained Vulcan discipline throughout journey",
+    "awakening_potential": "Served with distinction in difficult circumstances",
+    "power_evolution": [
+      "Security Officer",
+      "Vulcan Mentor"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Voyager Security",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Tuvok  is a fictional character in the Star Trek media franchise and a main character in the television series Star Trek: Voyager. Tuvok is a Vulcan who serves as the ship's second officer, Chief of Security, and Chief Tactical Officer. He was portrayed by Tim Russ throughout the show's run from 1995 to 2001, as well as in subsequent portrayals.\nTuvok's backstory is told during the first episode of Voyager, where he worked as an undercover Federation agent aboard a Maquis ship, the Val Jean, led by Chakotay. The starship Voyager, under the command of Captain Kathryn Janeway, is sent to extract Tuvok, but the mission is interrupted as both ships are catapulted across the galaxy by a mysterious force. Janeway leads both crews on a return trip home for seven years in uncharted space, creating the basic setting of the series.",
+  "note": null,
+  "source": "star_trek"
+}

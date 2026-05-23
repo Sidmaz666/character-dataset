@@ -1,0 +1,426 @@
+{
+  "id": "991095cad4cfb208fd6f70abcfbb810e",
+  "name": "Roronoa Zoro",
+  "native_name": "ロロノア・ゾロ",
+  "full_name": "Roronoa Zoro",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Roronoa Family",
+    "height_cm": 181,
+    "weight_kg": 80,
+    "age": "19-21",
+    "birthday": "November 11",
+    "zodiac": "Scorpio",
+    "blood_type": "XF",
+    "weight_kkg": null,
+    "bmi": 24.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Green",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green hair",
+      "Three earrings",
+      "Green bandana",
+      "Scar over eye",
+      "Muscular"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Shimotsuki Village, East Blue",
+    "current_location": "Grand Line",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate",
+    "secondary": "Swordsman",
+    "rank_title": "First Mate",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates"
+    ],
+    "previous": [],
+    "relatives": [
+      "Kuina (childhood friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 1",
+    "manga": "One Piece Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Three Sword Style",
+      "native_name": "三刀流",
+      "description": "Wields three swords simultaneously - one in mouth, two in hands. Unique fighting style.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Haki",
+      "native_name": "覇気",
+      "description": "Uses Armament and Observation Haki. Can coat swords in black.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Asura",
+      "native_name": "阿修羅",
+      "description": "Creates nine-sword, three-headed avatar. Devastating attack.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 96,
+      "range": "Area",
+      "limit": "Massive energy"
+    },
+    {
+      "name": "Sword Techniques",
+      "native_name": "剣技",
+      "description": "Master swordsman with countless techniques: Oni Giri, Santoryu Ogi, etc.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Melee",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Oni Giri",
+    "Santoryu Ogi",
+    "Asura"
+  ],
+  "ultimate_move": "Asura",
+  "trump_card": "Three Sword Style",
+  "power_attributes": {
+    "power_type": "Swordsmanship",
+    "power_source": "Training",
+    "combat_style": [
+      "Three Sword Style",
+      "Haki"
+    ],
+    "weapon": "Three swords (Wado Ichimonji, Zantetsu, Shusui)",
+    "equipment": [
+      "Three swords",
+      "Bandana"
+    ],
+    "trump_card": "Three Sword Style",
+    "ultimate_move": "Asura"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Serious",
+      "Determined",
+      "Stoic",
+      "Protective",
+      "Honor-bound"
+    ],
+    "likes": [
+      "Training",
+      "Sake",
+      "Meat",
+      "Napping",
+      "Directional challenges"
+    ],
+    "dislikes": [
+      "Getting lost",
+      "Weakness",
+      "Betrayal",
+      "Pirates harming friends"
+    ],
+    "fear": "Failing Luffy",
+    "dream": "Become World's Greatest Swordsman",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weakness"
+    ]
+  },
+  "character": {
+    "arc": "Zoro is Luffy's first mate and aspiring world's greatest swordsman. Extremely loyal, terrible with directions. Would sacrifice himself for crew.",
+    "motivation": "Become strongest swordsman, protect Luffy",
+    "affinity": "Green/Three swords",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Mihawk (temporarily)",
+    "Cut steel",
+    "Asura manifestation",
+    "King of Hell"
+  ],
+  "titles": [
+    "Pirate Hunter",
+    "First Mate",
+    "King of Hell"
+  ],
+  "bounty": {
+    "amount": 320000000,
+    "currency": "Berries",
+    "details": "Straw Hat Pirates"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 90,
+    "speed": 85,
+    "durability": 92,
+    "power": 92,
+    "combat": 96,
+    "total": 530
+  },
+  "weaknesses": {
+    "list": [
+      "No direction sense",
+      "Luffy's safety",
+      "Overconfidence"
+    ],
+    "factors": [
+      "Crew's safety",
+      "Kuina's promise"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mihawk",
+    "allies": [
+      "Luffy",
+      "Sanji",
+      "Nami",
+      "Usopp",
+      "Chopper"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Mihawk",
+      "Marines",
+      "Baroque Works"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Luffy",
+    "rival": "Sanji (friendly)",
+    "mentor": "Koushirou",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Luffy",
+      "Sanji",
+      "Nami",
+      "Usopp",
+      "Chopper"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mihawk",
+      "Sanji (friendly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Sanji"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Luffy",
+      "Sanji",
+      "Nami",
+      "Usopp",
+      "Chopper"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Koushirou"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mihawk",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Kaku",
+      "result": "Victory",
+      "method": "New techniques"
+    },
+    {
+      "opponent": "King",
+      "result": "Victory",
+      "method": "Enma + Haki"
+    }
+  ],
+  "quotes": [
+    "I'm going to be the world's greatest swordsman!",
+    "Nothing happened!",
+    "Luffy is the man who will become King of the Pirates!"
+  ],
+  "voice_acting": {
+    "native_language": "Kazuya Nakai (Japanese)",
+    "note": "Deep, serious",
+    "native_name": null,
+    "english": "Christopher Sabat",
+    "japanese": "Kazuya Nakai"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues journey",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Hunter",
+      "Pirate",
+      "First Mate",
+      "King of Hell"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Thousand Sunny"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 19; 21\nBirthdate: November 11, Scorpio \nHeight: 178 cm (5'10\") , 181 (5'11\") (after timeskip)\nAffiliation: Straw Hat Pirates\nPosition: Swordsman\nDevil Fruit: None\nBounty: \nZoro was the first crew member to be recruited by Luffy. Zoro is a skilled swordsman who fights with his own unique sword style known as santoryu (three katana fighting style). This is achieved by using one katana in each hand and another in his mouth. He is also seen fighting with only one or two swords. When in a serious fight he ties his bandana, normally tied on the arm, on his head.\n\nThough not a samurai, he appears to maintain a certain degree of bushido, and is frequently mistaken for one. Unlike Luffy and most of the other Straw Hat pirates, Zoro has been known to kill his opponents if he has to, though never in cold blood.\n\nZoro has a stern, serious and distanced personality, but, unlike Robin, he often reacts in a goofy and exaggerated comic style due to his gruff, impatient attitude. On the ship, he normally either trains with weights or sleeps. The only work he is seen doing regularly is hoisting the anchor using his great strength. He also likes sake, almost to the degree that Luffy likes meat, but like Nami, he never gets drunk due to his inhumanly-high endurance and tolerance for alcohol. Another notable trait is his lack of orientation, as Zoro often gets lost, even in small, familiar spaces or when being led by someone. Despite this, he is often the first to sense an enemy or danger, and the first to react. He is often displayed being well aware of dangerous situations and people around him.\n\nZoro often also reminds others of the harsh facts, which often shocks some of the other crew members, although they usually decide he is right. Zoro has also stated that he is an atheist, and has never believed in anything except himself. He often comes across as arrogant and overconfident, but only because he knows he's a strong man with great fighting ability. Even so, Zoro knows that he still has a lot of untapped potential, and is constantly seen training and trying to improve his fighting skills. He also adheres to a strict sword master's code of honor, and never falsely brags or lies about his abilities, sometimes outright admitting a weakness, even to an enemy. He also never tries to escape from a fight or use trickery to win, believing that doing so is cowardly and scorning anyone who uses such tactics. Zoro is very vigorous, strong-willed, and determined.",
+  "note": null,
+  "source": "anime"
+}

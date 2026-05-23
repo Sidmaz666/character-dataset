@@ -1,0 +1,409 @@
+{
+  "id": "549077088770f2b0c0cf7bbc9a84fb6f",
+  "name": "Kankuro",
+  "native_name": "カンクロウ",
+  "full_name": "Kankuro",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kazekage Clan",
+    "height_cm": 168,
+    "weight_kg": 55,
+    "age": "14-15 (Part I), 17-18 (Part II)",
+    "birthday": "May 15",
+    "zodiac": "Taurus",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Purple face paint",
+      "Black hood",
+      "Puppeteer",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sunagakure",
+    "current_location": "Sunagakure",
+    "base_of_operations": "Sunagakure",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Puppeteer",
+    "rank_title": "Jonin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sunagakure",
+      "Allied Shinobi Forces"
+    ],
+    "previous": [],
+    "relatives": [
+      "Fourth Kazekage (father)",
+      "Gaara (brother)",
+      "Temari (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 22",
+    "manga": "Naruto Chapter 35",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Puppet Mastery",
+      "native_name": "傀儡術",
+      "description": "Master puppeteer controlling multiple puppets with chakra threads.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Chakra threads"
+    },
+    {
+      "name": "Crow",
+      "native_name": "烏",
+      "description": "Main battle puppet with hidden weapons and poison blades.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Mid",
+      "limit": "Puppet durability"
+    },
+    {
+      "name": "Black Ant",
+      "native_name": "黒蟻",
+      "description": "Puppet designed for capturing and holding enemies.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Mid",
+      "limit": "Puppet durability"
+    },
+    {
+      "name": "Poison Mastery",
+      "native_name": "毒の達人",
+      "description": "Uses deadly poisons on puppet weapons. Lethal on contact.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Contact",
+      "limit": "Antidote required"
+    }
+  ],
+  "signature_moves": [
+    "Puppet control",
+    "Crow attack",
+    "Poison blades"
+  ],
+  "ultimate_move": "Multiple puppet control",
+  "trump_card": "Sasori puppets",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Puppet techniques",
+    "combat_style": [
+      "Puppetry",
+      "Ranged"
+    ],
+    "weapon": "Puppets",
+    "equipment": [
+      "Crow",
+      "Black Ant",
+      "Salamander"
+    ],
+    "trump_card": "Sasori puppets",
+    "ultimate_move": "Multiple puppet control"
+  },
+  "personality": {
+    "traits": [
+      "Protective",
+      "Sarcastic",
+      "Loyal",
+      "Caring",
+      "Serious",
+      "Proud"
+    ],
+    "likes": [
+      "Gaara",
+      "Temari",
+      "Puppets",
+      "Sunagakure"
+    ],
+    "dislikes": [
+      "Being underestimated",
+      "Threats to family",
+      "Sasori"
+    ],
+    "fear": "Losing siblings",
+    "dream": "Protect Gaara and Suna",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Kankuro starts as overprotective of Gaara. Becomes skilled puppeteer, protects village and siblings.",
+    "motivation": "Protect Gaara and Temari",
+    "affinity": "Black/Puppets",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Jonin",
+    "Puppet master",
+    "War hero"
+  ],
+  "titles": [
+    "Puppet Master",
+    "Jonin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 72,
+    "speed": 75,
+    "durability": 70,
+    "power": 82,
+    "combat": 85,
+    "total": 464
+  },
+  "weaknesses": {
+    "list": [
+      "Dependent on puppets",
+      "Close-range weakness",
+      "Chakra threads"
+    ],
+    "factors": [
+      "Puppet destruction"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Sasori",
+    "allies": [
+      "Gaara",
+      "Temari",
+      "Naruto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gaara",
+        "relationship": "Brother to protect",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki",
+      "Sasori"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Gaara/Temari",
+    "rival": "None",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gaara",
+      "Temari",
+      "Naruto",
+      "Gaara/Temari"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sasori",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gaara",
+      "Temari",
+      "Naruto",
+      "Gaara/Temari"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sasori",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Akatsuki",
+      "result": "Victory",
+      "method": "Puppets"
+    }
+  ],
+  "quotes": [
+    "Don't underestimate Suna!",
+    "My puppets are my strength.",
+    "I'll protect Gaara."
+  ],
+  "voice_acting": {
+    "native_language": "Yasuyuki Kase (Japanese)",
+    "note": "Serious, protective",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues service",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Jonin",
+      "Master"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Sunagakure",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: September 6 (Virgo)\nAge: 15\nBlood type: O\nHeight: 172 cm\nWeight: 56 kg\n\nZakuro Fujiwara is the last of the main Mew Mews introduced. As with the others, she first appears at the start of the series, helping rescue Lettuce from bullies at the endangered animal exhibit. She reappears at end of the second volume, when Mint finds a picture of her in a magazine and recognizes her from the museum. When the Mew Mews first meet Zakuro, she seems friendly, but after discovering who they are, she coldly brushes them off. Kish decides to target Zakuro, because she is separated from the others. The Mew Mews come to her aid, and after the battle, Zakuro decides she will make an exception for them and become a part of the team. Infused with the DNA of a Gray Wolf, Zakuro has a wolf tail and ears while in her Mew Mew form, and fights with a whip.\n\nZakuro is presented as a mature character, who works as a professional model. As her biggest fan Mint effuses, Zakuro has \"long, glossy, raven hair\" with \"dark, intelligent, yet sensitive eyes\" and \"long, strong and thin legs\". During an audition, she is shown being helpful to the new models – the other Mew Mews working undercover – and its stated that she is well-traveled with the ability to speak five languages.\n\nIn the anime adaptation, Zakuro's background is more developed, and she is shown to be estranged from her family, having left home two years before. She is depicted as being a Christian, wearing a cross and attending a Christian church. Junko Noda provides her voice in the anime. In the Mew Mew Power English adaptation, her name is changed to Renée Roberts and the references to her Christian faith are edited out of the series. Her voice in the English dub is supplied by Mollie Weaver.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

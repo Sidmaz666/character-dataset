@@ -1,0 +1,407 @@
+{
+  "id": "2b2e4b8c77d7c71935dea45068479045",
+  "name": "Kiba Inuzuka",
+  "native_name": "犬塚キバ",
+  "full_name": "Kiba Inuzuka",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Inuzuka Clan)",
+    "bloodline": "Inuzuka Clan",
+    "height_cm": 169,
+    "weight_kg": 54,
+    "age": "12-13 (Part I), 15-17 (Part II)",
+    "birthday": "July 7",
+    "zodiac": "Cancer",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 18.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Fang marks",
+      "Wild hair",
+      "Akamaru companion",
+      "Feral look"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Inuzuka Compound",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "None",
+    "rank_title": "Chunin (Part II)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team 8",
+      "Inuzuka Clan"
+    ],
+    "previous": [],
+    "relatives": [
+      "Tsume Inuzuka (mother)",
+      "Hana (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Beast Mimicry",
+      "native_name": "獣の真似",
+      "description": "Fights like a wild dog with enhanced senses and feral techniques.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Fang Over Fang",
+      "native_name": "牙通牙",
+      "description": "Spins rapidly like a drill, attacking with claws and teeth.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Akamaru required"
+    },
+    {
+      "name": "Enhanced Senses",
+      "native_name": "嗅覚",
+      "description": "Incredible sense of smell, can track anything.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Two-Headed Wolf",
+      "native_name": "二匹狼",
+      "description": "Akamaru transforms to match Kiba, doubling power.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Akamaru's chakra"
+    }
+  ],
+  "signature_moves": [
+    "Fang Over Fang",
+    "Beast Mimicry",
+    "Two-Headed Wolf"
+  ],
+  "ultimate_move": "Fang Wolf King",
+  "trump_card": "Akamaru partnership",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Inuzuka techniques",
+    "combat_style": [
+      "Taijutsu",
+      "Beast style"
+    ],
+    "weapon": "Claws",
+    "equipment": [
+      "Akamaru"
+    ],
+    "trump_card": "Akamaru partnership",
+    "ultimate_move": "Fang Wolf King"
+  },
+  "personality": {
+    "traits": [
+      "Wild",
+      "Loyal",
+      "Confident",
+      "Protective",
+      "Hot-headed",
+      "Caring"
+    ],
+    "likes": [
+      "Akamaru",
+      "Training",
+      "Hunting",
+      "Team 8"
+    ],
+    "dislikes": [
+      "Being underestimated",
+      "Cats",
+      "Losing"
+    ],
+    "fear": "Losing Akamaru",
+    "dream": "Become Hokage, strongest ninja-dog team",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Kiba is a wild, confident ninja from Inuzuka clan. Partners with Akamaru throughout journey.",
+    "motivation": "Become strong with Akamaru",
+    "affinity": "Brown/Beast",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Chunin",
+    "Inuzuka heir",
+    "Team 8 member"
+  ],
+  "titles": [
+    "Fang User",
+    "Chunin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 78,
+    "speed": 82,
+    "durability": 75,
+    "power": 80,
+    "combat": 85,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfident",
+      "Reckless",
+      "Needs Akamaru"
+    ],
+    "factors": [
+      "Akamaru's safety"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Hinata",
+      "Shino",
+      "Akamaru"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Akamaru",
+        "relationship": "Best friend/partner",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Akamaru",
+    "rival": "Naruto (friendly)",
+    "mentor": "Kurenai",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hinata",
+      "Shino",
+      "Akamaru"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None",
+      "Naruto (friendly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Naruto"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hinata",
+      "Shino",
+      "Akamaru"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kurenai"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Naruto",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Akatsuki",
+      "result": "Victory",
+      "method": "Team effort"
+    }
+  ],
+  "quotes": [
+    "Akamaru!",
+    "I'll take you down!",
+    "My nose never lies."
+  ],
+  "voice_acting": {
+    "native_language": "Kosuke Toriumi (Japanese)",
+    "note": "Wild, energetic",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues service",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Partner",
+      "Master"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Inuzuka Compound",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The (more or less) leader of the \"pack,\" Kiba follows his instincts towards Paradise. When he was young, his pack and family were slaughtered when the forest where he lived was burned to the ground by Jagara's troops. He was then raised by a native who told him that he had a purpose, explaining why the forest spared his life. This native told him that he would have a great journey ahead of him, and that journey was to find paradise. Kiba begins his quest for paradise in the hope that there he will finally find peace. He tends to be distrustful of humans, and in the early episodes is reluctant to take a human form, even when it's more convenient. He also has a \"love\" for Cheza, which may only be due to the fact that she can lead them to paradise. Kiba seems to be an Arctic wolf in the series.\n\n(Source: Wikipedia)\n\nKiba's name means \"fang\" in Japanese.",
+  "note": null,
+  "source": "anime"
+}

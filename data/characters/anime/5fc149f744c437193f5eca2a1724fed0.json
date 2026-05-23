@@ -1,0 +1,365 @@
+{
+  "id": "5fc149f744c437193f5eca2a1724fed0",
+  "name": "Ijichi, Nijika",
+  "native_name": "伊地知虹夏",
+  "full_name": "Nijika Ijichi",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Ijichi",
+    "height_cm": 154,
+    "weight_kg": 48,
+    "age": "17",
+    "birthday": "June 21",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Drumsticks",
+      "Gentle smile"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "STARRY Live House",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Drummer",
+    "secondary": "Live house staff",
+    "rank_title": "Drummer",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kessoku Band",
+      "STARRY"
+    ],
+    "previous": [],
+    "relatives": [
+      "Seika (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bocchi the Rock Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Drumming",
+      "native_name": "ドラム演奏",
+      "description": "Skilled drummer",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Leadership",
+      "native_name": "リーダーシップ",
+      "description": "Natural band leader",
+      "type": "Social",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Band",
+      "limit": "None"
+    },
+    {
+      "name": "Kindness",
+      "native_name": "優しさ",
+      "description": "Caring personality",
+      "type": "Social",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Drum Solo",
+    "Band Coordination"
+  ],
+  "ultimate_move": "Perfect Rhythm",
+  "trump_card": "Band Spirit",
+  "power_attributes": {
+    "power_type": "Music",
+    "power_source": "Practice",
+    "combat_style": [],
+    "weapon": "Drumsticks",
+    "equipment": [
+      "Drum kit"
+    ],
+    "trump_card": "Band Spirit",
+    "ultimate_move": "Perfect Rhythm"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Responsible",
+      "Cheerful",
+      "Caring",
+      "Mature"
+    ],
+    "likes": [
+      "Band",
+      "Sister",
+      "Music"
+    ],
+    "dislikes": [
+      "Conflict",
+      "Sadness"
+    ],
+    "fear": "Band breaking up",
+    "dream": "Successful band",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Drummer bringing band together",
+    "motivation": "Keep band together",
+    "affinity": "Music",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Founded Kessoku Band",
+    "Successful performances",
+    "Helped Hitori grow"
+  ],
+  "titles": [
+    "Drummer",
+    "Band Leader"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 45,
+    "speed": 65,
+    "durability": 60,
+    "power": 65,
+    "combat": 35,
+    "total": 345
+  },
+  "weaknesses": {
+    "list": [
+      "Too nice",
+      "Worries about others",
+      "Self-sacrificing"
+    ],
+    "factors": [
+      "Band conflicts"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Hitori",
+      "Ryou",
+      "Ikuyo",
+      "Seika"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hitori",
+        "relationship": "Bandmate",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Seika",
+        "relationship": "Sister",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Hitori",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hitori",
+      "Ryou",
+      "Ikuyo",
+      "Seika"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hitori",
+      "Ryou",
+      "Ikuyo",
+      "Seika"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Let's all play together!",
+    "Music brings us together."
+  ],
+  "voice_acting": {
+    "native_language": "Sayumi Suzushiro",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Sayumi Suzushiro"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues drumming",
+    "transformation": null,
+    "awakening_potential": "Moderate",
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "STARRY",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Species: Human\nGender: Male\nBirthday: May 5 (Children's Day in Japan)\nZodiac: Taurus\nAge: 27\nBlood type: A\nHeight: 177 cm\nWeight: 64 kg\nOthers: right-handed, chain smoker\nAffiliations: Shinsengumi\n\nHijikata is the famed chain smoking, vice commander of the Shinsengumi so named by his subordinates, because of his fearsome demeanor. Purportedly the brains behind the force, he takes his work seriously, and is fiercely loyal to his leader, Isao Kondo.\n\nHijikata has a reputation as a fearsome leader, earning the nickname of \"demonic vice-commander.\" He is also hot-tempered and often speaks of seppuku. However, despite his cold exterior, he does have a more compassionate side. He also has a tendency to cry after watching movies that are not particularly emotional.\n\nHijikata is obsessed with mayonnaise and thus has the nickname \"Mayora.\" He has been known to smother anything he eats under a mountain of mayonnaise, and he carries a number of objects shaped like jars of mayonnaise, such as his cigarette lighter. He was popular with girls until they discovered this obsession.\n\nHe enjoys fighting and sees Gintoki as a rival in practically everything he does from drinking contests to rock, paper, scissors ever since being defeated by him in battle. He is in constant danger of being killed by the attempts on his life by Okita. But, despite all this, he sees Okita as one of his close friends, and vice versa.\n\nBefore joining Shinsengumi, he used to be a trouble-maker ronin. He enjoys fighting/having a good fight and says he doesn't care how many Amanto buildings get blown up, he only looks forward to having a big battle with the Joui rebels after Shinsengumi has rounded them in 1 fell swoop, in Episode 5.\n\nHe also formulated the Kyokuchuu Hatto, the 45 Regulations that form the disciplinary framework for Shinsengumi members, and implements them firmly.\n\nHe smokes and eats mayonnaise.\n\n(Source: Gintama Wikia, Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

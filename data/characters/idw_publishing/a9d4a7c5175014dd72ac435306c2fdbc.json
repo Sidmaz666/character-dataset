@@ -1,0 +1,402 @@
+{
+  "id": "a9d4a7c5175014dd72ac435306c2fdbc",
+  "name": "Optimus Prime",
+  "native_name": "Orion Pax",
+  "full_name": "Optimus Prime (Orion Pax)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cybertronian",
+    "race": "Autobot",
+    "bloodline": null,
+    "height_cm": 914,
+    "weight_kg": 45000,
+    "age": "9 million years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": 538.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "N/A",
+    "skin_color": "Red and blue (metal)",
+    "notable_features": [
+      "Transformation",
+      "Trailer",
+      "Ion axe"
+    ],
+    "skin": "Red and blue (metal)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cybertron",
+    "current_location": "Various",
+    "base_of_operations": "Cybertron",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Autobot Leader",
+    "secondary": "Prime",
+    "rank_title": "Leader of Autobots",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Autobots"
+    ],
+    "previous": [
+      "Cybertronian Police"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Transformers (IDW Comics 2005)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Immense physical strength from Cybertronian body",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires transformation"
+    },
+    {
+      "name": "Matrix of Leadership",
+      "native_name": null,
+      "description": "Ancient artifact granting leadership and power",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Must be worthy"
+    },
+    {
+      "name": "Transformation",
+      "native_name": null,
+      "description": "Transform into truck and back",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Requires alt mode"
+    },
+    {
+      "name": "Cosmic Awareness",
+      "native_name": null,
+      "description": "Sense events across the universe",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Requires matrix"
+    }
+  ],
+  "signature_moves": [
+    "Ion axe strike",
+    "Rocket punch",
+    " trailer attack"
+  ],
+  "ultimate_move": "Prime Finale",
+  "trump_card": "Matrix of Leadership",
+  "power_attributes": {
+    "power_type": "Cybertronian technology",
+    "power_source": "Matrix of Leadership",
+    "combat_style": [
+      "Combat",
+      "Leadership"
+    ],
+    "weapon": "Ion axe, energon blaster",
+    "equipment": [
+      "Trailer",
+      "Ion rifle"
+    ],
+    "trump_card": "Matrix of Leadership",
+    "ultimate_move": "Prime Finale"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Wise",
+      "Brave",
+      "Selfless"
+    ],
+    "likes": [
+      "Freedom",
+      "Protecting the weak"
+    ],
+    "dislikes": [
+      "Decepticons",
+      "Tyranny"
+    ],
+    "fear": "Failing his people",
+    "dream": "Cybertron at peace",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Former cop who became Prime to lead Autobots against Decepticons",
+    "motivation": "Protect all sentient life",
+    "affinity": "Technology",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Led Autobots to victory multiple times",
+    "Held Matrix of Leadership",
+    "Became Link to Afterglow",
+    "Saved Cybertron"
+  ],
+  "titles": [
+    "Prime",
+    "The Leader",
+    "Orion Pax"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 95,
+    "speed": 80,
+    "durability": 95,
+    "power": 90,
+    "combat": 90,
+    "total": 545
+  },
+  "weaknesses": {
+    "list": [
+      "Can be overpowered",
+      "Emotion vulnerabilities"
+    ],
+    "factors": "Sometimes too noble"
+  },
+  "relationships": {
+    "nemesis": "Megatron",
+    "allies": [
+      "Bumblebee",
+      "Ratchet",
+      "Elita-One"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bumblebee",
+        "relationship": "Protégé",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Megatron",
+      "Decepticons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Megatron",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Elita-One",
+    "best_friend": "Megatron (former)",
+    "rival": "Megatron",
+    "mentor": "Alpha Trion",
+    "student": "Bumblebee",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Bumblebee",
+      "Ratchet",
+      "Elita-One",
+      "Megatron (former)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Megatron"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Megatron"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Bumblebee"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Bumblebee",
+      "Ratchet",
+      "Elita-One",
+      "Megatron"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Alpha Trion"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Megatron",
+      "result": "Various - typically won",
+      "method": "Strategic combat"
+    }
+  ],
+  "quotes": [
+    "Freedom is the right of all sentient beings.",
+    "I am the sword in the darkness."
+  ],
+  "voice_acting": {
+    "native_language": "Peter Cullen (various)",
+    "english": "Peter Cullen",
+    "note": "Portrayed by various voice actors",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to fight",
+    "transformation": "Truck mode",
+    "awakening_potential": "Could achieve ultimate form",
+    "power_evolution": [
+      "Cop",
+      "Orion Pax",
+      "Optimus Prime"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Trailer truck"
+    ],
+    "vehicles": [
+      "Truck mode"
+    ],
+    "headquarters": "Cybertron",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "idw_publishing",
+  "about": "Optimus Prime, also known in Japan as Convoy (コンボイ), is the main protagonist of the Transformers franchise. Generally depicted as a brave and noble leader, Optimus Prime is the supreme commander of the Autobots in their fight against the Decepticons. The Transformers characters were developed for the American market after Hasbro representatives visited the 1983 Tokyo Toy Show. Some designs were modified and the coloring was changed; notably, Optimus Prime (released in 1982 as Diaclone No. 17 - Battle Convoy and in 1984 as Powered Convoy) was colored red, chrome, and dark blue. While the Diaclone version was intended to be a piloted mecha, the Transformers version was a sentient robot. The popularity of the Transformers toys resulted in comics, movies, and a TV series.\nIn the Transformers mythology, Optimus Prime is a Cybertronian, a member of an extraterrestrial species of sentient self-configuring modular robotic lifeforms (e.g., cars and other objects), a blend of biological evolution and technological engineering. He is the primary hero of the story, opposing the Decepticon leader Megatron.\nDue to the popularity of the Transformers franchise and Optimus Prime's position as one of its most iconic characters, he is commonly regarded as among the greatest and most recognizable fictional characters of all time. As an established pop culture icon, his voice has been portrayed by a variety of actors, with the most common being his first, Peter Cullen. Other actors include Garry Chalk, Neil Kaplan, David Kaye, Alan Tudyk, and Chris Hemsworth.",
+  "note": null,
+  "source": "idw_publishing"
+}

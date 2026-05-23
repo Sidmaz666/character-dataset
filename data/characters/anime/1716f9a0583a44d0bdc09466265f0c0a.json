@@ -1,0 +1,363 @@
+{
+  "id": "1716f9a0583a44d0bdc09466265f0c0a",
+  "name": "Vicious",
+  "native_name": "Vicious",
+  "full_name": "Vicious",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 188,
+    "weight_kg": 78,
+    "age": "Unknown (30s)",
+    "birthday": "Unknown",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red/Brown",
+    "hair_color": "White/Silver",
+    "skin": "Pale",
+    "notable_features": [
+      "Long silver hair in ponytail",
+      "always wears a black suit",
+      "carries a katana"
+    ],
+    "skin_color": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Red Dragon Syndicate headquarters",
+    "current_location": "Red Dragon Syndicate headquarters",
+    "base_of_operations": "Red Dragon Syndicate headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Red Dragon Syndicate Enforcer",
+    "secondary": "Assassin",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Red Dragon Syndicate"
+    ],
+    "previous": [],
+    "relatives": [
+      "Unknown"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Cowboy Bebop Episode 5",
+    "manga": "Cowboy Bebop Episode 5",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Swordsman",
+      "native_name": null,
+      "description": "Deadly katana wielder with superhuman skill",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Marksmanship",
+      "native_name": null,
+      "description": "Expert with firearms",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "native_name": null,
+      "description": "Proficient martial artist",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Syndicate Leadership",
+      "native_name": null,
+      "description": "Controls the Red Dragon Syndicate through fear and power",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Global",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Iaido quickdraw",
+    "Katana slash"
+  ],
+  "ultimate_move": "Bloody katana flurry",
+  "trump_card": "Master Swordsman",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "Master Swordsman"
+    ],
+    "trump_card": "Master Swordsman",
+    "ultimate_move": "Bloody katana flurry"
+  },
+  "personality": {
+    "traits": [
+      "Sadistic",
+      "Cold",
+      "Calculating",
+      "Patient",
+      "Psychopathic"
+    ],
+    "likes": [
+      "Power",
+      "killing",
+      "Julia"
+    ],
+    "dislikes": [
+      "Spike Spiegel",
+      "betrayal"
+    ],
+    "fear": "Fear itself",
+    "dream": "Gain complete control of the Syndicate and eliminate Spike",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Sadistic",
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Spike's former friend and now mortal enemy, leader of the Red Dragon Syndicate",
+    "motivation": "Gain complete control of the Syndicate and eliminate Spike",
+    "affinity": "Evil",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Voiced by Norio Wakamoto (Japanese)",
+    "Voiced by Skip Stellrecht (English)",
+    "Master Swordsman"
+  ],
+  "titles": [
+    "Red Dragon Syndicate Enforcer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 75,
+    "speed": 80,
+    "durability": 70,
+    "power": 45,
+    "combat": 95,
+    "total": 450
+  },
+  "weaknesses": {
+    "list": [
+      "Sadistic",
+      "Cold"
+    ],
+    "factors": [
+      "sadistic",
+      "cold"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Spike Spiegel",
+    "allies": [
+      "Red Dragon Syndicate"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Spike Spiegel"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Julia",
+    "best_friend": null,
+    "rival": "Spike Spiegel",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Red Dragon Syndicate"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Spike Spiegel"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Spike Spiegel"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Red Dragon Syndicate"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "A lone wolf is nothing without the pack."
+  ],
+  "voice_acting": {
+    "native_language": "Norio Wakamoto",
+    "note": null,
+    "native_name": null,
+    "english": "Skip Stellrecht",
+    "japanese": "Norio Wakamoto"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "It's all in the name with Vicious: he is ruthless, bloodthirsty, cunning and ambitious, willing to do anything in order to secure a position of power. He is a member of the Red Dragon Crime Syndicate in Tharsis, and is often referred to or depicted as a venomous snake. His weapon of choice is not a firearm, but a katana which he wields skillfully, even against gun-wielders. After Spike's supposed death, Vicious also leaves the Red Dragons briefly to fight in the Titan War of 2068 although his precise motivations for enlisting are debated. \n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,397 @@
+{
+  "id": "3268cc9052e84b08898dd2b319c0940a",
+  "name": "Rimuru Tempest",
+  "native_name": "Rimuru Tempest",
+  "full_name": "Rimuru Tempest",
+  "basic_info": {
+    "gender": "Genderless (Male-presenting)",
+    "species": "Slime (formerly Human)",
+    "race": "Demon Slime / True Dragon",
+    "height_cm": 135,
+    "weight_kg": 0,
+    "age": "3+ years (immortal)",
+    "birthday": "Unknown (reborn)",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gold",
+    "hair_color": "Blue (human form)",
+    "skin": "Blue (slime) / Fair (human)",
+    "notable_features": [
+      "Blue slime body (true form)",
+      "human form with blue hair and golden eyes"
+    ],
+    "skin_color": "Blue (slime) / Fair (human)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Jura Forest (reborn)",
+    "current_location": "Jura Tempest Federation",
+    "base_of_operations": "Jura Tempest Federation",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Lord / King",
+    "secondary": "Ruler of Jura Tempest Federation",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jura Tempest Federation",
+      "Eight Star Demon Lords"
+    ],
+    "previous": [],
+    "relatives": [
+      "Veldora Tempest (best friend / sworn brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Tensei shitara Slime Datta Ken Episode 1",
+    "manga": "Tensei shitara Slime Datta Ken Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Predator",
+      "native_name": "捕食者",
+      "description": "Can analyze, absorb, and copy any being's abilities",
+      "type": "Cosmic",
+      "tier": "EX",
+      "power_level": 100,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Great Sage / Raphael / Ciel",
+      "native_name": "大賢者",
+      "description": "Self-evolving ultimate skill that analyzes everything with perfect accuracy",
+      "type": "Support",
+      "tier": "EX",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Turn Null",
+      "native_name": "虚无",
+      "description": "The ultimate skill of void creation and destruction",
+      "type": "Cosmic",
+      "tier": "EX",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": null
+    },
+    {
+      "name": "Veldora's Protection",
+      "native_name": null,
+      "description": "Bound with the True Dragon of Storms",
+      "type": "Passive",
+      "tier": "EX",
+      "power_level": 98,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Demon Lord Evolution",
+      "native_name": null,
+      "description": "Harvest Festival evolution - became a True Demon Lord",
+      "type": "Passive",
+      "tier": "EX",
+      "power_level": 99,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Predator assimilation",
+    "Merciless",
+    "Disintegration"
+  ],
+  "ultimate_move": "Turn Null - Void Creation",
+  "trump_card": "Predator",
+  "power_attributes": {
+    "power_type": "True Demon Lord / Digital Nature",
+    "power_source": "Great Sage / Turn Null",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Crown",
+      "Scepter"
+    ],
+    "trump_card": "Predator",
+    "ultimate_move": "Turn Null - Void Creation"
+  },
+  "personality": {
+    "traits": [
+      "Kind-hearted",
+      "Pragmatic",
+      "Strategic",
+      "Protective of his people",
+      "Forgiving"
+    ],
+    "likes": [
+      "Building his nation",
+      "food",
+      "Veldora",
+      "his citizens"
+    ],
+    "dislikes": [
+      "Those who harm innocent people",
+      "unnecessary war"
+    ],
+    "fear": "Too trusting",
+    "dream": "Create a world where humans and monsters can coexist peacefully",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Bound"
+    ]
+  },
+  "character": {
+    "arc": "A normal human reincarnated as a slime who builds a nation of monsters and becomes a Demon Lord",
+    "motivation": "Create a world where humans and monsters can coexist peacefully",
+    "affinity": "Good",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Founded Jura Tempest Federation",
+    "Became a Demon Lord",
+    "Awakened as a True Dragon"
+  ],
+  "titles": [
+    "Demon Lord",
+    "King of Monsters",
+    "The Slime",
+    "Tempest Lord"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 95,
+    "total": 595
+  },
+  "weaknesses": {
+    "list": [
+      "Too trusting",
+      "reluctant to use lethal force"
+    ],
+    "factors": [
+      "bound"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Veldora",
+      "Benimaru",
+      "Shuna",
+      "Shion",
+      "Diablo",
+      "Milim"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Falmuth",
+      "Eastern Empire",
+      "Clayman"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Veldora Tempest",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Veldora",
+      "Benimaru",
+      "Shuna",
+      "Shion",
+      "Diablo",
+      "Milim",
+      "Veldora Tempest"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Falmuth",
+      "Eastern Empire",
+      "Clayman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Veldora",
+      "Benimaru",
+      "Shuna",
+      "Shion",
+      "Diablo",
+      "Milim",
+      "Veldora Tempest"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "We will build a nation where everyone can live in peace!"
+  ],
+  "voice_acting": {
+    "native_language": "Miho Okasaki",
+    "note": null,
+    "native_name": null,
+    "english": "Brittney Karbowski",
+    "japanese": "Miho Okasaki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Human (past life) → Slime → Demon Slime \nAge: 37 (past life) → 2 (anime/manga), 3 (light novel)\nSex: male (past life) → Sexless\nTitle: Ruler of Monsters, Jura-Tempest Federation Chancellor, \nDivine protection: Storm Crest\nMagic: Element Magic archive, Spirit Magic archive, Greater Spirit summoning, Greater Demon summoning, \nAbility:\nSpecies Skill - Universal Sense, Universal Thread, Universal Shapeshift, Infinite Regeneration, Demon Lord Haki, Enhanced Replication\nUltimate Skill - Wisdom King Raphael, King of Gluttony Beelzebuth, Covenant King Uriel, Storm King Veldora, \nResistance: Physical Attack Nullification, Natural Effects Nullification, Abnormal Condition Nullification, Spiritual/Mental Attack Resistance, Holy-Demonic Attack Resistance\n\nThe main protagonist of the series and Founder as well as Chancellor and King of the monster nation known as the Jura-Tempest Federation. Originally Mikami Satoru, a 37-year-old general contractor, he was stabbed by a passing robber while protecting one of his co-workers and reincarnated in a new world as a slime, one of the lowest monsters on the food chain.\n\nIn spite of the situations he finds himself in, he often tends to be very easygoing, yet calculating and cautious. A pacifist at heart, he tries to avoid casualties and save people if possible and wishes to maintain good relations with humans.\n\n\n(Source: Tensei Shitara Slime Datta Ken Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

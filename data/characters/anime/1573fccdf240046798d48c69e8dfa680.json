@@ -1,0 +1,411 @@
+{
+  "id": "1573fccdf240046798d48c69e8dfa680",
+  "name": "Kurenai Yuhi",
+  "native_name": "夕日紅",
+  "full_name": "Kurenai Yuhi",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human (Yuhi Clan)",
+    "bloodline": "Yuhi Clan",
+    "height_cm": 169,
+    "weight_kg": 54,
+    "age": "27-28 (Part I), 31 (Part II)",
+    "birthday": "June 11",
+    "zodiac": "Gemini",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red eyes",
+      "Black hair",
+      "Jonin vest",
+      "Gentle expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Team 8",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Jonin Commander",
+    "rank_title": "Jonin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team 8"
+    ],
+    "previous": [],
+    "relatives": [
+      "Asuma (lover)",
+      "Mirai (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 3",
+    "manga": "Naruto Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genjutsu Mastery",
+      "native_name": "幻術の達人",
+      "description": "Master of illusion techniques. Can trap enemies in powerful genjutsu.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "All",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Sharingan Counter",
+      "native_name": "写輪眼対策",
+      "description": "Specialized in countering Sharingan and other dojutsu genjutsu.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Concentration"
+    },
+    {
+      "name": "Tree Binding Death",
+      "native_name": "樹縛殺",
+      "description": "Creates vines that bind and restrain enemies.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Mid",
+      "limit": "Chakra cost"
+    },
+    {
+      "name": "Fire Release",
+      "native_name": "火遁",
+      "description": "Can use fire-style jutsu including fireball technique.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Mid",
+      "limit": "Chakra"
+    }
+  ],
+  "signature_moves": [
+    "Genjutsu",
+    "Tree Binding Death",
+    "Illusion techniques"
+  ],
+  "ultimate_move": "Month-Long Genjutsu",
+  "trump_card": "Genjutsu mastery",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Genjutsu",
+    "combat_style": [
+      "Genjutsu",
+      "Support"
+    ],
+    "weapon": "Genjutsu",
+    "equipment": [
+      "Kunai"
+    ],
+    "trump_card": "Genjutsu mastery",
+    "ultimate_move": "Month-Long Genjutsu"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Caring",
+      "Protective",
+      "Mature",
+      "Wise",
+      "Motherly"
+    ],
+    "likes": [
+      "Team 8",
+      "Asuma",
+      "Hinata",
+      "Kiba",
+      "Shino"
+    ],
+    "dislikes": [
+      "Evil",
+      "Threats to students",
+      "Akatsuki"
+    ],
+    "fear": "Losing students",
+    "dream": "Protect Team 8, raise child",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Kurenai is the gentle but strong leader of Team 8. Master of genjutsu. Loves Asuma, raises their child after his death.",
+    "motivation": "Protect Team 8, honor Asuma",
+    "affinity": "Red/Genjutsu",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Jonin Commander",
+    "Team 8 leader",
+    "Genjutsu master",
+    "Mother"
+  ],
+  "titles": [
+    "Genjutsu Mistress",
+    "Jonin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 65,
+    "speed": 72,
+    "durability": 70,
+    "power": 85,
+    "combat": 82,
+    "total": 462
+  },
+  "weaknesses": {
+    "list": [
+      "Physical combat",
+      "Emotional about Asuma",
+      "Genjutsu-dependent"
+    ],
+    "factors": [
+      "Students in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Itachi (genjutsu)",
+    "allies": [
+      "Hinata",
+      "Kiba",
+      "Shino",
+      "Asuma"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hinata Hyuga",
+        "relationship": "Student",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki",
+      "Itachi"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Asuma",
+    "best_friend": "Asuma",
+    "rival": "None",
+    "mentor": "None",
+    "student": "Hinata, Kiba, Shino",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hinata",
+      "Kiba",
+      "Shino",
+      "Asuma"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Itachi (genjutsu)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Hinata, Kiba, Shino"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hinata",
+      "Kiba",
+      "Shino",
+      "Asuma"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Itachi",
+      "result": "Loss",
+      "method": "Outmatched by Sharingan"
+    },
+    {
+      "opponent": "Akatsuki",
+      "result": "Victory",
+      "method": "Genjutsu"
+    }
+  ],
+  "quotes": [
+    "My students are my strength.",
+    "Asuma...",
+    "I'll protect them."
+  ],
+  "voice_acting": {
+    "native_language": "Rumi Ochiai (Japanese)",
+    "note": "Gentle, motherly",
+    "native_name": null,
+    "english": "Adrian Petriw",
+    "japanese": "Junya Enoki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Raises Mirai",
+    "transformation": "None",
+    "awakening_potential": "Mastered",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Jonin",
+      "Mother"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Team 8 base",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Described as a genius blader, Shu is a favorite in his hometown. However, he does not rely on talent alone and is very hardworking when it comes to Beyblade. He is one of the best bladers to ever play the sport, managing to surpass Valt Aoi and win his first WBBA tournament in less than a year.",
+  "note": null,
+  "source": "anime"
+}

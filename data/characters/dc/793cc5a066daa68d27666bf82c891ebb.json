@@ -1,0 +1,318 @@
+{
+  "id": "793cc5a066daa68d27666bf82c891ebb",
+  "name": "Question",
+  "native_name": null,
+  "full_name": "Charles Victor Szasz",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 188,
+    "weight_kg": 83,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Hub City; Chicago, Gotham City, Metropolis",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Former Television Investigative Journalist",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly L.A.W.",
+      "JLA",
+      "Black Lantern Corps"
+    ],
+    "previous": [],
+    "relatives": [
+      "-"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "C",
+      "power_level": 20,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Created by Steve Ditko"
+  ],
+  "titles": [
+    "Vic Sage"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 14,
+    "speed": 27,
+    "durability": 35,
+    "power": 20,
+    "combat": 80,
+    "total": 257
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed",
+      "Limited power"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed",
+      "limited power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Formerly L.A.W.",
+      "JLA",
+      "Black Lantern Corps"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Formerly L.A.W.",
+      "JLA",
+      "Black Lantern Corps"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Formerly L.A.W.",
+      "JLA",
+      "Black Lantern Corps"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hub City; Chicago, Gotham City, Metropolis",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "The Question is a name used by several superheroes appearing in American comic books published by DC Comics. Created by Steve Ditko, the Question first appeared in Charlton Comics' Blue Beetle #1, and was acquired by DC Comics in the early 1980s and incorporated into the DC Universe. The Question's secret identity was originally Vic Sage, later retconned as Charles Victor Szasz. However, after the events of the 2006–2007 miniseries 52, Sage's protégé Renee Montoya took up his mantle and became his successor. Following The New 52 relaunch, Question was reintroduced as an unknown mystical entity and Sage as a government agent, before being restored to his traditional detective persona and name after the events of DC Rebirth.",
+  "note": null,
+  "source": "dc"
+}

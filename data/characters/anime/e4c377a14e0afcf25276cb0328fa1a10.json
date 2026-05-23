@@ -1,0 +1,314 @@
+{
+  "id": "e4c377a14e0afcf25276cb0328fa1a10",
+  "name": "Shrinking Ray",
+  "native_name": null,
+  "full_name": "Randy",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "Teens",
+    "birthday": "January 15",
+    "zodiac": "Capricorn",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Teen Team HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Teen Team",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Teen Team"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "Invincible",
+    "comics": "Image Comics",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shrinking",
+      "native_name": null,
+      "description": "Shrink in size",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Duration"
+    }
+  ],
+  "signature_moves": [
+    "Tiny Punch"
+  ],
+  "ultimate_move": "Atom Size Attack",
+  "power_attributes": {
+    "power_type": "Size manipulation",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Stealth combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Stealth gear"
+    ],
+    "trump_card": "Shrinking",
+    "ultimate_move": "Atom Size Attack"
+  },
+  "personality": {
+    "traits": [
+      "Quiet",
+      "Ninja-like"
+    ],
+    "likes": [
+      "Stealth"
+    ],
+    "dislikes": [
+      "Loud"
+    ],
+    "fear": "Being giant",
+    "dream": "Be a hero",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Shrinking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Teen hero who shrinks",
+    "motivation": "Help people",
+    "affinity": "Stealth",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Teen Team member"
+  ],
+  "titles": [
+    "Shrinking Ray",
+    "Randy"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 50,
+    "speed": 70,
+    "durability": 45,
+    "power": 65,
+    "combat": 60,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Duration limit",
+      "Weak when small"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Teen Team"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Teen Team"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Teen Team"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'm small but mighty."
+  ],
+  "voice_acting": {
+    "native_language": "Chris Diamantopoulos",
+    "note": "Animated series",
+    "native_name": null,
+    "english": "Laura Stahl",
+    "japanese": "Mariya Ise"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues heroics",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Novice",
+      "Experienced"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Teen Team HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "trump_card": "Shrinking",
+  "about": "Age: 11 (in the beginning of the story), 12, 13 (actual age)\nBirthday: January 15th (2034)\nHeight: 150 cm\nFarm Identifier: 81194\n\n\nOne of the three perfect students at the orphanage.",
+  "note": null,
+  "source": "anime"
+}

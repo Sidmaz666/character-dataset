@@ -1,0 +1,386 @@
+{
+  "id": "e86332130181cec21cf345234b8539b4",
+  "name": "Terra",
+  "native_name": null,
+  "full_name": "Tara Markov",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Metahuman",
+    "race": "Human",
+    "bloodline": "Markov",
+    "height_cm": 168,
+    "weight_kg": 55,
+    "age": "Teen",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Markovia",
+    "current_location": "United States",
+    "base_of_operations": "Titans Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Teen Titans"
+    ],
+    "previous": [
+      "Outsiders",
+      "Ravagers",
+      "Black Lantern Corps",
+      "League of Shadows"
+    ],
+    "relatives": [
+      "King Viktor of Markovia (father)",
+      "Brion Markov (half-brother, Geo-Force)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "New Teen Titans #26 (December 1982)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Geokinesis",
+      "native_name": "Terrakinesis",
+      "description": "Ability to create, control and manipulate earth and all earthly substances including rock, stone, crystal, sand, dirt, mud, brick, marble, and concrete.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Power instability when newly acquired"
+    },
+    {
+      "name": "Earthquake Generation",
+      "native_name": null,
+      "description": "Can create seismic tremors, avalanches, mudslides, and fissures.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Rock Levitation",
+      "native_name": null,
+      "description": "Can levitate boulders for fast transportation.",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Stone Shield Generation",
+      "native_name": null,
+      "description": "Can create shields and protective barriers from stone.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Lava Manipulation",
+      "native_name": null,
+      "description": "Can manipulate molten rock, magma and volcanic activity.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Requires volcanic activity"
+    },
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Enhanced physical strength beyond normal human limits.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Earth Spike",
+    "Boulder Toss",
+    "Seismic Slam"
+  ],
+  "ultimate_move": "Full Earthquake",
+  "trump_card": "Mountain Manipulation",
+  "power_attributes": {
+    "power_type": "Geokinesis",
+    "power_source": "Genetic Experiment (by Dr. Helga Jace)",
+    "combat_style": [
+      "Earth Combat"
+    ],
+    "weapon": "Stone Shield Generation",
+    "equipment": [
+      "Slade's Battle Suit (enhanced)"
+    ],
+    "trump_card": "Mountain Manipulation",
+    "ultimate_move": "Full Earthquake"
+  },
+  "personality": {
+    "traits": [
+      "Independent",
+      "Cunning",
+      "Troubled"
+    ],
+    "likes": [
+      "Power",
+      "Control"
+    ],
+    "dislikes": [
+      "Weakness"
+    ],
+    "fear": "Being controlled",
+    "dream": "Ruling with power",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Geokinesis",
+      "Earthquake Generation",
+      "Rock Levitation",
+      "Stone Shield Generation"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Complex anti-hero with deep psychological issues, seeks power and control",
+    "motivation": "Proving superiority",
+    "affinity": "Earth",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Teen Titans member",
+    "Outsiders member"
+  ],
+  "titles": [
+    "Princess Tara of Markovia",
+    "Traitor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 65,
+    "speed": 50,
+    "durability": 70,
+    "power": 95,
+    "combat": 60,
+    "total": 410
+  },
+  "weaknesses": {
+    "list": [
+      "Power instability",
+      "Fire/Heat"
+    ],
+    "factors": [
+      "limit"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Deathstroke",
+    "allies": [
+      "Beast Boy",
+      "Slade"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Teen Titans"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Beast Boy",
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Deathstroke",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Beast Boy",
+      "Slade"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Deathstroke"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Beast Boy",
+      "Slade"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Deathstroke"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I made a promise, a promise to myself. Never again will anyone control me."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Ashley Johnson",
+    "note": "Teen Titans animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Became one with the earth after sacrificing herself",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Titans Tower",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Terra may often refer to:\n\nTerra (mythology), primeval Roman goddess\nAn alternate name for planet Earth, as well as the Latin name for the planet\n\nTerra may also refer to:",
+  "note": null,
+  "source": "dc"
+}

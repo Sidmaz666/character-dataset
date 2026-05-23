@@ -1,0 +1,310 @@
+{
+  "id": "8c27a51b25fae1d1940a643083f44d7a",
+  "name": "Mister Zsasz",
+  "native_name": null,
+  "full_name": "Victor Zsasz",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "-",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Serial Killer",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "-"
+    ],
+    "previous": [],
+    "relatives": [
+      "-"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "-",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "D",
+      "power_level": 18,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Low durability",
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Evil",
+    "alignment": "Evil"
+  },
+  "achievements": [
+    "Mr Zsasz"
+  ],
+  "titles": [
+    "Mr Zsasz"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 22,
+    "speed": 33,
+    "durability": 28,
+    "power": 18,
+    "combat": 85,
+    "total": 274
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Low durability",
+      "Limited power"
+    ],
+    "factors": [
+      "physically weak",
+      "low durability",
+      "limited power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "-"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "-"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "-"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "-",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "The Secret Society of Super Villains is a team of supervillains appearing in American comic books published by DC Comics. Over the years, they have featured a large number of ne'er-do-wells as they attempt to subvert the superheroic population of the world for a variety of schemes.\nThis page lists the known members of the Secret Society of Super Villains:",
+  "note": null,
+  "source": "dc"
+}

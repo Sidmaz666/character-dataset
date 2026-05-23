@@ -1,0 +1,367 @@
+{
+  "id": "7588f4ebf163fd0976c113fe9e96f885",
+  "name": "Kurokawa, Akane",
+  "native_name": "黒川あかね",
+  "full_name": "Akane Kurokawa",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kurokawa",
+    "height_cm": 165,
+    "weight_kg": 52,
+    "age": "17",
+    "birthday": "June 20",
+    "zodiac": "Gemini",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long black hair",
+      "Gentle eyes",
+      "Slender"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Actress",
+    "secondary": "Model",
+    "rank_title": "Rising Actress",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Strawberry Productions"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Episode 10",
+    "manga": "Chapter 15",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Acting",
+      "native_name": "演技",
+      "description": "Natural talented actress",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 93,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Empathy",
+      "native_name": "共感",
+      "description": "Understands characters deeply",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Emotional toll"
+    },
+    {
+      "name": "Modeling",
+      "native_name": "モデル",
+      "description": "Professional modeling",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Stage",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Method Acting",
+    "Character Immersion"
+  ],
+  "ultimate_move": "Perfect Character",
+  "trump_card": "Emotional Depth",
+  "power_attributes": {
+    "power_type": "Talent",
+    "power_source": "Training",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Emotional Depth",
+    "ultimate_move": "Perfect Character"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Kind",
+      "Dedicated",
+      "Insecure",
+      "Loyal"
+    ],
+    "likes": [
+      "Acting",
+      "Aqua",
+      "Truth"
+    ],
+    "dislikes": [
+      "Fake people",
+      "Betrayal"
+    ],
+    "fear": "Not being good enough",
+    "dream": "Become great actress",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal",
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Talented actress finding confidence",
+    "motivation": "Become better actress",
+    "affinity": "Moon",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Rising actress",
+    "Successful model",
+    "Overcame bullying scandal"
+  ],
+  "titles": [
+    "Actress",
+    "Model"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 42,
+    "speed": 60,
+    "durability": 55,
+    "power": 68,
+    "combat": 30,
+    "total": 337
+  },
+  "weaknesses": {
+    "list": [
+      "Insecure",
+      "Too empathetic",
+      "Self-sacrificing"
+    ],
+    "factors": [
+      "Emotional vulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Aqua",
+      "Kana",
+      "Ruby"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Aqua",
+        "relationship": "Colleague/Crush",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kana",
+        "relationship": "Rival/Ally",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Kana"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Aqua",
+    "best_friend": null,
+    "rival": "Kana",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Aqua",
+      "Kana",
+      "Ruby"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kana"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kana"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Aqua",
+      "Kana",
+      "Ruby"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I want to be a better actress.",
+    "Thank you, Aqua-kun."
+  ],
+  "voice_acting": {
+    "native_language": "Rie Takahashi",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues acting career",
+    "transformation": null,
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Newcomer",
+      "Rising Star"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Akane Kurokawa is an exceptionally talented actress, renowned for her extraordinary ability to fully immerse herself in any role. As a dedicated member of the prestigious Lala Lai Theatrical Company, she is celebrated for her commitment to authentically capturing the essence of every character she portrays.\n\nWith her dark hair and reserved presence, Akane stands out for her diligence and sharp intelligence. She excels at observing people, quickly absorbing and replicating her characters’ behaviors, speech patterns, and thought processes. Her insightful intuition often allows her to perceive hidden truths that others might overlook.",
+  "note": null,
+  "source": "anime"
+}

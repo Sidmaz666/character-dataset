@@ -1,0 +1,386 @@
+{
+  "id": "e88b2fdfdbfcd200487525dafc0031a1",
+  "name": "Doc Ock",
+  "native_name": "",
+  "full_name": "Dr. Otto Octavius",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Octavius Family",
+    "height_cm": 175,
+    "weight_kg": 79,
+    "age": "45",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown/Graying",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Four mechanical tentacles",
+      "Bald head",
+      "Glasses"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Schenectady, New York",
+    "current_location": "New York City",
+    "base_of_operations": "Various hidden labs",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Atomic Physicist",
+    "secondary": "Criminal Mastermind",
+    "rank_title": "Doctor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Sinister Six",
+      "Masters of Evil",
+      "AIM"
+    ],
+    "relatives": [
+      "Torbert Octavius (father, deceased)",
+      "Mary Octavius (mother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #3 (1963)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mechanical Tentacles",
+      "native_name": null,
+      "description": "Four adamantium tentacles fused to spine, each lifts 10 tons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Genius Intellect",
+      "native_name": null,
+      "description": "Brilliant nuclear physicist",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Multi-Tasking",
+      "native_name": null,
+      "description": "Controls all four tentacles independently",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Tentacle Combat",
+      "native_name": null,
+      "description": "Tentacles crush steel and deflect bullets",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Scientific Creations",
+      "native_name": null,
+      "description": "Creates advanced technology and weapons",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Requires lab"
+    }
+  ],
+  "signature_moves": [
+    "Tentacle Grab",
+    "Crushing Coil",
+    "Multi-Tentacle Strike"
+  ],
+  "ultimate_move": "Tentacle Fury",
+  "trump_card": "Intelligent tentacle control",
+  "power_attributes": {
+    "power_type": "Superhuman via Tech",
+    "power_source": "Mechanical tentacles",
+    "combat_style": [
+      "Tentacle combat",
+      "Strategic"
+    ],
+    "weapon": "Four mechanical tentacles",
+    "equipment": [
+      "Spinal harness"
+    ],
+    "trump_card": "Intelligent tentacle control",
+    "ultimate_move": "Tentacle Fury"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Brilliant",
+      "Vindictive",
+      "Egomaniacal",
+      "Temperamental"
+    ],
+    "likes": [
+      "Science",
+      "Power",
+      "Proving superiority"
+    ],
+    "dislikes": [
+      "Spider-Man",
+      "Failure"
+    ],
+    "fear": "Being ordinary",
+    "dream": "Rule the world through science",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Mechanical Tentacles",
+      "Genius Intellect",
+      "Multi-Tasking",
+      "Tentacle Combat"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Brilliant physicist whose experiment fused tentacles to his body, driving him insane, becoming leader of the Sinister Six",
+    "motivation": "Prove intellectual superiority and dominate the world",
+    "affinity": "Science/Ego",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Created the Sinister Six",
+    "Became Superior Spider-Man"
+  ],
+  "titles": [
+    "Doctor Octopus",
+    "Master Planner",
+    "Superior Spider-Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 60,
+    "speed": 50,
+    "durability": 60,
+    "power": 80,
+    "combat": 70,
+    "total": 418
+  },
+  "weaknesses": {
+    "list": [
+      "Spinal damage affects tentacles",
+      "Arrogance"
+    ],
+    "factors": "Tentacles bonded to spine"
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [
+      "Sinister Six"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Tony Stark",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sinister Six"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Spider-Man",
+      "Tony Stark"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Tony Stark"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sinister Six"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spider-Man",
+      "result": "Mixed",
+      "method": "Frequent battles"
+    }
+  ],
+  "quotes": [
+    "The tentacles are part of me now!",
+    "I will show you the true power of science!"
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as criminal",
+    "transformation": "Superior Spider-Man arc",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Doctor Octopus, also known as Doc Ock for short, is a fictional character appearing in American comic books published by Marvel Comics. The character was created by Stan Lee and Steve Ditko and first appeared in The Amazing Spider-Man #3. He is a highly intelligent, myopic, and stocky mad scientist who sports four strong and durable appendages resembling an octopus's tentacles, which extend from his body and can be used for various purposes. After his mechanical harness became permanently fused to his body during a laboratory accident, he turned to a life of crime, and came into conflict with the superhero Spider-Man. He has endured as one of Spider-Man's most prominent villains, and is regarded as one of his three archenemies, alongside the Green Goblin and Venom. He is the founder and leader of the Sinister Six, the first supervillain team to oppose Spider-Man.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,484 @@
+{
+  "id": "435dac02991a12bbe45eba19ca603fed",
+  "name": "Spider-Man",
+  "native_name": null,
+  "full_name": "Peter Benjamin Parker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Parker family",
+    "height_cm": 178,
+    "weight_kg": 74,
+    "age": "16-30 (varies by continuity)",
+    "birthday": "August 10",
+    "zodiac": "Leo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Hazel",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Athletic build",
+      "Web-shooters",
+      "Spider suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City, New York",
+    "current_location": "New York City, New York",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Photographer, Teacher, Scientist",
+    "rank_title": "Avenger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "Future Foundation"
+    ],
+    "previous": [
+      "Outlaws",
+      "Fantastic Four (alternate)"
+    ],
+    "relatives": [
+      "Richard Parker (father, deceased)",
+      "Mary Parker (mother, deceased)",
+      "Benjamin Parker (uncle, deceased)",
+      "May Parker (aunt)",
+      "Mary Jane Watson (wife, varies)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Fantasy #15 (August 1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spider-Sense",
+      "native_name": null,
+      "description": "Precognitive sense that warns of impending danger",
+      "type": "Sensory",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Can be overwhelmed"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Can lift up to 25 tons",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Human durability"
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Can adhere to surfaces through molecular adhesion",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Contact",
+      "limit": "Requires surface"
+    },
+    {
+      "name": "Web-Shooting",
+      "native_name": null,
+      "description": "Can create and shoot webbing from mechanical web-shooters",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Limited web fluid"
+    },
+    {
+      "name": "Superhuman Agility",
+      "native_name": null,
+      "description": "Enhanced reflexes, balance, and coordination",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "Brilliant scientist and inventor",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Time and resources"
+    }
+  ],
+  "signature_moves": [
+    "Web-swinging",
+    "Web-based combat",
+    "Spider-tracer tracking"
+  ],
+  "ultimate_move": "Iron Spider suit capabilities",
+  "trump_card": "Spider-Sense and improvisation",
+  "power_attributes": {
+    "power_type": "Mutated Human",
+    "power_source": "Radioactive spider bite",
+    "combat_style": [
+      "Acrobatic",
+      "Web-based",
+      "Improvised"
+    ],
+    "weapon": "Web-shooters",
+    "equipment": [
+      "Spider suit",
+      "Web-shooters",
+      "Spider-tracers",
+      "Various gadgets"
+    ],
+    "trump_card": "Spider-Sense and improvisation",
+    "ultimate_move": "Iron Spider suit capabilities"
+  },
+  "personality": {
+    "traits": [
+      "Responsible",
+      "Witty",
+      "Caring",
+      "Intelligent",
+      "Self-sacrificing"
+    ],
+    "likes": [
+      "Science",
+      "Helping others",
+      "Photography",
+      "Mary Jane"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Losing loved ones",
+      "Responsibility (sometimes)"
+    ],
+    "fear": "Failing to protect others, Losing loved ones",
+    "dream": "To live up to Uncle Ben's legacy",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From awkward teenager to responsible hero learning that with great power comes great responsibility",
+    "motivation": "To protect the innocent and honor Uncle Ben's memory",
+    "affinity": "Heroism",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved New York City countless times",
+    "Avengers member",
+    "Defeated major villains like Green Goblin, Doctor Octopus, and Venom",
+    "Created advanced technology",
+    "Became a mentor to other heroes"
+  ],
+  "titles": [
+    "Spider-Man",
+    "Spidey",
+    "Web-Slinger",
+    "Wall-Crawler",
+    "Friendly Neighborhood Spider-Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 85,
+    "speed": 80,
+    "durability": 75,
+    "power": 85,
+    "combat": 85,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability",
+      "Ethical constraints",
+      "Personal losses",
+      "Overthinking"
+    ],
+    "factors": [
+      "Emotional trauma",
+      "Mental fatigue",
+      "Physical injury"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Green Goblin",
+    "allies": [
+      "Avengers",
+      "Mary Jane Watson",
+      "Aunt May",
+      "Miles Morales"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Mary Jane Watson",
+        "relationship": "Wife (varies)",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Aunt May",
+        "relationship": "Aunt and mother figure",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Miles Morales",
+        "relationship": "Mentor and friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Green Goblin",
+      "Doctor Octopus",
+      "Venom",
+      "Sandman",
+      "Rhino"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Green Goblin",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Doctor Octopus",
+        "relationship": "Major villain",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Mary Jane Watson",
+    "best_friend": "Harry Osborn (complicated), Miles Morales",
+    "rival": "Venom (Eddie Brock)",
+    "mentor": "Tony Stark (sometimes), Uncle Ben (deceased)",
+    "student": "Miles Morales, Other Spider-People",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Mary Jane Watson",
+      "Aunt May",
+      "Miles Morales",
+      "Harry Osborn (complicated), Miles Morales"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Green Goblin",
+      "Venom (Eddie Brock)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Venom"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Miles Morales, Other Spider-People"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Mary Jane Watson",
+      "Aunt May",
+      "Miles Morales",
+      "Harry Osborn, Miles Morales"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Tony Stark, Uncle Ben"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Green Goblin",
+      "result": "Victory",
+      "method": "Combat and strategy"
+    },
+    {
+      "opponent": "Doctor Octopus",
+      "result": "Victory",
+      "method": "Web-based combat and intelligence"
+    },
+    {
+      "opponent": "Venom",
+      "result": "Victory",
+      "method": "Sound-based attacks and strategy"
+    }
+  ],
+  "quotes": [
+    "With great power comes great responsibility",
+    "Your friendly neighborhood Spider-Man",
+    "Face it, tiger, you just hit the jackpot",
+    "I'm just your friendly neighborhood Spider-Man"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Tobey Maguire, Andrew Garfield, Tom Holland (films); Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues hero work",
+    "transformation": [
+      "Radioactive spider bite",
+      "Various suit upgrades"
+    ],
+    "awakening_potential": "Full potential as hero and scientist",
+    "power_evolution": [
+      "Basic Spider-Man",
+      "Iron Spider",
+      "Various suit upgrades"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-swinging",
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Spider-Mobile (rarely used)"
+    ],
+    "headquarters": "New York City",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Widely regarded as one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays.\nSpider-Man is the secret identity of Peter Benjamin Parker, who was raised by his Aunt May and Uncle Ben in Queens, New York City, after the death of his parents. Lee, Ditko, and later writers had the character deal with the struggles of adolescence and young adulthood. Readers identified with his self-doubt and loneliness. Unlike previous teen heroes, Spider-Man was not a sidekick nor did he have a mentor. He would be given many supporting characters. These include his Daily Bugle boss, J. Jonah Jameson; friends Harry Osborn and Flash Thompson; romantic interests Gwen Stacy, Mary Jane Watson, and the Black Cat; and enemies Doctor Octopus, the Green Goblin, and Venom. In his origin story, Peter gets his superhuman spider-powers and abilities after he was bitten by a radioactive spider. These powers include superhuman strength, speed, agility, reflexes and durability; clinging to surfaces and ceilings; and detecting danger with his precognitive \"spider-sense\". He sews a spider-web patterned spandex costume that fully covers his body and builds wrist-mounted \"web-shooter\" devices that shoot artificial spider-webs of his own design, which he uses for both fighting and \"web swinging\" across the city. Peter initially used his powers for personal gain, but after his Uncle Ben was killed by a burglar that he could have stopped but did not, he learned that \"with great power comes great responsibility\", and began to use his powers to fight crime as Spider-Man.\nMarvel has featured Spider-Man in several comic book series, the first and longest-lasting of which is The Amazing Spider-Man. Since his introduction, the main-continuity version of Peter has gone from a high school student to attending college to currently being somewhere in his late 20s. Peter has been a member of numerous superhero teams, most notably the Avengers and Fantastic Four. Doctor Octopus also took on the identity for a story arc spanning 2012–2014 following the \"Dying Wish\" storyline, where Peter appears to die after Doctor Octopus orchestrates a body swap with him and becomes the Superior Spider-Man. Marvel has also published comic books featuring alternate versions of Spider-Man, including Spider-Man 2099, which features the adventures of Miguel O'Hara, the Spider-Man of the future; Ultimate Spider-Man, which features the adventures of a teenage Peter Parker in the alternate universe; and Ultimate Comics: Spider-Man, which depicts a teenager named Miles Morales who takes up the mantle of Spider-Man after Ultimate Peter Parker's apparent death. Miles later became a superhero in his own right and was brought into mainstream continuity during the Secret Wars event, where he sometimes works alongside the mainline version of Peter.\nSpider-Man has appeared in countless forms of media, including several animated TV series, a live-action television series, syndicated newspaper comic strips, and multiple series of films. In live-action films, Spider-Man has been portrayed by Tobey Maguire in Sam Raimi's Spider-Man trilogy, Andrew Garfield in The Amazing Spider-Man duology directed by Marc Webb, and Tom Holland in the Marvel Cinematic Universe. The Peter Parker version of Spider-Man was also voiced by Jake Johnson and Chris Pine in the animated film Spider-Man: Into the Spider-Verse, with the former reprising his role in the sequel, Spider-Man: Across the Spider-Verse.",
+  "note": null,
+  "source": "marvel"
+}

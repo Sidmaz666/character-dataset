@@ -1,0 +1,358 @@
+{
+  "id": "6e514d24fd9c07d5b8fa86e09df8253f",
+  "name": "Kuwabara, Kazuma",
+  "native_name": "桑原和真",
+  "full_name": "Kazuma Kuwabara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 191,
+    "weight_kg": 85,
+    "age": "14-18",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Orange",
+    "skin": "Fair",
+    "notable_features": "Pompadour hair, delinquent look",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sarayashiki Junior High",
+    "current_location": "Human World/Spirit World",
+    "base_of_operations": "Human World/Spirit World",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High school student",
+    "secondary": "Spirit detective team member",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Team Urameshi",
+      "Urameshi's gang"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Yu Yu Hakusho Episode 1",
+    "manga": "Yu Yu Hakusho Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spirit Sword",
+      "native_name": "霊剣",
+      "description": "Manifest spirit energy as sword; grows stronger with training",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Medium"
+    },
+    {
+      "name": "Spirit Awareness",
+      "native_name": "第六感",
+      "description": "Powerful sixth sense; detect ghosts and spirits",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Long"
+    },
+    {
+      "name": "Dimension Blade",
+      "native_name": "次元刀",
+      "description": "Cut through dimensional barriers",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Spirit Sword",
+    "Dimension Blade",
+    "Jigen To"
+  ],
+  "ultimate_move": "Dimension Blade",
+  "power_attributes": {
+    "power_type": "Spirit energy",
+    "power_source": "Reiki",
+    "combat_style": [
+      "Sword combat",
+      "Brawler"
+    ],
+    "weapon": "Spirit Sword",
+    "equipment": [
+      "Spirit Sword"
+    ],
+    "trump_card": "Spirit Sword",
+    "ultimate_move": "Dimension Blade"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Brave",
+      "Compassionate",
+      "Hot-headed",
+      "Honorable",
+      "Secretly sensitive"
+    ],
+    "likes": [
+      "Fighting",
+      "Yukina",
+      "Friends",
+      "Kittens"
+    ],
+    "dislikes": [
+      "Losing",
+      "Hiei (rival)",
+      "Bullies"
+    ],
+    "fear": "Losing friends",
+    "dream": "Protect friends, become stronger",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Delinquent becomes hero",
+    "motivation": "Protect friends, win Dark Tournament",
+    "affinity": "Spirit",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Mastered Spirit Sword",
+    "Won Dark Tournament",
+    "Defeated Sensui"
+  ],
+  "titles": [
+    "Team Urameshi member",
+    "Delinquent hero"
+  ],
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 85,
+    "speed": 75,
+    "durability": 80,
+    "power": 85,
+    "combat": 80,
+    "total": 475
+  },
+  "relationships": {
+    "best_friend": "Yusuke Urameshi (rival turned friend)",
+    "sister": "Shizuru Kuwabara",
+    "love_interest": "Yukina",
+    "rivals": [
+      "Hiei"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Hiei"
+    ],
+    "enemies_detailed": [],
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Yusuke Urameshi (rival turned friend)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hiei"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Shizuru Kuwabara (sister)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Shizuru Kuwabara (sister)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Yusuke Urameshi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sensui",
+      "result": "Victory",
+      "method": "Dimension Blade"
+    }
+  ],
+  "quotes": [
+    "Don't go dying on me, Urameshi!",
+    "I won't forgive anyone who hurts my friends!"
+  ],
+  "voice_acting": {
+    "native_language": "Shigeru Chiba",
+    "note": null,
+    "native_name": null,
+    "english": "Lex Lang",
+    "japanese": "Shigeru Chiba"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues spirit detective work",
+    "role_in_story": "Main protagonist",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "trump_card": "Spirit Sword",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Hot-headed"
+    ],
+    "factors": [
+      "hot-headed"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Human World/Spirit World",
+    "story_importance": "Main protagonist",
+    "note": null
+  },
+  "about": "Kuwabara, as most people call him, is the second-toughest kid in Sarayashiki Junior High School and is always trying to usurp Yusuke Urameshi's position as the toughest. In the manga(chp.1) he says he never lost a fight until he met Yusuke. He leads a gang consisting of himself, Kirishima, Okubo, and Sawamura (In the English dub, Komada). He has a soft spot for kittens (including his own, Eikichi) and an iron code of honor. He develops a minor crush on Botan when he first meets her, but later harbors intense feelings on the ice apparition Yukina, but is unaware that she is Hiei's sister.\n\nKuwabara has a tough older sister named Shizuru Kuwabara. She and Yukina are the only characters known to call him by his given name. In the anime, Kazuma and Shizuru's parents never appear and are rarely, if ever, even acknowledged. His father does makes a brief appearance in the final volume of the manga to reveal that Yukina is going to be living with them and appears to be aware of the Reikai, etc. As the show progress, Kuwabara's and Yusuke's relationship evolves from rivals to best friends, although the two still disagree constantly. Kuwabara and Kurama are quite cordial with each other, but Kuwabara shares no love for Hiei, and both will readily mention their hatred of the other, although in truth deep down they are friends. \n\nKuwabara's most unusual ability is his sensitivity to Reiki, or Spirit Awareness. He and his band of friends call this \"the Tickle.\" Kuwabara has the ability to sense when ghosts and the paranormal are around, can see spirits and other demons, and can predict motives of others. Kuwabara can also create a blade out of his own spirit energy (known as the Rei Ken, or Spirit Sword). Although he first needed a piece of wood as a physical entity to create it, Kuwabara was able to practice and be able to create his own after one month (six months in the English anime). During his training, Kuwabara's sword is able to extend and shrink to his whim, and he can even create two, one in each hand.\n\nKuwabara, unlike the rest of his teammates, can be reckless, but is extremely loyal to his friends and has a very strict code of honor. He would do anything for his friends and for love but can be quite crafty in battle when he needs to be, and he is widely considered as the nicest of the four.",
+  "note": null,
+  "source": "anime"
+}

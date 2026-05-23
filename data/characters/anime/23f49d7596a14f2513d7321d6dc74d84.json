@@ -1,0 +1,360 @@
+{
+  "id": "23f49d7596a14f2513d7321d6dc74d84",
+  "name": "Beam",
+  "native_name": "ビーム",
+  "full_name": "Beam",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Devil",
+    "race": "Shark Devil",
+    "bloodline": "Unknown",
+    "height_cm": 185,
+    "weight_kg": 80,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "None",
+    "skin_color": "Gray",
+    "notable_features": [
+      "Shark head",
+      "Sharp teeth",
+      "Humanoid body"
+    ],
+    "skin": "Gray",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ocean",
+    "current_location": "Tokyo",
+    "base_of_operations": "Public Safety HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Devil Hunter",
+    "secondary": "Shark Devil",
+    "rank_title": "Public Safety Devil Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety Devil Hunters"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Episode 4",
+    "manga": "Chapter 39",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shark Senses",
+      "native_name": "サメの感覚",
+      "description": "Enhanced smell and detection",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Bite Attack",
+      "native_name": "噛み付き",
+      "description": "Powerful shark bite",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee",
+      "limit": "Close range"
+    },
+    {
+      "name": "Swimming",
+      "native_name": "遊泳",
+      "description": "Moves through solid matter like water",
+      "type": "Movement",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Needs medium"
+    }
+  ],
+  "signature_moves": [
+    "Shark Bite",
+    "Blood Detection"
+  ],
+  "ultimate_move": "Shark Storm",
+  "trump_card": "Blood Frenzy",
+  "power_attributes": {
+    "power_type": "Devil Power",
+    "power_source": "Fear of Sharks",
+    "combat_style": [
+      "Melee",
+      "Senses"
+    ],
+    "weapon": "Teeth",
+    "equipment": [
+      "Public Safety uniform"
+    ],
+    "trump_card": "Blood Frenzy",
+    "ultimate_move": "Shark Storm"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Enthusiastic",
+      "Simple",
+      "Friendly",
+      "Eager"
+    ],
+    "likes": [
+      "Denji",
+      "Blood",
+      "Hunting"
+    ],
+    "dislikes": [
+      "Land",
+      "Boredom"
+    ],
+    "fear": "Being away from water",
+    "dream": "Best hunts",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Loyal devil servant",
+    "motivation": "Serve Denji",
+    "affinity": "Water",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Public Safety member",
+    "Loyal to Denji"
+  ],
+  "titles": [
+    "Shark Devil",
+    "Public Safety Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 78,
+    "speed": 82,
+    "durability": 75,
+    "power": 76,
+    "combat": 70,
+    "total": 436
+  },
+  "weaknesses": {
+    "list": [
+      "Simple-minded",
+      "Needs water",
+      "Too loyal"
+    ],
+    "factors": [
+      "Land mobility"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Denji",
+      "Power",
+      "Aki"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Denji",
+        "relationship": "Master/Friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Devils"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Denji",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji",
+      "Power",
+      "Aki"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Devils"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji",
+      "Power",
+      "Aki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Denji! I love you!",
+    "Blood!"
+  ],
+  "voice_acting": {
+    "native_language": "TBA",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Derick Snow",
+    "japanese": "Natsuki Hanae"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hunter",
+    "transformation": null,
+    "awakening_potential": "Moderate",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Beam is a Shark Fiend and Public Safety Devil Hunter from Special Division 4.",
+  "note": null,
+  "source": "anime"
+}

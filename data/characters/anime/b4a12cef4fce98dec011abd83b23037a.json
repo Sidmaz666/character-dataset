@@ -1,0 +1,373 @@
+{
+  "id": "b4a12cef4fce98dec011abd83b23037a",
+  "name": "Stan Edgar",
+  "native_name": null,
+  "full_name": "Stanley Edgar",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Edgar",
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "50s-60s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Gray/White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Powerful presence",
+      "Suits"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "United States",
+    "base_of_operations": "Vought Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "CEO",
+    "secondary": "Vought International",
+    "rank_title": "CEO",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought International"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Business Genius",
+      "native_name": null,
+      "description": "Extremely intelligent businessman",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "No combat powers"
+    },
+    {
+      "name": "Manipulation",
+      "native_name": null,
+      "description": "Expert manipulator of people and events",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    }
+  ],
+  "signature_moves": [
+    "Corporate Takeover",
+    "Political Maneuver"
+  ],
+  "ultimate_move": "Full Corporate Control",
+  "trump_card": "Complete Manipulation",
+  "power_attributes": {
+    "power_type": "Business Power",
+    "power_source": "Wealth and Intelligence",
+    "combat_style": [
+      "Corporate manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Resources",
+      "Connections"
+    ],
+    "trump_card": "Complete Manipulation",
+    "ultimate_move": "Full Corporate Control"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Calculating",
+      "Charismatic",
+      "Ambitious"
+    ],
+    "likes": [
+      "Power",
+      "Control",
+      "Money"
+    ],
+    "dislikes": [
+      "Failure",
+      "Weakness"
+    ],
+    "fear": "Losing control",
+    "dream": "Total domination",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Corporate villain controlling supes",
+    "motivation": "Profit and control",
+    "affinity": "Power",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "CEO of Vought",
+    "Controlled The Seven",
+    "Built supe empire"
+  ],
+  "titles": [
+    "Mr. Edgar",
+    "CEO"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Too powerful to arrest"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 40,
+    "speed": 35,
+    "durability": 40,
+    "power": 30,
+    "combat": 30,
+    "total": 270
+  },
+  "weaknesses": {
+    "list": [
+      "No combat powers",
+      "Physical vulnerability",
+      "Human limitations"
+    ],
+    "factors": [
+      "Direct confrontation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Billy Butcher",
+    "allies": [
+      "Vought",
+      "Homelander",
+      "Victoria Neuman"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Asset",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "The Boys",
+      "Billy Butcher"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Billy Butcher",
+        "relationship": "Enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Homelander",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "Homelander",
+      "Victoria Neuman"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Billy Butcher",
+      "Homelander"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Homelander"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "Homelander",
+      "Victoria Neuman"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Homelander",
+      "result": "Draw",
+      "method": "Standoff"
+    }
+  ],
+  "quotes": [
+    "Power belongs to those who take it."
+  ],
+  "voice_acting": {
+    "native_language": "Giancarlo Esposito (English)",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Atsushi Ii"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues scheming",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Businessman",
+      "Corporate ruler"
+    ],
+    "role_in_story": "Supporting Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cars"
+    ],
+    "vehicles": [
+      "Luxury cars"
+    ],
+    "headquarters": "Vought HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "He will lead the devils back to their rightful place as rulers of the world. Humanity is headed towards doom and he knew it. In his devil form, Satan is androgynous, possessing the genitals of both man and woman. Satan used his powerful psychic abilities on himself to keep his devil persona asleep until he was needed to begin the Apocalypse. \n\nSpoilers for the original Devilman:",
+  "note": null,
+  "source": "anime"
+}

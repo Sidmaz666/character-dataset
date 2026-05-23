@@ -1,0 +1,510 @@
+{
+  "id": "b30e3d1b170289cbfbbc87e5efcfdc79",
+  "name": "Wonder Woman",
+  "native_name": null,
+  "full_name": "Diana of Themyscira (Diana Prince)",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Amazon",
+    "race": "Amazon",
+    "bloodline": "House of Zeus",
+    "height_cm": 183,
+    "weight_kg": 73,
+    "age": "Immortal (appears 20s-30s)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Amazonian physique",
+      "Bracelets of Submission",
+      "Lasso of Truth",
+      "Tiara"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Themyscira (Paradise Island)",
+    "current_location": "Washington D.C.",
+    "base_of_operations": "Themyscira, Washington D.C., Justice League Watchtower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Diplomat, Museum curator",
+    "rank_title": "Princess of Themyscira",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League",
+      "Amazons of Themyscira"
+    ],
+    "previous": [],
+    "relatives": [
+      "Zeus (father)",
+      "Hippolyta (mother)",
+      "Donna Troy (sister)",
+      "Cassie Sandsmark (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "All Star Comics #8 (December 1941)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Vast superhuman strength rivaling Superman",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Divine weapons can harm her"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Extremely durable body resistant to most harm",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Vulnerable to piercing weapons"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Can move at superhuman speeds",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Not as fast as Flash"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly at high speeds",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Divine power dependence"
+    },
+    {
+      "name": "Lasso of Truth",
+      "native_name": null,
+      "description": "Magical lasso that forces truth and compels obedience",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Can be cut by divine weapons"
+    },
+    {
+      "name": "Bracelets of Submission",
+      "native_name": null,
+      "description": "Indestructible bracelets that can deflect projectiles",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Can be removed"
+    },
+    {
+      "name": "Combat Mastery",
+      "native_name": null,
+      "description": "Master of various forms of combat including Amazonian martial arts",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Divine Wisdom",
+      "native_name": null,
+      "description": "Enhanced intelligence and wisdom from divine heritage",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Can be outsmarted"
+    }
+  ],
+  "signature_moves": [
+    "Lasso capture",
+    "Bracelet deflection",
+    "Amazonian combat"
+  ],
+  "ultimate_move": "God Mode (divine power enhancement)",
+  "trump_card": "Lasso of Truth",
+  "power_attributes": {
+    "power_type": "Divine Amazon",
+    "power_source": "Divine heritage (Zeus)",
+    "combat_style": [
+      "Amazonian martial arts",
+      "Divine weapons",
+      "Versatile"
+    ],
+    "weapon": "Lasso of Truth",
+    "equipment": [
+      "Lasso of Truth",
+      "Bracelets of Submission",
+      "Tiara",
+      "Golden Armor"
+    ],
+    "trump_card": "Lasso of Truth",
+    "ultimate_move": "God Mode (divine power enhancement)"
+  },
+  "personality": {
+    "traits": [
+      "Compassionate",
+      "Brave",
+      "Wise",
+      "Diplomatic",
+      "Warrior spirit"
+    ],
+    "likes": [
+      "Peace",
+      "Justice",
+      "Helping others",
+      "Themyscira",
+      "Humanity"
+    ],
+    "dislikes": [
+      "War (though skilled in it)",
+      "Injustice",
+      "Deception",
+      "Oppression"
+    ],
+    "fear": "Failing to protect others, Losing her way",
+    "dream": "To bring peace to the world and protect the innocent",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Wise",
+      "Diplomatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Amazon princess becoming world's greatest hero and ambassador of peace",
+    "motivation": "To protect the innocent and promote peace and justice",
+    "affinity": "Peace",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world countless times",
+    "Justice League founding member",
+    "Defeated major threats like Ares, Circe, Darkseid",
+    "Became symbol of peace and female empowerment",
+    "Protected Themyscira"
+  ],
+  "titles": [
+    "Wonder Woman",
+    "Princess Diana",
+    "Amazon Princess",
+    "Godkiller",
+    "Diana Prince"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 95,
+    "speed": 85,
+    "durability": 90,
+    "power": 90,
+    "combat": 95,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Piercing weapons",
+      "Divine weapons",
+      "Binding",
+      "Mental manipulation"
+    ],
+    "factors": [
+      "Compassion for enemies",
+      "Diplomatic constraints",
+      "Divine limitations"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ares",
+    "allies": [
+      "Superman",
+      "Batman",
+      "Justice League",
+      "Amazons"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Superman",
+        "relationship": "Close ally and friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Batman",
+        "relationship": "Close ally and friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Hippolyta",
+        "relationship": "Mother",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Ares",
+      "Circe",
+      "Cheetah",
+      "Darkseid",
+      "Vandal Savage"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Ares",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Circe",
+        "relationship": "Major villain",
+        "threat_level": "High"
+      },
+      {
+        "name": "Cheetah",
+        "relationship": "Recurring enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": "Steve Trevor (varies)",
+    "best_friend": "Superman, Batman",
+    "rival": null,
+    "mentor": "Hippolyta",
+    "student": "Donna Troy, Cassie Sandsmark",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Superman",
+      "Batman",
+      "Justice League",
+      "Amazons",
+      "Superman, Batman"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ares"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Zeus"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Zeus"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Donna Troy, Cassie Sandsmark"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Superman",
+      "Batman",
+      "Justice League",
+      "Amazons",
+      "Superman, Batman"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Hippolyta"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ares",
+      "result": "Victory",
+      "method": "Divine power and combat skill"
+    },
+    {
+      "opponent": "Circe",
+      "result": "Victory",
+      "method": "Combat skill and divine weapons"
+    },
+    {
+      "opponent": "Darkseid",
+      "result": "Victory",
+      "method": "Teamwork and divine power"
+    }
+  ],
+  "quotes": [
+    "I will fight for those who cannot fight for themselves",
+    "Peace is not the absence of war, it's the presence of justice",
+    "I am Diana of Themyscira, daughter of Hippolyta, Queen of the Amazons",
+    "In the end, only love will save us"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Gal Gadot (films), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect the world",
+    "transformation": [
+      "Divine power enhancements",
+      "Various power boosts"
+    ],
+    "awakening_potential": "Full divine potential",
+    "power_evolution": [
+      "Basic Wonder Woman",
+      "Divine enhancements",
+      "God Mode"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight",
+      "Invisible Jet"
+    ],
+    "vehicles": [
+      "Invisible Jet"
+    ],
+    "headquarters": "Themyscira, Washington D.C.",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Wonder Woman is a superheroine appearing in American comic books published by DC Comics. The character first appeared in All Star Comics #8, published October 21, 1941, with her first feature in Sensation Comics #1 in January 1942. She is the daughter of Zeus and Hippolyta. She was created by the American psychologist and writer William Moulton Marston (pen name: Charles Moulton), and artist Harry G. Peter in 1941. Marston's wife, Elizabeth, and their life partner, Olive Byrne, are credited as being his inspiration for the character's appearance. She is one of the first DC superheroes and is one of the strongest superheroes of all time. The Wonder Woman title has been published by DC Comics almost continuously ever since.\nAn Amazon-Olympian princess and warrior, Wonder Woman is known in her homeland, the island nation of Themyscira, by her official title Princess Diana of Themyscira. When blending into the society outside her homeland, she sometimes adopts her civilian identity, Diana Prince. Wonder Woman's original/first origin story dates from the Golden Age of Comic Books, which relays that she was sculpted from clay by her mother, Queen Hippolyta, and given a life as an Amazon and Olympian by birth, along with superpowers as gifts from the Greek goddesses. In the 2010s from The New 52, DC introduced an alternative/new origin, a new canon origin for Wonder Woman in which Diana has become the biological daughter of Zeus and Hippolyta and still getting the blessings of superpowers from the Greek gods, her origin has changed since then, replacing the clay origin, and this current canon retconned origin is also used in her film adaptation. Since her introduction, the character's depiction has changed many times over the decades. This included briefly losing her powers entirely in the late 1960s, and being reinvented in the 1980s by artist George Pérez with an athletic look which emphasized her Amazonian heritage. She possesses an arsenal of magical items, including the Lasso of Truth, a pair of indestructible bracelets, a tiara which serves as a projectile, and, in older stories, a range of devices based on Amazon technology.\nWonder Woman's character was created during World War II; the character in the story was initially depicted fighting Axis forces as well as an assortment of colorful supervillains, although over time her stories came to place greater emphasis on characters, deities, and monsters from Greek mythology. Many stories depicted Wonder Woman freeing herself from bondage, which counterpointed the \"damsels in distress\" trope that was common in comics during the 1940s. In the decades since her debut, Wonder Woman has gained a cast of enemies bent on destroying her, including her archenemy Cheetah and classic villains such as Ares, Circe, Doctor Poison, Giganta, Doctor Psycho, and Doctor Cyber, along with more recent adversaries such as Veronica Cale, the Silver Swan, and Grail. Wonder Woman has also regularly appeared in comic books featuring the superhero teams Justice Society of America (1941) and Justice League (1960).\nThe character is an archetypical figure in popular culture recognized worldwide, partly due to being widely adapted into television, film, animation, apparel, merchandise, video games, and toys, with Wonder Woman Day celebrated on October 21 each year (the anniversary of first appearance). Shannon Farnon, Susan Eisenberg, Maggie Q, Lucy Lawless, Keri Russell, Rosario Dawson, Cobie Smulders, Rachel Kimsey, and Stana Katic, among others, have provided the character's voice for animated adaptations. Wonder Woman has been depicted in film and television by Linda Harrison, Cathy Lee Crosby, Lynda Carter, Megan Gale, Adrianne Palicki, and Gal Gadot.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,403 @@
+{
+  "id": "97078e46a7ed6d02215f027d3fd93332",
+  "name": "Soldier Boy",
+  "native_name": null,
+  "full_name": "Benjamin Banner / Ryan Kessler",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Banner",
+    "height_cm": 188,
+    "weight_kg": 100,
+    "age": "100+ (born 1918)",
+    "birthday": "July 4",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 28.3,
+    "nationality": "American"
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown (formerly blonde)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "War hero build",
+      "Military uniform",
+      "Shield"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Lakeside, Montana",
+    "current_location": "United States",
+    "base_of_operations": "Variable",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Former World War II Hero",
+    "rank_title": "Team Leader",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Payback"
+    ],
+    "previous": [
+      "The Seven",
+      "US Army"
+    ],
+    "relatives": [
+      "mother (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Incredible physical strength",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Nigh-Invulnerability",
+      "native_name": null,
+      "description": "Nearly indestructible",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Vulnerable to novichok"
+    },
+    {
+      "name": "Heat Breath",
+      "native_name": null,
+      "description": "Breath steam and heat",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Combat Experience",
+      "native_name": null,
+      "description": "Centuries of combat training",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Shield Bash",
+    "Soldier Punch"
+  ],
+  "ultimate_move": "Full Power Attack",
+  "trump_card": "Radiation Blast",
+  "power_attributes": {
+    "power_type": "Super Strength",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Military combat",
+      "Shield fighting"
+    ],
+    "weapon": "Shield",
+    "equipment": [
+      "Military gear"
+    ],
+    "trump_card": "Radiation Blast",
+    "ultimate_move": "Full Power Attack"
+  },
+  "personality": {
+    "traits": [
+      " Patriotic",
+      "Violent",
+      "Misogynistic",
+      "Nostalgic"
+    ],
+    "likes": [
+      "America",
+      "Fighting",
+      "Women"
+    ],
+    "dislikes": [
+      "Modern values",
+      "Russia"
+    ],
+    "fear": "Obsolescence",
+    "dream": "Return to glory",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Strength",
+      "Heat Breath",
+      "Combat Experience"
+    ],
+    "weaknesses": [
+      "Violent"
+    ]
+  },
+  "character": {
+    "arc": "WWII hero resented by modern values",
+    "motivation": "Restore his legacy",
+    "affinity": "Strength",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "WWII hero",
+    "The Seven founder",
+    "Strongest supe at his time"
+  ],
+  "titles": [
+    "Soldier Boy",
+    "America's Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Highly dangerous"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 95,
+    "speed": 60,
+    "durability": 90,
+    "power": 80,
+    "combat": 75,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Novichok gas vulnerability",
+      "Oldfashioned tactics",
+      "Modern technology"
+    ],
+    "factors": [
+      "Chemical weapons"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homelander",
+    "allies": [
+      "Payback",
+      "Crimson Countess"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Crimson Countess",
+        "relationship": "Teammate",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Homelander",
+      "The Boys"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Rival",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Crimson Countess (former)",
+    "best_friend": "Crimson Countess",
+    "rival": "Homelander",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Payback",
+      "Crimson Countess"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homelander"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Homelander"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Payback",
+      "Crimson Countess"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Homelander",
+      "result": "Defeat",
+      "method": "Outnumbered"
+    },
+    {
+      "opponent": "The Boys",
+      "result": "Draw",
+      "method": "Novichok needed to stop him"
+    }
+  ],
+  "quotes": [
+    "Back in my day, we fought wars not hashtags."
+  ],
+  "voice_acting": {
+    "native_language": "Jensen Ackles (English)",
+    "english": "Jensen Ackles",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues fighting",
+    "transformation": null,
+    "awakening_potential": "Learning new world",
+    "power_evolution": [
+      "WWII hero",
+      "Modern supe"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Foot",
+      "Vehicles"
+    ],
+    "vehicles": [
+      "Jeep"
+    ],
+    "headquarters": "Payback HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "Soldier Boy is the name of three superhero characters in the comic book series Herogasm and The Boys, created by Garth Ennis and Darick Robertson. The first character introduced is the elected leader of the Vought-American-sponsored superhero team Payback. He is depicted as one of the only \"Supes\" with selfless, benevolent motivations, who detests the use of profanity. However, Soldier Boy annually has sex with Homelander alone at the \"Herogasm\" orgy, under the mistaken hope that the \"test\" of doing so will convince Homelander to let him join his own superhero team, The Seven. After his most recent dalliance with Homelander, Soldier Boy is captured by CIA black ops agent Billy Butcher and brutally tortured and murdered by him for information on Homelander's recent activities. The original Soldier Boy is later revealed to have been mercy killed by Mallory during his first mission at the Battle of the Bulge, after his \"Avenging Squad\" inadvertently caused Mallory's men to be massacred, and been replaced by the second for the remainder of the war.",
+  "note": null,
+  "source": "the_boys"
+}

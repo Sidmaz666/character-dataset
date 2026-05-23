@@ -1,0 +1,423 @@
+{
+  "id": "692828cc06f922a686b866697d2c0b48",
+  "name": "Geordi La Forge",
+  "native_name": null,
+  "full_name": "Geordi La Forge",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "La Forge",
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": "35 when on Enterprise-D",
+    "birthday": "2355",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (VISOR provides bionic vision)",
+    "hair_color": "Black/Dark Brown",
+    "skin_color": "Dark",
+    "notable_features": [
+      "VISOR device over eyes",
+      "Bionic enhanced vision",
+      "Engineer's hands"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise-D, USS Enterprise-E",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Engineer",
+    "secondary": "First Officer",
+    "rank_title": "Lieutenant Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "USS Victory"
+    ],
+    "relatives": [
+      "Dr. La Forge (father, engineer)",
+      "Engineering grandmother"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Next Generation (1987) - \"Encounter at Farpoint\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Engineering Genius",
+      "native_name": null,
+      "description": "Exceptional engineering ability, can repair or modify any system",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Requires time and materials"
+    },
+    {
+      "name": "VISOR Enhanced Vision",
+      "native_name": null,
+      "description": "Can see across entire EM spectrum, detect life signs, scan systems",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Can cause headaches and glitches"
+    },
+    {
+      "name": "Management",
+      "native_name": null,
+      "description": "Excellent at managing engineering teams",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires competent subordinates"
+    }
+  ],
+  "signature_moves": [
+    "Engineering Miracle",
+    "VISOR Scan",
+    "Team Leadership"
+  ],
+  "ultimate_move": "Saving the Enterprise from Disaster",
+  "trump_card": "VISOR Emergency Override",
+  "power_attributes": {
+    "power_type": "Technical",
+    "power_source": "Engineering Training/VISOR",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "VISOR",
+      "Engineering Tricorder"
+    ],
+    "trump_card": "VISOR Emergency Override",
+    "ultimate_move": "Saving the Enterprise from Disaster"
+  },
+  "personality": {
+    "traits": [
+      "Optimistic",
+      "Persistent",
+      "Loyal",
+      "Determined",
+      "Occasionally Frustrated"
+    ],
+    "likes": [
+      "Engineering",
+      "Data (best friend)",
+      "The Enterprise"
+    ],
+    "dislikes": [
+      "Impossible Situations",
+      "Borg",
+      "Being Blind (before VISOR)"
+    ],
+    "fear": "VISOR Failure",
+    "dream": "Perfect Engineering Solutions",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From blind young man with VISOR to legendary chief engineer, best friend to Data",
+    "motivation": "Proving himself and helping others",
+    "affinity": "Engineering",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became Chief Engineer at young age",
+    "Maintained Enterprise-D for years",
+    "Created Data's daughter Lal",
+    "Helped Data gain legal rights",
+    "Designed warp drive improvements",
+    "Saved Enterprise many times"
+  ],
+  "titles": [
+    "Chief Engineer",
+    "La Forge",
+    "The Engineer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 65,
+    "speed": 70,
+    "durability": 70,
+    "power": 78,
+    "combat": 60,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "VISOR Vulnerability",
+      "Trust in AI",
+      "Occasional Impatience"
+    ],
+    "factors": [
+      "VISOR can be hacked",
+      "Over-reliance on technology"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Lore",
+    "allies": [
+      "Data (best friend)",
+      "Jean-Luc Picard",
+      "Worf"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Data",
+        "relationship": "Best friend and confidant",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Jean-Luc Picard",
+        "relationship": "Captain and mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Lore",
+      "Borg"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Lore",
+        "relationship": "Threatened mother",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Several women including Leah Brahms",
+    "best_friend": "Data",
+    "rival": "None significant",
+    "mentor": "Various engineers",
+    "student": "Various engineers",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Data (best friend)",
+      "Jean-Luc Picard",
+      "Worf",
+      "Data"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Lore",
+      "None significant"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Star Trek",
+      "The Next"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Star Trek",
+      "The Next"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None significant"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various engineers"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Data",
+      "Jean-Luc Picard",
+      "Worf"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various engineers"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lore",
+      "result": "Victory",
+      "method": "Engineering solutions"
+    },
+    {
+      "opponent": "Borg",
+      "result": "Various",
+      "method": "Engineering and VISOR support"
+    }
+  ],
+  "quotes": [
+    "The engines won't hold, Captain. I'm patching in everything we have.",
+    "I can fix it.",
+    "Data, what do you think you're doing?"
+  ],
+  "voice_acting": {
+    "native_language": "LeVar Burton",
+    "english": "LeVar Burton",
+    "note": "Also known for hosting Reading Rainbow",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued Starfleet service, eventually became admiral",
+    "transformation": "Rose from young officer to legendary engineer",
+    "awakening_potential": "Achieved engineering excellence",
+    "power_evolution": [
+      "Engineer",
+      "Chief Engineer",
+      "First Officer",
+      "Admiral"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise-D",
+      "USS Enterprise-E"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise Engineering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Geordi La Forge is a fictional character who appeared in all seven seasons of the American science fiction television series Star Trek: The Next Generation and its four feature films as well as the third season of Star Trek: Picard. Portrayed by LeVar Burton, he served as helmsman of the USS Enterprise-D in the first season of The Next Generation, then occupied the role of the chief engineer for the rest of the series and in the films before appearing as a commodore in Picard. La Forge has been blind since his birth and uses technological devices that allow him to see – a VISOR in the series and the first film, replaced by ocular prosthetic implants in the last three films and in Picard.",
+  "note": null,
+  "source": "star_trek"
+}

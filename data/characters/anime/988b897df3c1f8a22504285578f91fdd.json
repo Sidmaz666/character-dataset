@@ -1,0 +1,367 @@
+{
+  "id": "988b897df3c1f8a22504285578f91fdd",
+  "name": "Takamura, Mamoru",
+  "native_name": "鷹村守",
+  "full_name": "Mamoru Takamura",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 185,
+    "weight_kg": 75,
+    "age": "20s-30s",
+    "birthday": "July 7",
+    "zodiac": "Cancer",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 21.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Pompadour hair, muscular build",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo",
+    "current_location": "Kamogawa Gym",
+    "base_of_operations": "Kamogawa Gym",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Professional boxer",
+    "secondary": "WBC/WBA Champion",
+    "rank_title": "Middleweight/Super Middleweight",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kamogawa Boxing Gym"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Hajime no Ippo Episode 1",
+    "manga": "Hajime no Ippo Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Hybrid Boxing",
+      "native_name": "ハイブリッド",
+      "description": "Can fight in-fighters and out-boxers equally",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Melee"
+    },
+    {
+      "name": "One-Hit KO Power",
+      "native_name": "一撃 KO)",
+      "description": "Every punch has killer destructive power",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee"
+    },
+    {
+      "name": "Speed",
+      "native_name": "速度",
+      "description": "High-level speed and technique",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short"
+    }
+  ],
+  "signature_moves": [
+    "Dempsey Roll variation",
+    "Sharp left",
+    "Counter blows"
+  ],
+  "ultimate_move": "One-Hit KO combination",
+  "power_attributes": {
+    "power_type": "Boxing",
+    "power_source": "Training",
+    "combat_style": [
+      "Hybrid boxing",
+      "Power punching"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Hybrid Boxing",
+    "ultimate_move": "One-Hit KO combination"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Hot-tempered",
+      "Careless",
+      "Loyal secretly",
+      "Perverted"
+    ],
+    "likes": [
+      "Women (pervert tendency)",
+      "Being right",
+      "Boxing",
+      "His titles"
+    ],
+    "dislikes": [
+      "Being proven wrong",
+      "Losing",
+      "Anyone mocking him"
+    ],
+    "dream": "Conquer six weight classes, fight at Tokyo Dome",
+    "fear": "Humiliation",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Careless"
+    ]
+  },
+  "character": {
+    "arc": "World champion boxer",
+    "motivation": "Realize Kamogawa's Tokyo Dome dream, conquer weight classes",
+    "affinity": "Fire",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "WBC Junior Middleweight Champion",
+    "WBC/WBA Middleweight Champion",
+    "WBC Super Middleweight Champion",
+    "Unified titles",
+    "Bear Slayer",
+    "Japanese Hawk"
+  ],
+  "titles": [
+    "Bear Slayer",
+    "Japanese Hawk",
+    "Lord of Perverts"
+  ],
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 95,
+    "speed": 90,
+    "durability": 90,
+    "power": 100,
+    "combat": 95,
+    "total": 555
+  },
+  "relationships": {
+    "coach": "Kamogawa Genji",
+    "gym mates": [
+      "Ippo Makunouchi",
+      "Aoki",
+      "Kimura",
+      "Miyata Ichiro"
+    ],
+    "rivals": [
+      "Bryan Hawk",
+      "David Eagle"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Bryan Hawk",
+      "David Eagle"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Bryan Hawk",
+      "David Eagle"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kamogawa Boxing Gym"
+    ],
+    "sisters": null,
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Bryan Hawk",
+      "result": "Victory",
+      "method": "Technical victory"
+    },
+    {
+      "opponent": "David Eagle",
+      "result": "Victory",
+      "method": "KO"
+    }
+  ],
+  "quotes": [
+    "I'll become world champion!",
+    "One punch is all I need!"
+  ],
+  "voice_acting": {
+    "native_language": "Rikiya Koyama",
+    "note": null,
+    "native_name": null,
+    "english": "Eddie Frierson",
+    "japanese": "Rikiya Koyama"
+  },
+  "story": {
+    "status": "Active boxer",
+    "fate": "Continues quest for world champion",
+    "role_in_story": "Deuteragonist",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "trump_card": "Hybrid Boxing",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Arrogant",
+      "Careless"
+    ],
+    "factors": [
+      "arrogant",
+      "careless"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kamogawa Gym",
+    "story_importance": "Deuteragonist",
+    "note": null
+  },
+  "about": "Birthday: July 7, 1969\nHomeland: Tokyo, Japan\nFamily: Takamura Suguru (older brother), Takamura Kyouka (older sister), Takamura Wataru (little brother)\nOccupation: Professional Boxer\nWeight Class: Junior Middleweight/Super Welterweight Weight Limit: 154 Pounds, Middleweight Weight Limit 160 Pounds and Super Middleweight Weight Limit: 168 Pounds (keep in mind Takamura will rehydrate heavier around 15 to 25 pounds heavier on fightnight after passing the weigh-in)\nNatural Weight: 200 Pounds \nHeight: 185 cm (6'1\")\nReach: 189 cm (74\")\nStyle: Hybrid\nStance(s): Orthodox Stance, Brawling Stance, Hitman Style\nCurrent Affiliation: Kamogawa Boxing Gym\nTrainer: Kamogawa Genji\n\nHe is a multi-weight class (currently Super Middleweight) hybrid boxer affiliated with the Kamogawa Boxing Gym. He is the Former unified WBC World Junior Middleweight/Super Welterweight Champion , WBC and WBA World Middleweight Champion. Takamura is currently WBC Super Middleweight Champion (Takamura is currently a 3 Weight Class World Champion). Takamura Mamoru's Main Goal is to be a 6 Weight Class World Champion from Junior Middleweight all the way to Heavyweight (to his Natural Weight) no matter the cost. (The real life 6 Weight Class World Champion is a Mexican-American boxer named Oscar De La Hoya who is also an Olympic Gold Medalist, his professional boxing accomplishment is what Takamura is trying to achieve in the Hajime no Ippo manga, to become World Champion in 6 Weight Classes. Oscar De La Hoya inspired both the characters David Eagle as an Olympic Gold Medalist and Takamura Mamoru with his real life accomplishments trying to become World Champion in 6 different Weight Classes which both were achieved by Oscar De La Hoya)\n\nTakamura is very hearty, rude and often behaves vulgarly. He is a loud arrogant boaster who tends to refer to himself as Ore-sama (a Japanese name suffix intended for people of great importance) and he rarely ever shows a shred of consideration towards other fighters after a loss.\n\nTakamura was discovered on the streets by Coach Kamogawa Genji, and his speed, power, and technique are all high-level to the point that he is capable of handling both In Fighters and Out Boxers without too much trouble. Unlike most characters in Hajime no Ippo, he has no special finishing blow, but every punch he has possesses killer destructive power. With the wild power to always force out any situation he claims will happen, he is a man who does everything he says he will.\n\nAs the one who got Ippo, Aoki and Kimura into boxing, he is well respected at the Kamogawa Gym. Even though he constantly looks down on and ridicules their achievements, his unrivalled strength and the few moments his true kindness leaks out prevent them from losing their respect for him. Takamura loves to pick on his fellow gym mates, with Aoki usually the first on his list. Although he tends to get more serious when hearing about or training for his next match, he still finds the time to play pranks on everyone and goof around.\n\nHe is the current WBC Super Middleweight Champion, former WBC and WBA World Middleweight Champion and former WBC Junior Middleweight Champion. He was also the JBC Middleweight Champion, but relinquished it after 4 title defenses. He lives alone at the Ohta Inn apartment complex, and his room is littered with junk, old food, pornography, and even his Belts. He still lives there even after becoming World Champion, preferring a simple life.\n\n\nThe character for Taka (鷹) in his name means hawk, and as a result he is sometimes nicknamed The Japanese Hawk by announcers and spectators (most notably during his matches against Bryan Hawk and David Eagle). His pompadour hairstyle is his trademark.\n\nCurrent Record:",
+  "note": null,
+  "source": "anime"
+}

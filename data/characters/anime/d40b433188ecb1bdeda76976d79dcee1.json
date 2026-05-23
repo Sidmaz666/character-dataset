@@ -1,0 +1,424 @@
+{
+  "id": "d40b433188ecb1bdeda76976d79dcee1",
+  "name": "Rukia Kuchiki",
+  "native_name": "朽木 ルキア",
+  "full_name": "Rukia Kuchiki",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Shinigami",
+    "race": "Shinigami (Noble)",
+    "bloodline": "Kuchiki Family",
+    "height_cm": 144,
+    "weight_kg": 33,
+    "age": "150+",
+    "birthday": "January 14",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 15.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Black",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Short black hair",
+      "Purple eyes",
+      "Shinigami robes",
+      "Small stature",
+      "Serious expression"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Soul Society",
+    "current_location": "Karakura Town",
+    "base_of_operations": "13th Division HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinigami Lieutenant",
+    "secondary": "13th Division Lieutenant",
+    "rank_title": "Lieutenant Kuchiki",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "13th Division",
+      "Kuchiki Clan"
+    ],
+    "previous": [],
+    "relatives": [
+      "Byakuya Kuchiki (adoptive brother)",
+      "Hisana (biological sister, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanpakuto",
+      "native_name": "袖の白雪",
+      "description": "Sode no Shirayuki - most beautiful Zanpakuto. Ice-based abilities.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Bankai",
+      "native_name": "白霞罰",
+      "description": "Shirayuki no Hakai - ice powder that freezes everything on contact.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Area",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Kido Mastery",
+      "native_name": "鬼道",
+      "description": "Master of demon arts. Can cast high-level Kido without incantations.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Ice Powers",
+      "native_name": "氷の力",
+      "description": "Can freeze anything with Sode no Shirayuki. Creates ice storms.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 91,
+      "range": "Area",
+      "limit": "Reiatsu"
+    }
+  ],
+  "signature_moves": [
+    "Sode no Shirayuki",
+    "Kido spells",
+    "Ice storm"
+  ],
+  "ultimate_move": "Bankai: Shirayuki no Hakai",
+  "trump_card": "Ice Zanpakuto",
+  "power_attributes": {
+    "power_type": "Reiatsu",
+    "power_source": "Shinigami",
+    "combat_style": [
+      "Zanpakuto",
+      "Kido"
+    ],
+    "weapon": "Sode no Shirayuki",
+    "equipment": [
+      "Shinigami robes"
+    ],
+    "trump_card": "Ice Zanpakuto",
+    "ultimate_move": "Bankai: Shirayuki no Hakai"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Loyal",
+      "Caring",
+      "Dutiful",
+      "Evolving",
+      "Brave"
+    ],
+    "likes": [
+      "Ichigo",
+      "Byakuya",
+      "Justice",
+      "Rabbits",
+      "Penguins"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Evil",
+      "Being weak",
+      "Hollows"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Protect Karakura, serve Soul Society",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Rukia is the Shinigami who gives Ichigo his powers. From Kuchiki clan, adopted by Byakuya. Sentenced to death, saved by Ichigo. Becomes lieutenant, marries Renji.",
+    "motivation": "Protect Karakura, serve justice",
+    "affinity": "White/Ice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "13th Division Lieutenant",
+    "Defeated Espada",
+    "Saved by Ichigo",
+    "Kuchiki heir"
+  ],
+  "titles": [
+    "Lieutenant",
+    "Kuchiki",
+    "Shinigami"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "None",
+    "details": "Lieutenant"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 72,
+    "speed": 82,
+    "durability": 80,
+    "power": 90,
+    "combat": 88,
+    "total": 497
+  },
+  "weaknesses": {
+    "list": [
+      "Ichigo's safety",
+      "Byakuya's approval",
+      "Past guilt"
+    ],
+    "factors": [
+      "Ichigo",
+      "Byakuya",
+      "Kaien"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Aizen, Espada",
+    "allies": [
+      "Ichigo",
+      "Renji",
+      "Byakuya",
+      "Orihime",
+      "Uryu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Aizen",
+      "Espada",
+      "Hollows"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Renji",
+    "best_friend": "Ichigo",
+    "rival": "None",
+    "mentor": "Kaien (former)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo",
+      "Renji",
+      "Byakuya",
+      "Orihime",
+      "Uryu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Aizen, Espada",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Renji",
+      "Byakuya",
+      "Orihime",
+      "Uryu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kaien"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Aaroniero",
+      "result": "Victory",
+      "method": "Sode no Shirayuki"
+    },
+    {
+      "opponent": "Luppi",
+      "result": "Victory",
+      "method": "Kido"
+    },
+    {
+      "opponent": "Hollows",
+      "result": "Victory",
+      "method": "Zanpakuto"
+    }
+  ],
+  "quotes": [
+    "I'm a Shinigami!",
+    "Protect me, Ichigo!",
+    "Justice must be served!"
+  ],
+  "voice_acting": {
+    "native_language": "Fumiko Orikasa (Japanese)",
+    "note": "Serious, caring",
+    "native_name": null,
+    "english": "Michelle Ruff",
+    "japanese": "Fumiko Orikasa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Renji, continues as lieutenant",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Shinigami",
+      "Lieutenant",
+      "Wife",
+      "Hero"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "13th Division HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Occupation: Shinigami in the 13th Division, \nBirthday: January 14 (Capricorn)\nHeight: 144 cm (4' 8\")\nWeight: 33 kg (72.6 lb)\nHair: Black\nEyes: Violet/Dark Purple\nZanpakutou: Sode no Shirayuki, \nShikai Command: Mae (Dance), Sode no Shirayuki\nTheme Song: \"Wing-Stock\" by Ashley MacIsaac\n\nRukia and her older sister, Hisana, were brought together to 78th District of Rukongai after they died in the human world. Hisana abandoned Rukia when she was still a baby since she could not continue to support both herself and Rukia. Rukia grew up on her own until she met Renji Abarai and other children her age. They worked together to steal food in order to survive and became a makeshift family. She's a bit of a tomboy to show that she's tough. During this time, Rukia and Renji showed signs of having spiritual power. While they initially opted against becoming shinigami, the death of all their friends prompted Rukia to suggest joining the academy for a better life.\n\nAt the shinigami academy, Renji was admitted into the top class and Rukia into the second ranked one. Renji and Rukia started growing further apart as Renji got further ahead in his training. The emotional distance continued until Rukia was asked to join the Kuchiki family. Renji expressed happiness for Rukia's opportunity but both did not admit that they disagreed with the arrangement since they would likely never see each other again. Rukia reluctantly joined the family and was immediately inducted into the 13th Division without having to graduate or take a squad entrance exam. Unknown to Rukia, Byakuya had adopted her in order to fulfill the last wish of Hisana, whom he had taken as his wife.\n\nIn the 13th Division, Rukia was not given a seat position, due to Byakuya Kuchiki's influence, since he did not want her sent on dangerous missions. She became friends with the division lieutenant, Kaien Shiba, who trained and mentored her. Their first training location was Mount Koifushi of Hokutan, the 3rd district of West Rukongai.\n\nRukia greatly admired Kaien's wife, 3rd Seat Miyako Shiba. When Miyako was killed by a hollow, Rukia, Kaien, and the division's captain, Jūshirō Ukitake hunted the hollow down. Kaien faced the hollow alone but the hollow's special ability destroyed his zanpakutō. Rukia attempted to draw her sword and help but was stopped by Ukitake. He told her that Kaien's fight was one of honor rather than a fight for his life. If Rukia helped, Kaien would be saved but his honor would be damaged forever. Meanwhile, the hollow entered Kaien and possessed him. Ukitake faced the hollow but his illness allowed the hollow the opportunity to attack Rukia. Kaien momentarily regained control and thrust himself through Rukia's zanpakutō. He thanked Rukia and Ukitake for letting him fight for his honor and died in Rukia's arms. Rukia brought the corpse to the Shiba family but was afraid to apologize since she felt guilty about her role in Kaien's death.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

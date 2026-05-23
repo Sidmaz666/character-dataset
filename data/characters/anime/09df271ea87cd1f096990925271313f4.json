@@ -1,0 +1,389 @@
+{
+  "id": "09df271ea87cd1f096990925271313f4",
+  "name": "Leorio Paradinight",
+  "native_name": "レオリオ=パラディナイト",
+  "full_name": "Leorio Paradinight",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Paradinight Family",
+    "height_cm": 193,
+    "weight_kg": 85,
+    "age": "19",
+    "birthday": "March 3",
+    "zodiac": "Pisces",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 22.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Tall",
+      "Glasses",
+      "Suit",
+      "Beard stubble"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Hunter Exam",
+    "current_location": "Hunter Exam",
+    "base_of_operations": "Medical School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter",
+    "secondary": "Medical Student",
+    "rank_title": "Rookie Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hunter Association",
+      "Medical School"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter Episode 1",
+    "manga": "Hunter x Hunter Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Emission Nen",
+      "native_name": "放出系",
+      "description": "Can project aura for long-range attacks and medical purposes.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Medical Skills",
+      "native_name": "医療技術",
+      "description": "Trained doctor capable of diagnosing and treating illnesses.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Touch",
+      "limit": "Equipment"
+    },
+    {
+      "name": "Pocket Knife",
+      "native_name": "ナイフ",
+      "description": "Uses knife for combat and medical procedures.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Range"
+    }
+  ],
+  "signature_moves": [
+    "Aura projectile",
+    "Medical diagnosis",
+    "Knife thrust"
+  ],
+  "ultimate_move": "Long-range punch",
+  "trump_card": "Emission ability",
+  "power_attributes": {
+    "power_type": "Nen",
+    "power_source": "Emission",
+    "combat_style": [
+      "Ranged",
+      "Medical"
+    ],
+    "weapon": "Knife",
+    "equipment": [
+      "Medical kit"
+    ],
+    "trump_card": "Emission ability",
+    "ultimate_move": "Long-range punch"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Greedy (appearance)",
+      "Loyal",
+      "Intelligent",
+      "Protective",
+      "Honest"
+    ],
+    "likes": [
+      "Money",
+      "Friends",
+      "Medicine",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Illness",
+      "Poverty",
+      "Injustice"
+    ],
+    "fear": "Losing friends to illness",
+    "dream": "Become doctor, help poor for free",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Greedy"
+    ]
+  },
+  "character": {
+    "arc": "Leorio wants to become a doctor to help poor people. Joins Hunter Exam for money to pay medical school.",
+    "motivation": "Become doctor, help others",
+    "affinity": "Black/Medicine",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Hunter Exam pass",
+    "Medical student",
+    "Defeated enemies"
+  ],
+  "titles": [
+    "Doctor-to-be",
+    "Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hunter"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 72,
+    "speed": 65,
+    "durability": 70,
+    "power": 78,
+    "combat": 75,
+    "total": 445
+  },
+  "weaknesses": {
+    "list": [
+      "Not a fighter",
+      "Emotional",
+      "Inexperienced"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Gon",
+      "Killua",
+      "Kurapika"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gon Freecss",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Phantom Troupe (indirectly)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Gon/Killua/Kurapika",
+    "rival": "None",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gon",
+      "Killua",
+      "Kurapika",
+      "Gon/Killua/Kurapika"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gon",
+      "Killua",
+      "Kurapika",
+      "Gon/Killua/Kurapika"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Victory",
+      "method": "Nen"
+    }
+  ],
+  "quotes": [
+    "I want to be a doctor!",
+    "Money is important!",
+    "I'll save everyone!"
+  ],
+  "voice_acting": {
+    "native_language": "Keiji Fujiwara (Japanese)",
+    "note": "Mature, caring",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Becomes doctor",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Student",
+      "Hunter",
+      "Doctor",
+      "Hero"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Medical School",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Kurapika (Japanese: クラピカ) is a fictional character from Yoshihiro Togashi's manga series Hunter × Hunter. Kurapika is the last remaining member of the Kurta Clan (クルタ族, Kuruta-zoku) who wishes to become a Hunter in order to avenge his clan and recover their scarlet-glowing eyes that were plucked from their corpses by a band of thieves known as the Phantom Troupe. In the series's first story arc, he befriends the protagonist and Hunter participant Gon Freecss after having a fight with Leorio Paradinight. After many trials together, Gon and his friends end up passing the exam. In hunting the Troupe, Kurapika learns of his Nen, a Qi-like life energy used by its practitioners to manifest parapsychological abilities, which he specifically develops for his revenge quest. Kurapika has additionally appeared in the 2013 movie Hunter × Hunter: Phantom Rouge, which further expands his backstory and revenge mission. He is also a supporting character in the film Hunter × Hunter: The Last Mission, where he briefly reunites with his new friends in an arena.\nInspired by Nausicaä of the Valley of the Wind and Japanese singer Takanori Nishikawa when creating Kurapika, Togashi has had trouble telling Kurapika's entire backstory, which led to the production of an animated movie. Multiple voice actors provided their talent for Kurapika's portrayal in the series's animated adaptations. Critical response to Kurapika's character has been positive due to his constant changes between his quest for revenge and friendship. He was also praised for  maintaining a calm and friendly personality when it comes to his friends as well as his darker side when dealing with his past.",
+  "note": null,
+  "source": "anime"
+}

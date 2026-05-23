@@ -1,0 +1,469 @@
+{
+  "id": "8dfd827c046f10a9ae8088828bd0eccc",
+  "name": "Phantom Stranger",
+  "native_name": null,
+  "full_name": "Philip Stark (claimed)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Cosmic Entity",
+    "race": "Unknown",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": "Eternal/Ageless",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": "Always wears a fedora and long coat, mysterious appearance",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (possibly Earth or beyond)",
+    "current_location": "Various realms",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Guide of Champions",
+    "secondary": "Member of the Quintessence",
+    "rank_title": "The Stranger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Quintessence",
+      "Justice League",
+      "Trenchcoat Brigade",
+      "Sentinels of Magic",
+      "Justice League Dark"
+    ],
+    "previous": [
+      "Lords of Order"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Phantom Stranger #1 (August, 1952)",
+    "comics": "Phantom Stranger #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cosmic Awareness",
+      "native_name": null,
+      "description": "Knows all events throughout the universe, omniscient-like knowledge",
+      "type": "Sensory",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Omniversal",
+      "limit": "Cannot intervene directly"
+    },
+    {
+      "name": "Dimensional Travel",
+      "native_name": null,
+      "description": "Can travel between dimensions freely, including Heaven, Hell, and mystical realms",
+      "type": "Mobility",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Omniversal",
+      "limit": null
+    },
+    {
+      "name": "Reality Warping",
+      "native_name": null,
+      "description": "Can warp reality on a universal scale",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": "Self-imposed restrictions"
+    },
+    {
+      "name": "Chronokinesis",
+      "native_name": null,
+      "description": "Can travel through time",
+      "type": "Mobility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Temporal",
+      "limit": null
+    },
+    {
+      "name": "Sorcery",
+      "native_name": null,
+      "description": "Mastery over all magical forces, archmage-level power",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": null
+    },
+    {
+      "name": "Energy Bolts",
+      "native_name": null,
+      "description": "Fires mystical energy blasts of great force",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Illusion Dispelling",
+      "native_name": null,
+      "description": "Can reveal and dispel all magical illusions",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Wide",
+      "limit": null
+    },
+    {
+      "name": "Teleportation",
+      "native_name": null,
+      "description": "Can appear and disappear at will",
+      "type": "Mobility",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Omniversal",
+      "limit": null
+    },
+    {
+      "name": "Oneiromancy",
+      "native_name": null,
+      "description": "Can perceive and manipulate dreams",
+      "type": "Sensory",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Universal",
+      "limit": null
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Does not age, effectively eternal",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Cannot enter Heaven directly"
+    }
+  ],
+  "signature_moves": [
+    "Mystical Shield",
+    "Temporal Intervention",
+    "Reality Alteration"
+  ],
+  "ultimate_move": "Universal Providence",
+  "trump_card": "Oath of Non-Intervention",
+  "power_attributes": {
+    "power_type": "Mystical/Cosmic",
+    "power_source": "Unknown (possibly the Source)",
+    "combat_style": [
+      "Mystical Combat",
+      "Psychic Warfare"
+    ],
+    "weapon": "Talisman",
+    "equipment": [
+      "Medallion of The Stranger"
+    ],
+    "trump_card": "Oath of Non-Intervention",
+    "ultimate_move": "Universal Providence"
+  },
+  "personality": {
+    "traits": [
+      "Mysterious",
+      "Wise",
+      "Guide",
+      "Enigmatic"
+    ],
+    "likes": [
+      "Justice",
+      "Order"
+    ],
+    "dislikes": [
+      "Chaos",
+      "Evil"
+    ],
+    "fear": "Being forced to directly intervene",
+    "dream": "Maintain cosmic balance",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Condemned to walk the Earth, guiding heroes but never directly intervening",
+    "motivation": "Maintain balance between Order and Chaos",
+    "affinity": "Mystical",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Member of the Quintessence",
+    "Guided countless heroes through crises",
+    "Battled cosmic threats across history"
+  ],
+  "titles": [
+    "The Stranger",
+    "Spirit of Justice",
+    "Brotherless One",
+    "Grey Walker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Incalculable",
+    "details": "Cannot be quantified"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 80,
+    "speed": 100,
+    "durability": 95,
+    "power": 100,
+    "combat": 70,
+    "total": 545
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot directly intervene",
+      "Bound by oath",
+      "Cannot enter Heaven"
+    ],
+    "factors": [
+      "Self-imposed restrictions limit action"
+    ]
+  },
+  "relationships": {
+    "nemesis": [
+      "Pandora",
+      "The Question"
+    ],
+    "allies": [
+      "Justice League",
+      "Quintessence",
+      "Zatanna",
+      "Doctor Fate"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Spectre",
+        "relationship": "Rival/Wager",
+        "trust_level": "Unknown"
+      },
+      {
+        "name": "Doctor Fate",
+        "relationship": "Ally",
+        "trust_level": "High"
+      },
+      {
+        "name": "Zatanna",
+        "relationship": "Ally",
+        "trust_level": "Moderate"
+      }
+    ],
+    "enemies": [
+      "Pandora",
+      "The Question",
+      "Spectre"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Spectre",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Justice League",
+      "Quintessence",
+      "Zatanna",
+      "Doctor Fate"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Pandora",
+      "The Question",
+      "Spectre"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Spectre"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Justice League",
+      "Quintessence",
+      "Zatanna",
+      "Doctor Fate"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "The Spectre",
+      "result": "Inconclusive",
+      "method": "Wager over Batman"
+    },
+    {
+      "opponent": "Demon Etrigan",
+      "result": "Victory",
+      "method": "Phased through"
+    }
+  ],
+  "quotes": [
+    "I am forbidden to directly intervene. I can only guide.",
+    "The choice must be yours to make."
+  ],
+  "voice_acting": {
+    "native_language": "Matt Ryan",
+    "english": "Matt Ryan",
+    "note": "Also voices John Constantine",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Eternally walks the Earth",
+    "transformation": null,
+    "awakening_potential": "Could intervene but chooses not to",
+    "power_evolution": [],
+    "role_in_story": "Supporting/Mentor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Teleportation"
+    ],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "source": "bing_images",
+  "publisher": "dc",
+  "about": "The Phantom Stranger is a superhero appearing in American comic books published by DC Comics, of unspecified paranormal origins, who battles mysterious and occult forces, sometimes under their Vertigo imprint. The character first appeared in an eponymous comics anthology published in August/September 1952.\nThe Phantom Stranger made his first live-action appearance in the 2019 DC Universe television series Swamp Thing, portrayed by Macon Blair. Additionally, Kevin Conroy, D. B. Woodside, and Peter Serafinowicz have voiced the character in animation.",
+  "note": null
+}

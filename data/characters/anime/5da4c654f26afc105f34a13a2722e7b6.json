@@ -1,0 +1,434 @@
+{
+  "id": "5da4c654f26afc105f34a13a2722e7b6",
+  "name": "Greed",
+  "native_name": "グリード",
+  "full_name": "Greed (Ling Yao's Greed)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Homunculus (Human-based)",
+    "race": "Human (Enhanced with Philosopher's Stone)",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Eternal (via Philosopher's Stone)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Golden/Yellow",
+    "hair_color": "Black",
+    "skin_color": "Fair (changes with shield)",
+    "notable_features": [
+      "Sharp features",
+      "Clawed hands",
+      "Demon-like true form"
+    ],
+    "skin": "Fair (changes with shield)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Various",
+    "base_of_operations": "Dublith (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Homunculus",
+    "secondary": "Former gang leader",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Ling Yao (shared body)",
+      "Elric Brothers (alliance)"
+    ],
+    "previous": [
+      "Father",
+      "Homunculi",
+      "Greed's Gang"
+    ],
+    "relatives": [
+      "Father (creator)",
+      "Other Homunculi (siblings)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ultimate Shield",
+      "native_name": null,
+      "description": "Can rearrange carbon in body to make skin as hard as diamond. Can convert skin into hard but prehensile graphene, leaving movement intact. Forms claws on fingers capable of slicing through rock and metal.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Carbon manipulation requires concentration"
+    },
+    {
+      "name": "Carbon Body Control",
+      "native_name": null,
+      "description": "Controls carbon atom configuration. Can make skin indestructible or turn to weak graphite. Can strengthen selected body parts during battle.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Full coverage reduces mobility"
+    },
+    {
+      "name": "Enhanced Strength",
+      "native_name": null,
+      "description": "Superhuman strength as a homunculus. Can match King Bradley in combat.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Physical limits"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Can heal from any wound as long as Philosopher's Stone has energy. Combined with Ultimate Shield, nearly completely immune to damage.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Stone depletion is permanent"
+    },
+    {
+      "name": "Demon Form",
+      "native_name": null,
+      "description": "Full shield activation creates demon-like appearance with razor sharp fingernails capable of slicing through rock and metal.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Intimidating but predictable"
+    }
+  ],
+  "signature_moves": [
+    "Ultimate Shield",
+    "Carbon Claw Slash",
+    "Diamond Defense"
+  ],
+  "ultimate_move": "Full Body Diamond Shield",
+  "trump_card": "Ultimate Shield + Regeneration",
+  "power_attributes": {
+    "power_type": "Homunculus",
+    "power_source": "Father's power, Philosopher's Stone, Ling Yao (shared body)",
+    "combat_style": [
+      "Enhanced Combat",
+      "Carbon Shield Defense",
+      "Claw Attacks"
+    ],
+    "weapon": "Carbon claws",
+    "equipment": [
+      "Regeneration",
+      "Demon Form"
+    ],
+    "trump_card": "Ultimate Shield + Regeneration",
+    "ultimate_move": "Full Body Diamond Shield"
+  },
+  "personality": {
+    "traits": [
+      "Greedy",
+      "Ambitious",
+      "Caring (for subordinates)",
+      "Rebellious",
+      "Loyal"
+    ],
+    "likes": [
+      "Luxury",
+      "Powerful minions",
+      "Beautiful women",
+      "Wealth"
+    ],
+    "dislikes": [
+      "Father's control",
+      "Being used",
+      "Death of friends"
+    ],
+    "fear": "Shared body with Ling",
+    "dream": "To possess everything and everyone",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Greedy"
+    ]
+  },
+  "character": {
+    "arc": "The embodiment of Father's greed who rebelled against his creator. Shares his body with Prince Ling Yao of Xing, and after Bido's death, chooses to help the Elrics against Father despite their original goals.",
+    "motivation": "Possessing everything, protecting his friends",
+    "affinity": "Carbon/Shield",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Became leader of powerful gang",
+    "Achieved Ultimate Shield",
+    "Rebelled against Father",
+    "Fought King Bradley",
+    "Shared consciousness with Ling Yao"
+  ],
+  "titles": [
+    "The Ultimate Shield",
+    "Greed the Greedy"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 92,
+    "speed": 82,
+    "durability": 98,
+    "power": 92,
+    "combat": 85,
+    "total": 529
+  },
+  "weaknesses": {
+    "list": [
+      "Shared body with Ling",
+      "Cannot use Ultimate Shield when Ling controls body",
+      "Philosopher's Stone depletion"
+    ],
+    "factors": [
+      "Body sharing limitation",
+      "Memory gaps from original Greed"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Father",
+    "allies": [
+      "Ling Yao",
+      "Edward Elric",
+      "Alphonse Elric",
+      "Marty (gang)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ling Yao",
+        "relationship": "Shared Body/Partner",
+        "trust_level": "High"
+      },
+      {
+        "name": "Edward Elric",
+        "relationship": "Ally",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Father",
+      "King Bradley",
+      "Bido (unintentional)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Father",
+        "relationship": "Creator (rebellious against)",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Marty",
+    "rival": null,
+    "mentor": "Father",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ling Yao",
+      "Edward Elric",
+      "Alphonse Elric",
+      "Marty (gang)",
+      "Marty"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Father"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ling Yao",
+      "Edward Elric",
+      "Alphonse Elric",
+      "Marty"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "King Bradley",
+      "result": "Defeat",
+      "method": "Defeated by Bradley's swordsmanship"
+    },
+    {
+      "opponent": "Father",
+      "result": "Victory (defection)",
+      "method": "Rebelled after Bido's death"
+    }
+  ],
+  "quotes": [
+    "I want everything in this world!",
+    "I don't care about being used by Father. I just want to possess everything!"
+  ],
+  "voice_acting": {
+    "native_language": "Kenji Akaba (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Troy Baker",
+    "japanese": "Junichi Suwabe"
+  },
+  "story": {
+    "status": "Alive (in Ling Yao)",
+    "fate": "Continues sharing body with Ling Yao",
+    "transformation": null,
+    "awakening_potential": "Achieved full shield mastery",
+    "power_evolution": [
+      "Young Homunculus",
+      "Gang Leader",
+      "Rebel",
+      "Ling's Partner"
+    ],
+    "role_in_story": "Supporting Antagonist/Turned Ally",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Dublith (formerly)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Greed is a greedy Homunculus, nicknamed the \"Ultimate Shield\". He is able to rearrange the carbon in his body to make his skin as hard as diamond, thus making himself almost impossible to injure. As his name implies he is a very avaricious character, who likes living in luxury, surrounded by powerful minions and beautiful women. Despite his generally greedy nature, he is shown to honestly care for his subordinates. He also has a habit of flipping people off in the manga.\n\nIn the 2003 anime series\n\n\nIn the manga and 2009 anime series\n\n\n\n(Source: Fullmetal Alchemist Wikia)",
+  "note": null,
+  "source": "anime"
+}

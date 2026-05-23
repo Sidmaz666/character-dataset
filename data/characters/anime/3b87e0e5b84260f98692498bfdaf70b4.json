@@ -1,0 +1,325 @@
+{
+  "id": "3b87e0e5b84260f98692498bfdaf70b4",
+  "name": "Rebecca",
+  "native_name": "レベッカ",
+  "full_name": "Rebecca",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "20",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mercenary - Solo",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Tomoyo Kurosawa (Japanese)",
+    "Voiced by Alex Cazares (English)"
+  ],
+  "titles": [
+    "Mercenary - Solo"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Pilar (brother)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Pilar (brother)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Pilar (brother)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Pilar"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Alex Cazares",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Tomoyo Kurosawa"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 20 (approximately)\nAffiliation: Maine's Crew (Formerly), David's Crew\nOccupation: Mercenary - Solo\nCyberware: Cyberoptics, EMP Threading, Cyberarms, Firearms (Guts)\n\nRebecca is a solo and a secondary character in the series. She is a very sharp-tongued young woman and tends to be extreme and unpredictable. She is often shown going all out in fights, sometimes even laughing maniacally. Nevertheless, Rebecca is loyal and does everything for the crew of Maine, including supporting newcomer David where she can.\n\n\nBackground\nRebecca was an edgerunner of Night City, who was always fighting with her brother Pilar. The two siblings often teamed up with Maine and his crew to conduct mercenary jobs. Their daily life outside of work was tense, and they would always fight with each other due to Pilar's provocative behavior. This caused her to decide that she would be the person to kill her brother someday.\n\nTimeline\n\n\n\n\n(Source: Cyberpunk Wiki)",
+  "note": null,
+  "source": "anime"
+}

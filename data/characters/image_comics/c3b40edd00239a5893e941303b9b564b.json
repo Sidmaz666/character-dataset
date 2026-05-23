@@ -1,0 +1,391 @@
+{
+  "name": "Viltrumites",
+  "native_name": null,
+  "full_name": "Viltrumite Race",
+  "basic_info": {
+    "gender": "N/A (Species)",
+    "species": "Viltrumite",
+    "race": "Alien Species",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 90,
+    "age": "Millennia",
+    "birthday": "N/A",
+    "zodiac": "N/A",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Various",
+    "hair_color": "Various",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Human-like appearance",
+      "Muscular builds",
+      "Long lifespans",
+      "Warrior culture"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Planet Viltrum",
+    "current_location": "Viltrum",
+    "base_of_operations": "Viltrum Empire",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Conquering Species",
+    "secondary": null,
+    "rank_title": "Galactic Warriors",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Viltrum Empire (reformed)"
+    ],
+    "previous": [
+      "Viltrumite Conquest Empire"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #1 (2003)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Physiology",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    },
+    {
+      "name": "Flight",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Planetary"
+    },
+    {
+      "name": "Longevity",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self"
+    },
+    {
+      "name": "Enhanced Strength",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee"
+    },
+    {
+      "name": "Healing Factor",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Planetary Conquest",
+    "Brutal Subjugation",
+    "Speed Blitz"
+  ],
+  "ultimate_move": "Viltrumite Rage",
+  "trump_card": "Near-Invulnerable Biology + Long Lifespan",
+  "power_attributes": {
+    "power_type": "Viltrumite Biology",
+    "power_source": "Viltrumite Genetics (Natural)",
+    "combat_style": [
+      "Overwhelming Force",
+      "Aerial Dominance",
+      "Berserker"
+    ],
+    "weapon": "Fists/Bodies",
+    "equipment": [
+      "Viltrumite armor"
+    ],
+    "trump_card": "Near-Invulnerable Biology + Long Lifespan",
+    "ultimate_move": "Viltrumite Rage"
+  },
+  "personality": {
+    "traits": [
+      "Warrior Culture",
+      "Supremacist",
+      "Conquering",
+      "Brutal",
+      "Honorable (later)"
+    ],
+    "likes": [
+      "Conquest",
+      "Strength",
+      "Purity"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Mixed blood",
+      "Defiance"
+    ],
+    "fear": "Extinction",
+    "dream": "Galactic empire (formerly), now peace",
+    "personality_type": "ESTJ (culture)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Superhuman Physiology",
+      "Flight",
+      "Longevity",
+      "Enhanced Strength"
+    ],
+    "weaknesses": [
+      "Brutal"
+    ]
+  },
+  "character": {
+    "arc": "A species of near-invulnerable warriors who conquered much of the galaxy. Nearly wiped themselves out in a civil war. Under Thragg they sought galactic dominion. Under Invincible (Mark Grayson), the surviving Viltrumites reformed into a peaceful species. Their strength increases with age and they can breed with compatible species.",
+    "motivation": "Survive and dominate (now: peace)",
+    "affinity": "Warrior Race",
+    "alignment": "Lawful Evil (now: Lawful Neutral)"
+  },
+  "achievements": [
+    "Conquered galaxies",
+    "Survived near-extinction",
+    "Reformed under Invincible"
+  ],
+  "titles": [
+    "Viltrumites",
+    "The Warrior Race",
+    "Galactic Conquerors",
+    "Reformed Species"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 90,
+    "speed": 85,
+    "durability": 90,
+    "power": 88,
+    "combat": 90,
+    "total": 503
+  },
+  "weaknesses": {
+    "list": [
+      "Inner ear vulnerability",
+      "Low reproduction due to purge",
+      "Genetic purity dogma"
+    ],
+    "factors": [
+      "Frequency attacks disrupt inner ear",
+      "Few pure Viltrumites remain",
+      "Reform still taking hold"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Coalition of Planets (formerly)",
+    "allies": [
+      "Reformed under Invincible"
+    ],
+    "enemies": [
+      "Coalition (formerly)",
+      "Galactic populations"
+    ],
+    "love_interest": "N/A",
+    "best_friend": "N/A",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Reformed under Invincible",
+      "N/A"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Coalition of Planets (formerly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Reformed under Invincible",
+      "N/A"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Coalition of Planets",
+      "result": "Ceasefire (Reform)",
+      "method": "Mark Grayson defeated Thragg"
+    }
+  ],
+  "quotes": [
+    "Viltrumites conquer. We do not compromise.",
+    "(Later) We choose peace, not weakness."
+  ],
+  "voice_acting": {
+    "native_language": "Various",
+    "english": "Various",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Reformed",
+    "fate": "Rebuilt under Emperor Invincible",
+    "transformation": "From conquerors to peacekeepers",
+    "awakening": null,
+    "power_evolution": [
+      "Conquerors",
+      "Near-extinct",
+      "Reformed"
+    ],
+    "role": "Major Species/Faction",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight",
+      "Spaceships"
+    ],
+    "vehicles": [
+      "Viltrumite war cruisers"
+    ],
+    "headquarters": "Planet Viltrum",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "c3b40edd00239a5893e941303b9b564b",
+  "publisher": "image_comics",
+  "about": "Conquest is a supervillain appearing in the American comic book series Invincible and Invincible Universe: Battle Beast, created by writer Robert Kirkman and artist Ryan Ottley. He first appeared in Invincible #61, published by Image Comics in August 2009. Conquest is a high-ranking member of the Viltrum Empire, and one of the most brutal villains in the series.\nConquest is one of the strongest and most experienced members of the alien race known as the Viltrumites. He survived both the Great Purge, a planet-wide civil conflict, and the Scourge Virus, a bioengineered disease that decimated the Viltrumite population and inflicted lasting damage on most of the survivors. \nDue to his weakened condition, Conquest was gravely injured in combat with several Rognarrs, members of a savage alien species so powerful they could rival his strength. The assault left him with a missing right arm, a scarred face, and the loss of his right eye. In spite of these lasting disabilities, Conquest equipped himself with a prosthetic arm and remained in service to the Viltrumite Empire.\nConquest was brought into play after the \"Invincible War\" comic book tale as a way to raise the stakes of the current struggle involving Mark Grayson (Invincible) and the Viltrumite Empire.",
+  "note": null,
+  "source": "image_comics"
+}

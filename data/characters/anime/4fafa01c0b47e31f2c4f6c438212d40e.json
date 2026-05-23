@@ -1,0 +1,418 @@
+{
+  "id": "4fafa01c0b47e31f2c4f6c438212d40e",
+  "name": "Might Guy",
+  "native_name": "マイトガイ",
+  "full_name": "Might Guy",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Guy Clan",
+    "height_cm": 184,
+    "weight_kg": 78,
+    "age": "31-38",
+    "birthday": "January 1",
+    "zodiac": "Capricorn",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 23,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black (eyebrows trimmed high)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Extremely thick eyebrows",
+      "Muscular build",
+      "High eyebrows",
+      "Youthful appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Training grounds",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Taijutsu master",
+    "secondary": "Jonin",
+    "rank_title": "Jonin elite",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure"
+    ],
+    "previous": [
+      "Team Guy"
+    ],
+    "relatives": [
+      "Might Duy (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 48",
+    "manga": "Naruto Chapter 36",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Eight Gates",
+      "native_name": "八門遁甲",
+      "description": "Can open all 8 gates - highest level of body enhancement",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Kills user eventually"
+    },
+    {
+      "name": "Night Guy",
+      "native_name": "夜ガイ",
+      "description": "Ultimate attack with all 8 gates - dragon-like kick that distorts space",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Destroys leg, near fatal"
+    },
+    {
+      "name": "Evening Elephant",
+      "native_name": "象鞭",
+      "description": "Punch with 8th gate - creates massive shockwave",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Requires 8th gate"
+    },
+    {
+      "name": "Morning Peacock",
+      "native_name": "孔雀舞",
+      "description": "Rapid punches via gate 6 - ignite from air friction",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires 6th gate"
+    },
+    {
+      "name": "Daytime Tiger",
+      "native_name": "昼虎",
+      "description": "Concentrated air pressure via gate 7",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires 7th gate"
+    },
+    {
+      "name": "Taijutsu mastery",
+      "native_name": "體術",
+      "description": "Sup rema t taijutsu - fastest without gates",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Night Guy",
+    "Eight Gates techniques",
+    "Morning Peacock"
+  ],
+  "ultimate_move": "Night Guy",
+  "trump_card": "Full Eight Gates release",
+  "power_attributes": {
+    "power_type": "Chakra (Eight Gates)",
+    "power_source": "Might Duy training",
+    "combat_style": [
+      "Taijutsu",
+      "Eight Gates"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Full Eight Gates release",
+    "ultimate_move": "Night Guy"
+  },
+  "personality": {
+    "traits": [
+      "Energetic",
+      "Youthful",
+      "Hardworking",
+      "Enthusiastic",
+      "Determined"
+    ],
+    "likes": [
+      "Youth",
+      "Training",
+      "Rock Lee",
+      "Being handsome"
+    ],
+    "dislikes": [
+      "Kakashi",
+      "Weakness",
+      "Losing youth"
+    ],
+    "fear": "Losing his youth",
+    "dream": "Pass on youth spirit",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": [
+      "Weak point"
+    ]
+  },
+  "character": {
+    "arc": "Eternal youth who passes spirit to students - nearly dies to save world",
+    "motivation": "Protecting youth and dream",
+    "affinity": "Youth/Taijutsu",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Mastered all Eight Gates",
+    "Trained Rock Lee",
+    "Nearly killed Madara with Night Guy",
+    "Saved world with sacrifice"
+  ],
+  "titles": [
+    "Taijutsu master",
+    "Youth eternal",
+    "Konoha's strongest"
+  ],
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 100,
+    "speed": 100,
+    "durability": 95,
+    "power": 100,
+    "combat": 100,
+    "total": 575
+  },
+  "weaknesses": {
+    "list": [
+      "Eight Gates fatal",
+      "Opposite: Kakashi"
+    ],
+    "factors": [
+      "weak point"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Rock Lee",
+      "Team Guy",
+      "Kakashi (rival)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rock Lee",
+        "relationship": "Student/Pride",
+        "trust_level": "High"
+      },
+      {
+        "name": "Might Duy",
+        "relationship": "Father",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Madara (nearly killed)"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rock Lee",
+      "Team Guy",
+      "Kakashi (rival)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Madara (nearly killed)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rock Lee",
+      "Team Guy",
+      "Kakashi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Madara Uchiha",
+      "result": "Near victory (Night Guy)",
+      "method": "Full Eight Gates"
+    }
+  ],
+  "quotes": [
+    "You who cannot become Hokage... are my youth!",
+    "I will shed my youth like it's eternal!",
+    "Guyyy! Youth is alive!"
+  ],
+  "voice_acting": {
+    "native_language": "Masashi (Japanese)",
+    "note": "Actually: 'Katsuyuki (Japanese), 'David (English): wrong'",
+    "native_name": null,
+    "english": "Skip Stellrecht",
+    "japanese": "Masashi Ebara"
+  },
+  "story": {
+    "status": "Alive but damaged",
+    "fate": "Near death saved by Naruto",
+    "transformation": "Eight Gates forms",
+    "awakening_potential": "Full power achieved",
+    "power_evolution": [
+      "Student",
+      "Jonin",
+      "Master",
+      "Legend"
+    ],
+    "role_in_story": "Major Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Training grounds",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Birthdate: February 28, 1986 (1989 in the anime)\nZodiac sign: Pisces\nHair color: Brown\nEye color: Brown\nHeight: 179 cm (5'10\")\nWeight: 54 kg (119 lbs.)\nBlood type: A\nOccupation: high school student, a university student, detective\nAge (during the series): 17-24\nLikes: Justice\nDislikes: Evil\n\nLight, born on February 28, 1986, is a third-year high school student (12th grade) at Daikoku Private Academy (大国学園, Daikoku Gakuen) who also attends supplemental classes at Gamou Prep Academy at the beginning of the story. Light has a father, Soichiro Yagami, who is the head of the Police Force. Light also has a mother, Sachiko Yagami, and a younger sister, Sayu Yagami.\n\nIn Spring 2004, Light becomes a first-year student (freshman) at To-Oh University (東応大学, Tōō Daigaku), becoming one of two freshman representatives; L is the other freshman representative. During a tennis game with L at To-Oh, spectators reveal that Light was the junior high school tennis champion in 1999 and 2000. After his 2000 victory, Light quit tennis as he entered high school.\n\nYagami Light is a brilliant college student. Nicknamed \"Kira,\" he uses the Death Note to create his ideal world of justice under him, its new God. Though he looks frail, Light is an extremely athletic person, with an aptitude to find an opponent's weak point. He is a genius, which adds to his notion that only he is fit to judge humanity and steer it on a proper moral course.",
+  "note": null,
+  "source": "anime"
+}

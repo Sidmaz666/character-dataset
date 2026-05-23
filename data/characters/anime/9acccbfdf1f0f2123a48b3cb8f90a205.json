@@ -1,0 +1,430 @@
+{
+  "id": "9acccbfdf1f0f2123a48b3cb8f90a205",
+  "name": "Gaara",
+  "native_name": "うちはマーダー",
+  "full_name": "Gaara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Sabira (sand) abilities",
+    "height_cm": 166,
+    "weight_kg": 56,
+    "age": "15 (Part II), 31+ (Shippuden)",
+    "birthday": "January 19",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown (orange when using sand)",
+    "hair_color": "Reddish brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Sand gourd",
+      "Third eye (for viewing)",
+      "Kazekage hat"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sunagakure",
+    "current_location": "Sunagakure",
+    "base_of_operations": "Kazekage office",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Kazekage (Fifth)",
+    "secondary": "Jinchuriki",
+    "rank_title": "Kage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sunagakure"
+    ],
+    "previous": [
+      "Kazekage team"
+    ],
+    "relatives": [
+      "Rasa (father)",
+      "Karura (mother, deceased)",
+      "Temari (sister)",
+      "Kankuro (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 8",
+    "manga": "Naruto Chapter 4",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sand Manipulation",
+      "native_name": "砂遁",
+      "description": "Controls sand for offense and defense - his signature ability",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Needs sand source"
+    },
+    {
+      "name": "Shield of Sand",
+      "native_name": "砂の盾",
+      "description": "Automatic defense - sand protects from any attack even without awareness",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Can be bypassed by extreme speed"
+    },
+    {
+      "name": "Sand Waterfall Funeral",
+      "native_name": "砂瀑送葬",
+      "description": "Crushes target with massive sand",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Third Eye",
+      "native_name": "第三目",
+      "description": "Creates eye in sand to see surroundings",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 60,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Magnet Release",
+      "native_name": "磁遁",
+      "description": "Adds metallic particles to sand",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Sand Clone",
+      "native_name": "砂分身",
+      "description": "Creates clones from sand",
+      "type": "Utility",
+      "tier": "B+",
+      "power_level": 55,
+      "range": "Medium",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Shield of Sand",
+    "Sand Waterfall Funeral",
+    "Desert Layered葬"
+  ],
+  "ultimate_move": "Sand Waterfall Funeral: Great Claw",
+  "trump_card": "Ultimate Shield of Sand",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Shukaku (former)",
+    "combat_style": [
+      "Sand jutsu",
+      "Defense"
+    ],
+    "weapon": "Gourd of sand",
+    "equipment": [
+      "Shield of Sand"
+    ],
+    "trump_card": "Ultimate Shield of Sand",
+    "ultimate_move": "Sand Waterfall Funeral: Great Claw"
+  },
+  "personality": {
+    "traits": [
+      "Quiet",
+      "Serious",
+      "Protective",
+      "Caring",
+      "Brooding"
+    ],
+    "likes": [
+      "Sand",
+      "Protecting siblings",
+      "Village"
+    ],
+    "dislikes": [
+      "Unable to protect",
+      "Attacks on siblings"
+    ],
+    "fear": "Losing control of sand",
+    "dream": "Protect village and siblings",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Tragic jinchuriki who became Kage - overcame trauma",
+    "motivation": "Protecting village and those he loves",
+    "affinity": "Sand/Earth",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Jinchuriki of Shukaku",
+    "Fifth Kazekage",
+    "Saved village from invasion",
+    "Defeated powerful enemies"
+  ],
+  "titles": [
+    "Kazekage",
+    "Sand Prince",
+    "Alone of the sands"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Kage - no bounty"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 65,
+    "durability": 95,
+    "power": 95,
+    "combat": 80,
+    "total": 490
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot use sand without sand source",
+      "Large chakra use for armor"
+    ],
+    "factors": [
+      "brooding"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Sasuke (tried to kill siblings)",
+    "allies": [
+      "Naruto",
+      "Kazekage village"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Friend/Rival",
+        "trust_level": "High - saved him"
+      },
+      {
+        "name": "Temari",
+        "relationship": "Sister",
+        "trust_level": "High - protects her"
+      },
+      {
+        "name": "Kankuro",
+        "relationship": "Brother",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Suna enemies",
+      "Akatsuki"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Naruto",
+      "Kazekage village"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sasuke (tried to kill siblings)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Temari (sibling)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Temari (sibling)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Naruto",
+      "Kazekage village"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sasuke Uchiha",
+      "result": "Victory (defended village)",
+      "method": "Sand attacks"
+    },
+    {
+      "opponent": "Multiple opponents",
+      "result": "Victory",
+      "method": "Shield of Sand"
+    }
+  ],
+  "quotes": [
+    "I am the Kazekage! I will protect this village!",
+    "Sand will protect those I love!",
+    "I will not let anyone else die!"
+  ],
+  "voice_acting": {
+    "native_language": "Akihiro Niwa (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Liam O'Brien",
+    "japanese": "Akira Ishida"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Serving as Fifth Kazekage",
+    "transformation": null,
+    "awakening_potential": "Full sand mastery",
+    "power_evolution": [
+      "Jinchuriki",
+      "Soldier",
+      "Kage"
+    ],
+    "role_in_story": "Major Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Sunagakure",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Ninja Registration Nº: 56-001\nBirth Date: 19 January \nAge: 12-13 (I), 15-16 (II)\nHoroscope: Capricorn\nGender: Male\nBlood type: AB \nHeight: 146 cm (Part I), 166 cm (Part II)\nPersonality type: infp\nWeight: 39 kg (Part I), 50.9 kg (Part II)\nAffiliation: Hidden Sand Village, Wind country\n\nTeam: Team Baki (Temari, Kankuro and Gaara ) \nTailed Beast: One-Tailed Shukaku \nKnown relatives: Fourth Kazekage (father), Karura (mother), Temari (older sister), Kankuro (older brother), Yashamaru (uncle)\n\nGaara was introduced in the series in Chuunin Exams arc, as a violent shinobi from Konoha's allied country, the Wind country. He came to Konoha with his siblings Temari and Kankuro, and with his mentor Baki, to participate in Chuunin exams.\n\nFrom the first look, he was shown as merciless and violent individual. Due to his hard childhood, and lack of love, Gaara grew up hating everybody around him, loving only himself. \n\nIn fateful incident about 6 years before the main story time, he made himself a tattoo of Japanese Kanji letter \"Ai,\" which stands for \"Love.\" In Gaara's case, that Love was for himself, as he was \"Demon loving only himself.\"\n\n\nThe Kanji \"愛\" for love that is on his forehead, is also part of his name.",
+  "note": null,
+  "source": "anime"
+}

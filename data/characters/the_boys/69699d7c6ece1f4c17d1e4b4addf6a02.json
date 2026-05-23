@@ -1,0 +1,408 @@
+{
+  "id": "69699d7c6ece1f4c17d1e4b4addf6a02",
+  "name": "Starlight",
+  "native_name": null,
+  "full_name": "Annie January",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "January",
+    "height_cm": 170,
+    "weight_kg": 58,
+    "age": "24",
+    "birthday": "July 10",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Hazel",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bright smile",
+      "Power suit with star design"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Midwestern United States",
+    "current_location": "New York City",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "The Seven Member",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven"
+    ],
+    "previous": [
+      "Young Americans"
+    ],
+    "relatives": [
+      "Mother (mentioned)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Light Generation",
+      "native_name": null,
+      "description": "Turn absorbed electricity into intense light blasts",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires electricity to charge"
+    },
+    {
+      "name": "Energy Absorption",
+      "native_name": null,
+      "description": "Absorb electrical energy to power abilities",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Requires nearby power source"
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "More durable than normal humans but not invulnerable",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Can be hurt by stronger supes"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Unlimited",
+      "limit": "Limited speed"
+    }
+  ],
+  "signature_moves": [
+    "Energy Blast",
+    "Light Nova",
+    "Flashbang"
+  ],
+  "ultimate_move": "Full Power Light Nova",
+  "trump_card": "Maximum Charge Blast",
+  "power_attributes": {
+    "power_type": "Light Energy",
+    "power_source": "Compound V + Electricity",
+    "combat_style": [
+      "Flight combat",
+      "Energy blasts"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Power suit"
+    ],
+    "trump_card": "Maximum Charge Blast",
+    "ultimate_move": "Full Power Light Nova"
+  },
+  "personality": {
+    "traits": [
+      "Idealistic",
+      "Moral",
+      "Courageous",
+      "Compassionate"
+    ],
+    "likes": [
+      "Helping people",
+      "Justice"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Abuse of power"
+    ],
+    "fear": "Becoming corrupt",
+    "dream": "Be a true hero",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Courageous"
+    ],
+    "weaknesses": [
+      "Vulnerab"
+    ]
+  },
+  "character": {
+    "arc": "From corporate puppet to true hero",
+    "motivation": "Actually helping people",
+    "affinity": "Light",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became member of The Seven",
+    "Exposed Vought corruption",
+    "Joined The Boys as double agent"
+  ],
+  "titles": [
+    "Starlight",
+    "The Brightest Star"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Now working with FBI"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 60,
+    "speed": 65,
+    "durability": 65,
+    "power": 80,
+    "combat": 60,
+    "total": 400
+  },
+  "weaknesses": {
+    "list": [
+      "Requires electricity",
+      "Not totally invulnerable",
+      "Limited combat training"
+    ],
+    "factors": [
+      "Power source dependency"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Deep",
+    "allies": [
+      "Hughie Campbell",
+      "The Boys",
+      "Queen Maeve"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hughie Campbell",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      },
+      {
+        "name": "Queen Maeve",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Homelander",
+      "Vought",
+      "The Deep"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "The Deep",
+        "relationship": "Attempted attacker",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Hughie Campbell",
+    "best_friend": "Hughie Campbell",
+    "rival": null,
+    "mentor": "Queen Maeve",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hughie Campbell",
+      "The Boys",
+      "Queen Maeve"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Deep"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hughie Campbell",
+      "The Boys",
+      "Queen Maeve"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Queen Maeve"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "The Deep",
+      "result": "Victory",
+      "method": "Fought him off"
+    },
+    {
+      "opponent": "Stormfront",
+      "result": "Draw",
+      "method": "Briefly stunned her"
+    }
+  ],
+  "quotes": [
+    "I want to actually help people, not just look like I do."
+  ],
+  "voice_acting": {
+    "native_language": "Erin Moran (English)",
+    "english": "Erin Moran",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": null,
+    "awakening_potential": "Full power control",
+    "power_evolution": [
+      "Junior hero",
+      "Seven member",
+      "True hero"
+    ],
+    "role_in_story": "Supporting Hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Vought vehicles"
+    ],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

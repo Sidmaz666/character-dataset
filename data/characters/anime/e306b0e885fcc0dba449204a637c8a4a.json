@@ -1,0 +1,316 @@
+{
+  "id": "e306b0e885fcc0dba449204a637c8a4a",
+  "name": "Haru",
+  "native_name": "",
+  "full_name": "Haru",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "15",
+    "birthday": "October 8",
+    "zodiac": "Libra",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student (grade 10-11)",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Beastars",
+    "manga": "Beastars",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Costume"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Destroyed and recreated when Haruhi's jealousy was pushed too far"
+  ],
+  "titles": [
+    "Student (grade 10-11)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 45,
+    "speed": 45,
+    "durability": 45,
+    "power": 45,
+    "combat": 45,
+    "total": 270
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Wendee Lee",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Aya Hirano"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age:15-17\nBirthday: October 8\nHeight: 158 cm (5'2\")\nBlood type: AB\nOccupation: Student (grade 10-11), Ultra Director, Ultra Detective, Brigade Chief and Founder\n\nBackground\nHaruhi Suzumiya, a first year student at North High School (in novels 1-8), and second year (in the 9th and latest novel), can be characterized as funny, eccentric, and somewhat unpredictable. In the series, she is introduced declaring her interests in aliens, espers and time travelers and does not care for \"ordinary\" human beings. The last thing on her mind is a normal high school life. With a burning desire to find such phenomena in the world, she is generally unapproachable and finds ordinary people boring and uninteresting. As a result of this, many of her classmates choose to avoid and confront her. She deals with her emotions by creating a parallel universe, where she inadvertently releases transparent creatures who tear up and destroy everything that comes into contact with them. Espers are the ones who can stop these creatures by cutting and destroying them, because if these creatures are left alone destroying everything as well as the outer barrier it could affect the outside world. She also likes to dress up Mikuru in random outfits.\n\nKyon is the first character to engage with her in a serious conversation. From this encounter, she gradually begins to soften up to others and starts to open up with her classmates. Later on, Haruhi took Kyon against his will and forced him to help her start the SOS Brigade, thus she has taken an unknown interests to Kyon later in the series. It is hinted that one of the reasons as to why Haruhi opened up to Kyon was that he resembled John Smith; John Smith and Kyon are the same person.\n\nShe is noted as smart, athletic, and naturally talented in any extra-curricular activities. She once joined every activity club in her school and quit because she found them boring, despite pleas by the club members for her membership. Her musical talent was highlighted when she stood in as the emergency lead singer and guitarist, along with Yuki, for the band ENOZ during the school festival.\n\n\n\nPersonality\nAt first, Haruhi seems very indifferent and cold but underneath that front she is very spontaneous, upbeat, and hyperactive. Her determination, persistence, and resourcefulness drive her endeavors of finding strange phenomenon and promoting the SOS Brigade. Because of her dedication, she becomes hot-headed when things don't go her way. Hand-in-hand with her cleverness and creativity, and a certain ruthlessness, even seeming amorality, she can often get what she wants, an example of such is when she blackmailed the Computer Society President into giving her a brand new computer for the SOS Brigade. Haruhi tends to pursue her goals regardless of who gets in the way, or is hurt, such as Mikuru in the aforementioned blackmail. She also has a tendency to be jealous and angry when Kyon gets too friendly with any girl. Evidently, the universe was almost destroyed and recreated when Haruhi's jealousy was pushed too far.\n\nHaruhi also has a very competitive personality and accepts without hesitation any challenge that crosses her, regardless of difficulty or time constraint. Her constant optimism and over-confidence make her seem arrogant. She has very high standards and won't accept anything less than perfection from herself and her Brigade. She places a lot of trust in her Brigade members, especially Kyon, to get the task done whatever it may be. This can sometimes make her seem selfish and unkind.\n\nShe is not shy and often attracts a lot of attention to the point of not minding changing clothes in front of various people, more so when her SOS Brigade is in mind. When it comes to Mikuru she is very physically playful. She often comments on Mikuru's attractiveness and seems to find a kind of enjoyment in exploiting it to her own ends, often through forcing Mikuru into and out of various costumes such as a bunny girl costume as if she were a human dress-up doll.\n\n\n\nSOS Brigade role\nHaruhi is the founder and \"Brigade Chief\" of the SOS Brigade, or Saving The World by Overloading it with Fun Haruhi Suzumiya Brigade. She was unable to find any existing club suitable to her preferences. She made the group in order to find and have fun with aliens, espers, and time travelers. Upon creation, she names herself as its leader. Her method of finding and recruiting members is to \"voluntarily arrest\" them then force them to join.\n\nThe SOS Brigade is very precious to her and has stated to Kyon that she has no intention of yielding her position as Chief to anyone else. She will go to any lengths, even by exploiting the members, to bring attention and support for her Brigade such as procuring room and materials, maintaining their website, participating in sports tournaments, organizing activities such as city-wide searches for strange phenomenon among other things. She wrote, produced, and directed the Brigade's amateur-movie The Adventures of Mikuru Asahina for the school festival.",
+  "note": null,
+  "source": "anime"
+}

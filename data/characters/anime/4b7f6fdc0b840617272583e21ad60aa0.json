@@ -1,0 +1,385 @@
+{
+  "id": "4b7f6fdc0b840617272583e21ad60aa0",
+  "name": "Cid Kagenou",
+  "native_name": "影子伯爵",
+  "full_name": "Cid Kagenou (Shadow Broker)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kagenou",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple/Violet",
+    "hair_color": "Black with purple highlights",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Shadow-like appearance when 'Shadow'",
+      "Different personas"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan (Earth)",
+    "current_location": "Fantasy World",
+    "base_of_operations": "Midgar",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student (OreGairu School)",
+    "secondary": "Shadow (in fantasy world)",
+    "rank_title": "Shadow Broker, Shadow Monarch",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Shadow Garden",
+      "Alexia",
+      "Iris"
+    ],
+    "previous": [
+      "Japan (Earth)"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "OreGairu (My Youth Romantic Comedy Is Wrong, As I Expected) - But actually 'My Hero Academia' based on user clarification. Character is CID from 'The Eminence in Shadow'",
+    "manga": "The Eminence in Shadow",
+    "comics": null,
+    "game": null
+  },
+  "note": "This is CID from The Eminence in Shadow, confused with OreGairu",
+  "abilities": [
+    {
+      "name": "Shadow Magic",
+      "native_name": "影魔法",
+      "description": "Can manipulate shadows at will. Creates weapons, armor, and attacks from shadows.",
+      "type": "Shadow Magic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Dimension Slash",
+      "native_name": "次元斬",
+      "description": "Attacks that cut through dimensions.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Shadow Clone",
+      "native_name": "影分身",
+      "description": "Can create shadow clones of himself.",
+      "type": "Summoning",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Shadow Consumption",
+      "native_name": "影吸収",
+      "description": "Can absorb other shadow-based powers.",
+      "type": "Absorption",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Theatrical Combat",
+      "native_name": "劇的戦闘",
+      "description": "Cid always acts dramatically, making his attacks appear more powerful than they are.",
+      "type": "Psychological",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "His 'Shadow' persona is real but he thinks it's theater"
+    }
+  ],
+  "signature_moves": [
+    "Dimension Slash",
+    "Shadow Emperor Style"
+  ],
+  "ultimate_move": "Shadow Creation - Shadow Garden",
+  "trump_card": "Full Shadow Power Release",
+  "power_attributes": {
+    "power_type": "Shadow Magic",
+    "power_source": "Elf bloodline power",
+    "combat_style": [
+      "Shadow Combat",
+      "Theatrical Attacks"
+    ],
+    "weapon": "Katana (when needed)",
+    "equipment": [
+      "Shadow Armor"
+    ],
+    "trump_card": "Full Shadow Power Release",
+    "ultimate_move": "Shadow Creation - Shadow Garden"
+  },
+  "personality": {
+    "traits": [
+      "Dramatic",
+      "Otimikuji",
+      "Scheming",
+      "Loves 'shadow' persona",
+      "Misunderstood genius"
+    ],
+    "likes": [
+      "Shadows",
+      "Being dramatic",
+      "Shadow Garden"
+    ],
+    "dislikes": [
+      "Being discovered",
+      "Ordinary things"
+    ],
+    "fear": "Being seen as ordinary",
+    "dream": "Live in the shadows as 'shadow'",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Believes he's playing pretend but is actually incredibly powerful",
+    "motivation": "Create organization to fight cultist",
+    "affinity": "Shadow",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Founded Shadow Garden",
+    "Defeated cult multiple times",
+    "Unintentionally became legend"
+  ],
+  "titles": [
+    "Shadow Broker",
+    "Shadow Monarch",
+    "Cid the Shadow"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 90,
+    "speed": 92,
+    "durability": 88,
+    "power": 95,
+    "combat": 95,
+    "total": 555
+  },
+  "weaknesses": {
+    "list": [
+      "None significant"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Cultist (Oriana)",
+    "allies": [
+      "Alexia",
+      "Iris",
+      "Shadow Garden"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Alexia",
+        "relationship": "Sister",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Cultist"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Alexia",
+      "Iris",
+      "Shadow Garden"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Cultist (Oriana)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Alexia",
+      "Iris",
+      "Shadow Garden"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'm just an ordinary high school student...",
+    "In shadow, I am..."
+  ],
+  "voice_acting": {
+    "native_language": "Natsuki Hanae",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Adam Gibbs",
+    "japanese": "Seiichirou Yamashita"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues 'shadow' activities",
+    "transformation": "Shadow Form",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Normal Student",
+      "Shadow Cultist",
+      "Shadow Monarch"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Midgar",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Cid is the founder and leader of the secret organization Shadow Garden under the moniker Shadow to help realize his fantasy of becoming an \"Eminence in Shadow.\" However, unbeknownst to him, his fabrications are often revealed to be quite genuine in reality.",
+  "source": "anime"
+}

@@ -1,0 +1,366 @@
+{
+  "id": "f893e7af2c5c5f3ef80366039f44a706",
+  "name": "Momiji Sohma",
+  "native_name": "草摩紅葉",
+  "full_name": "Momiji Sohma",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Cursed)",
+    "race": "Human",
+    "bloodline": "Sohma Family",
+    "height_cm": 162,
+    "weight_kg": 50,
+    "age": "16",
+    "birthday": "November 11",
+    "zodiac": "Scorpio",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Androgynous beauty",
+      "Cheerful smile"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Germany",
+    "current_location": "Japan",
+    "base_of_operations": "Sohma Estate",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Zodiac Member (Rabbit)",
+    "rank_title": "Rabbit of Zodiac",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sohma Family",
+      "High School"
+    ],
+    "previous": [],
+    "relatives": [
+      "Sohma family"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fruits Basket Episode 1",
+    "manga": "Fruits Basket Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Rabbit Transformation",
+      "native_name": "兎変身",
+      "description": "Transforms into a rabbit when hugged by opposite sex.",
+      "type": "Transformation",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Self",
+      "limit": "Cannot control"
+    },
+    {
+      "name": "Violin",
+      "native_name": "ヴァイオリン",
+      "description": "Talented violinist, very skilled musician.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "N/A",
+      "limit": "Not combat"
+    }
+  ],
+  "signature_moves": [
+    "Rabbit transformation",
+    "Violin performance"
+  ],
+  "ultimate_move": "Emotional support",
+  "trump_card": "Optimism",
+  "power_attributes": {
+    "power_type": "Zodiac Curse",
+    "power_source": "Sohma Curse",
+    "combat_style": [
+      "Shapeshifting"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Violin"
+    ],
+    "trump_card": "Optimism",
+    "ultimate_move": "Emotional support"
+  },
+  "personality": {
+    "traits": [
+      "Cheerful",
+      "Optimistic",
+      "Kind",
+      "Bilingual",
+      "Supportive",
+      "Energetic"
+    ],
+    "likes": [
+      "Tohru",
+      "Violin",
+      "Friends",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Sadness",
+      "Curse burden",
+      "Loneliness"
+    ],
+    "fear": "Being alone",
+    "dream": "Everyone happy together",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Rabbit Transformation",
+      "Violin"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Momiji is the emotional support of the group, always cheerful despite his own pain from the curse.",
+    "motivation": "Help friends, break curse",
+    "affinity": "Yellow/Rabbit",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Zodiac member",
+    "Talented musician"
+  ],
+  "titles": [
+    "Rabbit",
+    "Violinist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 50,
+    "speed": 60,
+    "durability": 55,
+    "power": 60,
+    "combat": 50,
+    "total": 345
+  },
+  "weaknesses": {
+    "list": [
+      "Curse transformation",
+      "Emotional",
+      "Family separation"
+    ],
+    "factors": [
+      "Opposite sex hug"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Tohru Honda",
+      "Yuki Sohma",
+      "Kyo Sohma"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tohru Honda",
+        "relationship": "Friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "None"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Tohru (one-sided)",
+    "best_friend": "Tohru",
+    "rival": "None",
+    "mentor": "Akito",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tohru Honda",
+      "Yuki Sohma",
+      "Kyo Sohma",
+      "Tohru"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tohru Honda",
+      "Yuki Sohma",
+      "Kyo Sohma",
+      "Tohru"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Akito"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Don't worry!",
+    "I'm here for you"
+  ],
+  "voice_acting": {
+    "native_language": "Japanese VA",
+    "note": "Cheerful voice",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Curse broken, free",
+    "transformation": "Rabbit",
+    "awakening_potential": "Free",
+    "power_evolution": [
+      "Cursed",
+      "Hopeful",
+      "Free"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Sohma Estate",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15\nHeight: 155.8 cm\nBlood Type: O\nAnimal: Rabbit\n\nA cute and seemingly happy teenager with a sad family life that he hides behind his cheery demeanor. His endless whining and crying often annoys Kyo. He is older than he looks, much to Tooru's surprise, he is only 1 year younger than Yuki, and Kyo, the same age as Hatsuharu. Momiji is the rabbit of the Zodiac and is the son of one of the richer members of the Sohma family. His father is Japanese while Momiji's mother is German. Momiji has also a younger sister, Momo. Momo is unaware of the fact that she has an older brother. Her mom's memory of Momiji was erased because otherwise she might've slipped into utter madness.\n\nMomiji is actually very insightful and emotionally strong despite his upbringing. He warmed up to Tooru very quickly, even ignoring the fact that he was a Zodiac and hugged her when they were formally introduced. Much to Kyo's horror, Momiji likes to wear the girl's version of their high school uniform, albeit with short shorts and not a skirt. Momiji sometimes sees Tooru at work and helps her clean. He even did Tooru's share once when she was sick with a cold. Momiji also develops feelings for Tooru. He tends to cross dress a lot.\n\n(Source: Wikipedia, edited)",
+  "note": null,
+  "source": "anime"
+}

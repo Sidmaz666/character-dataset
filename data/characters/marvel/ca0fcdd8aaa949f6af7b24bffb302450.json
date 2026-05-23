@@ -1,0 +1,399 @@
+{
+  "native_name": null,
+  "full_name": "Madelyne Jennifer Pryor",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Clone",
+    "race": "Human clone",
+    "bloodline": "Jean Grey clone",
+    "height_cm": 168,
+    "weight_kg": 55,
+    "age": "28",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Identical to Jean Grey",
+      "Green eyes instead of blue"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mr. Sinister's Laboratory",
+    "current_location": "Unknown",
+    "base_of_operations": "Limbo (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Former Pilot",
+    "secondary": "Sorceress",
+    "rank_title": "Goblin Queen (formerly)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "X-Men (allied)",
+      "Hellfire Club"
+    ],
+    "relatives": [
+      "Jean Grey (genetic template)",
+      "Mr. Sinister (creator)",
+      "Scott Summers (ex-husband)",
+      "Nathan Summers / Cable (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Uncanny X-Men #168 (1983)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Telepathy",
+      "native_name": null,
+      "description": "Powerful telepathic abilities inherited from Jean Grey",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Planetary",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Moves objects with her mind",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Dark Magic",
+      "native_name": null,
+      "description": "Powerful sorcery learned from Limbo's demons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Variable",
+      "limit": "Demonic influence"
+    },
+    {
+      "name": "Limbo Dimensional Control",
+      "native_name": null,
+      "description": "Ruled and controlled Limbo dimension",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Dimensional",
+      "limit": "Limited to Limbo"
+    },
+    {
+      "name": "Demon Summoning",
+      "native_name": null,
+      "description": "Summons demons from Limbo",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Requires magical energy"
+    }
+  ],
+  "signature_moves": [
+    "Psychic Assault",
+    "Limbo Portal",
+    "Dark Magic Blast"
+  ],
+  "ultimate_move": "Full Limbo Manifestation",
+  "trump_card": "Connection to Limbo",
+  "power_attributes": {
+    "power_type": "Psychic/Magic",
+    "power_source": "Genetic clone + Demonic pact",
+    "combat_style": [
+      "Psychic",
+      "Sorcery",
+      "Summoning"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Summoning tools"
+    ],
+    "trump_card": "Connection to Limbo",
+    "ultimate_move": "Full Limbo Manifestation"
+  },
+  "personality": {
+    "traits": [
+      "Tragic",
+      "Conflicted",
+      "Vengeful",
+      "Manipulated",
+      "Lonely"
+    ],
+    "likes": [
+      "Her son Nathan",
+      "Being her own person"
+    ],
+    "dislikes": [
+      "Being called a clone",
+      "Scott Summers",
+      "Jean Grey",
+      "Mr. Sinister"
+    ],
+    "fear": "Being just a copy of Jean Grey",
+    "dream": "To be accepted as her own person",
+    "personality_type": "ENFJ (tragic)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Telepathy",
+      "Telekinesis",
+      "Dark Magic",
+      "Limbo Dimensional Control"
+    ],
+    "weaknesses": [
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "Created as a clone of Jean Grey by Mr. Sinister, she married Scott Summers, bore his child, but was rejected when Jean returned, leading her to embrace dark magic",
+    "motivation": "Prove her own identity and seek revenge",
+    "affinity": "Identity/Tragedy",
+    "alignment": "Chaotic Evil (sympathetic)"
+  },
+  "achievements": [
+    "Married Scott Summers",
+    "Gave birth to Nathan (Cable)",
+    "Became Goblin Queen",
+    "Ruled Limbo"
+  ],
+  "titles": [
+    "Clone of Jean Grey",
+    "Goblin Queen (later)",
+    "Ex-Wife of Cyclops"
+  ],
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 50,
+    "speed": 55,
+    "durability": 80,
+    "power": 95,
+    "combat": 60,
+    "total": 415
+  },
+  "weaknesses": {
+    "list": [
+      "Clone inferiority complex",
+      "Emotional instability",
+      "Demonic corruption"
+    ],
+    "factors": "Psychological vulnerabilities"
+  },
+  "relationships": {
+    "nemesis": "Jean Grey",
+    "allies": [],
+    "enemies": [
+      "Scott Summers",
+      "Jean Grey",
+      "Mr. Sinister"
+    ],
+    "love_interest": "Scott Summers (ex-husband)",
+    "best_friend": null,
+    "rival": "Jean Grey",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Cable"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Jean Grey"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Cable"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Cable"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Jean Grey"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Cable"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "X-Men",
+      "result": "Defeat",
+      "method": "Combined X-Men effort"
+    },
+    {
+      "opponent": "Jean Grey",
+      "result": "Defeat",
+      "method": "Mental battle"
+    }
+  ],
+  "quotes": [
+    "I am not a clone! I am Madelyne Pryor! I am my own woman!",
+    "If I cannot be loved, I will be feared."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased (revived occasionally)",
+    "fate": "Sacrificed herself, later resurrected",
+    "transformation": "From housewife to Goblin Queen to tragic figure",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "marvel",
+  "id": "ca0fcdd8aaa949f6af7b24bffb302450",
+  "name": "Madelyne Pryor",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Limbo (formerly)",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Madelyne Jennifer Pryor is a supervillain appearing in American comic books published by Marvel Comics. Created by writer Chris Claremont and artist Paul Smith, the character first appeared in Uncanny X-Men #168. Primarily a featured character of the X-Men, Madelyne Pryor is a clone of Jean Grey, the ex-love-interest and first wife of Cyclops, and the mother of Cable. She was a long-standing member of the X-Men supporting cast until a series of traumas eventually led to her being manipulated into being an antagonist.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,312 @@
+{
+  "id": "5333f10a7ca5b01793fb1285a3fe2ffd",
+  "name": "Kei Shirogane",
+  "native_name": "",
+  "full_name": "Kei Shirogane",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "15",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Kaguya-sama",
+    "manga": "Kaguya-sama",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 45,
+    "speed": 45,
+    "durability": 45,
+    "power": 45,
+    "combat": 45,
+    "total": 270
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Team: Karasuno High\nAge: 15\nHeight: 190.1 cm\nWeight: 68.4 kg\nBirthday: September 27\nYear: 1st year, class 4\nNumber: 11\nPosition: Middle blocker\nFavorite food: strawberry shortcake\nAbility parameters (out of 5): power = 2; jump = 3; stamina = 3; intellect = 5; technique = 3; speed = 3\n\nA member of the Karasuno High volleyball club, Tsukishima is very blunt and has a habit of riling people up (usually Hinata, Kageyama, and even his senpais Tanaka and Nishinoya). He dislikes “hot-blooded people” and doesn’t like to exert too much effort due to the past experiences of his older brother. Aside from others like Daichi, Sugawara, and Asahi, he has little to no respect for his other teammates and is shown to be quite irritated at having to be close to them (seen as Karasuno huddled up to build up their spirits and again when he expressed disgust in having to stay with the team during training camp). He can even be rude to Yamaguchi (the person closest to him) which really shows his spiteful personality. The second years think of him as someone with a warped personality. He also teases Kageyama both by calling him \"the king\" as well as referring to the rest of the players as common folk, which angers him to the core.\n\n(Source: Haikyuu!! Wiki)",
+  "note": null,
+  "source": "anime"
+}

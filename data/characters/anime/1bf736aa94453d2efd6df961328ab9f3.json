@@ -1,0 +1,480 @@
+{
+  "id": "1bf736aa94453d2efd6df961328ab9f3",
+  "name": "Kenshin Himura",
+  "native_name": "緋村剣心",
+  "full_name": "Himura Kenshin (birth name: Himura Shinta)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Himura family",
+    "height_cm": 158,
+    "weight_kg": 48,
+    "age": "28 (during main series)",
+    "birthday": "June 20, 1849",
+    "zodiac": "Cancer",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 19.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Lavender/Red (when Battousai)",
+    "hair_color": "Reddish-brown (auburn)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "X-shaped scar on left cheek",
+      "Cross-shaped headband",
+      "Sakabatō sword",
+      "Androgynous appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown village (peasant origin)",
+    "current_location": "Tokyo, Japan (Kamiya Dojo)",
+    "base_of_operations": "Kamiya Dojo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Wandering Swordsman (Rurouni)",
+    "secondary": "Former Assassin",
+    "rank_title": "Hitokiri Battōsai (former)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kamiya Dojo",
+      "Kenshin-gumi"
+    ],
+    "previous": [
+      "Ishin Shishi",
+      "Hiten Mitsurugi-ryu school"
+    ],
+    "relatives": [
+      "Tomoe (former wife, deceased)",
+      "Yamagata (nephew)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Rurouni Kenshin Episode 1",
+    "manga": "Rurouni Kenshin Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Hiten Mitsurugi-ryu",
+      "native_name": "飛天宮里流",
+      "description": "The pinnacle of swordsmanship, based on predicting and countering an opponent's attacks before they strike. Kenshin is the sole remaining master of this style.",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "Requires intense focus; can trigger violent side"
+    },
+    {
+      "name": "Denshū no Tsue",
+      "native_name": "伝授之杖",
+      "description": "Lightning Staff Technique - a surprise attack using a walking stick as a sword extension. Uses the opponent's momentum against them.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Short to Medium",
+      "limit": "Only works once per opponent"
+    },
+    {
+      "name": "Ryūkōsen",
+      "native_name": "龍狂奔",
+      "description": "Dragon Drunk Fist - an extremely fast attack that creates multiple blurs. Used as a finishing blow against strong opponents.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Very draining; last resort technique"
+    },
+    {
+      "name": "Shingetsujin",
+      "native_name": "神鷹瞬",
+      "description": "God Hawk Swift - an attack that strikes the opponent's pressure points in rapid succession, causing paralysis.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires precise positioning"
+    },
+    {
+      "name": "Sakabatō Mastery",
+      "native_name": "逆刃刀",
+      "description": "Masters the reverse-blade sword that cannot kill, allowing non-lethal combat while maintaining lethal skill.",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Melee",
+      "limit": "Requires restraint in combat"
+    },
+    {
+      "name": "Amaterasu",
+      "native_name": "天照",
+      "description": "The ultimate technique - a downward diagonal cut so fast it appears as a single line of light. Used only in desperate situations.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Extremely draining; reverts to Battousai personality"
+    }
+  ],
+  "signature_moves": [
+    "Hiten Mitsurugi-ryu techniques",
+    "Denshu no Tsue",
+    "Ryukosen"
+  ],
+  "ultimate_move": "Amaterasu",
+  "trump_card": "Full Hiten Mitsurugi-ryu mastery",
+  "power_attributes": {
+    "power_type": "Swordsmanship",
+    "power_source": "Physical training, Hiten Mitsurugi-ryu",
+    "combat_style": [
+      "Hiten Mitsurugi-ryu sword style",
+      "Non-lethal combat",
+      "Prediction-based defense"
+    ],
+    "weapon": "Sakabatō (reverse-blade katana)",
+    "equipment": [
+      "Walking stick",
+      "Traditional clothing",
+      "Cross-shaped headband"
+    ],
+    "trump_card": "Full Hiten Mitsurugi-ryu mastery",
+    "ultimate_move": "Amaterasu"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Peaceful",
+      "Polite",
+      "Self-sacrificing",
+      "Guilt-ridden",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting others",
+      "Cooking",
+      "Laundry",
+      "Kaoru",
+      "Peace"
+    ],
+    "dislikes": [
+      "Killing",
+      "Violence",
+      "His past as Battousai",
+      "War"
+    ],
+    "fear": "Reverting to his Battousai self",
+    "dream": "A world without killing, protect the innocent",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Cannot"
+    ]
+  },
+  "character": {
+    "arc": "Kenshin transforms from a deadly assassin (Battousai) to a peaceful wanderer seeking redemption. His journey explores the weight of past violence and the possibility of change. He seeks to protect others without killing, proving that strength can serve peace.",
+    "motivation": "Atone for past killings, protect the innocent without taking life",
+    "affinity": "Red/Pacifism",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became legendary Hitokiri Battousai",
+    "Survived the Bakumatsu war",
+    "Mastered the Hiten Mitsurugi-ryu",
+    "Protected Tokyo from numerous threats",
+    "Established the Kenshin-gumi",
+    "Helped bring down the Meiji government's corrupt officials"
+  ],
+  "titles": [
+    "Hitokiri Battōsai",
+    "The Red-haired Wanderer",
+    "Rurouni",
+    "Battousai the Manslayer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Formerly hunted; now protected by Meiji government"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 82,
+    "speed": 100,
+    "durability": 85,
+    "power": 92,
+    "combat": 98,
+    "total": 547
+  },
+  "weaknesses": {
+    "list": [
+      "Past trauma can trigger Battousai personality",
+      "Non-lethal combat limits effectiveness",
+      "Overprotective of loved ones",
+      "Guilt-driven choices"
+    ],
+    "factors": [
+      "Can lose control when pushed too far",
+      "Refuses to kill even when necessary",
+      "Emotional attachment to allies"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Shishio Makoto",
+    "allies": [
+      "Kamiya Kaoru",
+      "Yahiko",
+      "Sanosuke",
+      "Megumi",
+      "Saitō Hajime",
+      "Kenshin-gumi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kamiya Kaoru",
+        "relationship": "Love interest/wife",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Myōjin Yahiko",
+        "relationship": "Student/adopted son",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Sagara Sanosuke",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Tomoe",
+        "relationship": "Former wife (deceased)",
+        "trust_level": "Past love"
+      }
+    ],
+    "enemies": [
+      "Shishio Makoto",
+      "Juppongatana",
+      "Saitō Hajime (former enemy)",
+      "Nella (former enemy)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Shishio Makoto",
+        "relationship": "Rival and ultimate challenge",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Kamiya Kaoru",
+    "best_friend": "Sanosuke",
+    "rival": "Shishio Makoto",
+    "mentor": "Seijuro Hiko (master)",
+    "student": "Yahiko",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kamiya Kaoru",
+      "Yahiko",
+      "Sanosuke",
+      "Megumi",
+      "Saitō Hajime",
+      "Kenshin-gumi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Shishio Makoto"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Shishio Makoto"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Yahiko"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kamiya Kaoru",
+      "Yahiko",
+      "Sanosuke",
+      "Megumi",
+      "Saitō Hajime",
+      "Kenshin-gumi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Seijuro Hiko"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Shishio Makoto",
+      "result": "Victory (sacrifice)",
+      "method": "Used Amaterasu but was severely burned; outlasted Shishio's body"
+    },
+    {
+      "opponent": "Saitō Hajime",
+      "result": "Victory (respect earned)",
+      "method": "Demonstrated Hiten Mitsurugi-ryu skill"
+    },
+    {
+      "opponent": "Aoshi Shinomori",
+      "result": "Victory",
+      "method": "Persuaded through combat philosophy"
+    }
+  ],
+  "quotes": [
+    "A sword is a weapon... but swordsmanship is learning how to kill. That is the truth.",
+    "I have no interest in men's wars, only in protecting those who cannot fight.",
+    "This one prefers Mistress Kaoru's play-talk more than the truth.",
+    "I will protect the living, even if it means facing the dead!"
+  ],
+  "voice_acting": {
+    "native_language": "Mayo Suzukaze (Japanese)",
+    "note": "Mayo Suzukaze is iconic in the role",
+    "native_name": null,
+    "english": "Richard Cansino",
+    "japanese": "Mayo Suzukaze"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Kaoru, had children, continued protecting the Meiji era",
+    "transformation": "From Battousai to peaceful wanderer",
+    "awakening_potential": "Could continue growing as a protector",
+    "power_evolution": [
+      "Peasant orphan",
+      "Hiten Mitsurugi-ryu apprentice",
+      "Hitokiri Battousai",
+      "Wandering Rurouni"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kamiya Dojo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 28\nBirthday: June 20, 1849\nHeight: 158 cm\nWeight: 48 kg\n\nKenshin Himura, also known throughout the anime as Hitokiri Battousai (Battousai the Manslayer) or Himura the Battousai is the main character of the anime series Rurouni Kenshin.  His original name was Shinta (心太).  His parents died of cholera when he was very young and as a result, was adopted by three slave women in a traveling slave wagon.  Soon after meeting them, bandits had raided the convoy and killed his three new guardians and were about to kill him when a man named Seijuro Hiko killed the bandits. Hiko soon adopted the child and because Shinta was not a name fitted for a swordman, he renamed him Kenshin, meaning \"Heart of Sword,\" took him under his wing and taught him the Hiten Mitsuruugi Ryu.\n\n\nThe next time Kenshin is seen is 10 years later as he has become a wanderer who helps out anyone in need who is suffering right before his eyes.  Those long 10 years have taken him from Kyoto, all over Japan to where we find him in episode one of the anime, in Tokyo, still keeping his vow never to kill again.  It is here where he meets Kaoru Kamiya and his whole life begins to change once again. (See Rurouni Kenshin anime).  \n\nKenshin is usually depicted as a care-free swordsman who is very aloof and tends to be a bit simple-minded when it comes to living normally.  He is seen to be doing many of the chores around the dojo that he stays at with Kaoru, (i.e., cooking, cleaning, laundry, etc.).  He believes it is his way of repaying Kaoru with allowing him to stay at her dojo. (although it seems he has gotten attracted to kaoru in the end).\n\nHowever, his swordsmanship ranks among the elite as he is seen defeating every rival (with the exception of Hajime Saitou which ended in a draw).  His battle senses are top-notch and he recognizes even the slightest of advantages, strategies and tactics during a sword battle.  \n\n(Source: Kenshin Wikia)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,384 @@
+{
+  "id": "40e5407a8fc1a715c1a7c5d37f76050e",
+  "name": "Gambit",
+  "native_name": "Remy LeBeau",
+  "full_name": "Remy LeBeau",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 81,
+    "age": "Unknown",
+    "birthday": "February 22",
+    "zodiac": "Pisces",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red (hour red)",
+    "hair_color": "White (auburn)",
+    "skin_color": "Fair",
+    "notable_features": "Red eyes, trench coat, playing cards",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New Orleans, Louisiana",
+    "current_location": "Various",
+    "base_of_operations": "X-Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Thief / Superhero",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "X-Men"
+    ],
+    "previous": [
+      "Thieves Guild",
+      "Brotherhood of Evil Mutants"
+    ],
+    "relatives": [
+      "Henri (uncle - deceased)",
+      "Belladonna (ex-wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Uncanny X-Men #266 (August 1990)",
+    "comics": "Uncanny X-Men #266",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Kinetic Energy Charging",
+      "native_name": null,
+      "description": "Convert static potential energy into explosive kinetic energy",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Touch",
+      "limit": "Only inorganic objects"
+    },
+    {
+      "name": "Explosive Charging",
+      "native_name": null,
+      "description": "Charge objects into bombs - playing cards as grenades",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Touch/Throw",
+      "limit": "Charging takes time"
+    },
+    {
+      "name": "Hypnotic Charm",
+      "native_name": null,
+      "description": "Voice can influence others - likeable and convincing",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Medium",
+      "limit": "Immune to strong psychics"
+    },
+    {
+      "name": "Psychic Shield",
+      "native_name": null,
+      "description": "Charged object near forehead blocks telepathy",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Agility",
+      "native_name": null,
+      "description": "Near-superhuman reflexes and agility",
+      "type": "Defense/Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Card throw",
+    "ChargedBo staff strike"
+  ],
+  "ultimate_move": "Full kinetic charge",
+  "trump_card": "Remote detonation",
+  "power_attributes": {
+    "power_type": "Kinetic energy",
+    "power_source": "Mutant",
+    "combat_style": [
+      "Card throwing",
+      "Acrobatics"
+    ],
+    "weapon": "Bo staff, playing cards",
+    "equipment": [
+      "Psychic Shield"
+    ],
+    "trump_card": "Remote detonation",
+    "ultimate_move": "Full kinetic charge"
+  },
+  "personality": {
+    "traits": [
+      "Charming",
+      "Strategic",
+      "Brooding",
+      "Loyal"
+    ],
+    "likes": [
+      "Cards",
+      "Racing"
+    ],
+    "dislikes": [
+      "The Thieves Guild",
+      "Betting odds"
+    ],
+    "fear": "Losing Rogue",
+    "dream": "Redemption",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Thief seeks redemption through X-Men",
+    "motivation": "Proving worth",
+    "affinity": "Kinetic",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "X-Men member",
+    "Defeated Apocalypse",
+    "Married Rogue"
+  ],
+  "titles": [
+    "Ragin' Cajun",
+    "Gambit"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 65,
+    "speed": 70,
+    "durability": 55,
+    "power": 85,
+    "combat": 80,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot charge organic objects",
+      "Charging takes time - larger = longer"
+    ],
+    "factors": [
+      "Organic materials"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Apocalypse",
+    "allies": [
+      "Rogue",
+      "X-Men"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rogue",
+        "relationship": "Wife",
+        "trust_level": "Extreme"
+      }
+    ],
+    "enemies": [
+      "Thieves Guild",
+      "Apocalypse"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Rogue",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rogue",
+      "X-Men"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Apocalypse"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rogue",
+      "X-Men"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Don't worry sugah - Gambit's got this",
+    "Now you see it... now you don't"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Taylor Kitsch (film)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": "Discovered mutant powers young",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "Thief",
+      "X-Men hero"
+    ],
+    "role_in_story": "Major character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "X-Mansion",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "A gambit (from Italian gambetto, the act of tripping someone with the leg to make them fall) is a chess opening in which a player sacrifices material with the aim of achieving a subsequent positional advantage.",
+  "note": null,
+  "source": "marvel"
+}

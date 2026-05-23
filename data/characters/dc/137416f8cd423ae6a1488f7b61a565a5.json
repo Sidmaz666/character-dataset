@@ -1,0 +1,439 @@
+{
+  "name": "Hall, Carter",
+  "native_name": "カーターホール",
+  "full_name": "Carter Hall",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Reincarnated)",
+    "race": "Human",
+    "bloodline": "Hall",
+    "height_cm": 185,
+    "weight_kg": 88,
+    "age": "Multiple lifetimes",
+    "birthday": "Unknown (ancient)",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Tan",
+    "notable_features": [
+      "Feathered wings (Nth Metal harness)",
+      "Hawkman helmet",
+      "Large mace",
+      "Muscular build"
+    ],
+    "skin": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ancient Egypt (original); St. Roch (current)",
+    "current_location": "St. Roch / Thanagar",
+    "base_of_operations": "St. Roch / Thanagar",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Archaeologist / Museum Curator",
+    "rank_title": "Hawkman",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League (reserve)",
+      "Justice Society",
+      "Thanagarian Empire (honorary)"
+    ],
+    "previous": [
+      "Justice Society of America",
+      "Infinity Inc."
+    ],
+    "relatives": [
+      "Shiera Sanders Hall (wife/reincarnated lover)",
+      "Hector Hall (son/Doctor Fate)",
+      "Kendra Saunders (modern reincarnation)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Flash Comics #1 (January 1940)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Nth Metal Flight",
+      "native_name": null,
+      "description": "Wears Nth Metal harness granting flight via feathered wings. Nth Metal also negates magic and grants enhanced strength and durability.",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Requires Nth Metal harness"
+    },
+    {
+      "name": "Reincarnation Cycle",
+      "native_name": null,
+      "description": "Cursed to be reincarnated throughout time with his lover Shiera. Retains memories and combat experience from countless lifetimes.",
+      "type": "Supernatural",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Curse-bound; must save reincarnated lovers"
+    },
+    {
+      "name": "Master Combatant",
+      "native_name": null,
+      "description": "Thousands of years of combat experience across multiple civilizations. Expert with medieval weaponry including maces, swords, and axes.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 93,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Archaeological Genius",
+      "native_name": null,
+      "description": "Expert archaeologist and museum curator. Vast knowledge of ancient civilizations, artifacts, and history from personal experience.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Mace of Horus Strike",
+    "Thanagarian Aerial Assault",
+    "Ancient Avenger"
+  ],
+  "ultimate_move": "Reincarnation Fury (Full combat + Nth Metal Wings)",
+  "trump_card": "Millennia of Combat Experience + Nth Metal Arsenal",
+  "power_attributes": {
+    "power_type": "Nth Metal",
+    "power_source": "Nth Metal + Reincarnation",
+    "combat_style": [
+      "Aerial combat",
+      "Medieval weaponry",
+      "Thanagarian martial arts"
+    ],
+    "weapon": "Nth Metal Mace",
+    "equipment": [
+      "Nth Metal Wing Harness",
+      "Hawkman Helmet",
+      "Nth Metal Mace",
+      "Sword",
+      "Shield"
+    ],
+    "trump_card": "Millennia of Combat Experience + Nth Metal Arsenal",
+    "ultimate_move": "Reincarnation Fury (Full combat + Nth Metal Wings)"
+  },
+  "personality": {
+    "traits": [
+      "Warrior",
+      "Determined",
+      "Noble",
+      "Tragic",
+      "Fierce",
+      "Loyal",
+      "Honorable"
+    ],
+    "likes": [
+      "Combat",
+      "Archaeology",
+      "Ancient history",
+      "Shiera/Hawkgirl",
+      "Justice"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Magic",
+      "Being confused about his origins",
+      "Shadow Thief"
+    ],
+    "fear": "Losing Shiera in every lifetime",
+    "dream": "Break the reincarnation curse and live peacefully",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal",
+      "Fierce"
+    ],
+    "weaknesses": [
+      "Cursed"
+    ]
+  },
+  "character": {
+    "arc": "Cursed Egyptian prince reincarnated through history. Dies and is reborn constantly, always finding and losing his lover Shiera. Serves as both Hawkman of the Justice Society and Thanagarian warrior. Struggles with multiple conflicting origin stories.",
+    "motivation": "Protect the innocent, break the curse, find lasting peace with Shiera",
+    "affinity": "Nth Metal / Reincarnation",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "JSA founder",
+    "Thanagarian warrior",
+    "Reincarnated countless times",
+    "Master of medieval combat"
+  ],
+  "titles": [
+    "Hawkman",
+    "Prince Khufu",
+    "Carter Hall",
+    "The Winged Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by various supernatural and alien threats"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 85,
+    "speed": 80,
+    "durability": 82,
+    "power": 78,
+    "combat": 93,
+    "total": 498
+  },
+  "weaknesses": {
+    "list": [
+      "Reincarnation curse",
+      "Nth Metal dependency",
+      "Conflicting origins"
+    ],
+    "factors": [
+      "Curse affects his judgment regarding Shiera"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Shadow Thief",
+    "allies": [
+      "Justice Society",
+      "Justice League",
+      "Hawkgirl",
+      "Sandman",
+      "Doctor Fate"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hawkgirl (Shiera Sanders)",
+        "relationship": "Eternal lover/reincarnated partner",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Shadow Thief",
+      "Gentleman Ghost",
+      "Hath-Set"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Hath-Set",
+        "relationship": "Ancient enemy who cursed him",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Hawkgirl (Shiera Sanders)",
+    "best_friend": "Sandman (Wesley Dodds)",
+    "rival": "Gentleman Ghost",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Justice Society",
+      "Justice League",
+      "Hawkgirl",
+      "Sandman",
+      "Doctor Fate",
+      "Sandman (Wesley Dodds)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Shadow Thief",
+      "Gentleman Ghost"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Gentleman Ghost"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Justice Society",
+      "Justice League",
+      "Hawkgirl",
+      "Sandman",
+      "Doctor Fate"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hath-Set",
+      "result": "Cyclical (defeated each incarnation)",
+      "method": "Nth Metal combat"
+    },
+    {
+      "opponent": "Shadow Thief",
+      "result": "Victory",
+      "method": "Aerial combat"
+    }
+  ],
+  "quotes": [
+    "I have lived a hundred lives, and I will live a hundred more if it means protecting this world.",
+    "My curse is my blessing. I remember what others forget.",
+    "We are not just Hawkman and Hawkgirl. We are Khufu and Chay-Ara."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Rosenbaum (English)",
+    "english": "Michael Rosenbaum",
+    "note": "Voice from Justice League animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues his eternal cycle of reincarnation",
+    "transformation": "Reincarnation cycle",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Egyptian Prince",
+      "Hawkman (JSA)",
+      "Thanagarian Warrior",
+      "Reincarnated Avenger"
+    ],
+    "role_in_story": "Major Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Nth Metal wings (flight)"
+    ],
+    "vehicles": [
+      "Thanagarian star cruiser (sometimes)"
+    ],
+    "headquarters": "St. Roch Museum / Hall residence",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "137416f8cd423ae6a1488f7b61a565a5",
+  "publisher": "dc",
+  "about": "Carter Hall can refer to:\n\nCarter Hall (Millwood, Virginia), the  estate of Lt.Col. Nathaniel Burwell (1750–1814), now a conference center owned by Project Hope\nTwo U.S. Navy ships have been named in honor of Carter Hall:\nUSS Carter Hall (LSD-3) (1943–1969)\nUSS Carter Hall (LSD-50) (1993— )\nHawkman (Carter Hall), the DC Comics superhero\nA brand of pipe tobacco sold by John Middleton Co.",
+  "note": null,
+  "source": "dc"
+}

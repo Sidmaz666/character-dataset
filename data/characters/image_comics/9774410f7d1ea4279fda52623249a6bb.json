@@ -1,0 +1,418 @@
+{
+  "name": "Mark Grayson",
+  "native_name": null,
+  "full_name": "Markus Sebastian Grayson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Viltrumite/Human Hybrid",
+    "race": "Half-Viltrumite",
+    "bloodline": "Grayson",
+    "height_cm": 183,
+    "weight_kg": 84,
+    "age": "Late Teens/20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blue and yellow superhero suit",
+      "Black goggles",
+      "Athletic build",
+      "Facial scar (later)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth (United States)",
+    "current_location": "Earth",
+    "base_of_operations": "Earth",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Student",
+    "rank_title": "Invincible",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe",
+      "Coalition of Planets",
+      "Viltrumite Empire (reformed)"
+    ],
+    "previous": [
+      "Teen Team"
+    ],
+    "relatives": [
+      "Nolan Grayson/Omni-Man (father)",
+      "Debbie Grayson (mother)",
+      "Oliver Grayson (half-brother)",
+      "Atom Eve (wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #1 (2003)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Viltrumite Physiology",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self"
+    },
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee"
+    },
+    {
+      "name": "Flight",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Planetary"
+    },
+    {
+      "name": "Enhanced Durability",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self"
+    },
+    {
+      "name": "Longevity",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Invincible Punch",
+    "Speed Blitz",
+    "Aerial Barrage",
+    "Headbutt Destroyer"
+  ],
+  "ultimate_move": "Viltrumite Rage",
+  "trump_card": "Viltrumite/Human Hybrid Potential",
+  "power_attributes": {
+    "power_type": "Viltrumite Physiology",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Brawling",
+      "Aerial Combat",
+      "Brute Force"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Blue/yellow suit",
+      "Goggles"
+    ],
+    "trump_card": "Viltrumite/Human Hybrid Potential",
+    "ultimate_move": "Viltrumite Rage"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Compassionate",
+      "Heroic",
+      "Stubborn",
+      "Hot-headed"
+    ],
+    "likes": [
+      "Superhero culture",
+      "His family",
+      "Atom Eve"
+    ],
+    "dislikes": [
+      "Killing",
+      "His father's betrayal",
+      "The Viltrumite conquest"
+    ],
+    "fear": "Becoming like his father",
+    "dream": "Be a true hero and reform the Viltrumite Empire",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Son of Omni-Man who inherited Viltrumite powers. Grew from a naive teen superhero into the defender of Earth and eventually the leader of a reformed Viltrumite Empire. Fought his father, conquered Viltrumites, Battle Beast, and countless threats. Suffered brutal beatings but always got back up.",
+    "motivation": "Protect Earth and be a hero his mom would be proud of",
+    "affinity": "Hero/Viltrumite",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Omni-Man",
+    "Reformed Viltrumite Empire",
+    "Leader of Viltrum",
+    "Defeated Thragg",
+    "Ruled Viltrumites into peace"
+  ],
+  "titles": [
+    "Invincible",
+    "Mark Grayson",
+    "Emperor Mark",
+    "Son of Omni-Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 90,
+    "speed": 88,
+    "durability": 92,
+    "power": 88,
+    "combat": 85,
+    "total": 513
+  },
+  "weaknesses": {
+    "list": [
+      "Inner ear vulnerability",
+      "Emotional about family",
+      "Human emotions"
+    ],
+    "factors": [
+      "Can be beaten unconscious",
+      "Frequency attacks disrupt",
+      "Loved ones used against him"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thragg",
+    "allies": [
+      "Guardians of the Globe",
+      "Atom Eve",
+      "Allen the Alien",
+      "Oliver Grayson"
+    ],
+    "enemies": [
+      "Thragg",
+      "Angstrom Levy",
+      "Conquest",
+      "Battle Beast"
+    ],
+    "love_interest": "Atom Eve (Amber, initially)",
+    "best_friend": "William Clockwell",
+    "mentor": "Omni-Man (early)",
+    "student": "Oliver Grayson",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians of the Globe",
+      "Atom Eve",
+      "Allen the Alien",
+      "Oliver Grayson",
+      "William Clockwell"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thragg"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Oliver Grayson"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians of the Globe",
+      "Atom Eve",
+      "Allen the Alien",
+      "Oliver Grayson",
+      "William Clockwell"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Omni-Man"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Loss + Survival",
+      "method": "Emotional combat"
+    },
+    {
+      "opponent": "Thragg",
+      "result": "Victory",
+      "method": "Viltrumite combat in the sun"
+    }
+  ],
+  "quotes": [
+    "I am Invincible.",
+    "Dad... Why?"
+  ],
+  "voice_acting": {
+    "native_language": "Steven Yeun",
+    "english": "Steven Yeun",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Emperor of Viltrumites, living peacefully",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Mark Grayson",
+      "Invincible",
+      "Emperor of Viltrum"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Earth / Viltrum",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "id": "9774410f7d1ea4279fda52623249a6bb",
+  "publisher": "image_comics",
+  "about": "Invincible (Markus Sebastian \"Mark\" Grayson) is a superhero created by writer Robert Kirkman and artist Cory Walker, currently drawn by Ryan Ottley. Invincible first appeared in a preview as part of Savage Dragon #102 (August 2002), before graduating to his own self-titled regular series in 2003, as the premier title in Image Comics' then-new superhero line, a relaunch of the Image Universe. Invincible appears in Invincible, Bomb Queen, Noble Causes, The Pact, Savage Dragon, The Astounding Wolf-Man, Dynamo 5, I Hate Fairyland — I Hate Image, and Battle Beast.\nBorn in 1987, Invincible is the son of Omni-Man, an extraterrestrial superhero of the Viltrumite race. Invincible inherited his father's complete array of superpowers and has sworn to protect the Earth. As a teenager, he had trouble adjusting to his newfound powers and coping with the reality of superhero work and his origins.\nInvincible is voiced by Patrick Cavanaugh in the 2008 motion comic series, Steven Yeun in the 2021 television series, and Aleks Le in the 2026 video game Invincible VS.",
+  "note": null,
+  "source": "image_comics"
+}

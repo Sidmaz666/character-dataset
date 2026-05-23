@@ -1,0 +1,469 @@
+{
+  "id": "464dacaa68ad9dd7d34380960a039c06",
+  "name": "Saiki, Kusuo",
+  "native_name": "斉木楠雄",
+  "full_name": "Saiki Kusuo",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Saiki",
+    "height_cm": 167,
+    "weight_kg": 58,
+    "age": "16-17",
+    "birthday": "October 21",
+    "zodiac": "Libra",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink",
+    "hair_color": "Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green-tinted glasses",
+      "Pink antenna-like limiters",
+      "Psychic aura"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "PK Academy",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Psychic",
+    "rank_title": "Ultimate Psychic",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "PK Academy",
+      "Saiki Family"
+    ],
+    "previous": [],
+    "relatives": [
+      "Kuniharu Saiki (father)",
+      "Kurumi Saiki (mother)",
+      "Kusuke Saiki (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "The Disastrous Life of Saiki K. Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Telepathy",
+      "native_name": "テレパシー",
+      "description": "Can read minds of all humans",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Unlimited",
+      "limit": "Cannot read minds of low-intelligence people or animals"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": "念動力",
+      "description": "Move objects with mind",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 99,
+      "range": "Unlimited",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Teleportation",
+      "native_name": "瞬間移動",
+      "description": "Teleport anywhere instantly",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Unlimited",
+      "limit": "3-minute cooldown between uses"
+    },
+    {
+      "name": "Precognition",
+      "native_name": "予知",
+      "description": "See into the future",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Cannot see own future clearly"
+    },
+    {
+      "name": "Pyrokinesis",
+      "native_name": "熱念動",
+      "description": "Control fire with mind",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Psychokinesis",
+      "native_name": "念力",
+      "description": "General mind power",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Limited by limiters"
+    },
+    {
+      "name": "X-Ray Vision",
+      "native_name": "X線眼",
+      "description": "See through objects",
+      "type": "Psychic",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Cannot see through lead"
+    },
+    {
+      "name": "Invisibility",
+      "native_name": "透明化",
+      "description": "Become invisible",
+      "type": "Psychic",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "10 minutes max, breaks on touch"
+    },
+    {
+      "name": "Transformation",
+      "native_name": "変身",
+      "description": "Transform appearance",
+      "type": "Psychic",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Restoration",
+      "native_name": "復元",
+      "description": "Restore objects to previous state",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": "Cannot reverse time"
+    }
+  ],
+  "signature_moves": [
+    "Psychokinesis Blast",
+    "Teleportation Strike",
+    "Mind Reading",
+    "Future Sight"
+  ],
+  "ultimate_move": "Complete Psychic Awakening",
+  "trump_card": "Remove Limiters - Full Power",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "ESP",
+    "combat_style": [
+      "Psychic Attacks",
+      "Telekinesis",
+      "Teleportation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Limiters (to restrict power)",
+      "Green glasses"
+    ],
+    "trump_card": "Remove Limiters - Full Power",
+    "ultimate_move": "Complete Psychic Awakening"
+  },
+  "personality": {
+    "traits": [
+      "Reserved",
+      "Cynical",
+      "Calm",
+      "Intelligent",
+      "Secretly caring"
+    ],
+    "likes": [
+      "Coffee jelly",
+      "Quiet life",
+      "Helping friends secretly"
+    ],
+    "dislikes": [
+      "Attention",
+      "Trouble",
+      "Insects (especially cockroaches)"
+    ],
+    "fear": "Cockroaches, being exposed",
+    "dream": "Live a normal, quiet life",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "From isolated psychic to having real friends",
+    "motivation": "Achieve ordinary life",
+    "affinity": "Psychic",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world multiple times",
+    "Defeated numerous threats secretly",
+    "Has psychic powers rated as god-level"
+  ],
+  "titles": [
+    "Ultimate Psychic",
+    "PSI-Man",
+    "Saiki-chan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown (too powerful to measure)"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 80,
+    "speed": 100,
+    "durability": 95,
+    "power": 100,
+    "combat": 90,
+    "total": 563
+  },
+  "weaknesses": {
+    "list": [
+      "Cockroaches",
+      "Love for coffee jelly",
+      "Cannot turn off telepathy"
+    ],
+    "factors": [
+      "Limiters keep power in check"
+    ]
+  },
+  "relationships": {
+    "nemesis": " None (avoids trouble)",
+    "allies": [
+      "Nendou Riki",
+      "Kaidou Shun",
+      "Kokomi Teruhashi",
+      "Aiura Mikoto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nendou Riki",
+        "relationship": "Best Friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Kaidou Shun",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kokomi Teruhashi",
+        "relationship": "Classmate",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "None"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Nendou Riki",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nendou Riki",
+      "Kaidou Shun",
+      "Kokomi Teruhashi",
+      "Aiura Mikoto"
+    ],
+    "colleague": null,
+    "enemy": [
+      " None (avoids trouble)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nendou Riki",
+      "Kaidou Shun",
+      "Kokomi Teruhashi",
+      "Aiura Mikoto"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various Psychics",
+      "result": "Victory",
+      "method": "Overwhelming psychic power"
+    },
+    {
+      "opponent": "Aliens",
+      "result": "Victory",
+      "method": "Telekinesis"
+    }
+  ],
+  "quotes": [
+    "Good grief...",
+    "I just want to live a normal life.",
+    "This is such a pain."
+  ],
+  "voice_acting": {
+    "native_language": "Hiroshi Kamiya",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Seasons 1 & 2)",
+    "japanese": "TV anime)"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues high school life",
+    "transformation": "Remove limiters for full power",
+    "awakening_potential": "Already at maximum",
+    "power_evolution": [],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "PK Academy",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16-17\nBirthday: August 16\nHeight: 167 cm (may vary)\nWeight: 52 kg (may vary)\nOccupation: Student\nSchool: PK Academy\nYear/Course: 2nd year\n\nSaiki has an extremely uncaring personality. As a gifted psychic that can do anything he wants, he has long stopped caring about the world; however, he has shown to be extremely cautious, as he often runs from Nendou, the only person he fears, and is prone to immediately teleporting to far away places upon spotting an insect. Saiki has a sweet tooth, especially for Coffee Jelly.\n\nFourteen days after his birth, Kusuo uttered his first word without moving his mouth and 1 month after birth he took his first step in midair. At the age of 1 was the first time Kusuo has voluntarily used his abilities, when his mother said they were out of mirin, Kusuo teleported away and returned with several bottles of mirin.\n\nSaiki is a gifted psychic. Having obtained his powers since birth, the first signs of Saiki's powers came from when he was able to hear the voices of his parents and he subsequently telepathically spoke back to them. Two months later, he demonstrated the ability to walk in the air. Saiki has stated that in three days, he can wipe out humanity. The full extent of all of his abilities is unknown.\n\nAbilities:",
+  "note": null,
+  "source": "anime"
+}

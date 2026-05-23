@@ -1,0 +1,402 @@
+{
+  "id": "b96502c731a149fec6d2b3005bc0b4d2",
+  "name": "Gabriel Lorca",
+  "native_name": null,
+  "full_name": "Gabriel Lorca",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Lorca",
+    "height_cm": 185,
+    "weight_kg": 85,
+    "age": "Unknown (appeared 50s in Discovery era)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Battle-worn face",
+      "Intense gaze",
+      "Warrior bearing"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Deceased / Mirror Universe",
+    "base_of_operations": "ISS Discovery (Mirror), USS Discovery",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Captain",
+    "secondary": "War Hero",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "null (Mirror Universe imposter)"
+    ],
+    "previous": [
+      "Starfleet (prime universe)",
+      "Terran Empire (Mirror)"
+    ],
+    "relatives": [
+      "Gabriel Lorca (prime, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Discovery (2017) - \"Battle at the Binary Stars\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant military tactician",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Overconfidence"
+    },
+    {
+      "name": "Combat Mastery",
+      "native_name": null,
+      "description": "Elite combat skills",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires direct confrontation"
+    },
+    {
+      "name": "Manipulation",
+      "native_name": null,
+      "description": "Master manipulator from Mirror Universe",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Limited by emotions"
+    }
+  ],
+  "signature_moves": [
+    "War Hero Tactics",
+    "Mirror Universe Manipulation",
+    "Spore Drive Interest"
+  ],
+  "ultimate_move": "Using Discovery's Spore Drive",
+  "trump_card": "Mirror Universe Connections",
+  "power_attributes": {
+    "power_type": "Combat/Tactical",
+    "power_source": "Terran Empire Training",
+    "combat_style": [
+      "Aggressive Combat",
+      "Tactical Planning"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Tactical Systems"
+    ],
+    "trump_card": "Mirror Universe Connections",
+    "ultimate_move": "Using Discovery's Spore Drive"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Manipulative",
+      "Visionary",
+      "Ruthless",
+      "Paranoid"
+    ],
+    "likes": [
+      "Power",
+      "Victory",
+      "The Spore Drive"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Failure",
+      "Not Having Control"
+    ],
+    "fear": "Being Exposed",
+    "dream": "Winning the War",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Tactical Genius",
+      "Combat Mastery",
+      "Manipulation"
+    ],
+    "weaknesses": [
+      "Paranoid",
+      "Ruthless",
+      "Aggressive",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "From apparent war hero to revealed Mirror Universe imposter who sought ultimate power",
+    "motivation": "Power and victory at any cost",
+    "affinity": "Combat",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Built reputation as war hero",
+    "Used Discovery's spore drive",
+    "Revealed as Mirror Universe imposter",
+    "Attempted to take spore drive to Terran Empire",
+    "Captured by Discovery crew"
+  ],
+  "titles": [
+    "Captain",
+    "War Hero",
+    "The Imposter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 85,
+    "speed": 80,
+    "durability": 85,
+    "power": 90,
+    "combat": 90,
+    "total": 520
+  },
+  "weaknesses": {
+    "list": [
+      "Ego",
+      "Paranoia",
+      "Mirror Universe Exposure"
+    ],
+    "factors": [
+      "Was exposed and killed"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Michael Burnham",
+    "allies": [
+      "None (used everyone)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Michael Burnham",
+      "USS Discovery Crew"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Michael Burnham",
+        "relationship": "Manipulated her",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "None (used relationships manipulatively)",
+    "best_friend": "None",
+    "rival": "None",
+    "mentor": "None",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "None (used everyone)",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Michael Burnham",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Michael Burnham",
+      "result": "Defeat",
+      "method": "Exposed and killed by Stamets"
+    },
+    {
+      "opponent": "Klingons",
+      "result": "Various (as war hero)",
+      "method": "Tactical genius"
+    }
+  ],
+  "quotes": [
+    "In this war, there are no heroes. Only survivors.",
+    "I am Gabriel Lorca. I won this war.",
+    "You have no idea what I'm willing to sacrifice for victory."
+  ],
+  "voice_acting": {
+    "native_language": "Wilson Cruz (season 1)",
+    "english": "Wilson Cruz",
+    "note": "Character was twist villain - actually Mirror Universe version",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by the spore network after being exposed",
+    "transformation": "Revealed as Mirror Universe imposter",
+    "awakening_potential": "Achieved villain status before exposure",
+    "power_evolution": [
+      "War Hero",
+      "Imposter",
+      "Villain"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Discovery",
+      "ISS Discovery"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Discovery Bridge",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "\n\nStar Trek: Discovery is an American television series created for Paramount+ by Bryan Fuller and Alex Kurtzman. Set roughly a decade before the events of the original Star Trek series and separate from the timeline of the concurrent feature films, Discovery explores the Federation–Klingon war while following the crew of the USS Discovery. It premiered on September 24, 2017.",
+  "note": null,
+  "source": "star_trek"
+}

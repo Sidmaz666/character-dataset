@@ -1,0 +1,322 @@
+{
+  "id": "dddd9633787099be108f57fe55271930",
+  "name": "Doctor Fate",
+  "native_name": null,
+  "full_name": "Kent Nelson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 188,
+    "weight_kg": 89,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Tower of Fate, Salem, Massachusetts",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly All-Star Squadron",
+      "Justice Society of America",
+      "Justice League International",
+      "Black Lantern Corps"
+    ],
+    "previous": [],
+    "relatives": [
+      "Inza Cramer (wife)",
+      "Sven Nelson (father",
+      "deceased)",
+      "Celestine Babcock (mother)",
+      "Kent Nelson"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "More Fun Comics #55 (May, 1940)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Helmet"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Powers and Abilities"
+  ],
+  "titles": [
+    "Nabu"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 16,
+    "speed": 25,
+    "durability": 80,
+    "power": 100,
+    "combat": 50,
+    "total": 352
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Formerly All-Star Squadron",
+      "Justice Society of America",
+      "Justice League International"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Formerly All-Star Squadron",
+      "Justice Society of America",
+      "Justice League International"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Formerly All-Star Squadron",
+      "Justice Society of America",
+      "Justice League International"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tower of Fate, Salem, Massachusetts",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Doctor Fate (also known as Fate) is a superhero who appears in American comic books published by DC Comics. Created by Gardner Fox and Howard Sherman, the character first appeared in More Fun Comics #55 (May, 1940) during the Golden Age of Comic Books. Since his creation, several other characters have served as successor incarnations of the character within the mainstream DC Universe as legacy heroes, with each new version attempting to reinvigorate the character for contemporary audiences.\nThe original character's secret identity is archaeologist Kent Nelson who encountered a cosmic being named Nabu, a member of the Lords of Order, while accompanying his father in an archaeological expedition during his youth. Unwittingly leading to his father's death upon releasing Nabu, the cosmic being pities him and raises him as a sorcerer although various retellings differ in Nabu's intentions and how Nelson is trained. Gifted the Helmet of Fate and several other artifacts, he becomes the hero and agent of the Lords of Order, Doctor Fate. As the original, he is sometimes also referred to as the Golden Age Doctor Fate. A major character featured in titles based upon several teams such as the Justice Society of America, Justice League International, and Justice League, and one of the foremost sorcerers in the DC Universe, Nelson's most reoccurring conflict is his gradual loss of personal agency to Nabu and its effects on his relationships with others, including his love interest Inza Nelson.\nSubjected to various comic book deaths, Nelson has been succeeded by several successors and often makes posthumous appearances with events in the past. The current version, Khalid Nassour, is depicted as the modern incarnation of Doctor Fate. The maternal grand-nephew of Neslon related to his brother and niece, he is an Egyptian-American physician chosen as the next person for the role. Recognizing this, Nelson tutors his nephew as his apprentice until his ascension during the 2017 Justice League Dark, with Nelson later killed once more shortly after  in a 2019 storyline.\nWhile not reaching the same levels of cultural recognition as Batman, Superman, or Wonder Woman, Doctor Fate remains one of DC Comic's most enduring and long-standing characters, known for its distinctive name and design. Nelson's Immortal Doctor Fate remain as one of the character's most popular runs. However, creators and critics alike have been critical of the character's associations to Egypt, orientalism, and Nabu's characterization in regards to Nelsons' agency.\nDoctor Fate has made many appearances in adaptations. Nelson first made his live-action debut in the television series Smallville, portrayed by Brent Stait. He also appears in the DC Extended Universe film Black Adam (2022), portrayed by Pierce Brosnan. The character appeared in the DC Animated Universe, voiced by George DelHoyo in the Superman: The Animated Series and Oded Fehr in Justice League and Justice League Unlimited. Several alternate versions of the character have been adapted in media, including original creations and those based on other published DC Comics characters.",
+  "note": null,
+  "source": "dc"
+}

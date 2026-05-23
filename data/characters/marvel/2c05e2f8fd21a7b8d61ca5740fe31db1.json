@@ -1,0 +1,413 @@
+{
+  "name": "Hobgoblin",
+  "native_name": null,
+  "full_name": "Roderick Kingsley",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (enhanced)",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 180,
+    "weight_kg": 82,
+    "age": "40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Hobgoblin mask",
+      "Orange and blue costume",
+      "Goblin Glider",
+      "Pumpkin Bombs"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Fashion Designer",
+    "secondary": "Supervillain / Crime Lord",
+    "rank_title": "Hobgoblin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sinister Six (sometimes)"
+    ],
+    "previous": [
+      "Kingsley Fashion House"
+    ],
+    "relatives": [
+      "Daniel Kingsley (brother)",
+      "Jason Macendale (successor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #238 (March 1983)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Goblin Formula",
+      "native_name": null,
+      "description": "Enhanced strength, durability, and reflexes from modified Goblin formula. Stronger than Spider-Man.",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Can cause insanity with prolonged use"
+    },
+    {
+      "name": "Genius Intellect",
+      "native_name": null,
+      "description": "Brilliant fashion designer and criminal strategist. Expert in technology, chemistry, and business manipulation.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Goblin Arsenal",
+      "native_name": null,
+      "description": "Uses Goblin Glider, Pumpkin Bombs, razor bats, and various Goblin-themed weapons. Modified Green Goblin tech for Hobgoblin identity.",
+      "type": "Weapon",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Medium",
+      "limit": "Tech-dependent"
+    },
+    {
+      "name": "Criminal Mastermind",
+      "native_name": null,
+      "description": "One of the few villains to successfully manipulate the criminal underworld without the Kingpin knowing. Expert launderer and organizer.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Pumpkin Bomb Barrage",
+    "Goblin Glider Strike",
+    "Razor Bat Swarm"
+  ],
+  "ultimate_move": "Hobgoblin Overkill (Full Goblin Arsenal assault)",
+  "trump_card": "Goblin Formula + Criminal Genius",
+  "power_attributes": {
+    "power_type": "Science (Goblin Formula)",
+    "power_source": "Goblin Formula",
+    "combat_style": [
+      "Aerial combat",
+      "Explosives",
+      "Weapon-based"
+    ],
+    "weapon": "Pumpkin Bombs",
+    "equipment": [
+      "Goblin Glider",
+      "Pumpkin Bombs",
+      "Razor Bats",
+      "Finger Blasters",
+      "Body armor"
+    ],
+    "trump_card": "Goblin Formula + Criminal Genius",
+    "ultimate_move": "Hobgoblin Overkill (Full Goblin Arsenal assault)"
+  },
+  "personality": {
+    "traits": [
+      "Calculating",
+      "Greedy",
+      "Patient",
+      "Ruthless",
+      "Business-minded"
+    ],
+    "likes": [
+      "Money",
+      "Power",
+      "Fashion",
+      "Pulling strings from behind"
+    ],
+    "dislikes": [
+      "Green Goblin (competition)",
+      "Spider-Man",
+      "Losing profits"
+    ],
+    "fear": "Being killed by Green Goblin or Spider-Man",
+    "dream": "Control the entire East Coast criminal empire",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Ruthless",
+      "Greedy"
+    ]
+  },
+  "character": {
+    "arc": "Fashion designer who discovered Norman Osborn secret Green Goblin hideout. Stole the Goblin equipment and formula, creating the Hobgoblin identity. Became a major crime lord and Spider-Man recurring enemy. Expert at hiding his identity, passing the mantle to others as decoys.",
+    "motivation": "Wealth, power, and control over the criminal underworld",
+    "affinity": "Goblin Legacy",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Created Hobgoblin identity",
+    "Successfully hid his true identity for years",
+    "Built vast criminal empire",
+    "Fought Spider-Man to stalemate multiple times"
+  ],
+  "titles": [
+    "Hobgoblin",
+    "Roderick Kingsley",
+    "The Goblin Successor"
+  ],
+  "bounty": {
+    "amount": "$10,000,000",
+    "currency": "USD",
+    "details": "Major crime lord wanted by FBI and NYPD"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 82,
+    "speed": 78,
+    "durability": 80,
+    "power": 82,
+    "combat": 78,
+    "total": 485
+  },
+  "weaknesses": {
+    "list": [
+      "Goblin formula madness risk",
+      "Greed",
+      "Tech dependency"
+    ],
+    "factors": [
+      "Formula withdrawal"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [
+      "Sinister Six (sometimes)",
+      "Various crime lords"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man",
+      "Green Goblin",
+      "Kingpin (rival)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Spider-Man",
+        "relationship": "Recurring enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Green Goblin (Norman Osborn)",
+    "mentor": null,
+    "student": "Jason Macendale (successor)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sinister Six (sometimes)",
+      "Various crime lords"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Spider-Man",
+      "Green Goblin (Norman Osborn)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Green Goblin"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Jason Macendale"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sinister Six",
+      "Various crime lords"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spider-Man",
+      "result": "Multiple draws",
+      "method": "Goblin arsenal and strategy"
+    },
+    {
+      "opponent": "Green Goblin",
+      "result": "Variable",
+      "method": "Goblin vs Goblin combat"
+    }
+  ],
+  "quotes": [
+    "The Green Goblin was just the prototype. I am the finished product.",
+    "Why be the hero when you can be the one who profits from chaos?"
+  ],
+  "voice_acting": {
+    "native_language": "Mark Hamill",
+    "english": "Mark Hamill",
+    "note": "Voice in Spider-Man animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues criminal operations",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Fashion Designer",
+      "Hobgoblin",
+      "Crime Lord"
+    ],
+    "role_in_story": "Major Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Goblin Glider"
+    ],
+    "vehicles": [
+      "Goblin Glider"
+    ],
+    "headquarters": "Kingsley Fashion House (front) / Secret lair",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "2c05e2f8fd21a7b8d61ca5740fe31db1",
+  "publisher": "marvel",
+  "about": "A hobgoblin is a household spirit, appearing in English folklore, once considered helpful, but which since the spread of Christianity has often been considered mischievous. Shakespeare identifies the character of Puck in his A Midsummer Night's Dream as a hobgoblin.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,317 @@
+{
+  "id": "2b088d9718fb3a3b85b2c1235d7da320",
+  "name": "Sinestro",
+  "native_name": null,
+  "full_name": "Thaal Sinestro",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Korugaran",
+    "race": "Korugaran",
+    "bloodline": null,
+    "height_cm": 201,
+    "weight_kg": 92,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Korugar City, Korugar",
+    "current_location": null,
+    "base_of_operations": "Ranx, Warworld. formerly New Korugar, Qward, Oa",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supervillain",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sinestro Corps",
+      "formerly Green Lantern Corps",
+      "Secret Society",
+      "Injustice League"
+    ],
+    "previous": [
+      "Green Lantern Corps"
+    ],
+    "relatives": [
+      "Witch Queen (sister",
+      "pre-Crisis)",
+      "Soranik Natu (daughter)",
+      "Arin Sur (wife",
+      "deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Green Lantern Vol 2 #7",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Korugaran with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Unknown",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Neutral",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Powers and Abilities"
+  ],
+  "titles": [
+    "Green Lantern",
+    "White Lantern",
+    "Yellow Lantern",
+    "Parallax",
+    "Indigo Lantern"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 53,
+    "durability": 64,
+    "power": 100,
+    "combat": 55,
+    "total": 432
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Sinestro Corps",
+      "formerly Green Lantern Corps",
+      "Secret Society"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sinestro Corps",
+      "formerly Green Lantern Corps",
+      "Secret Society"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sinestro Corps",
+      "formerly Green Lantern Corps",
+      "Secret Society"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Ranx, Warworld. formerly New Korugar, Qward, Oa",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Thaal Sinestro () (or simply Sinestro) is a supervillain appearing in American comic books published by DC Comics, particularly those featuring Green Lantern. Created by John Broome and Gil Kane, Sinestro is a former Green Lantern Corps member who was dishonorably discharged for abusing his power. He has since endured as the archenemy of the superhero Green Lantern and is the founder of the Sinestro Corps.\nSinestro has appeared in various forms of non-comics media including shows, films, and video games. Ted Levine, Miguel Ferrer, Xander Berkeley, Ron Perlman, Victor Garber, Jason Isaacs, and others have voiced the character in animated television series and films. The character made his live-action debut in the 2011 film Green Lantern, played by Mark Strong, and will be portrayed by Ulrich Thomsen in the DC Universe, beginning with the series Lanterns.",
+  "note": null,
+  "source": "dc"
+}

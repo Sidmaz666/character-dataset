@@ -1,0 +1,399 @@
+{
+  "id": "f216ddbb4fc69b1ce86d00f1348a32ee",
+  "name": "Claire Bennet",
+  "native_name": null,
+  "full_name": "Claire Bennet",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Evolved Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 54,
+    "age": "18-20",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Cheerleader",
+      "Invulnerable body"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "San Diego, California",
+    "current_location": "Various",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "College Student",
+    "secondary": "Cheerleader/hero",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Various heroes"
+    ],
+    "previous": [
+      "The Company",
+      "H.R.G.'s family"
+    ],
+    "relatives": [
+      "Noah Bennet (adoptive father)",
+      "Meredith Gordon (mother)",
+      "Nathan Petrelli (biological father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Heroes TV Series (2006)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Rapid Regeneration",
+      "native_name": null,
+      "description": "Heal from any injury instantly",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Requires life"
+    },
+    {
+      "name": "Pain Immunity",
+      "native_name": null,
+      "description": "Does not feel pain from injuries",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "N/A"
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Does not age, cannot die permanently",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Brain must be intact"
+    },
+    {
+      "name": "Healing Blood",
+      "native_name": null,
+      "description": "Blood can heal others and cure diseases",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Touch",
+      "limit": "Requires blood transfer"
+    }
+  ],
+  "signature_moves": [
+    "Instant heal",
+    "Limb regrowth",
+    "Invulnerability display"
+  ],
+  "ultimate_move": "Ultimate Regeneration",
+  "trump_card": "Cheerleader Spirit",
+  "power_attributes": {
+    "power_type": "Regeneration",
+    "power_source": "Genetic mutation",
+    "combat_style": [
+      "Cheerleading"
+    ],
+    "weapon": "None",
+    "equipment": [],
+    "trump_card": "Cheerleader Spirit",
+    "ultimate_move": "Ultimate Regeneration"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Optimistic",
+      "Confident",
+      "Determined"
+    ],
+    "likes": [
+      "Being normal",
+      "Helping others",
+      "Cheerleading"
+    ],
+    "dislikes": [
+      "Hiding her powers",
+      "Being different"
+    ],
+    "fear": "Not being normal",
+    "dream": "Live a normal life",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Cannot"
+    ]
+  },
+  "character": {
+    "arc": "Cheerleader who discovered she cannot die, became secret hero",
+    "motivation": "Use powers to help",
+    "affinity": "Regeneration",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world (key to saving cheerleader)",
+    "Revealed powers publicly",
+    "Broke many world records for healing",
+    "Became hero"
+  ],
+  "titles": [
+    "The Cheerleader",
+    "The Regenerator"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 50,
+    "speed": 60,
+    "durability": 100,
+    "power": 85,
+    "combat": 55,
+    "total": 410
+  },
+  "weaknesses": {
+    "list": [
+      "Brain vulnerability",
+      "Cannot heal objects in brain"
+    ],
+    "factors": "Object in brain prevents healing"
+  },
+  "relationships": {
+    "nemesis": "Sylar",
+    "allies": [
+      "Hiro Nakamura",
+      "Peter Petrelli",
+      "Ando"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hiro Nakamura",
+        "relationship": "Love interest",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "The Company",
+      "Sylar"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Sylar",
+        "relationship": "Tried to kill her",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Hiro Nakamura",
+    "best_friend": "Hiro Nakamura",
+    "rival": null,
+    "mentor": "Noah Bennet",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hiro Nakamura",
+      "Peter Petrelli",
+      "Ando"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sylar"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hiro Nakamura",
+      "Peter Petrelli",
+      "Ando"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Noah Bennet"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sylar",
+      "result": "Survived",
+      "method": "Healed from head wound"
+    },
+    {
+      "opponent": "Various threats",
+      "result": "Always survived",
+      "method": "Regeneration"
+    }
+  ],
+  "quotes": [
+    "I can never be normal.",
+    "Save the cheerleader, save the world."
+  ],
+  "voice_acting": {
+    "native_language": "Hayden Panettiere",
+    "english": "Hayden Panettiere",
+    "note": "Portrayed by Hayden Panettiere",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Revealed powers, continues hero work",
+    "transformation": "N/A",
+    "awakening_potential": "Could become more powerful",
+    "power_evolution": [
+      "Normal student",
+      "Hero"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "nbc_heroes",
+  "about": "Claire Bennet is a fictional character in the NBC psychological thriller superhero drama series Heroes. She is portrayed by Hayden Panettiere and first appeared on television in the pilot episode of the series, \"Genesis\", on September 25, 2006. She is a high school cheerleader with the power of rapid cellular regeneration. Claire appears in more episodes than any other character. In Heroes Reborn, she dies while giving birth to Malina and Tommy.",
+  "note": null,
+  "source": "nbc_heroes"
+}

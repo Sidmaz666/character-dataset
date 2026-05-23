@@ -1,0 +1,419 @@
+{
+  "id": "3981ed1eae3fbb917dd21e331e882640",
+  "name": "Tatsumaki",
+  "native_name": "龍巻",
+  "full_name": "Tatsumaki",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Esper",
+    "bloodline": "Tatsumaki Family",
+    "height_cm": 142,
+    "weight_kg": 40,
+    "age": "28",
+    "birthday": "October 10",
+    "zodiac": "Libra",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Green",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green curly hair",
+      "Small stature",
+      "Black dress",
+      "Childlike appearance",
+      "Glowing eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "City Z",
+    "base_of_operations": "Hero Association",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hero",
+    "secondary": "Esper",
+    "rank_title": "S-Class Rank 2",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero Association",
+      "S-Class"
+    ],
+    "previous": [
+      "Experiment facility"
+    ],
+    "relatives": [
+      "Fubuki (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Punch Man Episode 7",
+    "manga": "One Punch Man Chapter 18",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Psychic Powers",
+      "native_name": "超能力",
+      "description": "Extremely powerful psychic abilities. Can lift cities, create tornadoes, destroy monsters.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "City-wide",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Tornado Creation",
+      "native_name": "竜巻生成",
+      "description": "Can create massive tornadoes and windstorms. Can lift and throw objects.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Area",
+      "limit": "Concentration"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": "念動力",
+      "description": "Can move any object with mind. Can lift buildings, redirect attacks.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 96,
+      "range": "Long",
+      "limit": "Focus"
+    },
+    {
+      "name": "Psychic Barrier",
+      "native_name": "サイキックバリア",
+      "description": "Creates psychic shield that blocks all attacks. Even Saitama's punch.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Power input"
+    }
+  ],
+  "signature_moves": [
+    "Psychic tornado",
+    "Telekinetic lift",
+    "Barrier"
+  ],
+  "ultimate_move": "Psychic storm",
+  "trump_card": "Unlimited psychic power",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Esper",
+    "combat_style": [
+      "Psychic",
+      "Telekinesis"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Psychic Barrier"
+    ],
+    "trump_card": "Unlimited psychic power",
+    "ultimate_move": "Psychic storm"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Protective",
+      "Stubborn",
+      "Powerful",
+      "Tsundere",
+      "Caring"
+    ],
+    "likes": [
+      "Fubuki (sister)",
+      "Being strongest",
+      "Justice",
+      "Order"
+    ],
+    "dislikes": [
+      "Monsters",
+      "Weakness",
+      "Being underestimated",
+      "Saitama"
+    ],
+    "fear": "Losing Fubuki",
+    "dream": "Protect sister, be strongest",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Powerful"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Tatsumaki is the S-Class Rank 2 hero and most powerful esper. Arrogant but protective of sister Fubuki. Trained in facility as child. Recognizes strength in others.",
+    "motivation": "Protect Fubuki, defeat monsters",
+    "affinity": "Green/Psychic",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "S-Class Rank 2",
+    "Defeated countless monsters",
+    "Most powerful esper"
+  ],
+  "titles": [
+    "Tornado of Terror",
+    "S-Class 2",
+    "Esper"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 65,
+    "speed": 88,
+    "durability": 80,
+    "power": 98,
+    "combat": 85,
+    "total": 498
+  },
+  "weaknesses": {
+    "list": [
+      "Small stature",
+      "Arrogance",
+      "Fubuki's safety"
+    ],
+    "factors": [
+      "Fubuki",
+      "Past trauma"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Monster Association",
+    "allies": [
+      "Fubuki",
+      "Saitama",
+      "Genos",
+      "Hero Association"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Fubuki",
+        "relationship": "Younger sister",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Monsters",
+      "Orochi"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Fubuki",
+    "rival": "Saitama (power)",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Fubuki",
+      "Saitama",
+      "Genos",
+      "Hero Association"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Monster Association",
+      "Saitama (power)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Fubuki"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Fubuki"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Saitama"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Fubuki",
+      "Saitama",
+      "Genos",
+      "Hero Association"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Orochi",
+      "result": "Victory",
+      "method": "Psychic power"
+    },
+    {
+      "opponent": "Saitama",
+      "result": "Draw",
+      "method": "Barrier blocked"
+    }
+  ],
+  "quotes": [
+    "I'm the Tornado of Terror!",
+    "Don't underestimate me!",
+    "Fubuki is mine to protect!"
+  ],
+  "voice_acting": {
+    "native_language": "Aoi Yuki (Japanese)",
+    "note": "Arrogant, high-pitched",
+    "native_name": null,
+    "english": "Marieve Herington",
+    "japanese": "Aoi Yuuki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues hero work",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Experiment",
+      "Hero",
+      "S-Class",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "City Z",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Human (Esper)\nAge: 28\nAbilities: Psychokinesis\nOccupation: Superhero\nLevel: S-Class; Rank: 2\nAffiliation: Hero Association\nRelatives: Fubuki (Younger sister)\n\nTatsumaki is the S-Class, Rank 2 superhero and the older sister of Fubuki.\n\nTatsumaki is a petite woman, commonly mistaken for being much younger than she really is. She has a youthful face with wide emerald green eyes and hair that curls up on the ends. She wears a formfitting black dress with long sleeves and four high-cut leg slits that show off her legs and low-heeled black shoes.\n\nBeing the second ranked S-Class hero, Tatsumaki is very powerful. She is one of the most powerful heroes and the most powerful esper alive. Fubuki describes her as a monster much like Amai Mask, who chooses not to advance from A-Class to S-Class to not allow weaklings to rank up. Even after witnessing Saitama's display of power in the fight against her, Fubuki is convinced that Saitama is nowhere near her older sister in terms of strength and fighting ability.\n\n(Source: One Punch-Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

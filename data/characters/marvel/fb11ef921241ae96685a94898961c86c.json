@@ -1,0 +1,437 @@
+{
+  "id": "fb11ef921241ae96685a94898961c86c",
+  "name": "Spider-Man 2099",
+  "native_name": null,
+  "full_name": "Miguel O'Hara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human with Spider DNA",
+    "bloodline": "O'Hara",
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": "Late 20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Fangs",
+      "Talons on fingers and toes",
+      "Darkvision eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City, Earth-928",
+    "current_location": "New York City, 2099",
+    "base_of_operations": "Alchemax Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Geneticist",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider Society",
+      "Web Warriors"
+    ],
+    "previous": [
+      "Alchemax"
+    ],
+    "relatives": [
+      "Gabriel O'Hara (brother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Spider-Man 2099 #1",
+    "comics": "Spider-Man 2099 #1 (1992)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Can lift approximately 10 tons under optimal conditions",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Speed and Agility",
+      "native_name": null,
+      "description": "Incredibly fast reflexes, four times faster than normal humans, can dodge automatic gunfire",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Talons",
+      "native_name": null,
+      "description": "Retractable sharp talons on fingers and toes for wall-crawling and combat",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Fangs and Venom",
+      "native_name": null,
+      "description": "Elongated canine teeth secreting paralyzing non-lethal venom",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Melee",
+      "limit": "Non-lethal only"
+    },
+    {
+      "name": "Organic Webbing",
+      "native_name": null,
+      "description": "Releases adhesive web-like substance from back of wrists",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Vision",
+      "native_name": null,
+      "description": "Night vision, telescopic vision, and ability to track fast-moving objects",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Long",
+      "limit": "Extreme light sensitivity"
+    },
+    {
+      "name": "Accelerated Healing",
+      "native_name": null,
+      "description": "Enhanced fast-healing metabolism",
+      "type": "Defense",
+      "tier": "C",
+      "power_level": 40,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Anti-Gravity Gliding",
+      "native_name": null,
+      "description": "Light byte airfoil enables gliding on air currents",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 35,
+      "range": "Long",
+      "limit": "Limited flight"
+    }
+  ],
+  "signature_moves": [
+    "Talon Strike",
+    "Fang Bite",
+    "Web Dash",
+    "Night Vision"
+  ],
+  "ultimate_move": "Mega Talon Rampage",
+  "trump_card": "Speed Decoy",
+  "power_attributes": {
+    "power_type": "Spider DNA",
+    "power_source": "Genetic modification",
+    "combat_style": [
+      "Martial Arts",
+      "Acrobatics"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Unstable Molecule Suit",
+      "Chameleon Function",
+      "Airfoil"
+    ],
+    "trump_card": "Speed Decoy",
+    "ultimate_move": "Mega Talon Rampage"
+  },
+  "personality": {
+    "traits": [
+      "Brooding",
+      "Protective",
+      "Driven"
+    ],
+    "likes": [
+      "Protecting the innocent",
+      "Genetics research"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Corporate abuse"
+    ],
+    "fear": "Losing control",
+    "dream": "Protecting the future",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Former geneticist who became Spider-Man in a dystopian future",
+    "motivation": "Protecting people from corporate corruption",
+    "affinity": "Spider",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Founded the Spider Society",
+    "Defeated the Inheritors",
+    "Saved multiple realities"
+  ],
+  "titles": [
+    "Spider-Man of 2099",
+    "Miguel O'Hara"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Wanted by Public Eye"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 80,
+    "durability": 65,
+    "power": 60,
+    "combat": 70,
+    "total": 440
+  },
+  "weaknesses": {
+    "list": [
+      "No spider-sense",
+      "Extreme light sensitivity",
+      "Limited healing factor"
+    ],
+    "factors": [
+      "Bright light causes vision problems"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Tyler Stone",
+    "allies": [
+      "Lyla",
+      "Spider Society"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Lyla",
+        "relationship": "AI companion",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Tyler Stone",
+      "Inheritors"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Tyler Stone",
+        "relationship": "Former employer",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Lyla",
+    "rival": "Peter Parker (Spider-Man)",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Lyla",
+      "Spider Society"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Tyler Stone",
+      "Peter Parker (Spider-Man)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Peter Parker"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Lyla",
+      "Spider Society"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Inheritors",
+      "result": "Victory",
+      "method": "Used radiation weakness"
+    }
+  ],
+  "quotes": [
+    "With great power comes great responsibility. But in my world? That responsibility was taken from me."
+  ],
+  "voice_acting": {
+    "native_language": "Jake Johnson (English)",
+    "english": "Jake Johnson",
+    "note": "Spider-Man: Across the Spider-Verse",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Could unlock more spider abilities",
+    "power_evolution": [
+      "Enhanced strength",
+      "Healing factor",
+      "Webbing"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-swinging"
+    ],
+    "vehicles": [],
+    "headquarters": "Alchemax Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Spider-Man 2099 is a superhero appearing in American comic books published by Marvel Comics. The character was created by Peter David and Rick Leonardi in 1992 for the Marvel 2099 comic book line, and he is a futuristic re-imagining of the original Spider-Man created by Stan Lee and Steve Ditko. His true identity is Miguel O'Hara, an Irish-Mexican geneticist living in Nueva York in the year 2099 who attempts to re-create the abilities of the original Spider-Man in other people and later suffers a related accident that causes half of his DNA to be rewritten with a spider's genetic code.",
+  "note": null,
+  "source": "marvel"
+}

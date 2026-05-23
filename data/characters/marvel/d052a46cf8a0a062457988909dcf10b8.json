@@ -1,0 +1,331 @@
+{
+  "id": "d052a46cf8a0a062457988909dcf10b8",
+  "name": "Phage",
+  "native_name": null,
+  "full_name": "Phage",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Symbiote",
+    "race": "Symbiote",
+    "bloodline": null,
+    "height_cm": 207,
+    "weight_kg": 97,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "None",
+    "skin_color": "Black/Green",
+    "notable_features": [
+      "Claw-like appendages"
+    ],
+    "skin": "Black/Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Research facility",
+    "current_location": "Unknown",
+    "base_of_operations": "Research facility",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Symbiote",
+    "secondary": "Killer",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Life Foundation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Other symbiotes"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Web of Spider-Man #180",
+    "comics": "Web of Spider-Man #180 (1989)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cutting Appendages",
+      "native_name": null,
+      "description": "Can generate sharp claw-like tendrils",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced strength",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Can adhere to surfaces",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Claw Slash"
+  ],
+  "ultimate_move": "Phage Frenzy",
+  "trump_card": "Superhuman Strength",
+  "power_attributes": {
+    "power_type": "Symbiote",
+    "power_source": "Knull",
+    "combat_style": "Melee",
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Superhuman Strength",
+    "ultimate_move": "Phage Frenzy"
+  },
+  "personality": {
+    "traits": [
+      "Savage",
+      "Violent",
+      "Cooperative"
+    ],
+    "likes": [
+      "Killing"
+    ],
+    "dislikes": [
+      "Light"
+    ],
+    "fear": "Sonic weapons",
+    "dream": "Violence",
+    "personality_type": null,
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Cutting Appendages",
+      "Superhuman Strength",
+      "Wall-Crawling"
+    ],
+    "weaknesses": [
+      "Violent"
+    ]
+  },
+  "character": {
+    "arc": "Life Foundation symbiote",
+    "motivation": "Violence",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Phage"
+  ],
+  "titles": [
+    "Phage"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 30,
+    "strength": 60,
+    "speed": 55,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 295
+  },
+  "weaknesses": {
+    "list": [
+      "Sonic vibrations",
+      "Fire"
+    ],
+    "factors": [
+      "violent"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Spider-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Life Foundation"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Research facility",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "A bacteriophage, also known informally as a phage, is a virus that infects and replicates within bacteria. The term is derived from Ancient Greek  φαγεῖν (phagein) 'to devour' and  bacteria. Bacteriophages are composed of proteins that encapsulate a DNA or RNA genome, and may have structures that are either simple or elaborate. Their genomes may encode as few as four genes and as many as hundreds of genes. Phages replicate within the bacterium following the injection of their genome into its cytoplasm.",
+  "note": null,
+  "source": "marvel"
+}

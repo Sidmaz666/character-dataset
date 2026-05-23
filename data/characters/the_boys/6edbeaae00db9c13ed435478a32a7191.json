@@ -1,0 +1,328 @@
+{
+  "name": "Red River",
+  "native_name": null,
+  "full_name": "Red River Supe Orphanage",
+  "basic_info": {
+    "gender": "N/A",
+    "species": "Organization",
+    "race": "N/A",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": "Active",
+    "birthday": "N/A",
+    "zodiac": "N/A",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "N/A",
+    "hair_color": "N/A",
+    "skin_color": "N/A",
+    "notable_features": [
+      "Orphanage for supe children",
+      "Vought-funded",
+      "Secret facility"
+    ],
+    "skin": "N/A",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Founded by Vought",
+    "current_location": "Unknown",
+    "base_of_operations": "Red River Facility",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe Orphanage",
+    "secondary": "Child containment",
+    "rank_title": "Red River",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Institutional Power",
+      "type": "Organization",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Child Containment",
+    "Supe Education"
+  ],
+  "ultimate_move": "Supe Generation",
+  "trump_card": "Vought-funded orphanage",
+  "power_attributes": {
+    "power_type": "Organization",
+    "power_source": "Vought Corporation",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Containment facilities"
+    ],
+    "trump_card": "Vought-funded orphanage",
+    "ultimate_move": "Supe Generation"
+  },
+  "personality": {
+    "traits": [
+      "Secretive",
+      "Vought-controlled",
+      "Manipulative"
+    ],
+    "likes": [
+      "Control",
+      "Money"
+    ],
+    "dislikes": [
+      "Exposure",
+      "Escapes"
+    ],
+    "fear": "Public exposure",
+    "dream": "Breed more supes",
+    "personality_type": "N/A",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Institutional Power"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Secret orphanage funded by Vought where supe children with dangerous or uncontrollable powers are kept. Part of Vought's darker control mechanisms.",
+    "motivation": "Contain supe children for Vought",
+    "affinity": "Institutional",
+    "alignment": "Lawful Evil (Vought-controlled)"
+  },
+  "achievements": [
+    "Contained supe children"
+  ],
+  "titles": [
+    "Red River",
+    "Supe Orphanage"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 60,
+    "speed": 40,
+    "durability": 80,
+    "power": 70,
+    "combat": 10,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Secrecy vulnerability",
+      "Vought dependency",
+      "Children can escape"
+    ],
+    "factors": [
+      "Exposure would ruin them"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": "N/A",
+    "best_friend": "N/A",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "N/A"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "N/A"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "N/A",
+    "english": "N/A",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Running as Vought facility",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "",
+      "Red River"
+    ],
+    "role": "Organization",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Vought vans"
+    ],
+    "headquarters": "Red River Facility",
+    "story_importance": "Minor Organization",
+    "note": null
+  },
+  "id": "6edbeaae00db9c13ed435478a32a7191",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

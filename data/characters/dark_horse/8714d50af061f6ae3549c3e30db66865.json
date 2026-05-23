@@ -1,0 +1,405 @@
+{
+  "id": "8714d50af061f6ae3549c3e30db66865",
+  "name": "Hellboy",
+  "native_name": "Anung Un Rama",
+  "full_name": "Anung Un Rama",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Demon",
+    "race": "Cambion (Half-demon)",
+    "bloodline": "N/A (King Arthur lineage)",
+    "height_cm": 188,
+    "weight_kg": 95,
+    "age": "Eternal (appears mid-30s)",
+    "birthday": "June 5",
+    "zodiac": "Gemini",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Straw Yellow (Red in demon form)",
+    "hair_color": "Black",
+    "skin_color": "Red (in demon form), Fair (human form)",
+    "notable_features": [
+      "Right Hand of Doom",
+      "Stone horns",
+      "Tail"
+    ],
+    "skin": "Red (in demon form), Fair (human form)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Birmingham, England (1944)",
+    "current_location": "Various",
+    "base_of_operations": "B.P.R.D.",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Paranormal Investigator",
+    "secondary": "Demon hunter",
+    "rank_title": "Agent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "B.P.R.D."
+    ],
+    "previous": [
+      "Bureau for Paranormal Research and Defense"
+    ],
+    "relatives": [
+      "Professor Bruttenholm (father figure)",
+      "Abe Sapien (partner)",
+      "Liz Sherman (partner)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Hellboy: Seed of Destruction #1 (1993)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Class 5 strength, can lift several tons",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Requires physical contact"
+    },
+    {
+      "name": "Infernal Immunity",
+      "native_name": null,
+      "description": "Immune to fire, electricity, and demon magic",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Injurie"
+    },
+    {
+      "name": "Right Hand of Doom",
+      "native_name": null,
+      "description": "Unlimited power, key to the end of the world",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Cannot be removed"
+    },
+    {
+      "name": "Demonic Form",
+      "native_name": null,
+      "description": "Full transformation into demon with wings and flame powers",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "All",
+      "limit": "Limited by his will"
+    }
+  ],
+  "signature_moves": [
+    "Hellfire blast",
+    "Stone punch",
+    "Right Hand smite"
+  ],
+  "ultimate_move": "Right Hand of Doom Unleashed",
+  "trump_card": "Right Hand of Doom",
+  "power_attributes": {
+    "power_type": "Demonic magic",
+    "power_source": "Hell heritage",
+    "combat_style": [
+      "Brawler",
+      "Street fighting"
+    ],
+    "weapon": "Excalibur (when drawn)",
+    "equipment": [
+      "Pistol",
+      "Sacred weapons"
+    ],
+    "trump_card": "Right Hand of Doom",
+    "ultimate_move": "Right Hand of Doom Unleashed"
+  },
+  "personality": {
+    "traits": [
+      "Cynical",
+      "Loyal",
+      "Brave",
+      "Self-loathing"
+    ],
+    "likes": [
+      "Beer",
+      "Fighting monsters"
+    ],
+    "dislikes": [
+      "His demonic heritage",
+      "Selling his soul"
+    ],
+    "fear": "Becoming a full demon",
+    "dream": "Prevent Armageddon",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "Half demon who fought to remain human, became key to world's fate",
+    "motivation": "Redeem his demonic heritage",
+    "affinity": "Hellfire",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Wielded Excalibur",
+    "Defeated numerous powerful demons",
+    "Became the Ogdre Jahi",
+    "Became the Right Hand of Doom"
+  ],
+  "titles": [
+    "Anung Un Rama",
+    "The Right Hand of Doom",
+    "The Beast of the Apocalypse"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not a bounty hunter"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 70,
+    "durability": 95,
+    "power": 90,
+    "combat": 85,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Excalibur",
+      "Holy weapons",
+      "His heritage"
+    ],
+    "factors": "Holy weapons can harm him"
+  },
+  "relationships": {
+    "nemesis": "N/A (numerous villains)",
+    "allies": [
+      "Abe Sapien",
+      "Liz Sherman",
+      "Johann Kraus"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Abe Sapien",
+        "relationship": "Partner",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Rasputin",
+      "Baba Yaga",
+      "Hecate"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Grigori Rasputin",
+        "relationship": "Nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Liz Sherman",
+    "best_friend": "Abe Sapien",
+    "rival": null,
+    "mentor": "Professor Bruttenholm",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Abe Sapien",
+      "Liz Sherman",
+      "Johann Kraus"
+    ],
+    "colleague": null,
+    "enemy": [
+      "N/A (numerous villains)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Abe Sapien",
+      "Liz Sherman",
+      "Johann Kraus"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Professor Bruttenholm"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hecate",
+      "result": "Inconclusive",
+      "method": "Rejected her offer"
+    },
+    {
+      "opponent": "Rasputin",
+      "result": "Victory",
+      "method": "Destroyed his physical form temporarily"
+    }
+  ],
+  "quotes": [
+    "What did they expect? It's a bigass dragon.",
+    "I was made for this."
+  ],
+  "voice_acting": {
+    "native_language": "Ron Perlman, David Hyde Pierce (animated)",
+    "english": "Ron Perlman",
+    "note": "Portrayed by Ron Perlman",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died to prevent apocalypse, became new Right Hand",
+    "transformation": "Demonic form",
+    "awakening_potential": "Would become destroyer of world",
+    "power_evolution": [
+      "Human form",
+      "Half-demon",
+      "Full demon"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "B.P.R.D.",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dark_horse",
+  "about": "Hellboy is a comic book superhero created by Mike Mignola and appearing in comic books published by Dark Horse Comics. The character first appeared in San Diego Comic-Con Comics #2 (August 1993), and has since appeared in various miniseries, one-shots, and intercompany crossovers. The character has been adapted into four live-action films: Hellboy (2004) and its sequel The Golden Army (2008), a 2019 reboot film, and The Crooked Man (2024). The character also appeared in two straight-to-DVD animated films and three video games – Dogs of the Night (2000), The Science of Evil (2008) and Web of Wyrd (2023).\nA well-meaning cambion (or half-demon) whose true name is Anung Un Rama (\"and upon his brow is set a crown of flame\"), Hellboy was summoned from Hell to Earth as a baby by Nazi occultists (spawning his hatred for the Third Reich). He appeared in the ruins of an old church in the Outer Hebrides in front of a team assembled by the Allied Forces, among them, Professor Trevor Bruttenholm, who formed the United States Bureau for Paranormal Research and Defense (B.P.R.D.). In time, Hellboy grew to be a large, muscular, red-skinned ape/monkey-like man with a tail, horns (which he files off, leaving behind circular stumps on his forehead that resemble goggles), cloven hooves, and an oversized right hand made of stone (the \"Right Hand of Doom\"). He has been described as smelling of dry-roasted peanuts. Although a bit gruff, he shows none of the malevolence thought to be intrinsic to classical demons and has an ironic sense of humor. This is said to be because of his upbringing under Professor Bruttenholm, who raised him as a normal boy.\nHellboy works for the B.P.R.D., an international non-governmental agency, and for himself, against dark forces including Nazis and witches, in a series of tales that have their roots in folklore, pulp magazines, vintage adventure, Lovecraftian horror, and horror fiction. In earlier stories, he is identified as the \"World's Greatest Paranormal Investigator\".",
+  "note": null,
+  "source": "dark_horse"
+}

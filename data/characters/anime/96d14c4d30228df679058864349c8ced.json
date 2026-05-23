@@ -1,0 +1,365 @@
+{
+  "id": "96d14c4d30228df679058864349c8ced",
+  "name": "Hoshino, Ai",
+  "native_name": "星野愛",
+  "full_name": "Ai Hoshino",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 163,
+    "weight_kg": 48,
+    "age": "20 (deceased)",
+    "birthday": "March 23",
+    "zodiac": "Aries",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 18.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink",
+    "hair_color": "Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Star eyes",
+      "Pink hair",
+      "Idol outfit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo (deceased)",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Idol",
+    "secondary": "Singer",
+    "rank_title": "Top Idol",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "B Komachi",
+      "Strawberry Productions"
+    ],
+    "relatives": [
+      "Ruby (daughter)",
+      "Aqua (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Oshi no Ko Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Singing",
+      "native_name": "歌",
+      "description": "Exceptional idol singing voice",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Dancing",
+      "native_name": "ダンス",
+      "description": "Professional idol dancing",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Acting",
+      "native_name": "演技",
+      "description": "Natural acting ability",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Stage",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Idol Performance",
+    "Love Song"
+  ],
+  "ultimate_move": "Perfect Idol Show",
+  "trump_card": "Natural Charisma",
+  "power_attributes": {
+    "power_type": "Talent",
+    "power_source": "Natural ability",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Microphone"
+    ],
+    "trump_card": "Natural Charisma",
+    "ultimate_move": "Perfect Idol Show"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Loving",
+      "Complex",
+      "Protective",
+      "Talented"
+    ],
+    "likes": [
+      "Children",
+      "Idol work",
+      "Fans"
+    ],
+    "dislikes": [
+      "Liars",
+      "Betrayal"
+    ],
+    "fear": "Losing children",
+    "dream": "Children's happiness",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Charismatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Top idol with secret children",
+    "motivation": "Protect children",
+    "affinity": "Star",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Top idol of B Komachi",
+    "Successful singer",
+    "Mother of twins"
+  ],
+  "titles": [
+    "Top Idol",
+    "B Komachi Center"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 45,
+    "speed": 70,
+    "durability": 60,
+    "power": 75,
+    "combat": 35,
+    "total": 370
+  },
+  "weaknesses": {
+    "list": [
+      "Too trusting",
+      "Vulnerable",
+      "Deceased"
+    ],
+    "factors": [
+      "Mother's love"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Miyako",
+      "Children"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ruby",
+        "relationship": "Daughter",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Aqua",
+        "relationship": "Son",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Killer"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Miyako",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Miyako",
+      "Children"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Killer"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Miyako",
+      "Children"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I love my fans.",
+    "My children are my world."
+  ],
+  "voice_acting": {
+    "native_language": "Rie Takahashi",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Donna Bella Litton",
+    "japanese": "Rie Takahashi"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by fan",
+    "transformation": null,
+    "awakening_potential": "N/A",
+    "power_evolution": [],
+    "role_in_story": "Deceased Mother",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 151 cm (4'11)\n\nAi Hoshino is the lead idol of B-Komachi, an idol group affiliated with Strawberry Productions. Before her idol work, she was a bumpkin who had no professionalism.\n\n(Source: Oshi no Ko Wiki)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,290 @@
+{
+  "id": "9c50e451122118c656d2fa83a942d2a0",
+  "name": "Norimaki, Arale",
+  "native_name": "則巻 アラレ",
+  "full_name": "Arale Norimaki",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Android",
+    "race": "Humanoid robot",
+    "height_cm": 150,
+    "weight_kg": 45,
+    "age": "Created as adult",
+    "birthday": "Unknown",
+    "blood_type": "None",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Cyan",
+    "hair_color": "Blue",
+    "skin": "Mechanical",
+    "notable_features": "Robot with expressive face, shorts",
+    "skin_color": "Mechanical",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Dr. Slump's lab",
+    "current_location": "Penguin Village",
+    "base_of_operations": "Penguin Village",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Android",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Penguin Village"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Dr. Slump",
+    "manga": "Dr. Slump",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Innocent",
+      "Naive",
+      "Strong"
+    ],
+    "likes": [],
+    "dislikes": [
+      "Cynicism"
+    ],
+    "fear": "Naive",
+    "dream": "Experience life",
+    "personality_type": null,
+    "Dream": null,
+    "alignment": null,
+    "weaknesses": [
+      "Naive"
+    ],
+    "strengths": []
+  },
+  "character": {
+    "arc": "First android, Senbei's creation",
+    "motivation": "Experience life",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 90,
+    "speed": 75,
+    "durability": 95,
+    "power": 85,
+    "combat": 70,
+    "total": 485
+  },
+  "relationships": {
+    "creator": "Senbei Norimaki",
+    "friend": "Goku",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Goku"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Protagonist",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Divine",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "out his assault"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Mami Koyama (Japanese)",
+    "Voiced by Lara Cody (English)"
+  ],
+  "titles": [
+    "Student"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Naive"
+    ],
+    "factors": [
+      "naive"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "note": null,
+    "native_name": null,
+    "english": "Lara Cody",
+    "japanese": "Mami Koyama"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Penguin Village",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "about": "Age: 17\nGender: Male\nBlood Type: A\nHeight: 178 cm (5'10\")\nStand: Hierophant Green\n\nNoriaki Kakyouin is a student who has traveled to Egypt. Dio Brando sensed his Stand powers and asked him for a demonstration, which turned out to be a fight. Afterwards, Kakyouin is brainwashed by Dio using buds from his own cells into following his will, which is to kill Joutarou Kuujou.\n\nThe manner in which he carries out his assault upon Joutarou differs from the Manga and OVA. In the manga (and the videogame), the assault happens inside a clinic of a school. In the OVA, he attacks Joutarou by possessing the body of a female student with his Stand.\n\n\nJoutarou soon discovers that Kakyouin was under the influence of Dio. Joutarou then used his own Stand, Star Platinum, to successfully remove Dio's implant buds from Kakyouin's head in spite of the risk that it may openly attack both of them, freeing Kakyouin from Dio's slavery. Kakyouin then joins Joutarou's journey to save Holy and defeat Dio in Egypt.\n\nKakyouin's Stand, Hierophant Green, can attack from long ranges and unleash an energy attack known as the Emerald Splash.\n\nHe maintains a calm demeanor and is often seen with Joutarou, consistently wearing his green school uniform. He's often smiling with an \"above-it-all\" air, but humbles himself constantly and will go so far as the occasional crude joke to lighten the mood.",
+  "note": null,
+  "source": "anime"
+}

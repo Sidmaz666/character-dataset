@@ -1,0 +1,354 @@
+{
+  "name": "Spider-Man Noir 3",
+  "native_name": null,
+  "full_name": "Peter Parker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Parker",
+    "height_cm": 178,
+    "weight_kg": 76,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Trench coat",
+      "Fedora",
+      "Goggles mask"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Private Detective",
+    "secondary": "Superhero",
+    "rank_title": "Spider-Man",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Army"
+    ],
+    "previous": [],
+    "relatives": [
+      "Ben Parker",
+      "May Parker"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #674",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spider Powers",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee"
+    },
+    {
+      "name": "Detective Skills",
+      "type": "Mental",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Noir Strike",
+    "Web Gun"
+  ],
+  "ultimate_move": "Noir Justice",
+  "trump_card": "Spider Powers",
+  "power_attributes": {
+    "power_type": "Spider Powers",
+    "power_source": "Spider Bite",
+    "combat_style": [
+      "Stealth",
+      "Firearms"
+    ],
+    "weapon": "Pistol",
+    "equipment": [
+      "Trench coat",
+      "Fedora",
+      "Pistol"
+    ],
+    "trump_card": "Spider Powers",
+    "ultimate_move": "Noir Justice"
+  },
+  "personality": {
+    "traits": [
+      "Grim",
+      "Determined",
+      "Cynical"
+    ],
+    "likes": [
+      "Justice",
+      "Truth"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Nazis"
+    ],
+    "fear": "Protecting innocents",
+    "dream": "Clean NYC",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "Peter Parker from 1930s noir Earth",
+    "motivation": "Avenge uncle",
+    "affinity": "Noir",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Nazi spies",
+    "Spider-Army member"
+  ],
+  "titles": [
+    "Spider-Man Noir 3",
+    "Peter Parker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 78,
+    "speed": 80,
+    "durability": 72,
+    "power": 70,
+    "combat": 80,
+    "total": 475
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Cynicism"
+    ],
+    "factors": [
+      "Overly grim outlook"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Norman Osborn",
+    "allies": [
+      "Spider-Army"
+    ],
+    "enemies": [
+      "Nazis",
+      "Crime lords"
+    ],
+    "love_interest": "Felicia Hardy",
+    "best_friend": "Spider-Man Blue",
+    "mentor": "Ben Parker",
+    "student": "Miles Morales",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Army",
+      "Spider-Man Blue"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Norman Osborn"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Miles Morales"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Army",
+      "Spider-Man Blue"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Ben Parker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Norman Osborn",
+      "result": "Victory",
+      "method": "Detective work"
+    }
+  ],
+  "quotes": [
+    "In black and white, I fight in gray."
+  ],
+  "voice_acting": {
+    "native_language": "Nicholas Cage",
+    "english": "Nicholas Cage",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Fighting crime",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Peter Parker",
+      "Spider-Man Noir 3"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-slinging"
+    ],
+    "vehicles": [
+      "Car"
+    ],
+    "headquarters": "NYC office",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "34cfff13fd14cd4f335cdc5ebd9a1ac3",
+  "publisher": "marvel",
+  "about": "Spider-Noir is an American superhero noir television series developed by Oren Uziel for MGM+ and Prime Video. Based on Marvel Comics featuring the character Spider-Man Noir, the series follows an aging private investigator and superhero in 1930s New York City who grapples with his past. Uziel and Steve Lightfoot served as the showrunners of the series, which is produced by Sony Pictures Television in association with Amazon MGM Studios. It is set in an alternate universe within the Sony's Spider-Man Universe (SSU) franchise.\nNicolas Cage stars as Ben Reilly / The Spider in his first lead role in a television series, with Lamorne Morris, Li Jun Li, Karen Rodriguez, Abraham Popoola, Jack Huston, and Brendan Gleeson also starring. The series was revealed to be in development in February 2023, with Uziel involved, and Lightfoot was hired that December. Cage's casting was confirmed in May 2024, when the series was ordered and titled Noir before it was retitled Spider-Noir that July. Filming took place in Los Angeles from August 2024 to March 2025.\nSpider-Noir is set to be released in its entirety on May 25, 2026, on MGM+ in the United States, and will consist of eight episodes. The series will be released globally on Prime Video on May 27. The series is being released in both black-and-white and color versions.",
+  "note": null,
+  "source": "marvel"
+}

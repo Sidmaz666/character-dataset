@@ -1,0 +1,407 @@
+{
+  "id": "5b0c305b1cd58923346f8e2127347356",
+  "name": "Orihime Inoue",
+  "native_name": "井上織姫",
+  "full_name": "Orihime Inoue",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Inoue Family",
+    "height_cm": 157,
+    "weight_kg": 45,
+    "age": "15-17",
+    "birthday": "September 3",
+    "zodiac": "Virgo",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 18.3,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Gray",
+    "hair_color": "Orange",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long orange hair",
+      "Gray eyes",
+      "School uniform",
+      "Gentle expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Karakura Town",
+    "base_of_operations": "Karakura High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Shinigami Substitute",
+    "rank_title": "Student",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Karakura High",
+      "Ichigo's group"
+    ],
+    "previous": [],
+    "relatives": [
+      "Sora Inoue (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shun Shun Rikka",
+      "native_name": "盾舜六花",
+      "description": "Six divine flowers that form defensive shields and offensive attacks.",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Mid",
+      "limit": "Concentration"
+    },
+    {
+      "name": "Santen Kesshun",
+      "native_name": "三天結盾",
+      "description": "Creates triangular shield that rejects all harm. Ultimate defense.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self/Ally",
+      "limit": "Focus required"
+    },
+    {
+      "name": "Sōten Kisshun",
+      "native_name": "双天帰盾",
+      "description": "Healing ability that can regenerate lost limbs and organs. Rejects damage.",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Touch",
+      "limit": "Time to heal"
+    },
+    {
+      "name": "Koten Zanshun",
+      "native_name": "孤天斬盾",
+      "description": "Offensive ability that splits target in half, rejecting their existence.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Mid",
+      "limit": "Rarely used"
+    }
+  ],
+  "signature_moves": [
+    "Santen Kesshun",
+    "Sōten Kisshun",
+    "Shun Shun Rikka"
+  ],
+  "ultimate_move": "Sōten Kisshun (healing)",
+  "trump_card": "Reality rejection",
+  "power_attributes": {
+    "power_type": "Spiritual Power",
+    "power_source": "Soul",
+    "combat_style": [
+      "Defense",
+      "Healing"
+    ],
+    "weapon": "Hairpins",
+    "equipment": [
+      "Shun Shun Rikka clips"
+    ],
+    "trump_card": "Reality rejection",
+    "ultimate_move": "Sōten Kisshun (healing)"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Gentle",
+      "Optimistic",
+      "Cheerful",
+      "Loyal",
+      "Airheaded"
+    ],
+    "likes": [
+      "Ichigo",
+      "Bread",
+      "Friends",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Violence",
+      "Sadness",
+      "Losing friends"
+    ],
+    "fear": "Losing Ichigo",
+    "dream": "Protect everyone with Ichigo",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Orihime is Ichigo's classmate with incredible healing powers. Joins him in Soul Society arc. Her powers can reject reality itself.",
+    "motivation": "Protect friends, help Ichigo",
+    "affinity": "Orange/Healing",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Healed Ichigo",
+    "Soul Society rescue",
+    "Hueco Mundo survivor"
+  ],
+  "titles": [
+    "Healer",
+    "Student"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 50,
+    "speed": 65,
+    "durability": 70,
+    "power": 95,
+    "combat": 60,
+    "total": 415
+  },
+  "weaknesses": {
+    "list": [
+      "Not a fighter",
+      "Emotional",
+      "Hesitant to hurt"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Aizen (indirectly)",
+    "allies": [
+      "Ichigo",
+      "Rukia",
+      "Chad",
+      "Uryu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Aizen",
+      "Espada"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Ichigo",
+    "best_friend": "Rukia/Tatsuki",
+    "rival": "None",
+    "mentor": "Rangiku",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo",
+      "Rukia",
+      "Chad",
+      "Uryu",
+      "Rukia/Tatsuki"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Aizen (indirectly)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Rukia",
+      "Chad",
+      "Uryu",
+      "Rukia/Tatsuki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Rangiku"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ulquiorra",
+      "result": "Loss (captured)",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Espada",
+      "result": "Victory",
+      "method": "Healing support"
+    }
+  ],
+  "quotes": [
+    "I want to protect everyone!",
+    "Ichigo-kun!",
+    "I reject that!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuki Matsuoka (Japanese)",
+    "note": "Gentle, kind",
+    "native_name": null,
+    "english": "Stephanie Sheh",
+    "japanese": "Yuki Matsuoka"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues school life",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Human",
+      "Shun Shun Rikka user",
+      "Healer",
+      "Hero"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Karakura Town",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Blood type: B\nHeight: 5'2\" (157 cm)\nWeight: 45 kg\nBirthday: September 3\nZodiac: Virgo\nTheme Song: \"T'en va pas\" by Elsa\n\nOrihime Inoue has long orange-brown hair which she wears with the bangs behind her ears and hairpins. She does not remove her hairpins, except to sleep (she is seen without them in episode 64 when she wakes up), as they are worn in memory of her brother, while her hair is worn long in honor of the promise Tatsuki Arisawa once made to protect her. Her large breasts are occasionally made the subject of jokes in the series. She also has an amazingly hard head, which has injured Uryū, Chad, and Ichigo. The only person who has been able to damage her head has been Yachiru Kusajishi in a comical moment when she is riding on Kenpachi Zaraki's shoulders. Orihime has yellow-orange/brown eyes in colored pictures of the manga, but gray eyes in the anime.\n\nOrihime is friendly, humorous in her own way, sensitive, and kind. She comes off as naive and rather clueless, which is at odds with her exceptionally high marks in school. Apparently, she is hopeless when it comes to technology. One of the members of the Handicrafts' Club remarks that she is not smart enough to use a cell phone, which is why she does not have one. Additionally, according to Tatsuki, Orihime has the fighting skill of a black belt, however, in the English dubbed version she says Orihime is at the skill of a yellow belt.\n\nOrihime cooks and eats strange food at home, although she also likes some normal food. Aside from Rangiku Matsumoto and possibly Tessai Tsukabishi, no one shares Orihime's tastes. Her favorite food is red bean paste, and she likes putting butter on sweet potatoes.\n\nOrihime has a tendency to rush into situations without thinking, sometimes leading to embarrassing consequences. At one point, the schoolgirls ask Rukia if she has feelings for Ichigo. When Rukia denies any such thing, Orihime is disappointed that Rukia does not share her sentiments, because if she had, then it would be two girls against one boy and therefore the girls \"team\" would win, which makes no sense. She also tends to have an overactive imagination and gets carried away thinking of implausible scenarios, such as portraying herself as a futuristic and apparently highly destructive robot in an assignment asking \"How do you see yourself in the future?\" when the question refers to what occupation one wishes or believes they will have.\n\nOrihime has also demonstrated that she is perceptive, mostly when it comes to Ichigo Kurosaki. She is in love with Ichigo, and in both the manga and anime, her feelings only become more evident as time goes on. She has revealed these feelings both to Rangiku Matsumoto and to Ichigo himself, though he was asleep at the time. She also has the uncanny ability to detect Ichigo by scent and sense his spiritual pressure, even when masked by the visored.\n\nOrihime lives by herself in Karakura Town, where the story takes place, and is supported by relatives living elsewhere. Previously, she had lived with her older brother, Sora, who was fifteen years older than her. She and her brother were raised by a drunk father and an unfaithful mother, who always argued and beat their children. It is unknown if her parents are still alive.\n\nWhen Sora turned eighteen, he ran away with Orihime, who was three years old, and raised her since. For six years, Orihime and Sora lived in harmony despite the fact that Orihime was bullied in school because of her long hair. One day, Sora gave Orihime a pair of hairpins. However, Orihime refused to wear them because she said they were childish. On the same day, Sora was wounded in a car accident and died in the Kurosaki clinic. Orihime has worn the hairpins ever since. A year after Sora died, Orihime met Tatsuki who defended her from the bullies. They have been best friends ever since.",
+  "note": null,
+  "source": "anime"
+}

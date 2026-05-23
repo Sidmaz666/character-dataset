@@ -1,0 +1,423 @@
+{
+  "id": "c52eecfb7827b4ecbbd1f3985fcfa7ab",
+  "name": "Envy",
+  "native_name": "エンヴィー",
+  "full_name": "Envy",
+  "basic_info": {
+    "gender": "Non-binary/Male (shifts)",
+    "species": "Homunculus",
+    "race": "Homunculus",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Around 175 years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown (varies by form)",
+    "skin_color": "Unknown (varies by form)",
+    "notable_features": [
+      "Shapeshifting ability",
+      "Green coloring (true form)",
+      "Monstrous true form"
+    ],
+    "skin": "Unknown (varies by form)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Various",
+    "base_of_operations": "Central City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Father's Spy",
+    "secondary": "Assassin, Instigator",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Father",
+      "Homunculi"
+    ],
+    "previous": [
+      "Dante (2003 anime)"
+    ],
+    "relatives": [
+      "Father (creator)",
+      "Pride, Wrath, Lust, Gluttony, Sloth, Greed (siblings)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist Chapter 6",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shapeshifting",
+      "native_name": null,
+      "description": "Can assume the form of any existing person, animal, or create original personas. Can modify voice to copy others. Can transform individual body parts into weapons.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Cannot exceed true form's size and weight"
+    },
+    {
+      "name": "Arm Extension",
+      "native_name": null,
+      "description": "Can make arms extendable to unknown lengths. Can make them sharp like tentacles to impale opponents.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Predictable attack pattern"
+    },
+    {
+      "name": "True Form Combat",
+      "native_name": null,
+      "description": "In monstrous true form, has enormous strength and durability. Can crush rocks, has powerful jaws, and acidic saliva.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Makes targeting easier"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Can regenerate from even fatal injuries as a homunculus.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Limited regeneration compared to some"
+    },
+    {
+      "name": "Infiltration",
+      "native_name": null,
+      "description": "Expert at infiltrating places undetected by transforming into average citizens or animals.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Vain nature can compromise missions"
+    }
+  ],
+  "signature_moves": [
+    "Shapeshift Impersonation",
+    "Tentacle Strike",
+    "Acidic Bite"
+  ],
+  "ultimate_move": "True Form Rampage",
+  "trump_card": "Shapeshifter Guilt Trip",
+  "power_attributes": {
+    "power_type": "Homunculus",
+    "power_source": "Father's power, Philosopher's Stone fragment",
+    "combat_style": [
+      "Shapeshifting Combat",
+      "Stealth Attack",
+      "Psychological Warfare"
+    ],
+    "weapon": "Transformable body parts",
+    "equipment": [
+      "Shapeshifting"
+    ],
+    "trump_card": "Shapeshifter Guilt Trip",
+    "ultimate_move": "True Form Rampage"
+  },
+  "personality": {
+    "traits": [
+      "Spiteful",
+      "Vain",
+      "Short-tempered",
+      "Cunning",
+      "Cowardly"
+    ],
+    "likes": [
+      "Hurting humans",
+      "Causing discord",
+      "Killing"
+    ],
+    "dislikes": [
+      "Being insulted",
+      "Humans",
+      "Mustang (burned Lust)"
+    ],
+    "fear": "Short-tempered",
+    "dream": "Destroying humanity",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Shapeshifting",
+      "Arm Extension",
+      "True Form Combat",
+      "Regeneration"
+    ],
+    "weaknesses": [
+      "Vain",
+      "Cowardly",
+      "Short-tempered"
+    ]
+  },
+  "character": {
+    "arc": "The embodiment of Father's envy, Envy takes great pleasure in hurting humans and causing discord. Despite being one of Father's most useful spies, their short temper and vanity often lead to their downfall.",
+    "motivation": "Causing suffering, serving Father",
+    "affinity": "Shapeshifting",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Father's chief spy",
+    "Caused major discord in Amestris",
+    "Assassinated using shapeshifting",
+    "Survived 175 years"
+  ],
+  "titles": [
+    "The Jealous",
+    "Father's Spy",
+    "The Shapeshifter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 80,
+    "durability": 85,
+    "power": 85,
+    "combat": 70,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Short-tempered",
+      "Vain nature",
+      "Cowardly when things go wrong",
+      "Impulsive"
+    ],
+    "factors": [
+      "Easily provoked",
+      "Makes bad decisions when angry"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Roy Mustang",
+    "allies": [
+      "Father",
+      "Other Homunculi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Father",
+        "relationship": "Creator/Master",
+        "trust_level": "High"
+      },
+      {
+        "name": "Lust",
+        "relationship": "Sibling/Partner",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Roy Mustang",
+      "Humans",
+      "Ling Yao"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Roy Mustang",
+        "relationship": "Killed Lust (revenge target)",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Father",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Father",
+      "Other Homunculi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Roy Mustang"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Father",
+      "Other Homunculi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Roy Mustang",
+      "result": "Defeat",
+      "method": "Burned to death after provocation"
+    }
+  ],
+  "quotes": [
+    "You have no idea how good that felt!",
+    "I'm the most human-like of all the homunculi!"
+  ],
+  "voice_acting": {
+    "native_language": "Minami Takayama (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Mustang's flames",
+    "transformation": null,
+    "awakening_potential": "Shapeshifting already at maximum",
+    "power_evolution": [
+      "Young Homunculus",
+      "Chief Spy",
+      "Destroyed"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central City",
+    "story_importance": "Major Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Envy is a homunculus who has the ability of shape-shifting. They use this power to assume the form of any person and even copy their voice. They usually serve as a spy, but their abilities are also extremely useful for assassinations. Envy may not be as smart as some of the other homunculi, but is by no means an idiot. In fact, they can be just as good a puppet master as Lust, but this is overshadowed by their cockiness and bad temper. Their temper can easily be set off by insulting their large and delicate ego, causing them to make mistakes.\n\nIn the 2003 anime series:\nAs the oldest Homunculus, Envy claimed that they had forgotten what they originally looked like. Envy also greatly hates all humans and follows Dante mostly for the opportunity of killing as many people as they could. This is what drove Envy in all that they did and unlike other Homunculi, Envy does not care about the Philosopher's Stone, nor about becoming human.\n\n\nIn the manga and 2009 anime series:\nEnvy was the fourth Homunculus created by Father. Though often referred to as a \"he\" Envy is apparently genderless and can take almost any form they choose. Referred to by Lust as the most cruel or sadistic of the Homunculi, Envy shows the most open disdain of humans and relishes in any opportunity to hurt, humiliate, or insult them. They are also quite vain, short tempered, and dislike anyone insulting their appearance.\n\n\n(Source: Fullmetal Alchemist Wikia)",
+  "note": null,
+  "source": "anime"
+}

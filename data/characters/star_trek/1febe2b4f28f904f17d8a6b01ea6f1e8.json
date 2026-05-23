@@ -1,0 +1,388 @@
+{
+  "id": "1febe2b4f28f904f17d8a6b01ea6f1e8",
+  "name": "Hikaru Sulu",
+  "native_name": null,
+  "full_name": "Hikaru Sulu",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Japanese-American)",
+    "bloodline": "Sulu",
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": "32 at start of TOS",
+    "birthday": "2237",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair/Asian",
+    "notable_features": [
+      "Pilot's confidence",
+      "East Asian features"
+    ],
+    "skin": "Fair/Asian",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "San Francisco, Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (various)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Helmsman",
+    "secondary": "Captain, Pilot",
+    "rank_title": "Captain (later)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "USS Enterprise (various)"
+    ],
+    "relatives": [
+      "Demora Sulu (daughter, later Starfleet officer)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Original Series (1966) - \"The Cage\" (pilot)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Pilot",
+      "native_name": null,
+      "description": "Exceptional starship piloting skills, navigated through impossible conditions",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires functional ship controls"
+    },
+    {
+      "name": "Fencing",
+      "native_name": null,
+      "description": "Skilled swordsman, practiced fencing as hobby",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Melee",
+      "limit": "Limited practical use in space"
+    }
+  ],
+  "signature_moves": [
+    "Precision Flying",
+    "Docking Under Pressure",
+    "Fencing"
+  ],
+  "ultimate_move": "Impossible Landing/Pilot Maneuver",
+  "trump_card": "Full Impulse Power",
+  "power_attributes": {
+    "power_type": "Technical/Pilot",
+    "power_source": "Training/Instinct",
+    "combat_style": [
+      "Fencing",
+      "Starfleet Combat"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Flight Controls"
+    ],
+    "trump_card": "Full Impulse Power",
+    "ultimate_move": "Impossible Landing/Pilot Maneuver"
+  },
+  "personality": {
+    "traits": [
+      "Confident",
+      "Enthusiastic",
+      "Friendly",
+      "Professional"
+    ],
+    "likes": [
+      "Flying",
+      "Fencing",
+      "Science Fiction (Shakespeare)",
+      "Adventure"
+    ],
+    "dislikes": [
+      "Dangerous Maneuvers That Fail",
+      "Risk to Crew"
+    ],
+    "fear": "Losing Control of Ship",
+    "dream": "Exploring the Galaxy",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From young helmsman to experienced captain, represented Asian-American excellence",
+    "motivation": "Exploring new frontiers and perfecting his piloting",
+    "affinity": "Flight",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "One of the finest pilots in Starfleet history",
+    "Commanded own ship (USS Okinawa eventually)",
+    "Pioneered many exploration missions",
+    "Fathered Demora Sulu",
+    "Set records for safe navigation"
+  ],
+  "titles": [
+    "Helmsman",
+    "Captain Sulu",
+    "The Pilot"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 85,
+    "durability": 70,
+    "power": 65,
+    "combat": 72,
+    "total": 442
+  },
+  "weaknesses": {
+    "list": [
+      "Occasional Overconfidence",
+      "Risk-Taking Tendencies"
+    ],
+    "factors": [
+      "Youthful enthusiasm when starting"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various enemies",
+    "allies": [
+      "James T. Kirk",
+      "Spock",
+      "Uhura"
+    ],
+    "allies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Captain",
+        "trust_level": "High"
+      },
+      {
+        "name": "Uhura",
+        "relationship": "Fellow bridge officer",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Klingons",
+      "Various threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Various crew members",
+    "best_friend": "Uhura (close friendship)",
+    "rival": "Chekov (friendly competition)",
+    "mentor": "James T. Kirk",
+    "student": "Various cadets",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "James T. Kirk",
+      "Spock",
+      "Uhura",
+      "Uhura (close friendship)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various enemies",
+      "Chekov (friendly competition)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Chekov"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various cadets"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "James T. Kirk",
+      "Spock",
+      "Uhura"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "James T. Kirk"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various enemies",
+      "result": "Various",
+      "method": "Expert piloting and support"
+    }
+  ],
+  "quotes": [
+    "All hands, brace for impact!",
+    "I'm giving her all I've got!",
+    "There's coffee in that nebula."
+  ],
+  "voice_acting": {
+    "native_language": "George Takei",
+    "english": "George Takei",
+    "note": "Asian-American pioneer in television",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Retired, had daughter Demora who became Starfleet officer",
+    "transformation": "Rose from helmsman to captain",
+    "awakening_potential": "Became respected ship captain",
+    "power_evolution": [
+      "Ensign",
+      "Helmsman",
+      "Captain"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (various)"
+    ],
+    "vehicles": [
+      "Shuttlecraft",
+      "Various ships"
+    ],
+    "headquarters": "Various ship helm stations",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Hikaru Sulu is a fictional character in the Star Trek media franchise. A member of the crew in the original Star Trek series, Sulu also appears in the animated Star Trek series, in the first six Star Trek movies, in one episode of Star Trek: Voyager, and in several books, comics, and video games. Originally known simply as \"Sulu\", his first name, \"Hikaru\", appeared in a 1981 novel well over a decade after the original series had ended.",
+  "note": null,
+  "source": "star_trek"
+}

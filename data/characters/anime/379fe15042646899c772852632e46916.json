@@ -1,0 +1,434 @@
+{
+  "id": "379fe15042646899c772852632e46916",
+  "name": "Hajime Nagumo",
+  "native_name": "南雲 一元",
+  "full_name": "Nagumo Hajime",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Nagumo",
+    "height_cm": 178,
+    "weight_kg": 72,
+    "age": "17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red (when serious)",
+    "hair_color": "Silver/White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Silver hair",
+      "Dramatic transformation",
+      "Demon-like appearances"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan (Earth)",
+    "current_location": "Ehit",
+    "base_of_operations": "Heath",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Adventurer",
+    "secondary": "Hero (reluctant)",
+    "rank_title": "Ultimate D-Ranked (God-tier power)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kaoru Naruse",
+      "T Yue",
+      "Myu",
+      "Aiko",
+      "Remia"
+    ],
+    "previous": [
+      "Class 2-D"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Arifureta: From Commonplace to World's Strongest (2018)",
+    "manga": "Arifureta",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Transmutation (Magical Forge)",
+      "native_name": "錬成",
+      "description": "Can transmute any material into weapons and items. Creates god-tier weapons. Ultimate ability.",
+      "type": "Creation",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Hollow King Armor",
+      "native_name": "虚天王鎧",
+      "description": "Summons powerful armor that increases all stats dramatically.",
+      "type": "Enhancement",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Flame Serpent Gáe Bolg",
+      "native_name": "焔 Serpent",
+      "description": "Powerful spear weapon created through transmutation.",
+      "type": "Weapon",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Mako Gun",
+      "native_name": "真Holy 加工",
+      "description": "Can create firearms, tanks, and other modern weapons in fantasy world.",
+      "type": "Weapon Creation",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Flame Magic",
+      "native_name": "焔魔法",
+      "description": "Powerful fire magic.",
+      "type": "Elemental",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Earth Magic",
+      "native_name": "地魔法",
+      "description": "Earth manipulation magic.",
+      "type": "Elemental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Combat Specialist",
+      "native_name": "戦闘専門家",
+      "description": "Genius-level combat skills including martial arts and weapons.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Mako Blast",
+    "Transmutation Barrage",
+    "Flame Serpent Strike"
+  ],
+  "ultimate_move": "Hollow King Transformation",
+  "trump_card": "Ultimate Transmutation - Mako Empire",
+  "power_attributes": {
+    "power_type": "Transmutation, Magic, Combat",
+    "power_source": "D-Rank Drop (cheat-like powers)",
+    "combat_style": [
+      "Sword/Spear Combat",
+      "Firearms",
+      "Magic"
+    ],
+    "weapon": "Flame Serpent Gáe Bolg, Mako Gun",
+    "equipment": [
+      "Hollow King Armor"
+    ],
+    "trump_card": "Ultimate Transmutation - Mako Empire",
+    "ultimate_move": "Hollow King Transformation"
+  },
+  "personality": {
+    "traits": [
+      "Cold",
+      "Calculating",
+      "Protective of loved ones",
+      "Vengeful",
+      "Smart"
+    ],
+    "likes": [
+      "Kaoru",
+      "Power",
+      "Creating weapons"
+    ],
+    "dislikes": [
+      "Those who hurt his friends",
+      "Goddess Ehit"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Get stronger, protect friends, return home",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "From bullied outcast to god-tier warrior seeking revenge",
+    "motivation": "Protect friends, seek revenge on those who wronged him",
+    "affinity": "Fire",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Survived abyss, became strongest",
+    "Created modern weapons in fantasy world",
+    "Defeated demon lord"
+  ],
+  "titles": [
+    "Flame Spear Hero",
+    "Arifureta",
+    "D-Rank God"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 95,
+    "speed": 90,
+    "durability": 92,
+    "power": 98,
+    "combat": 95,
+    "total": 565
+  },
+  "weaknesses": {
+    "list": [
+      "None significant"
+    ],
+    "factors": [
+      "vengeful",
+      "cold"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Goddess Ehit",
+    "allies": [
+      "Kaoru Naruse",
+      "T Yue",
+      "Myu",
+      "Aiko"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kaoru Naruse",
+        "relationship": "Love Interest",
+        "trust_level": "Max"
+      },
+      {
+        "name": "T Yue",
+        "relationship": "Companion",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Goddess Ehit",
+      "Classmates (initial)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kaoru Naruse",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kaoru Naruse",
+      "T Yue",
+      "Myu",
+      "Aiko"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Goddess Ehit"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kaoru Naruse",
+      "T Yue",
+      "Myu",
+      "Aiko"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Demon Lord",
+      "result": "Victory",
+      "method": "Flame Serpent + Transmutation"
+    }
+  ],
+  "quotes": [
+    "I won't forgive anyone who hurts my friends.",
+    "I am the Arifureta."
+  ],
+  "voice_acting": {
+    "native_language": "Toshitsugu Iwai",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Matt Shipman",
+    "japanese": "Toshinari Fukamachi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues growing stronger",
+    "transformation": "Hollow King Mode",
+    "awakening_potential": "Continues growing",
+    "power_evolution": [
+      "Weak D-Rank",
+      "Combat Specialist",
+      "Hollow King"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Mako Tank",
+      "Modern Weapons"
+    ],
+    "headquarters": "Heath",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Hajime was a complete otaku and always came to class with a sleepy expression. He was always bullied and was disliked by both of his male and female classmates for being close to their idol-like classmate Kaori. After wishing for his annoying classmates to be summoned to another world, the next thing he saw was they were on top of a pillar like structure in another world to become heroes.\n\nHe obtained the job of \"Synergist\" and continued to be bullied due to also being weak in this new world. He eventually fell into an abyss due to being hit by a classmate's fireball where he survived though a hell-like environment to become the powerful man he is today.\n\nHajime at the beginning of the story is said to have black hair and also has a slim body. He also had a kind face and attitude. But after falling in the abyss and eating a wolf-like monster, his body began to violently degenerate. When he drunk the sacred water, it made his body heal by destroying his bones and muscles then healing over and over again until he got a very muscular body due to overcompensation.\n\nDue to the stress of breaking and healing, his hair turned white, a victim of the Marie Antoinette syndrome. His eyes also turned red and his body gained tattoo-like red lines which is the sign of him becoming a demonic monster similar to the monsters he ate that also possessed red lines along their bodies.\n\nHis personality was at first kind though he was considered incompetent. But after falling in the abyss, he became cruel and would kill any person who wants to cause him misfortune. He would also smile in front of danger which made Shia call him a new species of monster called \"Predator.\" He may be cruel but he cares for his comrades.\n\n(Source: Arifureta Wiki)",
+  "note": null,
+  "source": "anime"
+}

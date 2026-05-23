@@ -1,0 +1,315 @@
+{
+  "id": "8dfc8e01b075962c694cc7f4b4cde13e",
+  "name": "Wally West",
+  "native_name": null,
+  "full_name": "Wally West",
+  "basic_info": {
+    "gender": "",
+    "species": "Metahuman",
+    "race": "",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "green",
+    "hair_color": "Unknown",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": null,
+    "base_of_operations": null,
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Unknown",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful  with superhuman attributes",
+      "type": "Offensive",
+      "tier": "D",
+      "power_level": 0,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "verse shows"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Low intelligence",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Low intelligence",
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Created by artist Carmine Infantino and writer John Broome"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 0,
+    "strength": 0,
+    "speed": 0,
+    "durability": 0,
+    "power": 0,
+    "combat": 0,
+    "total": 0
+  },
+  "weaknesses": {
+    "list": [
+      "Low intelligence",
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power",
+      "Poor combat skills"
+    ],
+    "factors": [
+      "low intelligence",
+      "physically weak",
+      "slow speed",
+      "low durability",
+      "limited power",
+      "poor combat skills"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Nightwing",
+    "rival": null,
+    "mentor": "Barry Allen",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nightwing"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nightwing"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Barry Allen"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": null,
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Wallace Rudolph \"Wally\" West is a superhero appearing in American comic books published by DC Comics as the original Kid Flash and the third Flash,  the fastest man in the multiverse. Created by artist Carmine Infantino and writer John Broome, his power consists mainly of superhuman speed. The nephew of Iris West, he first appeared in Flash #110 (1959), which depicted his transformation into Kid Flash. Under the mantle of Kid Flash, Wally was depicted as a teenage sidekick to his uncle-by-marriage, Barry Allen, and a founding member of the Teen Titans. After Barry's death in Crisis on Infinite Earths in 1985, Wally took on the role of the Flash in 1986, and would be the main Flash until 2009, and again from 2021.\nGenerally portrayed as a white man with red hair and green eyes, Wally was reinterpreted as biracial for DC's 2011 New 52 relaunch. A desire from fans to see the original interpretation of the character restored, however, led to Wally returning in 2016's DC Rebirth, while his New 52 reinterpretation was made into a separate character, Ace West, to avoid confusion.\nWally West has appeared in many other forms of media and was featured as the incarnation of the Flash in the Cartoon Network series Justice League, voiced by Michael Rosenbaum, and the 2010 film Justice League: Crisis on Two Earths, voiced by Josh Keaton. As Kid Flash, he appeared in Cartoon Network's Teen Titans series voiced again by Michael Rosenbaum and subsequently in the Young Justice series, voiced by Jason Spisak. In live action, Keiynan Lonsdale played the character in Arrowverse shows, notably The Flash and Legends of Tomorrow.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,505 @@
+{
+  "id": "ee78a228070570b96995329674f0940e",
+  "name": "Flash",
+  "native_name": null,
+  "full_name": "Bartholomew Henry Allen",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Allen family",
+    "height_cm": 183,
+    "weight_kg": 79,
+    "age": "25-30 (varies by continuity)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red costume with lightning bolt",
+      "Lean athletic build",
+      "Blond hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Central City",
+    "current_location": "Central City",
+    "base_of_operations": "Central City, Justice League Watchtower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Forensic scientist",
+    "rank_title": "Fastest Man Alive",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League",
+      "Central City Police Department"
+    ],
+    "previous": [],
+    "relatives": [
+      "Henry Allen (father)",
+      "Nora Allen (mother, deceased)",
+      "Iris West (wife)",
+      "Wally West (nephew)",
+      "Bart Allen (grandson)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Showcase #4 (October 1956)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Can move at speeds exceeding light, fastest being in the universe",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Speed Force",
+      "native_name": null,
+      "description": "Draws power from the Speed Force, granting various speed-based abilities",
+      "type": "Power Source",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Time Travel",
+      "native_name": null,
+      "description": "Can travel through time using super speed",
+      "type": "Temporal",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Time paradoxes"
+    },
+    {
+      "name": "Phasing",
+      "native_name": null,
+      "description": "Can vibrate molecules to pass through solid objects",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Contact",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Speed Reading",
+      "native_name": null,
+      "description": "Can read and process information at super speed",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Information overload"
+    },
+    {
+      "name": "Lightning Generation",
+      "native_name": null,
+      "description": "Can generate and project lightning from Speed Force",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Enhanced Reflexes",
+      "native_name": null,
+      "description": "Reaction time far exceeds normal human capabilities",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Superhuman Stamina",
+      "native_name": null,
+      "description": "Can run for extended periods without fatigue",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Speed Force exhaustion"
+    }
+  ],
+  "signature_moves": [
+    "Speed Force vortex",
+    "Lightning throw",
+    "Infinite mass punch"
+  ],
+  "ultimate_move": "Speed Force explosion (releases all Speed Force energy)",
+  "trump_card": "Time manipulation",
+  "power_attributes": {
+    "power_type": "Speed Force",
+    "power_source": "Speed Force",
+    "combat_style": [
+      "Speed-based",
+      "Hit and run",
+      "Time manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Flash suit",
+      "Cosmic treadmill"
+    ],
+    "trump_card": "Time manipulation",
+    "ultimate_move": "Speed Force explosion (releases all Speed Force energy)"
+  },
+  "personality": {
+    "traits": [
+      "Optimistic",
+      "Compassionate",
+      "Quick-witted",
+      "Responsible",
+      "Heroic"
+    ],
+    "likes": [
+      "Speed",
+      "Helping others",
+      "Science",
+      "Iris West",
+      "Justice"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Slow pace",
+      "Losing loved ones",
+      "Time paradoxes"
+    ],
+    "fear": "Losing control of speed, Failing to save others, Time paradoxes",
+    "dream": "To be the fastest hero and protect everyone",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic",
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Police scientist gaining super speed and becoming the Fastest Man Alive",
+    "motivation": "To protect the innocent and honor his mother's memory",
+    "affinity": "Speed",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved Central City countless times",
+    "Justice League founding member",
+    "Defeated major threats like Reverse Flash, Zoom, Gorilla Grodd",
+    "Became the Fastest Man Alive",
+    "Saved the multiverse"
+  ],
+  "titles": [
+    "Flash",
+    "Fastest Man Alive",
+    "Scarlet Speedster",
+    "Barry Allen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 40,
+    "speed": 100,
+    "durability": 60,
+    "power": 100,
+    "combat": 75,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Speed Force exhaustion",
+      "Time paradoxes",
+      "Cold temperatures",
+      "Mental fatigue"
+    ],
+    "factors": [
+      "Overuse of speed",
+      "Time manipulation consequences",
+      "Cold-based attacks"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Reverse Flash",
+    "allies": [
+      "Superman",
+      "Batman",
+      "Wonder Woman",
+      "Justice League",
+      "Iris West"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Iris West",
+        "relationship": "Wife",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Wally West",
+        "relationship": "Nephew and sidekick",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Superman",
+        "relationship": "Close ally",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Reverse Flash",
+      "Zoom",
+      "Gorilla Grodd",
+      "Captain Cold",
+      "Mirror Master"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Reverse Flash",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Zoom",
+        "relationship": "Major villain",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Gorilla Grodd",
+        "relationship": "Recurring enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Iris West",
+    "best_friend": "Wally West",
+    "rival": null,
+    "mentor": "Jay Garrick",
+    "student": "Wally West, Bart Allen",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Superman",
+      "Batman",
+      "Wonder Woman",
+      "Justice League",
+      "Iris West",
+      "Wally West"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Reverse Flash"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Wally West, Bart Allen"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Superman",
+      "Batman",
+      "Wonder Woman",
+      "Justice League",
+      "Iris West",
+      "Wally West"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jay Garrick"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Reverse Flash",
+      "result": "Victory",
+      "method": "Speed Force mastery"
+    },
+    {
+      "opponent": "Zoom",
+      "result": "Victory",
+      "method": "Time manipulation and speed"
+    },
+    {
+      "opponent": "Gorilla Grodd",
+      "result": "Victory",
+      "method": "Super speed and intelligence"
+    }
+  ],
+  "quotes": [
+    "My name is Barry Allen, and I'm the fastest man alive",
+    "Run, Barry, run",
+    "Life doesn't give us purpose. We give life purpose",
+    "I'm the Flash, and I'm here to help"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Grant Gustin (TV series), Ezra Miller (films), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect Central City and the multiverse",
+    "transformation": [
+      "Speed Force connection",
+      "Time manipulation abilities"
+    ],
+    "awakening_potential": "Full Speed Force mastery",
+    "power_evolution": [
+      "Basic Flash",
+      "Speed Force master",
+      "Time manipulation"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Super speed",
+      "Cosmic treadmill"
+    ],
+    "vehicles": [
+      "None needed"
+    ],
+    "headquarters": "Central City, Justice League Watchtower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "The Flash is the name of several superheroes appearing in American comic books published by DC Comics. Created by writer Gardner Fox and artist Harry Lampert, the original Flash first appeared in Flash Comics #1. Nicknamed \"the Scarlet Speedster\", all incarnations of the Flash possess \"superspeed\", which includes the ability to run, move, and think extremely fast, use superhuman reflexes, and seemingly violate certain laws of physics.",
+  "note": null,
+  "source": "dc"
+}

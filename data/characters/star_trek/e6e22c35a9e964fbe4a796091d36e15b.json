@@ -1,0 +1,407 @@
+{
+  "id": "e6e22c35a9e964fbe4a796091d36e15b",
+  "name": "Jean-Luc Picard",
+  "native_name": null,
+  "full_name": "Jean-Luc Picard",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 79,
+    "age": "Born 2305",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Bald (previously brown)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bald head",
+      "distinctive jaw"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "La Barre, France, Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise-D, later Enterprise-E",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Starfleet Captain",
+    "secondary": "Admiral, Ambassador",
+    "rank_title": "Captain, later Admiral",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Starfleet",
+      "Federation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Maurice Picard (brother)",
+      "Renée Picard (mother)",
+      "Yves Picard (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Trek: The Next Generation (1987)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Exceptional command presence and diplomatic skill",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Requires crew"
+    },
+    {
+      "name": "Diplomacy",
+      "native_name": null,
+      "description": "Expert negotiator and first contact specialist",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Requires talking"
+    },
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant battlefield commander",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "N/A",
+      "limit": "Requires combat"
+    },
+    {
+      "name": "Phaser Marksmanship",
+      "native_name": null,
+      "description": "Expert with Starfleet weapons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Requires phaser"
+    }
+  ],
+  "signature_moves": [
+    "Negotiate",
+    "Make it so",
+    "Bold strategy"
+  ],
+  "ultimate_move": "The Picard Maneuver",
+  "trump_card": "Diplomatic victory",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "Human ingenuity and Starfleet training",
+    "combat_style": [
+      "Negotiation",
+      "Diplomacy"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Comm badge",
+      "Tricorder"
+    ],
+    "trump_card": "Diplomatic victory",
+    "ultimate_move": "The Picard Maneuver"
+  },
+  "personality": {
+    "traits": [
+      "Diplomatic",
+      "Intellectual",
+      "Reserved",
+      "Brave"
+    ],
+    "likes": [
+      "Archaeology",
+      "Earl Grey tea",
+      "Fencing"
+    ],
+    "dislikes": [
+      "Violence when unnecessary",
+      "Borg"
+    ],
+    "fear": "Losing his crew to assimilation",
+    "dream": "Peaceful exploration",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Diplomatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Legendary captain who defeated Borg, became Federation icon",
+    "motivation": "Seek peaceful first contacts",
+    "affinity": "N/A",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated the Borg",
+    "Saved Earth from Duras",
+    "First contact with numerous species",
+    "Became Locutus"
+  ],
+  "titles": [
+    "Captain",
+    "Locutus",
+    "Admiral"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 65,
+    "speed": 65,
+    "durability": 70,
+    "power": 50,
+    "combat": 75,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Vulnerability to Borg",
+      "Responds emotionally to crew losses"
+    ],
+    "factors": "His past as Locutus haunts him"
+  },
+  "relationships": {
+    "nemesis": "Borg, Q",
+    "allies": [
+      "Riker",
+      "Data",
+      "Worf"
+    ],
+    "allies_detailed": [
+      {
+        "name": "William Riker",
+        "relationship": "First Officer",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Borg",
+      "Khan",
+      "Romulans"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Borg Queen",
+        "relationship": "Nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Data",
+    "rival": null,
+    "mentor": "Jack Crusher",
+    "student": "William T. Riker",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Riker",
+      "Data",
+      "Worf"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Borg, Q"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "William T. Riker"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Riker",
+      "Data",
+      "Worf"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jack Crusher"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Borg",
+      "result": "Mixed",
+      "method": "Initially assimilated, later defeated"
+    },
+    {
+      "opponent": "Shinzon",
+      "result": "Victory",
+      "method": "Self-sacrifice"
+    }
+  ],
+  "quotes": [
+    "Make it so.",
+    "Engage.",
+    "The line must be drawn here."
+  ],
+  "voice_acting": {
+    "native_language": "Patrick Stewart",
+    "english": "Patrick Stewart",
+    "note": "Portrayed by Patrick Stewart",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues in various series",
+    "transformation": "N/A",
+    "awakening_potential": "Could have become Fleet Admiral",
+    "power_evolution": [
+      "Captain",
+      "Admiral"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Shuttlecraft"
+    ],
+    "vehicles": [
+      "USS Enterprise-D/E"
+    ],
+    "headquarters": "USS Enterprise",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Jean-Luc Picard is a fictional character in the Star Trek franchise, most often seen as the commanding officer of the Federation starship USS Enterprise (NCC-1701-D). Played by Patrick Stewart, Picard has appeared in the television series Star Trek: The Next Generation (TNG) and the premiere episode of Star Trek: Deep Space Nine, as well as the feature films Star Trek Generations (1994), Star Trek: First Contact (1996), Star Trek: Insurrection (1998), and Star Trek: Nemesis (2002). He is also featured as the central character in the show Star Trek: Picard (2020–2023).",
+  "note": null,
+  "source": "star_trek"
+}

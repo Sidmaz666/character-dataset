@@ -1,0 +1,401 @@
+{
+  "id": "4f68df1d909c80d2c1cb844dfa086ea8",
+  "name": "Seven of Nine",
+  "native_name": "Annika Hansen",
+  "full_name": "Annika Hansen (Seven of Nine)",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human (former Borg)",
+    "race": "Human-Borg hybrid",
+    "bloodline": "Hansen family",
+    "height_cm": 178,
+    "weight_kg": 72,
+    "age": "Born 2344 (physiological age stuck at late teens)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (implant)",
+    "hair_color": "Straw Blond",
+    "skin_color": "Fair (with Borg implants)",
+    "notable_features": [
+      "Borg implants",
+      "Cortical node",
+      "Biite Array"
+    ],
+    "skin": "Fair (with Borg implants)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Borg Cube (formerlydrone)",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Former Borg",
+    "secondary": "Crew Member",
+    "rank_title": "Lieutenant, later Borg Queen",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Starfleet",
+      "Federation"
+    ],
+    "previous": [
+      "Borg Collective"
+    ],
+    "relatives": [
+      "Magnus and Erin Hansen (parents)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Trek: Voyager (1997)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Borg Enhancements",
+      "native_name": null,
+      "description": "Implant-enhanced strength and processing",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires implants"
+    },
+    {
+      "name": "Data Processing",
+      "native_name": null,
+      "description": "Supercomputer-level analysis",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "N/A"
+    },
+    {
+      "name": "Nanoprobes",
+      "native_name": null,
+      "description": "Can repair or assimilates others",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Touch",
+      "limit": "Requires implant"
+    },
+    {
+      "name": "Adaptive Shielding",
+      "native_name": null,
+      "description": "Can adapt to attacks",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Energy-based only"
+    }
+  ],
+  "signature_moves": [
+    "Shield absorb",
+    "Nanoprobe healing",
+    "Tactical analysis"
+  ],
+  "ultimate_move": "Borg Queen Mode",
+  "trump_card": "Full Borg Integration",
+  "power_attributes": {
+    "power_type": "Borg technology",
+    "power_source": "Borg implants",
+    "combat_style": [
+      "Borg combat",
+      "Analysis"
+    ],
+    "weapon": "Phaser, Borg tech",
+    "equipment": [
+      "All Borg implants"
+    ],
+    "trump_card": "Full Borg Integration",
+    "ultimate_move": "Borg Queen Mode"
+  },
+  "personality": {
+    "traits": [
+      "Direct",
+      "Logical",
+      "Confident",
+      "Humanizing"
+    ],
+    "likes": [
+      "Analyzing",
+      "Human experiences"
+    ],
+    "dislikes": [
+      "Borg collective",
+      " being controlled"
+    ],
+    "fear": "Returning to the Collective",
+    "dream": "Be human",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Former Borg who gained humanity, became Starfleet officer, eventually became Borg Queen to save humanity",
+    "motivation": "Remain human, protect humanity",
+    "affinity": "Borg Technology",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Survived Borg, gained humanity",
+    "Defeated Borg threats",
+    "Became Lieutenant",
+    "Served as Borg Queen (to help)"
+  ],
+  "titles": [
+    "Seven of Nine",
+    "Tertiary Adjunct",
+    "Borg Queen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Former Borg drone"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 80,
+    "speed": 75,
+    "durability": 90,
+    "power": 85,
+    "combat": 70,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Human emotions (developing)",
+      "Borg origins"
+    ],
+    "factors": "Vulnerable to emotional manipulation"
+  },
+  "relationships": {
+    "nemesis": "Borg Queen",
+    "allies": [
+      "Janeway",
+      "Voyager crew"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kathryn Janeway",
+        "relationship": "Mentor",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Borg Collective"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Borg Queen",
+        "relationship": "Former self",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Icheb, Chakotay",
+    "best_friend": "Icheb",
+    "rival": null,
+    "mentor": "Janeway",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Janeway",
+      "Voyager crew",
+      "Icheb"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Borg Queen"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Janeway",
+      "Voyager crew",
+      "Icheb"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Janeway"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Borg",
+      "result": "Victory",
+      "method": "Used nanoprobes"
+    },
+    {
+      "opponent": "Borg Queen",
+      "result": "Controlled",
+      "method": "Became Queen to help"
+    }
+  ],
+  "quotes": [
+    "I prefer not to be called 'Seven.'",
+    "I need to be more than a name."
+  ],
+  "voice_acting": {
+    "native_language": "Jeri Ryan",
+    "english": "Jeri Ryan",
+    "note": "Portrayed by Jeri Ryan",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues exploring humanity",
+    "transformation": "Humanizing process",
+    "awakening_potential": "Could lead Federation",
+    "power_evolution": [
+      "Borg drone",
+      "Humanizing",
+      "Officer",
+      "Borg Queen"
+    ],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Shuttlecraft"
+    ],
+    "vehicles": [
+      "USS Voyager"
+    ],
+    "headquarters": "USS Voyager",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Seven of Nine is a fictional character introduced in the American science fiction television series Star Trek: Voyager. Portrayed by Jeri Ryan, she is a former Borg drone who joins the crew of the Federation starship Voyager. Her full Borg designation was Seven of Nine, Tertiary Adjunct of Unimatrix Zero One. While her birth name became known to her crewmates, after joining the Voyager crew she chose to continue to be called Seven of Nine, though she allowed \"Seven\" to be used informally.",
+  "note": null,
+  "source": "star_trek"
+}

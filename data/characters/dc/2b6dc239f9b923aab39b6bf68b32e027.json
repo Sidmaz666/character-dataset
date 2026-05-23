@@ -1,0 +1,446 @@
+{
+  "name": "Barbara Gordon",
+  "native_name": "バーバラ・ゴードン",
+  "full_name": "Barbara Joan Gordon",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 57,
+    "age": "20s",
+    "birthday": "Sep 23",
+    "zodiac": "Libra",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red hair",
+      "Batgirl costume",
+      "Wheelchair (formerly)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Information Broker (Oracle)",
+    "rank_title": "Batgirl / Oracle",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Batman Family",
+      "Justice League (reserve)",
+      "Birds of Prey"
+    ],
+    "previous": [
+      "Gotham City Police Department (support)"
+    ],
+    "relatives": [
+      "Jim Gordon (father)",
+      "Barbara Eileen Gordon (mother)",
+      "James Gordon Jr. (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Detective Comics #359 (January 1967)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "Photographic memory, master hacker, expert in data analysis. As Oracle, she was the information hub for the entire superhero community.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 97,
+      "range": "Global",
+      "limit": "Requires technology"
+    },
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Trained by Batman and Black Canary. Expert in Judo, Karate, and multiple fighting styles.",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Expert Hacker",
+      "native_name": null,
+      "description": "World-class hacker capable of infiltrating any digital system. Access to global surveillance and intelligence.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global",
+      "limit": "Requires technology"
+    },
+    {
+      "name": "Leadership Skills",
+      "native_name": null,
+      "description": "Founded and led the Birds of Prey. Coordinates multiple superhero teams simultaneously.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Oracle Strike",
+    "Batgirl Batarang",
+    "Data Breach"
+  ],
+  "ultimate_move": "Global Intelligence Network / Batgirl Assault",
+  "trump_card": "Superhuman Intelligence + Oracle Network",
+  "power_attributes": {
+    "power_type": "Peak Human",
+    "power_source": "Training and Intelligence",
+    "combat_style": [
+      "Martial Arts",
+      "Stealth",
+      "Hacking",
+      "Batarangs"
+    ],
+    "weapon": "Batarangs",
+    "equipment": [
+      "Batgirl Suit",
+      "Oracle Computer Network",
+      "Batarangs",
+      "Grapple Gun",
+      "Smoke Pellets",
+      "High-Tech Gadgets"
+    ],
+    "trump_card": "Superhuman Intelligence + Oracle Network",
+    "ultimate_move": "Global Intelligence Network / Batgirl Assault"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Compassionate",
+      "Independent",
+      "Witty"
+    ],
+    "likes": [
+      "Technology",
+      "Justice",
+      "Helping others",
+      "Books",
+      "Gotham"
+    ],
+    "dislikes": [
+      "Being underestimated",
+      "Gotham crime",
+      "Joker",
+      "Injustice"
+    ],
+    "fear": "Being paralyzed again",
+    "dream": "Make Gotham and the world safer through intelligence",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Intelligent",
+      "Resourceful"
+    ],
+    "weaknesses": [
+      "Limitation"
+    ]
+  },
+  "character": {
+    "arc": "Daughter of Commissioner Gordon. Became Batgirl, paralyzed by Joker (The Killing Joke), became Oracle - information hub for all superheroes. Later regained mobility and returned as Batgirl while maintaining Oracle role.",
+    "motivation": "Protect the innocent, use intelligence to fight crime",
+    "affinity": "Information",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "First Batgirl",
+    "Founded Birds of Prey",
+    "Became Oracle",
+    "Regained ability to walk",
+    "Returned as Batgirl"
+  ],
+  "titles": [
+    "Batgirl",
+    "Oracle",
+    "Barbara Gordon",
+    "The Information Broker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "High-value target for criminals"
+  },
+  "powerstats": {
+    "intelligence": 97,
+    "strength": 55,
+    "speed": 72,
+    "durability": 60,
+    "power": 75,
+    "combat": 82,
+    "total": 441
+  },
+  "weaknesses": {
+    "list": [
+      "PTSD from paralysis",
+      "Physical limits",
+      "Over-reliance on technology"
+    ],
+    "factors": [
+      "Traumatic memories of Joker attack"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Joker",
+    "allies": [
+      "Batman",
+      "Nightwing",
+      "Black Canary",
+      "Huntress",
+      "Commissioner Gordon"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Dick Grayson (Nightwing)",
+        "relationship": "Love interest/Partner",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Mentor/Ally",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Joker",
+      "Two-Face",
+      "Penguin"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Joker",
+        "relationship": "Paralyzed her (The Killing Joke)",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Dick Grayson",
+    "best_friend": "Dinah Lance (Black Canary)",
+    "rival": null,
+    "mentor": "Bruce Wayne",
+    "student": "Stephanie Brown",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Batman",
+      "Nightwing",
+      "Black Canary",
+      "Huntress",
+      "Commissioner Gordon",
+      "Dinah Lance (Black Canary)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Joker"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Gotham City"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Gotham City"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Stephanie Brown"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Batman",
+      "Nightwing",
+      "Black Canary",
+      "Huntress",
+      "Commissioner Gordon",
+      "Dinah Lance"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Bruce Wayne"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Joker",
+      "result": "Loss (paralyzed)",
+      "method": "Ambush and shooting"
+    }
+  ],
+  "quotes": [
+    "Information is power.",
+    "I am not broken. I am just differently abled.",
+    "You cannot break what has already been broken and rebuilt."
+  ],
+  "voice_acting": {
+    "native_language": "Tara Strong (English)",
+    "english": "Tara Strong",
+    "note": "Iconic voice of Barbara Gordon/Batgirl",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Active as both Batgirl and Oracle",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Batgirl",
+      "Paralyzed (Oracle)",
+      "Batgirl (returned)"
+    ],
+    "role_in_story": "Major Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Batgirl Motorcycle"
+    ],
+    "vehicles": [
+      "Batgirl Motorcycle"
+    ],
+    "headquarters": "Gotham Clock Tower / Oracle Network",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "2b6dc239f9b923aab39b6bf68b32e027",
+  "publisher": "dc",
+  "about": "Barbara Joan Gordon is a superheroine appearing in American comic books published by DC Comics, commonly in association with the superhero Batman. The character was created by television producer William Dozier, editor Julius Schwartz, writer Gardner Fox, and artist Carmine Infantino. Dozier, the producer of the 1960s Batman television series, requested Schwartz to call for a new female counterpart to the superhero Batman that could be introduced into publication and the third season of the show simultaneously. The character subsequently made her first comic-book appearance as Batgirl in Detective Comics #359, titled \"The Million Dollar Debut of Batgirl!\" in January 1967, by Fox and Infantino, allowing her to be introduced into the television series, portrayed by actress Yvonne Craig, in the season 3 premiere \"Enter Batgirl, Exit Penguin\", in September that same year.\nBarbara Gordon is the daughter of Gotham City police commissioner James Gordon, the sister of serial killer James Gordon Jr. and is initially employed as head of the Gotham City Public Library. Although the character appeared in various DC Comics publications, she was prominently featured in Batman Family which debuted in 1975, partnered with the original Robin, Dick Grayson, whom she has a history of working closely and being romantically involved with. In 1988, following the editorial retirement of the character's Batgirl persona in Batgirl Special #1, the graphic novel Batman: The Killing Joke depicts the Joker shooting her through the spinal cord in her civilian identity, resulting in paraplegia. In subsequent stories, the character was reestablished as a technical advisor, computer expert and information broker known as Oracle. Becoming a valuable asset providing intelligence and computer hacking services to assist other superheroes, she makes her first appearance as Oracle in Suicide Squad #23 (1989) and later became a featured lead of the Birds of Prey series. In 2011, as part of DC Comics The New 52 relaunch, Barbara recovered from her paralysis following a surgical procedure and returned as Batgirl. Barbara has since featured in the eponymous Batgirl monthly title as well as Birds of Prey and other Batman books. Following the events of Joker War, Barbara returned to her Oracle role while recovering from an injury, and continues to operate as both Batgirl and Oracle after the 2021 Infinite Frontier event.\nThe character was a popular comic book figure during the Silver Age of Comic Books, due to her appearances in the Batman television series and continued media exposure. She has achieved similar popularity in the Modern Age of Comic Books under the Birds of Prey publication and as a disabled icon. The character has been the subject of academic analysis concerning the roles of women, librarians, and disabled people in mainstream media. The events of The Killing Joke, which led to the character's paralysis, as well as the restoration of her mobility, have also been a subject of debate among comic book writers, artists, editors, and readership. Viewpoints range from sexism in comic books, to the limited visibility of disabled characters and the practicality of disabilities existing in a fictional universe where magic, technology, and medical science exceed the limitations of the real world.\nAs both Batgirl and Oracle, Barbara Gordon has been featured in various adaptations related to the Batman franchise, including television, film, animation, video games, and other merchandise. Aside from Craig, the character has been portrayed by Dina Meyer, Alicia Silverstone (as Barbara Wilson), and Jeté Laurence, and has been voiced by Melissa Gilbert, Tara Strong, Danielle Judovits, Alyson Stoner, Mae Whitman, Kimberly Brooks and Briana Cuoco among others. Barbara Gordon appeared in the third season of the HBO Max series Titans as the new commissioner of Gotham City portrayed by Savannah Welch. The character was slated for a solo film set in the DCEU, starring Leslie Grace in the title role and intended to be released on HBO Max. The film was canceled in August 2022. In 2011, Barbara Gordon ranked 17th in IGN's \"Top 100 Comic Book Heroes\".",
+  "note": null,
+  "source": "dc"
+}

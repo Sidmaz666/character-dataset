@@ -1,0 +1,409 @@
+{
+  "id": "d069a14b46d436d23b82325dc2196870",
+  "name": "Julian Bashir",
+  "native_name": null,
+  "full_name": "Julian Subatai Bashir",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Bashir",
+    "height_cm": 183,
+    "weight_kg": 80,
+    "age": "29 when on DS9",
+    "birthday": "2358",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black/Dark Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Youthful handsome face",
+      "Eager expression",
+      "British accent"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth (London, UK)",
+    "current_location": "Various",
+    "base_of_operations": "Deep Space 9",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Medical Officer",
+    "secondary": "Intelligence Operative (Section 31)",
+    "rank_title": "Lieutenant Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Section 31 (secret)"
+    ],
+    "relatives": [
+      "Dr. Bashir (father)",
+      "Amsha Bashir (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1993) - \"Emissary\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Medical Mastery",
+      "native_name": null,
+      "description": "Brilliant physician with extensive knowledge",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short (medical)",
+      "limit": "Requires equipment"
+    },
+    {
+      "name": "Intelligence Skills",
+      "native_name": null,
+      "description": "Exceptional spy and intelligence gathering",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Moral conflicts"
+    },
+    {
+      "name": "Athletic Ability",
+      "native_name": null,
+      "description": "Enhanced through genetic therapy",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee",
+      "limit": "Requires maintenance"
+    }
+  ],
+  "signature_moves": [
+    "Medical Miracle",
+    "Intelligence Gathering",
+    "Genetically Enhanced Speed"
+  ],
+  "ultimate_move": "Saving Lives",
+  "trump_card": "Enhanced Genetic Abilities",
+  "power_attributes": {
+    "power_type": "Medical/Intelligence",
+    "power_source": "Training/Genetic Enhancement",
+    "combat_style": [
+      "Starfleet Combat",
+      "Genetic Enhancement"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Medical Kit",
+      "Subdermal Transponder"
+    ],
+    "trump_card": "Enhanced Genetic Abilities",
+    "ultimate_move": "Saving Lives"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Eager",
+      "Overconfident",
+      "Secretive",
+      "Caring"
+    ],
+    "likes": [
+      "Medicine",
+      "Spy Games",
+      "Playing Cards",
+      "O'Brien"
+    ],
+    "dislikes": [
+      "Keeping Secrets",
+      "His Parents' Decision",
+      "Dying Patients"
+    ],
+    "fear": "Being Exposed as Genetically Enhanced",
+    "dream": "Being Accepted for Who He Is",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From secretly enhanced doctor to respected physician who faced his past",
+    "motivation": "Proving himself and helping patients",
+    "affinity": "Medicine",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Saved countless lives on DS9",
+    "Worked with Section 31",
+    "Helped defeat Founders",
+    "Maintained friendship with O'Brien",
+    "Confronted his genetic enhancement past"
+  ],
+  "titles": [
+    "Doctor",
+    "Lieutenant Commander Bashir",
+    "The Enhanced"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 75,
+    "speed": 80,
+    "durability": 72,
+    "power": 70,
+    "combat": 70,
+    "total": 462
+  },
+  "weaknesses": {
+    "list": [
+      "Genetic Enhancement Secret",
+      "Overconfidence",
+      "Workaholic"
+    ],
+    "factors": [
+      "Section 31 involvement",
+      "Parents' shame"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Founders (initially)",
+    "allies": [
+      "Miles O'Brien (best friend)",
+      "Ezri Dax",
+      "Odo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Miles O'Brien",
+        "relationship": "Best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Ezri Dax",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Various women (Ezri Dax briefly)",
+    "best_friend": "Miles O'Brien",
+    "rival": "None significant",
+    "mentor": "Various doctors",
+    "student": "Various medical personnel",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Miles O'Brien (best friend)",
+      "Ezri Dax",
+      "Odo",
+      "Miles O'Brien"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Founders (initially)",
+      "None significant"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None significant"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various medical personnel"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Miles O'Brien",
+      "Ezri Dax",
+      "Odo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various doctors"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various Diseases",
+      "result": "Victory",
+      "method": "Medical expertise"
+    },
+    {
+      "opponent": "Section 31 Missions",
+      "result": "Various",
+      "method": "Intelligence work"
+    }
+  ],
+  "quotes": [
+    "There are more things in heaven and earth than are dreamed of in your philosophy.",
+    "Now this is a doctor who knows how to have a good time.",
+    "Is there anything in this universe that doesn't eventually become boring?"
+  ],
+  "voice_acting": {
+    "native_language": "Alexander Siddig",
+    "english": "Alexander Siddig",
+    "note": "British accent for character",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued Starfleet medical service",
+    "transformation": "Accepted his enhanced nature",
+    "awakening_potential": "Achieved excellence despite secret",
+    "power_evolution": [
+      "Medical Student",
+      "Doctor",
+      "Section 31 Agent",
+      "Lieutenant Commander"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Deep Space 9"
+    ],
+    "vehicles": [
+      "Runabout"
+    ],
+    "headquarters": "DS9 Sickbay",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Julian Subatoi Bashir, MD is a fictional character from the television series Star Trek: Deep Space Nine, portrayed by Alexander Siddig. Bashir is the Chief Medical Officer (CMO) of space station Deep Space Nine and the USS Defiant.",
+  "note": null,
+  "source": "star_trek"
+}

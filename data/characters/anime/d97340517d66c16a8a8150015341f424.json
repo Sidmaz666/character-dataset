@@ -1,0 +1,376 @@
+{
+  "id": "d97340517d66c16a8a8150015341f424",
+  "name": "The Immortal",
+  "native_name": null,
+  "full_name": "Emil",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Immortal Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 90,
+    "age": "2000+ years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Ancient warrior build",
+      "Cape"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ancient times",
+    "current_location": "Earth",
+    "base_of_operations": "Guardians HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Guardians of the Globe",
+    "rank_title": "Founding Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe"
+    ],
+    "previous": [
+      "Various throughout history"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "Invincible #1",
+    "comics": "Image Comics 2002",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Cannot dies, simply returns to life",
+      "type": "Defense",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Severe damage still hurts"
+    },
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Incredible physical strength",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Rapid healing",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Death reset"
+    }
+  ],
+  "signature_moves": [
+    "Ancient Strike",
+    "Immortal Fury"
+  ],
+  "ultimate_move": "Death Return Attack",
+  "trump_card": "True Immortality",
+  "power_attributes": {
+    "power_type": "Immortality",
+    "power_source": "Unknown origin",
+    "combat_style": [
+      "Ancient combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Hero suit"
+    ],
+    "trump_card": "True Immortality",
+    "ultimate_move": "Death Return Attack"
+  },
+  "personality": {
+    "traits": [
+      "Experienced",
+      "Stoic",
+      "Brave",
+      "Patient"
+    ],
+    "likes": [
+      "Fighting evil",
+      "History"
+    ],
+    "dislikes": [
+      "Giving up",
+      "Tyranny"
+    ],
+    "fear": "Permanently dying",
+    "dream": "Peace",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Cannot"
+    ]
+  },
+  "character": {
+    "arc": "Ancient hero who cannot die",
+    "motivation": "Protecting the innocent",
+    "affinity": "Eternal protection",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Guardians founder",
+    "Thousands of battles",
+    "Returned from death many times"
+  ],
+  "titles": [
+    "The Immortal",
+    "Emil"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 90,
+    "speed": 65,
+    "durability": 100,
+    "power": 85,
+    "combat": 80,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Can be killed temporarily",
+      "Severe trauma",
+      "Magic"
+    ],
+    "factors": [
+      "Anti-tank weapons"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various tyrants",
+    "allies": [
+      "Guardians",
+      "Invincible"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains",
+      "Typhoon"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": "Invincible",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians",
+      "Invincible"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various tyrants"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Invincible"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians",
+      "Invincible"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Typhoon",
+      "result": "Victory",
+      "method": "Repeated returns"
+    }
+  ],
+  "quotes": [
+    "I've died a thousand times. I'll die a thousand more if needed."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Ironside (English)",
+    "note": "Animated series voice",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues protecting",
+    "transformation": "Immortal awakening",
+    "awakening_potential": "Full power",
+    "power_evolution": [
+      "Ancient warrior",
+      "Modern hero"
+    ],
+    "role_in_story": "Supporting Hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Guardians HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: unknown Height: 188 cm (6'2\")\nWeight: 81.6 kg (180 lb)\n\nVash displays two different personalities. Vash usually exaggerates foolish characteristics to make people feel unthreatened and to hide his identity; for instance, exhibiting an almost obsessive love of doughnuts and at one point introduced himself as \"Valentinez Alkalinella Xifax Sicidabohertz Gombigobilla Blue Stradivari Talentrent Pierre Andri Charton-Haymoss Ivanovich Baldeus George Doitzel Kaiser III.\" Vash's reputation as \"The Humanoid Typhoon\" is legendary, as is the damage and destruction associated with his presence. However, when those around him are threatened, Vash shows complete focus and control.\n\nVash is a very multidimensional character—quite literally a walking contradiction. He is often a womanizer, and other times a gentleman. Sometimes he is a coward, yet other times he shows great courage. He is a wanted man, yet he wouldn't hurt a fly.",
+  "note": null,
+  "source": "anime"
+}

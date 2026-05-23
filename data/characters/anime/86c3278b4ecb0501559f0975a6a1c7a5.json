@@ -1,0 +1,395 @@
+{
+  "id": "86c3278b4ecb0501559f0975a6a1c7a5",
+  "name": "Nobara Kugisaki",
+  "native_name": "釘崎野薔薇",
+  "full_name": "Kugisaki Nobara",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown (grandmother's technique)",
+    "height_cm": 160,
+    "weight_kg": 55,
+    "age": "15-16",
+    "birthday": "July 22",
+    "zodiac": "Cancer",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 21.5,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black (dyed tips)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Dyed hair tips",
+      "Heart-shaped hammer",
+      "Fashionable"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Rural area",
+    "current_location": "Tokyo Jujutsu High",
+    "base_of_operations": "Tokyo Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Student",
+    "secondary": "Sorcerer",
+    "rank_title": "Grade 3",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Tokyo Jujutsu High"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandmother ( Jujutsu teacher)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen Episode 1",
+    "manga": "Jujutsu Kaisen Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Straw Doll Technique",
+      "native_name": "芻霊呪法",
+      "description": "Uses hammer, nails, straw doll to perform jujutsu attacks",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Medium to Long",
+      "limit": "Needs connection to target"
+    },
+    {
+      "name": "Resonance",
+      "native_name": "共鳴",
+      "description": "Links straw doll to target (using hair/blood) - damages both simultaneously",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Long (via connection)",
+      "limit": "Needs target piece"
+    },
+    {
+      "name": "Nail Projectiles",
+      "native_name": "钉投射",
+      "description": "Launches cursed energy nails with hammer, can guide them mid-flight",
+      "type": "Attack",
+      "tier": "A-",
+      "power_level": 65,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Black Flash",
+      "native_name": "黒閃",
+      "description": "Applied within split second - 2.5x power",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Requires precise timing"
+    }
+  ],
+  "signature_moves": [
+    "Resonance",
+    "Nail strike",
+    "Hammer throw"
+  ],
+  "ultimate_move": "Full Resonance + Black Flash",
+  "trump_card": "Soul damage via Resonance",
+  "power_attributes": {
+    "power_type": "Cursed Energy / Doll technique",
+    "power_source": "Grandmother's technique",
+    "combat_style": [
+      "Hammer/Nail combat",
+      "Doll manipulation"
+    ],
+    "weapon": "Hammer, nails, straw doll",
+    "equipment": [
+      "Straw Doll Technique",
+      "Nail Projectiles"
+    ],
+    "trump_card": "Soul damage via Resonance",
+    "ultimate_move": "Full Resonance + Black Flash"
+  },
+  "personality": {
+    "traits": [
+      "Brash",
+      "Confident",
+      "Determined",
+      "Vain",
+      "Caring"
+    ],
+    "likes": [
+      "Fashion",
+      "Money",
+      "Shopping",
+      "Yuji",
+      "Megumi"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Being looked down on"
+    ],
+    "fear": "Dying alone",
+    "dream": "Live freely, make money",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Vain"
+    ]
+  },
+  "character": {
+    "arc": "Confident girl who fights for herself and friends",
+    "motivation": "Living freely, earning money",
+    "affinity": "Dolls/Attacks",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Used Resonance to attack Mahito's soul",
+    "Achieved Black Flash",
+    "Defeated multiple curses"
+  ],
+  "titles": [
+    "Straw Doll user",
+    "Fashion lover"
+  ],
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 65,
+    "speed": 70,
+    "durability": 55,
+    "power": 75,
+    "combat": 75,
+    "total": 410
+  },
+  "weaknesses": {
+    "list": [
+      "Needs target piece for Resonance",
+      "Limited close combat"
+    ],
+    "factors": [
+      "vain"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mahito (attacked her)",
+    "allies": [
+      "Yuji",
+      "Megumi",
+      "Gojo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yuji Itadori",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Megumi Fushiguro",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Curses",
+      "Mahito"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Yuji",
+      "Megumi",
+      "Gojo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mahito (attacked her)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Yuji",
+      "Megumi",
+      "Gojo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mahito",
+      "result": "Incomplete defeat",
+      "method": "Resonance attacked soul"
+    }
+  ],
+  "quotes": [
+    "I am not a girl, I am a woman!",
+    "This is my life!",
+    "I will do anything to survive!"
+  ],
+  "voice_acting": {
+    "native_language": "Chieko (Japanese)",
+    "note": "Actually: 'Chieko (Japanese), 'English:' 'Fairu (English)'",
+    "native_name": null,
+    "english": "Anne Yatco",
+    "japanese": "Asami Seto"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive, continuing training",
+    "transformation": null,
+    "awakening_potential": "Full Resonance + doll mastery",
+    "power_evolution": [
+      "Grade 3",
+      "Black Flash user"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo Jujutsu High",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Age: 16\nBirthdate: August 7\nHeight: 160 cm (5'3\")\n\nKugisaki Nobara is a girl born in Morioka, who moved to Tokyo to get away from the countryside. In order to live the city life in Tokyo, Nobara joined the Tokyo Metropolitan Magic Technical College to avoid worrying about money. \n\nNobara has a strong sense of staying true to herself in both appearance and herself as a person. She often comes off as rash and impertinent, but she cares about her friends just as about herself.\n\nShe is a short girl with short orange dyed hair, a black button-down shirt, skirt, stockings, and shoes.\n\n(Source: Jujutsu Kaisen Wiki)",
+  "note": null,
+  "source": "anime"
+}

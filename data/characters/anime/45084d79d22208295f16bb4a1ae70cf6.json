@@ -1,0 +1,407 @@
+{
+  "id": "45084d79d22208295f16bb4a1ae70cf6",
+  "name": "Yasutora \"Chad\" Sado",
+  "native_name": "チャド・サド",
+  "full_name": "Yasutora Sado",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Fullbringer)",
+    "race": "Human (Japanese-Mexican)",
+    "bloodline": "Sado Family",
+    "height_cm": 197,
+    "weight_kg": 117,
+    "age": "15-17",
+    "birthday": "April 7",
+    "zodiac": "Aries",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 30.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Tall muscular build",
+      "Dark skin",
+      "Spiky hair",
+      "Gentle giant"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Karakura Town",
+    "base_of_operations": "Karakura High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Fullbringer",
+    "rank_title": "Student",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Karakura High",
+      "Ichigo's group"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandfather (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "El Brazo Derecho",
+      "native_name": "El Brazo Derecho",
+      "description": "Right arm transforms into orange armored gauntlet with immense strength.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "El Brazo Izquierdo",
+      "native_name": "El Brazo Izquierdo",
+      "description": "Left arm transforms into shield with incredible defensive power.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Fullbring",
+      "native_name": "完現術",
+      "description": "Ability to manipulate souls in objects, granting superhuman powers.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Soul resonance"
+    },
+    {
+      "name": "Super Strength",
+      "native_name": "怪力",
+      "description": "Immense physical strength capable of lifting tons.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Human limits"
+    }
+  ],
+  "signature_moves": [
+    "El Brazo Derecho",
+    "El Brazo Izquierdo",
+    "Fullbring"
+  ],
+  "ultimate_move": "Full Armor Form",
+  "trump_card": "Dual arm transformation",
+  "power_attributes": {
+    "power_type": "Fullbring",
+    "power_source": "Soul power",
+    "combat_style": [
+      "Melee",
+      "Defense"
+    ],
+    "weapon": "Arms",
+    "equipment": [
+      "El Brazo Derecho",
+      "El Brazo Izquierdo"
+    ],
+    "trump_card": "Dual arm transformation",
+    "ultimate_move": "Full Armor Form"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Loyal",
+      "Protective",
+      "Quiet",
+      "Strong",
+      "Kind"
+    ],
+    "likes": [
+      "Ichigo",
+      "Friends",
+      "Peace",
+      "Grandfather's memory"
+    ],
+    "dislikes": [
+      "Violence",
+      "Bullying",
+      "Losing friends"
+    ],
+    "fear": "Losing friends",
+    "dream": "Protect friends with strength",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Chad is Ichigo's gentle giant friend. Awakens Fullbring powers to protect others. Loyal to the end.",
+    "motivation": "Protect friends, honor grandfather",
+    "affinity": "Orange/Strength",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Defeated Espada",
+    "Soul Society rescue",
+    "Fullbring master"
+  ],
+  "titles": [
+    "Chad",
+    "Gentle Giant"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 92,
+    "speed": 60,
+    "durability": 90,
+    "power": 85,
+    "combat": 75,
+    "total": 467
+  },
+  "weaknesses": {
+    "list": [
+      "Not fast",
+      "Reluctant fighter",
+      "Emotional"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Espada",
+    "allies": [
+      "Ichigo",
+      "Orihime",
+      "Uryu",
+      "Rukia"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Aizen",
+      "Espada"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Ichigo",
+    "rival": "None",
+    "mentor": "Yoruichi (indirectly)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo",
+      "Orihime",
+      "Uryu",
+      "Rukia"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Espada",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Orihime",
+      "Uryu",
+      "Rukia"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Yoruichi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Nnoitra",
+      "result": "Loss",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Espada",
+      "result": "Victory",
+      "method": "Fullbring"
+    }
+  ],
+  "quotes": [
+    "I fight to protect.",
+    "My friends are my strength.",
+    "I won't let you hurt them."
+  ],
+  "voice_acting": {
+    "native_language": "Hiroki Yasumoto (Japanese)",
+    "note": "Deep, gentle",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues school life",
+    "transformation": "Fullbring form",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Human",
+      "Fullbringer",
+      "Warrior",
+      "Protector"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Karakura Town",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Yasutora Sado (Japanese: 茶渡 泰虎, Hepburn: Sado Yasutora) is a fictional character in the Japanese manga and anime series Bleach created by Tite Kubo. He is also one of Ichigo Kurosaki's friends. Because Ichigo first read Yasutora's name off a nametag, he pronounced his family name as Chad (チャド, Chado) due to the variable pronunciations of kanji, and Ichigo continues to call him this throughout the story.",
+  "note": null,
+  "source": "anime"
+}

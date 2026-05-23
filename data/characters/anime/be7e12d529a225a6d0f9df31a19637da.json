@@ -1,0 +1,494 @@
+{
+  "id": "be7e12d529a225a6d0f9df31a19637da",
+  "name": "Sanji",
+  "native_name": "サンジ",
+  "full_name": "Vinsmoke Sanji",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Vinsmoke family lineage)",
+    "bloodline": "Vinsmoke Family",
+    "height_cm": 180,
+    "weight_kg": 68,
+    "age": "19-21",
+    "birthday": "March 2",
+    "zodiac": "Pisces",
+    "blood_type": "RH- (Famous as S)",
+    "weight_kkg": null,
+    "bmi": 21,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Black curly hair",
+      "Thick eyebrows",
+      "Cigarette (often)",
+      "Very handsome"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "North Blue (Germa Kingdom)",
+    "current_location": "Thousand Sunny (Straw Hat Pirates ship)",
+    "base_of_operations": "Straw Hat Pirates",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Cook of Straw Hat Pirates",
+    "secondary": "Combatant",
+    "rank_title": "Cook",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates",
+      "Baratie (former)"
+    ],
+    "previous": [
+      "Vinsmoke Family",
+      "Baratie crew"
+    ],
+    "relatives": [
+      "Vinsmoke Judge (father)",
+      "Vinsmoke Sora (mother)",
+      "Reiju (sister)",
+      "Ichiji (brother)",
+      "Niji (brother)",
+      "Yoshi (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 20",
+    "manga": "One Piece Chapter 43",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Black Leg Style",
+      "native_name": "黒脚スタイル",
+      "description": "Martial art created by Zeff, using only kicks to preserve hands for cooking. Uses handstands for dynamic kicks.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee/Short",
+      "limit": "Cannot use hands in combat"
+    },
+    {
+      "name": "Diable Jambe",
+      "native_name": "恶魔風脚",
+      "description": "Heat legs by spinning rapidly, creating friction that ignites legs on fire. Makes kicks extremely hot.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires spinning buildup"
+    },
+    {
+      "name": "Ifrit Jambe",
+      "native_name": "イフリート風脚",
+      "description": "Enhanced Diable Jambe combined with genetic enhancements and Armament Haki. Blue-white flames.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires genetic enhancements activation"
+    },
+    {
+      "name": "Observation Haki",
+      "native_name": "見聞色の覇気",
+      "description": "Sense presence, intent, and some see into the future. Allows for precognition in battle.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Sensing",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Armament Haki",
+      "native_name": "武装色の覇気",
+      "description": "Harden body parts for offense and defense. Essential for fighting strong opponents.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Personal",
+      "limit": "Requires training"
+    },
+    {
+      "name": "Cooking Mastery",
+      "native_name": "料理の達人",
+      "description": "World-class chef skills. Can recreate any dish, cook incredibly fast.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "N/A",
+      "limit": "Not combat"
+    }
+  ],
+  "signature_moves": [
+    "Diable Jambe",
+    "Flambage Shot",
+    "Frites Assorties",
+    "Cote d'Azur"
+  ],
+  "ultimate_move": "Ifrit Jambe",
+  "trump_card": "Marriage ability activation (genetic enhancement)",
+  "power_attributes": {
+    "power_type": "Haki + Martial Arts",
+    "power_source": "Trained by Zeff + Vinsmoke genetics",
+    "combat_style": [
+      "Black Leg Style (kicks only)"
+    ],
+    "weapon": "Legs",
+    "equipment": [
+      "Raid Suit (can activate)"
+    ],
+    "trump_card": "Marriage ability activation (genetic enhancement)",
+    "ultimate_move": "Ifrit Jambe"
+  },
+  "personality": {
+    "traits": [
+      "Chivalrous",
+      "Hot-tempered",
+      "Romantic",
+      "Proud",
+      "Passionate",
+      "Loyal"
+    ],
+    "likes": [
+      "Cooking",
+      "Beautiful women",
+      "All Blue",
+      "Straw Hat crew",
+      "Zeff"
+    ],
+    "dislikes": [
+      "Disrespecting food",
+      "Zoro (rival)",
+      "Hurt women",
+      "Vinsmoke family"
+    ],
+    "fear": "Losing his crew/ability to cook",
+    "dream": "Find All Blue - legendary ocean with fish from all four seas",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Sanji goes from abusive Vinsmoke family to finding family in Zeff and Straw Hats. His dream is All Blue, and he balances being a chef with being a fighter.",
+    "motivation": "Find All Blue, protect crew, never refuse food to the hungry",
+    "affinity": "Fire/Blue",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Straw Hat Pirates Cook (5th member)",
+    "Defeated Queen with Ifrit Jambe",
+    "Master of Black Leg Style",
+    "Wielder of Diable Jambe/Ifrit Jambe",
+    "Bounty: 330,000,000 berries"
+  ],
+  "titles": [
+    "Black Leg",
+    "The Wings of the Pirate King",
+    "Mr. Prince",
+    "Ero-Cook"
+  ],
+  "bounty": {
+    "amount": 330000000,
+    "currency": "Berries",
+    "details": "Current bounty"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 85,
+    "speed": 90,
+    "durability": 75,
+    "power": 88,
+    "combat": 85,
+    "total": 503
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot attack women",
+      "Cannot use hands in combat",
+      "Fire attacks can affect himself"
+    ],
+    "factors": [
+      "Code forbids harming women",
+      "Must protect cooking hands"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None (major enemies: CP9, Queen, Kaido)",
+    "allies": [
+      "Monkey D. Luffy",
+      "Roronoa Zoro",
+      "Nami",
+      "Usopp",
+      "Sanji",
+      "Chopper",
+      "Robin",
+      "Franky",
+      "Brook",
+      "Jinbe",
+      "Zeff"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain/friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Zeff",
+        "relationship": "Mentor/father figure",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Nami",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Vinsmoke Judge",
+      "Queen",
+      "CP9 (former)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Vinsmoke Judge",
+        "relationship": "Abusive father",
+        "threat_level": "Personal"
+      },
+      {
+        "name": "Queen",
+        "relationship": "Enemy (Wano)",
+        "threat_level": "Very High"
+      }
+    ],
+    "love_interest": "Nami (and all beautiful women)",
+    "best_friend": "Luffy (crew)",
+    "rival": "Roronoa Zoro",
+    "mentor": "Red Leg Zeff",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Monkey D. Luffy",
+      "Roronoa Zoro",
+      "Nami",
+      "Usopp",
+      "Sanji",
+      "Chopper",
+      "Robin",
+      "Franky",
+      "Brook",
+      "Jinbe",
+      "Zeff",
+      "Luffy (crew)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None (major enemies: CP9, Queen, Kaido)",
+      "Roronoa Zoro"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Vinsmoke, Reiju (sibling)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Vinsmoke, Reiju (sibling)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": "Vinsmoke, Reiju",
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Roronoa Zoro"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Monkey D. Luffy",
+      "Roronoa Zoro",
+      "Nami",
+      "Usopp",
+      "Sanji",
+      "Chopper",
+      "Robin",
+      "Franky",
+      "Brook",
+      "Jinbe",
+      "Zeff",
+      "Luffy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Red Leg Zeff"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Jabra (CP9)",
+      "result": "Victory",
+      "method": "Diable Jambe"
+    },
+    {
+      "opponent": "Queen",
+      "result": "Victory",
+      "method": "Ifrit Jambe + genetic enhancement"
+    }
+  ],
+  "quotes": [
+    "I never hit a woman.",
+    "Hunger is the best seasoning.",
+    "I'll never let a hungry person go unfed.",
+    "All Blue... where chefs dream comes true!"
+  ],
+  "voice_acting": {
+    "native_language": "Hiroaki Hirata (Japanese)",
+    "note": "Known for passionate delivery",
+    "native_name": null,
+    "english": "Eric Vale",
+    "japanese": "Hiroaki Hirata"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues journey to find All Blue",
+    "transformation": "Ifrit Jambe form",
+    "awakening_potential": "Could unlock more Vinsmoke abilities",
+    "power_evolution": [
+      "Chef apprentice",
+      "Black Leg fighter",
+      "Diable Jambe user",
+      "Ifrit Jambe user"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Thousand Sunny"
+    ],
+    "vehicles": [],
+    "headquarters": "Straw Hat Pirates ship",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 19→21\nBirthday: March 2\nZodiac: Pisces\nHeight: 177 cm (5' 9\") → 180 cm (5'11\")\nBlood type: RH-\nAffiliation: Straw Hat Pirates; Baratie (former)\nPosition: Cook\nDevil Fruit: none\nBounty: \nSanji is the chain-smoking chef of the Straw Hat Pirate Crew. He has superb fighting skills that only make use of his legs, in an effort to minimize damage to his hands which would impair his cooking skills.\n\n\nSanji uses an array of powerful and varied kicking moves when he fights. His cooking skills are world class, and he was mentored in both cooking and fighting by Chef \"Red Leg\" Zeff of the Baratie. He was born in the North Blue, but grew up in the East Blue.\n\nSanji is trash-talking and serious, and usually gruff and impatient, especially around men. This is contrasted by his \"love-cook\" side, as he is very amorous around women. Sanji is completely devoted to any beautiful woman, usually losing all common sense and composure in front of them, then attempting to comically swoon them. This behavior has earned him the nickname \"ero-cook,\" or perverted cook. He can also be very chivalrous and gentlemanly around women, volunteering to help them in various tasks and situations, whether they need help or not. He has sworn to never let insult or injury happen to any woman while he can still stand, even if that woman is trying to kill him. This is often problematic in his fighting as he can't attack female opponents, and would rather die than hurt them. All this is apparently the result of a \"strict upbringing.\" To contradict his gentlemanly behavior, Sanji also enjoys seeing women wear skimpy clothing, and can be a voyeur.\n\nHis goal in life is to find the All Blue, a legendary ocean, which contains all the fish in the world. As such, it would be paradise for any cook with as much love for his work as Sanji, who holds great respect for the tools, ingredients, and art of cooking. So great is his devotion to his calling, that Sanji will not let any person or creature starve, regardless of them being friend or foe.\n\nBeing the crew's chef, he looks out for the health of his crewmates. Sanji respects Luffy as a captain, but often gets angry at him for eating too much, showing disrespect for the aesthetics of cooking, and generally being daft and irresponsible. He is constantly in petty fights with Zoro (sometimes calling him Marimo) over each others' traits and they have developed a rivalry, but have managed to make a devastating team together. He is very protective of the female crew members and Nami likes to take advantage of him, exploiting his extreme servility. Sanji originally wanted to cook Chopper, but has come to respect him as a crew member and friend. He's also good friends with Usopp; they team up and interact often, and Sanji understands him quite well. In short, he cares as much for the crew as any Straw Hat should, but unlike Zoro, Sanji shows these feelings more.",
+  "note": null,
+  "source": "anime"
+}

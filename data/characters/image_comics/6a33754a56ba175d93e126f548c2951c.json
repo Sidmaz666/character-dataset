@@ -1,0 +1,392 @@
+{
+  "name": "Battle Beast",
+  "native_name": null,
+  "full_name": "Thokk",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Alien (Unknown Species)",
+    "race": "Warrior Species",
+    "bloodline": "Thokk",
+    "height_cm": 213,
+    "weight_kg": 160,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 35.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "None (Lion mane)",
+    "skin_color": "Orange/Brown fur",
+    "notable_features": [
+      "Lion-like appearance",
+      "Massive muscular build",
+      "Battle club",
+      "Scars across body",
+      "Warrior's mane"
+    ],
+    "skin": "Orange/Brown fur",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown Alien Planet",
+    "current_location": "Unknown (Died in battle)",
+    "base_of_operations": "Nomadic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Conqueror",
+    "rank_title": "Battle Lord",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Machine Head (hired)",
+      "Viltrum Empire (brief)"
+    ],
+    "relatives": [
+      "Daughter (princess of his world)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #18 (2004)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Alien Warrior Physiology",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self"
+    },
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee"
+    },
+    {
+      "name": "Superhuman Durability",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self"
+    },
+    {
+      "name": "Master of All Weapons",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee"
+    },
+    {
+      "name": "Battle Rage",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Lion's Fury",
+    "Battle Club Annihilation",
+    "Beast's Rampage",
+    "Crushing Pounce"
+  ],
+  "ultimate_move": "Warrior's Final Battle",
+  "trump_card": "Infinite Battle Rage + Unmatched Physical Might",
+  "power_attributes": {
+    "power_type": "Alien Warrior Biology",
+    "power_source": "Unknown Alien Species Genetics",
+    "combat_style": [
+      "Brute Force",
+      "All Weapons",
+      "Berserker"
+    ],
+    "weapon": "Battle Club",
+    "equipment": [
+      "Warrior armor"
+    ],
+    "trump_card": "Infinite Battle Rage + Unmatched Physical Might",
+    "ultimate_move": "Warrior's Final Battle"
+  },
+  "personality": {
+    "traits": [
+      "Battle-hungry",
+      "Honorable",
+      "Terrifying",
+      "Bloodthirsty",
+      "Warrior's code"
+    ],
+    "likes": [
+      "Worthy opponents",
+      "Battle",
+      "Bloodshed"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Weak opponents",
+      "Peace"
+    ],
+    "fear": "Dying without a worthy battle",
+    "dream": "Find the ultimate opponent worthy of killing him",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Alien Warrior Physiology",
+      "Superhuman Strength",
+      "Superhuman Durability",
+      "Master of All Weapons"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A battle-hungry alien warrior who lives solely for combat. Hired by Machine Head as bodyguard but quickly grew bored. One of the physically strongest beings in the Invincible universe, able to nearly kill Invincible and the Guardians alone. Eventually joined Viltrumites briefly before dying in a glorious final battle against countless opponents on an alien world.",
+    "motivation": "Find and fight the worthiest opponents",
+    "affinity": "Battle/Warrior",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Nearly killed Invincible",
+    "Defeated entire Guardians of the Globe alone",
+    "Died fighting endless hordes",
+    "Most feared warrior in Invincible universe"
+  ],
+  "titles": [
+    "Battle Beast",
+    "Thokk",
+    "The Lion-Warrior",
+    "The Beast"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 40,
+    "strength": 98,
+    "speed": 82,
+    "durability": 92,
+    "power": 90,
+    "combat": 95,
+    "total": 497
+  },
+  "weaknesses": {
+    "list": [
+      "Battle-lust blinds him",
+      "Honor code",
+      "Can be bored into negligence"
+    ],
+    "factors": [
+      "Will abandon fight if bored",
+      "Does not fight dishonorably",
+      "Overconfidence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thragg (died fighting)",
+    "allies": [
+      "None (mercenary)"
+    ],
+    "enemies": [
+      "Guardians of the Globe",
+      "Invincible",
+      "Thragg"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "None (mercenary)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thragg (died fighting)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Guardians of the Globe",
+      "result": "Victory",
+      "method": "Overwhelming strength"
+    },
+    {
+      "opponent": "Thragg",
+      "result": "Death (glorious)",
+      "method": "Mutual destruction after days of combat"
+    }
+  ],
+  "quotes": [
+    "Finally! A worthy opponent!",
+    "I live for battle. I die for battle."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Dorn",
+    "english": "Michael Dorn",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died in glorious battle against Thragg's forces",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Thokk",
+      "Battle Beast",
+      "Legendary Warrior"
+    ],
+    "role": "Major Antagonist / Anti-Hero",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Alien spaceship"
+    ],
+    "vehicles": [
+      "Battle cruiser"
+    ],
+    "headquarters": "Nomadic",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "6a33754a56ba175d93e126f548c2951c",
+  "publisher": "image_comics",
+  "about": "Battle Beast may refer to:\n\nBattle Beast (video game), fighting game released for the PC\nBattle Beast (band), Finnish metal band\nBattle Beast (album), self-titled album of the band above\nBattle Beasts, line of small figurine action figure toys, in the form of an anthropomorphised animal with body armor and a unique weapon\nBattle Beast (Invincible), a fictional character in Invincible and the Image Universe",
+  "note": null,
+  "source": "image_comics"
+}

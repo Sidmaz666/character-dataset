@@ -1,0 +1,430 @@
+{
+  "id": "6da091715687b15bda8990a72f7e5560",
+  "name": "Jiraiya",
+  "native_name": "自来也",
+  "full_name": "Jiraiya",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 191,
+    "weight_kg": 87,
+    "age": "50-51",
+    "birthday": "November 11",
+    "zodiac": "Scorpio",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 23.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "White spiky hair",
+      "Scroll on back",
+      "Toad summoning",
+      "Perverted",
+      "Large stature"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Mount Myoboku",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinobi",
+    "secondary": "Toad Sage",
+    "rank_title": "One of Legendary Sannin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Mount Myoboku"
+    ],
+    "previous": [],
+    "relatives": [
+      "Naruto (godson)",
+      "Minato (student)",
+      "Tsunade (teammate)",
+      "Orochimaru (teammate)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sage Mode",
+      "native_name": "仙人モード",
+      "description": "Absorbs natural energy from Mount Myoboku. Enhanced strength, speed, sensing.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 96,
+      "range": "Self",
+      "limit": "Time limit"
+    },
+    {
+      "name": "Rasengan",
+      "native_name": "螺旋丸",
+      "description": "Created this technique. Spinning sphere of chakra. Taught to Minato and Naruto.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Toad Summoning",
+      "native_name": "蝦蟇召喚",
+      "description": "Can summon giant toads: Gamabunta, Gamakichi, etc. Powerful allies in battle.",
+      "type": "Summon",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Fire Release",
+      "native_name": "火遁",
+      "description": "Master of fire techniques. Can create massive fireballs, oil fires.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Chakra"
+    }
+  ],
+  "signature_moves": [
+    "Rasengan",
+    "Toad summoning",
+    "Sage Mode"
+  ],
+  "ultimate_move": "Sage Mode: Rasengan",
+  "trump_card": "Sage transformation",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Sage training",
+    "combat_style": [
+      "Ninjutsu",
+      "Sage"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Scroll",
+      "Summoning contract"
+    ],
+    "trump_card": "Sage transformation",
+    "ultimate_move": "Sage Mode: Rasengan"
+  },
+  "personality": {
+    "traits": [
+      "Perverted",
+      "Wise",
+      "Caring",
+      "Brave",
+      "Funny",
+      "Sacrificial"
+    ],
+    "likes": [
+      "Women",
+      "Research",
+      "Naruto",
+      "Sake",
+      "Writing"
+    ],
+    "dislikes": [
+      "Evil",
+      "War",
+      "Losing students",
+      "Orochimaru"
+    ],
+    "fear": "Failing students",
+    "dream": "See Naruto become Hokage, write book",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Jiraiya is one of Legendary Sannin, Naruto's godfather and teacher. Trained Minato, wrote Icha Icha series. Died fighting Pain, left crucial message. True hero of the story.",
+    "motivation": "Guide Naruto, protect Konoha",
+    "affinity": "Red/Toad",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Legendary Sannin",
+    "Trained Fourth Hokage",
+    "Naruto's teacher",
+    "Defeated Pain (temporarily)"
+  ],
+  "titles": [
+    "Toad Sage",
+    "Pervy Sage",
+    "Sannin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Ryo",
+    "details": "Sannin"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 85,
+    "speed": 82,
+    "durability": 88,
+    "power": 94,
+    "combat": 92,
+    "total": 531
+  },
+  "weaknesses": {
+    "list": [
+      "Perverted nature",
+      "Students' safety",
+      "Age"
+    ],
+    "factors": [
+      "Naruto",
+      "Tsunade",
+      "Orochimaru"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Orochimaru, Pain",
+    "allies": [
+      "Naruto",
+      "Tsunade",
+      "Minato",
+      "Kakashi",
+      "Gamabunta"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Godson/student",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Orochimaru",
+      "Pain",
+      "Akatsuki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Tsunade (unrequited)",
+    "best_friend": "Orochimaru (formerly), Tsunade",
+    "rival": "Orochimaru",
+    "mentor": "Third Hokage",
+    "student": "Minato, Naruto, Konohamaru",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Naruto",
+      "Tsunade",
+      "Minato",
+      "Kakashi",
+      "Gamabunta",
+      "Orochimaru (formerly), Tsunade"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Orochimaru, Pain",
+      "Orochimaru"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Orochimaru"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Minato, Naruto, Konohamaru"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Naruto",
+      "Tsunade",
+      "Minato",
+      "Kakashi",
+      "Gamabunta",
+      "Orochimaru, Tsunade"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Third Hokage"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Pain",
+      "result": "Loss (died)",
+      "method": "Sacrifice"
+    },
+    {
+      "opponent": "Orochimaru",
+      "result": "Draw",
+      "method": "Summons"
+    },
+    {
+      "opponent": "Hanzo",
+      "result": "Draw",
+      "method": "Sannin title"
+    }
+  ],
+  "quotes": [
+    "I'm Jiraiya, the Toad Sage!",
+    "Naruto, you're my masterpiece.",
+    "A true hero is not measured by size..."
+  ],
+  "voice_acting": {
+    "native_language": "Hochu Otsuka (Japanese)",
+    "note": "Wise, perverted",
+    "native_name": null,
+    "english": "David Lodge",
+    "japanese": "Houchuu Ootsuka"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died fighting Pain, left message",
+    "transformation": "Sage Mode",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Shinobi",
+      "Sannin",
+      "Sage",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mount Myoboku",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 54\nBirthday: November 11\nHoroscope: Scorpio\nBlood type: B\nHeight: 191.2 cm\nWeight: 87.5 kg\nLikes: peeping, women, garlic pickles with Japanese basil, karaage fried chicken\nDislikes: kiwi fruit, gratin\n\nJiraiya is one of the three powerful ninjas who originated from Konoha (village hidden in the leaves) and trained by the third Hokage, Hiruzen Sarutobi. His two team mates were Tsunade and Orochimaru. Later on, they became known as the Legendary Three Ninja, also known as \"Sannin.\"\n\nJiraiya is also a full-pledged pervert. He adores good looking women and gets distracted by their sight often. He often gives the reason that he is doing research for his writing. Jiraiya is the author of the Icha Icha Series which Kakashi loves to read.\n\nAmong other traits, he is a toad-tamer, with the ability to summon powerful toads at will to aid him in battle. He holds a key part in teaching and training Naruto.",
+  "note": null,
+  "source": "anime"
+}

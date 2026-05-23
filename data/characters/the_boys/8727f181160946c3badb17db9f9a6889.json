@@ -1,0 +1,398 @@
+{
+  "id": "8727f181160946c3badb17db9f9a6889",
+  "name": "Frenchie",
+  "native_name": null,
+  "full_name": "Serge",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 70,
+    "age": "30s",
+    "birthday": "April 22",
+    "zodiac": "Taurus",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Goatee",
+      "Surgical scars"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "France",
+    "current_location": "United States",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Chemist, Bomb Maker, Former Hitman",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Boys"
+    ],
+    "previous": [
+      "Criminal underworld"
+    ],
+    "relatives": [
+      "Mother (mentioned)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Chemistry Expertise",
+      "native_name": null,
+      "description": "Expert chemist who creates specialized compounds and explosives",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Requires materials"
+    },
+    {
+      "name": "Bomb Making",
+      "native_name": null,
+      "description": "Creates specialized explosives for taking down supes",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Long",
+      "limit": "Requires preparation"
+    },
+    {
+      "name": "Combat Skills",
+      "native_name": null,
+      "description": "Former assassin with knife and gun proficiency",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 55,
+      "range": "Melee",
+      "limit": "Human limitations"
+    }
+  ],
+  "signature_moves": [
+    "Carbon-Coated Bullet",
+    "Xanax Grenade",
+    "Knockout Bomb"
+  ],
+  "ultimate_move": "Vought-Sonic Frequency Attack",
+  "trump_card": "EMP RPG",
+  "power_attributes": {
+    "power_type": "Tactical Gear",
+    "power_source": "Chemistry and Technology",
+    "combat_style": [
+      "Explosives",
+      "Knife fighting"
+    ],
+    "weapon": "Knives, Guns",
+    "equipment": [
+      "Custom explosives",
+      "Chemical compounds"
+    ],
+    "trump_card": "EMP RPG",
+    "ultimate_move": "Vought-Sonic Frequency Attack"
+  },
+  "personality": {
+    "traits": [
+      "Impulsive",
+      "Guilt-ridden",
+      "Loyal",
+      "Resourceful"
+    ],
+    "likes": [
+      "Helping others",
+      "Science"
+    ],
+    "dislikes": [
+      "His past crimes",
+      "Authority"
+    ],
+    "fear": "Losing his soul",
+    "dream": "Redemption",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Resourceful",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Impulsive"
+    ]
+  },
+  "character": {
+    "arc": "Seeks redemption through helping The Boys",
+    "motivation": "Atone for past sins",
+    "affinity": "Redemption",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Developed V-counter measures",
+    "Helped track Compound V source",
+    "CreatedEMP weapon"
+  ],
+  "titles": [
+    "Frenchie",
+    "The Frenchman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted for murder"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 45,
+    "speed": 50,
+    "durability": 45,
+    "power": 50,
+    "combat": 55,
+    "total": 320
+  },
+  "weaknesses": {
+    "list": [
+      "No inherent powers",
+      "Impulsive decisions",
+      "Guilt complex"
+    ],
+    "factors": [
+      "Emotional instability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Stormfront",
+    "allies": [
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Mother's Milk",
+      "The Female"
+    ],
+    "allies_detailed": [
+      {
+        "name": "The Female",
+        "relationship": "Close connection",
+        "trust_level": "High"
+      },
+      {
+        "name": "Billy Butcher",
+        "relationship": "Leader",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Vought",
+      "Supes who harm innocents"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Stormfront",
+        "relationship": "Combat enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "The Female",
+    "rival": "Mother's Milk",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Mother's Milk",
+      "The Female"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Stormfront",
+      "Mother's Milk"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mother's Milk"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Mother's Milk",
+      "The Female"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormfront",
+      "result": "Defeat",
+      "method": "EMP worked temporarily"
+    }
+  ],
+  "quotes": [
+    "I know a little about a lot of things."
+  ],
+  "voice_acting": {
+    "native_language": "Tobias M. Daniels (English)",
+    "english": "Tobias M. Daniels",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues fighting",
+    "transformation": null,
+    "awakening_potential": "Finding purpose",
+    "power_evolution": [
+      "Criminal",
+      "Hero"
+    ],
+    "role_in_story": "Tritagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cars",
+      "Motorcycles"
+    ],
+    "vehicles": [
+      "Van"
+    ],
+    "headquarters": "Lab/workshop",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

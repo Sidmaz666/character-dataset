@@ -1,0 +1,362 @@
+{
+  "name": "Doc Seismic",
+  "native_name": null,
+  "full_name": "Doc Seismic",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 75,
+    "age": "50s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Seismic gauntlets",
+      "Underground dweller",
+      "Eccentric appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "Underground",
+    "base_of_operations": "Underground Caverns",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Eco-Terrorist",
+    "secondary": "Scientist",
+    "rank_title": "Doctor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #1 (2003)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Seismic Gauntlets",
+      "type": "Technology",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Planetary"
+    },
+    {
+      "name": "Earthquake Generation",
+      "type": "Technology",
+      "tier": "A",
+      "power_level": 80,
+      "range": "City"
+    },
+    {
+      "name": "Underground Survival",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Earthquake Wave",
+    "Seismic Rupture",
+    "Underground Ambush"
+  ],
+  "ultimate_move": "Planetary Tremor",
+  "trump_card": "Seismic Gauntlets",
+  "power_attributes": {
+    "power_type": "Seismic Technology",
+    "power_source": "Self-Built Gauntlets",
+    "combat_style": [
+      "Ranged",
+      "Area Control",
+      "Underground"
+    ],
+    "weapon": "Seismic Gauntlets",
+    "equipment": [
+      "Underground gear"
+    ],
+    "trump_card": "Seismic Gauntlets",
+    "ultimate_move": "Planetary Tremor"
+  },
+  "personality": {
+    "traits": [
+      "Insane",
+      "Paranoid",
+      "Anti-social",
+      "Radical"
+    ],
+    "likes": [
+      "Underground",
+      "Destroying surface",
+      "Nature"
+    ],
+    "dislikes": [
+      "Surface dwellers",
+      "Government",
+      "Pollution"
+    ],
+    "fear": "Surface world destroying underground",
+    "dream": "Return world to underground living",
+    "personality_type": "INTP (Insane)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Seismic Gauntlets",
+      "Earthquake Generation",
+      "Underground Survival"
+    ],
+    "weaknesses": [
+      "Paranoid"
+    ]
+  },
+  "character": {
+    "arc": "Anti-social scientist who developed gauntlets that generate seismic waves. Lives underground and emerges to attack surface dwellers. Paranoid and crazy, but his technology makes him genuinely dangerous.",
+    "motivation": "Destroy surface civilization",
+    "affinity": "Seismic/Underground",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Created seismic technology",
+    "Attacked surface multiple times"
+  ],
+  "titles": [
+    "Doc Seismic",
+    "The Earthquake Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 45,
+    "speed": 50,
+    "durability": 55,
+    "power": 78,
+    "combat": 48,
+    "total": 346
+  },
+  "weaknesses": {
+    "list": [
+      "Insanity",
+      "Human frail",
+      "Underground isolation"
+    ],
+    "factors": [
+      "Paranoia",
+      "Out of touch with reality",
+      "Technology dependent"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Invincible",
+    "allies": [
+      "Mole people"
+    ],
+    "enemies": [
+      "Invincible",
+      "Surface world"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Mole people"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Invincible"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mole people"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Invincible",
+      "result": "Loss",
+      "method": "Seismic gauntlets failure"
+    }
+  ],
+  "quotes": [
+    "The surface will tremble!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Occasionally emerging to attack",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Scientist",
+      "Doc Seismic"
+    ],
+    "role": "Minor Villain",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Underground travel"
+    ],
+    "vehicles": [
+      "Drilling machine"
+    ],
+    "headquarters": "Underground Caverns",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "bce1e0ab0ce09470ad512b62dd4b615b",
+  "publisher": "image_comics",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

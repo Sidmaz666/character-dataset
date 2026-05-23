@@ -1,0 +1,348 @@
+{
+  "id": "6d4eeb46edceb8d68572db5057d52f45",
+  "name": "Rex-Splode",
+  "native_name": null,
+  "full_name": "Rex",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "Teens",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Explosive constructs",
+      "Teen build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Teen Team HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Teen Team",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Teen Team"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Invincible",
+    "comics": "Image Comics",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Explosion Generation",
+      "native_name": null,
+      "description": "Create explosive blasts",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Self-damage"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate via explosions",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Unlimited",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Explosion Blast",
+    "Rocket Punch"
+  ],
+  "ultimate_move": "Full Power Boom",
+  "trump_card": "Nuclear Blast",
+  "power_attributes": {
+    "power_type": "Explosions",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Explosive combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      " gauntlets"
+    ],
+    "trump_card": "Nuclear Blast",
+    "ultimate_move": "Full Power Boom"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Competitive",
+      "Hot-headed",
+      "Brave"
+    ],
+    "likes": [
+      "Fighting",
+      "Being best"
+    ],
+    "dislikes": [
+      "Losing",
+      "Being upstaged"
+    ],
+    "fear": "Failure",
+    "dream": "Be the best hero",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Teen hero with explosive powers",
+    "motivation": "Prove himself",
+    "affinity": "Explosions",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Teen Team member",
+    "Numerous battles"
+  ],
+  "titles": [
+    "Rex-Splode",
+    "Rex"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 60,
+    "speed": 55,
+    "durability": 55,
+    "power": 80,
+    "combat": 55,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Self-damage",
+      "Limited control",
+      "Explosion radius"
+    ],
+    "factors": [
+      "arrogant",
+      "hot-headed"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Teen Team"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Robot",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Teen Team"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Robot"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Robot"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Teen Team"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Time to blow this joint!"
+  ],
+  "voice_acting": {
+    "native_language": "Andrew R. Young (English)",
+    "english": "Andrew R. Young",
+    "note": "Animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues heroics",
+    "transformation": null,
+    "awakening_potential": "Better control",
+    "power_evolution": [
+      "Novice",
+      "Experienced"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Teen Team HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

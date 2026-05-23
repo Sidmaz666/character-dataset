@@ -1,0 +1,363 @@
+{
+  "id": "189e272e356eaea8a7b45fed8e7c9f0c",
+  "name": "Thragg",
+  "native_name": null,
+  "full_name": "Thragg",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Viltrumite",
+    "race": "Viltrumite",
+    "bloodline": null,
+    "height_cm": 195,
+    "weight_kg": 110,
+    "age": "1000+",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 28.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin_color": "Purple",
+    "notable_features": [
+      "Viltrumite features",
+      "Scars"
+    ],
+    "skin": "Purple",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Viltrum",
+    "current_location": "Deceased",
+    "base_of_operations": "Viltrum Empire",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Emperor",
+    "secondary": "Viltrum Empire",
+    "rank_title": "Grand Regent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Viltrum Empire"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Invincible",
+    "comics": "Image Comics",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Viltrumite strength",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Viltrumite flight",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Invulnerability",
+      "native_name": null,
+      "description": "Viltrumite durability",
+      "type": "Defense",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Crushing Strike"
+  ],
+  "ultimate_move": "Full Viltrumite Power",
+  "trump_card": "Conquest Mode",
+  "power_attributes": {
+    "power_type": "Viltrumite",
+    "power_source": "Viltrumite genetics",
+    "combat_style": [
+      "Combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Conquest Mode",
+    "ultimate_move": "Full Viltrumite Power"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Ambitious",
+      "Warrior"
+    ],
+    "likes": [
+      "Conquest",
+      "Power"
+    ],
+    "dislikes": [
+      "Weakness"
+    ],
+    "fear": "None",
+    "dream": "Conquer universe",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Strength",
+      "Flight"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Viltrumite conqueror",
+    "motivation": "Conquer universe",
+    "affinity": "Conquest",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Grand Regent",
+    "Conquered many worlds"
+  ],
+  "titles": [
+    "Grand Regent",
+    "Thragg"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Too dangerous"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 90,
+    "total": 570
+  },
+  "weaknesses": {
+    "list": [
+      "Viltrumite weakness"
+    ],
+    "factors": [
+      "ruthless"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Invincible",
+    "allies": [
+      "Viltrumites"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Invincible",
+      "Omni-Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Omni-Man",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Viltrumites"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Invincible",
+      "Omni-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Omni-Man"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Viltrumites"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Invincible",
+      "result": "Defeat",
+      "method": "Killed"
+    },
+    {
+      "opponent": "Omni-Man",
+      "result": "Defeat",
+      "method": "Killed"
+    }
+  ],
+  "quotes": [
+    "Viltrum will conquer all!"
+  ],
+  "voice_acting": {
+    "native_language": "Walter Goggins",
+    "english": "Walter Goggins",
+    "note": "Animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Invincible",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Warrior",
+      "Regent"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Viltrum Empire",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

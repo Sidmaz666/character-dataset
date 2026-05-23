@@ -1,0 +1,330 @@
+{
+  "id": "bb104f37ceb928a2d5b6fb1c82832715",
+  "name": "Batwoman V",
+  "native_name": null,
+  "full_name": "Katherine Rebecca Kane",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 0,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Red",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Batman Family (unofficially)",
+      "D.E.O",
+      "Unknowns"
+    ],
+    "previous": [],
+    "relatives": [
+      "Jacob Kane (father)",
+      "Gabi Kane (mother; deceased)",
+      "Beth Kane (twin sister)",
+      "Mary Elizabeth \"Bette\" Kane (cousin)",
+      "Catherine Hamilton-Kane (stepmother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "52 #7 (June, 2006)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "C",
+      "power_level": 27,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Naive"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Created by writer Edmond Hamilton and artist Sheldon Moldoff under th"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 8,
+    "speed": 29,
+    "durability": 25,
+    "power": 27,
+    "combat": 80,
+    "total": 250
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed",
+      "low durability",
+      "limited power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Batman Family (unofficially)",
+      "D.E.O",
+      "Unknowns"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Batman Family (unofficially)",
+      "D.E.O",
+      "Unknowns"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Jada Jet"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Jada Jet"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Batman Family",
+      "D.E.O",
+      "Unknowns"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gotham City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Batwoman is a name of several superheroes appearing in American comic books published by DC Comics, depicted as female counterparts and allies of Batman similarly to Batgirl. The original version of the character, Kathy Kane (eventually given the birth name Katrina \"Luka\" Netz to differentiate the character from the newer version), was created by writer Edmond Hamilton and artist Sheldon Moldoff under the direction of editor Jack Schiff as a love interest in an attempt to combat allegations of Batman's homosexuality arising from the controversial book, Seduction of the Innocent.\nEventually, the character would be replaced in 2006 by Kate Kane, the most iconic version of the character. This version of the character is depicted as a lesbian, and is Jewish, possessing a military background, and is a wealthy heiress who becomes inspired towards vigilantism by Batman, later revealed to be his maternal cousin (Kathy being the niece of Martha Wayne). Since the character's re-introduction in 2006, the character is notably DC Comics' most highly profiled gay superhero whose sexual orientation has been subjected to attention from the general public, both positive and negative. The character's chief love interests include Maggie Sawyer and Renee Montoya. The character has also been featured in several solo ongoing series, Detective Comics, and Outsiders (2023).\nWithin media, the Batwoman character has been adapted several times with some being original incarnations, such as Ryan Wilder from The CW Batwoman television series, portrayed by Javicia Leslie. This version is the daughter of Jada Jet (based on Jezebel Jet). In the DC Animated Universe, Batwoman is depicted as three different characters sharing the codename: GCPD detective Sonia Alcana (voiced by Elisa Gabrielli), Wayne Tech employee Dr. Roxanne \"Rocky\" Ballantine (voiced by Kelly Ripa), and socialite Kathleen \"Kathy\" Duquesne (voiced by Kimberly Brooks).",
+  "note": null,
+  "source": "dc"
+}

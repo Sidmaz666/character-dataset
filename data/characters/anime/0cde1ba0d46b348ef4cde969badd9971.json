@@ -1,0 +1,451 @@
+{
+  "id": "0cde1ba0d46b348ef4cde969badd9971",
+  "name": "Eisen",
+  "native_name": "アイゼン",
+  "full_name": "Eisen",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Dwarf",
+    "race": "Dwarf",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Over 100 years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Dwarven build",
+      "Strong physique",
+      "Double-bit axe"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Traveling (formerly with Hero Party)",
+    "current_location": "Traveling (formerly with Hero Party)",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Former member of Hero Party, Teacher",
+    "rank_title": "Humanity's Strongest Warrior",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Stark's mentor"
+    ],
+    "previous": [
+      "Hero Party (Himmel, Frieren, Heiter)"
+    ],
+    "relatives": [
+      "Stark (apprentice/adopted son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren",
+    "manga": "Sousou no Frieren",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Centuries of training have given Eisen exceptional physical power. Claims he can break a diamond with his hands. Shown lifting large boulders effortlessly.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Age is catching up"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Frieren claims he could land a freefall from any height without a scratch. Can withstand dragon bites without injury. Considered humanity's most durable warrior.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "None significant"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Can sprint fast enough to run on water without falling through.",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Age is catching up"
+    },
+    {
+      "name": "Superhuman Reflexes",
+      "native_name": null,
+      "description": "Extremely fast reactions. Was the quickest to react when Rivale attacked, blocking his punch.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None significant"
+    },
+    {
+      "name": "Poison Resistance",
+      "native_name": null,
+      "description": "Abnormal resistance to poisons. Endured arrows coated with poison strong enough to knock out a dragon.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "None significant"
+    },
+    {
+      "name": "Axe Mastery",
+      "native_name": null,
+      "description": "Highly skilled with his signature double-bit battle axe. Can exchange blows with powerful demon general Rivale and wound him.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Requires weapon"
+    },
+    {
+      "name": "Lightning Strike",
+      "native_name": "Sentengeki",
+      "description": "Executes a powerful downward slash with his axe, generating a shockwave that shatters the ground.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires charged attack"
+    }
+  ],
+  "signature_moves": [
+    "Lightning Strike",
+    "Diamond Breaking Strike",
+    "Water Running"
+  ],
+  "ultimate_move": "Lightning Strike: Sentengeki",
+  "trump_card": "Centuries of Combat Experience",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Dwarven physiology, centuries of training",
+    "combat_style": [
+      "Axe Combat",
+      "Front-line Fighting",
+      "Counter-attacks"
+    ],
+    "weapon": "Double-bit Battle Axe",
+    "equipment": [
+      "Armor"
+    ],
+    "trump_card": "Centuries of Combat Experience",
+    "ultimate_move": "Lightning Strike: Sentengeki"
+  },
+  "personality": {
+    "traits": [
+      "Honest",
+      "Straightforward",
+      "Strong",
+      "Hardy",
+      "Wise"
+    ],
+    "likes": [
+      "Training warriors",
+      "Peaceful life",
+      "His students"
+    ],
+    "dislikes": [
+      "Demon King era enemies",
+      "Injustice"
+    ],
+    "fear": "Aging affects performance",
+    "dream": "To pass on his techniques to the next generation",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From humanity's strongest warrior who defeated the Demon King to a wise mentor who trains the next generation, Eisen represents the bridge between the heroic past and the hopeful future.",
+    "motivation": "Protecting others, training worthy successors",
+    "affinity": "Physical Power",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated the Demon King as part of Hero Party",
+    "Considered humanity's strongest warrior",
+    "Trained Stark",
+    "Survived demon attacks for over a century"
+  ],
+  "titles": [
+    "Humanity's Strongest Warrior",
+    "The Hero Party Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 95,
+    "speed": 80,
+    "durability": 95,
+    "power": 90,
+    "combat": 95,
+    "total": 520
+  },
+  "weaknesses": {
+    "list": [
+      "Aging affects performance",
+      "Dwarven lifespan limitation",
+      "Cannot keep up with younger warriors physically"
+    ],
+    "factors": [
+      "Old age",
+      "Physical limitations"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Rivale (Demon General)",
+    "allies": [
+      "Frieren",
+      "Himmel (deceased)",
+      "Heiter (deceased)",
+      "Stark"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Frieren",
+        "relationship": "Former Party Member",
+        "trust_level": "High"
+      },
+      {
+        "name": "Stark",
+        "relationship": "Apprentice/Adopted Son",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Himmel",
+        "relationship": "Former Party Member/Friend",
+        "trust_level": "High (deceased)"
+      }
+    ],
+    "enemies": [
+      "Demons",
+      "Demon King (deceased)",
+      "Rivale"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Rivale",
+        "relationship": "Rival",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Himmel",
+    "rival": "Rivale",
+    "mentor": null,
+    "student": "Stark",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Himmel (deceased)",
+      "Heiter (deceased)",
+      "Stark",
+      "Himmel"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Rivale (Demon General)",
+      "Rivale"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Rivale"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Stark"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Himmel",
+      "Heiter",
+      "Stark"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Demon King",
+      "result": "Victory",
+      "method": "Part of Hero Party that defeated the Demon King"
+    },
+    {
+      "opponent": "Rivale",
+      "result": "Victory",
+      "method": "Exchanged blows and wounded the demon general"
+    }
+  ],
+  "quotes": [
+    "I feel weak lately.",
+    "Take care of Stark."
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": null,
+    "native_name": null,
+    "english": "Chris Guerrero",
+    "japanese": "Youji Ueda"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently retired, passed on his techniques to Stark",
+    "transformation": null,
+    "awakening_potential": "Past prime but still formidable",
+    "power_evolution": [
+      "Young Warrior",
+      "Peak Warrior",
+      "Current Aging Warrior"
+    ],
+    "role_in_story": "Supporting (Mentor)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Major (Historical)",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Eisen is a dwarf and was the Warrior of the Hero Party. An honest, straightforward, strong, and hardy warrior.",
+  "note": null,
+  "source": "anime"
+}

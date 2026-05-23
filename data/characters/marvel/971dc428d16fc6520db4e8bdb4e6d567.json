@@ -1,0 +1,343 @@
+{
+  "id": "971dc428d16fc6520db4e8bdb4e6d567",
+  "name": "Warlord Kragos",
+  "native_name": null,
+  "full_name": "Kragos",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Alien",
+    "race": "Sakaaran",
+    "bloodline": null,
+    "height_cm": 220,
+    "weight_kg": 250,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 51.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "None",
+    "skin_color": "Green",
+    "notable_features": [
+      "Huge build",
+      "Battle armor"
+    ],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sakaar",
+    "current_location": "Sakaar",
+    "base_of_operations": "Sakaar",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warlord",
+    "secondary": "Dictator",
+    "rank_title": "Warlord",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sakaaran Empire"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Incredible Hulk #140",
+    "comics": "Incredible Hulk #140 (1971)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Sakaaran super strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Combat Skill",
+      "native_name": null,
+      "description": "Expert warrior",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Durability",
+      "native_name": null,
+      "description": "Enhanced durability",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Battle Rampage"
+  ],
+  "ultimate_move": "Conqueror's Strike",
+  "trump_card": "Superhuman Strength",
+  "power_attributes": {
+    "power_type": "Sakaaran",
+    "power_source": "Evolution",
+    "combat_style": [
+      "Warrior"
+    ],
+    "weapon": "Various weapons",
+    "equipment": [
+      "Battle armor"
+    ],
+    "trump_card": "Superhuman Strength",
+    "ultimate_move": "Conqueror's Strike"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Ambitious",
+      "War-like"
+    ],
+    "likes": [
+      "Conquest",
+      "Power"
+    ],
+    "dislikes": [
+      "Weakness"
+    ],
+    "fear": "Overconfidence",
+    "dream": "Universal conquest",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Superhuman Strength",
+      "Combat Skill",
+      "Durability"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Sakaaran warlord who enslaved villages",
+    "motivation": "Conquest",
+    "affinity": "War",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Ruled Sakaar",
+    "Conquered numerous villages"
+  ],
+  "titles": [
+    "Warlord Kragos",
+    "Conqueror"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 80,
+    "speed": 55,
+    "durability": 65,
+    "power": 60,
+    "combat": 65,
+    "total": 385
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence"
+    ],
+    "factors": [
+      "ruthless"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hulk",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Hulk",
+      "Declan"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Hulk"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sakaaran Empire"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hulk",
+      "result": "Victory",
+      "method": "Trapped in cave"
+    }
+  ],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Sakaar",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Warlord Kragos is a character from Marvel Comics who serves as Warlord. They possesses the abilities of Superhuman Strength, Combat Skill, Durability. They originates from [object Object].",
+  "note": null,
+  "source": "marvel"
+}

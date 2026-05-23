@@ -1,0 +1,329 @@
+{
+  "id": "9022949000a600b0230940815ae071b6",
+  "name": "Black Canary",
+  "native_name": null,
+  "full_name": "Laurel Lance",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Metahuman",
+    "race": "Metahuman",
+    "bloodline": null,
+    "height_cm": 170,
+    "weight_kg": 59,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Birds of Prey; formerly Justice League of America",
+      "Justice Society of America",
+      "Justice League Task Force",
+      "Justice League International",
+      "Team Arrow"
+    ],
+    "previous": [
+      "Justice League of America"
+    ],
+    "relatives": [
+      "Larry Lance (father",
+      "deceased)",
+      "Dinah Drake Lance (Black Canary",
+      "mother",
+      "deceased); Oliver Queen (Green Arrow"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Justice League of America (Volume 1) #75",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Metahuman with superhuman attributes",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 52,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Badge",
+      "Gun"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Mysterious"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "The truth being hidden",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Low durability"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
+  ],
+  "titles": [
+    "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 8,
+    "speed": 33,
+    "durability": 20,
+    "power": 52,
+    "combat": 80,
+    "total": 256
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Low durability"
+    ],
+    "factors": [
+      "physically weak",
+      "low durability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Birds of Prey; formerly Justice League of America",
+      "Justice Society of America",
+      "Justice League Task Force"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Birds of Prey; formerly Justice League of America",
+      "Justice Society of America",
+      "Justice League Task Force"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Birds of Prey; formerly Justice League of America",
+      "Justice Society of America",
+      "Justice League Task Force"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Black Canary is the name of two superheroines appearing in American comic books published by DC Comics. As one of the earliest female superheroes in the DC Comics universe, the character has made numerous appearances in prominent team-up titles, including the Justice Society of America and Justice League of America. The Black Canary persona has been adopted by two individuals, portrayed as legacy heroes with a mother-daughter relationship between the two. Following DC's New 52 initiative, Black Canary was briefly amalgamated as a single character before the mother-and-daughter dynamic was restored to continuity.\nDinah Drake, the original Black Canary, was created by the writer-artist team of Robert Kanigher and Carmine Infantino, the character debuted in Flash Comics #86 on July 31, 1947 (cover dated August 1947) in the Golden Age of Comic Books. Strong, mysterious, gutsy and romantic, she has been called \"the archetype of the new Film Noir era heroine.\" She is a prominent member of the Justice Society of America and gifted martial artist who engaged in crime-fighting exploits alongside her love interest and eventual husband, Larry Lance, a detective in Gotham City. Their union resulted in the birth of their daughter, Dinah Laurel Lance. In subsequent narratives following the Crisis on Infinite Earths event, her daughter succeeds her mother as the new Black Canary. Dinah Drake is typically depicted as a skilled hand-to-hand combatant without superhuman abilities compared to her daughter and successor. \nThe second Black Canary, Dinah Laurel Lance, was created by Dennis O'Neil and Dick Dillin, first appearing in Justice League of America #75 (November, 1969). The character is often depicted as the daughter of the original Dinah Drake, possessing metahuman abilities and being highly skilled in martial arts. She is prominently associated with the Justice League, Birds of Prey, and has had a significant relationship with Green Arrow alongside his allies. During Black Canary's brief period as a composite character in the New 52, she was known as Dinah Laurel Lance (née Drake).\nBlack Canary has been adapted into various media, including direct-to-video animated films, video games, and in live-action and animated television series. Dinah Laurel is portrayed by Rachel Skarsten in the TV series Birds of Prey, as well as in Smallville, portrayed by Alaina Huffman. Several versions appear in the TV show Arrow, with Laurel Lance being portrayed by Katie Cassidy, who also portrayed an evil version of the character named Black Siren. Dinah Drake also appears in media set in the Arrowverse, portrayed by Juliana Harkavy, while Dinah Laurel Lance’s mother (also named Dinah) is portrayed by Alex Kingston. Although the series depicts Dinah Drake and Dinah Lance, in this version, the first Canary was Sara Lance, portrayed by Caity Lotz, who inspired her older sister and successor to become a heroine after her death. The character wore a mantle similar to that of the first Black Canary from the comics. Dinah Lance made her cinematic debut in the DC Extended Universe film Birds of Prey, portrayed by Jurnee Smollett.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,374 @@
+{
+  "id": "09042882e4107390b2af96a27613e5fb",
+  "name": "Gotou, Hitori",
+  "native_name": "後藤ひとり",
+  "full_name": "Hitori Gotou",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Gotou",
+    "height_cm": 156,
+    "weight_kg": 50,
+    "age": "16-17",
+    "birthday": "August 8",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink",
+    "hair_color": "Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long pink hair",
+      "Anxious expression",
+      "Guitar"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "STARRY Live House",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Guitarist",
+    "secondary": "High school student",
+    "rank_title": "Guitar Hero",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kessoku Band"
+    ],
+    "previous": [],
+    "relatives": [
+      "Parents",
+      "Sister"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bocchi the Rock Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Guitar Playing",
+      "native_name": "ギター演奏",
+      "description": "Exceptional guitar skills",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Stage",
+      "limit": "Stage fright"
+    },
+    {
+      "name": "Music Composition",
+      "native_name": "作曲",
+      "description": "Creates original music",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Anxiety",
+      "native_name": "不安",
+      "description": "Extreme social anxiety",
+      "type": "Passive",
+      "tier": "N/A",
+      "power_level": 0,
+      "range": "Self",
+      "limit": "Always active"
+    }
+  ],
+  "signature_moves": [
+    "Guitar Solo",
+    "Guitar Hero Mode"
+  ],
+  "ultimate_move": "Perfect Performance",
+  "trump_card": "Guitar Hero Transformation",
+  "power_attributes": {
+    "power_type": "Music",
+    "power_source": "Practice",
+    "combat_style": [],
+    "weapon": "Guitar",
+    "equipment": [
+      "Gibson Les Paul",
+      "Amp"
+    ],
+    "trump_card": "Guitar Hero Transformation",
+    "ultimate_move": "Perfect Performance"
+  },
+  "personality": {
+    "traits": [
+      "Anxious",
+      "Introverted",
+      "Talented",
+      "Awkward",
+      "Determined"
+    ],
+    "likes": [
+      "Guitar",
+      "Alone time",
+      "Music"
+    ],
+    "dislikes": [
+      "Crowds",
+      "Attention",
+      "Socializing"
+    ],
+    "fear": "Public performance",
+    "dream": "Become great guitarist",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Anxious"
+    ]
+  },
+  "character": {
+    "arc": "Shut-in guitarist learning confidence",
+    "motivation": "Become better guitarist",
+    "affinity": "Music",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Member of Kessoku Band",
+    "Successful live performances",
+    "Overcame stage fright"
+  ],
+  "titles": [
+    "Guitar Hero",
+    "Bocchi-chan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 35,
+    "speed": 55,
+    "durability": 45,
+    "power": 60,
+    "combat": 25,
+    "total": 290
+  },
+  "weaknesses": {
+    "list": [
+      "Social anxiety",
+      "Panic attacks",
+      "Low self-esteem"
+    ],
+    "factors": [
+      "Crowds",
+      "Attention"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Nijika",
+      "Ryou",
+      "Ikuyo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nijika",
+        "relationship": "Band leader/Friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Ryou",
+        "relationship": "Bandmate",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Nijika",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nijika",
+      "Ryou",
+      "Ikuyo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nijika",
+      "Ryou",
+      "Ikuyo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I can't do this...",
+    "Guitar is my life."
+  ],
+  "voice_acting": {
+    "native_language": "Aoi Koga",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Yoshino Aoyama"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues in band",
+    "transformation": "Guitar Hero mode",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Shut-in",
+      "Performer"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: February 21\nHeight: 156 cm (5'1)\nBlood type: O\nAffiliation: Shuka High School, Kessoku Band\n\nA lonely and socially anxious first-year student. She is self-described as an \"in-kya\", i.e., a gloomy, indoor-dwelling outcast. She longs to join a band and become popular, and so starts playing the guitar. \n\nShe becomes the lead guitarist of Kessoku Band. Her skill is phenomenal, but she can't show it well in a band or in public. She always begins her sentences with \"Ah\".\n\n(Source: Bocchi the Rock! Wiki)",
+  "note": null,
+  "source": "anime"
+}

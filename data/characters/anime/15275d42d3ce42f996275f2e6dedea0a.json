@@ -1,0 +1,384 @@
+{
+  "id": "15275d42d3ce42f996275f2e6dedea0a",
+  "name": "Spike Spiegel",
+  "native_name": "Spike Spiegel",
+  "full_name": "Spike Spiegel",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 185,
+    "weight_kg": 70,
+    "age": "27",
+    "birthday": "Unknown",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Heterochromatic (one brown, one green)",
+    "hair_color": "Green",
+    "skin": "Fair",
+    "notable_features": [
+      "Worn-out red suit jacket",
+      "cybernetic eye",
+      "tall, lean build"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mars",
+    "current_location": "Bebop spaceship",
+    "base_of_operations": "Bebop spaceship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty Hunter",
+    "secondary": "Former Red Dragon Syndicate member",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Bebop crew"
+    ],
+    "previous": [
+      "Red Dragon Syndicate"
+    ],
+    "relatives": [
+      "Unknown"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Cowboy Bebop Episode 1",
+    "manga": "Cowboy Bebop Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Marksman",
+      "native_name": null,
+      "description": "Expert shooter with incredible accuracy using his Jericho 941",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Jeet Kune Do Mastery",
+      "native_name": null,
+      "description": "Highly skilled martial artist, founder of his own hybrid style",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Cybernetic Enhancement",
+      "native_name": null,
+      "description": "Cybernetic right eye gives enhanced vision and targeting",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Swordfish II Piloting",
+      "native_name": null,
+      "description": "Exceptional spaceship pilot, master of his customized Swordfish II",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Street Smarts",
+      "native_name": null,
+      "description": "Extensive underworld knowledge and survival instincts",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Cobra Strike",
+    "Jeet Kune Do flurry",
+    "Quickdraw"
+  ],
+  "ultimate_move": "Coat throw combo",
+  "trump_card": "His never-miss right hand shot",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Jeet Kune Do",
+      "Gun-Fu"
+    ],
+    "weapon": "Jericho 941 pistol",
+    "equipment": [
+      "Swordfish II Piloting"
+    ],
+    "trump_card": "His never-miss right hand shot",
+    "ultimate_move": "Coat throw combo"
+  },
+  "personality": {
+    "traits": [
+      "Nonchalant",
+      "Carefree facade",
+      "Burdened by past",
+      "Skilled",
+      "Loyal",
+      "Self-destructive"
+    ],
+    "likes": [
+      "Bell peppers and beef (no beef)",
+      "fighting",
+      "his Swordfish II"
+    ],
+    "dislikes": [
+      "The Syndicate",
+      "dogs",
+      "being reminded of his past"
+    ],
+    "fear": "Facing his past / Vicious",
+    "dream": "To escape his past and find peace",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Skilled",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A former syndicate hitman trying to escape his past while bounty hunting across the solar system",
+    "motivation": "To escape the Red Dragon Syndicate and find Julia",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Numerous bounty captures",
+    "Survived Red Dragon Syndicate"
+  ],
+  "titles": [
+    "The Fearless",
+    "Former Syndicate Hitman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 85,
+    "durability": 65,
+    "power": 50,
+    "combat": 95,
+    "total": 445
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Vicious",
+    "allies": [
+      "Jet Black",
+      "Faye Valentine",
+      "Edward Wong",
+      "Ein"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Vicious",
+      "Red Dragon Syndicate",
+      "various criminals"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Julia",
+    "best_friend": "Jet Black",
+    "rival": "Vicious",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jet Black",
+      "Faye Valentine",
+      "Edward Wong",
+      "Ein"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Vicious"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Vicious"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jet Black",
+      "Faye Valentine",
+      "Edward Wong",
+      "Ein"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Whatever happens, happens.",
+    "Bang.",
+    "I'm not going there to die. I'm going to find out if I'm really alive."
+  ],
+  "voice_acting": {
+    "native_language": "Koichi Yamadera",
+    "note": null,
+    "native_name": null,
+    "english": "Steve Blum",
+    "japanese": "Kōichi Yamadera"
+  },
+  "story": {
+    "status": "Unknown (presumed deceased)",
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: June 26, 2044\nHeight: 185 cm (6' 1\")\nWeight: 70 kg (155 lbs)\nBlood type: O\nPlanet of Origin: Mars\n\nSpike Spiegel is a tall and lean 27-year-old bounty hunter born on Mars. The inspiration for Spike is found in martial artist Bruce Lee who uses the martial arts style of Jeet Kune Do as depicted in Session 8, \"Waltz For Venus\". He has fluffy, dark green hair (which is inspired by Yusaku Matsuda's) and reddish brown eyes, one of which is artificial and lighter than the other. He is usually dressed in a blue leisure suit, with a yellow shirt and Lupin III inspired boots. A flashback in Session 6 revealed it was his fully functioning right eye which was surgically replaced by the cybernetic one (although Spike himself may not have conscious recollection of the procedure since he claims to have lost his natural eye in an \"accident\"). One theory is that his natural eye may have been lost during the pre-series massacre in which he supposedly \"died\". The purpose of this cybernetic eye is never explicitly stated, though it apparently gives him exceptional hand-eye coordination - particularly with firearms (Spike's gun of choice is a Jericho 941, as seen throughout the series). In the first episode, when facing a bounty-head using Red Eye, Spike mocks him, calling his moves \"too slow\". At first, this seems like posturing on Spike's part, but even with his senses and reflexes accelerated to superhuman levels by the drug, the bounty cannot even touch Spike. A recurring device throughout the entire show is a closeup on Spike's fully-natural left eye before dissolving to a flashback of his life as part of the syndicate. As said by Spike himself in the last episode, his right eye \"only sees the present\" and his left eye \"only sees the past.\" Spike often has a bent cigarette between his lips, sometimes despite rain or \"No Smoking\" signs.",
+  "note": null,
+  "source": "anime"
+}

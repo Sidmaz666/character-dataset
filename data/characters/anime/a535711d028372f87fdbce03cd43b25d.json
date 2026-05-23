@@ -1,0 +1,322 @@
+{
+  "id": "a535711d028372f87fdbce03cd43b25d",
+  "name": "Near",
+  "native_name": "",
+  "full_name": "Near",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Task Force HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Death Note",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "SPK"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Death Note",
+    "manga": "Death Note",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Deduction",
+      "type": "Mental",
+      "description": "Exceptionally skilled in logical deduction",
+      "power_level": "High"
+    },
+    {
+      "name": "Strategy",
+      "type": "Tactical",
+      "description": "Master strategist and planner",
+      "power_level": "High"
+    },
+    {
+      "name": "Investigation",
+      "type": "Mental",
+      "description": "Proficient in criminal investigation",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Deduction",
+    "Strategy",
+    "Investigation"
+  ],
+  "ultimate_move": "Deduction",
+  "trump_card": "Strategy",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Sword",
+    "equipment": [
+      "Sword",
+      "Ring"
+    ],
+    "trump_card": "Strategy",
+    "ultimate_move": "Deduction"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Calculating",
+      "Methodical",
+      "Analytical",
+      "Patient"
+    ],
+    "likes": [
+      "Learning",
+      "Peace and quiet"
+    ],
+    "dislikes": [
+      "Chaos"
+    ],
+    "fear": "Death",
+    "dream": "Unknown",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical",
+      "Intelligent",
+      "Patient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Death Note character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ayane Sakura (Japanese)"
+  ],
+  "titles": [
+    "Death Note"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 72,
+    "speed": 72,
+    "durability": 72,
+    "power": 72,
+    "combat": 72,
+    "total": 432
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Keehl, Mihael"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Keehl, Mihael",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Keehl, Mihael"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Keehl, Mihael"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "SPK"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ayane Sakura"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Hometown: Yulia City\nAge: 16\nWeight: 50 kg\nHeight: 162 cm\nOccupation: Order of Lorelei, Military Wing\nWeapon: Staves\n\nThe Fende family was originally from the Island of Hod which was destroyed in the Hod War that left a large portion of the continent devastated by its effects. The island fell into the Qliphoth, taking both Tear's mother who was pregnant with her at the time and Van, her older brother, into the miasma-filled world under Auldrant's crust.\n\nRaised by Van, the Commandant of the God-Generals, and her adopted grandfather, Mayor Teodoro of Yulia City. She quickly joined the Order of Lorelei when she was of age. She is a Locrian Sergeant in the Oracle Knights Intelligence Division, a section of the Oracle of Lorelei that presides over the Score.\n\nTear's detached demeanor came from her mentor, Legretta the Quick, Van's assistant and one of the Six God-Generals. To this day Tear considers Legretta the reason why she became so cold, concise and calculating—that and wanting Van's approval.\n\nIt has been said that Tear and her family are the descendents of Yulia, the original fonist who discovered the Seventh Fonon and as a result, Tear is able to use it. However, unlike those that are able to use the Seventh Fonon, she is currently the only one to date save for Yulia that is able to use the Grand Fonic Hymn, a compilation of seven Fonic hymns, that provide its recipient with increased statistics which makes them more or less invincible for a time.\n\nAt the start of the anime, Tear discovers that Van is determined to destroy the main world, and takes an assignment from Grand Maestro Mohs to locate the Seventh Fonstone in order to get to the Outer Lands. Along the way, she crosses through a portal and breaks into the Fabre manor where she finds Van, feigning as young Luke Fon Fabre's sword-master and mentor, and proceeds to attack him but Luke steps in the way, blocking her assault. Without either Tear or Luke knowing that he possesses the power of the Seventh Fonon, a hyperresonance occurs between them and sends the two into the Malkuth Empire.\n\nOnce realizing that they're no longer in Baticul, Tear promises to get Luke back home and they set out not knowing that they are in enemy territory. Just as they make it out of Tataroo Valley and hitch a ride on a passing wagon, they see a Colonel Jade Curtiss' dreadnaught (whom they do not know at the time) chasing another coach across toward the Rotelo Bridge. The coach tosses out some explosive barrels which destroys their quickest way out, forcing Tear and Luke to take shelter in a nearby town known as Engeve, the main farming town of the Malkuth Empire. Once they pass the threshold of the city they find themselves drawn deeper into the plot that threatens to leave Auldrant in its wake.\n\nDespite a usually cold demeanor, Tear actually loves anything cute and/or fluffy including Mieu, the bearer of the Sorcerer's Ring. Even in Tales of the World: Radiant Mythology, she thought Eugene Gallardo and Mormo were cute (much to their respective dismays).\n\nShe is modest about her own body and avoids revealing too much whenever possible. For instance when the Malkuth emperor, Peony IX, gives her a bikini that is too risqué for her, she opts out for a rented one piece with a garter belt for her throwing daggers thus giving her the title Rental Beauty. She also gets angry when her body becomes a subject of jokes, for instance, in a skit where Anise Tatlin says she dreams of having grown-up body as well developed as Tear's, Luke blurts out that there's no way Anise could develop \"melons\" (breasts) as big as hers, and Tear gets embarrassed and immediately scolds the two, forgetting their current situation. Tear is also afraid of ghosts. For example, when the party was traveling  in the mountains Jade remember the story of a ghost of the mountains and Tear walks away while trying to rushing the others but Luke asked if she was scared she immediately denies while blushing; causing them to laugh at her much to her chagrin.\n\n\nTear is mostly serious and dedicated to her duties, but she also has a charming soft spot for anything cute.\n\n(Source: Aselia - The Tales Wikia)",
+  "note": null,
+  "source": "anime"
+}

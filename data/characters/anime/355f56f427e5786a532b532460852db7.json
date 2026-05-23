@@ -1,0 +1,364 @@
+{
+  "id": "355f56f427e5786a532b532460852db7",
+  "name": "Vegeta",
+  "native_name": "ベジータ",
+  "full_name": "Prince Vegeta (Saiyan prince)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Saiyan",
+    "race": "Saiyan",
+    "bloodline": "Royal Saiyan",
+    "height_cm": 164,
+    "weight_kg": 58,
+    "age": "Adult",
+    "birthday": "October 29",
+    "zodiac": "Scorpio",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown/Blue (later)",
+    "hair_color": "Black (goes gold)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Mustache hair",
+      "Arrogant expression",
+      "Royal aura"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Planet Vegeta",
+    "current_location": "Earth",
+    "base_of_operations": "Capsule Corp",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Fighter",
+    "secondary": "Prince",
+    "rank_title": "Princely",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Z Fighters",
+      "Capsule Corp"
+    ],
+    "previous": [
+      "Frieza force"
+    ],
+    "relatives": [
+      "Bulma (wife)",
+      "Trunks/Bra (children)",
+      "King Vegeta"
+    ]
+  },
+  "first_appearance": {
+    "anime": "DBZ Episode 1",
+    "manga": "DBZ Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Final Flash",
+      "native_name": "最期",
+      "description": "Big Ki attack",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Charges"
+    },
+    {
+      "name": "Galick Gun",
+      "native_name": "王子",
+      "description": "Energy beam",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Super Saiyan 2",
+      "native_name": "超2",
+      "description": "Elite transformation",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Combat Tactis",
+      "native_name": "戦術",
+      "description": "Strategic fighter",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Varies",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Final Flash",
+    "Galick Gun",
+    "Final Shine Attack"
+  ],
+  "ultimate_move": "Final Final Flash",
+  "trump_card": "Super Saiyan Blue Evolution",
+  "power_attributes": {
+    "power_type": "Ki",
+    "power_source": "Royal Saiyan blood",
+    "combat_style": [
+      "Energy + martial"
+    ],
+    "weapon": "Galick Gun",
+    "equipment": [
+      "Galick Gun"
+    ],
+    "trump_card": "Super Saiyan Blue Evolution",
+    "ultimate_move": "Final Final Flash"
+  },
+  "personality": {
+    "traits": [
+      "Proud",
+      "Arrogant",
+      "Loyal",
+      "Competitive",
+      "Secretly caring"
+    ],
+    "likes": [
+      "Battle",
+      "Bulma",
+      "Family"
+    ],
+    "dislikes": [
+      "Losing",
+      "Kakarot"
+    ],
+    "fear": "Not being strongest",
+    "dream": "Be strongest",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Arrogant prince becomes hero",
+    "motivation": "Surpass Kakarot",
+    "affinity": "Ki",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Defeated enemies",
+    "Protected Earth",
+    "Became hero"
+  ],
+  "titles": [
+    "Prince of Saiyans",
+    "Elite warrior",
+    "Hero"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "publisher": "anime",
+  "relationships": {
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Goku"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Bulma",
+    "best_friend": "Goku",
+    "rival": "Goku",
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Goku"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Goku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Goku"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Goku"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": null,
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Arrogant"
+    ],
+    "factors": [
+      "arrogant"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "note": null,
+    "native_name": null,
+    "english": "Christopher R. Sabat",
+    "japanese": "Ryō Horikawa"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Capsule Corp",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Race: Saiyan\nBirth date: 732 Age\nHeight: 5'5\" (168 cm)\nWeight: 123 lbs (56 kg)\nHobby: Training\nFavorite food: All types of food\nFavorite vehicle: Space pod\nKnown family: King Vegeta (father), Tarble (brother), Bulma (wife), Trunks (son), Bra [Bulla] (daughter)\n\nVegeta is a fictional character from the manga series Dragon Ball, created by Akira Toriyama.\n\nAlong with Goku, Gohan and Piccolo, he is one of the most prominent characters in the series, originally starting out as a villain before becoming a mainstay hero.\n\nVegeta starts out haughty, arrogant, self-entitled and ruthless as the prince of Saiyans. His royal status caused him to develop an inflated sense of superiority and he holds himself above most, if not all people he encounters. Regal, egotistical and full of pride, Vegeta was once a ruthless, cold-blooded warrior and outright killer. However, as the story unfolds, he changes to a person capable of caring about and loving someone other than himself.\n\nVegeta was once a young member of the Saiyan army, but after his race's demise, he worked alongside Nappa and Raditz, directly under Freeza. He seeks immortality to rule the universe, but once he learns about Freeza destroying his planet from Dodoria, he resolves to take out Freeza (not to avenge his race, but to assure his own rule over the universe as well as to get back at Freeza for unknowingly using him to further his own goals). He later battles Freeza with the main cast on Namek and dies in the ensuing fights; once he is revived, he returns to Earth, where he adjusts to everyday life and remains there for good.\n\nIn Cross Epoch (the Dragon Ball and One Piece crossover one-shot) Vegeta is the captain of an air ship and is seen wearing an eye patch and a cape with a clasp featuring the Kanji character for \"vegetable.\" Trunks, Usopp and Nico Robin are members of his crew.\n\n(Source: Dragon Ball Super Exciting Guide, Character Edition)",
+  "note": null,
+  "source": "anime"
+}

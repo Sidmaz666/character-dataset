@@ -1,0 +1,442 @@
+{
+  "id": "8704945b2550fbca7d10b7fb05685698",
+  "name": "Sein",
+  "native_name": "ザイン",
+  "full_name": "Sein",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Goatee",
+      "Easygoing expression",
+      "Priest robes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Small village in Alt Woods",
+    "current_location": "Traveling with Frieren (formerly)",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Priest",
+    "secondary": "Healer, Adventurer",
+    "rank_title": "Priest",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Independent (seeking Gorilla)"
+    ],
+    "previous": [
+      "Frieren's Party",
+      "Village in Alt Woods"
+    ],
+    "relatives": [
+      "Older brother (Priest)",
+      "Gorilla (childhood friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren",
+    "manga": "Sousou no Frieren",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Goddess's Magic",
+      "native_name": null,
+      "description": "As a Priest, Sein is capable of utilizing Goddess's magic from the scriptures. Has natural resistance to curses.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Requires scripture"
+    },
+    {
+      "name": "Healing Magic",
+      "native_name": null,
+      "description": "Natural talent for healing magic. Can heal wounds, cure poisons, and remove curses. Effortlessly healed an incurable poison.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": "Requires physical contact for best results"
+    },
+    {
+      "name": "Curse Resistance",
+      "native_name": null,
+      "description": "Naturally resistant to curses as a Priest. Was completely unaffected by the Confusion Flower's sleeping curse when others succumbed.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Limited to curse-type attacks"
+    },
+    {
+      "name": "Three Spears of the Goddess",
+      "native_name": null,
+      "description": "Shoots three concentrated spears of light at a target.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Long",
+      "limit": "Less powerful than mage attacks"
+    },
+    {
+      "name": "Awakening Spell",
+      "native_name": null,
+      "description": "Can cast an awakening spell that keeps a target awake for five seconds. Useful for breaking sleep effects.",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 50,
+      "range": "Short",
+      "limit": "Very limited duration"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "native_name": null,
+      "description": "Very astute with human emotions. Quick to understand relationship dynamics and acts as mediator and adult figure.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Not combat applicable"
+    }
+  ],
+  "signature_moves": [
+    "Three Spears of the Goddess",
+    "Healing Touch",
+    "Curse Removal"
+  ],
+  "ultimate_move": "Full Goddess's Blessing",
+  "trump_card": "Natural Healing Talent",
+  "power_attributes": {
+    "power_type": "Divine Magic",
+    "power_source": "Goddess's Blessing",
+    "combat_style": [
+      "Healing",
+      "Support",
+      "Minor Offensive Magic"
+    ],
+    "weapon": "Three Spears of the Goddess",
+    "equipment": [
+      "Sacred Scripture"
+    ],
+    "trump_card": "Natural Healing Talent",
+    "ultimate_move": "Full Goddess's Blessing"
+  },
+  "personality": {
+    "traits": [
+      "Unflappable",
+      "Easygoing",
+      "Perceptive",
+      "Responsible",
+      "Laid-back"
+    ],
+    "likes": [
+      "Alcohol",
+      "Older ladies",
+      "Healing practice",
+      "Gorilla"
+    ],
+    "dislikes": [
+      "Regrets",
+      "Unfulfilled promises"
+    ],
+    "fear": "Living with regrets",
+    "dream": "To reunite with his friend Gorilla and live without regrets",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Perceptive",
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A naturally talented priest who never pursued his potential until Frieren's party showed him he could still live his life without regrets. Left the party to find his childhood friend Gorilla.",
+    "motivation": "Finding Gorilla, helping others heal",
+    "affinity": "Divine",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Joined Frieren's party temporarily",
+    "Healed incurable poison",
+    "Acted as mediator for Stark and Fern",
+    "Developed strong bonds with main cast"
+  ],
+  "titles": [
+    "Goatee Priest",
+    "The Natural Healer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 35,
+    "speed": 40,
+    "durability": 45,
+    "power": 75,
+    "combat": 45,
+    "total": 315
+  },
+  "weaknesses": {
+    "list": [
+      "Limited combat abilities",
+      "Prefers not to fight",
+      "Requires scripture for full power"
+    ],
+    "factors": [
+      "Priest class limitations",
+      "Easygoing nature"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Gorilla",
+      "Older brother"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Frieren",
+        "relationship": "Party Leader/Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Stark",
+        "relationship": "Protégé/Student",
+        "trust_level": "High"
+      },
+      {
+        "name": "Fern",
+        "relationship": "Party Member/Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Gorilla",
+        "relationship": "Childhood Friend",
+        "trust_level": "Deep"
+      }
+    ],
+    "enemies": [
+      "Chaos Flower",
+      "Demons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Chaos Flower",
+        "relationship": "Enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Gorilla",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Gorilla",
+      "Older brother"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Chaos Flower",
+      "Demons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Gorilla",
+      "Older brother"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Chaos Flower",
+      "result": "Victory",
+      "method": "Three Spears of the Goddess, resisted sleep curse"
+    }
+  ],
+  "quotes": [
+    "It's not too late to start living.",
+    "You need to be more honest with your feelings."
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": null,
+    "native_name": null,
+    "english": "Christopher Wehkamp",
+    "japanese": "Yuuichi Nakamura"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Left party to find Gorilla, will return during Foundation Festival arc",
+    "transformation": null,
+    "awakening_potential": "Has natural talent that grows stronger with practice",
+    "power_evolution": [
+      "Village Priest",
+      "Party Priest",
+      "Returning Adventurer"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Sein is a Priest from a small village, a member of Frieren's party. An unflappable and easy-going person. Acts as an adult figure, often gives advice to Stark and Fern.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "6b1535005f12c5c7b62b1829338a021c",
+  "name": "Kirarazaka, Marina",
+  "native_name": "きらざかまりな",
+  "full_name": "Kirarazaka, Marina",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Task Force HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Death Note",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Death Note",
+    "manga": "Death Note",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Deduction",
+      "type": "Mental",
+      "description": "Exceptionally skilled in logical deduction",
+      "power_level": "High"
+    },
+    {
+      "name": "Strategy",
+      "type": "Tactical",
+      "description": "Master strategist and planner",
+      "power_level": "High"
+    },
+    {
+      "name": "Investigation",
+      "type": "Mental",
+      "description": "Proficient in criminal investigation",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Deduction",
+    "Strategy",
+    "Investigation"
+  ],
+  "ultimate_move": "Deduction",
+  "trump_card": "Strategy",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Strategy",
+    "ultimate_move": "Deduction"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Calculating",
+      "Methodical",
+      "Analytical",
+      "Patient"
+    ],
+    "likes": [
+      "Learning",
+      "Peace and quiet"
+    ],
+    "dislikes": [
+      "Chaos"
+    ],
+    "fear": "Death",
+    "dream": "Unknown",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical",
+      "Intelligent",
+      "Patient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Death Note character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Yuka Terasaki (Japanese)",
+    "Voiced by Apphia Yu (English)"
+  ],
+  "titles": [
+    "Death Note"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 40,
+    "speed": 40,
+    "durability": 35,
+    "power": 30,
+    "combat": 35,
+    "total": 260
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kouzou"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Kouzou"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Kouzou"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kouzou"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Apphia Yu",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Yuka Terasaki"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The elder step-daughter of Kouzou and eldest child of Kayoko.\nShe has a French father.\n\nSeiyuu\nVisual Novel Credits:\nRino Kawajima (かわしま リの) also known as Kei Mizusawa",
+  "note": null,
+  "source": "anime"
+}

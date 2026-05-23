@@ -1,0 +1,413 @@
+{
+  "id": "c95d24a2f338f95602082c445eb3af5e",
+  "name": "Sosuke Aizen",
+  "native_name": "藍染惣右介",
+  "full_name": "Sosuke Aizen",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Shinigami (Transcendent)",
+    "race": "Soul",
+    "bloodline": "None",
+    "height_cm": 186,
+    "weight_kg": 74,
+    "age": "Unknown (appears 30s)",
+    "birthday": "May 29",
+    "zodiac": "Gemini",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 21.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Glasses (formerly)",
+      "Spiked hair",
+      "Calm expression",
+      "Tall"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Soul Society",
+    "current_location": "Hueco Mundo",
+    "base_of_operations": "Las Noches",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Former Captain (5th Division)",
+    "secondary": "Espada Leader",
+    "rank_title": "Captain (formerly)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hueco Mundo"
+    ],
+    "previous": [
+      "Soul Society",
+      "Gotei 13",
+      "5th Division"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Kyoka Suigetsu",
+      "native_name": "鏡花水月",
+      "description": "Shikai that controls all five senses. Complete hypnosis on anyone who sees it activated.",
+      "type": "Attack/Utility",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Unlimited",
+      "limit": "Must see activation"
+    },
+    {
+      "name": "Reiatsu Mastery",
+      "native_name": "霊圧",
+      "description": "Immense spiritual pressure far beyond most captains.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Area",
+      "limit": "None"
+    },
+    {
+      "name": "Kido Master",
+      "native_name": "鬼道",
+      "description": "Master of demon arts, can cast high-level Kido without incantations.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Hogyoku Fusion",
+      "native_name": "崩玉融合",
+      "description": "Fused with Hogyoku, transcended Shinigami form.",
+      "type": "Transformation",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Self",
+      "limit": "Hogyoku will"
+    }
+  ],
+  "signature_moves": [
+    "Kyoka Suigetsu",
+    "Hadou #90",
+    "Hogyoku fusion"
+  ],
+  "ultimate_move": "Transcendent form",
+  "trump_card": "Hogyoku",
+  "power_attributes": {
+    "power_type": "Reiatsu",
+    "power_source": "Soul + Hogyoku",
+    "combat_style": [
+      "Kido",
+      "Sword"
+    ],
+    "weapon": "Kyoka Suigetsu (zanpakuto)",
+    "equipment": [
+      "Hogyoku"
+    ],
+    "trump_card": "Hogyoku",
+    "ultimate_move": "Transcendent form"
+  },
+  "personality": {
+    "traits": [
+      "Manipulative",
+      "Intelligent",
+      "Calm",
+      "Arrogant",
+      "Ambitious",
+      "Cold"
+    ],
+    "likes": [
+      "Power",
+      "Control",
+      "Transcendence",
+      "Order"
+    ],
+    "dislikes": [
+      "Being questioned",
+      "Weakness",
+      "Soul Society rules"
+    ],
+    "fear": "None",
+    "dream": "Transcend god, create new world",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Cold",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Aizen was the traitorous captain who faked his death, manipulated everyone, and sought to transcend all beings using the Hogyoku.",
+    "motivation": "Become god, overthrow Soul Society",
+    "affinity": "Blue/Deception",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "5th Division Captain",
+    "Hogyoku creator",
+    "Espada leader",
+    "Betrayed Soul Society",
+    "Transcended being"
+  ],
+  "titles": [
+    "Captain",
+    "Traitor",
+    "Transcendent"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Criminal"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 90,
+    "speed": 85,
+    "durability": 92,
+    "power": 99,
+    "combat": 95,
+    "total": 559
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Hogyoku's will",
+      "Blind to emotions"
+    ],
+    "factors": [
+      "Pride",
+      "Underestimating bonds"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ichigo Kurosaki",
+    "allies": [
+      "Gin Ichimaru (former)",
+      "Kaname Tosen (former)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Gotei 13",
+      "Ichigo",
+      "Urahara"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "None",
+    "best_friend": "None",
+    "rival": "Urahara, Yamamoto",
+    "mentor": "None",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gin Ichimaru (former)",
+      "Kaname Tosen (former)",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ichigo Kurosaki",
+      "Urahara, Yamamoto"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Urahara, Yamamoto"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gin Ichimaru",
+      "Kaname Tosen",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ichigo Kurosaki",
+      "result": "Defeat",
+      "method": "Final Getsuga Tenshou"
+    },
+    {
+      "opponent": "Yamamoto",
+      "result": "Drew",
+      "method": "Illusion"
+    }
+  ],
+  "quotes": [
+    "Since when were you under the impression...",
+    "I alone am the one who can overturn this world",
+    "Admire me"
+  ],
+  "voice_acting": {
+    "native_language": "Show Hayami (Japanese)",
+    "note": "Calm, smooth voice",
+    "native_name": null,
+    "english": "Kyle Hebert",
+    "japanese": "Show Hayami"
+  },
+  "story": {
+    "status": "Imprisoned",
+    "fate": "Sealed in Muken prison",
+    "transformation": "Hogyoku transcendent",
+    "awakening_potential": "Sealed",
+    "power_evolution": [
+      "Captain",
+      "Traitor",
+      "Transcendent",
+      "Prisoner"
+    ],
+    "role_in_story": "Main Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Muken (imprisoned)",
+    "story_importance": "Main Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Sosuke Aizen (Japanese: 藍（あい）染（ぜん） 惣（そ）右（う）介（すけ）, Hepburn: Aizen Sosuke) is a fictional character in the Japanese manga and anime series Bleach created by Tite Kubo. He is the main antagonist of the first part of the story of Bleach. Serving as captain of the Fifth Division of Soul Reapers when he is introduced, Aizen later fakes his death and horribly betrays the Soul Society in search of immense power to overthrow and defeat the Soul King, before Ichigo Kurosaki and Kisuke Urahara defeat him in the newest iteration. His former lieutenant is Momo Hinamori.",
+  "note": null,
+  "source": "anime"
+}

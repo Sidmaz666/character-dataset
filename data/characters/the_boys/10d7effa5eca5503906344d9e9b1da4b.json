@@ -1,0 +1,312 @@
+{
+  "name": "Lenny Butcher",
+  "native_name": null,
+  "full_name": "Lenny Butcher",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Butcher",
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "Adult (deceased)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Younger brother",
+      "Resembles Billy",
+      "Tragic"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "London, UK",
+    "current_location": "Deceased",
+    "base_of_operations": "Deceased",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": [
+      "Billy Butcher (brother)",
+      "Sam Butcher (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": "None",
+  "trump_card": "Billy Butcher's Motivation",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "None",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Billy Butcher's Motivation",
+    "ultimate_move": "None"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Tragic",
+      "Victim"
+    ],
+    "likes": [
+      "Peace",
+      "His brother"
+    ],
+    "dislikes": [
+      "Their abusive father"
+    ],
+    "fear": "His father",
+    "dream": "Escape their father",
+    "personality_type": "ISFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [],
+    "weaknesses": [
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Billy Butcher's younger brother who suffered alongside Billy from their abusive father. His death (or disappearance) profoundly shaped Billy into who he became. Represents Billy's first failure to protect someone he loved.",
+    "motivation": "Survive (failed)",
+    "affinity": "Tragedy",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Lenny Butcher",
+    "Billy's Brother"
+  ],
+  "titles": [
+    "Lenny Butcher",
+    "Billy's Brother"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 45,
+    "speed": 50,
+    "durability": 40,
+    "power": 10,
+    "combat": 30,
+    "total": 225
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Tragic past",
+      "Victim"
+    ],
+    "factors": [
+      "Vulnerable",
+      "Deceased"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Sam Butcher (abusive father, shared with Billy)",
+    "allies": [
+      "Billy Butcher"
+    ],
+    "enemies": [
+      "Their father"
+    ],
+    "love_interest": null,
+    "best_friend": "Billy Butcher",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Billy Butcher"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sam Butcher (abusive father, shared with Billy)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Becky Saunders (wife)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Becky Saunders (wife)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Billy Butcher"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died young",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Child",
+      "Lenny",
+      "Deceased"
+    ],
+    "role": "Backstory Character",
+    "role_in_story": null,
+    "awakening_potential": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "London (formerly)",
+    "story_importance": "Backstory",
+    "note": null
+  },
+  "id": "10d7effa5eca5503906344d9e9b1da4b",
+  "publisher": "the_boys",
+  "about": "Butcher, Baker, Candlestickmaker is a six-issue comic book limited series by Garth Ennis and Darick Robertson. Originally published as a spin-off of The Boys, set between issues #59 and #60, following villain protagonist Billy Butcher as he attends his father's funeral before thinking back on his origin story, serving in the Royal Marines, fighting in the Falklands War, meeting and then losing his wife Becky Saunders, and joining the CIA and in-turn the Supe-focused black ops group The Boys following her death. Butcher, Baker, Candlestickmaker was collected in trade paperback in March 2012 as the tenth volume of The Boys, as The Boys: Butcher, Baker, Candlestickmaker.",
+  "note": null,
+  "source": "the_boys"
+}

@@ -1,0 +1,334 @@
+{
+  "name": "Seth Reed",
+  "native_name": null,
+  "full_name": "Seth Reed",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 78,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Vought PR",
+      "Professional",
+      "Media-savvy"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought Tower",
+    "current_location": "Vought Tower",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vought PR",
+    "secondary": null,
+    "rank_title": "Vought PR Director",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Media Manipulation",
+      "type": "Mental",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Self"
+    },
+    {
+      "name": "Crisis Management",
+      "type": "Mental",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Press Conference",
+    "Media Spin"
+  ],
+  "ultimate_move": "Damage Control",
+  "trump_card": "PR Expertise",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "Vought",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      null
+    ],
+    "trump_card": "PR Expertise",
+    "ultimate_move": "Damage Control"
+  },
+  "personality": {
+    "traits": [
+      "Professional",
+      "Cunning",
+      "Media-savvy",
+      "Vought loyal",
+      "Nervous"
+    ],
+    "likes": [
+      "Clean PR",
+      "Vought success",
+      "Media control"
+    ],
+    "dislikes": [
+      "Scandals",
+      "Bad press",
+      "Homelander incidents"
+    ],
+    "fear": "PR disaster",
+    "dream": "Perfect Vought image",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Vought PR team member responsible for managing the public image of supes and covering up their scandals. Works alongside Ashley to keep disasters out of the media.",
+    "motivation": "Control Vought's public image",
+    "affinity": "Corporate",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Vought PR operations"
+  ],
+  "titles": [
+    "Seth Reed",
+    "Vought PR"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 40,
+    "speed": 45,
+    "durability": 40,
+    "power": 50,
+    "combat": 20,
+    "total": 265
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "No powers",
+      "Vought dependency"
+    ],
+    "factors": [
+      "Normal human"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought",
+      "Ashley"
+    ],
+    "enemies": [
+      "The Boys (indirectly)"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "Ashley"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys (indirectly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "Ashley"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought PR",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "PR person",
+      "Seth Reed"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "7f9d2a9b49781b97dcff37d4ed0f1534",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

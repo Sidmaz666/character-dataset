@@ -1,0 +1,366 @@
+{
+  "id": "d2727b95ff6e52268172c7d82a9a0191",
+  "name": "Aizen, Sousuke",
+  "native_name": "藍染惣右介",
+  "full_name": "Sousuke Aizen",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Soul Reaper/Arrancar",
+    "race": "Soul",
+    "height_cm": 185,
+    "weight_kg": 75,
+    "age": "Unknown",
+    "birthday": "May 29",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Gemini",
+    "weight_kkg": null,
+    "bmi": 21.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Fair",
+    "notable_features": "Gentle smile hides cunning, glasses",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Soul Society",
+    "current_location": "Hueco Mundo/Central True World",
+    "base_of_operations": "Hueco Mundo/Central True World",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Captain/Traitor",
+    "secondary": "Founder of Arrancar",
+    "rank_title": "Captain of 5th Division (former), Lord of Las Noches",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Own faction"
+    ],
+    "previous": [
+      "Gotei 13"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Kyoshi: Goke",
+      "native_name": "京楽: 五大",
+      "description": "Freezes anything it cuts; absolute freeze",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95
+    },
+    {
+      "name": "Shikai: Kyoka Suigetsu",
+      "native_name": "鏡花水月",
+      "description": "Complete hypnosis once seen",
+      "type": "Support",
+      "tier": "S+",
+      "power_level": 100
+    },
+    {
+      "name": "Hollowfication",
+      "native_name": "虚化",
+      "description": "Become Arrancar-like form",
+      "type": "Transformation",
+      "tier": "S+",
+      "power_level": 100
+    },
+    {
+      "name": "Kendo",
+      "native_name": "剣道",
+      "description": "Master swordsman skills",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90
+    }
+  ],
+  "signature_moves": [
+    "Kyoka Suigetsu hypnosis"
+  ],
+  "ultimate_move": "Complete hypnosis once opponent sees bankai",
+  "trump_card": "Freezing zanpakuto + hollow power",
+  "power_attributes": {
+    "power_type": "Zanpakuto/Hollow",
+    "power_source": "Soul Reaper + Arrancar evolution",
+    "combat_style": [
+      "Sword mastery",
+      "Kido",
+      "Hypnosis"
+    ],
+    "weapon": "Sword mastery",
+    "equipment": [
+      "Kendo"
+    ],
+    "trump_card": "Freezing zanpakuto + hollow power",
+    "ultimate_move": "Complete hypnosis once opponent sees bankai"
+  },
+  "personality": {
+    "traits": [
+      "Calculating",
+      "Charismatic",
+      "Patient",
+      "Manipulative",
+      "Intellectual"
+    ],
+    "likes": [
+      "Tea",
+      "Classical music",
+      "His plans working"
+    ],
+    "dislikes": [
+      "Interruption",
+      "being controlled"
+    ],
+    "fear": "Nothing - believes himself supreme",
+    "dream": "Rule all realms",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Master manipulator becomes god",
+    "motivation": "Create new world without Soul King",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Created Arrancar army",
+    "Defeated by Ichigo",
+    "Became ruler of Hueco Mundo",
+    "Absorbed Hogyoku twice",
+    "Transcended to new form"
+  ],
+  "titles": [
+    "The Lord of Las Noches",
+    "Captain betrayer",
+    "Hogyoku master",
+    "Transcendent being"
+  ],
+  "bounty": {
+    "amount": "Infinite",
+    "currency": "Soul Society",
+    "details": "Priceless due to threat level"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 95,
+    "speed": 95,
+    "durability": 95,
+    "power": 100,
+    "combat": 100,
+    "total": 585
+  },
+  "relationships": {
+    "protectors": "Gin Ichimaru, Tosen Kaname",
+    "servants": "Numerous Arrancar",
+    "obsession": "Hiyori MIP (dislike)",
+    "target": "Hogyoku",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Hogyoku",
+      "Hiyori MIP"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Hogyoku",
+      "Hiyori MIP (dislike)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Own faction"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ichigo Kurosaki",
+      "result": "Victory initially",
+      "method": "Superior power"
+    },
+    {
+      "opponent": "Multiple captains",
+      "result": "Victory",
+      "method": "Kyoka Suigetsu hypnosi"
+    }
+  ],
+  "quotes": [
+    "Stand from the top of the pyramid.",
+    "This world is meaningless - I will create new meaning."
+  ],
+  "voice_acting": {
+    "native_language": "Junichi Suwabe",
+    "note": null,
+    "native_name": null,
+    "english": "Kyle Hebert",
+    "japanese": "Shō Hayami"
+  },
+  "story": {
+    "status": "Imprisoned in Muken",
+    "fate": "Eternal sleep in special prison",
+    "transformation": [
+      "Hollow/Arrancar form",
+      "Transcendent form"
+    ],
+    "role_in_story": "Main villain (Soul Society arc)",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "weaknesses": {
+    "list": [
+      "Manipulative"
+    ],
+    "factors": [
+      "manipulative"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hueco Mundo/Central True World",
+    "story_importance": "Main villain (Soul Society arc)",
+    "note": null
+  },
+  "about": "Sosuke Aizen (Japanese: 藍（あい）染（ぜん） 惣（そ）右（う）介（すけ）, Hepburn: Aizen Sosuke) is a fictional character in the Japanese manga and anime series Bleach created by Tite Kubo. He is the main antagonist of the first part of the story of Bleach. Serving as captain of the Fifth Division of Soul Reapers when he is introduced, Aizen later fakes his death and horribly betrays the Soul Society in search of immense power to overthrow and defeat the Soul King, before Ichigo Kurosaki and Kisuke Urahara defeat him in the newest iteration. His former lieutenant is Momo Hinamori.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,363 @@
+{
+  "name": "War Woman",
+  "native_name": null,
+  "full_name": "War Woman",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Warrior armor",
+      "Amazonian build",
+      "Mace weapon"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Guardians HQ (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Guardian",
+    "rank_title": "Guardian of the Globe",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe (Original)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee"
+    },
+    {
+      "name": "Warrior Combat",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee"
+    },
+    {
+      "name": "Enhanced Durability",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self"
+    },
+    {
+      "name": "Flight (limited)",
+      "type": "Physical",
+      "tier": "C",
+      "power_level": 60,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Warrior Mace Strike",
+    "Amazon Slam",
+    "Battle Cry Charge"
+  ],
+  "ultimate_move": "War Woman Fury",
+  "trump_card": "Amazonian Warrior Training",
+  "power_attributes": {
+    "power_type": "Enhanced Human",
+    "power_source": "Unknown (Mutation/Training)",
+    "combat_style": [
+      "Warrior",
+      "Melee",
+      "Aggressive"
+    ],
+    "weapon": "Mace",
+    "equipment": [
+      "Warrior armor"
+    ],
+    "trump_card": "Amazonian Warrior Training",
+    "ultimate_move": "War Woman Fury"
+  },
+  "personality": {
+    "traits": [
+      "Fierce",
+      "Warrior spirit",
+      "Heroic",
+      "Brave"
+    ],
+    "likes": [
+      "Battle",
+      "Justice",
+      "Teamwork"
+    ],
+    "dislikes": [
+      "Cowardice",
+      "Evil",
+      "Villains"
+    ],
+    "fear": "Failing her team",
+    "dream": "Peace through strength",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Heroic",
+      "Fierce"
+    ],
+    "weaknesses": [
+      "Limited",
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Original Guardian of the Globe, the team's equivalent of Wonder Woman. Killed by Omni-Man during his betrayal alongside the other original Guardians. Her death was one of the first and most shocking moments.",
+    "motivation": "Protect Earth as a Guardian",
+    "affinity": "Warrior",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Original Guardian of the Globe"
+  ],
+  "titles": [
+    "War Woman",
+    "Guardian"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 82,
+    "speed": 68,
+    "durability": 75,
+    "power": 72,
+    "combat": 85,
+    "total": 442
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability",
+      "Mortality",
+      "Limited range"
+    ],
+    "factors": [
+      "No true invulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Omni-Man (killer)",
+    "allies": [
+      "Guardians of the Globe (original)"
+    ],
+    "enemies": [
+      "Omni-Man",
+      "Villains"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians of the Globe (original)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Omni-Man (killer)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians of the Globe"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Death",
+      "method": "Overwhelmed by Viltrumite strength with rest of Guardians"
+    }
+  ],
+  "quotes": [
+    "For the Guardians!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Omni-Man",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "",
+      "War Woman"
+    ],
+    "role": "Supporting Hero",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight (limited)"
+    ],
+    "vehicles": [],
+    "headquarters": "Guardians HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "2845e18c4068f3214078b71a5c68993f",
+  "publisher": "image_comics",
+  "about": "Nancy Morgan Hart (c. 1741–1830) was a rebel heroine of the American Revolutionary War, noted for her exploits against Loyalists in the northeast Georgia backcountry. She is characterized as a tough, strong and resourceful frontier woman who repeatedly outsmarted Tory soldiers, and killed some outright. Stories about her are mostly unsupported by contemporary documentation, and it has been impossible for researchers to entirely distinguish fact from folklore.",
+  "note": null,
+  "source": "image_comics"
+}

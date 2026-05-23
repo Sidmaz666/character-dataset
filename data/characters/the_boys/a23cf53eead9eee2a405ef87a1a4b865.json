@@ -1,0 +1,337 @@
+{
+  "name": "Joe Kessler",
+  "native_name": null,
+  "full_name": "Joe Kessler",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Hallucination",
+    "race": "Human (mental construct)",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "Variable",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Military demeanor",
+      "Old friend appearance",
+      "Scars"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Butcher's mind",
+    "current_location": "Butcher's mind",
+    "base_of_operations": "Butcher's mind",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hallucination",
+    "secondary": "Butcher's inner demon",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV Season 4)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Psychic Projection",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self (Butcher)"
+    },
+    {
+      "name": "Inner Voice Manifestation",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Psychological Pressure",
+    "Dark Motivation"
+  ],
+  "ultimate_move": "Butcher's Dark Truth",
+  "trump_card": "Represents Butcher's worst impulses",
+  "power_attributes": {
+    "power_type": "Psychological",
+    "power_source": "Butcher's mental breakdown (Compound V)",
+    "combat_style": [
+      "Non-physical",
+      "Psychological"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Represents Butcher's worst impulses",
+    "ultimate_move": "Butcher's Dark Truth"
+  },
+  "personality": {
+    "traits": [
+      "Violent",
+      "Unhinged",
+      "Manipulative",
+      "Dark"
+    ],
+    "likes": [
+      "Violence",
+      "Revenge",
+      "Blood"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Mercy",
+      "Hesitation"
+    ],
+    "fear": "Butcher going soft",
+    "dream": "Complete genocide of supes",
+    "personality_type": "ESTP (Dark)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Psychic Projection",
+      "Inner Voice Manifestation"
+    ],
+    "weaknesses": [
+      "Violent",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "A hallucination of Billy Butcher's old army friend Joe Kessler, manifesting as Butcher's darkest impulses. Represents Butcher's desire for total supe genocide. Appears due to Butcher's Compound V-enhanced brain tumor.",
+    "motivation": "Push Butcher to total supe genocide",
+    "affinity": "Dark/Psychological",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Voiced by Jeffrey Dean Morgan (English)"
+  ],
+  "titles": [
+    "Joe Kessler",
+    "The Hallucination",
+    "Butcher's Demon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 10,
+    "speed": 10,
+    "durability": 10,
+    "power": 40,
+    "combat": 10,
+    "total": 140
+  },
+  "weaknesses": {
+    "list": [
+      "Not real",
+      "Only affects Butcher",
+      "Mental construct"
+    ],
+    "factors": [
+      "Only Butcher sees him",
+      "Disappears if Butcher heals"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Butcher (his host)"
+    ],
+    "enemies": [
+      "All supes (through Butcher)"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Butcher (his host)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "All supes (through Butcher)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Butcher"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Finish them all, Billy. Every last one."
+  ],
+  "voice_acting": {
+    "native_language": "Jeffrey Dean Morgan",
+    "english": "Jeffrey Dean Morgan",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active (in Butcher's mind)",
+    "fate": "Manifesting Butcher's worst impulses",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Hallucination",
+      "Dark Voice"
+    ],
+    "role": "Supporting",
+    "role_in_story": null,
+    "awakening_potential": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Butcher's mind",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "a23cf53eead9eee2a405ef87a1a4b865",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

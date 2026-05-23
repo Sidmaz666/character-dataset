@@ -1,0 +1,424 @@
+{
+  "id": "c25bd20ea7f0a51f9997e636312e7de6",
+  "name": "Silver Surfer",
+  "native_name": "Norrin Radd",
+  "full_name": "Norrin Radd",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human / Zenn-La",
+    "race": "Zenn-La",
+    "bloodline": null,
+    "height_cm": 193,
+    "weight_kg": 88,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Silver",
+    "hair_color": "Silver",
+    "skin_color": "Silver metallic",
+    "notable_features": [
+      "Silver metallic skin",
+      "Silver surfboard"
+    ],
+    "skin": "Silver metallic",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Zenn-La",
+    "current_location": "The cosmos",
+    "base_of_operations": "Mobile throughout the universe",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Herald of Galactus",
+    "secondary": "Free agent / Protector of Earth",
+    "rank_title": "Former Herald",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Galaxy",
+      "Fantastic Four"
+    ],
+    "previous": [
+      "Galactus heralds"
+    ],
+    "relatives": [
+      "Shalla-Bal (mate)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Fantastic Four #48 (March 1966)",
+    "comics": "Fantastic Four #48",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Power Cosmic",
+      "native_name": null,
+      "description": "Limitless energy source that grants countless abilities including superhuman strength, immortality, cosmic awareness, energy manipulation, molecular manipulation",
+      "type": "Attack/Defense/Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Originally bound to serve Galactus"
+    },
+    {
+      "name": "Cosmic Awareness",
+      "native_name": null,
+      "description": "Ability to perceive everything happening in the universe at any given moment",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Universal",
+      "limit": "Can be overwhelming"
+    },
+    {
+      "name": "Molecular Manipulation",
+      "native_name": null,
+      "description": "Ability to manipulate the molecular structure of objects, transmuting matter",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Planetary",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Energy Absorption",
+      "native_name": null,
+      "description": "Can absorb and redirect any form of energy",
+      "type": "Defense/Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Surfboard Flight",
+      "native_name": null,
+      "description": "Travels at speeds approaching 500,000 light years per second",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Interdimensional",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Cosmic Bolts",
+    "Power Cosmic Blast",
+    "Matter Transmutation"
+  ],
+  "ultimate_move": "终极宇���爆弹 (Total universal destruction)",
+  "trump_card": "Full Power Cosmic Unleashing",
+  "power_attributes": {
+    "power_type": "Power Cosmic",
+    "power_source": "Galactus",
+    "combat_style": [
+      "Energy Manipulation",
+      "Flight"
+    ],
+    "weapon": "Surfboard",
+    "equipment": [
+      "Silver Surfboard"
+    ],
+    "trump_card": "Full Power Cosmic Unleashing",
+    "ultimate_move": "终极宇���爆弹 (Total universal destruction)"
+  },
+  "personality": {
+    "traits": [
+      "Melancholic",
+      "Philosophical",
+      "Noble",
+      "Brooding"
+    ],
+    "likes": [
+      "Freedom",
+      "Beauty",
+      "Protecting worlds"
+    ],
+    "dislikes": [
+      "Galactus",
+      "Serving others"
+    ],
+    "fear": "Losing his soul",
+    "dream": "Freeedom for his homeworld Zenn-La",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Power Cosmic",
+      "Cosmic Awareness",
+      "Molecular Manipulation",
+      "Energy Absorption"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Evolved from faithful herald to independent hero seeking redemption",
+    "motivation": "Protecting innocent worlds from harm",
+    "affinity": "Cosmic",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Saved Earth from Galactus multiple times",
+    "Became one of the most powerful beings in the universe",
+    "Broke free from Galactus' service"
+  ],
+  "titles": [
+    "The Silver Surfer",
+    "Herald of Galactus",
+    "Norrin Radd"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 70,
+    "total": 558
+  },
+  "weaknesses": {
+    "list": [
+      "Emotionally vulnerable when disconnected from Power Cosmic",
+      "Psychological limits from his guilt"
+    ],
+    "factors": [
+      "Psychological manipulation",
+      "Power Cosmic deprivation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Galactus",
+    "allies": [
+      "Fantastic Four",
+      "Alicia Masters",
+      "Guardians of the Galaxy"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Alicia Masters",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      },
+      {
+        "name": "Mister Fantastic",
+        "relationship": "Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Galactus",
+      "Thanos",
+      "Ego"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Galactus",
+        "relationship": "Former master",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Alicia Masters",
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Galactus",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Fantastic Four",
+      "Alicia Masters",
+      "Guardians of the Galaxy"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Galactus"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Fantastic Four",
+      "Alicia Masters",
+      "Guardians of the Galaxy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Galactus"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Galactus",
+      "result": "Draw",
+      "method": "Convinced by Alicia to spare Earth"
+    },
+    {
+      "opponent": "Hulk",
+      "result": "Draw",
+      "method": "Battle on Sakaar"
+    }
+  ],
+  "quotes": [
+    "The path to salvation lies through damnation",
+    "I have seen the face of the universe"
+  ],
+  "voice_acting": {
+    "native_language": "Norrin Radd",
+    "english": "John Patrick Hayden (animated), Doug Jones (live-action)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues protecting the cosmos",
+    "transformation": "Transformed into Silver Surfer by Galactus",
+    "awakening_potential": "Limitless",
+    "power_evolution": [
+      "Herald of Galactus",
+      "Free hero"
+    ],
+    "role_in_story": "Major supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Silver Surfboard"
+    ],
+    "vehicles": [
+      "Silver Surfboard"
+    ],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "The Silver Surfer is a superhero appearing in American comic books published by Marvel Comics. The character also appears in a number of movies, television, and video game adaptations. The character was created by Jack Kirby and first appeared in the comic book Fantastic Four #48, published in 1966. The Silver Surfer is a humanoid alien with metallic skin who can travel through space with the aid of his surfboard-like craft. Originally a young astronomer named Norrin Radd on the planet Zenn-La, he saved his homeworld from the planet devourer, Galactus, by serving as his herald. Imbued in return with some portion of Galactus's Power Cosmic, he acquired vast power, a new body and a surfboard-like craft on which he could travel faster than light.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,437 @@
+{
+  "id": "ae3b7d5ac5b64d4b2af11fb3dbaa08c6",
+  "name": "William T. Riker",
+  "native_name": null,
+  "full_name": "William Thomas Riker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Riker",
+    "height_cm": 188,
+    "weight_kg": 85,
+    "age": "34 when joining Enterprise-D",
+    "birthday": "2354",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde (dark hair with age)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Athletic build",
+      "Distinguished beard",
+      "Commander bearing"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Alaska, Earth",
+    "current_location": "USS Titan",
+    "base_of_operations": "USS Enterprise (various), USS Titan",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "First Officer",
+    "secondary": "Captain",
+    "rank_title": "Captain (formerly Commander)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "USS Pegasus",
+      "USS Potemkin",
+      "USS Enterprise-D/E"
+    ],
+    "relatives": [
+      "Kyle Riker (father)",
+      "Elizabeth Riker (mother, deceased)",
+      "Thaddeus Riker (ancestor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Next Generation (1987) - \"Encounter at Farpoint\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Klingon Combat",
+      "native_name": null,
+      "description": "Trained in Klingon martial arts, served aboard Pagh",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee",
+      "limit": "Less than full Klingons"
+    },
+    {
+      "name": "Anbo-jitsu",
+      "native_name": null,
+      "description": "Martial arts combat form with staffs",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "Requires physical contact"
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Excellent command presence when needed, took over Enterprise when Picard was Borg",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Preferred to follow rather than lead"
+    }
+  ],
+  "signature_moves": [
+    "Anbo-jitsu Combat",
+    "Leadership from Front",
+    "Riker Takedown"
+  ],
+  "ultimate_move": "Taking Command of Enterprise Against Borg",
+  "trump_card": "Q's Powers (briefly accepted then rejected)",
+  "power_attributes": {
+    "power_type": "Combat",
+    "power_source": "Training/Experience",
+    "combat_style": [
+      "Anbo-jitsu",
+      "Starfleet Combat",
+      "Klingon Training"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Anbo-jitsu Staff",
+      "Phaser"
+    ],
+    "trump_card": "Q's Powers (briefly accepted then rejected)",
+    "ultimate_move": "Taking Command of Enterprise Against Borg"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Loyal",
+      "Ambitious",
+      "Playful",
+      "Protective"
+    ],
+    "likes": [
+      "Music",
+      "Socializing",
+      "Deanna Troi",
+      "Adventure"
+    ],
+    "dislikes": [
+      "Responsibility of Command",
+      "Bureaucracy",
+      "Being Second Best"
+    ],
+    "fear": "Being Trapped in One Place Forever",
+    "dream": "His Own Command (eventually achieved)",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Charismatic",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From ambitious young officer to experienced first officer who chose staying with Picard over his own command, finally accepted captaincy",
+    "motivation": "Proving himself worthy while staying loyal to Picard",
+    "affinity": "Command",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Graduated 8th in Starfleet Academy class",
+    "First Federation officer to serve on Klingon vessel",
+    "Refused three captaincy offers to stay with Enterprise",
+    "Rescued Picard from Borg",
+    "Served 15+ years as Enterprise first officer",
+    "Eventually commanded USS Titan"
+  ],
+  "titles": [
+    "Number One",
+    "Commander Riker",
+    "Captain Riker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 80,
+    "speed": 78,
+    "durability": 80,
+    "power": 75,
+    "combat": 85,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Reluctance to Accept Promotion",
+      "Party Lifestyle",
+      "Trust in Father Issues"
+    ],
+    "factors": [
+      "Turned down command multiple times",
+      "Social life sometimes interfered"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Locutus (Picard as Borg)",
+    "allies": [
+      "Jean-Luc Picard",
+      "Deanna Troi",
+      "Data",
+      "Worf"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jean-Luc Picard",
+        "relationship": "Captain and mentor",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Deanna Troi",
+        "relationship": "Counselor, wife",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Data",
+        "relationship": "Crewmate and friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Borg",
+      "Ferengi"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Locutus",
+        "relationship": "Former friend now enemy (Borg)",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Deanna Troi",
+    "best_friend": "Jean-Luc Picard",
+    "rival": "Kira (no actual rivalry)",
+    "mentor": "Jean-Luc Picard",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jean-Luc Picard",
+      "Deanna Troi",
+      "Data",
+      "Worf"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Locutus (Picard as Borg)",
+      "Kira (no actual rivalry)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kira"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jean-Luc Picard",
+      "Deanna Troi",
+      "Data",
+      "Worf"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jean-Luc Picard"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Borg",
+      "result": "Victory",
+      "method": "Tactical plan to rescue Picard from Cube"
+    },
+    {
+      "opponent": "Q (temporarily)",
+      "result": "Draw",
+      "method": "Briefly accepted Q's powers then rejected them"
+    },
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Away team leader"
+    }
+  ],
+  "quotes": [
+    "There's a lot of things that are going to happen that we can't predict.",
+    "You're not the first officer I would have chosen. But you're certainly the one I would have wanted.",
+    "I'm not in the habit of doing what I'm told."
+  ],
+  "voice_acting": {
+    "native_language": "Jonathan Frakes",
+    "english": "Jonathan Frakes",
+    "note": "Also directed several Star Trek episodes",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Accepted captaincy of USS Titan",
+    "transformation": "Grew from ambitious lieutenant to experienced captain",
+    "awakening_potential": "Commanded own starship exploring the unknown",
+    "power_evolution": [
+      "Ensign",
+      "Lieutenant",
+      "Commander/First Officer",
+      "Captain"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise-D",
+      "USS Enterprise-E",
+      "USS Titan"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "Various ships",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "William Thomas \"Will\" Riker is a fictional character in the Star Trek universe appearing primarily as a main character in Star Trek: The Next Generation, portrayed by Jonathan Frakes. Throughout the series and its accompanying films, he is the Enterprise's first officer, and briefly captain, until he accepts command of the USS Titan at the end of Star Trek: Nemesis. He is the husband of Deanna Troi.",
+  "note": null,
+  "source": "star_trek"
+}

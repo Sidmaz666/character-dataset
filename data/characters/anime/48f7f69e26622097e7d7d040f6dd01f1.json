@@ -1,0 +1,397 @@
+{
+  "id": "48f7f69e26622097e7d7d040f6dd01f1",
+  "name": "Killua Zoldyck",
+  "native_name": "キルア=ゾルディック",
+  "full_name": "Killua Zoldyck",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Assassin)",
+    "bloodline": "Zoldyck Family",
+    "height_cm": 158,
+    "weight_kg": 45,
+    "age": "12",
+    "birthday": "July 7",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Silver/White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Silver hair",
+      "Cat-like eyes",
+      "Casual clothes",
+      "Calm expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Kukuroo Mountain",
+    "current_location": "Hunter Exam",
+    "base_of_operations": "None (traveler)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter",
+    "secondary": "Assassin (former)",
+    "rank_title": "Rookie Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hunter Association",
+      "Zoldyck Family"
+    ],
+    "previous": [
+      "Assassin family"
+    ],
+    "relatives": [
+      "Silva Zoldyck (father)",
+      "Kikyo Zoldyck (mother)",
+      "Illumi (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter Episode 1",
+    "manga": "Hunter x Hunter Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Transmutation",
+      "native_name": "変化系",
+      "description": "Transforms aura into electricity. Fast and deadly.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee/Short",
+      "limit": "Range"
+    },
+    {
+      "name": "Godspeed",
+      "native_name": "神速",
+      "description": "Automatic electric defense and超 speed movement.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Assassin Skills",
+      "native_name": "暗殺術",
+      "description": "Trained killer with poison resistance, stealth, and combat skills.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Mental blocks"
+    }
+  ],
+  "signature_moves": [
+    "Godspeed",
+    "Electric shock",
+    "Assassin techniques"
+  ],
+  "ultimate_move": "Godspeed (full)",
+  "trump_card": "Electricity",
+  "power_attributes": {
+    "power_type": "Nen",
+    "power_source": "Transmutation",
+    "combat_style": [
+      "Assassination",
+      "Nen"
+    ],
+    "weapon": "Yo-yos",
+    "equipment": [
+      "Yo-yos"
+    ],
+    "trump_card": "Electricity",
+    "ultimate_move": "Godspeed (full)"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Loyal",
+      "Intelligent",
+      "Protective",
+      "Sarcastic",
+      "Caring"
+    ],
+    "likes": [
+      "Gon",
+      "Chocolate",
+      "Adventure",
+      "Freedom"
+    ],
+    "dislikes": [
+      "Family expectations",
+      "Being controlled",
+      "Hurt friends"
+    ],
+    "fear": "Hurting friends",
+    "dream": "Be free, protect Gon",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Killua escapes his assassin family to become a Hunter and find freedom with Gon.",
+    "motivation": "Freedom, protect Gon",
+    "affinity": "Blue/Electricity",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Hunter Exam pass",
+    "Greed Island clear",
+    "Escaped family"
+  ],
+  "titles": [
+    "Assassin heir",
+    "Gon's best friend"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 80,
+    "speed": 92,
+    "durability": 78,
+    "power": 88,
+    "combat": 90,
+    "total": 516
+  },
+  "weaknesses": {
+    "list": [
+      "Family trauma",
+      "Protective of Gon",
+      "Emotional"
+    ],
+    "factors": [
+      "Gon in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hisoka, Illumi",
+    "allies": [
+      "Gon",
+      "Kurapika",
+      "Leorio"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gon Freecss",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Illumi"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Alluka (sister)",
+    "best_friend": "Gon",
+    "rival": "Hisoka",
+    "mentor": "Wing, Biscuit",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gon",
+      "Kurapika",
+      "Leorio"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hisoka, Illumi",
+      "Hisoka"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hisoka"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gon",
+      "Kurapika",
+      "Leorio"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Wing, Biscuit"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Illumi",
+      "result": "Victory",
+      "method": "Godspeed"
+    },
+    {
+      "opponent": "Rammot",
+      "result": "Victory",
+      "method": "Godspeed"
+    }
+  ],
+  "quotes": [
+    "I don't want to kill anyone anymore.",
+    "Gon is my best friend.",
+    "I'm not going back."
+  ],
+  "voice_acting": {
+    "native_language": "Mariya Ise (Japanese)",
+    "note": "Calm voice",
+    "native_name": null,
+    "english": "Annika Odegard",
+    "japanese": "Kanako Mitsuhashi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Traveling with Gon",
+    "transformation": "Godspeed",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Assassin",
+      "Hunter",
+      "Nen user",
+      "Free"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Traveling",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 12 (Beginning), 14-15 (Current)\nBirthday: July 7th (2011), June 15th (1999)\nHeight: 158 cm \nWeight: 45 kg\nEye Color: Blue\nBlood Type: A\nOccupation: Assassin (Formerly), Hunter\nNen Type: Transmutation\nEquipment: Skateboard, Yo-Yos\nAbilities: \nKillua Zoldyck is the third child of Silva and Kikyo Zoldyck and the heir (former) of the Zoldyck Family. He is the deuteragonist of the series Hunter x Hunter.\n\nKillua is introduced as a character similar to Gon: cheeky, cheerful, and full of bad ideas. However, contrasting Gon's politeness, Killua can be pretty rude to others, mostly strangers and older people. He is also one of the quickest-thinking characters and often analyzes a situation with great ease and accuracy. Despite his young age, his way of thinking, knowledge, and pragmatism give him the attitude of an adult. He is initially very confident about his abilities and able to gauge other people's abilities accurately.\n\nA stark contrast to his best friend Gon, Killua is highly mature in both thinking and emotion. He can keep his anger in check and maintain rationality better than Gon even when facing a terrifying experience.\n\n\n\nCharacter Background:\n\nTimeline:\n\nHunter Exam Arc:\n\nZoldyck Family Arc:\n\nHeavens Arena Arc:\n\n\nYorknew City Arc:\n\n\nGreed Island Arc:\n\n\n\nChimera Ant Arc:\n\n\n\n\nElection Arc:\n\n\n(Source: Hunterpedia Wiki)",
+  "note": null,
+  "source": "anime"
+}

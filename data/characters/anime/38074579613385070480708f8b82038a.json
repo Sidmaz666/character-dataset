@@ -1,0 +1,443 @@
+{
+  "id": "38074579613385070480708f8b82038a",
+  "name": "Methode",
+  "native_name": "メトーデ",
+  "full_name": "Methode",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Tall stature",
+      "Elegant appearance",
+      "Warm demeanor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Various",
+    "current_location": "Various",
+    "base_of_operations": "Imperial Magic Association",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "First-Class Mage",
+    "secondary": "Demon Subjugation Specialist",
+    "rank_title": "First-Class Mage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Imperial Magic Association",
+      "Frieren's allies"
+    ],
+    "previous": [
+      "First-Class Mage Exam candidates"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren",
+    "manga": "Sousou no Frieren",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mana Detection",
+      "native_name": null,
+      "description": "Remarkable mana detection abilities. Can detect Spiegel clones of mages, locate hidden targets within labyrinths, and accurately grasp battle situations.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Cannot detect Frieren's mana suppression"
+    },
+    {
+      "name": "Restraint Magic",
+      "native_name": null,
+      "description": "Powerful binding magic powerful enough to work on Fern, though it failed against Frieren's immense mana.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Less effective against vastly superior mages"
+    },
+    {
+      "name": "Hypnosis Magic",
+      "native_name": null,
+      "description": "Skilled user of hypnosis spells. Can accurately gauge a person's resistance to mental magic and penetrate mental defenses.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Medium",
+      "limit": "Requires eye contact"
+    },
+    {
+      "name": "Recovery Magic",
+      "native_name": null,
+      "description": "Possesses sacred scripture and can use Magic of the Goddess, a form of recovery magic. Extremely rare for a mage to have healing abilities.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Limited healing capacity"
+    },
+    {
+      "name": "High Mana Output",
+      "native_name": null,
+      "description": "Possesses high mana output comparable to Frieren's suppressed mana. This allows her restraint magic to work on most mages.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "Cannot match true elite mages"
+    },
+    {
+      "name": "Combat Support",
+      "native_name": null,
+      "description": "Claims to excel at stalling opponents. Uses tactical maneuvers and support magic to control battle situations.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Medium",
+      "limit": "Not good against very fast opponents"
+    },
+    {
+      "name": "Mist Dispelling",
+      "native_name": "Erilfrachte",
+      "description": "Can analyze demonic magic and dispel mist, useful against illusion-based attacks.",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Medium",
+      "limit": "Situational"
+    }
+  ],
+  "signature_moves": [
+    "Restraint Binding",
+    "Hypnosis Wave",
+    "Mana Detection Field",
+    "Mist Eradication"
+  ],
+  "ultimate_move": "Complete Restraint Field",
+  "trump_card": "Versatile All-Rounder Combat",
+  "power_attributes": {
+    "power_type": "Mana/Magic",
+    "power_source": "Imperial Magic Training",
+    "combat_style": [
+      "Tactical Combat",
+      "Support Magic",
+      "Detection",
+      "Restraint"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Sacred Scripture"
+    ],
+    "trump_card": "Versatile All-Rounder Combat",
+    "ultimate_move": "Complete Restraint Field"
+  },
+  "personality": {
+    "traits": [
+      "Kind-hearted",
+      "Polite",
+      "Friendly",
+      "Intelligent",
+      "Loves cute things"
+    ],
+    "likes": [
+      "Small cute girls",
+      "Patting elves on head",
+      "Magic",
+      "Frieren",
+      "Serie"
+    ],
+    "dislikes": [
+      "Demons",
+      "Injustice"
+    ],
+    "fear": "Not effective against very fast opponents",
+    "dream": "To excel at magic through love and dedication",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A versatile first-class mage who passed the exam by showing no fear of Serie and viewing her as cute, Methode represents the ideal well-rounded mage who excels at support, detection, and combat control.",
+    "motivation": "Mastering magic, protecting others from demons",
+    "affinity": "Mana",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Passed First-Class Mage Exam",
+    "Specialized in demon subjugation",
+    "Assisted Frieren's party in Rufen Region",
+    "Possesses rare recovery magic"
+  ],
+  "titles": [
+    "First-Class Mage",
+    "The All-Rounder"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 40,
+    "speed": 55,
+    "durability": 55,
+    "power": 82,
+    "combat": 65,
+    "total": 382
+  },
+  "weaknesses": {
+    "list": [
+      "Not effective against very fast opponents",
+      "Restraint magic fails against vastly superior mana",
+      "Cannot detect Frieren's full power"
+    ],
+    "factors": [
+      "Speed-based attackers",
+      "Mana disparity"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Denken",
+      "Serie"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Frieren",
+        "relationship": "Ally/Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Serie",
+        "relationship": "Senior Mage",
+        "trust_level": "Respectful"
+      }
+    ],
+    "enemies": [
+      "Demons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gargoyles",
+        "relationship": "Enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Denken",
+      "Serie"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Fern",
+      "Stark",
+      "Denken",
+      "Serie"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Frieren",
+      "result": "Defeat",
+      "method": "Restraint and hypnosis magic failed against her immense mana"
+    },
+    {
+      "opponent": "Gargoyles",
+      "result": "Victory",
+      "method": "Beam-like offensive magic"
+    }
+  ],
+  "quotes": [
+    "I thought you were small and cute.",
+    "Magic is something I love, not just a tool for battle."
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": null,
+    "native_name": null,
+    "english": "Caitlin Glass",
+    "japanese": "Reina Ueda"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Active as First-Class Mage, assisting in demon subjugation",
+    "transformation": null,
+    "awakening_potential": "Has shown versatile abilities, room for growth",
+    "power_evolution": [
+      "Exam Candidate",
+      "First-Class Mage"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Imperial Magic Association",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Methode is a strong mage. She possesses the magic of detection and mental magic, as well as hypnosis. Kind-hearted, polite and friendly girl. Methode thinks elves are very cute and likes to pat Serie and Frieren on the head when she gets the chance.",
+  "note": null,
+  "source": "anime"
+}

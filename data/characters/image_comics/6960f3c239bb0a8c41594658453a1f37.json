@@ -1,0 +1,371 @@
+{
+  "name": "Darkwing",
+  "native_name": null,
+  "full_name": "Darkwing (Real Name Unknown)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 85,
+    "age": "40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Dark cape",
+      "Bat-like suit",
+      "Cowl",
+      "Dark and brooding"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown City (Earth)",
+    "current_location": "Midnight City",
+    "base_of_operations": "Midnight City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": null,
+    "rank_title": "Darkwing",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe (formerly)"
+    ],
+    "previous": [],
+    "relatives": [
+      "Darkwing II (successor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Peak Human Condition",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    },
+    {
+      "name": "Martial Arts Mastery",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee"
+    },
+    {
+      "name": "Detective Skills",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self"
+    },
+    {
+      "name": "Gadgetry",
+      "type": "Technology",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Darkwing Strike",
+    "Shadow Dive",
+    "Cape Combat"
+  ],
+  "ultimate_move": "Darkwing Justice",
+  "trump_card": "Peak Human Combat + Gadgets",
+  "power_attributes": {
+    "power_type": "Peak Human",
+    "power_source": "Training",
+    "combat_style": [
+      "Stealth",
+      "Martial Arts",
+      "Intimidation"
+    ],
+    "weapon": "Utility gadgets",
+    "equipment": [
+      "Cape",
+      "Cowl",
+      "Gadgets"
+    ],
+    "trump_card": "Peak Human Combat + Gadgets",
+    "ultimate_move": "Darkwing Justice"
+  },
+  "personality": {
+    "traits": [
+      "Brooding",
+      "Determined",
+      "Dark",
+      "Heroic"
+    ],
+    "likes": [
+      "Justice",
+      "Night",
+      "Vengeance"
+    ],
+    "dislikes": [
+      "Crime",
+      "Injustice",
+      "Light"
+    ],
+    "fear": "Failing his city",
+    "dream": "Rid city of crime",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "The Batman-like vigilante of the Invincible universe. A dark and brooding hero who joined the Guardians of the Globe. Killed by Omni-Man during his betrayal along with the other original Guardians.",
+    "motivation": "Protect his city from crime",
+    "affinity": "Darkness/Vigilante",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Original Guardian of the Globe",
+    "Protected Midnight City"
+  ],
+  "titles": [
+    "Darkwing",
+    "The Dark Vigilante"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 68,
+    "speed": 72,
+    "durability": 65,
+    "power": 60,
+    "combat": 82,
+    "total": 425
+  },
+  "weaknesses": {
+    "list": [
+      "Human fragility",
+      "No superpowers"
+    ],
+    "factors": [
+      "Vulnerable to superhumans"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Guardians of the Globe"
+    ],
+    "enemies": [
+      "Omni-Man",
+      "Criminals"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": "Darkwing II",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians of the Globe"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Omni-Man",
+      "Criminals"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Darkwing II"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians of the Globe"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Death",
+      "method": "Overwhelmed by Viltrumite strength"
+    }
+  ],
+  "quotes": [
+    "The night is my ally."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Omni-Man",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Man",
+      "Darkwing"
+    ],
+    "role": "Supporting Hero",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Grappling hook"
+    ],
+    "vehicles": [
+      "Darkwing vehicle"
+    ],
+    "headquarters": "Midnight City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "6960f3c239bb0a8c41594658453a1f37",
+  "publisher": "image_comics",
+  "about": "Darkwing may refer to:\n\nDarkwing (novel), a novel by Kenneth Oppel\nThe Dark Wing, a 2001 science fiction novel by Walter H. Hunt\nDarkwing Duck, Disney cartoon character\nDarkwing, a fictional bat monster associated with Kamen Rider Knight\nDarkwing, a fictional superhero, member of the Guardians of the Globe in the Invincible franchise\nDarkwing, a character from The Transformers",
+  "note": null,
+  "source": "image_comics"
+}

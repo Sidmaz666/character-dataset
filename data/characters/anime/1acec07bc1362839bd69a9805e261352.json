@@ -1,0 +1,459 @@
+{
+  "id": "1acec07bc1362839bd69a9805e261352",
+  "name": "Madara Uchiha",
+  "native_name": "うちはマダラ",
+  "full_name": "Madara Uchiha",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Uchiha Clan",
+    "bloodline": "Uchiha",
+    "height_cm": 189,
+    "weight_kg": 71,
+    "age": "90+ (at death)",
+    "birthday": "December 24",
+    "zodiac": "Capricorn",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 19.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black (Red with Sharingan)",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long black hair",
+      "Sharingan",
+      "Rinnegan",
+      "Armor",
+      "Scars"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Hidden Leaf Village",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinobi",
+    "secondary": "Co-founder of Konoha",
+    "rank_title": "Leader of Uchiha Clan",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Akatsuki (manipulator)"
+    ],
+    "previous": [
+      "Konohagakure",
+      "Uchiha Clan"
+    ],
+    "relatives": [
+      "Izuna Uchiha (brother)",
+      "Indra Otsutsuki (ancestor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Shippuden Episode 134",
+    "manga": "Naruto Chapter 370",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sharingan",
+      "native_name": "写輪眼",
+      "description": "Copy wheel eye - can copy jutsu, predict movements, see chakra.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Visual",
+      "limit": "Chakra consumption"
+    },
+    {
+      "name": "Mangekyou Sharingan",
+      "native_name": "万華鏡写輪眼",
+      "description": "Advanced Sharingan form with Susanoo and other powers.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Vision loss"
+    },
+    {
+      "name": "Eternal Mangekyou",
+      "native_name": "永遠の万華鏡写輪眼",
+      "description": "Perfect Sharingan without vision loss. Obtained from Izuna's eyes.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Rinnegan",
+      "native_name": "輪廻眼",
+      "description": "Sage of Six Paths eyes. Controls life and death, six paths techniques.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Global",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Susanoo",
+      "native_name": "須佐能乎",
+      "description": "Massive chakra avatar. Perfect Susanoo can destroy mountains.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Area",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Wood Release",
+      "native_name": "木遁",
+      "description": "Combines earth and water. Can create forests and wooden constructs.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Infinite Tsukuyomi",
+      "native_name": "無限月読",
+      "description": "World-wide genjutsu that traps everyone in eternal dream.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Global",
+      "limit": "Rinnegan required"
+    }
+  ],
+  "signature_moves": [
+    "Susanoo",
+    "Perfect Susanoo",
+    "Wood Release",
+    "Infinite Tsukuyomi"
+  ],
+  "ultimate_move": "Infinite Tsukuyomi",
+  "trump_card": "Six Paths Power",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Six Paths",
+    "combat_style": [
+      "Ninjutsu",
+      "Genjutsu",
+      "Taijutsu"
+    ],
+    "weapon": "Gunbai (war fan)",
+    "equipment": [
+      "Armor",
+      "Gunbai"
+    ],
+    "trump_card": "Six Paths Power",
+    "ultimate_move": "Infinite Tsukuyomi"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Powerful",
+      "Visionary",
+      "Ruthless",
+      "Determined",
+      "Manipulative"
+    ],
+    "likes": [
+      "Power",
+      "Peace through strength",
+      "Hashirama",
+      "Dreams"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Betrayal",
+      "Reality",
+      "Conflict"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Infinite Tsukuyomi - eternal peace",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Powerful"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Ruthless",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Madara is the legendary Uchiha who founded Konoha with Hashirama. Believes infinite dream world is only path to peace. Main antagonist of Naruto.",
+    "motivation": "Create eternal peace through Infinite Tsukuyomi",
+    "affinity": "Fire/Wood",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Co-founded Konoha",
+    "Awakened Rinnegan",
+    "Cast Infinite Tsukuyomi",
+    "Defeated Five Kage"
+  ],
+  "titles": [
+    "Ghost of the Uchiha",
+    "Savior",
+    "Madara of the Sharingan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Ryo",
+    "details": "Missing-nin"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 92,
+    "speed": 90,
+    "durability": 95,
+    "power": 100,
+    "combat": 98,
+    "total": 570
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Obsession with dreams",
+      "Trusts Zetsu"
+    ],
+    "factors": [
+      "Hashirama",
+      "Izuna's death"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hashirama Senju",
+    "allies": [
+      "Obito",
+      "Zetsu",
+      "Kaguya (manipulated)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Obito Uchiha",
+        "relationship": "Manipulated ally",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Hashirama",
+      "Konoha",
+      "Allied Shinobi"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Hashirama (formerly)",
+    "rival": "Hashirama",
+    "mentor": "None",
+    "student": "Obito (manipulated)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Obito",
+      "Zetsu",
+      "Kaguya (manipulated)",
+      "Hashirama (formerly)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hashirama Senju",
+      "Hashirama"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hashirama"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Obito"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Obito",
+      "Zetsu",
+      "Kaguya",
+      "Hashirama"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hashirama",
+      "result": "Loss (Final)",
+      "method": "Valley of the End"
+    },
+    {
+      "opponent": "Five Kage",
+      "result": "Victory",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Naruto/Sasuke",
+      "result": "Defeated",
+      "method": "Sealed"
+    }
+  ],
+  "quotes": [
+    "Wake up to reality!",
+    "In this world, wherever there is light - there are also shadows.",
+    "Power is neither gained nor given, it is stolen."
+  ],
+  "voice_acting": {
+    "native_language": "Naoya Uchida (Japanese)",
+    "note": "Deep, commanding",
+    "native_name": null,
+    "english": "English]]",
+    "japanese": "Japanese]]"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Sealed by Hagoromo's spirit",
+    "transformation": "Ten-Tails Jinchuriki",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Uchiha Leader",
+      "Missing-nin",
+      "Edo Tensei",
+      "Ten-Tails",
+      "Sealed"
+    ],
+    "role_in_story": "Main Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Valley of the End",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: December 24\nClassification: Missing-nin\nOccupation: Co-founder of Konohagakure, Leader of the Uchiha clan\nAffiliation: Konohagakure\nClan: Uchiha clan\nManga Debut: Chapter #370\nAnime Debut: Naruto Shippūden Episode #130\n\nMadara Uchiha (うちはマダラ, Uchiha Madara) was a legendary ninja who led the Uchiha clan prior to and after the formation of Konohagakure.\n\nBefore the era of ninja villages, Madara and his younger brother, Izuna, were considered the most gifted members of the Uchiha clan. Even by his clan's standards, Madara's chakra was especially strong. He grew up constantly competing and training with Izuna and in their efforts to surpass each other, each gained their own Mangekyō Sharingan. With the power of the Mangekyō the two brothers took control of the clan, with Madara as its leader. Under his leadership, the clan conquered all they came across. Because of the never-ending series of battles of the time, Madara eventually began to suffer from overuse of the Mangekyō Sharingan, leaving him blind. In order to regain his sight he took Izuna's eyes for himself, granting him an \"eternal\" Mangekyō Sharingan with which he led the Uchiha clan to prosperity.\n\nOver the years, the Uchiha had constantly fought with the equally powerful Senju clan and as such, Madara had an undying rivalry with Hashirama Senju, the leader of the Senju clan. To bring an end to the constant fighting, Hashirama approached the Uchiha with an offer of peace. Although Madara never wanted peace with the Senju, the rest of the Uchiha wished to end the fighting, and Madara had no choice but to accept. The Senju, the Uchiha, and all the clans they had conquered came together to form the village of Konohagakure.\n\nSome time later, the villagers of Konoha selected Hashirama as the village's first Hokage much to Madara's dismay. Madara feared that Hashirama would oppress the Uchiha, and tried to rally support for challenging his leadership. Rather than help him, the Uchiha turned their backs on him, believing he only desired to rekindle the flames of war.\n\nSoon after being rejected the position of Hokage and being abandoned by his clan, Madara left the village, and sought out Nine-Tails. He later returned in order to challenge Hashirama in battle. They fought at the site that would someday be called the Valley of the End, where Madara was defeated, despite having Nine-Tails at his side. Control of Nine-Tails was ultimately taken from him and Madara died.",
+  "note": null,
+  "source": "anime"
+}

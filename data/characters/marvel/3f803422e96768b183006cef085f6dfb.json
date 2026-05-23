@@ -1,0 +1,397 @@
+{
+  "id": "3f803422e96768b183006cef085f6dfb",
+  "name": "Iron Fist",
+  "native_name": "Danny Rand",
+  "full_name": "Daniel Thomas Rand",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 79,
+    "age": "Unknown",
+    "birthday": "August 21",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 24.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": "Dragon symbol on chest",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York",
+    "current_location": "New York",
+    "base_of_operations": "New York",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Martial Artist / Hero",
+    "secondary": "CEO of Rand-Moun",
+    "rank_title": "Immortal Iron Fist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Defenders",
+      "X-Men"
+    ],
+    "previous": [
+      "Heroes for Hire"
+    ],
+    "relatives": [
+      "Harold (uncle)",
+      "Wendy (aunt)",
+      "Colleen Wing (wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Marvel Premiere #15 (May 1974)",
+    "comics": "Marvel Premiere #15",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Iron Fist",
+      "native_name": null,
+      "description": "Channel chi into fist - able to shatter diamond and steel",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires chi focus"
+    },
+    {
+      "name": "Chi Manipulation",
+      "native_name": null,
+      "description": "Control over spiritual energy for healing and offense",
+      "type": "Attack/Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Healing Factor",
+      "native_name": null,
+      "description": "Can heal injuries and cure poisons through chi",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self/Others",
+      "limit": null
+    },
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Master of all K'un-Lun martial arts",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Pressure Point Strike",
+      "native_name": null,
+      "description": "Can knock out or paralyze with strikes",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Shatterpoint strike",
+    "Flying kick",
+    "Dragon strike"
+  ],
+  "ultimate_move": "Full power Iron Fist",
+  "trump_card": "Chi supernova",
+  "power_attributes": {
+    "power_type": "Chi",
+    "power_source": "Shou-Lao the dragon",
+    "combat_style": [
+      "Martial arts"
+    ],
+    "weapon": "Pressure Point Strike",
+    "equipment": [
+      "Sword",
+      "Tool"
+    ],
+    "trump_card": "Chi supernova",
+    "ultimate_move": "Full power Iron Fist"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Honorable",
+      "Disciplined",
+      "Compassionate"
+    ],
+    "likes": [
+      "Justice",
+      "Training"
+    ],
+    "dislikes": [
+      "The Hand",
+      "Evil"
+    ],
+    "fear": "Losing control of power",
+    "dream": "Protecting K'un-Lun",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Wealthy heir who chose martial arts mastery over corporate life",
+    "motivation": "Protecting the innocent",
+    "affinity": "Chi",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became Immortal Iron Fist",
+    "Member of Defenders",
+    "Defeated the Hand"
+  ],
+  "titles": [
+    "The Immortal Iron Fist",
+    "Rand"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 85,
+    "durability": 75,
+    "power": 90,
+    "combat": 100,
+    "total": 510
+  },
+  "weaknesses": {
+    "list": [
+      "Requires chi focus",
+      "Can be drained",
+      "Not invulnerable"
+    ],
+    "factors": [
+      "Energy depletion",
+      "Chi disruption"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Hand",
+    "allies": [
+      "Luke Cage",
+      "Colleen Wing",
+      "Misty Knight"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Luke Cage",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "The Hand",
+      "Steel Serpent"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Colleen Wing",
+    "best_friend": "Luke Cage",
+    "rival": null,
+    "mentor": "Lei Kung",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Luke Cage",
+      "Colleen Wing",
+      "Misty Knight"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Hand"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Luke Cage",
+      "Colleen Wing",
+      "Misty Knight"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Lei Kung"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Shou-Lao",
+      "result": "Victory",
+      "method": "Plunged fists into dragon heart"
+    }
+  ],
+  "quotes": [
+    "Feel the Iron Fist!",
+    "I am the Immortal Iron Fist"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Finn Jones (TV)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as Iron Fist",
+    "transformation": "Defeated Shou-Lao",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "Kid hero",
+      "Adult master"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Rand Corporation",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Iron Fist, Iron fist or Ironfist may refer to an Iron hand prosthesis that could be set to fist position to hold cutlery, a tool or a sword; to ruthless and usually unrestricted control, as commonly exercised in authoritarian or totalitarian regimes, or to:",
+  "note": null,
+  "source": "marvel"
+}

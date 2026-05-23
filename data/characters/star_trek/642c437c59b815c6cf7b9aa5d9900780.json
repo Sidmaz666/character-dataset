@@ -1,0 +1,405 @@
+{
+  "id": "642c437c59b815c6cf7b9aa5d9900780",
+  "name": "B'Elanna Torres",
+  "native_name": null,
+  "full_name": "B'Elanna Torres",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human/Klingon",
+    "race": "Human-Klingon Hybrid",
+    "bloodline": "Torres",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "28 when on Voyager",
+    "birthday": "2353",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Tan",
+    "notable_features": [
+      "Klingon forehead ridges",
+      "Strong build",
+      "Temper"
+    ],
+    "skin": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Engineer",
+    "secondary": "Maquis",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Maquis"
+    ],
+    "relatives": [
+      "Father (Klingon)",
+      "Mother (Human)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Engineering Genius",
+      "native_name": null,
+      "description": "Brilliant engineer with intuitive approach",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Temper affects work"
+    },
+    {
+      "name": "Klingon Strength",
+      "native_name": null,
+      "description": "Enhanced strength from Klingon heritage",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Less than full Klingon"
+    },
+    {
+      "name": "Maquis Combat",
+      "native_name": null,
+      "description": "Fighter training from rebellion",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 78,
+      "range": "Melee",
+      "limit": "Less formal training"
+    }
+  ],
+  "signature_moves": [
+    "Improvised Engineering",
+    "Klingon Rage",
+    "Torres Temper"
+  ],
+  "ultimate_move": "Maquis Engineering Solution",
+  "trump_card": "Klingon Battle Fury",
+  "power_attributes": {
+    "power_type": "Technical/Combat",
+    "power_source": "Training/Klingon Blood",
+    "combat_style": [
+      "Maquis Combat",
+      "Improvised Engineering"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Engineering Tools"
+    ],
+    "trump_card": "Klingon Battle Fury",
+    "ultimate_move": "Maquis Engineering Solution"
+  },
+  "personality": {
+    "traits": [
+      "Temperamental",
+      "Brilliant",
+      "Passionate",
+      "Protective",
+      "Insecure"
+    ],
+    "likes": [
+      "Engineering",
+      "Tom Paris",
+      "Challenging Work"
+    ],
+    "dislikes": [
+      "Being Half-Klingon",
+      "Cardassians",
+      "Her Temper"
+    ],
+    "fear": "Becoming Her Father",
+    "dream": "Being Accepted",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Struggled with half-Klingon identity while becoming excellent engineer and mother",
+    "motivation": "Proving her worth and finding balance",
+    "affinity": "Engineering",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Maintained Voyager engines",
+    "Married Tom Paris",
+    "Had daughter Miral",
+    "Bridged Maquis-Starfleet divide",
+    "Became respected engineer"
+  ],
+  "titles": [
+    "Chief Engineer",
+    "Lieutenant Torres",
+    "The Half-Klingon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 82,
+    "speed": 78,
+    "durability": 80,
+    "power": 85,
+    "combat": 80,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Temper",
+      "Klingon Rage",
+      "Identity Issues"
+    ],
+    "factors": [
+      "Half-Klingon insecurity",
+      "Can lose control"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Cardassians (historical)",
+    "allies": [
+      "Kathryn Janeway",
+      "Tom Paris",
+      "Seven of Nine"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tom Paris",
+        "relationship": "Husband",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Kathryn Janeway",
+        "relationship": "Captain and mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Cardassians"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Tom Paris",
+    "best_friend": "Seven of Nine",
+    "rival": "The Doctor (at first)",
+    "mentor": "Kathryn Janeway",
+    "student": "Various engineers",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kathryn Janeway",
+      "Tom Paris",
+      "Seven of Nine"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Cardassians (historical)",
+      "The Doctor (at first)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "The Doctor"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various engineers"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kathryn Janeway",
+      "Tom Paris",
+      "Seven of Nine"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kathryn Janeway"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various Engineering Crises",
+      "result": "Victory",
+      "method": "Technical genius"
+    },
+    {
+      "opponent": "Maquis Missions",
+      "result": "Various",
+      "method": "Combat and engineering"
+    }
+  ],
+  "quotes": [
+    "I'm half-Klingon. I have a temper. I have a dark side. Accept it or don't.",
+    "I've spent my whole life trying to hide what I am.",
+    "Just because I have a temper doesn't mean I'm wrong."
+  ],
+  "voice_acting": {
+    "native_language": "Roxann Dawson",
+    "english": "Roxann Dawson",
+    "note": "Used Klingon dialect for character",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Tom Paris, had daughter Miral",
+    "transformation": "Found peace with her identity",
+    "awakening_potential": "Became respected engineer and mother",
+    "power_evolution": [
+      "Maquis Engineer",
+      "Chief Engineer",
+      "Mother"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Voyager Engineering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "B'Elanna Torres is a main character in Star Trek: Voyager played by Roxann Dawson. She is portrayed as a half-human half-Klingon born in 2346 on the Federation colony Kessik IV.",
+  "note": null,
+  "source": "star_trek"
+}

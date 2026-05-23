@@ -1,0 +1,407 @@
+{
+  "id": "6c9b402fdde3c23618ba7ebeb3d1fd21",
+  "name": "Trip Tucker",
+  "native_name": null,
+  "full_name": "Charles Tucker III",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Tucker",
+    "height_cm": 185,
+    "weight_kg": 85,
+    "age": "38 when on Enterprise",
+    "birthday": "2261",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Southern boy features",
+      "Muscular build",
+      "Engineer's hands"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Florida, Earth",
+    "current_location": "Various (deceased)",
+    "base_of_operations": "USS Enterprise (NX-01)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Engineer",
+    "secondary": "Starfleet Officer",
+    "rank_title": "Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [],
+    "relatives": [
+      "Charles Tucker II (father)",
+      "Elizabeth (sister, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Enterprise (2001) - \"Broken Bow\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Engineering Genius",
+      "native_name": null,
+      "description": "Brilliant engineer of early warp technology",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Limited technology"
+    },
+    {
+      "name": "Combat Skills",
+      "native_name": null,
+      "description": "Trained in various combat situations",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "Less formal training"
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Natural leader of engineering teams",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires team"
+    }
+  ],
+  "signature_moves": [
+    "Southern Engineering",
+    "Fixing Anything",
+    "Reckless Heroics"
+  ],
+  "ultimate_move": "Saving the Ship from Destruction",
+  "trump_card": "Heroic Sacrifice",
+  "power_attributes": {
+    "power_type": "Technical",
+    "power_source": "Engineering Genius",
+    "combat_style": [
+      "Starfleet Combat",
+      "Engineering"
+    ],
+    "weapon": "Phase Pistol",
+    "equipment": [
+      "Engineering Tools"
+    ],
+    "trump_card": "Heroic Sacrifice",
+    "ultimate_move": "Saving the Ship from Destruction"
+  },
+  "personality": {
+    "traits": [
+      "Hot-Tempered",
+      "Protective",
+      "Loyal",
+      "Sarcastic",
+      "Brave"
+    ],
+    "likes": [
+      "Engineering",
+      "His Sister's Memory",
+      "T'Pol (unrequited)"
+    ],
+    "dislikes": [
+      "Rules That Endanger Crew",
+      "Losing People",
+      "Vulcans"
+    ],
+    "fear": "Losing More Family",
+    "dream": "Being Part of Something Greater",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From hot-headed engineer to seasoned officer who lost his sister and sacrificed himself for the future",
+    "motivation": "Protecting crew and building the future",
+    "affinity": "Engineering",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Maintained first Warp 5 Enterprise",
+    "Saved the ship numerous times",
+    "Gave his life to save the future",
+    "Helped found the Federation",
+    "Proved humanity's worth"
+  ],
+  "titles": [
+    "Chief Engineer",
+    "Trip",
+    "The Engineer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 80,
+    "speed": 75,
+    "durability": 78,
+    "power": 78,
+    "combat": 78,
+    "total": 477
+  },
+  "weaknesses": {
+    "list": [
+      "Hot Temper",
+      "Impulsive Decisions",
+      "Sister's Death"
+    ],
+    "factors": [
+      "Lost sister Elizabeth",
+      "Struggled with Vulcan methods"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None significant",
+    "allies": [
+      "Jonathan Archer (best friend)",
+      "T'Pol",
+      "Malcolm Reed"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jonathan Archer",
+        "relationship": "Captain and best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "T'Pol",
+        "relationship": "Close friend, unrequited love",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Xindi",
+      "Various threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "T'Pol (unrequited)",
+    "best_friend": "Jonathan Archer",
+    "rival": "None",
+    "mentor": "Jonathan Archer",
+    "student": "Various engineers",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jonathan Archer (best friend)",
+      "T'Pol",
+      "Malcolm Reed",
+      "Jonathan Archer"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None significant",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various engineers"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jonathan Archer",
+      "T'Pol",
+      "Malcolm Reed"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jonathan Archer"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Xindi",
+      "result": "Victory",
+      "method": "Engineering support"
+    },
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Engineering and combat"
+    }
+  ],
+  "quotes": [
+    "You mess with my family, I'll mess with you.",
+    "This ship deserves a captain who's smarter than a rock.",
+    "I ain't leavin' without you!"
+  ],
+  "voice_acting": {
+    "native_language": "Connor Trinneer",
+    "english": "Connor Trinneer",
+    "note": "Character died in series finale",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Sacrificed himself to save the future from the Na'kuhl",
+    "transformation": "From engineer to hero",
+    "awakening_potential": "Achieved legendary status saving humanity's future",
+    "power_evolution": [
+      "Engineer",
+      "Chief Engineer",
+      "Hero"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (NX-01)"
+    ],
+    "vehicles": [
+      "Shuttlepod"
+    ],
+    "headquarters": "USS Enterprise Engineering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Charles \"Trip\" Tucker III, portrayed by Connor Trinneer, is a fictional character in the television series Star Trek: Enterprise.",
+  "note": null,
+  "source": "star_trek"
+}

@@ -1,0 +1,431 @@
+{
+  "id": "7efdd1c659322c2479f4d7fdeaa48ac4",
+  "name": "Orochimaru",
+  "native_name": "大蛇丸",
+  "full_name": "Orochimaru",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Orochimaru Clan",
+    "height_cm": 195,
+    "weight_kg": 75,
+    "age": "54+ (immortal via body switching)",
+    "birthday": "October 15",
+    "zodiac": "Libra",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 19.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple (slitted snake-like)",
+    "hair_color": "Black",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Snake-like facial features",
+      "Long black hair",
+      "Pale skin",
+      "Forked tongue"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Various (traveling)",
+    "base_of_operations": "Hidden Sound / Various lairs",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Scientist/Ninja",
+    "secondary": "Leader of Sound Village",
+    "rank_title": "Sannin / Criminal",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Akatsuki (former)"
+    ],
+    "previous": [
+      "Konohagakure",
+      "Team Hiruzen"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 27",
+    "manga": "Naruto Chapter 45",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Snake Summoning",
+      "native_name": "通靈蛇",
+      "description": "Summons giant snakes from Ryuchi Cave for combat and transportation",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires snake summoning contract"
+    },
+    {
+      "name": "Snake Morphing",
+      "native_name": "蛇變",
+      "description": "Snake-like body modifications - snake tail, can shed skin to regenerate",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Curse Mark",
+      "native_name": "咒印",
+      "description": "Injects senjutsu-based chakra that enhances target with two levels of power",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Touch",
+      "limit": "Corrupts user's mind"
+    },
+    {
+      "name": "Body Switching Jutsu",
+      "native_name": "轉生之術",
+      "description": "Forbidden technique to transfer consciousness to new body every 3 years",
+      "type": "Utility",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Touch",
+      "limit": "Once per 3 years"
+    },
+    {
+      "name": "Multi-Snake Summoning",
+      "native_name": "多蛇通靈",
+      "description": "Can summon multiple snakes and merge into giant snake form",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Chakra drain"
+    }
+  ],
+  "signature_moves": [
+    "Snake Summoning",
+    "Curse Mark",
+    "Body Takeover",
+    "White Snake",
+    "Mandara"
+  ],
+  "ultimate_move": "Dragon Flame Technique",
+  "trump_card": "Eternal consciousness transfer",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Research + Snake sage experiments",
+    "combat_style": [
+      "Snake jutsu",
+      "Curse mark jutsu",
+      "Forbidden jutsu"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "Ring"
+    ],
+    "trump_card": "Eternal consciousness transfer",
+    "ultimate_move": "Dragon Flame Technique"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Sociopathic",
+      "Curious",
+      "Manipulative",
+      "Immortal"
+    ],
+    "likes": [
+      "Research",
+      "Knowledge",
+      "Power",
+      "Immortality"
+    ],
+    "dislikes": [
+      "Death",
+      "Weakness",
+      "Failure"
+    ],
+    "fear": "Running out of knowledge",
+    "dream": "Learn all jutsu, achieve immortality",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Snake Summoning",
+      "Snake Morphing",
+      "Curse Mark",
+      "Body Switching Jutsu"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Tragic genius who chose dark path seeking power and knowledge",
+    "motivation": "Learning all jutsu in world",
+    "affinity": "Snakes/Darkness",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Legendary Sannin member",
+    "Founded Sound Village",
+    "Researched curse marks",
+    "Achieved immortality through body switching"
+  ],
+  "titles": [
+    "Legendary Sannin",
+    "Snake Master",
+    "Sound Leader"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Classified as S-rank criminal"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 70,
+    "speed": 80,
+    "durability": 85,
+    "power": 85,
+    "combat": 90,
+    "total": 510
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot use sage mode properly",
+      "Hand-to-hand weakness"
+    ],
+    "factors": [
+      "manipulative"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Naruto, Sasuke",
+    "allies": [
+      "Kabuto",
+      "Sasuke (formerly)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kabuto Yakushi",
+        "relationship": "Student/Successor",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "relationship": "Former vessel target",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Konohagakure",
+      "Naruto",
+      "Hiruzen"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Jiraiya, Tsunade",
+    "mentor": "Hiruzen Sarutobi",
+    "student": "Sasuke, Kabuto",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kabuto",
+      "Sasuke (formerly)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Naruto, Sasuke",
+      "Jiraiya, Tsunade"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Sasori (Sasori)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Sasori (Sasori)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Jiraiya, Tsunade"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Sasuke, Kabuto"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kabuto",
+      "Sasuke"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Hiruzen Sarutobi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hiruzen Sarutobi",
+      "result": "Victory",
+      "method": "Body switching and endurance"
+    },
+    {
+      "opponent": "Sasuke Uchiha",
+      "result": "Defeat",
+      "method": "Sasuke took his body (but escaped)"
+    }
+  ],
+  "quotes": [
+    "I want to learn all jutsu!",
+    "Knowledge is power... and I will acquire it all!",
+    "I shall acquire all jutsu!"
+  ],
+  "voice_acting": {
+    "native_language": "Kenta Miyake (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Steven Blum",
+    "japanese": "Kujira"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continuing research somewhere",
+    "transformation": "Snake forms",
+    "awakening_potential": "Full snake sage mode via Kabuto",
+    "power_evolution": [
+      "Sannin",
+      "Immortal researcher",
+      "Sound leader"
+    ],
+    "role_in_story": "Major Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Snakes",
+      "Various"
+    ],
+    "vehicles": [],
+    "headquarters": "Sound Village",
+    "story_importance": "Major antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Name Meaning: Orochi= Large Serpent, Maru= Male Name\nAge: 50-51 (I); 54 (II)\nSex: Male\nBirthday: October 27\nZodiac Sign: Scorpio\nHeight: 179.4 cm (Part I); 172.0 cm (Part II)\nWeight: 67 kg (Part I); 58 kg (Part II)\nBlood Type: B\nBloodline Limit Wood Release\nNature Type: Wind, Water, Wood, Earth and Fire.\nOriginally From: Konohagakure (Leaf)\nAffiliations: Konohagakure (Leaf), Root, Akatsuki, Otagakure (Sound)\nClassification: Sannin, Sage, S-rank, Missing-nin \nRank: ANBU\nNinja Registration Number: 002300\nAcademy Graduation Age: 6\nAkatsuki Ring: Void (Sky)\nFinger Position: Left little finger\nPartner: Sasori, Yakushi Kabuto \nFavorite Foods: Eggs\nLeast Favorite Foods: Cold Food\nPersonality: Ambitious, cruel, egoistic\nFavourite Word: Destruction, chaos\nInterests: Developing new jutsu\nFirst Manga Appearance: Chapter 45\nFirst Anime Appearance: Episode 27\nAssignments Completed: 16 D-Rank, 132 C-Rank, 521 B-Rank, 491 A-Rank, 108 S-Rank\n\nOrochimaru is a major antagonist of Naruto series. He is a missing ninja from Konohagakure, who is recognised as one of the most powerful ninjas and known as one of the \"Legendary Sannin\" (Legendary Three Ninja), which was a title that was given to him and his former team mates, Jiraiya and Tsunade, by Hanzō during the Second Shinobi World War. His main goals are to capture Uchiha Sasuke as his new body to gain possession of the Sharingan and to destroy Konoha.\n\n\n\nFrom his childhood days Orochimaru was identified as a genius shinobi and a once-in-a-generation prodigy. His parents died when he was young and according to Jiraiya, Orochimaru's goals, which were quite alien to the ideals within the village, were associated with these painful memories.\n\nHe was a student of the Third Hokage, who recognized Orochimaru's natural talent and often told Jiraiya to be more like Orochimaru. The Third was aware of a malice and a lust for power within Orochimaru, but chose to pretend not to notice and hoped that he could quell this part of Orochimaru's personality.\n\nOrochimaru's desire for power grew as the years went by. One day while visiting his parents' grave he found the shedded skin of a white snake. As the Third Hokage explained, it was known to represent good forture and luck which inspired Orochimaru. He began to study kinjutsu (forbidden techniques) and became obsessed with learning all ninjutsu that exists in the world.\n\nAfter leaving Konoha, Orochimaru joined an elite criminal organisation called Akatsuki. What he did while he was a member of the organization is pretty much unknown. The only information that was revealed is that his partner was Sasori and he made an attempt to take control of Uchiha Itachi's body to gain the possesion of the Sharingan.",
+  "note": null,
+  "source": "anime"
+}

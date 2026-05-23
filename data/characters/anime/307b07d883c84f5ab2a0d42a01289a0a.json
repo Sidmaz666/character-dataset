@@ -1,0 +1,350 @@
+{
+  "id": "307b07d883c84f5ab2a0d42a01289a0a",
+  "name": "Brock",
+  "native_name": "Takeshi",
+  "full_name": "Brock",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 150,
+    "weight_kg": 45,
+    "age": "15",
+    "birthday": "Unknown",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Tan",
+    "notable_features": [
+      "Narrow eyes",
+      "always has a Pokemon cookbook"
+    ],
+    "skin_color": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Pewter City",
+    "current_location": "Traveling / Pewter City",
+    "base_of_operations": "Traveling / Pewter City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pokemon Breeder",
+    "secondary": "Former Gym Leader",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Pewter City Gym",
+      "Ash's travel group"
+    ],
+    "previous": [],
+    "relatives": [
+      "Forrest (brother)",
+      "Yolanda (sister)",
+      "many siblings"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Pokemon Episode 5",
+    "manga": "Pokemon Episode 5",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Pokemon Breeding",
+      "native_name": null,
+      "description": "Expert Pokemon Breeder who knows how to raise healthy Pokemon",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Cooking",
+      "native_name": null,
+      "description": "Master chef specializing in Pokemon food",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Rock Pokemon Mastery",
+      "native_name": null,
+      "description": "Expert trainer of Rock-type Pokemon",
+      "type": "Tactical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Cooking",
+    "Pokemon Breeding",
+    "Rock Pokemon Mastery"
+  ],
+  "ultimate_move": "Cooking",
+  "trump_card": "Pokemon Breeding",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Pokemon Breeding",
+    "ultimate_move": "Cooking"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Loyal",
+      "Romantic",
+      "Hardworking",
+      "Nurturing"
+    ],
+    "likes": [
+      "Cooking",
+      "nursing Pokemon",
+      "pretty girls"
+    ],
+    "dislikes": [
+      "Being rejected",
+      "Team Rocket"
+    ],
+    "fear": "Unknown",
+    "dream": "Become the best Pokemon Breeder",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Former Pewter City Gym Leader who joins Ash as a mentor figure and caretaker",
+    "motivation": "Become the best Pokemon Breeder",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Pokemon Breeding, Cooking"
+  ],
+  "titles": [
+    "Pokemon Breeder"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 50,
+    "speed": 45,
+    "durability": 70,
+    "power": 40,
+    "combat": 55,
+    "total": 335
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Ash Ketchum",
+      "Misty",
+      "Professor Oak"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Team Rocket"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Ash Ketchum",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ash Ketchum",
+      "Misty",
+      "Professor Oak"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Team Rocket"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ash Ketchum",
+      "Misty",
+      "Professor Oak"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'll take good care of your Pokemon!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuji Ueda",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Pokémon: Indigo League is the first season of the Pokémon anime series and of Pokémon the Series: The Beginning, known in Japan as Pocket Monsters (ポケットモンスター, Poketto Monsutā). It originally aired in Japan on TV Tokyo from April 1, 1997, to January 21, 1999. It later aired in the United States in first-run syndication from September 8 to November 20, 1998, and on Kids' WB/The WB from February 13 to November 27, 1999, concluding with the airing of the previously unreleased episode 18 on June 24, 2000. It first aired in the United Kingdom on March 29, 1999 and in Germany and Italy in September 1999.\nThe season follows Ash Ketchum, a 10-year-old Pokémon Trainer and aspiring Pokémon Master from Pallet Town as he receives a Pikachu from Professor Oak and travels across the Kanto region to challenge its Pokémon League while joined by Misty and Brock.\nThe episodes were produced by Oriental Light and Magic, with Takeshi Shudo as head writer and Kunihiko Yuyama as chief director. Masamitsu Hidaka served as the supervising director for the series until the beginning of Pokémon: Battle Frontier.",
+  "note": null,
+  "source": "anime"
+}

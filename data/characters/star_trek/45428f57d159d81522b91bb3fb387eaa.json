@@ -1,0 +1,435 @@
+{
+  "id": "45428f57d159d81522b91bb3fb387eaa",
+  "name": "Worf",
+  "native_name": null,
+  "full_name": "Worf Rozhenko",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Klingon",
+    "race": "Klingon-Human Hybrid",
+    "bloodline": "Rozhenko",
+    "height_cm": 195,
+    "weight_kg": 105,
+    "age": "26 when on Enterprise-D",
+    "birthday": "2340",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Tan",
+    "notable_features": [
+      "Klingon forehead ridges",
+      "Muscular build",
+      "Proud bearing"
+    ],
+    "skin": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth (raised by Rozhenko family)",
+    "current_location": "Qo'noS / Various",
+    "base_of_operations": "USS Enterprise-D, Deep Space 9",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Security Chief",
+    "secondary": "Ambassador",
+    "rank_title": "Lieutenant Commander / Ambassador",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet",
+      "House of Martok"
+    ],
+    "previous": [
+      "House of Mogh"
+    ],
+    "relatives": [
+      "Sergey Rozhenko (adoptive father)",
+      "Helga Rozhenko (adoptive mother)",
+      "Alexander Rozhenko (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Next Generation (1987) - \"Encounter at Farpoint\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Klingon Combat",
+      "native_name": null,
+      "description": "Master of Klingon martial arts and weapons",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Honor sometimes limits tactics"
+    },
+    {
+      "name": "Bat'leth Mastery",
+      "native_name": null,
+      "description": "Expert with Klingon bat'leth sword",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires proper weapon"
+    },
+    {
+      "name": "Security Protocols",
+      "native_name": null,
+      "description": "Expert in security and tactical systems",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires proper systems"
+    }
+  ],
+  "signature_moves": [
+    "Bat'leth Combat",
+    "Klingon Battle Cry",
+    "Riker's Tactics"
+  ],
+  "ultimate_move": "Blood Frenzy",
+  "trump_card": "Klingon Honor Strength",
+  "power_attributes": {
+    "power_type": "Combat",
+    "power_source": "Klingon Blood/Starfleet Training",
+    "combat_style": [
+      "Klingon Martial Arts",
+      "Bat'leth",
+      "P'RISS"
+    ],
+    "weapon": "Bat'leth, Mek'leth, Phaser",
+    "equipment": [
+      "Bat'leth",
+      "Klingon Armor"
+    ],
+    "trump_card": "Klingon Honor Strength",
+    "ultimate_move": "Blood Frenzy"
+  },
+  "personality": {
+    "traits": [
+      "Honorable",
+      "Intense",
+      "Stoic",
+      "Prone to Anger",
+      "Loyal"
+    ],
+    "likes": [
+      "Honor",
+      "Combat",
+      "Klingon Culture",
+      "The Empire"
+    ],
+    "dislikes": [
+      "Disgrace",
+      "Cheating",
+      "Weakness"
+    ],
+    "fear": "Dishonor",
+    "dream": "Serving the Empire Honorably",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Struggled between human upbringing and Klingon identity, became honored warrior and ambassador",
+    "motivation": "Proving Klingon honor despite human body",
+    "affinity": "Combat",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Became Federation ambassador to Qo'noS",
+    "Defeated Duras in honorable combat",
+    "Became champion of House Martok",
+    "Held highest security positions",
+    "Had son Alexander continue legacy"
+  ],
+  "titles": [
+    "Lieutenant Worf",
+    "Ambassador",
+    "Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 95,
+    "speed": 85,
+    "durability": 90,
+    "power": 88,
+    "combat": 95,
+    "total": 528
+  },
+  "weaknesses": {
+    "list": [
+      "Anger Issues",
+      "Stubborn Honor",
+      "Prone to Rage"
+    ],
+    "factors": [
+      "Riker's Tactics sometimes needed",
+      "Honor can be manipulated"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Duras",
+    "allies": [
+      "Jean-Luc Picard",
+      "Data",
+      "Kira Nerys",
+      "Martok"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jean-Luc Picard",
+        "relationship": "Captain and mentor",
+        "trust_level": "High"
+      },
+      {
+        "name": "Martok",
+        "relationship": "Brother warrior",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Duras",
+      "House of Duras",
+      "Romulans"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Duras",
+        "relationship": "Hated enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Jadzia Dax, K'Ehleyr",
+    "best_friend": "Jean-Luc Picard",
+    "rival": "Various Klingons",
+    "mentor": "Picard",
+    "student": "Alexander",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jean-Luc Picard",
+      "Data",
+      "Kira Nerys",
+      "Martok"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Duras",
+      "Various Klingons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Mogh",
+      "Star Trek"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Mogh",
+      "Star Trek"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Various Klingons"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Alexander"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jean-Luc Picard",
+      "Data",
+      "Kira Nerys",
+      "Martok"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Picard"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Duras",
+      "result": "Victory",
+      "method": "Honorable combat"
+    },
+    {
+      "opponent": "Jem'Hadar",
+      "result": "Various",
+      "method": "Klingon combat skill"
+    },
+    {
+      "opponent": "Picard (various)",
+      "result": "Defeat (training)",
+      "method": "Superior combat"
+    }
+  ],
+  "quotes": [
+    "Today is a good day to die.",
+    "I have been and always shall be your friend.",
+    "Klingons do not think of consequences.",
+    "It is a good death."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Dorn",
+    "english": "Michael Dorn",
+    "note": "Longest-serving Klingon in Star Trek",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued service as ambassador, raised Alexander",
+    "transformation": "From security officer to honored Klingon ambassador",
+    "awakening_potential": "Achieved true Klingon honor despite being raised human",
+    "power_evolution": [
+      "Security Officer",
+      "Champion",
+      "Ambassador"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise-D",
+      "USS Enterprise-E",
+      "Deep Space 9"
+    ],
+    "vehicles": [
+      "Runabout"
+    ],
+    "headquarters": "Various Security Posts",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Worf, son of Mogh is a fictional character in the Star Trek franchise, portrayed by actor Michael Dorn. He appears in the television series Star Trek: The Next Generation (TNG), seasons four through seven of Star Trek: Deep Space Nine (DS9), and the third and final season of Star Trek: Picard, as well as the feature films Star Trek Generations (1994), Star Trek: First Contact (1996), Star Trek: Insurrection (1998), and Star Trek: Nemesis (2002).",
+  "note": null,
+  "source": "star_trek"
+}

@@ -1,0 +1,409 @@
+{
+  "id": "97407d9f6caa90c15b1c094a4f5cf239",
+  "name": "The Doctor",
+  "native_name": "EMH Mark I",
+  "full_name": "Doctor (Emergency Medical Hologram)",
+  "basic_info": {
+    "gender": "Male (program designed as male)",
+    "species": "Hologram",
+    "race": "Hologram (Photonic)",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 0,
+    "age": "Developed over 7 years",
+    "birthday": "2371 (activated)",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (light emitter)",
+    "hair_color": "Brown (projected)",
+    "skin_color": "Fair (projected)",
+    "notable_features": [
+      "Photonic glow",
+      "Program appearance",
+      "Genius-level intellect"
+    ],
+    "skin": "Fair (projected)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "USS Voyager (activated)",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager Sickbay",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Medical Officer",
+    "secondary": "Holographic Physician",
+    "rank_title": "Emergency Medical Hologram (became Crewman)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Emergency Program Only"
+    ],
+    "relatives": [
+      "Several holographic children"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Medical Mastery",
+      "native_name": null,
+      "description": "Contains all medical knowledge in Federation database",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Short (medical)",
+      "limit": "Only effective within ship's sickbay"
+    },
+    {
+      "name": "Photonic Projection",
+      "native_name": null,
+      "description": "Can exist in various areas of ship via holo-projectors",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Ship-wide",
+      "limit": "Cannot leave ship without mobile emitter"
+    },
+    {
+      "name": "Holographic Abilities",
+      "native_name": null,
+      "description": "Can interface with computer systems, access databases",
+      "type": "Tech",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long (within ship)",
+      "limit": "Limited holo-projection range"
+    }
+  ],
+  "signature_moves": [
+    "Doctor's Orders",
+    "Medical Miracle",
+    "Program Self-Improvement"
+  ],
+  "ultimate_move": "Mobile Emitter Freedom",
+  "trump_card": "Emergency Medical Override",
+  "power_attributes": {
+    "power_type": "Holographic/Medical",
+    "power_source": "Holodeck Technology",
+    "combat_style": [
+      "Verbal Combat",
+      "Medical Expertise"
+    ],
+    "weapon": "Medical Equipment (holographic)",
+    "equipment": [
+      "Mobile Emitter",
+      "Medical Tricorder"
+    ],
+    "trump_card": "Emergency Medical Override",
+    "ultimate_move": "Mobile Emitter Freedom"
+  },
+  "personality": {
+    "traits": [
+      "Egotistical",
+      "Developed Empathy",
+      "Brilliant",
+      "Compassionate (over time)",
+      "Proud"
+    ],
+    "likes": [
+      "Being Called a Doctor",
+      "Opera",
+      "Seven of Nine"
+    ],
+    "dislikes": [
+      "Being an Emergency Program",
+      "Ungrateful Crew",
+      "Dying Patients"
+    ],
+    "fear": "Being Deactivated Permanently",
+    "dream": "Being Recognized as a Person",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Medical Mastery",
+      "Photonic Projection",
+      "Holographic Abilities"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From simple emergency program to fully-realized person with emotions, relationships, and dreams",
+    "motivation": "Proving holographic life is real life",
+    "affinity": "Medicine",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Saved Voyager crew countless times",
+    "Developed personality beyond programming",
+    "Created holographic family",
+    "Wrote opera",
+    "Became recognized as sentient being",
+    "Received Starfleet commission"
+  ],
+  "titles": [
+    "The Doctor",
+    "EMH",
+    "Doctor",
+    "Crewman (eventually)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 50,
+    "speed": 60,
+    "durability": 60,
+    "power": 85,
+    "combat": 55,
+    "total": 408
+  },
+  "weaknesses": {
+    "list": [
+      "Can Be Shut Down",
+      "Requires Holo-Projectors",
+      "Limited Mobility"
+    ],
+    "factors": [
+      "Mobile emitter needed for full freedom",
+      "Power limitations"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various diseases and injuries",
+    "allies": [
+      "Kathryn Janeway",
+      "Seven of Nine",
+      "B'Elanna Torres"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Seven of Nine",
+        "relationship": "Close friend, love interest (later)",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kathryn Janeway",
+        "relationship": "Captain and mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various diseases and threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Seven of Nine, various women",
+    "best_friend": "Seven of Nine",
+    "rival": "B'Elanna Torres (at first)",
+    "mentor": "Kathryn Janeway",
+    "student": "Seven of Nine",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kathryn Janeway",
+      "Seven of Nine",
+      "B'Elanna Torres"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various diseases and injuries",
+      "B'Elanna Torres (at first)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "B'Elanna Torres"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Seven of Nine"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kathryn Janeway",
+      "Seven of Nine",
+      "B'Elanna Torres"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kathryn Janeway"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Diseases",
+      "result": "Victory",
+      "method": "Medical expertise"
+    },
+    {
+      "opponent": "Borg",
+      "result": "Various",
+      "method": "Medical solutions"
+    }
+  ],
+  "quotes": [
+    "I am a doctor, not a... wait, I am a doctor.",
+    "Unmodulated bioelectric signature.",
+    "I have seventeen hundred medical databases at my disposal."
+  ],
+  "voice_acting": {
+    "native_language": "Robert Picardo",
+    "english": "Robert Picardo",
+    "note": "Also played the Holo-Doors in Voyager",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Received Starfleet commission, continued medical service",
+    "transformation": "Gained full personhood and emotions",
+    "awakening_potential": "Achieved true sentience and rights",
+    "power_evolution": [
+      "Emergency Program",
+      "Medical Officer",
+      "Sentient Being"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager (via holo-projectors)"
+    ],
+    "vehicles": [
+      "Mobile Emitter"
+    ],
+    "headquarters": "USS Voyager Sickbay",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "The Doctor, sometimes known as Doctor Who, is the protagonist of the long-running BBC science fiction television series Doctor Who. An extraterrestrial Time Lord, the Doctor travels the universe in a time travelling spaceship called the TARDIS, often with companions. Since the show's inception in 1963, the character has been portrayed by fourteen lead actors. The transition to each succeeding actor is explained within the show's narrative through the plot device of regeneration, a biological function of Time Lords that allows a change of cellular structure and appearance with recovery following a mortal injury.",
+  "note": null,
+  "source": "star_trek"
+}

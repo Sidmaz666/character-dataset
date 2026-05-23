@@ -1,0 +1,329 @@
+{
+  "id": "fea5e08111190eca8be9fae69a298438",
+  "name": "Satella",
+  "native_name": "サテラ",
+  "full_name": "Satella",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Lugnica",
+    "current_location": "Lugnica",
+    "base_of_operations": "Roswaal Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Re:Zero",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Witch of Envy"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Re:Zero",
+    "manga": "Re:Zero",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Magic",
+      "type": "Elemental",
+      "description": "Able to use elemental magic",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Combat",
+      "description": "Skilled in blade combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Combat Experience",
+      "type": "Physical",
+      "description": "Trained in practical combat",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Magic",
+    "Swordsmanship",
+    "Combat Experience"
+  ],
+  "ultimate_move": "Magic",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Magic",
+    "combat_style": [
+      "Magic",
+      "Swordsmanship"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "Magic"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Compassionate",
+      "Diligent",
+      "Brave",
+      "Selfless"
+    ],
+    "likes": [
+      "Helping others",
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Being touched",
+    "dream": "Unknown",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weakness"
+    ]
+  },
+  "character": {
+    "arc": "Re:Zero character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Mamiko Noto (Japanese)",
+    "Voiced by Caitlin Glass (English)"
+  ],
+  "titles": [
+    "Re:Zero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 90,
+    "speed": 90,
+    "durability": 90,
+    "power": 90,
+    "combat": 90,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Roswaal Mansion"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Roswaal Mansion"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Noelle Allouache (mother)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Noelle Allouache (mother)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Roswaal Mansion"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Caitlin Glass",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Mamiko Noto"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 168 cm\nWeight: 58 kg\nB/W/H: 90/56/85\nAge: 17\nBlood: A\nNationality: United Kingdom\nVolt Weapons: Nova Blood\nHobby: Knitting, Telephone shopping\nFavorite Food: Hamburger, meat dishes\nWeakness: Sensitive to being touched around her chest\n\nThe main heroine and number one ranked second year student until Kazuya's interference during a tournament at the start of the story causes her to be demoted to rank two. Having been abused by her half-brother throughout most of her childhood, she developed an intense haphephobia, a mental phobia that causes fear of being touched. She is feared by most students due to her ruthless actions against her opponents and anyone who touches her. After an incident at East Genetics, in which she attacked a Limiter who wanted to be her partner and other Pandoras, she was suspended for a year and nicknamed the \"Untouchable Queen\", transferring into West Genetics thereafter. Curiously, she does not go berserk when touched by Kazuya and after some time denying his company she accepts him as her Limiter. Despite her reputation and ruthlessness during battle, she has a quiet and reserved nature.\n\nHer name is usually shortened to Satella or Stella. Formerly known as Satellizer Alongrutch, she was born from the head of the infamous el Bridget family who impregnated her mother Noelle Allouache. Her mother was very sickly and in order not to worsen their situation she was forced to endure the abuses of her half-brother, Louis, until her half-sister Violet found out and decided to move her away for her own safety. At her mother's deathbed, her mother apologized to her for the suffering she had endured and told her that she must never lose or give up and also to become stronger than anyone. Her memories become her driving force in life resulting in her severe determination and will. Despite her low synchronization rate with stigmas, she was implanted with six of Kazuha Aoi's stigmas before her enrollment into Genetics because of her family's influence.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,366 @@
+{
+  "id": "0146125464d65d5c3cee7502a0fe4cc1",
+  "name": "Lamplighter",
+  "native_name": null,
+  "full_name": "Travis Melville",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Melville",
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "20s",
+    "birthday": "June 21",
+    "zodiac": "Cancer",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Flame-based costume",
+      "Fire mantle"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased",
+    "current_location": "Deceased",
+    "base_of_operations": "Formerly Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pyrokinetic Superhero",
+    "secondary": "The Seven (former)",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly The Seven"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Pyrokinesis",
+      "native_name": null,
+      "description": "Generate and control fire",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Requires oxygen"
+    },
+    {
+      "name": "Fire Immunity",
+      "native_name": null,
+      "description": "Immune to fire damage",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Flight (via fire)",
+      "native_name": null,
+      "description": "Fly using flames",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Unlimited",
+      "limit": "Requires flames"
+    }
+  ],
+  "signature_moves": [
+    "Fire Blast",
+    "Flame Nova"
+  ],
+  "ultimate_move": "Full Incineration",
+  "trump_card": "Inferno Mode",
+  "power_attributes": {
+    "power_type": "Pyrokinesis",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Fire combat"
+    ],
+    "weapon": "Flight (via fire)",
+    "equipment": [
+      "Fire suit"
+    ],
+    "trump_card": "Inferno Mode",
+    "ultimate_move": "Full Incineration"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Immature",
+      "Heroic",
+      "Hot-headed"
+    ],
+    "likes": [
+      "Fire",
+      "Fame"
+    ],
+    "dislikes": [
+      "Rejection",
+      "Being fired"
+    ],
+    "fear": "Being forgotten",
+    "dream": "Be remembered",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic"
+    ],
+    "weaknesses": [
+      "Hot-headed",
+      "Immature",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Troubled hero who turns villain after being fired",
+    "motivation": "Proving himself",
+    "affinity": "Fire",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "The Seven member",
+    "Killed Grace Mallory's grandchildren",
+    "Became Vought enemy"
+  ],
+  "titles": [
+    "Lamplighter",
+    "Fire Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Deceased"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 60,
+    "speed": 55,
+    "durability": 65,
+    "power": 75,
+    "combat": 50,
+    "total": 355
+  },
+  "weaknesses": {
+    "list": [
+      "Fire dependent",
+      "Oxygen needed",
+      "Water weakness"
+    ],
+    "factors": [
+      "Water suppression"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Grace Mallory",
+    "allies": [
+      "The Seven (formerly)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Vought",
+      "Grace Mallory"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Grace Mallory",
+        "relationship": "Target",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven (formerly)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Grace Mallory"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Grace Mallory's grandchildren",
+      "result": "Victory",
+      "method": "Fire attack"
+    }
+  ],
+  "quotes": [
+    "I'm Lamplighter! I light up the night!"
+  ],
+  "voice_acting": {
+    "native_language": "Matthew D. McGowan (English)",
+    "english": "Matthew D. McGowan",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Starlight in Season 3",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Hero",
+      "Villain"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Fire flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought Tower (formerly)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "A lamplighter or gaslighter is a person employed to light and maintain street lights. These included candles, oil lamps, and gas lighting.",
+  "note": null,
+  "source": "the_boys"
+}

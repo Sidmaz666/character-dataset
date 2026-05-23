@@ -1,0 +1,337 @@
+{
+  "id": "85916e45267781a5546cf3c9d0524c9c",
+  "name": "Nu, Villetta",
+  "native_name": "ヴィレッタ・ヌゥ",
+  "full_name": "Villetta Nu",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Britannian knight",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "26",
+    "birthday": "June 1",
+    "zodiac": "Gemini",
+    "blood_type": "B",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Gray/Silver",
+    "skin": "Dark",
+    "notable_features": "Dark skin, silver hair, knight uniform",
+    "skin_color": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Britannia (commoner origins)",
+    "current_location": "Various - Area 11, etc.",
+    "base_of_operations": "Various - Area 11, etc.",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Knightmare Frame pilot",
+    "secondary": "Intelligence officer",
+    "rank_title": "Lieutenant Colonel / Knight",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Pureblood Faction",
+      "Jeremiah Gottwald (former)",
+      "Black Knights (later)",
+      "Ohgi (married)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Code Geass Episode 1",
+    "manga": "Code Geass Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Knightmare Combat",
+      "native_name": "ナイトメ.frame",
+      "description": "Elite pilot; skilled combat",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long"
+    },
+    {
+      "name": "Intelligence",
+      "native_name": "情報",
+      "description": "Investigation skills; uncovered Zero's identity",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75
+    }
+  ],
+  "personality": {
+    "traits": [
+      "Cold exterior",
+      "Loyal",
+      "Becomes compassionate",
+      "Dedicated",
+      "Secretly caring"
+    ],
+    "likes": [
+      "Jeremiah",
+      "Aristocracy",
+      "Ohgi"
+    ],
+    "dislikes": [
+      "Elevens (initially)",
+      "Zero"
+    ],
+    "dream": "Become aristocrat, find love",
+    "fear": "Darkness",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal",
+      "Dedicated"
+    ],
+    "weaknesses": [
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "From enemy to ally/lover",
+    "motivation": "Redemption through love",
+    "affinity": "Light",
+    "alignment": "Lawful Neutral (initially) -> Lawful Good"
+  },
+  "achievements": [
+    "Uncovered Zero's identity",
+    "Married Ohgi",
+    "Had son Naoto",
+    "Became Baroness"
+  ],
+  "titles": [
+    "Knight",
+    "Baroness (later)"
+  ],
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 60,
+    "speed": 70,
+    "durability": 55,
+    "power": 70,
+    "combat": 75,
+    "total": 410
+  },
+  "relationships": {
+    "leader": "Jeremiah Gottwald (loyal)",
+    "husband": "Kaname Ohgi",
+    "child": "Naoto Ohgi",
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kaname Ohgi (husband)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Kaname Ohgi (husband)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Kaname Ohgi (husband)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "niece": null,
+    "friends": [
+      "Kaname Ohgi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sayoko Shano",
+      "result": "Captured",
+      "method": "Fight"
+    }
+  ],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Akeno Watanabe",
+    "note": null,
+    "native_name": null,
+    "english": "Megan Hollingshead",
+    "japanese": "Akeno Watanabe"
+  },
+  "story": {
+    "status": "Alive",
+    "face": "Marries Ohgi, has son, supports Black Knights",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "signature_moves": [
+    "Knightmare Combat",
+    "Intelligence"
+  ],
+  "ultimate_move": "Knightmare Combat",
+  "trump_card": "Intelligence",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Armor"
+    ],
+    "trump_card": "Intelligence",
+    "ultimate_move": "Knightmare Combat"
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Cold"
+    ],
+    "factors": [
+      "cold"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various - Area 11, etc.",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "Age: 26\nZodiac Sign: Gemini\nBlood Type: B\n\nAn elite Knightmare Frame pilot and a Purist, who appears to be more collected than Jeremiah in battle. She was one of the first to have been under the power of Geass' influence and is one of the few still loyal to Jeremiah even after his fall in disgrace.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

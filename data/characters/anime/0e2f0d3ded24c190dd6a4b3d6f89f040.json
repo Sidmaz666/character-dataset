@@ -1,0 +1,327 @@
+{
+  "id": "0e2f0d3ded24c190dd6a4b3d6f89f040",
+  "name": "Shanks",
+  "native_name": "",
+  "full_name": "Shanks",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "37",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Grand Line",
+    "current_location": "Grand Line",
+    "base_of_operations": "Grand Line",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "One Piece",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Red Hair Pirates"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece",
+    "manga": "One Piece",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Haki",
+      "type": "Spiritual",
+      "description": "Able to sense and project spiritual energy",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Combat",
+      "description": "Skilled in blade combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Physical Combat",
+      "type": "Physical",
+      "description": "Proficient in hand-to-hand fighting",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Haki",
+    "Swordsmanship",
+    "Physical Combat"
+  ],
+  "ultimate_move": "Haki",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "Haki"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Adventurous",
+      "Stubborn",
+      "Passionate"
+    ],
+    "likes": [
+      "Adventure",
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "One Piece character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Saved Luffy from a Sea King"
+  ],
+  "titles": [
+    "One Piece"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 80,
+    "durability": 80,
+    "power": 80,
+    "combat": 80,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Straw Hat Pirates"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": "Monkey D., Luffy",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Monkey D., Luffy"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 37; 39\nBirthday: March 9\nAffiliations: Red Hair Pirates; Yonko; \nBounty: \nRed-Haired Shanks is a legendary and powerful pirate in the Grand Line, being the captain of the Red Haired Pirate Crew and one of the Four Emperors in the second half of the grand line. Furthermore, he is Monkey D. Luffy's childhood hero and a former member of Gol D. Roger's Crew. Overall, he is greatly respected by most of the characters, despite having a \"soft\" and friendly nature and never appearing in actual combat until he started a fight with Whitebeard. As a whole, he does not make many appearances in the series, although he appears in a majority of the opening or closing themes of the anime.\n\nShanks always wears a long black cape over his shoulders and until he met Luffy, wore a straw hat that he had worn for many years beforehand. He always wears trousers that are cut below the knee as well as a pair of sandals. The most striking thing about Shanks is the color of his red hair, of which his nick-name \"Red Haired Shanks\" comes from. He also has three scars across his left eye, which were given to him by Blackbeard a long time ago. He has a missing left arm, that he had lost when he saved Luffy from a Sea King. Shanks and his crew are almost always seen partying and drinking alcoholic beverages whenever they make an appearance as the Captain's favorite pastimes are attending and hosting parties and banquets.\n\nAccording to Oda, Shanks is the one character that resembles himself the most out of all the One Piece characters, because of his fun-loving partying nature.",
+  "note": null,
+  "source": "anime"
+}

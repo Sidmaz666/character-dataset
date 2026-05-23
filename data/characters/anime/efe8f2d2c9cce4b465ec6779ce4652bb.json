@@ -1,0 +1,375 @@
+{
+  "id": "efe8f2d2c9cce4b465ec6779ce4652bb",
+  "name": "Arima, Kana",
+  "native_name": "有馬かな",
+  "full_name": "Kana Arima",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Arima",
+    "height_cm": 158,
+    "weight_kg": 48,
+    "age": "16",
+    "birthday": "November 16",
+    "zodiac": "Scorpio",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Twin tails",
+      "Blue eyes",
+      "Petite"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Idol",
+    "secondary": "Actress",
+    "rank_title": "Former Child Prodigy",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "B Komachi",
+      "Strawberry Productions"
+    ],
+    "previous": [
+      "Child actress"
+    ],
+    "relatives": [
+      "Akane Kurokawa (rival)",
+      "Aqua Hoshino (colleague)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Oshi no Ko Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Acting",
+      "native_name": "演技",
+      "description": "Professional acting skills",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Singing",
+      "native_name": "歌",
+      "description": "Professional idol singing",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Dancing",
+      "native_name": "ダンス",
+      "description": "Idol dance performance",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Stage",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Performance",
+    "Live Show"
+  ],
+  "ultimate_move": "Star Performance",
+  "trump_card": "Child Prodigy Talent",
+  "power_attributes": {
+    "power_type": "Talent",
+    "power_source": "Training",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Microphone"
+    ],
+    "trump_card": "Child Prodigy Talent",
+    "ultimate_move": "Star Performance"
+  },
+  "personality": {
+    "traits": [
+      "Tsundere",
+      "Proud",
+      "Talented",
+      "Insecure",
+      "Determined"
+    ],
+    "likes": [
+      "Acting",
+      "Attention",
+      "Aqua"
+    ],
+    "dislikes": [
+      "Being ignored",
+      "Akane"
+    ],
+    "fear": "Losing talent",
+    "dream": "Return to top",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From fallen prodigy to rediscovering passion",
+    "motivation": "Return to stardom",
+    "affinity": "Star",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Former child prodigy actress",
+    "Member of B Komachi",
+    "Successful idol"
+  ],
+  "titles": [
+    "Child Prodigy",
+    "Idol"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 40,
+    "speed": 65,
+    "durability": 55,
+    "power": 70,
+    "combat": 30,
+    "total": 335
+  },
+  "weaknesses": {
+    "list": [
+      "Insecure",
+      "Tsundere",
+      "Prideful"
+    ],
+    "factors": [
+      "Emotional vulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Akane",
+      "Aqua",
+      "Ruby"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ruby",
+        "relationship": "Idol partner",
+        "trust_level": "High"
+      },
+      {
+        "name": "Aqua",
+        "relationship": "Colleague/Crush",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Akane"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Aqua",
+    "best_friend": "Ruby",
+    "rival": "Akane",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Akane",
+      "Aqua",
+      "Ruby"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Akane"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Akane"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Akane",
+      "Aqua",
+      "Ruby"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'm not washed up!",
+    "I'll show you my acting!"
+  ],
+  "voice_acting": {
+    "native_language": "Yurie Igoma",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Natalie Rial",
+    "japanese": "Megumi Han"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as idol",
+    "transformation": null,
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Child Prodigy",
+      "Fallen",
+      "Rediscovery"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17\n\nFormerly a prodigy child actress, Kana Arima lost most of her footing in the entertainment industry due to the poor reputation she garnered for herself on set during her grade school years. Though her attitude has greatly reformed by the present day, her image as merely a washed-up child actor continues to hamper her efforts.",
+  "note": null,
+  "source": "anime"
+}

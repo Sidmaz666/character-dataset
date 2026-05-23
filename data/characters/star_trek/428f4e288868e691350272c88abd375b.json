@@ -1,0 +1,443 @@
+{
+  "id": "428f4e288868e691350272c88abd375b",
+  "name": "Benjamin Sisko",
+  "native_name": null,
+  "full_name": "Benjamin Lafayette Sisko",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Sisko",
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": "37 at posting to DS9",
+    "birthday": "2332",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black/Dark Brown",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Strong jawline",
+      "Athletic build",
+      "Beard"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New Orleans, Louisiana, Earth",
+    "current_location": "Bajoran Wormhole / USS Robinson",
+    "base_of_operations": "Deep Space 9",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Commander/Captain",
+    "secondary": "Emissary of the Prophets",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet",
+      "Bajoran Faith"
+    ],
+    "previous": [
+      "USS Livingston",
+      "USS Okinawa",
+      "USS Saratoga"
+    ],
+    "relatives": [
+      "Joseph Sisko (father)",
+      "Sarah Sisko (mother)",
+      "Jake Sisko (son)",
+      "Jennifer Sisko (wife, deceased)",
+      "Kasidy Yates (wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1993) - \"Emissary\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Prophet Connection",
+      "native_name": null,
+      "description": "Unique connection to Bajoran Prophets through Emissary status",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited (across time)",
+      "limit": "Prophets may not always respond"
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Exceptional command presence and ability to inspire loyalty",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Personal cost of leadership burden"
+    },
+    {
+      "name": "Tactical Planning",
+      "native_name": null,
+      "description": "Master strategist for the Dominion War",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Requires time to plan"
+    }
+  ],
+  "signature_moves": [
+    "Opening Baseball",
+    "Emissary Wisdom",
+    "Wormhole Manipulation"
+  ],
+  "ultimate_move": "Commanding the Bajoran Wormhole Against Enemies",
+  "trump_card": "Prophets' Intervention",
+  "power_attributes": {
+    "power_type": "Combat/Prophetic",
+    "power_source": "Starfleet Training/Prophet Blessing",
+    "combat_style": [
+      "Traditional Starfleet",
+      "Baseball"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Baseball Glove",
+      "Bat"
+    ],
+    "trump_card": "Prophets' Intervention",
+    "ultimate_move": "Commanding the Bajoran Wormhole Against Enemies"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Protective",
+      "Practical",
+      "Occasionally Hot-Tempered",
+      "Spiritual"
+    ],
+    "likes": [
+      "Baseball",
+      "Cooking (Creole)",
+      "Family"
+    ],
+    "dislikes": [
+      "Cardassians (initially)",
+      "Injustice",
+      "Bureaucracy"
+    ],
+    "fear": "Losing His Son Jake",
+    "dream": "Proper Work-Life Balance",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Practical"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From grieving widower to respected station commander and religious figure, became hero of the Dominion War",
+    "motivation": "Protecting his son and serving the greater good",
+    "affinity": "Command",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Discovered the Bajoran Wormhole",
+    "Became the Emissary of the Prophets",
+    "Key strategist in Dominion War victory",
+    "Commanded Deep Space 9 for seven years",
+    "Uncovered the Prophet conspiracy"
+  ],
+  "titles": [
+    "The Emissary",
+    "Captain Sisko",
+    "Ben"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 80,
+    "speed": 72,
+    "durability": 78,
+    "power": 75,
+    "combat": 82,
+    "total": 475
+  },
+  "weaknesses": {
+    "list": [
+      "Temper Issues",
+      "Haunted by Wife's Death",
+      "Prophet Responsibilities"
+    ],
+    "factors": [
+      "Dealing with Picard (wife's death)",
+      "Religious expectations from Bajorans"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gul Dukat",
+    "allies": [
+      "Kira Nerys",
+      "Odo",
+      "Miles O'Brien",
+      "Jadzia Dax",
+      "Quark"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kira Nerys",
+        "relationship": "First Officer (Bajoran)",
+        "trust_level": "High"
+      },
+      {
+        "name": "Odo",
+        "relationship": "Security Chief, close friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Jadzia Ezri Dax",
+        "relationship": "Science Officer, friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Gul Dukat",
+      "The Dominion",
+      "Cardassians (historical)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gul Dukat",
+        "relationship": "Primary nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Kasidy Yates",
+    "best_friend": "Odo / Miles O'Brien",
+    "rival": "Kira Nerys (early friction)",
+    "mentor": "Curzon Dax",
+    "student": "Nog (helped join Starfleet)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kira Nerys",
+      "Odo",
+      "Miles O'Brien",
+      "Jadzia Dax",
+      "Quark",
+      "Odo / Miles O'Brien"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gul Dukat",
+      "Kira Nerys (early friction)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kira Nerys"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Nog"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kira Nerys",
+      "Odo",
+      "Miles O'Brien",
+      "Jadzia Dax",
+      "Quark",
+      "Odo / Miles O'Brien"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Curzon Dax"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gul Dukat",
+      "result": "Victory",
+      "method": "Multiple confrontations over years"
+    },
+    {
+      "opponent": "Dominion",
+      "result": "Victory",
+      "method": "Key commander in Federation victory"
+    },
+    {
+      "opponent": "Borg (at Wolf 359)",
+      "result": "Defeat",
+      "method": "First officer, ship destroyed"
+    }
+  ],
+  "quotes": [
+    "I used to pray for the dead. Now I get to spend eternity with them.",
+    "Things are only impossible until they're not.",
+    "The Federation has many fine officers. But none of them want to be station commander.",
+    "It's easy to be a hero when it's someone else's war."
+  ],
+  "voice_acting": {
+    "native_language": "Avery Brooks",
+    "english": "Avery Brooks",
+    "note": "Emotionally powerful performances",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (ascended to wormhole in 2381)",
+    "fate": "Ascended into the Bajoran Wormhole as a Prophet",
+    "transformation": "Became physical manifestation of a Prophet",
+    "awakening_potential": "Now exists as an eternal being",
+    "power_evolution": [
+      "Officer",
+      "Station Commander",
+      "Emissary",
+      "Prophet"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Defiant",
+      "USS Robinson"
+    ],
+    "vehicles": [
+      "Runabout"
+    ],
+    "headquarters": "Deep Space 9",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Benjamin Lafayette Sisko is a fictional character in the Star Trek franchise portrayed by Avery Brooks. He was the main character of the television series Star Trek: Deep Space Nine (DS9), which was originally broadcast between 1993 and 1999. The character has also appeared in various books, comics, and video games within the Star Trek franchise.",
+  "note": null,
+  "source": "star_trek"
+}

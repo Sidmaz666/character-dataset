@@ -1,0 +1,317 @@
+{
+  "id": "76f61c020c16e0600c358bca7671e376",
+  "name": "Olruggio",
+  "native_name": "オルッジオ",
+  "full_name": "Olruggio",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "September 20",
+    "zodiac": "Virgo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black\nEyes",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Watchful Eye",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Yuuichi Nakamura (Japanese)",
+    "Voiced by Reagan Murdock (English)"
+  ],
+  "titles": [
+    "Watchful Eye"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Reagan Murdock",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Yuuichi Nakamura"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Gender: Male\nBirthday: September 20\nHair: Black\nEyes: Dark Blue\nOccupation: Watchful Eye\nAffiliation: Pointed Cap Witches\nResidence: Qifrey's Atelier, Ghodrey (Previously)\nSpecialty: Fire Magic\nStatus: \n\nOlruggio is the Watchful Eye for Qifrey's atelier. He has a gruff way of speaking, but his magic is often described as \"warm.\"\n\nHe has created a lot of contraptions, such as the Glowstone Path, the Snugstone and the Searneedle Wand etc, and is well known among his fellow witches for his inventions.\n\nWhile he initially comes off as blunt and harsh, Olruggio is a genuinely kind and caring person. He looks after Qifrey and the students of the atelier, coming up with magical items to help them sleep and helping the students with their magic. \n\nThis kindness doesn’t just apply to people Olruggio knows— he helps out local villagers so frequently that the nobility of said villages and cities take note and seem almost jealous. Olruggio’s kindness towards others forces him to begin to question the laws of witch society, specifically laws against witches practicing medicine and introducing non-witches to magic. Whenever someone brings up Olruggio’s warm actions, he tries to brush it off as something anyone would do or simply part of his work as a Watchful Eye.\n\nOlruggio is notoriously bad with deadlines and overworks himself, staying up late at night to finish commissions. He is often tired and sometimes shows a haggard face with dark circles. Due to these bad habits, he sometimes sleeps on the couch of the Atelier, oversleeps, or even misses events. Despite this, he insists on the importance of sleep to Qifrey's apprentices.\n\nHe is easily flustered and will lie about not liking praise. While at first he loudly opposed the girls calling him their professor, he stops complaining about it during the story, only occasionally telling other people they are not his pupils. \n\n\n\nDuring his time in the Great Hall as an apprentice, Olruggio meets Qifrey and the two become fast friends. Olruggio helps Qifrey with his investigations into the Brimmed Caps, later helping him conquer the Tower of Tomes, though not managing to enter the library himself. Eventually, the two of them move out of the Great Hall and into Qifrey's Atelier. Olruggio helps Qifrey find his apprentices, and is present during their first encounter with Richeh. \n\nBrushbuddy is fond of him. He's seen playing with the creature, who also climbs on him, and rocks around happily when he comes back in the Great Hall.\n\nAccording to a sketch page by Shirahama Kamome, Olruggio enjoys strong yet sweet alcoholic drinks.\n\nThe diamond design featured on Olruggio's cap is also worn by many other Ghodrey citizens, such as a younger Utowin and his father. \n\nOlruggio uses the rough-sounding, Japanese male pronoun 俺 (ore)\n\n(Source: Witch Hat Atelier Independent Wiki)",
+  "note": null,
+  "source": "anime"
+}

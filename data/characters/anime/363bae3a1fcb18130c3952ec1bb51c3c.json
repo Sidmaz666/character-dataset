@@ -1,0 +1,316 @@
+{
+  "id": "363bae3a1fcb18130c3952ec1bb51c3c",
+  "name": "Misa Amane",
+  "native_name": "",
+  "full_name": "Misa Amane",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "41",
+    "birthday": "December 25, 1984",
+    "zodiac": "Capricorn",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Task Force HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Death Note",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Model",
+      "Kira Supporter"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Death Note",
+    "manga": "Death Note",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Deduction",
+      "type": "Mental",
+      "description": "Exceptionally skilled in logical deduction",
+      "power_level": "High"
+    },
+    {
+      "name": "Strategy",
+      "type": "Tactical",
+      "description": "Master strategist and planner",
+      "power_level": "High"
+    },
+    {
+      "name": "Investigation",
+      "type": "Mental",
+      "description": "Proficient in criminal investigation",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Deduction",
+    "Strategy",
+    "Investigation"
+  ],
+  "ultimate_move": "Deduction",
+  "trump_card": "Strategy",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Strategy",
+    "ultimate_move": "Deduction"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Calculating",
+      "Methodical",
+      "Analytical",
+      "Patient"
+    ],
+    "likes": [
+      "Learning",
+      "Peace and quiet"
+    ],
+    "dislikes": [
+      "Chaos"
+    ],
+    "fear": "Death",
+    "dream": "Unknown",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical",
+      "Intelligent",
+      "Patient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Death Note character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Aya Hirano (Japanese)",
+    "Voiced by Shannon Chan-Kent (English)"
+  ],
+  "titles": [
+    "Death Note"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 45,
+    "speed": 45,
+    "durability": 45,
+    "power": 45,
+    "combat": 45,
+    "total": 270
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": "Light Yagami",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Model",
+      "Kira Supporter"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "english": "Shannon Chan-Kent",
+    "japanese": "Aya Hirano"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: December 25, 1984 (1987 in the anime) \nBorn in: Kyoto\nHeight: 152 cm (4' 11\")\nWeight: 36 kilograms (79 pounds)\nB-W-H: 76 cm - 51 cm - 75 cm\nBlood Type: AB\n\nMisa is a famous model and actress and has an immense crush on Light Yagami. She usually refers to herself in the third person by calling herself \"Misa-Misa\" and tends to be hyperactive. She poses as the second Kira to attract the attention of the first Kira.",
+  "note": null,
+  "source": "anime"
+}

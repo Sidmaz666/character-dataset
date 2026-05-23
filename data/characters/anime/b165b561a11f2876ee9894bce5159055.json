@@ -1,0 +1,433 @@
+{
+  "id": "b165b561a11f2876ee9894bce5159055",
+  "name": "Übel",
+  "native_name": "ユベル",
+  "full_name": "Übel",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Silver/Light",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Young appearance",
+      "Sharp eyes",
+      "Mysterious demeanor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Various",
+    "current_location": "Various",
+    "base_of_operations": "Imperial Magic Association",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "First-Class Mage",
+    "secondary": "Former third-class mage",
+    "rank_title": "First-Class Mage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Imperial Magic Association"
+    ],
+    "previous": [
+      "Third-class mage"
+    ],
+    "relatives": [
+      "Sister (deceased, implied)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren",
+    "manga": "Sousou no Frieren",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cleaving Magic",
+      "native_name": "Reelseiden",
+      "description": "Invisible magic that cuts through anything as long as she can visualize it being cut. Even Burg's immovable cloak couldn't resist this magic.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium (5 meters)",
+      "limit": "Requires visualization, range limited to 5 meters"
+    },
+    {
+      "name": "Power Mimicry",
+      "native_name": null,
+      "description": "Can copy other mages' spells by empathizing with them and understanding their emotions and true nature. Doesn't need to understand the logical workings.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": "Requires physical/emotional connection to target"
+    },
+    {
+      "name": "Binding Magic",
+      "native_name": "Sorganeil",
+      "description": "Can use binding spells like Sorganeil to hold targets in place against their will. Learned this by empathizing with Wirbel.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Requires visualization"
+    },
+    {
+      "name": "Superhuman Imagination",
+      "native_name": null,
+      "description": "Possesses superhuman visual imagination that allows her to abuse the rules of magic. Can actualize anything she can perfectly visualize.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Cannot visualize what she cannot comprehend"
+    },
+    {
+      "name": "Intuitive Magic",
+      "native_name": null,
+      "description": "Uses magic through feel rather than logical analysis. Can ignore regular causal relationships to perform seemingly impossible feats.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "Unpredictable"
+    },
+    {
+      "name": "Quick Thinking",
+      "native_name": null,
+      "description": "Can come up with competent strategies instantly to turn the tables in her favor.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "Not combat applicable"
+    }
+  ],
+  "signature_moves": [
+    "Reelseiden",
+    "Sorganeil Binding",
+    "Empathic Copy"
+  ],
+  "ultimate_move": "Visualized Kill Cut",
+  "trump_card": "Empathic Power Mimicry",
+  "power_attributes": {
+    "power_type": "Mana/Magic",
+    "power_source": "Natural talent, intuitive visualization",
+    "combat_style": [
+      "Cleaving Magic",
+      "Empathic Copying",
+      "Binding"
+    ],
+    "weapon": "Gun",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Empathic Power Mimicry",
+    "ultimate_move": "Visualized Kill Cut"
+  },
+  "personality": {
+    "traits": [
+      "Troublemaker",
+      "Bold",
+      "Empathetic",
+      "Killer instinct",
+      "Trusting"
+    ],
+    "likes": [
+      "Killing",
+      "Fighting",
+      "Interesting mages",
+      "Scissors"
+    ],
+    "dislikes": [
+      "Boring opponents",
+      "Uninteresting magic"
+    ],
+    "fear": "5-meter range limitation",
+    "dream": "To find interesting magic and opponents",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Cleaving Magic",
+      "Power Mimicry",
+      "Binding Magic",
+      "Superhuman Imagination"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A dangerous mage who killed a first-class proctor during her second-class exam, yet passed the first-class exam due to her incredible talent. Her intuitive approach to magic allows her to copy abilities by understanding emotions rather than logic.",
+    "motivation": "Finding interesting magic, satisfying her killer instincts",
+    "affinity": "Mana",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Passed First-Class Mage Exam",
+    "Killed First-Class Mage proctor Burg",
+    "Copied Sorganeil through empathic understanding",
+    "Defeated Sense's hair magic"
+  ],
+  "titles": [
+    "First-Class Mage",
+    "The Killer Mage",
+    "The Intuitive"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 35,
+    "speed": 55,
+    "durability": 45,
+    "power": 90,
+    "combat": 75,
+    "total": 385
+  },
+  "weaknesses": {
+    "list": [
+      "5-meter range limitation",
+      "Requires visualization for cleaving",
+      "Killer instinct can be reckless"
+    ],
+    "factors": [
+      "Physical combat weakness",
+      "Short range"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Frieren",
+      "Fern",
+      "Wirbel (interested in)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Wirbel",
+        "relationship": "Interest/Respect",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Fern",
+        "relationship": "Fellow Mage",
+        "trust_level": "Respectful"
+      }
+    ],
+    "enemies": [
+      "Burg (deceased)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Burg",
+        "relationship": "Killed him",
+        "threat_level": "N/A (deceased)"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Wirbel",
+    "mentor": "Serie",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Fern",
+      "Wirbel (interested in)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Wirbel"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Wirbel"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Fern",
+      "Wirbel"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Serie"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Burg",
+      "result": "Victory",
+      "method": "Reelseiden cut through his immovable cloak"
+    },
+    {
+      "opponent": "Sense",
+      "result": "Victory",
+      "method": "Cutting magic defeated hair-based defense"
+    }
+  ],
+  "quotes": [
+    "I can cut anything I imagine being cut.",
+    "Magic is more about feeling than logic."
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Active as First-Class Mage",
+    "transformation": null,
+    "awakening_potential": "Shown exceptional talent, room for growth",
+    "power_evolution": [
+      "Third-class mage",
+      "First-class mage"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Imperial Magic Association",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "A Catholic priest who seems to be nothing more than a clumsy, absent-minded fool on the surface. In truth, he is a Crusnik, a vampire of extreme, extraordinary power, and is an ancient being, hundreds of years old. He is a vampire that feeds on the blood of vampires. But despite his strength, he adheres to a principle of pacifism and often refuses to outright kill his opponents, also he has sworn to never kill a human again and adheres to that promise regardless of how hard it gets for him to do so. Abel is shown in flashbacks to have a hatred for humanity, but at some point that changes into his current pacifistic and peaceful outlook on life. He acknowledges having greatly sinned at some point in his life, though it is unclear as to what sin he committed, and much of his current personality is based on retribution for his sins. Abel has at one point referred to his Crusnik form as \"a mark of his sins\", though it is unknown what he meant by that. He has feelings towards Esther Blanchett, though they are more related to her similarities with a woman from his past. In his human form he fights with a gun that shoots silver bullets. As a Crusnik, is able to transform into various forms based on the amount of nanomachines in his body that he activates. In his higher forms he wields a huge scythe materialized from his own blood. In The Star Of Sorrow II, it is revealed that pre-Armageddon, Nightroad was Commander in the UN Air and Space Force involved in the \"Red Mars\" project. [...]\n\nThe following information may contain spoilers for those who wish to read the manga/novel:\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

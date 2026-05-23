@@ -1,0 +1,428 @@
+{
+  "id": "0ce2954a9a2df0d2cb081f5f1195d8a5",
+  "name": "Bradley, King",
+  "native_name": "キング・ブラッドレイ",
+  "full_name": "King Bradley / Wrath",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Homunculus (Human-based)",
+    "race": "Human (Enhanced with Philosopher's Stone)",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "60",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark (left eye covered - Ultimate Eye)",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Eye patch",
+      "Weathered face",
+      "Scarred appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Central City",
+    "base_of_operations": "Central Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Führer of Amestris",
+    "secondary": "Commander-in-Chief, Homunculus",
+    "rank_title": "Führer",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Father",
+      "Homunculi",
+      "Amestrian State Military"
+    ],
+    "previous": [
+      "Candidate program"
+    ],
+    "relatives": [
+      "Selim (son)",
+      "Wife"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ultimate Eye",
+      "native_name": null,
+      "description": "Grants incredibly enhanced eyesight and extra-sensory vision. Can perceive and process information at instantaneous speeds, predict opponent moves, detect weaknesses. Similar to precognition.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Cannot see through opaque objects"
+    },
+    {
+      "name": "Master Swordsmanship",
+      "native_name": null,
+      "description": "Almost inhuman swordsmanship. Can wield five blades simultaneously. Can slice through cannonfire mid-air. The highest swordsmanship among any character in the series.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "Requires swords"
+    },
+    {
+      "name": "Peak Human Physical Condition",
+      "native_name": null,
+      "description": "Body of peak human conditioning despite being a Homunculus. Enhanced strength, speed, durability beyond normal humans.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Past physical prime due to age"
+    },
+    {
+      "name": "Strategic Mind",
+      "native_name": null,
+      "description": "Can read and predict practically any move. Perfect military field strategist. Processes tactical information instantly.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Not combat applicable"
+    },
+    {
+      "name": "Warrior's Instinct",
+      "native_name": null,
+      "description": "Believes only the strong should survive. Can ignore pain and fight while grievously injured.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Cannot regenerate like other Homunculi"
+    }
+  ],
+  "signature_moves": [
+    "Five Sword Strike",
+    "Ultimate Eye Prediction",
+    "Cannon Fire Slice"
+  ],
+  "ultimate_move": "Full Sword Barrage",
+  "trump_card": "Ultimate Eye + Master Swordsmanship",
+  "power_attributes": {
+    "power_type": "Enhanced Human",
+    "power_source": "Philosopher's Stone, Ultimate Eye",
+    "combat_style": [
+      "Master Sword Combat",
+      "Tactical Prediction",
+      "Multi-blade Fighting"
+    ],
+    "weapon": "Multiple swords",
+    "equipment": [
+      "Eye patch",
+      "Military uniform"
+    ],
+    "trump_card": "Ultimate Eye + Master Swordsmanship",
+    "ultimate_move": "Full Sword Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Kind demeanor",
+      "Calculating",
+      "Ruthless",
+      "Strategic",
+      "Pragmatic"
+    ],
+    "likes": [
+      "Strength",
+      "Survival",
+      "Order"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Inefficiency",
+      "Sentimentality"
+    ],
+    "fear": "Cannot see through opaque objects",
+    "dream": "To ensure Amestris prospers",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "The first Homunculus to survive Father's program and gain the ability to age. Presents a kind face as Führer while secretly being Father's instrument, believing in the survival of the fittest.",
+    "motivation": "Serving Father's plan, ensuring Amestris's strength",
+    "affinity": "Sword",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Became Führer of Amestris",
+    "First successful Homunculus candidate",
+    "Survived countless battles",
+    "Defeated tanks and armies",
+    "Wielded five swords simultaneously"
+  ],
+  "titles": [
+    "Führer",
+    "His Excellency",
+    "President",
+    "Wrath"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 85,
+    "speed": 90,
+    "durability": 88,
+    "power": 95,
+    "combat": 100,
+    "total": 553
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot see through opaque objects",
+      "Cannot regenerate like other Homunculi",
+      "Past physical prime"
+    ],
+    "factors": [
+      "Age",
+      "Eye patch limits Ultimate Eye usage"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Roy Mustang",
+    "allies": [
+      "Father",
+      "Other Homunculi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Father",
+        "relationship": "Master/Creator",
+        "trust_level": "High"
+      },
+      {
+        "name": "Selim",
+        "relationship": "Son",
+        "trust_level": "Family"
+      }
+    ],
+    "enemies": [
+      "Team Mustang",
+      "Edward Elric",
+      "Scar"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Roy Mustang",
+        "relationship": "Main Rival",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Wife",
+    "best_friend": null,
+    "rival": "Roy Mustang",
+    "mentor": "Father",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Father",
+      "Other Homunculi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Roy Mustang"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Roy Mustang"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Father",
+      "Other Homunculi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Greed",
+      "result": "Victory",
+      "method": "Superior swordsmanship"
+    },
+    {
+      "opponent": "Team Mustang",
+      "result": "Defeat",
+      "method": "Overwhelmed by multiple opponents"
+    }
+  ],
+  "quotes": [
+    "Only the strong should survive.",
+    "The loss of one life can only be balanced by the loss of another."
+  ],
+  "voice_acting": {
+    "native_language": "Kenta Miyake (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Ed Blaylock",
+    "japanese": "Hidekatsu Shibata"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed during the series",
+    "transformation": null,
+    "awakening_potential": "Already at maximum human potential",
+    "power_evolution": [
+      "Candidate",
+      "Führer",
+      "Wrath"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central Headquarters",
+    "story_importance": "Major Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "King Bradley is the Führer of the Amestris state military and has all state alchemist under his direct command. King Bradley almost always maintains a kind and calm demeanor even when issuing orders to engage in battle. This trait often confuses his subordinates, and Roy Mustang admits that he \"can't figure the guy out.\" King Bradley has a son, Selim, and an unnamed wife.\n\n\nIn the 2003 anime series, the Führer maintains his role as the president of the country. Although he is a carefree man, he has a mind like a steel trap and his personality can change rapidly. It was he who finished the Ishval Civil War by sending in the State Alchemists to end it.\n\n\nIn the manga and 2009 anime series, he has a slightly strange sense of humor and has a habit of doing rather odd things for someone of his status. Such things as joking with his subordinates, dressing-up as a tourist while visiting Dublith to meet Izumi Curtis, giving watermelons as gifts to Edward Elric, ditching work to meet the brothers in the hospital, and jumping out of a window to get away from his attendants.\n\n\n(Source: Fullmetal Alchemist Wikia)",
+  "note": null,
+  "source": "anime"
+}

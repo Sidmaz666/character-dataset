@@ -1,0 +1,424 @@
+{
+  "id": "439d8ef90cee867271193c6d9ee3d740",
+  "name": "Jonathan Archer",
+  "native_name": null,
+  "full_name": "Jonathan Archer",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Archer",
+    "height_cm": 183,
+    "weight_kg": 80,
+    "age": "41 when commanding Enterprise",
+    "birthday": "2240",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.9,
+    "nationality": "American"
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown (with gray when older)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Puppy dog eyes",
+      "Captain's bearing",
+      "Dog companion Porthos"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (NX-01)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Captain",
+    "secondary": "Starfleet Officer",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Starfleet Academy"
+    ],
+    "relatives": [
+      "Henry Archer (father)",
+      "Porthos (dog)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Enterprise (2001) - \"Broken Bow\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Natural leader who united diverse crew",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Occasional recklessness"
+    },
+    {
+      "name": "Xenolinguistics",
+      "native_name": null,
+      "description": "Speaks several languages including Klingonese",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Limited to learned languages"
+    },
+    {
+      "name": "Pilot Skills",
+      "native_name": null,
+      "description": "Competent pilot of early Starfleet craft",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Less advanced technology"
+    }
+  ],
+  "signature_moves": [
+    "Cowboy Diplomacy",
+    "Dog Companion",
+    "First Contact Making"
+  ],
+  "ultimate_move": "Preventing the Temporal Cold War",
+  "trump_card": "Klingon Forgiveness (saved their Empire)",
+  "power_attributes": {
+    "power_type": "Combat/Leadership",
+    "power_source": "Training",
+    "combat_style": [
+      "Starfleet Combat",
+      "Hand-to-Hand"
+    ],
+    "weapon": "Phase Pistol",
+    "equipment": [
+      "Dog Porthos",
+      "Early Starfleet Tech"
+    ],
+    "trump_card": "Klingon Forgiveness (saved their Empire)",
+    "ultimate_move": "Preventing the Temporal Cold War"
+  },
+  "personality": {
+    "traits": [
+      "Idealistic",
+      "Compassionate",
+      "Protective",
+      "Occasionally Reckless",
+      "Dog Lover"
+    ],
+    "likes": [
+      "Exploration",
+      "His Dog Porthos",
+      "Making First Contact"
+    ],
+    "dislikes": [
+      "Prejudice",
+      "War",
+      "Temporal Manipulation"
+    ],
+    "fear": "Not Living Up to Legacy",
+    "dream": "Building the Federation",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Reckless"
+    ]
+  },
+  "character": {
+    "arc": "From experimental ship captain to founder of the Federation",
+    "motivation": "Proving humanity deserves its place in space",
+    "affinity": "Exploration",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "First captain of Warp 5 Enterprise",
+    "Prevented Temporal Cold War",
+    "Made crucial alliance with Klingons",
+    "Helped found United Federation of Planets",
+    "Saved Earth from Xindi attack"
+  ],
+  "titles": [
+    "Captain",
+    "The First Captain",
+    "Federation Founder"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 72,
+    "speed": 70,
+    "durability": 75,
+    "power": 70,
+    "combat": 75,
+    "total": 447
+  },
+  "weaknesses": {
+    "list": [
+      "Recklessness",
+      "Dog Dependency",
+      "Trust in Others"
+    ],
+    "factors": [
+      "Rash decisions",
+      "Sometimes too trusting"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Silo",
+    "allies": [
+      "T'Pol",
+      "Trip Tucker",
+      "Charles Tucker III",
+      "Malcolm Reed"
+    ],
+    "allies_detailed": [
+      {
+        "name": "T'Pol",
+        "relationship": "Science Officer, close friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Trip Tucker",
+        "relationship": "Chief Engineer, best friend",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Silo",
+      "Xindi",
+      "Temporal Agents"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Silo",
+        "relationship": "Primary threat",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "T'Pol (eventually)",
+    "best_friend": "Trip Tucker",
+    "rival": "None",
+    "mentor": "Various",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "T'Pol",
+      "Trip Tucker",
+      "Charles Tucker III",
+      "Malcolm Reed"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Silo",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "T'Pol",
+      "Trip Tucker",
+      "Charles Tucker III",
+      "Malcolm Reed"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Xindi",
+      "result": "Victory",
+      "method": "Defended Earth"
+    },
+    {
+      "opponent": "Klingons",
+      "result": "Victory",
+      "method": "Proved humanity's worth"
+    },
+    {
+      "opponent": "Temporal War",
+      "result": "Victory",
+      "method": "Prevented changes"
+    }
+  ],
+  "quotes": [
+    "We're explorers, not conquerors.",
+    "Porthos, ready for some adventure?",
+    "Let's find out what's out there."
+  ],
+  "voice_acting": {
+    "native_language": "Scott Bakula",
+    "english": "Scott Bakula",
+    "note": "First captain in Star Trek timeline",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "First Federation President or high ranking official",
+    "transformation": "From ship captain to Federation founder",
+    "awakening_potential": "Achieved legendary status founding the Federation",
+    "power_evolution": [
+      "Officer",
+      "Captain",
+      "Federation Founder"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (NX-01)"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise NX-01",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Jonathan Archer is a fictional character in the Star Trek franchise. He is one of the protagonists of the television series Star Trek: Enterprise, where he was portrayed by Scott Bakula.",
+  "note": null,
+  "source": "star_trek"
+}

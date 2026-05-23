@@ -1,0 +1,391 @@
+{
+  "id": "a9671a297d06b2c42eec31be78e31086",
+  "name": "Kotomine, Kirei",
+  "native_name": "言峰 綺礼",
+  "full_name": "Kirei Kotomine",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "38",
+    "birthday": "December 28",
+    "zodiac": "Capricorn",
+    "blood_type": "B",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Priest cassock, muscular build, artificial magic heart",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Fuyuki City",
+    "current_location": "Fuyuki Church",
+    "base_of_operations": "Fuyuki Church",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Church Executor / Overseer of Grail War",
+    "secondary": "Magus (healing specialty)",
+    "rank_title": "Supervisor of 5th Holy Grail War",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Holy Church",
+      "Mages' Association"
+    ],
+    "previous": [
+      "Tokiomi Tohsaka (mentor)"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "manga": "Fate/stay night (2005)",
+    "game": "Fate/stay night (2004)",
+    "comics": null
+  },
+  "abilities": [
+    {
+      "name": "Executor Combat",
+      "native_name": "Executor",
+      "description": "Elite killer trained by Church; superhuman strength, speed, agility",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee"
+    },
+    {
+      "name": "Super Bajiquan",
+      "native_name": "八極拳",
+      "description": "Fusion of Bajiquan and magecraft; deadly internal strikes",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee"
+    },
+    {
+      "name": "Black Key Mastery",
+      "native_name": "黒鍵",
+      "description": "Throw magical daggers; can wield 6+ at once",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long"
+    },
+    {
+      "name": "Healing Magic",
+      "native_name": "治療魔術",
+      "description": "Specialized in magical surgery and healing",
+      "type": "Support",
+      "tier": "B+",
+      "power_level": 70,
+      "range": "Short"
+    },
+    {
+      "name": "Command Spell Affinity",
+      "native_name": "令呪",
+      "description": "Has many stolen Command Spells from past wars",
+      "type": "Control",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Grail Mud Control",
+      "native_name": "アグラヴェイン",
+      "description": "After revival, can manipulate tainted Grail mud",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Internal Destruction Strike",
+    "Black Key Barrage",
+    "Command Seal Blast"
+  ],
+  "ultimate_move": "Full Command Seal Activation",
+  "trump_card": "Super Bajiquan finishing move",
+  "power_attributes": {
+    "power_type": "Martial Arts + Magecraft",
+    "power_source": "Church training + Magic Crest",
+    "combat_style": [
+      "Bajiquan",
+      "Throwing weapons",
+      "Healing"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Throwing weapons"
+    ],
+    "trump_card": "Super Bajiquan finishing move",
+    "ultimate_move": "Full Command Seal Activation"
+  },
+  "personality": {
+    "traits": [
+      "Twisted",
+      "Sadistic",
+      "Calculating",
+      "Dignified",
+      "Contradictory"
+    ],
+    "likes": [
+      "Others' suffering",
+      "Creating conflict"
+    ],
+    "dislikes": [
+      "Happiness",
+      "Kiritsugu Emiya"
+    ],
+    "fear": "Finding meaning in life",
+    "dream": "Find true joy through others' pain",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Executor Combat",
+      "Super Bajiquan",
+      "Black Key Mastery",
+      "Healing Magic"
+    ],
+    "weaknesses": [
+      "Sadistic"
+    ]
+  },
+  "character": {
+    "arc": "From Church Executor to main antagonist",
+    "motivation": "Find joy in suffering, oppose Shirou's idealism",
+    "affinity": "Void",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Supervisor of 4th and 5th Grail War",
+    "Defeated Kiritsugu",
+    "Controlled multiple Servants",
+    "Killed many Masters"
+  ],
+  "titles": [
+    "Church Executor",
+    "Overseer",
+    "Priest"
+  ],
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 85,
+    "speed": 80,
+    "durability": 80,
+    "power": 85,
+    "combat": 95,
+    "total": 515
+  },
+  "relationships": {
+    "nemesis": "Kiritsugu Emiya (rival)",
+    "love_interest": "Rin Tohsaka (carer)",
+    "ward": "Rin Tohsaka (after father's death)",
+    "servants": [
+      "Assassin (4th war)",
+      "Lancer, Gilgamesh (5th war)"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Kiritsugu Emiya"
+    ],
+    "enemies_detailed": [],
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Kiritsugu Emiya (rival)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Holy Church",
+      "Mages' Association"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kiritsugu Emiya",
+      "result": "Victory (4th war)",
+      "method": "Command Seals + combat"
+    },
+    {
+      "opponent": "Shirou Emiya",
+      "result": "Defeat",
+      "method": "Killed with Azoth Sword"
+    }
+  ],
+  "quotes": [
+    "The law of the Church allows exceptions.",
+    "I have no wish for the Grail. I wish to see the results of wishes."
+  ],
+  "voice_acting": {
+    "native_language": "Sayori Ochi",
+    "note": null,
+    "native_name": null,
+    "english": "Crispin Freeman",
+    "japanese": "Jouji Nakata"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Stabbed by Shirou with Azoth Sword",
+    "transformation": [
+      "Revived by Angra Mainyu with Grail mud"
+    ],
+    "role_in_story": "Main Antagonist (Fate route)",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Sadistic"
+    ],
+    "factors": [
+      "sadistic"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Fuyuki Church",
+    "story_importance": "Main Antagonist (Fate route)",
+    "note": null
+  },
+  "about": "Born: December 28, 1967\nHeight: 185 cm (Fate/Zero), 193 cm (Fate/stay night)\nWeight: 82 kg\nBlood type: B\nLikes: misfortune\nDislikes: trust\nFamous quote: \"People cannot change the past. All we can do, is accept our own actions. If you still wish to be burdened by your sins, let it show in your future actions. It is your choice how to perceive something that has already happened.\"\n\nKotomine Kirei is the overseer of the Holy Grail War and resides at the church on top of the hill. He is callous and sarcastic, but also quite knowledgeable. As the supervisor of the Grail War, it is his duty to uphold the rules of the Holy Grail War, cover up any incidents that might expose the War to the public, and give sanctuary to any Masters who drop out. Both Tohsaka and Shirou appear to detest him, though in truth they don't seem to dislike him too much. Despite the enmity between the Mage's Association and the Church, Kotomine is a member of both organizations, which is presumably the reason he was chosen to be be the overseer.\n\nKotomine plays an important role in the unfolding events in all three routes, but the route that features him most heavily is the final one, Heaven's Feel where he takes an active role early on.\n\n(Source: TV Tropes)",
+  "note": null,
+  "source": "anime"
+}

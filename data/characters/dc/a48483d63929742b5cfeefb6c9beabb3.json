@@ -1,0 +1,498 @@
+{
+  "id": "a48483d63929742b5cfeefb6c9beabb3",
+  "name": "Lex Luthor",
+  "native_name": null,
+  "full_name": "Alexander Joseph Luthor",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Luthor family",
+    "height_cm": 188,
+    "weight_kg": 95,
+    "age": "40-50 (varies by continuity)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Bald (formerly red)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bald head",
+      "Muscular build",
+      "Intelligent eyes",
+      "Business suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Metropolis",
+    "current_location": "Metropolis",
+    "base_of_operations": "LexCorp Tower, Metropolis",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Businessman",
+    "secondary": "Criminal mastermind",
+    "rank_title": "CEO of LexCorp",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "LexCorp",
+      "Secret Society of Super Villains"
+    ],
+    "previous": [
+      "Injustice League",
+      "Legion of Doom"
+    ],
+    "relatives": [
+      "Lena Luthor (sister)",
+      "Lionel Luthor (father, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Action Comics #23 (April 1940)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "One of the smartest humans on Earth with expertise in science, engineering, and business",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Scientific Expertise",
+      "native_name": null,
+      "description": "Master of multiple scientific fields including physics, chemistry, and engineering",
+      "type": "Technical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Resources and time"
+    },
+    {
+      "name": "Business Acumen",
+      "native_name": null,
+      "description": "Brilliant businessman and strategist",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Market conditions"
+    },
+    {
+      "name": "Combat Training",
+      "native_name": null,
+      "description": "Trained in various forms of combat",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Technology Creation",
+      "native_name": null,
+      "description": "Can create advanced technology and weapons",
+      "type": "Technical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Resources and time"
+    },
+    {
+      "name": "Strategic Planning",
+      "native_name": null,
+      "description": "Master strategist and tactician",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Unpredictable factors"
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Charismatic leader capable of commanding organizations",
+      "type": "Social",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Wealth",
+      "native_name": null,
+      "description": "Extremely wealthy with vast resources",
+      "type": "Resource",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Market conditions"
+    }
+  ],
+  "signature_moves": [
+    "Kryptonite weapons",
+    "Technological traps",
+    "Strategic manipulation"
+  ],
+  "ultimate_move": "Kryptonite-powered battlesuit",
+  "trump_card": "Genius intelligence and preparation",
+  "power_attributes": {
+    "power_type": "Human",
+    "power_source": "Intelligence and technology",
+    "combat_style": [
+      "Strategic",
+      "Technological",
+      "Prepared"
+    ],
+    "weapon": "Various weapons and technology",
+    "equipment": [
+      "Kryptonite ring",
+      "Warsuit",
+      "Various gadgets",
+      "LexCorp technology"
+    ],
+    "trump_card": "Genius intelligence and preparation",
+    "ultimate_move": "Kryptonite-powered battlesuit"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Intelligent",
+      "Ambitious",
+      "Charismatic",
+      "Vengeful"
+    ],
+    "likes": [
+      "Power",
+      "Science",
+      "Business",
+      "Being right",
+      "Defeating Superman"
+    ],
+    "dislikes": [
+      "Superman",
+      "Aliens",
+      "Being inferior",
+      "Losing",
+      "Injustice (ironically)"
+    ],
+    "fear": "Being surpassed, Losing power, Superman",
+    "dream": "To prove human superiority and destroy Superman",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "Brilliant businessman becoming Superman's greatest enemy through obsession and jealousy",
+    "motivation": "To prove human superiority and destroy Superman",
+    "affinity": "Humanity",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Built LexCorp into massive corporation",
+    "Created advanced technology",
+    "Defeated Superman multiple times",
+    "Became President of the United States",
+    "Led various villain organizations"
+  ],
+  "titles": [
+    "Lex Luthor",
+    "Greatest Criminal Mind",
+    "Man of Steel's enemy",
+    "Alexander Luthor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Multiple life sentences, frequently escapes"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 35,
+    "speed": 30,
+    "durability": 40,
+    "power": 50,
+    "combat": 60,
+    "total": 315
+  },
+  "weaknesses": {
+    "list": [
+      "Human limitations",
+      "Arrogance",
+      "Obsession with Superman",
+      "Overconfidence"
+    ],
+    "factors": [
+      "Ego",
+      "Jealousy",
+      "Mental instability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Superman",
+    "allies": [
+      "Various villains",
+      "LexCorp employees"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Various villains",
+        "relationship": "Temporary allies",
+        "trust_level": "Low"
+      },
+      {
+        "name": "LexCorp employees",
+        "relationship": "Subordinates",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Superman",
+      "Batman",
+      "Wonder Woman",
+      "Justice League"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Superman",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Batman",
+        "relationship": "Intellectual rival",
+        "threat_level": "High"
+      },
+      {
+        "name": "Justice League",
+        "relationship": "Enemies",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Superman, Batman",
+    "mentor": null,
+    "student": "Various protégés",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Various villains",
+      "LexCorp employees"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Superman",
+      "Superman, Batman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Superman, Batman"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various protégés"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Various villains",
+      "LexCorp employees"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Superman",
+      "result": "Various",
+      "method": "Kryptonite and technology"
+    },
+    {
+      "opponent": "Batman",
+      "result": "Various",
+      "method": "Intelligence and preparation"
+    },
+    {
+      "opponent": "Justice League",
+      "result": "Various",
+      "method": "Strategic planning and technology"
+    }
+  ],
+  "quotes": [
+    "I am the world's smartest man",
+    "Superman represents everything I can never be",
+    "If you want to defeat your enemy, you must know your enemy",
+    "I'm not a villain, I'm a visionary"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Kevin Spacey (Superman Returns), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to plot against Superman",
+    "transformation": [
+      "Various power-ups",
+      "Presidency",
+      "Multiple deaths and resurrections"
+    ],
+    "awakening_potential": "None - already at peak human potential",
+    "power_evolution": [
+      "Businessman",
+      "Criminal mastermind",
+      "President"
+    ],
+    "role_in_story": "Main antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various vehicles",
+      "Private jets"
+    ],
+    "vehicles": [
+      "LexCorp vehicles",
+      "Various technological transports"
+    ],
+    "headquarters": "LexCorp Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Alexander Joseph Luthor () is a supervillain appearing in American comic books published by DC Comics. Created by writer Jerry Siegel and artist Joe Shuster, the character first appeared in Action Comics #23 (April 1940). He has since endured as the archenemy of Superman. While Superman embodies hope and selflessness, Luthor symbolizes unrestrained ambition and humanity's belief in the superiority of intellect over superhuman power.\nUnlike many supervillains, Luthor is an ordinary human with no superpowers or secret identity. His true strength lies in his unparalleled intelligence, vast wealth, and influence over politics, science, and technology. A genius with an extraordinary aptitude for business and manipulation, he is also proud, calculating, pragmatic, and vengeful—driven by an insatiable thirst for control and devoid of ethical principles. Luthor does not envy superheroes for their abilities but rather for the adoration they receive. He believes that the admiration society bestows upon them is recognition that rightfully belongs to him. Convinced that he alone possesses the intellect and capability to lead humanity, he justifies his ambition with the belief that only he is fit to guide the world. Luthor sees Superman as a threat, seeking to eliminate him not only out of personal rivalry but also because he believes the existence of an all-powerful being fosters dependence, preventing humanity from achieving its full potential.\nThough his main obsession is Superman, given his high-profile status as a supervillain, Luthor has also come into conflict with Batman and other heroes in the DC Universe. He frequently leads teams of villains, such as the Legion of Doom. While he prefers intelligence and strategy as his primary weapons, he occasionally dons his mechanized \"warsuit\", an advanced armored exoskeleton that grants him enhanced strength, flight capabilities, high-tech weaponry, and other tactical advantages in direct combat.\nThroughout different comic eras, Luthor has embodied various forms of villainy. In his early appearances, he was depicted as a narcissistic and selfish mad scientist. Since the mid-1980s, however, he has more commonly been portrayed as a ruthless corporate tycoon, obsessed with power and controlling LexCorp (or LuthorCorp).\nIn 2009, IGN ranked him #4 on its list of the 100 Greatest Comic Book Villains of All Time, surpassed only by the Joker, Magneto, and Doctor Doom. Wizard magazine also placed him at #8 in its ranking of the 100 Greatest Villains of All Time. The character has been adapted into various other forms of media, including television, film, animation, and video games. In film, Luthor has been played by Lyle Talbot in Atom Man vs. Superman (1950), Gene Hackman in the 1978–1987 Superman film series, Kevin Spacey in Superman Returns (2006), Jesse Eisenberg in the DC Extended Universe (2016–2017), and Nicholas Hoult in the DC Universe (2025–present).",
+  "note": null,
+  "source": "dc"
+}

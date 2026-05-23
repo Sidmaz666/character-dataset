@@ -1,0 +1,385 @@
+{
+  "id": "65c10e73f1d344af9ab4cc818818920a",
+  "name": "Tanya Degurechaff",
+  "native_name": "Tanya Degurechaff",
+  "full_name": "Tanya von Degurechaff",
+  "basic_info": {
+    "gender": "Female (soul was male)",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 120,
+    "weight_kg": 25,
+    "age": "9-13",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 17.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin": "Fair",
+    "notable_features": [
+      "Small child-like appearance",
+      "military uniform",
+      "blonde curls",
+      "blue eyes"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Empire (fantasy Europe)",
+    "current_location": "Eastern Front",
+    "base_of_operations": "Eastern Front",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Military Officer / Mage",
+    "secondary": "Battalion Commander",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Imperial Army",
+      "203rd Aerial Mage Battalion"
+    ],
+    "previous": [],
+    "relatives": [
+      "Unknown (orphan)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Youjo Senki Episode 1",
+    "manga": "Youjo Senki Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Aerial Mage Combat",
+      "native_name": null,
+      "description": "Elite aerial combat mage with flight and combat spells",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Computation Orb Mastery - Type 95",
+      "native_name": null,
+      "description": "Enhanced computation orb that boosts magical output dramatically",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Mental strain"
+    },
+    {
+      "name": "Explosive Charge Shell",
+      "native_name": null,
+      "description": "Powerful bombardment spell with heavy explosive ammunition",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Optical Camouflage",
+      "native_name": null,
+      "description": "Can become invisible to the naked eye",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant military strategist with understanding of modern warfare",
+      "type": "Tactical",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Global",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Flight combat",
+    "Explosive barrage",
+    "Optical camouflage"
+  ],
+  "ultimate_move": "Type 95 Orb Maximum Output",
+  "trump_card": "Computation Orb Mastery - Type 95",
+  "power_attributes": {
+    "power_type": "Aerial Mage",
+    "power_source": "Computation Orb Type 95",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Computation Orb Mastery - Type 95",
+    "ultimate_move": "Type 95 Orb Maximum Output"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Calculating",
+      "Ruthless",
+      "Pragmatic",
+      "Nihilistic"
+    ],
+    "likes": [
+      "Rationality",
+      "efficiency",
+      "surviving",
+      "promotions"
+    ],
+    "dislikes": [
+      "Being X (god)",
+      "irrationality",
+      "waste",
+      "her situation"
+    ],
+    "fear": "Child body limits endurance",
+    "dream": "Defy God (Being X), survive, and live a comfortable life",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Aerial Mage Combat",
+      "Computation Orb Mastery - Type 95",
+      "Explosive Charge Shell",
+      "Optical Camouflage"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "A corporate salaryman reincarnated as a little girl in a magical WWI-era world, forced to fight as a mage",
+    "motivation": "Defy God (Being X), survive, and live a comfortable life",
+    "affinity": "Neutral (antagonistic to both enemies and God)",
+    "alignment": "Lawful Evil / Neutral"
+  },
+  "achievements": [
+    "Became the youngest battalion commander",
+    "Earned the Silver Wings Assault Badge"
+  ],
+  "titles": [
+    "The Devil of the Rhine",
+    "Battalion Commander",
+    "Silver Wings"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 40,
+    "speed": 90,
+    "durability": 50,
+    "power": 95,
+    "combat": 90,
+    "total": 463
+  },
+  "weaknesses": {
+    "list": [
+      "Child body limits endurance",
+      "traumatized by war"
+    ],
+    "factors": [
+      "ruthless"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "203rd Aerial Mage Battalion",
+      "General von Zettour"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Being X",
+      "Entente Alliance forces"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "203rd Aerial Mage Battalion",
+      "General von Zettour"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Being X",
+      "Entente Alliance forces"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "203rd Aerial Mage Battalion",
+      "General von Zettour"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Praise be to Being X!",
+    "All is according to my calculations."
+  ],
+  "voice_acting": {
+    "native_language": "Aoi Yuki",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: September 24\n\nTanya von Degurechaff is a cute, adorable and pretty-good looking little girl. But deep inside, she is highly power-hungry, amoral, ruthless, sadistic and hot-tempered. Especially when she is in battle against her enemies, she shows utter ruthlessness and bloodlust just to accomplish her missions. Tanya also strongly disapproves of failure and disobedience from her subordinates. She is loyal to her own job and always wants to finish it as soon as possible. Tanya will never let anyone discriminate her appearance because of how fast she goes through the ranks in the military.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,398 @@
+{
+  "id": "0a85edac51c92019d4c05d5acc75c55d",
+  "name": "The Female",
+  "native_name": null,
+  "full_name": "Kimiko Miyashiro",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Human (Compound V Enhanced)",
+    "bloodline": "Miyashiro",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Scarred body",
+      "Bruises from experiments"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "United States",
+    "base_of_operations": "With The Boys",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Former Test Subject",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Boys"
+    ],
+    "previous": [
+      "Vought Testing Facility"
+    ],
+    "relatives": [
+      "Kenji Miyashiro (brother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Enhanced physical strength from Compound V experiments",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "None shown"
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Resistant to conventional weapons and damage",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Not invulnerable"
+    },
+    {
+      "name": "Healing Factor",
+      "native_name": null,
+      "description": "Rapid healing from injuries",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Self",
+      "limit": "Limited regeneration"
+    },
+    {
+      "name": "Combat Proficiency",
+      "native_name": null,
+      "description": "Expert hand-to-hand combatant with brutal efficiency",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Brutal Strike",
+    "One-Punch Kill"
+  ],
+  "ultimate_move": "Berserker Rampage",
+  "trump_card": "Full Power Attack",
+  "power_attributes": {
+    "power_type": "Super Strength",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Street Fighting",
+      "Brutal Combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Enhanced Durability"
+    ],
+    "trump_card": "Full Power Attack",
+    "ultimate_move": "Berserker Rampage"
+  },
+  "personality": {
+    "traits": [
+      "Silent",
+      "Protective",
+      "Fierce",
+      "Loyal"
+    ],
+    "likes": [
+      "Freedom",
+      "Protectors"
+    ],
+    "dislikes": [
+      "Being caged",
+      "Abuse"
+    ],
+    "fear": "Returning to captivity",
+    "dream": "Freedom",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal",
+      "Fierce"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From experiment victim to freed warrior",
+    "motivation": "Protecting loved ones",
+    "affinity": "Freedom",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Escaped Vought facility",
+    "Saved herself from captors",
+    "Joined The Boys"
+  ],
+  "titles": [
+    "The Female",
+    "Kimiko"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by Vought"
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 75,
+    "speed": 60,
+    "durability": 65,
+    "power": 60,
+    "combat": 70,
+    "total": 375
+  },
+  "weaknesses": {
+    "list": [
+      "No flight",
+      "Limited healing",
+      "No ranged attacks"
+    ],
+    "factors": [
+      " Emotional triggers",
+      "Memory loss"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Stormfront",
+    "allies": [
+      "Frenchie",
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Mother's Milk"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Frenchie",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Billy Butcher",
+        "relationship": "Team leader",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Vought",
+      "Stormfront"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Stormfront",
+        "relationship": "Attempted killer",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Frenchie",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frenchie",
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Mother's Milk"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Stormfront"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frenchie",
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Mother's Milk"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormfront",
+      "result": "Defeat",
+      "method": "Overpowered but survived"
+    }
+  ],
+  "quotes": [
+    "I speak through actions, not words."
+  ],
+  "voice_acting": {
+    "native_language": "Karen Fukuhara (English)",
+    "english": "Karen Fukuhara",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues fighting",
+    "transformation": null,
+    "awakening_potential": "Learning to communicate",
+    "power_evolution": [
+      "Test subject",
+      "Free warrior"
+    ],
+    "role_in_story": "Tritagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "With The Boys",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "An organism's sex is female (symbol: ♀) if it produces the ovum (egg cell), the type of gamete (sex cell) that fuses with the male gamete (sperm cell) during sexual reproduction.\nA female has larger gametes than a male. Females and males are results of the anisogamous reproduction system, wherein gametes are of different sizes (unlike isogamy where they are the same size). \nIn species that have males and females, sex-determination may be based on either sex chromosomes, or environmental conditions. Most female mammals, including female humans, have two X chromosomes. Characteristics of organisms with a female sex vary between different species, having different female reproductive systems, with some species showing characteristics secondary to the reproductive system, as with mammary glands in mammals.\nIn humans, the word female can also be used to refer to gender in the social sense of gender role or gender identity.",
+  "note": null,
+  "source": "image_comics"
+}

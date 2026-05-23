@@ -1,0 +1,399 @@
+{
+  "id": "b5eca5d9dbe704477451f5bab3851deb",
+  "name": "Thor",
+  "native_name": "Thor Odinson",
+  "full_name": "Thor Odinson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Asgardian",
+    "race": "Asgardian",
+    "bloodline": "Odinson",
+    "height_cm": 206,
+    "weight_kg": 290,
+    "age": "Eons",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 68.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Asgard",
+    "current_location": "Midgard/Earth",
+    "base_of_operations": "New Asgard",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "God of Thunder",
+    "secondary": "King of Asgard",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "The Mighty Thor",
+      "Valkyrie",
+      "Korg"
+    ],
+    "previous": [
+      "The Defenders",
+      "The Revengers"
+    ],
+    "relatives": [
+      "Odin (father)",
+      "Frigga (mother)",
+      "Loki (brother)",
+      "Hela (half-sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Journey into Mystery #83 (1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "God-Blast",
+      "native_name": null,
+      "description": "Unleash a bolt of lightning capable of shattering planets",
+      "type": "Energy Projection",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Planetary",
+      "limit": null
+    },
+    {
+      "name": "Weather Control",
+      "native_name": null,
+      "description": "Control over all forms of weather - thunder, lightning, rain, wind",
+      "type": "Elemental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Asgardian strength capable of lifting 100+ tons",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Mjolnir Manipulation",
+      "native_name": null,
+      "description": "Control over Mjolnir's enchantments - worthiness, flight, return",
+      "type": "Weapon Mastery",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "God-Force",
+      "native_name": null,
+      "description": "Latent energy within Thor providing godlike power",
+      "type": "Energy",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Ability to fly via Mjolnir",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Global",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Mjolnir Throw",
+    "Lightning Bolt",
+    "God-Blast"
+  ],
+  "ultimate_move": "Ultimate Thor/King Thor",
+  "trump_card": "God-Blast",
+  "power_attributes": {
+    "power_type": "Asgardian Magic",
+    "power_source": "Odin Force (partial)",
+    "combat_style": [
+      "Hammer Combat",
+      "Asgardian Martial Arts"
+    ],
+    "weapon": "Mjolnir (Uru)",
+    "equipment": [
+      "Hammer"
+    ],
+    "trump_card": "God-Blast",
+    "ultimate_move": "Ultimate Thor/King Thor"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Noble",
+      "Honorable"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Not worthy to lift Mjolnir when proving unworthiness",
+    "dream": "Protect the Nine Realms",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "The God of Thunder - son of Odin who became one of Earth's mightiest heroes",
+    "motivation": "Protect the Nine Realms",
+    "affinity": "Storm",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Gorr the God Butcher",
+    "Became King of Asgard",
+    "Worthy to wield Mjolnir"
+  ],
+  "titles": [
+    "Thor",
+    "God of Thunder",
+    "The Mighty Thor",
+    "King Thor",
+    "Odinson"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 100,
+    "speed": 83,
+    "durability": 100,
+    "power": 100,
+    "combat": 90,
+    "total": 558
+  },
+  "weaknesses": {
+    "list": [
+      "Not worthy to lift Mjolnir when proving unworthiness"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": [
+      "Loki",
+      "Gorr the God Butcher",
+      "Hela"
+    ],
+    "allies": [
+      "Avengers",
+      "Odin",
+      "Jane Foster"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Loki",
+      "Gorr the God Butcher",
+      "Hela",
+      "Beta Ray Bill"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Jane Foster",
+    "best_friend": "Heimdall",
+    "rival": "Beta Ray Bill",
+    "mentor": "Odin",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Odin",
+      "Jane Foster"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Loki",
+      "Gorr the God Butcher",
+      "Hela"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Beta Ray Bill"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Odin",
+      "Jane Foster"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Odin"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Chris Hemsworth",
+    "note": "MCU voice",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Bifrost Bridge"
+    ],
+    "vehicles": [],
+    "headquarters": "New Asgard",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Thor is a prominent god in Germanic paganism. In Norse mythology, he is a hammer-wielding god associated with thunder, storms, strength, protection, fertility, and farmers. Besides Old Norse Þórr, the deity occurs in Old English as Thunor, in Old Frisian as Thuner, in Old Saxon as Thunar, and in Old High German as Donar, all ultimately stemming from the Proto-Germanic theonym *Þun(a)raz, meaning 'Thunder'.",
+  "note": null,
+  "source": "marvel"
+}

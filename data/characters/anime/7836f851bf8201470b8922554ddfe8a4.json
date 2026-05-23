@@ -1,0 +1,324 @@
+{
+  "id": "7836f851bf8201470b8922554ddfe8a4",
+  "name": "Asuna",
+  "native_name": "結城明日奈",
+  "full_name": "Asuna",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "15",
+    "birthday": "September 30",
+    "zodiac": "Libra",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Aincrad",
+    "base_of_operations": "Aincrad",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sword Art Online",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Knights of the Blood"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Sword Art Online",
+    "manga": "Sword Art Online",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sword Skills",
+      "type": "Combat",
+      "description": "Mastery of VR sword combat techniques",
+      "power_level": "High"
+    },
+    {
+      "name": "System Knowledge",
+      "type": "Mental",
+      "description": "Deep understanding of game mechanics",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Quick Reflexes",
+      "type": "Physical",
+      "description": "Enhanced reaction time in virtual combat",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Sword Skills",
+    "System Knowledge",
+    "Quick Reflexes"
+  ],
+  "ultimate_move": "Sword Skills",
+  "trump_card": "System Knowledge",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship"
+    ],
+    "weapon": "Sword Skills",
+    "equipment": [
+      "Sword Skills"
+    ],
+    "trump_card": "System Knowledge",
+    "ultimate_move": "Sword Skills"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Loyal",
+      "Quick-thinking"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Sword Art Online character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Haruka Tomatsu (Japanese)",
+    "Voiced by Cherami Leigh (English)"
+  ],
+  "titles": [
+    "Sword Art Online"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 70,
+    "combat": 70,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Aincrad Liberation Force"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": "Kirigaya, Kazuto",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Aincrad Liberation Force"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Aincrad Liberation Force"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Cherami Leigh",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Haruka Tomatsu"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: September 30\nAge: 15 (Beginning of Aincrad arc); 17 (End of Aincrad arc, Fairy Dance arc); 18 (Phantom Bullet arc); 19 (Alicization Arc)\nHeight: 168 cm\nWeight: 55 kg\nThree Sizes (BWH): 82-60-83\nWeapons of choice: Wind Fleuret (1st Floor), Lambent Light (Forged by Lisbeth)\n\nAsuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she's extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.",
+  "note": null,
+  "source": "anime"
+}

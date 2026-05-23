@@ -1,0 +1,374 @@
+{
+  "id": "9ecc4576335c88f59856a5a40e8b5f75",
+  "name": "Reze",
+  "native_name": "レゼ",
+  "full_name": "Reze",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Hybrid (Human/Devil)",
+    "race": "Bomb Devil Hybrid",
+    "bloodline": "Unknown",
+    "height_cm": 160,
+    "weight_kg": 52,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bomb protrusions",
+      "Necklace",
+      "Cafe uniform"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Assassin",
+    "secondary": "Cafe Worker (cover)",
+    "rank_title": "Bomb Devil",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Unknown"
+    ],
+    "previous": [
+      "Cafe"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Movie",
+    "manga": "Chapter 39",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Bomb Transformation",
+      "native_name": "爆弾変身",
+      "description": "Transforms parts into explosives",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "Pull cord needed"
+    },
+    {
+      "name": "Explosion",
+      "native_name": "爆発",
+      "description": "Creates powerful explosions",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Long",
+      "limit": "Self damage"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": "再生",
+      "description": "Heals from explosions",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Needs fuel"
+    }
+  ],
+  "signature_moves": [
+    "Bomb Kick",
+    "Explosion",
+    "Chain Bomb"
+  ],
+  "ultimate_move": "Full Bomb Form",
+  "trump_card": "Nuclear Option",
+  "power_attributes": {
+    "power_type": "Explosive",
+    "power_source": "Bomb Devil",
+    "combat_style": [
+      "Explosives",
+      "Melee"
+    ],
+    "weapon": "Self",
+    "equipment": [
+      "Cafe uniform"
+    ],
+    "trump_card": "Nuclear Option",
+    "ultimate_move": "Full Bomb Form"
+  },
+  "personality": {
+    "traits": [
+      "Mysterious",
+      "Caring",
+      "Conflicted",
+      "Deadly",
+      "Genuine"
+    ],
+    "likes": [
+      "Denji",
+      "Coffee",
+      "Simple life"
+    ],
+    "dislikes": [
+      "War",
+      "Being used"
+    ],
+    "fear": "No freedom",
+    "dream": "Escape with Denji",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Bomb Transformation",
+      "Explosion",
+      "Regeneration"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Assassin seeking freedom",
+    "motivation": "Freedom and love",
+    "affinity": "Bomb",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Defeated multiple targets",
+    "Bomb Hybrid survival"
+  ],
+  "titles": [
+    "Bomb Devil",
+    "Hybrid"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 82,
+    "speed": 88,
+    "durability": 85,
+    "power": 94,
+    "combat": 88,
+    "total": 512
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional attachment",
+      "Self-destructive"
+    ],
+    "factors": [
+      "Pull cord",
+      "Fuel"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Makima",
+    "allies": [
+      "Denji"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Denji",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Makima",
+      "Public Safety"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Denji",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Makima"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Denji",
+      "result": "Inconclusive",
+      "method": "Fight/Flirt"
+    },
+    {
+      "opponent": "Various",
+      "result": "Victory",
+      "method": "Bombs"
+    }
+  ],
+  "quotes": [
+    "Want to go somewhere far away?",
+    "I liked you, Denji."
+  ],
+  "voice_acting": {
+    "native_language": "Reina Ueda",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Alexis Tipton",
+    "japanese": "Reina Ueda"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Disappeared after battle",
+    "transformation": "Bomb Devil",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Human",
+      "Hybrid"
+    ],
+    "role_in_story": "Love Interest",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Reze initially appears to be a kind and gentle girl who has a crush on Denji soon after meeting him, taking interest in him at first sight and was portrayed to be as somewhat enthusiastic, as shown when both Denji and her have a drink of coffee at the Café she had worked at. She is shown to be laughing at his jokes and isn't afraid to get close and intimate with him.\n\n\n\n(Source: Chainsaw Man Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

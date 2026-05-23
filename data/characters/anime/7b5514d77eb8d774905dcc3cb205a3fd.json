@@ -1,0 +1,317 @@
+{
+  "id": "7b5514d77eb8d774905dcc3cb205a3fd",
+  "name": "Tsumugi Kyouko",
+  "native_name": "",
+  "full_name": "Tsumugi Kyouko",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "July 2",
+    "zodiac": "Cancer",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "blue",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Staff"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weakness"
+    ]
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Minako Kotobuki (Japanese)",
+    "Voiced by Shelby Lindley (English)"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Shelby Lindley",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Minako Kotobuki"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: July 2\nSign: Cancer\nHeight: 157cm\nWeight: 53kg\nBlood type: O\nAge: 16-18\n\nFavorite Music: Classical music.\nExperience with playing musical instruments: Started playing piano at age four. Picked up keyboard upon joining the Light Music Club.\nFamily structure: Family of three, both parents. Father is a president of a company. There is a butler at the house. She is being treasured as the only daughter.\nDwelling: Single-family home, a rather stately mansion.\nCommute to school: By train (she lives two train stops away from the school). Because being driven to and from school by car is embarrassing for her, she avoids it.\nPreferences in clothing: Skirts over pants. High society lady styles, such as elegant one piece dresses.\nHer room: Canopy bed, antique furniture and such, as expected of a rich girl's room. The room is decorated mostly according to her parents' tastes.\nFavorite food: She prefers traditional sweets such as daifuku (rice cakes with red bean jam filling) because she worries about calories and because western sweets are brought to her house all the time and she is tired of them.\nSubjects she is good at: If anything, humanities, though she is also above average at science and math. While she is a little weaker than Mio when it comes to math, her math skills are certainly above her grade level.\nSubjects she is bad at: No subject in particular.\nPhysical activity: Tsumugi is gentle and quiet and as result she is not good at ball games and track-and-field athletics. However, she has a lot of arm strength and amazing hand grip. She is a very strong girl.\nWay to pass the time when alone: Elegant teatime\nWeaknesses and dislikes: She is a little worried about her predisposition to gain weight easily.\n\n    Tsumugi, often referred to as 'Mugi' by her friends, is a wealthy girl with a gentle and sweet personality who plays a Korg Triton Extreme 76-key keyboard, though she is also seen playing a Korg RK-100 keytar in the closing credits of the first season. She originally intended to join the choir club, but joins the light music club instead after receiving an invitation and encouragement from both Mio and Ritsu.Tsumugi is considered a piano prodigy since she has been playing the piano since she was four and has experience in winning various piano contests. Mugi has long, pale blonde hair, blue eyes, unusually large eyebrows, which apparently run in her family and a fair complexion that the other characters do not have, but she does not get sunburned. She is the daughter of a company president, and her family has several villas in various places around Japan (and even one in Finland). Since her father also owns a maid café, she often brings confectionery and an assortment of sweets and pastries to the club room, and she diligently makes tea with a tea set which is kept in their club room. Despite her wealth, she is fascinated by and finds joy in \"normal\" activities, such as ordering fast food, sharing french fries with her club mates, holding down part-time jobs and haggling over prices. Tsumugi displays a rebellious streak occasionally, diverting from her normally well-behaved and mature demeanor to the surprise of the others. She also displays a childlike eagerness from time to time, and possesses unusually high strength, being able to effortlessly carry around her own keyboard, Ritsu's drums, amplifiers, and at one point beating an arm-wrestling game in an arcade.\n\n    Tsumugi is often entranced by the sight of two girls interacting closely together, sometimes imagining something more risqué in her head. The series sometimes indicates that Mugi has a crush on their teacher, Sawako Yamanaka. While a lot of things do not bother her, she is fairly conscious about her weight (just like Mio), and she gets a bit anxious when her family's staff start spoiling her friends during villa visits. She later begins learning how to play the guitar from Azusa. Tsumugi has a childhood friend several years younger than her named Sumire Saitō who is a daughter of the family that serves the Kotobuki household. Tsumugi grew up home schooled, and therefore spent very little time in the outside world. Because of their close friendship Sumire would purchase everyday items like manga for Tsumugi that she was not normally allowed to see. Tsumugi was rather taken by some of the yuri manga she received which may have influenced her later perceptions about relationships. When Sumire started high school, Tsumugi wanted her to experience the light music club on her own, but due to Sumire's shyness Tsumugi came up with the excuse to send her to the club room to pick up the tea sets that had been left there and told Sawako when Sumire did join that it was okay to leave the tea sets there.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

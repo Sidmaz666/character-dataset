@@ -1,0 +1,351 @@
+{
+  "id": "3fbb7cb001c256f5aa64f9840e7bb49f",
+  "name": "Lasher",
+  "native_name": null,
+  "full_name": "Lasher",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Symbiote",
+    "race": "Life Phantom Symbiote",
+    "bloodline": null,
+    "height_cm": 210,
+    "weight_kg": 95,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White",
+    "hair_color": "None",
+    "skin_color": "Black/Dark Red",
+    "notable_features": [
+      "Tendrils",
+      "Spikes"
+    ],
+    "skin": "Black/Dark Red",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Research facility",
+    "current_location": "Unknown",
+    "base_of_operations": "Research facility",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Symbiote",
+    "secondary": "Mercenary",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Life Foundation"
+    ],
+    "previous": [
+      "Venom",
+      "Carnage"
+    ],
+    "relatives": [
+      "Other symbiotes"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Web of Spider-Man #180",
+    "comics": "Web of Spider-Man #180 (1989)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tendril Generation",
+      "native_name": null,
+      "description": "Can generate elongated tendrils from body",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced strength from symbiote",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Can adhere to surfaces",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Shape-Shifting",
+      "native_name": null,
+      "description": "Can alter form",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 45,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Tendril Lash",
+    "Constrict"
+  ],
+  "ultimate_move": "Tendril Storm",
+  "trump_card": "Superhuman Strength",
+  "power_attributes": {
+    "power_type": "Symbiote",
+    "power_source": "Knull",
+    "combat_style": "Melee",
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Superhuman Strength",
+    "ultimate_move": "Tendril Storm"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Savage",
+      "Protective",
+      "Cooperative"
+    ],
+    "likes": [
+      "Violence"
+    ],
+    "dislikes": [
+      "Light",
+      "Sound"
+    ],
+    "fear": "Sonic weapons",
+    "dream": "Survival",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Symbiote created by Life Foundation",
+    "motivation": "Survival",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Joined Venom family"
+  ],
+  "titles": [
+    "Lasher"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 35,
+    "strength": 60,
+    "speed": 55,
+    "durability": 55,
+    "power": 50,
+    "combat": 50,
+    "total": 305
+  },
+  "weaknesses": {
+    "list": [
+      "Vulnerable to sonic vibrations",
+      "Fire and heat"
+    ],
+    "factors": [
+      "Sonic and fire based attacks"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [
+      "Other symbiotes"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man",
+      "Venom"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Other symbiotes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Spider-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Other symbiotes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Research facility",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Lives of the Mayfair Witches is a trilogy of Gothic supernatural horror fantasy novels by American author Anne Rice. It centers on a family of witches whose fortunes have been guided for generations by a spirit named Lasher. The series began in 1990 with The Witching Hour, which was followed by the sequels Lasher (1993) and Taltos (1994). All three novels debuted at No. 2 on The New York Times Best Seller list.\nSome characters from the trilogy cross over to Rice's The Vampire Chronicles, a series of gothic horror novels featuring the vampire Lestat de Lioncourt, specifically in Merrick (2000), Blackwood Farm (2002), and Blood Canticle (2003).\nA television series adaptation, Mayfair Witches, debuted on AMC in 2023.",
+  "note": null,
+  "source": "marvel"
+}

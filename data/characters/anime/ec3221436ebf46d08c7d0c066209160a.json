@@ -1,0 +1,355 @@
+{
+  "id": "ec3221436ebf46d08c7d0c066209160a",
+  "name": "James",
+  "native_name": "Kojirou",
+  "full_name": "James",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "blood_type": "AB",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Purple/Blue",
+    "skin": "Fair",
+    "notable_features": [
+      "Blue-purple hair",
+      "Team Rocket uniform",
+      "always with Jessie and Meowth"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Rich family (unknown location)",
+    "current_location": "Traveling with Team Rocket",
+    "base_of_operations": "Traveling with Team Rocket",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Team Rocket Agent",
+    "secondary": "Former rich heir",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Team Rocket"
+    ],
+    "previous": [],
+    "relatives": [
+      "Unnamed wealthy parents (estranged)",
+      "Jessebelle (ex-fiancee)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Pokemon Episode 2",
+    "manga": "Pokemon Episode 2",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Gadget Building",
+      "native_name": null,
+      "description": "Talented at building rocket mecha and contraptions",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Bottle Cap Collecting",
+      "native_name": null,
+      "description": "Encyclopedic knowledge of bottle caps",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 1,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Grass Pokemon Mastery",
+      "native_name": null,
+      "description": "Bonds well with Grass-type Pokemon",
+      "type": "Tactical",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Gadget Building",
+    "Grass Pokemon Mastery",
+    "Bottle Cap Collecting"
+  ],
+  "ultimate_move": "Gadget Building",
+  "trump_card": "Grass Pokemon Mastery",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Gadget Building"
+    ],
+    "trump_card": "Grass Pokemon Mastery",
+    "ultimate_move": "Gadget Building"
+  },
+  "personality": {
+    "traits": [
+      "Cowardly but loyal",
+      "Kind-hearted at times",
+      "Dramatic",
+      "Fashionable",
+      "Compassionate to Pokemon"
+    ],
+    "likes": [
+      "Jessie",
+      "Meowth",
+      "bottle caps"
+    ],
+    "dislikes": [
+      "His fiancee Jessebelle",
+      "being poor"
+    ],
+    "fear": "Losing power",
+    "dream": "Survive and impress Giovanni",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cowardly"
+    ]
+  },
+  "character": {
+    "arc": "Runaway rich heir who joined Team Rocket but secretly has a good heart",
+    "motivation": "Survive and impress Giovanni",
+    "affinity": "Evil",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Voiced by Rica Matsumoto (Japanese)",
+    "Voiced by Brianne Siddall (English)"
+  ],
+  "titles": [
+    "Team Rocket Agent"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 45,
+    "speed": 50,
+    "durability": 55,
+    "power": 40,
+    "combat": 45,
+    "total": 305
+  },
+  "weaknesses": {
+    "list": [
+      "Cowardly"
+    ],
+    "factors": [
+      "cowardly"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Jessie",
+      "Meowth"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Ash Ketchum",
+      "Officer Jenny"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Jessie",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jessie",
+      "Meowth"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ash Ketchum",
+      "Officer Jenny"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jessie",
+      "Meowth"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Prepare for trouble!",
+    "And make it double!"
+  ],
+  "voice_acting": {
+    "native_language": "Shinichiro Miki",
+    "note": null,
+    "native_name": null,
+    "english": "Brianne Siddall",
+    "japanese": "Rica Matsumoto"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Recurring Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Recurring Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Pokémon: Adventures in the Orange Islands is the second season of the Pokémon anime series and of Pokémon the Series: The Beginning, known in Japan as Pocket Monsters (ポケットモンスター, Poketto Monsutā). It originally aired in Japan from January 28 to October 7, 1999, on TV Tokyo, and in the United States from December 4, 1999, to October 14, 2000, on The WB/Kids' WB!.\nThe season follows Ash Ketchum as he travels across the Orange Islands to challenge its Pokémon League while joined by Misty and Tracey Sketchit, a Pokémon Watcher.\nThe episodes were directed by Masamitsu Hidaka and produced by the animation studio Oriental Light and Magic.",
+  "note": null,
+  "source": "anime"
+}

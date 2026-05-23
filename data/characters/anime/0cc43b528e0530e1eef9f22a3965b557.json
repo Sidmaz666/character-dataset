@@ -1,0 +1,513 @@
+{
+  "id": "0cc43b528e0530e1eef9f22a3965b557",
+  "name": "Uzumaki, Naruto",
+  "native_name": "うずまきナルト",
+  "full_name": "Naruto Uzumaki",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Japanese",
+    "bloodline": "Uzumaki clan",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "17 (Shippuden), 33 (Boruto)",
+    "birthday": "October 10",
+    "zodiac": "Libra",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Yellow",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Whisker marks on cheeks",
+      "Spiky yellow hair",
+      "Orange jumpsuit",
+      "Headband"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure (Hidden Leaf Village)",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Konohagakure",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Hokage",
+    "rank_title": "Seventh Hokage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team 7"
+    ],
+    "previous": [
+      "Team 7",
+      "Allied Shinobi Forces"
+    ],
+    "relatives": [
+      "Minato Namikaze (father, deceased)",
+      "Kushina Uzumaki (mother, deceased)",
+      "Hinata Hyuga (wife)",
+      "Boruto Uzumaki (son)",
+      "Himawari Uzumaki (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Nine-Tails Chakra",
+      "native_name": "九尾のチャクラ",
+      "description": "Possesses massive chakra from the Nine-Tailed Fox sealed inside him",
+      "type": "Power Source",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Chakra control and seal"
+    },
+    {
+      "name": "Shadow Clone Jutsu",
+      "native_name": "影分身の術",
+      "description": "Can create solid clones that can fight independently",
+      "type": "Ninjutsu",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Chakra reserves"
+    },
+    {
+      "name": "Rasengan",
+      "native_name": "螺旋丸",
+      "description": "Powerful spinning ball of chakra that can cause massive damage",
+      "type": "Ninjutsu",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short",
+      "limit": "Chakra control"
+    },
+    {
+      "name": "Sage Mode",
+      "native_name": "仙人モード",
+      "description": "Can enter Sage Mode for enhanced physical abilities and sensory perception",
+      "type": "Power Enhancement",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Natural energy balance"
+    },
+    {
+      "name": "Kurama Mode",
+      "native_name": "九喇嘛モード",
+      "description": "Can access full Nine-Tails power for enhanced abilities",
+      "type": "Power Enhancement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Cooperation with Kurama"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced physical strength from Nine-Tails chakra",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Chakra reserves"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Enhanced speed and reflexes",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Chakra reserves"
+    },
+    {
+      "name": "Uzumaki Vitality",
+      "native_name": null,
+      "description": "Enhanced healing and vitality from Uzumaki bloodline",
+      "type": "Biological",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Severe damage"
+    }
+  ],
+  "signature_moves": [
+    "Shadow Clone Jutsu",
+    "Rasengan",
+    "Sage Mode",
+    "Kurama Mode"
+  ],
+  "ultimate_move": "Six Paths Sage Mode with Kurama",
+  "trump_card": "Talk no Jutsu (persuasion)",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Nine-Tails Fox and Uzumaki bloodline",
+    "combat_style": [
+      "Clone-based",
+      "Rasengan",
+      "Sage Mode",
+      "Versatile"
+    ],
+    "weapon": "Kunai",
+    "equipment": [
+      "Kunai",
+      "Shuriken",
+      "Headband",
+      "Scrolls"
+    ],
+    "trump_card": "Talk no Jutsu (persuasion)",
+    "ultimate_move": "Six Paths Sage Mode with Kurama"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Optimistic",
+      "Loyal",
+      "Energetic",
+      "Never gives up"
+    ],
+    "likes": [
+      "Ramen",
+      "Becoming Hokage",
+      "Friends",
+      "Sasuke",
+      "Hinata"
+    ],
+    "dislikes": [
+      "Being alone",
+      "People hurting friends",
+      "Losing",
+      "Being underestimated"
+    ],
+    "fear": "Losing friends, Failing to become Hokage, Being alone again",
+    "dream": "To become Hokage and be acknowledged by everyone",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Outcast becoming Hokage through determination and never giving up",
+    "motivation": "To become Hokage and protect his friends",
+    "affinity": "Wind",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world multiple times",
+    "Became Seventh Hokage",
+    "Defeated major threats like Pain, Madara, Kaguya",
+    "Befriended Kurama (Nine-Tails)",
+    "Became hero of the village"
+  ],
+  "titles": [
+    "Naruto Uzumaki",
+    "Seventh Hokage",
+    "Hero of the Hidden Leaf",
+    "Child of Prophecy"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 85,
+    "speed": 85,
+    "durability": 85,
+    "power": 100,
+    "combat": 85,
+    "total": 510
+  },
+  "weaknesses": {
+    "list": [
+      "Chakra exhaustion",
+      "Overconfidence",
+      "Emotional attachments",
+      "Rasengan mastery"
+    ],
+    "factors": [
+      "Kurama cooperation",
+      "Sage Mode balance",
+      "Emotional state"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Pain",
+    "allies": [
+      "Sasuke Uchiha",
+      "Sakura Haruno",
+      "Kakashi Hatake",
+      "Jiraiya"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Sasuke Uchiha",
+        "relationship": "Best friend and rival",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "relationship": "Teacher and friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Jiraiya",
+        "relationship": "Teacher (deceased)",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Pain",
+      "Madara Uchiha",
+      "Obito Uchiha",
+      "Kaguya Otsutsuki",
+      "Orochimaru"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Pain",
+        "relationship": "Personal enemy",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Madara Uchiha",
+        "relationship": "Major threat",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Orochimaru",
+        "relationship": "Former enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Hinata Hyuga",
+    "best_friend": "Sasuke Uchiha",
+    "rival": "Sasuke Uchiha",
+    "mentor": "Kakashi Hatake, Jiraiya",
+    "student": "Konohamaru Sarutobi, Boruto Uzumaki",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sasuke Uchiha",
+      "Sakura Haruno",
+      "Kakashi Hatake",
+      "Jiraiya"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Pain",
+      "Sasuke Uchiha"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Sasuke Uchiha"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Konohamaru Sarutobi, Boruto Uzumaki"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sasuke Uchiha",
+      "Sakura Haruno",
+      "Kakashi Hatake",
+      "Jiraiya"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kakashi Hatake, Jiraiya"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Pain",
+      "result": "Victory",
+      "method": "Sage Mode and determination"
+    },
+    {
+      "opponent": "Madara Uchiha",
+      "result": "Victory",
+      "method": "Teamwork and power"
+    },
+    {
+      "opponent": "Kaguya Otsutsuki",
+      "result": "Victory",
+      "method": "Teamwork and Six Paths power"
+    }
+  ],
+  "quotes": [
+    "I'm not gonna run away, I never go back on my word",
+    "That's my ninja way",
+    "Believe it!",
+    "I'll become Hokage, believe it!"
+  ],
+  "voice_acting": {
+    "native_language": "Junko Takeuchi",
+    "note": "Multiple voice actors across series",
+    "native_name": null,
+    "english": "Maile Flanagan",
+    "japanese": "Junko Takeuchi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as Seventh Hokage",
+    "transformation": [
+      "Nine-Tails control",
+      "Sage Mode",
+      "Six Paths Sage Mode"
+    ],
+    "awakening_potential": "Full potential as Hokage",
+    "power_evolution": [
+      "Academy student",
+      "Genin",
+      "Chunin",
+      "Hokage"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Running",
+      "Summoning"
+    ],
+    "vehicles": [
+      "None needed"
+    ],
+    "headquarters": "Konohagakure",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 12-13 (Naruto part I), 15-17 (part II), 19 (The Last: Naruto the Movie), 27 (Naruto epilogue), 32 (Boruto: Naruto the Movie)\nBirthday: October 10\nBlood type: B\nHeight: 145–147 cm (I), 166 cm (II), 174 cm (The Last: Naruto the Movie), 180 cm (Boruto: Naruto the Movie)\nWeight: 41–44 kg (I), 52 kg (II), 56 kg (The Last: Naruto the Movie), 66 kg (Boruto: Naruto the Movie)\nFavorite food: Ichiraku ramen\n\nBorn in Konohagakure, a ninja village hidden in the leaves, Naruto Uzumaki was destined for greatness. When born, a powerful nine-tailed demon fox attacked his village. With a wave of its tail, the demon fox could raise tsunamis and shatter mountains. In a valiant attempt to save the village from destruction, the Fourth Hokage, the leader of the Hidden Leaf Village, sealed the demon fox within Naruto's newborn body. This was his final act, for the battle with the fox cost him his life.\n\nDespite the Fourth Hokage's dying wish that Naruto be viewed as a hero for serving as the container for the demon (a Jinchuuriki) the adult villagers of Konoha harbored a fierce hatred for him, with many believing that Naruto and the demon were one and the same. Cast aside as an inhuman monster, Naruto was outcast and ostracized by the villagers for reasons he could not understand. The children his age could only ever follow their parents' example; and they too came to harbor a fierce hatred for Naruto.\n\nNaruto eventually came to accept that he would live and die alone, and his external response was to perform harmless pranks on the village. Boisterous, raffish and full of life, Naruto soon came to display a somewhat unexpected determination to succeed and be accepted by others. Upon being assigned to \"Team Seven\" as a Genin-ranked ninja, his true potential soon became outwardly apparent.\n\nVowing to become Hokage one day and using his will to never give in, Naruto saves the village from invading forces and earns his acceptance. Eventually, Naruto learns to harness the power of the Demon Fox sealed inside him to perform acts of strength far beyond what any other human is capable of.\n\nIn all, Naruto is an admirable character whose sheer determination to succeed despite the odds, earns him respect and devotion from his fellow villagers.",
+  "note": null,
+  "source": "anime"
+}

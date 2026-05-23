@@ -1,0 +1,440 @@
+{
+  "id": "60a69e9e0e7a99b5c2f323a51ab6dd35",
+  "name": "Yuki Nagato",
+  "native_name": "長門有希",
+  "full_name": "Yuki Nagato",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Humanoid Interface (Alien)",
+    "race": "Data Integration Thought Entity creation",
+    "bloodline": "N/A",
+    "height_cm": 155,
+    "weight_kg": 45,
+    "age": "Appears 15-16",
+    "birthday": "November 18",
+    "zodiac": "Scorpio",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black (bob cut)",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Glasses (decorative)",
+      "Expressionless face",
+      "Small stature",
+      "Always reading"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Created by Data Overmind",
+    "current_location": "North High, Japan",
+    "base_of_operations": "SOS Brigade headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Humanoid Interface/Alien",
+    "rank_title": "SOS Brigade Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "SOS Brigade",
+      "Data Overmind"
+    ],
+    "previous": [
+      "Literary Club"
+    ],
+    "relatives": [
+      "Data Overmind (creator)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "The Melancholy of Haruhi Suzumiya Episode 1",
+    "manga": "The Melancholy of Haruhi Suzumiya Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Data Manipulation",
+      "native_name": "データ操作",
+      "description": "Can manipulate the information of objects within space, altering their shape, properties, and functions.",
+      "type": "Attack/Defense/Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short to Medium",
+      "limit": "Cannot affect Haruhi's closed space directly"
+    },
+    {
+      "name": "Reality Alteration",
+      "native_name": "現実改変",
+      "description": "Can alter environmental elements and reconstruct reality within her domain.",
+      "type": "Attack/Defense/Utility",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "Limited against beings with equal or greater power"
+    },
+    {
+      "name": "Enhanced Perception",
+      "native_name": "強化知覚",
+      "description": "Can sense body temperature, laser beams, subatomic particles, and other data organisms. Extremely keen observation skills.",
+      "type": "Support/Detection",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Not infallible against all phenomena"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": "精神感应",
+      "description": "Can communicate mentally and sense other beings' thoughts and intentions.",
+      "type": "Support/Communication",
+      "tier": "B",
+      "power_level": 78,
+      "range": "Short to Medium",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Energy Projection",
+      "native_name": "エネルギー投射",
+      "description": "Can project energy beams and create protective barriers.",
+      "type": "Attack/Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Short to Long",
+      "limit": "Requires energy"
+    }
+  ],
+  "signature_moves": [
+    "Data manipulation",
+    "Energy barriers",
+    "Reality alteration"
+  ],
+  "ultimate_move": "Full data integration manipulation",
+  "trump_card": "Connecting to the Data Overmind network",
+  "power_attributes": {
+    "power_type": "Data/Alien Technology",
+    "power_source": "Data Overmind connection",
+    "combat_style": [
+      "Data warfare",
+      "Reality manipulation",
+      "Energy projection"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Glasses (decorative)",
+      "Books"
+    ],
+    "trump_card": "Connecting to the Data Overmind network",
+    "ultimate_move": "Full data integration manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Quiet",
+      "Emotionless (initially)",
+      "Curious",
+      "Devoted",
+      "Developing emotions",
+      "Competitive"
+    ],
+    "likes": [
+      "Reading books",
+      "The Day of Sagittarius III",
+      "The SOS Brigade",
+      "Kyon"
+    ],
+    "dislikes": [
+      "Being interrupted while reading",
+      "Closed spaces",
+      "Her purpose being challenged"
+    ],
+    "fear": "Being deactivated or losing her connection",
+    "dream": "Understand humanity and find her own meaning",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Data Manipulation",
+      "Reality Alteration",
+      "Enhanced Perception",
+      "Telepathy"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Yuki begins as a seemingly emotionless alien observing Haruhi, but gradually develops genuine emotions and attachments, particularly to Kyon and the SOS Brigade. Her journey explores what it means to be human and find purpose beyond programming.",
+    "motivation": "Observe Haruhi and report to Data Overmind; later, protect the SOS Brigade",
+    "affinity": "Black/Data",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Protected Kyon from assassination",
+    "Survived multiple closed space events",
+    "Developed genuine human emotions",
+    "Saved the world multiple times through SOS Brigade"
+  ],
+  "titles": [
+    "The Alien",
+    "Nagato-daimyo",
+    "Humanoid Interface",
+    "The Silent One"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 45,
+    "speed": 60,
+    "durability": 65,
+    "power": 90,
+    "combat": 70,
+    "total": 425
+  },
+  "weaknesses": {
+    "list": [
+      "Limited emotional expression initially",
+      "Cannot fully affect Haruhi's reality warping",
+      "Connection to Data Overmind can be severed"
+    ],
+    "factors": [
+      "Lacks physical strength",
+      "Emotional development is ongoing",
+      "Her powers are technology-based"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ryoko Asakura (murder attempt)",
+    "allies": [
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Mikuru Asahina",
+      "Itsuki Koizumi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kyon",
+        "relationship": "Close friend/trusted ally",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Haruhi Suzumiya",
+        "relationship": "Subject of observation/ally",
+        "trust_level": "High (complicated)"
+      },
+      {
+        "name": "Mikuru Asahina",
+        "relationship": "Fellow brigade member",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Ryoko Asakura",
+      "Celestials"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Ryoko Asakura",
+        "relationship": "Attempted to kill Kyon",
+        "threat_level": "High (defeated)"
+      }
+    ],
+    "love_interest": "Kyon (implied)",
+    "best_friend": "Kyon",
+    "rival": "None",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Mikuru Asahina",
+      "Itsuki Koizumi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ryoko Asakura (murder attempt)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Mikuru Asahina",
+      "Itsuki Koizumi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ryoko Asakura",
+      "result": "Victory",
+      "method": "Used alien powers to defeat"
+    }
+  ],
+  "quotes": [
+    "I am a Humanoid Interface. My purpose is to observe.",
+    "Books are my way of understanding humans.",
+    "The data has changed. I have changed."
+  ],
+  "voice_acting": {
+    "native_language": "Mini Tuk (Japanese - 2006 series), Yuki Matsuki (Japanese - 2009 series)",
+    "note": "Known for quiet, monotone delivery",
+    "native_name": null,
+    "english": "Michelle Ruff",
+    "japanese": "Minori Chihara"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues with SOS Brigade, develops more human emotions",
+    "transformation": "From emotionless alien to developing human feelings",
+    "awakening_potential": "Could fully integrate human emotions",
+    "power_evolution": [
+      "Alien observer",
+      "SOS Brigade member",
+      "Emotionally developing",
+      "Independent being"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "SOS Brigade headquarters",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The Disappearance of Nagato Yuki-chan (長門有希ちゃんの消失, Nagato Yuki-chan no Shōshitsu) is a Japanese manga series written and illustrated by Puyo. The series is a spinoff of Nagaru Tanigawa's Haruhi Suzumiya light novel series, and is based on the alternate universe originally featured in the series' fourth volume and feature film, The Disappearance of Haruhi Suzumiya. The series was serialized in Kadokawa Shoten's Young Ace magazine from July 2009 to August 2016 and is licensed by Yen Press. A 16-episode anime television series adaptation by Satelight aired between April and July 2015, with an original video animation episode released in October 2015.",
+  "note": null,
+  "source": "anime"
+}

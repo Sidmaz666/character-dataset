@@ -1,0 +1,418 @@
+{
+  "id": "e8ee5b54a7abcb76bcd3a644ab37e7b3",
+  "name": "Sasuke Uchiha",
+  "native_name": "うちはサスケ",
+  "full_name": "Sasuke Uchiha",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Uchiha)",
+    "bloodline": "Uchiha Clan",
+    "height_cm": 168,
+    "weight_kg": 52,
+    "age": "12-13 (Part I), 15-17 (Part II)",
+    "birthday": "July 23",
+    "zodiac": "Leo",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 18.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spiky black hair",
+      "Sharingan eyes",
+      "Uchiha crest",
+      "Cold expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Team 7",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Avenger",
+    "rank_title": "Genin (Part I), Chunin (Part II)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team 7"
+    ],
+    "previous": [
+      "Orochimaru",
+      "Akatsuki"
+    ],
+    "relatives": [
+      "Fugaku Uchiha (father)",
+      "Mikoto Uchiha (mother)",
+      "Itachi Uchiha (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sharingan",
+      "native_name": "写輪眼",
+      "description": "Copies jutsu, sees chakra, predicts movements. Evolves to Mangekyou.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Chakra cost"
+    },
+    {
+      "name": "Chidori",
+      "native_name": "千鳥",
+      "description": "Lightning chakra in hand. High speed thrust.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Tunnel vision"
+    },
+    {
+      "name": "Fire Style",
+      "native_name": "火遁",
+      "description": "Uchiha fire techniques including Fireball Jutsu.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Mid",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Mangekyou Sharingan",
+      "native_name": "万華鏡写輪眼",
+      "description": "Advanced Sharingan with Amaterasu and Susanoo.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 96,
+      "range": "All",
+      "limit": "Blindness, chakra"
+    }
+  ],
+  "signature_moves": [
+    "Chidori",
+    "Fireball Jutsu",
+    "Susanoo"
+  ],
+  "ultimate_move": "Susanoo",
+  "trump_card": "Eternal Mangekyou",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Uchiha bloodline",
+    "combat_style": [
+      "Ninjutsu",
+      "Taijutsu"
+    ],
+    "weapon": "Kusarigama",
+    "equipment": [
+      "Sword"
+    ],
+    "trump_card": "Eternal Mangekyou",
+    "ultimate_move": "Susanoo"
+  },
+  "personality": {
+    "traits": [
+      "Cold",
+      "Determined",
+      "Avenger",
+      "Loyal",
+      "Proud",
+      "Brooding"
+    ],
+    "likes": [
+      "Training",
+      "Power",
+      "Tomatoes",
+      "Revenge"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Naruto (early)",
+      "Itachi",
+      "Konoha"
+    ],
+    "fear": "Weakness",
+    "dream": "Kill Itachi, restore clan",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Brooding",
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Sasuke seeks revenge against Itachi for killing their clan. Joins Orochimaru for power, later joins Akatsuki, then redeems himself.",
+    "motivation": "Kill Itachi, restore Uchiha",
+    "affinity": "Purple/Lightning",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Uchiha survivor",
+    "Defeated Orochimaru",
+    "Killed Itachi",
+    "Team 7 member"
+  ],
+  "titles": [
+    "Last Uchiha",
+    "Avenger"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 82,
+    "speed": 88,
+    "durability": 80,
+    "power": 94,
+    "combat": 92,
+    "total": 524
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional",
+      "Obsessed with revenge",
+      "Chakra exhaustion"
+    ],
+    "factors": [
+      "Itachi",
+      "Naruto"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Itachi (formerly)",
+    "allies": [
+      "Naruto",
+      "Sakura",
+      "Kakashi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Best friend/rival",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Itachi",
+      "Danzo"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Sakura",
+    "best_friend": "Naruto",
+    "rival": "Naruto",
+    "mentor": "Kakashi, Orochimaru",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Naruto",
+      "Sakura",
+      "Kakashi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Itachi (formerly)",
+      "Naruto"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Itachi (brother)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Itachi (brother)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Naruto"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Naruto",
+      "Sakura",
+      "Kakashi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kakashi, Orochimaru"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Naruto",
+      "result": "Draw",
+      "method": "Chidori vs Rasengan"
+    },
+    {
+      "opponent": "Itachi",
+      "result": "Victory",
+      "method": "Mangekyou"
+    }
+  ],
+  "quotes": [
+    "I have long since closed my eyes...",
+    "My name is Sasuke Uchiha...",
+    "I will restore my clan"
+  ],
+  "voice_acting": {
+    "native_language": "Noriaki Sugiyama (Japanese)",
+    "note": "Cool, calm voice",
+    "native_name": null,
+    "english": "Yuri Lowenthal",
+    "japanese": "Noriaki Sugiyama"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Redeemed, protects village",
+    "transformation": "Mangekyou",
+    "awakening_potential": "Eternal Mangekyou",
+    "power_evolution": [
+      "Genin",
+      "Rogue",
+      "Avenger",
+      "Redeemed"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Konoha",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 12-13 (I); 16-17 (II); 19 (The Last: Naruto the Movie); 32 (Boruto: Naruto the Movie)\nBirthday: July 23\nNinja Registration No: 012606\nHoroscope: Leo\nBlood type: AB\nHeight: 153.2 cm(I); 168 cm (II); 175 cm (The Last: Naruto the Movie); 182 cm (Boruto: Naruto the Movie)\nWeight: 43.5kg(I); 52.2kg (II); 55kg (The Last: Naruto the Movie); 65kg (Boruto: Naruto the Movie)\nHair: Ebony Black with Blue tints\nEyes: Black; Right eye Red (when using Sharingan) &amp; \nRank: Genin; \nKekkei Genkai: Sharingan (Part 1)\n\n\nLikes: Omusubi (Okaka) (omusubi is like Onigiri: Okaka is dried Bonito) Tomato\nDislikes: Everything that gets in the way of his revenge, natto (fermented soybeans) and sweet food\nHates: Itachi (Part I)\n\nTalents: Highly skilled ninja, specializes in fire and lightning jutsu.\n\nWhen Sasuke was young, his clan was murdered by his older brother, Itachi. With his parents and family now gone, his brother spared him and left him to survive by himself. He told Sasuke to hate him. Sasuke tried to forget about the past by applying himself in the ninja academy and fitting in with the rest of the leaf village.\n\nAfter his fight with Naruto, he believes he's been wasting his time \"playing ninja\" with the people of the leaf village. His new goal is to get stronger so he can avenge his clan by killing Itachi and then restore the Uchiha clan.\n\nAs a wielder of the Sharingan (the kekkei genkai of the Uchiha clan), he learns to use Chidori and has a vast knowledge of the various Fire Jutsus. The curse seal which Orichimaru gives him during the Chuunin exam, at first, enhanced his power but at the risk of killing him. Now he can use it of his own free will.\n\nClaiming at first that he doesn't need any friends, he is forced to contradict himself when he sees that either Naruto or Sakura are in danger. Remembering this type of Sasuke is what brings motivation to Naruto. Sasuke openly admitted to Naruto that he was his closest friend.\n\nAppearance\nSasuke has black hair with a blue tint that lengthens as the story goes with onyx eyes and has lighter skin than his brother Itachi. Like many other members of his clan, his hair hangs over both sides of his face to roughly his cheeks. In his curse seal form, he has grey skin with wings on his back that resemble giant webbed hands. He also has hair similar to Madara Uchiha except in a greyish-blue color.\n\nAt the beginning of Part I, Sasuke's clothing made up a blue, short-sleeved shirt with a raised collar and the Uchiha crest on the back and white shorts. An interesting thing is that during Part I the Uchiha symbol on his back gets smaller each time he changes his outfit. In the last stage of the Chunin exams, he wore a black, one pieced version of this outfit but eventually went back to his original clothes.\n\nIn Part II, Sasuke has grown noticeably taller (almost eye height with Itachi) and slightly more muscular. wears a white long sleeved shirt that's open at the torso with a smaller version of the Uchiha crest on his collar. He wears black pants with a blue cloth hanging from his half way up his stomach to his knees. He also wears a purple rope belt (Japanese name: Shimenawa) tied in a bow fashion found on many Sound ninja, only the bow is in a different style and is tied in the front instead of the back. He also will at points remove his shirt and hang it from his belt around his waist to give his wings in Curse Seal Level 2 room to move (also without transforming).",
+  "note": null,
+  "source": "anime"
+}

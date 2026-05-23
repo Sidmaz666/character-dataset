@@ -1,0 +1,338 @@
+{
+  "id": "853a87105d16469e9c96c96176c6175f",
+  "name": "Attuma",
+  "native_name": null,
+  "full_name": "Attuma",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Alien",
+    "race": "Atlantean",
+    "bloodline": null,
+    "height_cm": 213,
+    "weight_kg": 200,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 44.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Grey",
+    "skin_color": "Blue",
+    "notable_features": [
+      "Massive build",
+      "Horned helmet"
+    ],
+    "skin": "Blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Atlantic Ocean",
+    "current_location": "Atlantic",
+    "base_of_operations": "Atlantic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "King of Atlantis",
+    "secondary": "Conqueror",
+    "rank_title": "King",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Atlanteans"
+    ],
+    "previous": [
+      "Defenders"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Sub-Mariner #22",
+    "comics": "Sub-Mariner #22 (1950)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Atlantean super strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Underwater Adaptation",
+      "native_name": null,
+      "description": "Can survive at any ocean depth",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Durability",
+      "native_name": null,
+      "description": "Enhanced durability",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Trident Strike"
+  ],
+  "ultimate_move": "Ocean Rage",
+  "trump_card": "Superhuman Strength",
+  "power_attributes": {
+    "power_type": "Atlantean",
+    "power_source": "Evolution",
+    "combat_style": [
+      "Melee"
+    ],
+    "weapon": "Trident",
+    "equipment": [
+      "Armor"
+    ],
+    "trump_card": "Superhuman Strength",
+    "ultimate_move": "Ocean Rage"
+  },
+  "personality": {
+    "traits": [
+      "Violent",
+      "Proud",
+      "Protective"
+    ],
+    "likes": [
+      "Conquest"
+    ],
+    "dislikes": [
+      "Surface dwellers"
+    ],
+    "fear": "Dry environment weakness",
+    "dream": "Ruling oceans",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Violent"
+    ]
+  },
+  "character": {
+    "arc": "Barbarian king who conquered Atlantis",
+    "motivation": "Power",
+    "affinity": "Water",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "King of Atlantis"
+  ],
+  "titles": [
+    "Attuma",
+    "King of the Deeps"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 75,
+    "speed": 55,
+    "durability": 65,
+    "power": 60,
+    "combat": 60,
+    "total": 370
+  },
+  "weaknesses": {
+    "list": [
+      "Dry environment weakness"
+    ],
+    "factors": [
+      "violent"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Namor",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Namor"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Namor",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Namor"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Namor"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Atlanteans"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "David Sobolov (English)",
+    "english": "David Sobolov",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Swimming"
+    ],
+    "vehicles": [],
+    "headquarters": "Atlantic",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Attuma is a supervillain appearing in American comic books published by Marvel Comics. He is an Atlantean nomadic warlord who is usually depicted as an enemy of Namor the Sub-Mariner, and is the father of the superhero Andromeda. He believes he is the prophesied conqueror of the Atlantean Empire.",
+  "note": null,
+  "source": "marvel"
+}

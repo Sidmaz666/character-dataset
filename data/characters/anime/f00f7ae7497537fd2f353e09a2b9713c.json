@@ -1,0 +1,414 @@
+{
+  "id": "f00f7ae7497537fd2f353e09a2b9713c",
+  "name": "Eren Yeager",
+  "native_name": "エレン・イェーガー",
+  "full_name": "Eren Yeager",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Titan Shifter)",
+    "race": "Human",
+    "bloodline": "Yeager Family",
+    "height_cm": 170,
+    "weight_kg": 63,
+    "age": "15-19",
+    "birthday": "March 30",
+    "zodiac": "Aries",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 21.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Short brown hair",
+      "Green eyes",
+      "Survey Corps uniform",
+      "Determined expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Shiganshina District",
+    "current_location": "Paradis Island",
+    "base_of_operations": "Survey Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Soldier",
+    "secondary": "Titan Shifter",
+    "rank_title": "Private",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Survey Corps",
+      "104th Training Corps"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grisha Yeager (father)",
+      "Carla Yeager (mother)",
+      "Zeke (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Attack on Titan Episode 1",
+    "manga": "Attack on Titan Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Attack Titan",
+      "native_name": "進撃の巨人",
+      "description": "15m Titan form with immense strength and regenerative abilities.",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Time limit (minutes)"
+    },
+    {
+      "name": "Founding Titan",
+      "native_name": "始祖の巨人",
+      "description": "Can control all Titans and alter memories of Eldians.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Unlimited",
+      "limit": "Royal blood contact"
+    },
+    {
+      "name": "Hardening",
+      "native_name": "硬質化",
+      "description": "Can harden Titan body into crystal-like substance.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Chakra-like energy"
+    },
+    {
+      "name": "Future Sight",
+      "native_name": "未来視",
+      "description": "Can see memories of future inheritors.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Temporal",
+      "limit": "Fixed events"
+    }
+  ],
+  "signature_moves": [
+    "Titan transformation",
+    "Hardening punch",
+    "Rumbling"
+  ],
+  "ultimate_move": "The Rumbling",
+  "trump_card": "Founding Titan power",
+  "power_attributes": {
+    "power_type": "Titan",
+    "power_source": "Nine Titans",
+    "combat_style": [
+      "Titan form",
+      "ODM gear"
+    ],
+    "weapon": "ODM gear",
+    "equipment": [
+      "Vertical maneuvering gear"
+    ],
+    "trump_card": "Founding Titan power",
+    "ultimate_move": "The Rumbling"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Passionate",
+      "Vengeful",
+      "Protective",
+      "Reckless",
+      "Evolving"
+    ],
+    "likes": [
+      "Freedom",
+      "Friends",
+      "The outside world",
+      "Mikasa's cooking"
+    ],
+    "dislikes": [
+      "Titans",
+      "Walls",
+      "Enslavement",
+      "Injustice"
+    ],
+    "fear": "Losing freedom",
+    "dream": "See the outside world, destroy all Titans",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective"
+    ],
+    "weaknesses": [
+      "Reckless",
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "Eren witnesses his mother's death by Titans, joins Survey Corps to fight back. Discovers he can transform into a Titan and seeks freedom.",
+    "motivation": "Destroy Titans, gain freedom",
+    "affinity": "Green/Freedom",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Titan shifter",
+    "Survey Corps member",
+    "Discovered basement truth"
+  ],
+  "titles": [
+    "Attack Titan",
+    "Founding Titan",
+    "Suicidal Bastard"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Soldier"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 80,
+    "durability": 88,
+    "power": 95,
+    "combat": 85,
+    "total": 508
+  },
+  "weaknesses": {
+    "list": [
+      "Titan form time limit",
+      "Nape vulnerability",
+      "Emotional",
+      "Reckless"
+    ],
+    "factors": [
+      "Royal blood dependency"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Reiner, Zeke",
+    "allies": [
+      "Mikasa",
+      "Armin",
+      "Levi",
+      "Hange"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Mikasa Ackerman",
+        "relationship": "Adoptive sister",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Titans",
+      "Marley"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Mikasa (implied)",
+    "best_friend": "Armin",
+    "rival": "Reiner",
+    "mentor": "Levi",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Mikasa",
+      "Armin",
+      "Levi",
+      "Hange"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Reiner, Zeke",
+      "Reiner"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Reiner"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mikasa",
+      "Armin",
+      "Levi",
+      "Hange"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Levi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Armored Titan",
+      "result": "Victory",
+      "method": "Titan form"
+    },
+    {
+      "opponent": "War Hammer Titan",
+      "result": "Victory",
+      "method": "Attack Titan"
+    }
+  ],
+  "quotes": [
+    "I'm going to destroy them!",
+    "I want to see the outside world!",
+    "Freedom!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuki Kaji (Japanese)",
+    "note": "Passionate voice",
+    "native_name": null,
+    "english": "Bryce Papenbrook",
+    "japanese": "Yuki Kaji"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "Titan forms",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Human",
+      "Titan shifter",
+      "Founder",
+      "Free"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Survey Corps HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15, \nBirthdate: March 30\nHeight: 170 cm (5'7\") -&gt; 183 cm (6'0\")\nWeight: 63 kg (139 lbs) -&gt; 82 kg (181 lbs)\nAffiliations: 104th Trainees Squad, Scouting Legion\nGraduation rank: 5th\n\nEren is Shingeki no Kyojin's protagonist. His childhood friend, Mikasa, notes on numerous occasions that he acts on impulse without thinking things through, and she often pulls/carries/throws him when he starts fighting with others to protect him from himself. Along with Mikasa, he tends to spend his free time with their mutual friend, Armin.\n\nHis father is a doctor (whom is well respected by Hannes and potentially many more) whilst his mother is a housewife.\n\n\n\n\nNote: Eren Yeager is the official English translation by Kodansha.",
+  "note": null,
+  "source": "anime"
+}

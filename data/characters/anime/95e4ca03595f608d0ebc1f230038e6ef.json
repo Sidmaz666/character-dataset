@@ -1,0 +1,370 @@
+{
+  "id": "95e4ca03595f608d0ebc1f230038e6ef",
+  "name": "Jinshi",
+  "native_name": "壬氏",
+  "full_name": "Jinshi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Imperial",
+    "height_cm": 178,
+    "weight_kg": 68,
+    "age": "19-20",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Beautiful face",
+      "Golden hair",
+      "Purple eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Imperial Palace",
+    "current_location": "Imperial Palace",
+    "base_of_operations": "Rear Palace",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Imperial Prince",
+    "secondary": "Palace Official",
+    "rank_title": "Prince",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Imperial Family"
+    ],
+    "previous": [],
+    "relatives": [
+      "Emperor (father)",
+      "Empress Dowager (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "The Apothecary Diaries Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Politics",
+      "native_name": "政治",
+      "description": "Skilled political maneuvering",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Martial Arts",
+      "native_name": "武術",
+      "description": "Trained in combat",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Beauty",
+      "native_name": "美貌",
+      "description": "Exceptionally beautiful appearance",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Political Maneuver",
+    "Charm"
+  ],
+  "ultimate_move": "Imperial Authority",
+  "trump_card": "True Identity",
+  "power_attributes": {
+    "power_type": "Political",
+    "power_source": "Status",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Imperial robes"
+    ],
+    "trump_card": "True Identity",
+    "ultimate_move": "Imperial Authority"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Manipulative",
+      "Caring",
+      "Complex",
+      "Devoted"
+    ],
+    "likes": [
+      "Maomao",
+      "Order",
+      "Power"
+    ],
+    "dislikes": [
+      "Threats to Maomao",
+      "Chaos"
+    ],
+    "fear": "Losing Maomao",
+    "dream": "Be with Maomao",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Prince hiding identity for love",
+    "motivation": "Protect Maomao",
+    "affinity": "Moon",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Palace official",
+    "Solved multiple incidents",
+    "Protected Maomao"
+  ],
+  "titles": [
+    "Prince",
+    "Imperial Official"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 70,
+    "speed": 68,
+    "durability": 65,
+    "power": 75,
+    "combat": 78,
+    "total": 446
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessed with Maomao",
+      "Emotional",
+      "Complex family"
+    ],
+    "factors": [
+      "Maomao's safety"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Maomao",
+      "Lihua",
+      "Gaoshun"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Maomao",
+        "relationship": "Love interest",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Gaoshun",
+        "relationship": "Loyal servant",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Conspirators"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Maomao",
+    "best_friend": "Gaoshun",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Maomao",
+      "Lihua",
+      "Gaoshun"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Conspirators"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Maomao",
+      "Lihua",
+      "Gaoshun"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Maomao...",
+    "I am what I am."
+  ],
+  "voice_acting": {
+    "native_language": "Takahiro Sakurai",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Kaiji Tang",
+    "japanese": "Takeo Ootsuka"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as palace official",
+    "transformation": null,
+    "awakening_potential": "High",
+    "power_evolution": [],
+    "role_in_story": "Male Lead",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Imperial Palace",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age:\n18 (LN V1) (real), 23 (as eunuch Jinshi)\n19 (LN V2) (real), 24 (as eunuch Jinshi)\n18 (WN V2) (real), 24 (as eunuch Jinshi)\n\nHeight: 181 cm (5'11\")\nHair color: Black (WN), Dark Purple (LN)\nEye color: Black (WN), Pink (LN)\n\nJinshi is the deuteragonist of Kusuriya no Hitorigoto. He appears to be beautiful eunuch who was placed in charge of the inner palace and often requests for Maomao to solve mysteries in the palace in exchange for rare medicines. He finds Maomao's apathy toward him refreshing and amusing. Later, his childish curiosity evolves into a one-sided romantic affection.\n\nJinshi is a beautiful eunuch who works in the palace. With a celestial-like face, not only are women fascinated by him, but men are as well.\n\n\n(Source: The Apothecary Diaries Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,421 @@
+{
+  "id": "0cad433651428e01544f66d0384e47b7",
+  "name": "Urahara Kisuke",
+  "native_name": "浦原 喜助",
+  "full_name": "Kisuke Urahara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Shinigami",
+    "race": "Shinigami (Former Captain)",
+    "bloodline": "Urahara Family",
+    "height_cm": 183,
+    "weight_kg": 69,
+    "age": "Unknown (100+)",
+    "birthday": "December 31",
+    "zodiac": "Capricorn",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 20.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Green striped hat",
+      "Clogs",
+      "Cigarette",
+      "Lazy smile",
+      "Fan"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Soul Society",
+    "current_location": "Karakura Town",
+    "base_of_operations": "Urahara Shop",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shop Owner",
+    "secondary": "Inventor",
+    "rank_title": "Former 12th Division Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Urahara Shop",
+      "Soul Society"
+    ],
+    "previous": [
+      "Gotei 13",
+      "12th Division"
+    ],
+    "relatives": [
+      "None mentioned"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Benihime",
+      "native_name": "紅姫",
+      "description": "Zanpakuto that fires crimson energy blasts. Can create shields, barriers, and slashes.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Shikai Release",
+      "native_name": "咲け、紅姫",
+      "description": "Releases Benihime's true power. Multiple forms: Nake, Chizansu, Suzumushi.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Self",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Genius Intellect",
+      "native_name": "天才",
+      "description": "Brilliant scientist and inventor. Created Hogyoku, Gigai, and many inventions.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Kido Mastery",
+      "native_name": "鬼道",
+      "description": "Master of demon arts. Can cast high-level Kido without incantations.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Reiatsu"
+    }
+  ],
+  "signature_moves": [
+    "Benihime blast",
+    "Shikai release",
+    "Kido spells"
+  ],
+  "ultimate_move": "Benihime's final form",
+  "trump_card": "Genius intellect",
+  "power_attributes": {
+    "power_type": "Reiatsu",
+    "power_source": "Shinigami",
+    "combat_style": [
+      "Zanpakuto",
+      "Kido",
+      "Science"
+    ],
+    "weapon": "Benihime (Zanpakuto)",
+    "equipment": [
+      "Hat",
+      "Clogs",
+      "Fan"
+    ],
+    "trump_card": "Genius intellect",
+    "ultimate_move": "Benihime's final form"
+  },
+  "personality": {
+    "traits": [
+      "Cunning",
+      "Mysterious",
+      "Lazy",
+      "Brilliant",
+      "Playful",
+      "Strategic"
+    ],
+    "likes": [
+      "Inventions",
+      "Tea",
+      "Ichigo",
+      "Schemes",
+      "Helping"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Aizen",
+      "Being obvious",
+      "Rules"
+    ],
+    "fear": "Soul Society's corruption",
+    "dream": "Protect Karakura, defeat Aizen",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Urahara is the mysterious shop owner who trains Ichigo. Former 12th Division Captain exiled for creating Hogyoku. Brilliant scientist who orchestrates events from shadows.",
+    "motivation": "Defeat Aizen, protect Ichigo",
+    "affinity": "Green/Science",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Created Hogyoku",
+    "Former Captain",
+    "Trained Ichigo",
+    "Defeated Aizen (indirectly)"
+  ],
+  "titles": [
+    "Shop Owner",
+    "Genius",
+    "Ex-Captain"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Shop Owner"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 78,
+    "speed": 85,
+    "durability": 82,
+    "power": 92,
+    "combat": 90,
+    "total": 525
+  },
+  "weaknesses": {
+    "list": [
+      "Overly complex plans",
+      "Lazy demeanor",
+      "Aizen's schemes"
+    ],
+    "factors": [
+      "Past",
+      "Hogyoku"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Aizen",
+    "allies": [
+      "Ichigo",
+      "Yoruichi",
+      "Renji",
+      "Rukia"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yoruichi Shihouin",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Aizen",
+      "Soul Society (formerly)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Yoruichi (implied)",
+    "best_friend": "Yoruichi",
+    "rival": "Aizen",
+    "mentor": "None",
+    "student": "Ichigo",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo",
+      "Yoruichi",
+      "Renji",
+      "Rukia"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Aizen"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Aizen"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ichigo"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Yoruichi",
+      "Renji",
+      "Rukia"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Aizen",
+      "result": "Loss (outsmarted)",
+      "method": "Hogyoku"
+    },
+    {
+      "opponent": "Szayelaporro",
+      "result": "Victory",
+      "method": "Benihime"
+    }
+  ],
+  "quotes": [
+    "We are all like fireworks.",
+    "I'm just a humble shop owner.",
+    "Trust your instincts."
+  ],
+  "voice_acting": {
+    "native_language": "Shinichiro Miki (Japanese)",
+    "note": "Lazy, cunning",
+    "native_name": null,
+    "english": "Michael Lindsay",
+    "japanese": "Shinichiro Miki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues running shop",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Captain",
+      "Exile",
+      "Shop Owner",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Urahara Shop",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 23→25 (as of volume 9)\nBirthday: May 4\nHeight: 175 cm\nWeight: 58 kg\nBlood type: O\nJob: Information broker\nWeapon: Switchblade pocket knife\nHobby: Human observation\nLikes: Humans\nDislikes: Shizuo Heiwajima\nFavorite quote: \"It is absurd to divide people into good and bad. People are either charming or tedious.\" —Oscar Wilde, Lady Windermere's Fan\nInternet names: Nakura (to fool girls), \nA young man who sells information for his own enjoyment. He claims to love the entire human race except for Shizuo Heiwajima, and exhibits said love by putting humans in often miserable conditions and observing their reactions.\n\nHe attended Raira Academy with Shizuo, Shinra and Kadota. According to Shinra, Izaya and Shizuo hated each other with a passion almost from the point they met. In the novels Izaya framed Shizuo for crimes on several occasions. In the anime he puts Shizuo in constant problems, such as gangs attacking him daily up to framing him of crimes.\n\nHe is a master of parkour, and also quite skilled with his flickblade (the blade he uses must be slightly opened before the mechanics of it springs opens the blade—a switchblade will open on its own after the user presses a switch) as he is implied to be the only one capable of leaving numerous cuts in Shizuo's bartender suit after a fight in the novels. In the anime, he shaves a gang member's head bald without him noticing it. He is also fluent in Russian, which is exhibited in the final episode and episode 13 when he speaks with Simon.\n\nIzaya has two younger sisters, Mairu and Kururi, who are twins and troublemakers. He claims to have grown up in a normal family whose only abnormal trait was their naming habits. He does not like his sisters and finds them to be unlovable, saying that if even he can not like them, he expects no one else to ever be able to either.\n\nHis name comes from a combination of the biblical Isaiah and Japanese for \"the one who looks over the crowd.\"\n\nIn the novels, Shinra is the only person that Izaya doesn't consider as one of his \"humans.\" Rather, Izaya considers Shinra as his only friend (which is rather rare).",
+  "note": null,
+  "source": "anime"
+}

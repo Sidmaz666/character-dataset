@@ -1,0 +1,335 @@
+{
+  "name": "Teenage Kix",
+  "native_name": null,
+  "full_name": "Teenage Kix (Superhero Team)",
+  "basic_info": {
+    "gender": "N/A",
+    "species": "Supe Team",
+    "race": "N/A",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": "Teens",
+    "birthday": "N/A",
+    "zodiac": "N/A",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "N/A",
+    "hair_color": "N/A",
+    "skin_color": "N/A",
+    "notable_features": [
+      "Teen team",
+      "Young supes",
+      "Vought junior team"
+    ],
+    "skin": "N/A",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Vought",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Teen Superhero Team",
+    "secondary": null,
+    "rank_title": "Teenage Kix",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Various Teen Powers",
+      "type": "Team",
+      "tier": "B",
+      "power_level": 70,
+      "range": "N/A"
+    }
+  ],
+  "signature_moves": [
+    "Teen Assault",
+    "Youthful Chaos"
+  ],
+  "ultimate_move": "Teenage Rampage",
+  "trump_card": "Youth + Compound V",
+  "power_attributes": {
+    "power_type": "Supe Team",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Team",
+      "Inexperienced"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Team uniforms"
+    ],
+    "trump_card": "Youth + Compound V",
+    "ultimate_move": "Teenage Rampage"
+  },
+  "personality": {
+    "traits": [
+      "Rebellious",
+      "Inexperienced",
+      "Young",
+      "Vought-controlled"
+    ],
+    "likes": [
+      "Fame",
+      "Partying",
+      "Being supes"
+    ],
+    "dislikes": [
+      "Rules",
+      "Authority",
+      "Being controlled"
+    ],
+    "fear": "Vought punishment",
+    "dream": "Fame and freedom",
+    "personality_type": "N/A",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Various Teen Powers"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A team of teenage supes controlled by Vought. Parody of Teen Titans. Used for marketing to younger demographics. Their leader is under Vought's questionable control.",
+    "motivation": "Fame and Vought service",
+    "affinity": "Teen Team",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Popular teen supe team"
+  ],
+  "titles": [
+    "Teenage Kix",
+    "The Kix"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 60,
+    "speed": 65,
+    "durability": 58,
+    "power": 68,
+    "combat": 60,
+    "total": 361
+  },
+  "weaknesses": {
+    "list": [
+      "Inexperience",
+      "Vought control",
+      "Teenage issues"
+    ],
+    "factors": [
+      "Young and naive",
+      "Easily manipulated"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys (indirectly)"
+    ],
+    "love_interest": "N/A",
+    "best_friend": "N/A",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "N/A"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys (indirectly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "N/A"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Kix!"
+  ],
+  "voice_acting": {
+    "native_language": "N/A",
+    "english": "N/A",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought teen team",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "",
+      "Teenage Kix"
+    ],
+    "role": "Team",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Vought vans"
+    ],
+    "headquarters": "Vought",
+    "story_importance": "Minor Team",
+    "note": null
+  },
+  "id": "8932f69619ca2d3d0c054b8ad057a07f",
+  "publisher": "the_boys",
+  "about": "The fifth and final season of the American satirical superhero television series The Boys, the first series in the franchise based on the comic book series of the same name created by Garth Ennis and Darick Robertson, was developed for television by Eric Kripke. The season was produced by Sony Pictures Television and Amazon MGM Studios in association with Point Grey Pictures, Original Film, Kripke Enterprises, Kickstart Entertainment, and KFL Nightsky Productions.",
+  "note": null,
+  "source": "the_boys"
+}

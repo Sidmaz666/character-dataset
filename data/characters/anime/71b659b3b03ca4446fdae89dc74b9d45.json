@@ -1,0 +1,356 @@
+{
+  "id": "71b659b3b03ca4446fdae89dc74b9d45",
+  "name": "Higashiyama, Kobeni",
+  "native_name": "東山コベニ",
+  "full_name": "Kobeni Higashiyama",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Higashiyama",
+    "height_cm": 155,
+    "weight_kg": 48,
+    "age": "18-19",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Nervous expression",
+      "Driver outfit",
+      "Short hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Driver",
+    "secondary": "Devil Hunter",
+    "rank_title": "Public Safety Devil Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety Devil Hunters"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Episode 8",
+    "manga": "Chapter 39",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Driving",
+      "native_name": "運転",
+      "description": "Exceptional driving skills under pressure",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Vehicle",
+      "limit": "None"
+    },
+    {
+      "name": "Weapon Use",
+      "native_name": "武器使用",
+      "description": "Basic devil hunter weapon training",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Medium",
+      "limit": "Training"
+    }
+  ],
+  "signature_moves": [
+    "Precision Drive",
+    "Evasion"
+  ],
+  "ultimate_move": "Perfect Escape",
+  "trump_card": "Nervous Energy",
+  "power_attributes": {
+    "power_type": "Skill",
+    "power_source": "Training",
+    "combat_style": [
+      "Driving"
+    ],
+    "weapon": "Gun",
+    "equipment": [
+      "Car",
+      "Gun"
+    ],
+    "trump_card": "Nervous Energy",
+    "ultimate_move": "Perfect Escape"
+  },
+  "personality": {
+    "traits": [
+      "Anxious",
+      "Nervous",
+      "Skilled",
+      "Cautious",
+      "Loyal"
+    ],
+    "likes": [
+      "Driving",
+      "Safety"
+    ],
+    "dislikes": [
+      "Danger",
+      "Devils"
+    ],
+    "fear": "Everything",
+    "dream": "Safe life",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Skilled",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Anxious"
+    ]
+  },
+  "character": {
+    "arc": "Nervous driver with incredible skills",
+    "motivation": "Survive",
+    "affinity": "Earth",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Public Safety member",
+    "Survived multiple missions"
+  ],
+  "titles": [
+    "Driver",
+    "Devil Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 40,
+    "speed": 85,
+    "durability": 55,
+    "power": 50,
+    "combat": 55,
+    "total": 355
+  },
+  "weaknesses": {
+    "list": [
+      "Extremely anxious",
+      "Nervous",
+      "Easily scared"
+    ],
+    "factors": [
+      "Panic attacks"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Denji",
+      "Aki",
+      "Power"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Devils"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji",
+      "Aki",
+      "Power"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Devils"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Joseph Joestar (father)",
+      "Joutarou"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Joseph Joestar (father)",
+      "Joutarou"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji",
+      "Aki",
+      "Power"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'm scared!",
+    "I'll drive!"
+  ],
+  "voice_acting": {
+    "native_language": "TBA",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Bryn Apprill",
+    "japanese": "Karin Takahashi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as driver",
+    "transformation": null,
+    "awakening_potential": "Moderate",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Car"
+    ],
+    "vehicles": [
+      "Public Safety vehicle"
+    ],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 180 cm\nBlood type: B\nNationality: Japanese\n\nJousuke is the main protagonist of JoJo's Bizarre Adventure Part 4. He begins his story as a new freshman in the town of Morioh. Part 4 begins with Joutarou seeking him out, as Jousuke is the illegitimate son of Joutarou's grandfather, Joseph Joestar.\n\nJousuke makes his entrance into the JoJo universe as a caring, popular, and slightly naïve teenager. Inspired by his police officer grandfather's (on his mother's side) sense of justice, he isn't afraid to fight for those in need. He is confronted by Joutarou with the need to eradicate evil Stand users from his hometown, Morioh. He refuses at first, believing that it is not any of his business. However, he quickly changes his mind when his policeman grandfather is killed by a criminal Stand user. With a vow paralleling that of Peter Parker, Jousuke decides to deliver justice to evil Stand users in his grandfather's place.\n\nJousuke is nice to people and says \"Mister\" and \"Miss\" like a normal, polite young man until someone pisses him off (which isn't very hard to do). The easiest way to do that is to mock his hair, which makes Jousuke angry and explosively violent. Jousuke grew up with his single mother, never knowing his father Joseph Joestar. Jousuke is crafty and has a sneaky streak for money, which is shown multiple times in the story. Nevertheless, he is a dependable and friendly person who is always willing to protect people who need it.\n\nJousuke's Stand power, Crazy Diamond, is a melee Stand with short range (2m). Crazy Diamond has the ability of \"restoration.\" It can repair damage (by returning an object to a previous state) and by extension heal injuries (apart from Jousuke's own injuries). It is limited in that it cannot revive the dead or cure illnesses (as the sick are not considered as damaged). It can, however, restore an item to its raw materials (e.g., a table can be restored to timbers). This ability allows Crazy Diamond to perform a range of interesting feats, including trapping the enemy (by restoring pieces of a broken crate around the target) and tracking (e.g., restoring a torn piece of clothing so that it will seek out what it came from and reattach). Its restoration ability often \"malfunctions\" when Jousuke is angry, causing the object to be improperly put back together. The Stand's name is a reference to Pink Floyd's song, \"Shine On You Crazy Diamond.\"",
+  "note": null,
+  "source": "anime"
+}

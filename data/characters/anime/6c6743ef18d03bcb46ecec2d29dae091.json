@@ -1,0 +1,441 @@
+{
+  "id": "6c6743ef18d03bcb46ecec2d29dae091",
+  "name": "Trafalgar D. Water Law",
+  "native_name": "トラファルガー・D・ウォーター・ロウ",
+  "full_name": "Trafalgar D. Water Law",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Law Family",
+    "height_cm": 191,
+    "weight_kg": 82,
+    "age": "30",
+    "birthday": "October 13",
+    "zodiac": "Libra",
+    "blood_type": "X",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue (black in anime)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Straw hat",
+      "Facial markings",
+      "Tall",
+      "Scar on neck/chest"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "South Blue (lost)",
+    "current_location": "Heart Pirates ship",
+    "base_of_operations": "Polar Tang / Heart Pirates",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate Captain",
+    "secondary": "Surgeon",
+    "rank_title": "Supernova / Former Warlord",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Heart Pirates"
+    ],
+    "previous": [
+      "Doflamingo (former Warlord)",
+      "Kid Pirates alliance"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 392",
+    "manga": "One Piece Chapter 498",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ope Ope no Mi",
+      "native_name": "手術果實",
+      "description": "Paramecia Devil Fruit - creates spherical ROOM where Law can manipulate space, cut, teleport, rearrange bodies freely",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Medium (ROOM radius)",
+      "limit": "Drains stamina, cannot move room once created"
+    },
+    {
+      "name": "ROOM",
+      "native_name": "手術室",
+      "description": "Sphere of blue aura enabling complete manipulation of space inside",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Stationary"
+    },
+    {
+      "name": "Shambles",
+      "native_name": "濠洗",
+      "description": "Teleports any two objects within ROOM to swap places",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Within ROOM",
+      "limit": "Requires ROOM"
+    },
+    {
+      "name": "Amputate",
+      "native_name": "切除",
+      "description": "Cuts body parts without killing - can sever without damage",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Within ROOM",
+      "limit": null
+    },
+    {
+      "name": "Awakening",
+      "native_name": "覺醒",
+      "description": "Awakened fruit - can apply Room to objects, making them mobile (K-ROOM, R-ROOM)",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Extended",
+      "limit": "Drains stamina heavily"
+    },
+    {
+      "name": "Haki",
+      "native_name": "霸氣",
+      "description": "Master of Armament and Observation Haki",
+      "type": "Defense",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "ROOM",
+    "Shambles",
+    "Amputate",
+    "Puncture Willie",
+    "Electro slash"
+  ],
+  "ultimate_move": "Puncture Willie",
+  "trump_card": "Immortality Surgery (costs user life)",
+  "power_attributes": {
+    "power_type": "Devil Fruit (Paramecia)",
+    "power_source": "Ope Ope no Mi",
+    "combat_style": [
+      "Surgical precision",
+      "Swordsmanship",
+      "Space manipulation"
+    ],
+    "weapon": "Kikoku (sword)",
+    "equipment": [
+      "Sword"
+    ],
+    "trump_card": "Immortality Surgery (costs user life)",
+    "ultimate_move": "Puncture Willie"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Strategic",
+      "Cynical",
+      "Flippant",
+      "Loyal once bonded"
+    ],
+    "likes": [
+      "Sleeping",
+      "Doing nothing",
+      "Luffy (friend)",
+      "Corazon memory"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Corazon's death",
+      "Obedience"
+    ],
+    "fear": "Losing freedom",
+    "dream": "Achieve freedom, find meaning (tied to Corazon)",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "Terminal disease survivor who gained power to help others - became pirate surgeon",
+    "motivation": "Freedom and helping those he cares about",
+    "affinity": "Space/Surgery",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Supernova of Worst Generation",
+    "Former Warlord",
+    "Surgeon of Death",
+    "Part of Ninja-Pirate-Mink-Samurai Alliance",
+    "Defeated Doflamingo"
+  ],
+  "titles": [
+    "Surgeon of Death",
+    "Heart Pirates Captain",
+    "Supernova",
+    "Warlord (former)"
+  ],
+  "bounty": {
+    "amount": 500000000,
+    "currency": "Berry",
+    "details": "Current as supernovas"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 80,
+    "speed": 80,
+    "durability": 75,
+    "power": 95,
+    "combat": 90,
+    "total": 515
+  },
+  "weaknesses": {
+    "list": [
+      "Stamina drain",
+      "Cannot move ROOM",
+      "Sea Stone"
+    ],
+    "factors": [
+      "cynical"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Doflamingo",
+    "allies": [
+      "Monkey D. Luffy",
+      "Heart Pirates",
+      "Corazon memory"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Friend/Alliance partner",
+        "trust_level": "High"
+      },
+      {
+        "name": "Corazon",
+        "relationship": "Savior/Mentor (deceased)",
+        "trust_level": "High - died to give him fruit"
+      }
+    ],
+    "enemies": [
+      "Marines",
+      "World Government",
+      "Doflamingo"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Corazon (deceased)",
+    "rival": "Eustass Kid",
+    "mentor": "Corazon",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Monkey D. Luffy",
+      "Heart Pirates",
+      "Corazon memory",
+      "Corazon (deceased)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Doflamingo",
+      "Eustass Kid"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Eustass Kid"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Monkey D. Luffy",
+      "Heart Pirates",
+      "Corazon memory",
+      "Corazon"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Corazon"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Doflamingo",
+      "result": "Victory",
+      "method": "Awakened Ope Ope no Mi and alliance"
+    },
+    {
+      "opponent": "Big Mom",
+      "result": "Victory (with Luffy)",
+      "method": "Puncture Willie"
+    }
+  ],
+  "quotes": [
+    "I am the surgeon of death!",
+    "Want to know my dream? I'd rather not say...",
+    "I am Law. I will cut you!"
+  ],
+  "voice_acting": {
+    "native_language": "Ryuuya (Japanese)",
+    "note": "Actually: Tetsu (Japanese), Eric D. (English)",
+    "native_name": null,
+    "english": "Matthew Mercer",
+    "japanese": "Hiroshi Kamiya"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Leading Heart Pirates as free pirate",
+    "transformation": "Awakened Ope Ope no Mi",
+    "awakening_potential": "Full fruit mastery",
+    "power_evolution": [
+      "Doctor",
+      "Supernova",
+      "Warlord",
+      "Awakened"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Polar Tang"
+    ],
+    "vehicles": [],
+    "headquarters": "Polar Tang",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: October 31, 1979 (1982 in anime)\nZodiac sign: Scorpio\nHeight: 179 cm (5'10\")\nWeight: 50 kg (110 lbs.)\nLikes: sweets\nDislikes: Wearing socks\n\nL, who also uses the aliases Hideki Ryuga, Ryuzaki, Eraldo Coil and Deneuve, the latter two for which he has developed reputations as the second—and third—best detectives in the world, is quite secretive and only communicates with the world through his assistant Watari. He never shows his face to the world, instead of representing himself with a capital L in Cloister Black font. After meeting the Kira investigation team, he requests that the task force refers to him as Ryuzaki for discretion. The Kira investigation team never learns his true name.\n\nL's disheveled and languid appearance masks his great powers of deduction and insight. He tends to second-guess everything he is presented with and is extremely meticulous and analytical. He has several quirks such as preferring to crouch rather than sit, eating only sweet foods like desserts and fruits, and holding items very delicately. He stayed in England for five years, and during that time he was the champion in tennis for the England Junior Cup.\n\nL suggests that even though he eats only sweet foods, he remains underweight because the brain uses the most calories of any organ in the body. He also says that if he sits normally, his reasoning ability would drop 40%.\n\n(Source: Wikipedia, Death Note Profiles)",
+  "note": null,
+  "source": "anime"
+}

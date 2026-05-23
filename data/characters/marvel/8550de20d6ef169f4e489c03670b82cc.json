@@ -1,0 +1,407 @@
+{
+  "id": "8550de20d6ef169f4e489c03670b82cc",
+  "name": "Sunfire",
+  "native_name": "吉田 四郎",
+  "full_name": "Shiro Yoshida",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Japanese Mutant",
+    "bloodline": "Yoshida",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Reddish",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Plasma flames",
+      "Radiation aura"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Protector of Japan",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers Unity Squad",
+      "X-Men"
+    ],
+    "previous": [
+      "Horsemen of Apocalypse",
+      "Big Hero 6"
+    ],
+    "relatives": [
+      "Tomoe Yoshida (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "X-Men #64",
+    "comics": "X-Men #64 (1970)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Plasma Blast",
+      "native_name": null,
+      "description": "Can release superheated plasma as blasts of searing heat and radiation",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Requires solar radiation"
+    },
+    {
+      "name": "Nova Blast",
+      "native_name": null,
+      "description": "Can increase plasma output to 1,000,000 degrees Fahrenheit as omnidirectional blast",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Massive energy drain"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly by focusing plasma aura downwards",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Infrared Vision",
+      "native_name": null,
+      "description": "Can see heat by shifting vision to infrared",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 45,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Plasma Shield",
+      "native_name": null,
+      "description": "Can form psionic force field from plasma for protection",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Radiation Immunity",
+      "native_name": null,
+      "description": "Immune to radiation",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Solar Fire Blast",
+    "Plasma Aura",
+    "Nova Burst"
+  ],
+  "ultimate_move": "Million Degree Nova",
+  "trump_card": "Hunger Inducing Light (as Horseman Famine)",
+  "power_attributes": {
+    "power_type": "Mutant Plasma",
+    "power_source": "Solar radiation absorption",
+    "combat_style": [
+      "Energy Projection"
+    ],
+    "weapon": "Plasma Shield",
+    "equipment": [
+      "Plasma Shield"
+    ],
+    "trump_card": "Hunger Inducing Light (as Horseman Famine)",
+    "ultimate_move": "Million Degree Nova"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Proud",
+      "Temperamental"
+    ],
+    "likes": [
+      "Power",
+      "Respect"
+    ],
+    "dislikes": [
+      "Being told what to do"
+    ],
+    "fear": "Dishonor",
+    "dream": "Protecting Japan",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Plasma Blast",
+      "Nova Blast",
+      "Flight",
+      "Infrared Vision"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Japanese mutant who briefly joined X-Men",
+    "motivation": "Protecting Japan",
+    "affinity": "Fire",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "X-Men member",
+    "Big Hero 6 member",
+    "Horseman of Apocalypse (Famine)"
+  ],
+  "titles": [
+    "Sunfire",
+    "Shiro Yoshida"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 75,
+    "durability": 70,
+    "power": 90,
+    "combat": 55,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Requires solar radiation to maintain powers"
+    ],
+    "factors": [
+      "Less effective at night"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Apocalypse",
+    "allies": [
+      "X-Men",
+      "Big Hero 6"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rogue",
+        "relationship": "Former teammate",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Lady Deathstrike"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Lady Deathstrike",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "X-Men",
+      "Big Hero 6"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Apocalypse"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "X-Men",
+      "Big Hero 6"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lady Deathstrike",
+      "result": "Defeat",
+      "method": "Legs severed"
+    }
+  ],
+  "quotes": [
+    "I am Sunfire! The flame of Japan!"
+  ],
+  "voice_acting": {
+    "native_language": "Keith David (English)",
+    "english": "Keith David",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Hunger-inducing light (as Famine)"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Plasma Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Sunfire is a superhero appearing in American comic books published by Marvel Comics. Sunfire is a mutant and sometime member of the X-Men.",
+  "note": null,
+  "source": "marvel"
+}

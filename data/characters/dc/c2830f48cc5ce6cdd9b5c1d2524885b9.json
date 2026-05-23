@@ -1,0 +1,378 @@
+{
+  "id": "c2830f48cc5ce6cdd9b5c1d2524885b9",
+  "name": "Hush",
+  "native_name": "",
+  "full_name": "Thomas Elliot",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Elliot Family",
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": "32",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Face wrapped in bandages",
+      "Surgical scars"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Neurosurgeon",
+    "secondary": "Criminal Mastermind",
+    "rank_title": "Doctor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Gotham General Hospital"
+    ],
+    "relatives": [
+      "Thomas Elliot Sr. (father, deceased)",
+      "Mrs. Elliot (mother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman #609 (2003)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Neurosurgeon",
+      "native_name": null,
+      "description": "World-class surgeon with expert knowledge of human anatomy",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Genius Intellect",
+      "native_name": null,
+      "description": "Exceptionally intelligent strategic planner",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Master Manipulator",
+      "native_name": null,
+      "description": "Skilled at manipulation and deception of others",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Close",
+      "limit": "Requires social interaction"
+    },
+    {
+      "name": "Peak Human Conditioning",
+      "native_name": null,
+      "description": "Trained to peak physical condition to match Batman",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "native_name": null,
+      "description": "Trained extensively in combat to fight Batman directly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Close",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Scalpel Strike",
+    "Surgical Precision"
+  ],
+  "ultimate_move": "Master Plan Execution",
+  "trump_card": "Knowledge of Bruce Wayne's childhood",
+  "power_attributes": {
+    "power_type": "Intelligence",
+    "power_source": "Training",
+    "combat_style": [
+      "Surgical precision",
+      "Strategic planning"
+    ],
+    "weapon": "Scalpel",
+    "equipment": [
+      "Surgical tools",
+      "Custom gadgets"
+    ],
+    "trump_card": "Knowledge of Bruce Wayne's childhood",
+    "ultimate_move": "Master Plan Execution"
+  },
+  "personality": {
+    "traits": [
+      "Calculating",
+      "Vengeful",
+      "Patient",
+      "Cold",
+      "Manipulative"
+    ],
+    "likes": [
+      "Watching Batman suffer",
+      "Surgery",
+      "Wealth"
+    ],
+    "dislikes": [
+      "Bruce Wayne",
+      "Thomas Wayne"
+    ],
+    "fear": "Death",
+    "dream": "Destroy Bruce Wayne completely",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Cold",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Childhood friend of Bruce Wayne who became a deranged surgeon seeking revenge against Batman",
+    "motivation": "Destroy Bruce Wayne out of jealousy and hatred",
+    "affinity": "Revenge/Madness",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Nearly killed Batman",
+    "Manipulated multiple Gotham rogues"
+  ],
+  "titles": [
+    "Doctor",
+    "The Man Behind the Bandages"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 55,
+    "speed": 55,
+    "durability": 50,
+    "power": 40,
+    "combat": 70,
+    "total": 365
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessive hatred of Batman",
+      "Ego"
+    ],
+    "factors": "Human limitations"
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [
+      "Riddler"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Batman",
+      "Catwoman"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Riddler"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Riddler"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Defeat",
+      "method": "Overconfidence led to capture"
+    }
+  ],
+  "quotes": [
+    "I'm not a monster. I'm just a surgeon."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Imprisoned",
+    "transformation": "N/A",
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Dr. Thomas \"Tommy\" Elliot, better known as Hush, is a supervillain appearing in American comic books published by DC Comics. Created by Jeph Loeb and Jim Lee, the character first appeared in Batman #609 in January 2003 as part of the twelve-issue storyline Batman: Hush. Hush's background is parallel to the superhero Batman, and he serves as a criminal foil to him, as an example of what Batman could have been if he came from an abusive family and had used his abilities and resources for malice. Hush belongs to the collective of adversaries that make up Batman's rogues' gallery. Hush resides in Gotham City.",
+  "note": null,
+  "source": "dc"
+}

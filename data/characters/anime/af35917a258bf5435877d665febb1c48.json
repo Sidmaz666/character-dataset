@@ -1,0 +1,288 @@
+{
+  "id": "af35917a258bf5435877d665febb1c48",
+  "name": "Himejima, Gyoumei",
+  "native_name": "悲鳴嶼 行冥",
+  "full_name": "Gyoumei Himejima",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 220,
+    "weight_kg": 130,
+    "age": "27",
+    "birthday": "August 23",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Virgo",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Stone Hashira, blind",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Japan",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hashira",
+    "secondary": "Former monk",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer",
+    "manga": "Demon Slayer",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Stoic",
+      "Powerful",
+      "Devout"
+    ],
+    "likes": [],
+    "dislikes": [
+      "Unnecessary noise"
+    ],
+    "fear": "Unknown",
+    "dream": "Protect humanity",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Powerful"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Stone Hashira, strongest pillar",
+    "motivation": "Protect humanity",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 90,
+    "speed": 75,
+    "durability": 80,
+    "power": 80,
+    "combat": 85,
+    "total": 480
+  },
+  "relationships": {
+    "colleague": "Tanjirou",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Baraqiel (father)"
+    ],
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Baraqiel (father)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Baraqiel (father)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Baraqiel"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Main character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Mask"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Tomokazu Sugita (Japanese)",
+    "Voiced by Crispin Freeman (English)"
+  ],
+  "titles": [
+    "Hashira"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Crispin Freeman",
+    "note": null,
+    "native_name": null,
+    "japanese": "Tomokazu Sugita"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Japan",
+    "story_importance": "Main character",
+    "note": null
+  },
+  "about": "Birthday: July 21\nAge: 18 (Volume 1-22), 19 (Volume 22-Present)\nHeight: 168 cm (5'6\")\nWeight: 54 kg (119 lbs)\nBWH: 102/60/89\nEye Color: Violet\nRank: Low-Class Devil (Volume 1 - Volume 11), Middle-Class Devil (Volume 12 - True Volume 3), High-Class Devil (True Volume 4 - Present)\nRole: Queen\nRace: Reincarnated Devil (Former Fallen Angel/Human Hybrid)\nFirst Appearance: Volume 1\nAffiliations:\n\nA third-year student and one of the \"Two Great Onee-samas\" of Kuou Academy along with Rias. Called the ultimate \"Queen\" by other members. Born between a human mother and fallen angel father, after the death of her mother, she became Rias' servant. She is a friend close enough to call Rias by her name in private, yet calls her Buchou in presence of others and displays a master-servant relationship in public. She persistently refuses to use her power of light, inherited from her father, but starts using it after being convinced by Issei.\n\nShe is first seen to be a very elegant and gentle woman, embodying the principals of the ideal Japanese woman: \"Yamato Nadeshiko\". However underneath her calm atmosphere, she is shown to be highly sadistic in battle and doesn't show any mercy or remorse towards the enemies she slays, casually keeping up her smiling elegant persona over an enemy's death and showing an expression of pleasure and lust upon delivering them pain.\n\nAs a result of seeing her mother be killed in front of her eyes and her father being unable to save her, Akeno developed a hatred for Fallen Angels. She has developed a sense of self-loathing towards her Fallen Angel nature, for it was the reason her was mother killed which led her to sever ties with her father, going into exile before being saved by Rias after Akeno's maternal relatives nearly killed her. Due to this reason, she emphasizes with those who have suffered under the hands of Fallen Angels like Issei and Asia, who were manipulated and killed by the Fallen Angel Raynare as she was worried that Issei would dislike her due to her Fallen Angel nature but fell in love with him after he told her he still liked her. With Issei's help, she was able to overcome the sadness of her mother's death and reconcile with her estranged father, renewing their familial bond. Due to Issei helping her, Akeno's love for him deepened considerably as she confessed her feeling for him.\n\nWhile she originally had no interest in dating men due to her past, she began to take an interest in Issei, thinking of him as a cute junior and that interest intensified after seeing his determination in the Rating Game against Riser Phenex and his actions during Rias' engagement ceremony, where he defeated Riser Phenex. She has stated that Issei is the first boy she has ever felt such feelings for as she is shown to have a desire to further her relationship with him. She also loves to tease Issei and Rias, as she loves to make Rias irritated by flirting with Issei. Akeno has also stated that she has some masochism in her as well, as she is only masochistic towards Issei in contrast to her sadistic nature in battle. She is shown to be quite vulgar, flirting with Issei as such and doesn't care if Rias knows or saw her doing the act as she tried to have sex with him while also trying to help Issei further his relationship with Rias, but does care enough to not steal him away from her as she even helped Issei confess to Rias. After falling in love with him, she becomes very seductive and is obsessed with having an affair with Issei whenever she finds a chance, which is often interrupted by Rias and some others.\n\nShe also has a weak side to her once she removes her mask of being an Onee-Sama, what is left is her true side of \"depending\" on a man which is generally Issei and her father Baraqiel after reconciling with him. If danger arises to them, she will become depressed or it can also lead to a rise in her tension. The latter occurred when Issei was injured in the Rating Game between the Sitri and Gremory groups, and the former when Issei was thought to be dead in the Dimensional Gap.\n\nDespite being seductive toward Issei and acting like a mature young woman, Akeno is still innocent and emotional towards love and acts like a girl her age whenever she is on a date with Issei. However, this still does not stop her being seductive and flirting with Issei. Despite being seen as calm and clear, Akeno does get jealous like the other girls and will fight for Issei. \n\nPowers &amp; Abilities\n\n\n\n\n\n\n\n\n\n\n\n \nEquipment\n\n\n\n \n(Source: High School DxD Wiki)",
+  "note": null,
+  "source": "anime"
+}

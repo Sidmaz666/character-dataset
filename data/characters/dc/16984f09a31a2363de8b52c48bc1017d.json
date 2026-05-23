@@ -1,0 +1,412 @@
+{
+  "name": "Mr. Freeze",
+  "native_name": "ビクター・フリーズ",
+  "full_name": "Victor Fries",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Mutated)",
+    "race": "Human (Cryogenic)",
+    "bloodline": "Unknown",
+    "height_cm": 183,
+    "weight_kg": 86,
+    "age": "40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (cold)",
+    "hair_color": "None (bald)",
+    "skin_color": "Pale blue",
+    "notable_features": [
+      "Cryogenic suit",
+      "Freeze gun",
+      "Dome helmet",
+      "Blue skin"
+    ],
+    "skin": "Pale blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City (various cryogenic labs)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Scientist (Cryogenic Researcher)",
+    "secondary": "Criminal",
+    "rank_title": "Mr. Freeze",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Injustice League (sometimes)",
+      "Secret Society of Super Villains (sometimes)"
+    ],
+    "previous": [
+      "GothCorp (scientist)"
+    ],
+    "relatives": [
+      "Nora Fries (wife, frozen)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman #121 (February 1959)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cryogenic Physiology",
+      "native_name": null,
+      "description": "Due to a lab accident, can only survive in sub-zero temperatures. Immune to cold.",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Cannot survive in normal temperatures"
+    },
+    {
+      "name": "Freeze Gun",
+      "native_name": null,
+      "description": "Custom-built cryogenic weapon that fires concentrated beams of cold capable of freezing anything instantly. Can create ice structures.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Power source required"
+    },
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "Brilliant cryogenic researcher and inventor. Expert in thermodynamics and cryogenics.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Cryo-Suit",
+      "native_name": null,
+      "description": "Powered exoskeleton suit keeping his body at sub-zero temperatures. Provides enhanced strength and durability.",
+      "type": "Equipment",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Suit can be damaged"
+    }
+  ],
+  "signature_moves": [
+    "Frozen Stasis",
+    "Ice Wall",
+    "Cryo Blast"
+  ],
+  "ultimate_move": "Absolute Zero (Maximum Freeze Ray)",
+  "trump_card": "Cryogenic Technology + Genius Intellect",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Cryogenic Suit",
+    "combat_style": [
+      "Ranged",
+      "Cryogenic attacks"
+    ],
+    "weapon": "Freeze Gun",
+    "equipment": [
+      "Cryogenic Suit",
+      "Freeze Gun",
+      "Life Support System",
+      "Ice Bombs"
+    ],
+    "trump_card": "Cryogenic Technology + Genius Intellect",
+    "ultimate_move": "Absolute Zero (Maximum Freeze Ray)"
+  },
+  "personality": {
+    "traits": [
+      "Cold (emotionally)",
+      "Tragic",
+      "Obsessive",
+      "Brilliant",
+      "Detached",
+      "Focused"
+    ],
+    "likes": [
+      "Nora Fries",
+      "Cold temperatures",
+      "Science",
+      "Cryogenics"
+    ],
+    "dislikes": [
+      "Heat",
+      "Those who hinder his research",
+      "Batman (sometimes)"
+    ],
+    "fear": "Losing Nora Fries forever",
+    "dream": "Find a cure for Nora and restore her to life",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Focused"
+    ],
+    "weaknesses": [
+      "Obsessive",
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Brilliant researcher whose wife Nora was diagnosed with a terminal illness. Froze her in cryostasis searching for a cure. A lab accident transformed him into a cold-dependent being. His crimes are motivated by love, making him one of Batman most tragic villains.",
+    "motivation": "Save his wife Nora Fries",
+    "affinity": "Ice/Cold",
+    "alignment": "Neutral Evil (motivated by love)"
+  },
+  "achievements": [
+    "Pioneering cryogenic research",
+    "Created cold fusion technology",
+    "Kept Nora alive in cryostasis"
+  ],
+  "titles": [
+    "Mr. Freeze",
+    "Dr. Victor Fries"
+  ],
+  "bounty": {
+    "amount": "$5,000,000",
+    "currency": "USD",
+    "details": "Wanted for numerous crimes in Gotham"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 75,
+    "speed": 50,
+    "durability": 80,
+    "power": 90,
+    "combat": 60,
+    "total": 447
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot survive above freezing",
+      "Obsession with Nora",
+      "Suit dependency"
+    ],
+    "factors": [
+      "Suit damage is life-threatening",
+      "Nora-related emotional manipulation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [
+      "Poison Ivy",
+      "Penguin",
+      "Scarecrow",
+      "Various Gotham villains"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Batman",
+      "Robin",
+      "Batgirl",
+      "GCPD"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Batman",
+        "relationship": "Nemesis who opposes his methods",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Nora Fries",
+    "best_friend": "Nora Fries",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Poison Ivy",
+      "Penguin",
+      "Scarecrow",
+      "Various Gotham villains",
+      "Nora Fries"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Poison Ivy",
+      "Penguin",
+      "Scarecrow",
+      "Various Gotham villains",
+      "Nora Fries"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Variable",
+      "method": "Cryogenic weapons and environmental control"
+    }
+  ],
+  "quotes": [
+    "Revenge is a dish best served cold.",
+    "I am not a monster. I am a man in love.",
+    "For Nora."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Ansara (English)",
+    "english": "Michael Ansara",
+    "note": "Iconic voice from Batman: The Animated Series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues to search for a cure for Nora",
+    "transformation": "Human to cryogenic being",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Scientist",
+      "Mr. Freeze",
+      "Seeking redemption"
+    ],
+    "role_in_story": "Antagonist/Tragic Villain",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Freeze Mobile",
+      "Ice slide"
+    ],
+    "vehicles": [
+      "Freeze Mobile"
+    ],
+    "headquarters": "Gotham City (various labs)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "16984f09a31a2363de8b52c48bc1017d",
+  "publisher": "dc",
+  "about": "Mr. Freeze is a supervillain appearing in American comic books published by DC Comics. Created by writer Dave Wood and artists Sheldon Moldoff and Bob Kane, the character initially debuted in Batman #121 (February 1959) as Mr. Zero, a mad scientist with an unknown birth name who, after a physiology-altering mishap, becomes an ice-themed criminal typically armed with freezing weapons and an adversary of the superhero Batman forced to live in sub-zero temperatures and wear a special \"cryo-suit\" for survival. He was later renamed \"Mr. Freeze\" after the version featured in the 1966 Batman television series.\nIn 1992, Mr. Freeze was reinvented as a tragic villain by writer Paul Dini, producer Bruce Timm, and artist Mike Mignola for Batman: The Animated Series, which portrayed Victor Fries (pronounced \"freeze\") as a scientist in Gotham City who suffers a lab accident while trying to cryogenically preserve his terminally ill wife, Nora. He turns to crime to fund his research in his obsessive quest to cure Nora by any means necessary, which brings him into conflict with Batman. The animated revamped depiction of Mr. Freeze received widespread acclaim and redefined the character, providing such a burst in his popularity that DC Comics retroactively integrated the origin story conceived by Dini into the mainstream comic book continuity, and adapted it for almost every incarnation of the Batman franchise since.\nAs one of Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery, Mr. Freeze has been adapted in various media incarnations. He has been portrayed in film by Arnold Schwarzenegger in Batman & Robin (1997), and in television by George Sanders, Otto Preminger, and Eli Wallach in the 1966 Batman series, and Nathan Darrow in Gotham. Michael Ansara, Clancy Brown, Maurice LaMarche, and others have provided the character's voice in animation and video games.",
+  "note": null,
+  "source": "dc"
+}

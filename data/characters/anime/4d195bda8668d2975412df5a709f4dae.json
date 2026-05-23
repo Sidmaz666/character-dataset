@@ -1,0 +1,356 @@
+{
+  "id": "4d195bda8668d2975412df5a709f4dae",
+  "name": "Saitama",
+  "native_name": "サイタマ",
+  "full_name": "Saitama (Caped Baldy)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "25",
+    "birthday": "June 16",
+    "zodiac": "Gemini",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Bald",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Completely bald",
+      "Yellow suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Z-City",
+    "current_location": "Z-City apartment",
+    "base_of_operations": "Hero Association",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hero",
+    "secondary": "Professional hero B-Class",
+    "rank_title": "B-Class",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero Association"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Punch Man Episode 1",
+    "manga": "One Punch Man Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": "suppa",
+      "description": "Limitless physical strength one-punch any enemy",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Super Speed",
+      "native_name": "超速",
+      "description": "Move faster than thought",
+      "type": "Support",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Super Durability",
+      "native_name": "超堅",
+      "description": "Never gets hurt",
+      "type": "Defense",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Serious Punch",
+      "native_name": "serious punch",
+      "description": "Punches with full seriousness",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Only serious"
+    }
+  ],
+  "signature_moves": [
+    "One Punch",
+    "Serious Series"
+  ],
+  "ultimate_move": "Serious Punch",
+  "trump_card": "Normal punch kills all",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Training (100 pushups, 100 situps, 100 squats, 10km run daily)",
+    "combat_style": [
+      "One punch fighting"
+    ],
+    "weapon": "Serious Punch",
+    "equipment": [
+      "Yellow cape/suit"
+    ],
+    "trump_card": "Normal punch kills all",
+    "ultimate_move": "Serious Punch"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Lazy",
+      "Bored",
+      "Caring",
+      "Honest"
+    ],
+    "likes": [
+      "Sales",
+      "Genos",
+      "Eating"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Weak opponents"
+    ],
+    "fear": "Nothing scary",
+    "dream": "Find worthy opponent",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Strength",
+      "Super Speed",
+      "Super Durability",
+      "Serious Punch"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Hero who defeated allwithonepunch",
+    "motivation": "Find fun opponent",
+    "affinity": "Physical",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Defeated all enemies",
+    "Ranked S-Class",
+    "Befriended Genos"
+  ],
+  "titles": [
+    "Caped Baldy",
+    "One Punch Man",
+    "Hero"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "publisher": "anime",
+  "relationships": {
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Speed-o'-Sound Sonic"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Genos",
+    "rival": null,
+    "mentor": null,
+    "student": "Genos",
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Genos"
+    ],
+    "colleague": null,
+    "enemy": "Speed-o'-Sound Sonic",
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Genos"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Genos"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": null,
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Lazy"
+    ],
+    "factors": [
+      "lazy"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Max Mittelman",
+    "note": null,
+    "native_name": null,
+    "japanese": "Makoto Furukawa"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hero Association",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Race: Human\nAge: 25\nHeight: 175 cm (5'9\")\nWeight: 70 kg (154 lbs)\nLocation: Z-City\nAbilities: Immeasurable Strength, Immeasurable Speed and Reflexes, Infinite Stamina, Supernatural Senses, Invulnerability, Indomitable Will\nOccupation: Superhero\nLevel: \nAffiliation: Hero Association\nPartner(s): Genos\n\nSaitama is the most powerful hero alive. Having apparently trained himself to superhuman condition, Saitama faces an existential crisis as he is now too powerful to gain any thrill from his heroic deeds.\n\nHe is registered with the Heroes Association as a C-Class Superhero and is tasked to defend Z-City against Mysterious Beings.\n\nSaitama is usually deliberately drawn in a simpler style than other characters, with a very rounded head and only a simple mouth and eyes. When drawn in a more 'action-oriented' style with more detail, Saitama is revealed to have sharp features, dangerous looking eyes, and chiseled musculature. His costume is a plain yellow jumpsuit with a short zipper at the collar and a belt. The costume is finished out by an ensemble of red boots and gloves, and a white cape.\n\nFor a superhero, Saitama is rather laid back. Because even the mightiest foes pose no challenge to him, he doesn't take his hero work very seriously. In spite of this, he is constantly searching for an opponent that can challenge him, since his superhero work is beginning to bore him because it's too easy. The combination of his attitude, unstoppable strength, and distinctively simple and 'unimpressive' appearance often cause his battles to become anticlimactic. Saitama will usually allow his opponents to rant about their motives and power up into their strongest forms before suddenly and nonchalantly obliterating them with one punch.\n\n(Source: One Punch-Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

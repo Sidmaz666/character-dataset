@@ -1,0 +1,326 @@
+{
+  "id": "678ebd3f4023477e8428cde9d0a0eeb3",
+  "name": "Fu",
+  "native_name": "",
+  "full_name": "Fu",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Amestris",
+    "base_of_operations": "Central City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Fullmetal Alchemist",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist",
+    "manga": "Fullmetal Alchemist",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Alchemy",
+      "type": "Transmutation",
+      "description": "Skilled in the art of alchemical transmutation",
+      "power_level": "High"
+    },
+    {
+      "name": "Combat Alchemy",
+      "type": "Combat",
+      "description": "Applies alchemy in combat situations",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Analytical Mind",
+      "type": "Mental",
+      "description": "Sharp problem-solving and analytical abilities",
+      "power_level": "High"
+    }
+  ],
+  "signature_moves": [
+    "Alchemy",
+    "Combat Alchemy",
+    "Analytical Mind"
+  ],
+  "ultimate_move": "Alchemy",
+  "trump_card": "Combat Alchemy",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Psychic combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Psychic focus"
+    ],
+    "trump_card": "Combat Alchemy",
+    "ultimate_move": "Alchemy"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Determined",
+      "Compassionate",
+      "Brave",
+      "Principled"
+    ],
+    "likes": [
+      "Learning",
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Death",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Fullmetal Alchemist character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Katsunosuke Hori (Japanese)",
+    "Voiced by Kenny Green (English)"
+  ],
+  "titles": [
+    "Fullmetal Alchemist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 60,
+    "speed": 60,
+    "durability": 60,
+    "power": 60,
+    "combat": 60,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "State Military"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "State Military"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Ling"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Ling"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "State Military"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Kenny Green",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Katsunosuke Hori"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Fu is one of Ling Yao's bodyguards. He is an older man who is committed to his duties and is generally stern in nature. He is also the grandfather of Ling's other bodyguard, Lan Fan, who he cares very much for. Fu sometimes leaves his prince's side for an extended period of time to take care of his own business, but despite this Fu remains deeply loyal to his prince and is determined to bring Ling and the immortality he hopes to gain back to Xing. \n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

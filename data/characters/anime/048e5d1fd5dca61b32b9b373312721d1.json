@@ -1,0 +1,483 @@
+{
+  "id": "048e5d1fd5dca61b32b9b373312721d1",
+  "name": "Ainz Ooal Gown",
+  "native_name": "アンインズ・ウーアル・ガウン",
+  "full_name": "Ainz Ooal Gown (Momonga)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Skeleton Lich",
+    "race": "Skeleton Magic Caster",
+    "bloodline": "Nazarick",
+    "height_cm": 240,
+    "weight_kg": 0,
+    "age": "Impossible to determine (Over 600 years game time)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "None",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red (glowing)",
+    "hair_color": "None (Skull)",
+    "skin_color": "Bone white",
+    "notable_features": [
+      "Skeletal form",
+      "Glowing red eyes",
+      "Tall skeleton",
+      "Golden rings on fingers"
+    ],
+    "skin": "Bone white",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "YGGDRASIL (Virtual World)",
+    "current_location": "Nazarick",
+    "base_of_operations": "Great Tomb of Nazarick",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Overlord of Nazarick",
+    "secondary": "Guild Master (Former player)",
+    "rank_title": "Guild Master of Ainz Ooal Gown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Albedo",
+      "Shalltear",
+      "Nazarick NPCs",
+      "Sorcerer Kingdom"
+    ],
+    "previous": [
+      "YGGDRASIL Players"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Overlord (2015)",
+    "manga": "Overlord",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Time Stop",
+      "native_name": "時停止",
+      "description": "Can stop time for up to 6-12 seconds. Wishes to extend to 20 seconds.",
+      "type": "Time Manipulation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": "Limited duration"
+    },
+    {
+      "name": "Death Knight Summoning",
+      "native_name": "死之首",
+      "description": "Can summon multiple Death Knights. Each death knight is level 35.",
+      "type": "Summoning",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Summon limit"
+    },
+    {
+      "name": "Fallen Down",
+      "native_name": "落下重力",
+      "description": "Area attack that destroys everything in a massive radius. Wipes out cities.",
+      "type": "Ultimate Magic",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Massive Area",
+      "limit": "None"
+    },
+    {
+      "name": "The Goal of All Life Is Death",
+      "native_name": "生命igre",
+      "description": "Grants death immunity negation. Makes death-type abilities bypass immunities.",
+      "type": "Enhancement",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Reality Slash",
+      "native_name": "現実切断",
+      "description": "Cuts through space itself. An attack that severs reality.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Create Greater Shrine",
+      "native_name": "大墓地",
+      "description": "Summons elements of Nazarick anywhere.",
+      "type": "Summoning",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Super Tier Magic",
+      "native_name": "超 Tier 魔法",
+      "description": "Has access to Super Tier magic, among the strongest in YGGDRASIL.",
+      "type": "Magic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Wailing Tenebrous Earth",
+      "native_name": "悲嘆嘆く十絵",
+      "description": "Summons 700 million Death Knights in an area.",
+      "type": "Summoning",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Massive Area",
+      "limit": "None"
+    },
+    {
+      "name": "Talent Selection",
+      "native_name": "才能選択",
+      "description": "In the New World, can copy talents from killing powerful beings.",
+      "type": "Ability Stealing",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Requires killing target"
+    },
+    {
+      "name": "Gear影",
+      "native_name": "装備",
+      "description": "Wears numerous divine class items including World Savior armor.",
+      "type": "Equipment",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Time Stop + Summon",
+    "Fallen Down",
+    "Reality Slash"
+  ],
+  "ultimate_move": "Wailing Tenebrous Earth + The Goal of All Life Is Death",
+  "trump_card": "Shalltear's Blood Frenzy (if triggered)",
+  "power_attributes": {
+    "power_type": "Magic (All Types)",
+    "power_source": "YGGDRASIL Powers + World Items",
+    "combat_style": [
+      "Magic",
+      "Summoning",
+      "Debuff"
+    ],
+    "weapon": "Staff of Ainz Ooal Gown",
+    "equipment": [
+      "Full Gear Set",
+      "World Items"
+    ],
+    "trump_card": "Shalltear's Blood Frenzy (if triggered)",
+    "ultimate_move": "Wailing Tenebrous Earth + The Goal of All Life Is Death"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Cautious",
+      "Strategic",
+      "Caring (towards NPCs)",
+      "Insecure"
+    ],
+    "likes": [
+      "Nazarick",
+      "Albedo",
+      "NPCs",
+      "Strategy"
+    ],
+    "dislikes": [
+      "Threats to Nazarick",
+      "Being useless"
+    ],
+    "fear": "Not being able to protect Nazarick",
+    "dream": "Find his friends, understand emotions",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Trapped in game body, becomes ruler seeking to understand his feelings",
+    "motivation": "Find his old friends, protect Nazarick",
+    "affinity": "Necromancy/Dark",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Conquered Re-Estize Kingdom",
+    "Defeated 500,000 holy kingdom soldiers alone",
+    "Killed thousands with single spell",
+    "Built Sorcerer Kingdom"
+  ],
+  "titles": [
+    "The Undead King",
+    "Overlord",
+    "Sword of Ainz Ooal Gown"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown (incalculable)"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 75,
+    "speed": 85,
+    "durability": 90,
+    "power": 100,
+    "combat": 92,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Weakness to holy attacks",
+      "Emotional limitations",
+      "Wants to protect NPCs"
+    ],
+    "factors": [
+      "Holy magic",
+      "Fire magic"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Albedo",
+      "Shalltear",
+      "Demiurge",
+      "All Nazarick NPCs"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Albedo",
+        "relationship": "Supreme Being (Worship)",
+        "trust_level": "Max"
+      },
+      {
+        "name": "Shalltear",
+        "relationship": "Supreme Being (Worship)",
+        "trust_level": "Max"
+      },
+      {
+        "name": "Demiurge",
+        "relationship": "Loyal Servant",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Platinum Dragon Lord",
+      "Evil Eye"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Tabula Smaragdina (Creator)",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Albedo",
+      "Shalltear",
+      "Demiurge",
+      "All Nazarick NPCs",
+      "Tabula Smaragdina (Creator)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Platinum Dragon Lord",
+      "Evil Eye"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Albedo",
+      "Shalltear",
+      "Demiurge",
+      "All Nazarick NPCs",
+      "Tabula Smaragdina"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Shalltear (Blood Frenzy)",
+      "result": "Victory (barely)",
+      "method": "Had to use World Item"
+    },
+    {
+      "opponent": "Holy Kingdom Army (500,000)",
+      "result": "Victory",
+      "method": "Wailing Tenebrous Earth"
+    },
+    {
+      "opponent": "Throne of Kings",
+      "result": "Victory",
+      "method": "World Item advantage"
+    }
+  ],
+  "quotes": [
+    "I am the undead king.",
+    "I will be your shield.",
+    "For Nazarick.",
+    "Work is a blessing."
+  ],
+  "voice_acting": {
+    "native_language": "Satoshi Hino",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (Undead)",
+    "fate": "Rules Sorcerer Kingdom",
+    "transformation": "None (Skeleton form)",
+    "awakening_potential": "Can grow stronger by copying talents",
+    "power_evolution": [
+      "Level 100 Player",
+      "Guild Master",
+      "Sorcerer King"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Great Tomb of Nazarick",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: October 22\nBlood type: B\nFavorite color: yellow, red\nFavorite class: Physical Education\nFavorite food: curry, ramen, gyoza\nLeast favorite food: shiitake\nDislikes: Mama and police officers\nFavorite stone: Topaz\nMotto: If you fall down, lift yourself up!\n\nMinako is the fourth member of the Sailor Team to be discovered by Sailor Moon, and serves as the leader of the Guardian Senshi who protect her. She uses love-related powers. In the manga and anime series she dreams of becoming a famous idol, whereas in the live-action series her character is refactored to already be a celebrity.\n\nSilly or serious, Minako consistently displays great confidence, enthusiasm, and leadership skill. She is the \"owner\" of Artemis, the white guardian cat who introduced her to her life as a Senshi. He lives in her home (as Luna lives in Usagi's) and is one of her closest friends.",
+  "note": null,
+  "source": "anime"
+}

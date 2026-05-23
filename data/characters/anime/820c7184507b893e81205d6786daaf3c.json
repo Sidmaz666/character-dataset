@@ -1,0 +1,320 @@
+{
+  "id": "820c7184507b893e81205d6786daaf3c",
+  "name": "Touka Nishio",
+  "native_name": "西硝トーカ",
+  "full_name": "Touka Nishio",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo",
+    "current_location": "Tokyo",
+    "base_of_operations": "Anteiku",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Tokyo Ghoul",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Anteiku",
+      "Coffee Shop"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Tokyo Ghoul",
+    "manga": "Tokyo Ghoul",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Kagune Manifestation",
+      "type": "Physical",
+      "description": "Able to manifest and control their kagune",
+      "power_level": "High"
+    },
+    {
+      "name": "Enhanced Physicality",
+      "type": "Physical",
+      "description": "Superhuman strength and speed",
+      "power_level": "High"
+    },
+    {
+      "name": "Regeneration",
+      "type": "Healing",
+      "description": "Accelerated healing factor",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Kagune Manifestation",
+    "Enhanced Physicality",
+    "Regeneration"
+  ],
+  "ultimate_move": "Kagune Manifestation",
+  "trump_card": "Enhanced Physicality",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Ranged combat"
+    ],
+    "weapon": "Kagune Manifestation",
+    "equipment": [
+      "Kagune Manifestation"
+    ],
+    "trump_card": "Enhanced Physicality",
+    "ultimate_move": "Kagune Manifestation"
+  },
+  "personality": {
+    "traits": [
+      "Conflicted",
+      "Determined",
+      "Compassionate",
+      "Resilient",
+      "Brooding"
+    ],
+    "likes": [
+      "Helping others"
+    ],
+    "dislikes": [
+      "Cheerfulness"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Resilient"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Tokyo Ghoul character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Kaya Miyake (Japanese)",
+    "Voiced by Sofia Mendez (English)"
+  ],
+  "titles": [
+    "Tokyo Ghoul"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 60,
+    "speed": 60,
+    "durability": 60,
+    "power": 60,
+    "combat": 60,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Anteiku",
+      "Coffee Shop"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Sofia Mendez",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Kaya Miyake"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Species: Ghoul\nAge: 16 (Pre-Aogiri arc), 17 (Post-Aogiri arc), 20 (Tokyo Ghoul:re)\nBirthday: July 1\nHeight: 156 cm\nWeight: 45 kg\nBlood type: O\nRc Type: Ukaku\nLikes: school life, rabbits\nDislikes: ghoul investigators, blockheads, classic literature\n\nGhoul Investigators refer to her as \"Rabbit.\"\n\nTouka is a ghoul successfully posing as a human and working as a waitress at a cafe which serves as a gathering place for other ghouls, as well as a food resource.\n\nShe saves Kaneki's life at one point and acts as a reluctant guide to him and his adaptation to the ghoul society. She is very serious, tough and hard-working, trying to keep their district as safe for ghouls and humans as possible. Her powers and strength are also quite great and she makes for a formidable opponent.",
+  "note": null,
+  "source": "anime"
+}

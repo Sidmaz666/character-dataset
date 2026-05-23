@@ -1,0 +1,418 @@
+{
+  "id": "2243ace84358b738a3a799d25e053bc8",
+  "name": "Sabo",
+  "native_name": "サボ",
+  "full_name": "Sabo",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Noble (disowned)",
+    "height_cm": 187,
+    "weight_kg": 75,
+    "age": "22",
+    "birthday": "March 20",
+    "zodiac": "Pisces",
+    "blood_type": "S",
+    "weight_kkg": null,
+    "bmi": 21.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Blue eyes",
+      "Top hat",
+      "Scar over eye",
+      "Gloves"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Goa Kingdom",
+    "current_location": "Grand Line",
+    "base_of_operations": "Revolutionary Army HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Revolutionary",
+    "secondary": "Chief of Staff",
+    "rank_title": "No. 2 of Revolutionary Army",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Revolutionary Army"
+    ],
+    "previous": [
+      "Bluejam Pirates (temporary)"
+    ],
+    "relatives": [
+      "Monkey D. Luffy (sworn brother)",
+      "Portgas D. Ace (sworn brother)",
+      "Sterry (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 494 (flashback), Episode 722 (present)",
+    "manga": "One Piece Chapter 583",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mera Mera no Mi",
+      "native_name": "メラメラの実",
+      "description": "Fire-Fruit. User can create, control, and become fire. Logia-type Devil Fruit.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Water/Sea Prism"
+    },
+    {
+      "name": "Dragon Claw Fist",
+      "native_name": "竜の爪",
+      "description": "Martial arts style that creates dragon-shaped fire attacks.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Haki",
+      "native_name": "覇気",
+      "description": "Can use Armament and Observation Haki for combat.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Pipe Combat",
+      "native_name": "パイプ戦闘",
+      "description": "Uses metal pipe as weapon. Skilled in close combat.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Fire Dragon Claw",
+    "Flame Dragon",
+    "Dragon King Flame"
+  ],
+  "ultimate_move": "Flame Dragon King",
+  "trump_card": "Mera Mera no Mi",
+  "power_attributes": {
+    "power_type": "Devil Fruit",
+    "power_source": "Mera Mera no Mi",
+    "combat_style": [
+      "Fire",
+      "Martial Arts",
+      "Haki"
+    ],
+    "weapon": "Metal pipe",
+    "equipment": [
+      "Top hat",
+      "Pipe"
+    ],
+    "trump_card": "Mera Mera no Mi",
+    "ultimate_move": "Flame Dragon King"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Noble",
+      "Brave",
+      "Intelligent",
+      "Protective",
+      "Determined"
+    ],
+    "likes": [
+      "Luffy",
+      "Ace",
+      "Freedom",
+      "Justice",
+      "Revolution"
+    ],
+    "dislikes": [
+      "Nobles",
+      "Injustice",
+      "Oppression",
+      "Slavery"
+    ],
+    "fear": "Losing brothers",
+    "dream": "Create free world",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Protective",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Sabo is Luffy and Ace's sworn brother who survived noble family escape. Became Revolutionary Army's No. 2. Ate Ace's Mera Mera no Mi to honor him.",
+    "motivation": "Create free world, protect Luffy",
+    "affinity": "Blue/Freedom",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Revolutionary Army No. 2",
+    "Ate Mera Mera no Mi",
+    "Rescued Luffy"
+  ],
+  "titles": [
+    "Chief of Staff",
+    "Flame User",
+    "Noble"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Berries",
+    "details": "Revolutionary"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 85,
+    "speed": 85,
+    "durability": 88,
+    "power": 92,
+    "combat": 90,
+    "total": 528
+  },
+  "weaknesses": {
+    "list": [
+      "Sea Prism Stone",
+      "Water",
+      "Luffy's safety"
+    ],
+    "factors": [
+      "Luffy",
+      "Ace's memory"
+    ]
+  },
+  "relationships": {
+    "nemesis": "World Nobles",
+    "allies": [
+      "Luffy",
+      "Ace",
+      "Dragon",
+      "Koala"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Sworn brother",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "World Nobles",
+      "Marines"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Luffy",
+    "rival": "None",
+    "mentor": "Dragon",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Luffy",
+      "Ace",
+      "Dragon",
+      "Koala"
+    ],
+    "colleague": null,
+    "enemy": [
+      "World Nobles",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Luffy",
+      "Ace",
+      "Dragon",
+      "Koala"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Dragon"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Burgess",
+      "result": "Victory",
+      "method": "Fire techniques"
+    },
+    {
+      "opponent": "Fujitora",
+      "result": "Draw",
+      "method": "Escaped"
+    }
+  ],
+  "quotes": [
+    "I'm Sabo, the man who will become the King of the Pirates!",
+    "Luffy, I'm your brother!",
+    "Freedom is worth fighting for!"
+  ],
+  "voice_acting": {
+    "native_language": "Toru Furuya (young), Hiroshi Kamiya (adult) (Japanese)",
+    "note": "Determined, caring",
+    "native_name": null,
+    "english": "Morgan Garrett",
+    "japanese": "Junko Takeuchi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues revolutionary work",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Noble",
+      "Revolutionary",
+      "Fire User",
+      "Leader"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Revolutionary Army HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: March 20\n\nHe was born into a noble family but decided to run away and live in the Gray Terminal, eventually setting out to sea on his own. 12 years before the present storyline, he was a childhood friend of Ace, and eventually Luffy as well, to the point where the three considered themselves to be \"brothers.\" Along with Ace and Luffy, Sabo's dream was to become a pirate so that he could set sail and achieve freedom, and made plans with his brothers to set sail at age 17.\n\nDressrosa Arc Spoilers :\n\n\nEgghead Arc Spoilers :",
+  "note": null,
+  "source": "anime"
+}

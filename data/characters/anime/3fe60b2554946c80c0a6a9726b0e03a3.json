@@ -1,0 +1,453 @@
+{
+  "id": "3fe60b2554946c80c0a6a9726b0e03a3",
+  "name": "Nagato",
+  "native_name": "長門",
+  "full_name": "Nagato",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Uzumaki Clan",
+    "bloodline": "Uzumaki Clan",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "35 (at death)",
+    "birthday": "September 16",
+    "zodiac": "Virgo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Rinnegan (dark purple with rings)",
+    "hair_color": "Red",
+    "skin_color": "Pale (due to wheelchair)",
+    "notable_features": [
+      "Rinnegan eyes",
+      "Wheelchair use",
+      "Pale thin body"
+    ],
+    "skin": "Pale (due to wheelchair)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amegakure (Land of Rain)",
+    "current_location": "Deceased (revived)",
+    "base_of_operations": "Akatsuki base / Hidden Rain",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Akatsuki leader",
+    "secondary": "Pain persona",
+    "rank_title": "Third Six Paths",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Akatsuki"
+    ],
+    "previous": [
+      "Team Jiraiya"
+    ],
+    "relatives": [
+      "Konan (ally)",
+      "Yahiko (friend, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 85",
+    "manga": "Naruto Chapter 82",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Rinnegan",
+      "native_name": "輪回眼",
+      "description": "Eyes of god - allows use of all six paths techniques, see chakra",
+      "type": "Utility",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Requires significant chakra"
+    },
+    {
+      "name": "Six Paths of Pain",
+      "native_name": "ペイン六道",
+      "description": "Controls six corpses as separate bodies - each with one path ability",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Long (remote)",
+      "limit": "Must kill all to defeat"
+    },
+    {
+      "name": "Deva Path",
+      "native_name": "天道",
+      "description": "Gravity manipulation - can push/pull objects and people",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Asura Path",
+      "native_name": "修羅道",
+      "description": "Mechanical weapons - missiles, blades from body",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Human Path",
+      "native_name": "人間道",
+      "description": "Soul extraction - reads minds and removes souls",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Animal Path",
+      "native_name": "畜生道",
+      "description": "Summons various animals for combat",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Preta Path",
+      "native_name": "餓鬼道",
+      "description": "Absorbs chakra and ninjutsu",
+      "type": "Defense",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Naraka Path",
+      "native_name": "地獄道",
+      "description": "King of Hell - can revive other paths",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Outer Path",
+      "native_name": "外道",
+      "description": "Creates chakra receivers, summons Demonic Statue",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Six Paths of Pain",
+    "Gravity manipulation",
+    "Shinra Tensei",
+    "Bansho Ten'in"
+  ],
+  "ultimate_move": "Shinra Tensei (almighty push)",
+  "trump_card": "Full six paths attack",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Rinnegan + Uzumaki heritage",
+    "combat_style": [
+      "Six paths jutsu",
+      "Remote control"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Asura Path"
+    ],
+    "trump_card": "Full six paths attack",
+    "ultimate_move": "Shinra Tensei (almighty push)"
+  },
+  "personality": {
+    "traits": [
+      "God complex",
+      "Tragic",
+      "Believed in pain needed for peace",
+      "Complex"
+    ],
+    "likes": [
+      "Peace",
+      "Yahiko memory",
+      "Konan"
+    ],
+    "dislikes": [
+      "War",
+      "Violence"
+    ],
+    "fear": "Not achieving peace",
+    "dream": "World peace through pain",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Rinnegan",
+      "Six Paths of Pain",
+      "Deva Path",
+      "Asura Path"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Tragic leader who took on Pain persona after trauma",
+    "motivation": "Achieving world peace",
+    "affinity": "God/Darkness",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Leader of Akatsuki",
+    "Defeated Jiraiya",
+    "Destroyed Konoha",
+    "Third Six Paths"
+  ],
+  "titles": [
+    "Pain",
+    "God of Amegakure",
+    "Third Six Paths"
+  ],
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 60,
+    "speed": 70,
+    "durability": 60,
+    "power": 100,
+    "combat": 95,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Wheelchair bound",
+      "Rinnegan chakra drain"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Naruto (who convinced him)",
+    "allies": [
+      "Akatsuki",
+      "Konan",
+      "Yahiko (memory)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yahiko",
+        "relationship": "Friend/Creator of Akatsuki",
+        "trust_level": "High - died for him"
+      },
+      {
+        "name": "Konan",
+        "relationship": "Friend/ ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Konoha",
+      "Jiraiya"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Akatsuki",
+      "Konan",
+      "Yahiko (memory)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Naruto (who convinced him)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Akatsuki",
+      "Konan",
+      "Yahiko"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Jiraiya",
+      "result": "Victory",
+      "method": "Six Paths defeated him"
+    },
+    {
+      "opponent": "Naruto",
+      "result": "Defeat (persuaded)",
+      "method": "Talked no jutsu"
+    }
+  ],
+  "quotes": [
+    "Pain brings understanding!",
+    "I will bring peace to this world!",
+    "Through pain... the world will know peace!"
+  ],
+  "voice_acting": {
+    "native_language": "Troy Baker (Japanese)",
+    "note": "Actually: 'Troy Baker' is wrong - real: 'Junichi Suwabe (Japanese), Travis Willingham (English)'",
+    "native_name": null,
+    "english": "Michelle Ruff",
+    "japanese": "Minori Chihara"
+  },
+  "story": {
+    "status": "Deceased (revived by Naruto)",
+    "fate": "Died using revival jutsu",
+    "transformation": "Rinnegan",
+    "awakening_potential": "Full power",
+    "power_evolution": [
+      "Student",
+      "Akatsuki leader",
+      "Pain"
+    ],
+    "role_in_story": "Major Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Wheelchair"
+    ],
+    "headquarters": "Hidden Rain village",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Age: 3-4, 16-17 (Physically)\nBirthday: November 18\nBlood Type: A\nHeight: 154 cm (5' 0.5\")\nOccupation: Student (grade 11) \n\nYuki Nagato is a quiet high school freshman that is the only member of the SOS Brigade that was not \"voluntarily arrested,\" or coerced into joining, by Haruhi Suzumiya. When Haruhi claimed the empty Literature Club as the SOS Brigade's clubroom, Yuki was found reading there. Haruhi claimed the clubroom and Yuki as part of the Brigade, both of which she didn't mind. She lives alone in the same apartment complex as Ryoko Asakura. She wears glasses and her school uniform at all times, only discarding the former after Kyon babbled that she was cuter without them and that he wasn't a \"glasses man,\" and the latter when the SOS Brigade went on vacation.",
+  "note": null,
+  "source": "anime"
+}

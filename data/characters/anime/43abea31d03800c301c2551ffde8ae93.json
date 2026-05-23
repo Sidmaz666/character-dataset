@@ -1,0 +1,419 @@
+{
+  "id": "43abea31d03800c301c2551ffde8ae93",
+  "name": "Gintoki Sakata",
+  "native_name": "坂田 銀時",
+  "full_name": "Gintoki Sakata",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Samurai)",
+    "bloodline": "Sakata Family",
+    "height_cm": 177,
+    "weight_kg": 65,
+    "age": "25-27",
+    "birthday": "October 10",
+    "zodiac": "Libra",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 20.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Silver",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Silver perm",
+      "Red eyes",
+      "Kimono",
+      "Wooden sword",
+      "Lazy expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Edo",
+    "current_location": "Edo",
+    "base_of_operations": "Yorozuya",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Freelancer",
+    "secondary": "Samurai",
+    "rank_title": "Shiroyasha",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Yorozuya",
+      "Samurai"
+    ],
+    "previous": [
+      "Joi War"
+    ],
+    "relatives": [
+      "None mentioned"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Gintama Episode 1",
+    "manga": "Gintama Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Kenjutsu Mastery",
+      "native_name": "剣術",
+      "description": "Master swordsman with wooden sword. Can defeat any opponent with skill.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Melee",
+      "limit": "Motivation"
+    },
+    {
+      "name": "Shiroyasha Power",
+      "native_name": "白夜叉",
+      "description": "Legendary samurai power from war days. Unleashes devastating attacks when serious.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Motivation"
+    },
+    {
+      "name": "Fourth Wall Break",
+      "native_name": "第四の壁",
+      "description": "Can break fourth wall, reference anime/manga, and meta-commentary.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Comedy timing"
+    },
+    {
+      "name": "Lazy Genius",
+      "native_name": "怠惰な天才",
+      "description": "Despite laziness, genius-level combat intuition and problem-solving.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Motivation"
+    }
+  ],
+  "signature_moves": [
+    "Wooden sword strikes",
+    "Shiroyasha slash",
+    "Comedy timing"
+  ],
+  "ultimate_move": "Shiroyasha awakening",
+  "trump_card": "Legendary samurai power",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Samurai training",
+    "combat_style": [
+      "Kenjutsu",
+      "Lazy"
+    ],
+    "weapon": "Wooden sword",
+    "equipment": [
+      "Bokuto",
+      "Kimono"
+    ],
+    "trump_card": "Legendary samurai power",
+    "ultimate_move": "Shiroyasha awakening"
+  },
+  "personality": {
+    "traits": [
+      "Lazy",
+      "Sarcastic",
+      "Loyal",
+      "Protective",
+      "Funny",
+      "Deep"
+    ],
+    "likes": [
+      "Jump",
+      "Sweets",
+      "Pachinko",
+      "Friends",
+      "Comedy"
+    ],
+    "dislikes": [
+      "Authority",
+      "Rules",
+      "Seriousness",
+      "Losing friends"
+    ],
+    "fear": "Losing friends again",
+    "dream": "Protect Edo, keep friends safe",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Gintoki is the lazy freelancer who runs Yorozuya. Former legendary samurai Shiroyasha. Uses comedy to hide trauma from war. Will unleash power to protect friends.",
+    "motivation": "Protect Edo and friends",
+    "affinity": "Silver/Comedy",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Shiroyasha legend",
+    "Defeated countless enemies",
+    "Yorozuya founder",
+    "Protected Edo"
+  ],
+  "titles": [
+    "Shiroyasha",
+    "Yorozuya",
+    "Samurai"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Freelancer"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 88,
+    "speed": 85,
+    "durability": 90,
+    "power": 94,
+    "combat": 96,
+    "total": 541
+  },
+  "weaknesses": {
+    "list": [
+      "Laziness",
+      "Motivation",
+      "Friends' safety"
+    ],
+    "factors": [
+      "Past trauma",
+      "Students"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Takasugi",
+    "allies": [
+      "Kagura",
+      "Shinpachi",
+      "Hijikata",
+      "Katsura"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kagura",
+        "relationship": "Adoptive daughter/friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Takasugi",
+      "Tenshoin"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Katsura",
+    "rival": "Hijikata",
+    "mentor": "Yoshida Shouyou",
+    "student": "Kagura, Shinpachi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kagura",
+      "Shinpachi",
+      "Hijikata",
+      "Katsura"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Takasugi",
+      "Hijikata"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hijikata"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Kagura, Shinpachi"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kagura",
+      "Shinpachi",
+      "Hijikata",
+      "Katsura"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Yoshida Shouyou"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Takasugi",
+      "result": "Victory",
+      "method": "Wooden sword"
+    },
+    {
+      "opponent": "Utsuro",
+      "result": "Victory",
+      "method": "Shiroyasha power"
+    }
+  ],
+  "quotes": [
+    "I'm not a pervert, I'm a freelancer!",
+    "Bones or meat? I want both!",
+    "I'll protect this country!"
+  ],
+  "voice_acting": {
+    "native_language": "Tomokazu Sugita (Japanese)",
+    "note": "Lazy, deep",
+    "native_name": null,
+    "english": "Chris Patton",
+    "japanese": "Tomokazu Sugita"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues Yorozuya work",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Samurai",
+      "Shiroyasha",
+      "Freelancer",
+      "Legend"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Yorozuya",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 27, 29 (2 years arc)\nBirthday: October 10 (Libra)\nHeight: 177 cm\nWeight: 65 kg\nLikes: sweets, alcohol, Shounen Jump, strawberry milk, pachinko\nDislikes: ghosts, horror stuff, dentist\nFavorite quote: \"Then and now, what I protect has never changed.\"\nOccupation: Yorozuya/Odd Jobs\n\nGintoki is a samurai living in an era when samurai are no longer needed. To add to his troubles, oppressive aliens have moved in to invade planet Earth. Gintoki works taking on odd jobs alongside two kids: Kagura and Shinpachi. In the Joui war, he was known as the \"White Devil\" (Shiroyasha) due to his silver hair and white clothing he wore in battle, which, combined with his impressive capabilities as a swordsman, made him famous among his comrades and struck fear in the hearts of the Amanto.\n\nGintoki has naturally permed silver hair, which he blames for his lacking love-life. He has a big crush on the TV's news weather girl, Ketsuno. In fact, to date, the only time he is seen to have blushed is when he tries to make use of Sadaharu and Ketsuno's dog to get a chance to talk to her.(Though he later does with Tsukuyo as well when she discovers him shopping) Though several female characters have shown an interest in Gintoki, he usually does not show any response and merely puts up with them as annoyances.\n\nGintoki has two major obsessions in life. He is obsessed with sweet food such as parfaits, ice cream and cakes. His second obsession is reading the manga anthology magazine Weekly Shounen Jump. (Which, not coincidentally, is where Gintama is published). Gintoki will go to great lengths to get the latest Jump issue, to the point of reckless behavior. His Jump obsession makes him dream of being like other Jump heroes, including wishing that he had a \"Bankai\" similar to the characters of Bleach.\n\nDespite his appearance and initial behavior, Gintoki has a great amount of pride for the old bushido code. He takes it upon himself to rescue or avenge not only his comrades and friends but also people he's barely acquainted with, be it a pit-fighter who was taking care of abandoned orphans or an Amanto who resembles a kappa.\n\nDespite being a fearsome fighter with nearly unmatched skills, he avoids needless bloodshed after suffering the loss of most of his friends and allies during the Joui war.\n\n(Source: Wikipedia, VS Battles Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

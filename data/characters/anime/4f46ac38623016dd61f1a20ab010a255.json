@@ -1,0 +1,401 @@
+{
+  "id": "4f46ac38623016dd61f1a20ab010a255",
+  "name": "Megumi Fushiguro",
+  "native_name": "伏黒恵",
+  "full_name": "Megumi Fushiguro",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Sorcerer)",
+    "race": "Human",
+    "bloodline": "Zenin Clan",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "15",
+    "birthday": "December 22",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spiky black hair",
+      "Serious expression",
+      "Jujutsu High uniform"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Sorcerer",
+    "secondary": "Student",
+    "rank_title": "First-year",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jujutsu High",
+      "Zenin Clan"
+    ],
+    "previous": [],
+    "relatives": [
+      "Toji Fushiguro (father)",
+      "Tsumiki (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen Episode 1",
+    "manga": "Jujutsu Kaisen Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ten Shadows Technique",
+      "native_name": "十種影法術",
+      "description": "Summons shikigami (spirit animals) to fight. Inherited Zenin technique.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "All",
+      "limit": "Cursed energy"
+    },
+    {
+      "name": "Divine Dogs",
+      "native_name": "神の犬",
+      "description": "Summons divine dog shikigami for tracking and combat.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "All",
+      "limit": "Energy"
+    },
+    {
+      "name": "Nue",
+      "native_name": "鵺",
+      "description": "Electric bird shikigami for aerial attacks.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Energy"
+    },
+    {
+      "name": "Mahoraga",
+      "native_name": "魔虎羅",
+      "description": "Ultimate shikigami that adapts to anything. Dangerous to summon.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "All",
+      "limit": "Life-threatening"
+    }
+  ],
+  "signature_moves": [
+    "Ten Shadows",
+    "Divine Dogs",
+    "Nue"
+  ],
+  "ultimate_move": "Mahoraga",
+  "trump_card": "Eight-handled sword",
+  "power_attributes": {
+    "power_type": "Cursed Energy",
+    "power_source": "Zenin technique",
+    "combat_style": [
+      "Shikigami summoning"
+    ],
+    "weapon": "Shikigami",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Eight-handled sword",
+    "ultimate_move": "Mahoraga"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Loyal",
+      "Stoic",
+      "Protective",
+      "Selfless",
+      "Calm"
+    ],
+    "likes": [
+      "Yuji",
+      "Nobara",
+      "Justice",
+      "Tsumiki"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Weakness",
+      "Unnecessary deaths"
+    ],
+    "fear": "Losing friends",
+    "dream": "Help people fairly",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Megumi is a skilled sorcerer from the Zenin clan. Joins Yuji and Nobara at Jujutsu High.",
+    "motivation": "Save people, protect friends",
+    "affinity": "Black/Shadow",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Jujutsu High student",
+    "Ten Shadows inheritor",
+    "Exorcised curses"
+  ],
+  "titles": [
+    "Zenin heir",
+    "First-year"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Sorcerer"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 75,
+    "speed": 78,
+    "durability": 75,
+    "power": 88,
+    "combat": 85,
+    "total": 483
+  },
+  "weaknesses": {
+    "list": [
+      "Self-sacrificing",
+      "Emotional",
+      "Inexperienced"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Curse users",
+    "allies": [
+      "Yuji",
+      "Nobara",
+      "Gojo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yuji Itadori",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Curses"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Yuji",
+    "rival": "None",
+    "mentor": "Gojo",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Yuji",
+      "Nobara",
+      "Gojo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Curse users",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Yuji",
+      "Nobara",
+      "Gojo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Gojo"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Curses",
+      "result": "Victory",
+      "method": "Shikigami"
+    },
+    {
+      "opponent": "Hanami",
+      "result": "Victory",
+      "method": "Mahoraga"
+    }
+  ],
+  "quotes": [
+    "I don't like regrets.",
+    "I'll exorcise them.",
+    "Yuji..."
+  ],
+  "voice_acting": {
+    "native_language": "Yuma Uchida (Japanese)",
+    "note": "Calm, serious",
+    "native_name": null,
+    "english": "Robbie Daymond",
+    "japanese": "Yuma Uchida"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Sorcerer",
+      "Student",
+      "Zenin heir",
+      "Master"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Jujutsu High",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15\nBirthday: December 22\nHeight: 175 cm (5'9\")\nHair color: black\nEye color: green (manga), dark blue (anime)\n\nMegumi is a tall, dark-haired boy with blue eyes. He wears the standard uniform of Tokyo Metropolitan Magic Technical College which consists of a long-sleeved shirt and a high collar of dark color, dark trousers and shoes.\n\n\n(Source: Jujutsu Kaisen Wiki)",
+  "note": null,
+  "source": "anime"
+}

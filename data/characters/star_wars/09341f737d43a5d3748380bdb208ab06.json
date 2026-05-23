@@ -1,0 +1,410 @@
+{
+  "id": "09341f737d43a5d3748380bdb208ab06",
+  "name": "Boba Fett",
+  "native_name": null,
+  "full_name": "Boba Fett",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Mandalorian",
+    "bloodline": "Fett Clan",
+    "height_cm": 183,
+    "weight_kg": 85,
+    "age": "Born 31.5 BBY",
+    "birthday": "Alpha",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark Brown",
+    "hair_color": "Black",
+    "skin_color": "Tanned",
+    "notable_features": [
+      "Iconic Mandalorian armor",
+      "T-visor helmet",
+      "Jetpack"
+    ],
+    "skin": "Tanned",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Kamino",
+    "current_location": "Alive",
+    "base_of_operations": "Mobile (Ship: Slave I)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty Hunter",
+    "secondary": "Mandalorian warrior",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Mandalorians",
+      "Fett Clan"
+    ],
+    "previous": [
+      " Galactic Empire"
+    ],
+    "relatives": [
+      "Jango Fett (father/clone)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode II: Attack of the Clones (2002)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Marksman",
+      "native_name": null,
+      "description": "Expert marksmanship inherited from father",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Weapon dependent"
+    },
+    {
+      "name": "Jetpack Combat",
+      "native_name": null,
+      "description": "Use jetpack for aerial mobility and assault",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": "Fuel limited"
+    },
+    {
+      "name": "Mandalorian Combat",
+      "native_name": null,
+      "description": "Traditional Mandalorian fighting techniques",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Requires armor"
+    },
+    {
+      "name": "Expert Piloting",
+      "native_name": null,
+      "description": "Master starfighter pilot",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Requires vehicle"
+    }
+  ],
+  "signature_moves": [
+    "Dual blaster fire",
+    "Seismic charge",
+    "Jetpack rocket"
+  ],
+  "ultimate_move": "Rocket Barrage",
+  "trump_card": "Seismic Charge",
+  "power_attributes": {
+    "power_type": "None (Natural skills)",
+    "power_source": "Mandalorian training",
+    "combat_style": [
+      "Mandalorian combat",
+      "Blaster marksmanship"
+    ],
+    "weapon": "EE-3 carbine, jetpack, missiles",
+    "equipment": [
+      "Mandalorian armor",
+      "Slave I"
+    ],
+    "trump_card": "Seismic Charge",
+    "ultimate_move": "Rocket Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Silent",
+      "Professional",
+      "Determined",
+      "Honorable"
+    ],
+    "likes": [
+      "Bounty hunting",
+      "Family legacy"
+    ],
+    "dislikes": [
+      "Jedi",
+      "Imperials who betrayed him"
+    ],
+    "fear": "Failing his father's legacy",
+    "dream": "Live as a free Mandalorian",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Legendary bounty hunter who survived the Sarlacc, inherited father's legacy",
+    "motivation": "Honor his father, provide for his family",
+    "affinity": "N/A",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Solo'd the Sarlacc",
+    "Delivered Han Solo to Jabba",
+    "One of the most feared bounty hunters",
+    "Mandalorian leader"
+  ],
+  "titles": [
+    "The Greatest Bounty Hunter",
+    "The Mandalore"
+  ],
+  "bounty": {
+    "amount": 10000000,
+    "currency": "Credits",
+    "details": "Highest known bounty in the galaxy"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 75,
+    "speed": 80,
+    "durability": 80,
+    "power": 70,
+    "combat": 90,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "No Force sensitivity",
+      "Vulnerable to Force users"
+    ],
+    "factors": "His armor helps but cannot stop Force"
+  },
+  "relationships": {
+    "nemesis": "Han Solo (initially)",
+    "allies": [
+      "Fennec Shand",
+      "Mandalorians"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Fennec Shand",
+        "relationship": "Partner",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Jedi",
+      "Empire"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Vader",
+        "relationship": "Former employer",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Jango Fett",
+    "rival": "IG-11",
+    "mentor": "Jango Fett",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Fennec Shand",
+      "Mandalorians",
+      "Jango Fett"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Han Solo (initially)",
+      "IG-11"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Emerie Karr (Emerie Karr)",
+      "Jango Fett"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Emerie Karr (Emerie Karr)",
+      "Jango Fett"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "IG-11"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Fennec Shand",
+      "Mandalorians",
+      "Jango Fett"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jango Fett"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Han Solo",
+      "result": "Victory",
+      "method": "Delivered to Jabba the Hutt"
+    },
+    {
+      "opponent": "Sarlacc",
+      "result": "Victory",
+      "method": "Escaped from the Sarlacc pit"
+    }
+  ],
+  "quotes": [
+    "As you wish.",
+    "I have a bad feeling about this."
+  ],
+  "voice_acting": {
+    "native_language": "Temuera Morrison, Daniel Logan",
+    "english": "Temuera Morrison, Daniel Logan",
+    "note": "Portrayed by Temuera Morrison and Daniel Logan",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently Mandalore leader in new series",
+    "transformation": "N/A",
+    "awakening_potential": "Could unite all Mandalorians",
+    "power_evolution": [
+      "Young clone",
+      "Experienced bounty hunter",
+      "Mandalore"
+    ],
+    "role_in_story": "Major character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Slave I"
+    ],
+    "vehicles": [
+      "Slave I Firespray-class"
+    ],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Boba Fett is a character in the Star Wars franchise. First appearing in the Star Wars Holiday Special (1978), where he was voiced by Don Francks, he is an armored bounty hunter featured in both the original and prequel film trilogies. In the original trilogy, the character is a supporting antagonist and was mainly portrayed by Jeremy Bulloch and voiced by Jason Wingreen. Notable for his taciturn demeanor and for never removing his helmet, Fett appears in both The Empire Strikes Back (1980), employed by the Galactic Empire, and Return of the Jedi (1983), serving the crime lord Jabba the Hutt. While seemingly killed in Return of the Jedi after falling into a sarlacc, he has since appeared in Star Wars media set after the film, confirming his survival within the new canon, portrayed by Temuera Morrison. Daniel Logan plays a preteen Boba in the prequel film Attack of the Clones (2002), which reveals the character's origins as the genetic clone and adoptive son of Jango Fett, also a famous bounty hunter. Morrison appeared first in Star Wars media playing Jango. The animated series The Bad Batch further reveals Boba to have been born Alpha, and to have a biological sister, Omega. The series also reveals that he has another sister named Emerie Karr.",
+  "note": null,
+  "source": "star_wars"
+}

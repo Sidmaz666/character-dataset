@@ -1,0 +1,337 @@
+{
+  "id": "ab13642091668aa453d167b79ce92c07",
+  "name": "Grimmjow Jaggerjack",
+  "native_name": "",
+  "full_name": "Grimmjow Jaggerjack",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "July 31",
+    "zodiac": "Leo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "his",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Soul Society",
+    "base_of_operations": "Soul Society",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bleach",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Espada"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach",
+    "manga": "Bleach",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanjutsu",
+      "type": "Swordsmanship",
+      "description": "Expert in sword combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Kido",
+      "type": "Magic",
+      "description": "Able to cast demon magic spells",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hakuda",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hoho",
+      "type": "Movement",
+      "description": "Advanced movement techniques",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Zanjutsu",
+    "Kido",
+    "Hakuda"
+  ],
+  "ultimate_move": "Zanjutsu",
+  "trump_card": "Kido",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Magic",
+    "combat_style": [
+      "Magic",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Zanjutsu"
+    ],
+    "trump_card": "Kido",
+    "ultimate_move": "Zanjutsu"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Proud",
+      "Disciplined",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Threats to loved ones",
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Bleach character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Junichi Suwabe (Japanese)",
+    "Voiced by David Vincent (English)"
+  ],
+  "titles": [
+    "Bleach"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 72,
+    "speed": 72,
+    "durability": 72,
+    "power": 72,
+    "combat": 72,
+    "total": 432
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "David Vincent",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Junichi Suwabe"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Arrancar\nGender: male\nHeight: 186 cm\nWeight: 80 kg\nAffiliation: The Espada\nRank: #6\n\nDate of birth: July 31st\nZodiac sign: Leo\nHole location: Abdomen (腹部)\n\nGrimmjow has light blue hair, and his eyes have blue/green lines below them that are similar to the red marks on Ikkaku Madarame's eyes. Grimmjow's attire consists of a white hakama and a black sash, his white jacket is ragged and consists of an upturned collar, with black inner lining, the sleeves are rolled and Grimmjow wears it open; chest revealed. The remains of his jawbone like hollow mask are relegated to his right cheek, and his hollow hole has moved to his abdomen.\n\nGrimmjow appears to be a laid back and irreverent individual, but this scruffy appearance hides an impulsive, excessively violent personality and a lethally short temper. Grimmjow is blunt, rude, and quite sadistic, revealing an insane grin in battle, much like Kenpachi Zaraki. Grimmjow has little respect for authority and says whatever is on his mind, regardless of whether or not it is appropriate. This attitude leads to conflicts with Kaname Tōsen, who holds Grimmjow in the same low regard as he did Zaraki. He also has conflicts with Ulquiorra Schiffer, the 4th Espada, usually because Ulquiorra interrupts his fights or doesn't act on his own impulses. He has also developed a grudge against Ichigo Kurosaki for wounding him during their second fight, and is eager to return the favor. He purposefully kept the large scar on his chest from their first battle as a reminder of this.\n\nGrimmjow is the sixth Espada in Sōsuke Aizen's army of Arrancar, meaning he is ranked sixth in terms of strength. Grimmjow was the first character to be revealed as an Espada in the series. A crooked number 6 is tattooed on his back just above and to the right of his hollow hole. Aizen personally marks the Espada, the ten most powerful of his Arrancar, with such tattoos as visible marks of their rank and ability. After Kaname Tōsen cuts off and burns his arm, Grimmjow is demoted and quickly replaced by Luppi, much to his annoyance. After Orihime Inoue heals his arm, he kills Luppi to regain his rank, impaling him on his newly restored arm and then vaporizing Luppi's torso with a cero blast.\n\nWhen his zanpakutō, Pantera (豹王（パンテラ, Spanish for \"panther,\" Japanese for \"panther king\") is released he regains some of his former feline characteristics such as jagged teeth, feline ears, clawed hands and feet, and a tail that can be used as a powerful whip.This state augments his speed drastically and gives him animal-like agility and movements to match. His roar can create shockwaves in the air, he can also fire a number of largely destructive \"darts\" from his elbows and create energy claws called Desgarrón (豹王の爪（デスガロン, Spanish for \"laceration,\" Japanese for \"panther king's claw\") from his fingertips.\n\nGrimmjow's character design draws heavily from a character in Tite Kubo's earlier manga, Zombie Powder. The main character of the series, Gamma Akutabi, shares both the bone-like jaw structure and lost arm with Grimmjow, although Gamma wears mechanical prosthetics to cover his disfigurements. Grimmjow's released form makes the resemblance even more apparent. The two have also been identically posed for volume covers.\n\nTheme song: \"Bomb LA(A Bombs) - Step Inside\" from [And Just Constantly Rotating]\n\n(Source: Bleach official character books I-III)",
+  "note": null,
+  "source": "anime"
+}

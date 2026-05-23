@@ -1,0 +1,307 @@
+{
+  "id": "d2b5f1000b6462edcef2358183dfcbb3",
+  "name": "Saber",
+  "native_name": " saber",
+  "full_name": "Artoria Pendragon (Saber)",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Dragon/King",
+    "height_cm": 158,
+    "weight_kg": 51,
+    "age": "Young adult",
+    "birthday": "April 4",
+    "blood_type": "O",
+    "bloodline": null,
+    "zodiac": "Aries",
+    "weight_kkg": null,
+    "bmi": 20.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gold",
+    "hair_color": "Blonde",
+    "skin": "Fair",
+    "notable_features": "Blue armor, crown",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Heavens Arena",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "King",
+    "secondary": "Saber class servant",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "first_appearance": {
+    "anime": "Fate Stay Night Ep1",
+    "manga": "Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Excalibur",
+      "native_name": " exc",
+      "description": "Sword beam attack",
+      "type": "Attack",
+      "tier": "S+",
+      "power": 95
+    }
+  ],
+  "character": {
+    "arc": "King seeks grail",
+    "motivation": "Save Britain",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 65,
+    "speed": 65,
+    "durability": 60,
+    "power": 65,
+    "combat": 65,
+    "total": 390
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "personality": {
+    "traits": [
+      "Resourceful",
+      "Determined",
+      "Adaptable",
+      "Curious",
+      "Brave"
+    ],
+    "likes": [
+      "Learning",
+      "Protecting others",
+      "Efficiency"
+    ],
+    "dislikes": [],
+    "fear": "Betrayal",
+    "dream": "Save Britain",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable"
+    ],
+    "weaknesses": []
+  },
+  "publisher": "anime",
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Hunter Association"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Gilgamesh"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Gilgamesh",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hunter Association"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gilgamesh"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": "Emiya, Kiritsugu",
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Gilgamesh"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hunter Association"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "signature_moves": [
+    "Excalibur"
+  ],
+  "ultimate_move": "Excalibur",
+  "trump_card": "Excalibur",
+  "power_attributes": {
+    "power_type": null,
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Blade",
+    "equipment": [
+      "Excalibur"
+    ],
+    "trump_card": "Excalibur",
+    "ultimate_move": "Excalibur"
+  },
+  "achievements": [
+    "King"
+  ],
+  "titles": [
+    "King"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Michelle Ruff",
+    "note": null,
+    "native_name": null,
+    "japanese": "Ayako Kawasumi"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Heavens Arena",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "A sabre or (American English) saber ( SAY-bər) is a type of backsword with a curved blade associated with the light cavalry of the early modern and Napoleonic periods. Originally associated with Central European cavalry such as the hussars, the sabre became widespread in Western Europe during the Thirty Years' War. Lighter sabres also became popular with infantry of the early 17th century. In the 19th century, models with less curving blades became common and were also used by heavy cavalry.\nThe military sabre was used as a duelling weapon in academic fencing in the 19th century, giving rise to a discipline of modern sabre fencing (introduced in the 1896 Summer Olympics) loosely based on the characteristics of the historical weapon.",
+  "note": null,
+  "source": "anime"
+}

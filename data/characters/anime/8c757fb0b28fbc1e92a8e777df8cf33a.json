@@ -1,0 +1,416 @@
+{
+  "id": "8c757fb0b28fbc1e92a8e777df8cf33a",
+  "name": "Xerxes Break",
+  "native_name": "オブ＝ブレイク",
+  "full_name": "Xerxes Break",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Contractor)",
+    "bloodline": "Break Family",
+    "height_cm": 178,
+    "weight_kg": 68,
+    "age": "Unknown (50+)",
+    "birthday": "September 30",
+    "zodiac": "Libra",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Silver",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Silver hair",
+      "Red eyes",
+      "Eyepatch",
+      "Smile",
+      "Clock pendant"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Abyss",
+    "current_location": "Pandora HQ",
+    "base_of_operations": "Pandora",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pandora Agent",
+    "secondary": "Contractor",
+    "rank_title": "Break",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Pandora",
+      "Nightray"
+    ],
+    "previous": [
+      "Abyss"
+    ],
+    "relatives": [
+      "None"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Pandora Hearts Episode 1",
+    "manga": "Pandora Hearts Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mad Hatter",
+      "native_name": "マッドハッター",
+      "description": "Chain contract with Mad Hatter. Can manipulate time and space in area.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Area",
+      "limit": "Time limit"
+    },
+    {
+      "name": "Time Manipulation",
+      "native_name": "時間操作",
+      "description": "Can rewind, stop, or accelerate time in small area. Very powerful.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 95,
+      "range": "Area",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Sword Mastery",
+      "native_name": "剣術",
+      "description": "Expert swordsman. Wields cane sword with deadly precision.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Immortality Curse",
+      "native_name": "不死の呪い",
+      "description": "Cursed to live forever. Cannot die, keeps youthful appearance.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Curse"
+    }
+  ],
+  "signature_moves": [
+    "Time stop",
+    "Mad Hatter attack",
+    "Cane sword"
+  ],
+  "ultimate_move": "Time manipulation",
+  "trump_card": "Mad Hatter contract",
+  "power_attributes": {
+    "power_type": "Chain",
+    "power_source": "Abyss",
+    "combat_style": [
+      "Sword",
+      "Time magic"
+    ],
+    "weapon": "Cane sword",
+    "equipment": [
+      "Eyepatch",
+      "Clock"
+    ],
+    "trump_card": "Mad Hatter contract",
+    "ultimate_move": "Time manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Mysterious",
+      "Playful",
+      "Tragic",
+      "Loyal",
+      "Manipulative",
+      "Broken"
+    ],
+    "likes": [
+      "Sharon",
+      "Time",
+      "Chaos",
+      "Riddles"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Abyss",
+      "Losing Sharon"
+    ],
+    "fear": "Losing purpose",
+    "dream": "Protect Sharon, find peace",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Break is the mysterious Pandora agent with Mad Hatter contract. Cursed with immortality. Protects Sharon at all costs. Hides tragic past behind smile.",
+    "motivation": "Protect Sharon, serve Pandora",
+    "affinity": "Red/Time",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Pandora's best agent",
+    "Mad Hatter contract",
+    "Immortal",
+    "Sharon's guardian"
+  ],
+  "titles": [
+    "Break",
+    "Mad Hatter",
+    "Immortal"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Currency",
+    "details": "Agent"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 75,
+    "speed": 85,
+    "durability": 95,
+    "power": 92,
+    "combat": 88,
+    "total": 525
+  },
+  "weaknesses": {
+    "list": [
+      "Sharon's safety",
+      "Curse",
+      "Past trauma"
+    ],
+    "factors": [
+      "Sharon",
+      "Abyss"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Abyss, Will of Abyss",
+    "allies": [
+      "Sharon",
+      "Oz",
+      "Alice",
+      "Gilbert"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Sharon Rainsworth",
+        "relationship": "Ward/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Abyss",
+      "Baskerville"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Sharon",
+    "rival": "None",
+    "mentor": "None",
+    "student": "Sharon",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sharon",
+      "Oz",
+      "Alice",
+      "Gilbert"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Abyss, Will of Abyss",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Sharon"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sharon",
+      "Oz",
+      "Alice",
+      "Gilbert"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Baskerville",
+      "result": "Victory",
+      "method": "Time manipulation"
+    },
+    {
+      "opponent": "Will of Abyss",
+      "result": "Conflict",
+      "method": "Mad Hatter"
+    }
+  ],
+  "quotes": [
+    "Time is a fickle thing.",
+    "I'm just a butler.",
+    "Sharon is everything."
+  ],
+  "voice_acting": {
+    "native_language": "Akira Ishida (Japanese)",
+    "note": "Playful, mysterious",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Akira Ishida"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues protecting Sharon",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Human",
+      "Contractor",
+      "Immortal",
+      "Guardian"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Pandora HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: September 30th (Libra)\n\nBreak is a member of Pandora and a servant of the Rainsworth household. Break's appearance does not change from the ten year gap between Oz entering and leaving the Abyss. He has a legal contract with the Mad Hatter.\n\nBreak is often seen with a doll on his shoulder, which he calls Emily. He adores sweets and cakes. From the outside, Break seems like a carefree character, never serious and always smiling. When needs be, however, Break shows his dangerous and evil side. Reim tells Oz that Break has not always been the way he is now. When Break first lost his eye, he was a bitter and angry person who never smiled. However, through the kindness of Shelly, Sharon's mother, he began to open up. He has sworn absolute loyalty to Shelly.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,412 @@
+{
+  "id": "527c8eb5999db2ae2fd07df1855c6725",
+  "name": "Mar-Vell",
+  "native_name": null,
+  "full_name": "Mar-Vell",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Kree",
+    "race": "Kree",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 88,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Pink/Blue",
+    "notable_features": [
+      "Nega-Bands"
+    ],
+    "skin": "Pink/Blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Hala",
+    "current_location": "Deceased",
+    "base_of_operations": "Deceased",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Kree Military Captain",
+    "secondary": "Protector of the Universe",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Kree Empire",
+      "Avengers"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Marvel Super-Heroes #12",
+    "comics": "Marvel Super-Heroes #12 (1967)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Solar Energy Absorption",
+      "native_name": null,
+      "description": "Absorbs solar/stellar energy for power",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Faster-than-light flight leaving photon trail",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Energy Blasts",
+      "native_name": null,
+      "description": "Photon energy blasts from hands",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Cosmic Awareness",
+      "native_name": null,
+      "description": "Detection of universal threats and changes",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Cannot control when triggered"
+    },
+    {
+      "name": "Nega-Bands",
+      "native_name": null,
+      "description": "Enables space survival, energy manipulation, strength enhancement",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Can lift up to 15 tons with solar augmentation",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Universal Beam",
+      "native_name": null,
+      "description": "Multi-functional energy weapon",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Photon Blast",
+    "Space Warp"
+  ],
+  "ultimate_move": "Cosmic Ray",
+  "trump_card": "Full Cosmic Awareness",
+  "power_attributes": {
+    "power_type": "Cosmic Energy",
+    "power_source": "Nega-Bands/Solar Energy",
+    "combat_style": [
+      "Hand-to-hand",
+      "Energy projection"
+    ],
+    "weapon": "Universal Beam",
+    "equipment": [
+      "Nega-Bands"
+    ],
+    "trump_card": "Full Cosmic Awareness",
+    "ultimate_move": "Cosmic Ray"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Honorable",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting the innocent"
+    ],
+    "dislikes": [
+      "Kree Empire cruelty"
+    ],
+    "fear": "Failing to protect",
+    "dream": "Protecting the universe",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Kree captain who became Earth's protector",
+    "motivation": "Protecting the innocent",
+    "affinity": "Cosmic",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Protector of the Universe",
+    "Avengers member",
+    "Defeated Thanos"
+  ],
+  "titles": [
+    "Captain Marvel",
+    "Protector of the Universe"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 85,
+    "durability": 75,
+    "power": 85,
+    "combat": 70,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Cancer from radiation exposure",
+      "Nega-Bands required for full power"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Thanos",
+    "allies": [
+      "Rick Jones",
+      "Avengers"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rick Jones",
+        "relationship": "Partner",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Thanos",
+      " Ronan"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Thanos",
+        "relationship": "Nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Una",
+    "best_friend": "Rick Jones",
+    "rival": "Captain Marvel",
+    "mentor": "Eon",
+    "student": "Captain Marvel",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rick Jones",
+      "Avengers"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thanos",
+      "Captain Marvel"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Captain Marvel"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Captain Marvel"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rick Jones",
+      "Avengers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Eon"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Thanos",
+      "result": "Victory",
+      "method": "Used Nega-Bands"
+    }
+  ],
+  "quotes": [
+    "Mar-Vell will not yield!"
+  ],
+  "voice_acting": {
+    "native_language": "Chris Evans (English)",
+    "english": "Chris Evans",
+    "note": "1970s cartoon",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died of cancer",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Major",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Spacecraft"
+    ],
+    "headquarters": "Deceased",
+    "story_importance": "Major",
+    "note": null
+  },
+  "source": "bing_images",
+  "publisher": "marvel",
+  "about": "Captain Marvel (real name: Mar-Vell; Earth alias Walter Lawson) is a character appearing in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and designed by artist Gene Colan, the character first appeared in Marvel Super-Heroes #12 (December 1967). He is the first character to use the moniker Captain Marvel in the Marvel Universe.\nThe character debuted during the Silver Age of comic books and made many subsequent appearances, including a self-titled series and the second volume of the Marvel Spotlight series until his death in 1982, which has since remained largely permanent within mainstream continuity and most other media, with Carol Danvers (the former Ms. Marvel) becoming the primarily featured Captain Marvel in the modern age.",
+  "note": null
+}

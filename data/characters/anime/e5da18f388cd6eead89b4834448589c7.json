@@ -1,0 +1,326 @@
+{
+  "id": "e5da18f388cd6eead89b4834448589c7",
+  "name": "Donquixote Doflamingo",
+  "native_name": "",
+  "full_name": "Donquixote Doflamingo",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "39",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Grand Line",
+    "current_location": "Grand Line",
+    "base_of_operations": "Grand Line",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "One Piece",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Seven Warlords",
+      "Donquixote Family"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece",
+    "manga": "One Piece",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Haki",
+      "type": "Spiritual",
+      "description": "Able to sense and project spiritual energy",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Combat",
+      "description": "Skilled in blade combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Physical Combat",
+      "type": "Physical",
+      "description": "Proficient in hand-to-hand fighting",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Haki",
+    "Swordsmanship",
+    "Physical Combat"
+  ],
+  "ultimate_move": "Haki",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "Haki"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Adventurous",
+      "Stubborn",
+      "Passionate"
+    ],
+    "likes": [
+      "Adventure",
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "One Piece character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "One Piece"
+  ],
+  "titles": [
+    "One Piece"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 75,
+    "speed": 75,
+    "durability": 75,
+    "power": 75,
+    "combat": 75,
+    "total": 450
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Straw Hat Pirates"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Alias: Joker\nAge: 39; 41\nHeight: 305cm (10'0\")\nRank: Shichibukai (Warlord of the Sea)\nAffiliations: Donquixote Pirates; Donquixote Family; Shichibukai; Human Auction House; Bellamy Pirates\nDevil Fruit:\nBounty: \n\nDoflamingo is a member of the Shichibukai, captain of the Donquixote Pirates, member of Donquixote Family, and King of Dressrosa. His bounty before he became a member of the Shichibukai was 340,000,000 Beli.\n\nDoflamingo is a larger than normal blond haired man who generally dresses in flamboyant clothes. In reference to his animal theme, the flamingo, his clothes are brightly colored with his feathered coat being distinctively pink. He also has an odd way of walking, a bow-legged waddle (but does not always do this), which is also a reference to his animal theme. Twenty-two years ago, his hair was longer than currently, had two earrings in his left ear, and he sported a pair of goggles that he wore on his forehead, in addition to his sunglasses that he wears to this day.\n\nHe has a white shirt with red stripes, a green belt, and orange pants with white stripes. Originally in the anime, Doflamingo had a red shirt with black stripes, a purple belt, and black pants with red stripes. However, when he reappeared during the events of Sabaody, his color scheme was switched to its manga depiction with the exception of his glasses. In the manga, he has orange tinted glasses while in the anime, he has purple tinted ones. He is also often, if not always, smiling.\n\nDoflamingo is one of the most carefree characters in One Piece. He seems to have a penchant for dramatic phrasing, as well as a habit of exaggerated posing when giving declarations. He also appears to fear nothing and no one, as he openly taunts Fleet Admiral Sengoku, sits on the table during the Shichibukai meeting and shows only gleeful interest at the thought of warring with Whitebeard. During the Battle of Marineford, all of Doflamingo's interactions have all been for the sake of personal amusement, hinting a sadistic side. He also has an odd habit of sitting in odd positions, like on the back of chairs, on tables, barrels and, even a pile of bodies in the middle of a war zone.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

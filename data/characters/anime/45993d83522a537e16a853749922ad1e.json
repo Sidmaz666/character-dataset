@@ -1,0 +1,316 @@
+{
+  "id": "45993d83522a537e16a853749922ad1e",
+  "name": "Sabito",
+  "native_name": "",
+  "full_name": "Sabito",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Staff",
+      "Sword"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Yuuki Kaji (Japanese)",
+    "Voiced by Max Mittelman (English)"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Max Mittelman",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Yuuki Kaji"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17\nHeight: 172 cm (5'8\")\nBirthday: December 9th\nFavorite Food: Teriyaki Burgers\nHobbies: The Internet\nSpecial Skills: Good with Action Games, Swordsmanship \nHates: His P.E. Teacher\nWeapon: Delflinger (デルフリンガー), a sentient sword\n\nSaito Hiraga, the main male character, is from Earth (specifically Tokyo, Japan). At the time of the summoning, he had just picked up his laptop after attempting to get it repaired in Akihabara. A portal of some kind opened in front of him; and Saito's curiosity getting the better of him, he touched it and was sucked through. At first, Saito had no idea where he was, and was thoroughly disoriented. When he arrives on the other side however he is made to sit and obey like a normal household dog. When the bond of him being her familiar, involves having a kiss with the familiar, he is quite shocked at why they do it. In the anime, he also could not identify nor understand the language the students were speaking, but after Louise attempts to cast a silence spell on him that fails, he could understand and communicate with others as though they were speaking Japanese. It is not clear whether he was actually gifted with full knowledge of their language, or whether the misfired spell was similar in principle to a universal translator. This was not the case in the light novel though, where he does understand their language; like the names of the characters, the language spoken by them is also French.\n\nThere are Runes inscribed into Saito's hand as a result of his being bound to Louise. They read geboundolf or Gundolf meaning Gandálfr (ガンダールヴ, Gandāruvu?). These runes glow when his Gandálfr powers activate. As a Gandálfr, Saito has the ability to use any object that was made with the intent of being used as a weapon at an extremely high level of skill. He also becomes significantly stronger, faster and tougher. Even weapons that he had never touched before, such as an M-72 rocket launcher and a World War II Zero Fighter, can be instantly understood and utilized. This physical augmentation fades more or less instantly when he stops using the power, which can result in him falling unconscious if he'd been wounded previously. That he can only use items specifically crafted for the purpose of weapons was revealed by Derflinger after a failed attempt to use an ornamental sword. It has not been made clear whether Gandálfr powers could be used in conjunction with purely magical weaponry such as a wand or a staff. Even with these abilities he doesn't defend himself at all against Louise's constant beatings.\n\nThe series constantly implies him being a pervert and sometimes he does think exactly like one, but justifiably, he is a young single guy who isn't married to anyone. Louise just enforces an ownership type arrangement over Saito implying she is owed Saito's feelings. It is later revealed that Saito has feelings for Louise and even says it openly to her.\n\nSaito also has a bit of a troublesome and somewhat complicated tendency of getting involved with women. Strange and oddly sexual things happen when he seemingly becomes intimate with another girl. A few examples are when Kirche or even Siesta try to gain his attention, by mostly sexual seduction. When he meets or speaks to an attractive girl, he is often only noticing her chest in a few instances . This is actually one of the main reasons why Louise treats him so poorly as he is expected to be perfect in every way in her childish mindset.\n\nAlthough he acts a bit perverted at times, this does not mean that he does not think of Louise. Similar to how she feels whenever he is becoming intimate with another girl (specifically with large breasts) Saito can get very upset when it comes to Louise and other men. He dislikes Julio for his \"snobbish\" interest in Louise, especially since he is adored by all the other young girls in Tristain Academy. He becomes extremely jealous and calls him a bastard whenever he tries to touch Louise or gain her attention. He also becomes upset he hears of Louise being married off to someone else. When his friends dragged him into a hole to peep at the girls while they were bathing, he was extremely protective of Louise and stopped them before they saw her naked.He uses the name \"My Louise\" several times in the light novels when he feels jealous toward other guys. This is definite evidence of his strong feelings for Louise.\n\nHis partner, the talking sword Derflinger, was also the partner of the Gandálfr from six-thousand years ago. His advice and comments never reflect well on Saito. Saito protects Louise because he is her familiar, and it is later shown that he has feelings for her as well, claiming \"All that he is good at is protecting her.\" He is revealed to be a Gandálfr, a familiar who exists to protect a Void Wizard as they cast their spells. Even when this fact becomes known to Louise, she still physically assaults him, while Saito is seen often shrugging it off as his fault. Saito was given the nickname \"Our Sword\" by the head cook in episode three, where Louise takes Saito into town to purchase a weapon for him, which happens to be the legendary sword Derflinger. By the beginning of the third series, the magical runes on Saito's hand mysteriously disappear, and Saito's position of Gandálfr is in question. He regains them when he is re-summoned by Louise. With the return of runes, Saito is knighted for the feat of stopping an entire army by himself, and given a hero's welcome at the Academy. Saito is named after Gennai Hiraga who is an Edo period Japanese scientist, and his name is written as \"ability man.\"",
+  "note": null,
+  "source": "anime"
+}

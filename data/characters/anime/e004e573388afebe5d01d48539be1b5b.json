@@ -1,0 +1,305 @@
+{
+  "id": "e004e573388afebe5d01d48539be1b5b",
+  "name": "Casca",
+  "native_name": "",
+  "full_name": "Casca (Falcon of Darkness)",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Warrior",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Tanned",
+    "notable_features": "Warrior scars",
+    "skin": "Tanned",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Falcon unit",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "first_appearance": {
+    "anime": "Berserk Ch1",
+    "manga": "Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sword Combat",
+      "native_name": "剣",
+      "description": "Expert swordswoman",
+      "type": "Attack",
+      "tier": "S",
+      "power": 85
+    }
+  ],
+  "character": {
+    "arc": "Broken warrior",
+    "motivation": "Heal",
+    "alignment": "Neutral Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Heal",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "publisher": "anime",
+  "story": {
+    "status": "Unknown",
+    "role_in_story": "Minor",
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Opposing faction"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Opposing faction"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "signature_moves": [
+    "Sword Combat"
+  ],
+  "ultimate_move": "Sword Combat",
+  "trump_card": "Sword Combat",
+  "power_attributes": {
+    "power_type": null,
+    "power_source": "Unknown",
+    "combat_style": [
+      "Swordsmanship"
+    ],
+    "weapon": "Sword Combat",
+    "equipment": [
+      "Sword Combat"
+    ],
+    "trump_card": "Sword Combat",
+    "ultimate_move": "Sword Combat"
+  },
+  "achievements": [
+    "Voiced by Yuuko Miyamura (Japanese)",
+    "Voiced by Carrie Keranen (English)"
+  ],
+  "titles": [
+    "Falcon unit"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Carrie Keranen",
+    "note": null,
+    "native_name": null,
+    "japanese": "Yuuko Miyamura"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": null,
+    "story_importance": "Minor",
+    "note": null
+  },
+  "about": "Casca was the only female soldier in the original Band of the Hawk and is behind only to Guts and Griffith in swordsmanship. Her ambivalent relationship to both of them makes her moody and capricious. Casca joins the Band of the Hawk after Griffith saves her from a sexual assault by a nobleman.",
+  "note": null,
+  "source": "anime"
+}

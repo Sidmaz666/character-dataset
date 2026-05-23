@@ -1,0 +1,383 @@
+{
+  "id": "9ae69536a55dec3636c1992661681e14",
+  "name": "Gwen Stacy",
+  "native_name": "",
+  "full_name": "Gwendolyne Maxine Stacy",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Stacy Family",
+    "height_cm": 170,
+    "weight_kg": 58,
+    "age": "22",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "College student look"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Model",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Empire State University"
+    ],
+    "relatives": [
+      "George Stacy (father)",
+      "Helen Stacy (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #31 (1965)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Intelligence",
+      "native_name": null,
+      "description": "Highly intelligent and academically gifted",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Strong Will",
+      "native_name": null,
+      "description": "Incredible inner strength and moral conviction",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Perceptive",
+      "native_name": null,
+      "description": "Suspected Peter was Spider-Man",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Courage",
+      "native_name": null,
+      "description": "Willing to stand up for what's right",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Multilingual",
+      "native_name": null,
+      "description": "Fluent in multiple languages",
+      "type": "Passive",
+      "tier": "C",
+      "power_level": 60,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Strong Will",
+    "Intelligence",
+    "Perceptive"
+  ],
+  "ultimate_move": "Strong Will",
+  "trump_card": "Intelligence",
+  "power_attributes": {
+    "power_type": "Human",
+    "power_source": "Natural",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Intelligence",
+    "ultimate_move": "Strong Will"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Compassionate",
+      "Independent",
+      "Loyal",
+      "Curious"
+    ],
+    "likes": [
+      "Science",
+      "Music",
+      "Peter Parker",
+      "Fashion"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Bullies",
+      "Secrets"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Make a difference",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Peter Parker's first love whose tragic death became a defining moment in Spider-Man's life",
+    "motivation": "Pursue knowledge and support those she cares about",
+    "affinity": "Love/Tragedy",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Top student at ESU"
+  ],
+  "titles": [
+    "Peter's First Love"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 20,
+    "speed": 25,
+    "durability": 20,
+    "power": 15,
+    "combat": 20,
+    "total": 180
+  },
+  "weaknesses": {
+    "list": [
+      "Normal human"
+    ],
+    "factors": "Human limitations"
+  },
+  "relationships": {
+    "nemesis": "Green Goblin",
+    "allies": [
+      "Peter Parker",
+      "Harry Osborn",
+      "Mary Jane Watson"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Green Goblin"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Peter Parker",
+    "best_friend": "Mary Jane Watson",
+    "rival": "Mary Jane Watson (initially)",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Peter Parker",
+      "Harry Osborn",
+      "Mary Jane Watson"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Green Goblin",
+      "Mary Jane Watson (initially)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mary Jane Watson"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Peter Parker",
+      "Harry Osborn",
+      "Mary Jane Watson"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Green Goblin",
+      "result": "Death",
+      "method": "Killed by Goblin"
+    }
+  ],
+  "quotes": [
+    "I love you, Peter Parker."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased (main universe)",
+    "fate": "Killed by Green Goblin",
+    "transformation": "N/A",
+    "awakening_potential": "Unknown",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Spider-Woman is the code name of several fictional characters in comic books published by Marvel Comics. The first major version is Jessica Drew, the second major version is Julia Carpenter, and the third major version is Mattie Franklin. Several alternate reality incarnations of the character have additionally received attention, including the Ultimate Spider-Woman, Ashley Barton, and Gwen Stacy.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,347 @@
+{
+  "id": "6cfeb167630049808527e6ad12c07c0c",
+  "name": "Yamada, Ryou",
+  "native_name": "山田リョウ",
+  "full_name": "Ryou Yamada",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Yamada",
+    "height_cm": 163,
+    "weight_kg": 52,
+    "age": "17",
+    "birthday": "September 18",
+    "zodiac": "Virgo",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 19.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blue hair",
+      "Bass guitar",
+      "Cool expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bassist",
+    "secondary": "High school student",
+    "rank_title": "Bassist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kessoku Band",
+      "Shimokitani High"
+    ],
+    "previous": [],
+    "relatives": [
+      "Parents",
+      "Sisters"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bocchi the Rock Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Bass Playing",
+      "native_name": "ベース演奏",
+      "description": "Skilled bassist",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Freeloading",
+      "native_name": "居候",
+      "description": "Expert at getting free food",
+      "type": "Social",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Bass Line",
+    "Mooch"
+  ],
+  "ultimate_move": "Bass Solo",
+  "trump_card": "Musical Instinct",
+  "power_attributes": {
+    "power_type": "Music",
+    "power_source": "Talent",
+    "combat_style": [],
+    "weapon": "Bass",
+    "equipment": [
+      "Bass guitar"
+    ],
+    "trump_card": "Musical Instinct",
+    "ultimate_move": "Bass Solo"
+  },
+  "personality": {
+    "traits": [
+      "Cool",
+      "Mysterious",
+      "Broke",
+      "Loyal",
+      "Independent"
+    ],
+    "likes": [
+      "Bass",
+      "Free food",
+      "Music"
+    ],
+    "dislikes": [
+      "Paying",
+      "Responsibility"
+    ],
+    "fear": "Being alone",
+    "dream": "Live for music",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Cool bassist with heart of gold",
+    "motivation": "Play music",
+    "affinity": "Music",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Kessoku Band bassist",
+    "Successful performances"
+  ],
+  "titles": [
+    "Bassist",
+    "Freeloader"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 45,
+    "speed": 60,
+    "durability": 55,
+    "power": 62,
+    "combat": 30,
+    "total": 322
+  },
+  "weaknesses": {
+    "list": [
+      "Broke",
+      "Irresponsible",
+      "Moocher"
+    ],
+    "factors": [
+      "Money issues"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Nijika",
+      "Hitori",
+      "Ikuyo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nijika",
+        "relationship": "Band leader",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Nijika",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nijika",
+      "Hitori",
+      "Ikuyo"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nijika",
+      "Hitori",
+      "Ikuyo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Got any food?",
+    "Bass is life."
+  ],
+  "voice_acting": {
+    "native_language": "Miyuri Shimabukuro",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Saku Mizuno"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues in band",
+    "transformation": null,
+    "awakening_potential": "Moderate",
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: September 18\nBlood type: AB\nAffiliation: Shimokitazawa High School, Kessoku Band\n\nA cool and solitary second year of high school. She is in charge of the bass of Kessoku Band. She's the best friend of Nijika. Her hobbies are out of the ordinary, and she rejoices when called a weirdo. She lives with a wealthy family, but she spends much of her money on instruments and always runs out of money. She occasionally eats weeds to get rid of her hunger.\n\n(Source: Bocchi the Rock! Wiki)",
+  "note": null,
+  "source": "anime"
+}

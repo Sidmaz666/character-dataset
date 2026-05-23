@@ -1,0 +1,329 @@
+{
+  "id": "76ada8fca9c42c72a65d7810b3ffbdf7",
+  "name": "Tek Knight",
+  "native_name": null,
+  "full_name": "George Wilder",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Wilder",
+    "height_cm": 188,
+    "weight_kg": 95,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Tech-armored suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "United States",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Tech Hero",
+    "secondary": "Supe with tech",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Various teams"
+    ],
+    "previous": [
+      "The Seven"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tech Suit",
+      "native_name": null,
+      "description": "Advanced technological armor",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Requires suit"
+    },
+    {
+      "name": "Weaponry",
+      "native_name": null,
+      "description": "Multiple weapons in suit",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Ammunition"
+    }
+  ],
+  "signature_moves": [
+    "Tech Blast"
+  ],
+  "ultimate_move": "Full Tech Onslaught",
+  "trump_card": "Complete Arsenal",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Compound V + Tech",
+    "combat_style": [
+      "Tech combat"
+    ],
+    "weapon": "Various",
+    "equipment": [
+      "Tech suit"
+    ],
+    "trump_card": "Complete Arsenal",
+    "ultimate_move": "Full Tech Onslaught"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Arrogant",
+      "Tech-savvy"
+    ],
+    "likes": [
+      "Technology"
+    ],
+    "dislikes": [
+      "Failure"
+    ],
+    "dream": "Perfect tech",
+    "personality_type": "ENTP",
+    "fear": "Tech dependent",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Tech Suit",
+      "Weaponry"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Tech-enhanced supe",
+    "motivation": "Perfect technology",
+    "affinity": "Technology",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Created tech suit"
+  ],
+  "titles": [
+    "Tek Knight",
+    "Tech Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Active"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 75,
+    "speed": 70,
+    "durability": 85,
+    "power": 80,
+    "combat": 65,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Tech dependent",
+      "EMP vulnerability"
+    ],
+    "factors": [
+      "arrogant"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Teams"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Teams"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Teams"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Technology is the ultimate power."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Colleen Clinkenbeard",
+    "note": "Comic character",
+    "native_name": null,
+    "japanese": "Sayaka Ohara"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues heroics",
+    "transformation": null,
+    "awakening_potential": "Better tech",
+    "power_evolution": [],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The Skull Knight is one of the most mysterious and prolific characters introduced in Berserk, a towering warrior dressed in full armor whose ornaments, especially his helmet, are shaped as parts of a human skeleton, hence his moniker, who rides a massive, ghostly black horse. Though ominous and macabre, he is an enemy of the Godhand and its acolytes, hunting down Apostles and devouring their Behelits; especially bitter is his rivalry with Zodd the Immortal, whom he was often showed to overwhelm with ease. \n\nHe wields a powerful sword that, when stuck down his throat, becomes a terrible, Behelit-coated blade capable of slashing rifts through reality itself, thus allowing the Skull Knight to move freely around the world or even between different dimensions.",
+  "note": null,
+  "source": "anime"
+}

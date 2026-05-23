@@ -1,0 +1,398 @@
+{
+  "id": "9168348270744d0f036fa0af0d54228d",
+  "name": "Shin (The New Gate)",
+  "native_name": "進",
+  "full_name": "Shin (Player Name: Paine)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 178,
+    "weight_kg": 72,
+    "age": "24 (appears), trapped for 500 years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Silver/White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Silver hair",
+      "Red eyes (unusual)",
+      "Muscular build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan (Earth)",
+    "current_location": "Another World",
+    "base_of_operations": "Thundoria",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Former Top Player (Thousand Swords)",
+    "secondary": "Adventurer",
+    "rank_title": "Strongest Player",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Tia",
+      "Magi",
+      "Sasaki"
+    ],
+    "previous": [
+      "Massively Multiplayer Online game world"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "The New Gate (2014)",
+    "manga": "The New Gate",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Thousand Swords Style",
+      "native_name": "千剣流",
+      "description": "Legendary sword style mastered by Shin. Contains techniques like Thousand Swords - Thousand Wounds.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Sword Mastery (Legendary)",
+      "native_name": "伝説の剣術",
+      "description": "Highest level sword skill possible in the game world.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Body Strengthening",
+      "native_name": "身体強化",
+      "description": "Can enhance body beyond human limits.",
+      "type": "Enhancement",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "500 Years of Experience",
+      "native_name": "500年经验",
+      "description": "Has 500 years of game experience and combat knowledge.",
+      "type": "Enhancement",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Flight",
+      "native_name": "飛行",
+      "description": "Can fly through the air.",
+      "type": "Mobility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Skill Reflection",
+      "native_name": "スキル反射",
+      "description": "As a top player, has numerous active and passive skills.",
+      "type": "Enhancement",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Thousand Swords - Thousand Wounds",
+    "Legendary Sword Strike"
+  ],
+  "ultimate_move": "True Thousand Swords Style",
+  "trump_card": "Full Power Release",
+  "power_attributes": {
+    "power_type": "Sword Combat",
+    "power_source": "500 Years of Game Experience",
+    "combat_style": [
+      "Sword Combat",
+      "Body Enhancement"
+    ],
+    "weapon": "Longsword",
+    "equipment": [
+      "Player Gear"
+    ],
+    "trump_card": "Full Power Release",
+    "ultimate_move": "True Thousand Swords Style"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Responsible",
+      "Protective",
+      "Humble"
+    ],
+    "likes": [
+      "Protecting people",
+      "Tia"
+    ],
+    "dislikes": [
+      "Evil",
+      "Pointless death"
+    ],
+    "fear": "Losing control",
+    "dream": "Help this world, find purpose",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Responsible"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Trapped 500 years as strongest player, now protects new world",
+    "motivation": "Help and protect the world he now lives in",
+    "affinity": "Light",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Strongest player in game history",
+    "Defeated powerful enemies",
+    "Escaped gate after 500 years"
+  ],
+  "titles": [
+    "Thousand Swords",
+    "Legendary Swordsman",
+    "Former Top Player"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 95,
+    "speed": 90,
+    "durability": 88,
+    "power": 92,
+    "combat": 98,
+    "total": 553
+  },
+  "weaknesses": {
+    "list": [
+      "None significant"
+    ],
+    "factors": [
+      "limit"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Tia",
+      "Magi",
+      "Sasakie"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tia",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tia",
+      "Magi",
+      "Sasakie"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tia",
+      "Magi",
+      "Sasakie"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I will protect this world."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Sean Chiplock",
+    "note": "Japanese dub only",
+    "native_name": null,
+    "japanese": "Yoshimasa Hosoya"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Protecting new world",
+    "transformation": "None",
+    "awakening_potential": "Already at peak",
+    "power_evolution": [
+      "Normal Player",
+      "Top Player",
+      "Legendary"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Thundoria",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Shin's mask is shaped like a human heart, although he usually wears it backwards with the front of it facing backwards and two eye holes cut out of the back. Without a mask he is blond with blue eyes, and wears glasses. He is usually in a suit with an un-tucked white shirt and sneakers. His tool of choice is a hammer, as well as his magic smoke that allows him to dismember and dissect people without them physically dying.\n\nDespite being a hitman Shin believes in fair fighting and refuses to use his magic abillity's on people who cannot use magic, resorting to his hammer instead.\n\nIn contradiction to Shin's controled and content nature he is very blood thirsty for competition. as shown in the first chapter, he gets thrilled when En assigns him and Noi with the task of killing Kaiman and Nikaido.",
+  "note": null,
+  "source": "anime"
+}

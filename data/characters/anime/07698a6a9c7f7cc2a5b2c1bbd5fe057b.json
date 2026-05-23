@@ -1,0 +1,330 @@
+{
+  "id": "07698a6a9c7f7cc2a5b2c1bbd5fe057b",
+  "name": "Rickert",
+  "native_name": "リッケルト",
+  "full_name": "Rickert (Berserk)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 166,
+    "weight_kg": 61,
+    "age": "13-19",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde/light",
+    "skin": "Fair",
+    "notable_features": "Young, childlike appearance, crossbow",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Midland",
+    "current_location": "Traveling with Erica",
+    "base_of_operations": "Traveling with Erica",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Soldier/Archer",
+    "secondary": "Blacksmith apprentice",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Band of the Hawk",
+      "Godo (mentor)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Berserk (1997)",
+    "manga": "Berserk Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Crossbow Mastery",
+      "native_name": "弓矢",
+      "description": "Talented archer, rivals Judeau's skill",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long"
+    },
+    {
+      "name": "Engineering",
+      "native_name": "工 学",
+      "description": "Brilliant engineer; created Cannon Arm for Guts",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Short"
+    },
+    {
+      "name": "Blacksmith",
+      "native_name": "鍛冶",
+      "description": "Learned blacksmithing from Godo",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75
+    }
+  ],
+  "signature_moves": [
+    "Crossbow Shot",
+    "Cannon Arm creation"
+  ],
+  "power_attributes": {
+    "power_type": "Ranged combat + engineering",
+    "power_source": "Technical skill",
+    "combat_style": [
+      "Archery",
+      "Engineering"
+    ],
+    "weapon": "Crossbow Mastery",
+    "equipment": [
+      "Engineering"
+    ],
+    "trump_card": "Crossbow Mastery",
+    "ultimate_move": "Engineering"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Curious",
+      "Kind",
+      "Admiring",
+      "Traumatized"
+    ],
+    "likes": [
+      "Griffith (formerly)",
+      "Guts",
+      "Erica",
+      "Engineering"
+    ],
+    "dislikes": [
+      "Apostles",
+      "Supernatural"
+    ],
+    "dream": "Use engineering for good",
+    "fear": "Cowardice",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From child soldier to skilled blacksmith",
+    "motivation": "Honor fallen comrades",
+    "affinity": "Craft",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Survived Eclipse",
+    "Created Guts' cannon arm",
+    "Became blacksmith"
+  ],
+  "titles": [
+    "Youngest Band member",
+    "Engineer"
+  ],
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 35,
+    "speed": 45,
+    "durability": 35,
+    "power": 60,
+    "combat": 50,
+    "total": 305
+  },
+  "relationships": {
+    "mentor": "Godo",
+    "friend": "Guts",
+    "best_friend": "Erica",
+    "former_leader": "Griffith",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "rival": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guts"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Godo"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'll make something useful for you, Guts."
+  ],
+  "voice_acting": {
+    "native_language": "Minako Kotobuki",
+    "note": null,
+    "native_name": null,
+    "english": "Michelle Newman",
+    "japanese": "Akiko Yajima"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Travels with Erica, learns truth about Eclipse",
+    "role_in_story": "Supporting",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Engineering",
+  "trump_card": "Crossbow Mastery",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Traveling with Erica",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "Rickert was the youngest in the old Band of the Hawk, being merely a child.",
+  "note": null,
+  "source": "anime"
+}

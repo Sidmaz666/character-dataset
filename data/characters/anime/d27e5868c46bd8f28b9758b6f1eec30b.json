@@ -1,0 +1,308 @@
+{
+  "id": "d27e5868c46bd8f28b9758b6f1eec30b",
+  "name": "Glory, Athena",
+  "native_name": " Glory",
+  "full_name": "Athena (Goddess of Wisdom)",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Goddess",
+    "race": "Greek deity",
+    "height_cm": 165,
+    "weight_kg": 50,
+    "age": "Immortal",
+    "birthday": "Unknown",
+    "zodiac": "Virgo",
+    "blood_type": "Divine",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 18.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Blonde",
+    "skin": "Fair",
+    "notable_features": "Purple armor, wise expression",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Goddess",
+    "secondary": "Hero helper",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "first_appearance": {
+    "anime": "Saint Seiya Ep1",
+    "manga": "Saint Seiya Ep1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cosmic Power",
+      "native_name": "神力",
+      "description": "Goddess cosmic energy",
+      "type": "Attack",
+      "tier": "S+",
+      "power": 95
+    }
+  ],
+  "signature_moves": [
+    "Divine wisdom",
+    "Cosmic blast"
+  ],
+  "ultimate_move": "Goddess power",
+  "trump_card": "Full divine form",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "publisher": "anime",
+  "story": {
+    "status": "Unknown",
+    "role_in_story": "Minor",
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Zeus (father)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Zeus (father)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Zeus (father)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Zeus"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "power_attributes": {
+    "power_type": null,
+    "power_source": "Cosmic",
+    "combat_style": [],
+    "weapon": "Spear",
+    "equipment": [
+      "Helmet",
+      "Spear"
+    ],
+    "trump_card": "Full divine form",
+    "ultimate_move": "Goddess power"
+  },
+  "achievements": [
+    "Goddess"
+  ],
+  "titles": [
+    "Goddess"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Michele Knotz",
+    "note": null,
+    "native_name": null,
+    "japanese": "Tomoko Kawakami"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": null,
+    "story_importance": "Minor",
+    "note": null
+  },
+  "about": "Athena or Athene, often given the epithet Pallas, is an ancient Greek goddess associated with wisdom, warfare, and handicraft who was later syncretised with the Roman goddess Minerva. Athena was regarded as the patron and protectress of various cities across Greece, particularly the city of Athens, from which she most likely received her name. The Parthenon on the Acropolis of Athens is dedicated to her. Her major symbols include owls, olive trees, snakes, and the gorgoneion. In art, she is generally depicted wearing a helmet and holding a spear.\nFrom her origin as an Aegean palace goddess, Athena was closely associated with the city. She was known as Polias and Poliouchos (both derived from polis, meaning \"city-state\"), and her temples were usually located atop the fortified acropolis in the central part of the city. The Parthenon on the Athenian Acropolis is dedicated to her, along with numerous other temples and monuments. As the patron of craft and weaving, Athena was known as Ergane. She was also a warrior goddess, and was believed to lead soldiers into battle as Athena Promachos. Her main festival in Athens was the Panathenaia, which was celebrated during the month of Hekatombaion in midsummer and was the most important festival on the Athenian calendar.\nIn Greek mythology, Athena was born from the forehead of her father Zeus; in Hesiod's Theogony, this occurred after Zeus swallowed his consort Metis while she was pregnant with Athena. In the founding myth of Athens, Athena bested Poseidon in a competition over patronage of the city by creating the first olive tree. She was known as Athena Parthenos \"Athena the Virgin\". In one archaic Attic myth, Hephaestus tried and failed to rape her, resulting in Gaia giving birth to Erichthonius, an important Athenian founding hero whom Athena raised. She was the patron goddess of heroic endeavour; she was believed to have aided the heroes Perseus, Heracles, Bellerophon, and Jason. Along with Aphrodite and Hera, Athena was one of the three goddesses whose feud resulted in the Trojan War. She plays an active role in the Iliad, in which she assists the Achaeans and, in the Odyssey, she is the tutelary deity to Odysseus.\nIn the later writings of the Roman poet Ovid, Athena was said to have competed against the mortal Arachne in a weaving competition, afterward transforming Arachne into the first spider, and to have transformed Medusa into the Gorgon after witnessing the young woman being raped by Poseidon in the goddess's temple. Ovid also says that Athena saved the mortal maiden Corone from the same god by transforming her into a crow. Since the Renaissance, Athena has become an international symbol of wisdom, the arts, and classical learning. Western artists and allegorists have often used Athena as a symbol of freedom and democracy.\nIn astronomy, two asteroids are named after Athena: 2 Pallas and 881 Athene.\nIn taxonomy, two genuses are named after Athena: Athene (in family Strigidae) and Atheniella (in family Cyphellaceae).",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,366 @@
+{
+  "name": "Idsastaros",
+  "native_name": null,
+  "full_name": "Idsastaros",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Demon/Dark Being",
+    "race": "Demon",
+    "bloodline": null,
+    "height_cm": 200,
+    "weight_kg": 120,
+    "age": "Ancient",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 30,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin_color": "Dark/Pale",
+    "notable_features": [
+      "Dark armor",
+      "Demonic appearance",
+      "Intimidating"
+    ],
+    "skin": "Dark/Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Demon Realm",
+    "current_location": "Demon Realm",
+    "base_of_operations": "Demon Realm",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Lord",
+    "secondary": null,
+    "rank_title": "Demon Lord",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Realm"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Anime Series",
+    "manga": "Manga",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dark Magic",
+      "type": "Mystical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long"
+    },
+    {
+      "name": "Demon Physiology",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    },
+    {
+      "name": "Dark Energy Manipulation",
+      "type": "Energy",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long"
+    },
+    {
+      "name": "Immortality",
+      "type": "Racial",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Dark Abyss",
+    "Demon Strike",
+    "Shadow Realm"
+  ],
+  "ultimate_move": "Eternal Darkness",
+  "trump_card": "Demon Lord Authority",
+  "power_attributes": {
+    "power_type": "Dark Magic/Demon",
+    "power_source": "Demonic Heritage",
+    "combat_style": [
+      "Dark Magic",
+      "Overwhelming",
+      "Ranged"
+    ],
+    "weapon": "Dark Energy",
+    "equipment": [
+      "Dark armor"
+    ],
+    "trump_card": "Demon Lord Authority",
+    "ultimate_move": "Eternal Darkness"
+  },
+  "personality": {
+    "traits": [
+      "Dark",
+      "Powerful",
+      "Malevolent",
+      "Cruel",
+      "Cunning"
+    ],
+    "likes": [
+      "Darkness",
+      "Power",
+      "Conquest"
+    ],
+    "dislikes": [
+      "Light",
+      "Heroes",
+      "Weakness"
+    ],
+    "fear": "Losing power",
+    "dream": "Expand demon realm",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Powerful"
+    ],
+    "weaknesses": [
+      "Cruel"
+    ]
+  },
+  "character": {
+    "arc": "Powerful demon lord antagonist in an anime series. Opposes the protagonists with dark powers and demonic armies.",
+    "motivation": "Conquer the realm and spread darkness",
+    "affinity": "Dark/Demon",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Demon Lord status"
+  ],
+  "titles": [
+    "Idsastaros",
+    "Demon Lord",
+    "Lord of Darkness"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 88,
+    "speed": 75,
+    "durability": 90,
+    "power": 92,
+    "combat": 82,
+    "total": 507
+  },
+  "weaknesses": {
+    "list": [
+      "Holy magic",
+      "Light",
+      "Pride"
+    ],
+    "factors": [
+      "Light-based attacks",
+      "Overconfidence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hero/protagonists",
+    "allies": [
+      "Demon army"
+    ],
+    "enemies": [
+      "Heroes",
+      "Light realm"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Demon army"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hero/protagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Demon army"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Heroes",
+      "result": "Ongoing",
+      "method": "Dark magic and demon armies"
+    }
+  ],
+  "quotes": [
+    "Darkness eternal shall consume all!"
+  ],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Ruling demon realm",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Demon",
+      "Lord",
+      "Idsastaros"
+    ],
+    "role": "Major Villain",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Dark magic teleportation"
+    ],
+    "vehicles": [
+      "Demon chariot"
+    ],
+    "headquarters": "Demon Realm",
+    "story_importance": "Major Villain",
+    "note": null
+  },
+  "id": "693367d03df21386084381c1e2ef00b2",
+  "publisher": "anime",
+  "about": "Idsastaros is a character from anime series who serves as Demon Lord. They possesses the abilities of Dark Magic, Demon Physiology, Dark Energy Manipulation. They originates from [object Object].",
+  "note": null,
+  "source": "anime"
+}

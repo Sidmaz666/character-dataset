@@ -1,0 +1,417 @@
+{
+  "id": "2e6e9c4da42915365802f2ca5a0a1ce3",
+  "name": "Spawn",
+  "native_name": "Al Simmons",
+  "full_name": "Albert Francis Simmons",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Hellspawn",
+    "race": "Demon/human hybrid",
+    "bloodline": "Simmons family",
+    "height_cm": 183,
+    "weight_kg": 204,
+    "age": "Unknown (died young, eternal now)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 60.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White (empty sockets)",
+    "hair_color": "Black",
+    "skin_color": "Black (necroplasm)",
+    "notable_features": [
+      "Spikes",
+      "Chains",
+      "Red cape"
+    ],
+    "skin": "Black (necroplasm)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Detroit, Michigan",
+    "current_location": "Earth (Hellspawn dimension)",
+    "base_of_operations": "Rat City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hellspawn",
+    "secondary": "CIA Operative (former)",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Nightmare",
+      " various anti-heroes"
+    ],
+    "previous": [
+      "CIA",
+      "US Marine Corps"
+    ],
+    "relatives": [
+      "Wanda Blake (wife)",
+      " Cyan (child)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Malibu Sun #13 (1992)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Necroplasm Manipulation",
+      "native_name": null,
+      "description": "Create and control necroplasmic energy, the fuel of hellspawn",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires necroplasm"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Immense physical strength from necroplasm",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires necroplasm"
+    },
+    {
+      "name": "Shapeshifting",
+      "native_name": null,
+      "description": "Alter physical form at will",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Drains necroplasm"
+    },
+    {
+      "name": "Teleportation",
+      "native_name": null,
+      "description": "Instant transport through space",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Major necroplasm drain"
+    }
+  ],
+  "signature_moves": [
+    "Necro blast",
+    "Chain whip",
+    "Hellfire"
+  ],
+  "ultimate_move": "Terminus",
+  "trump_card": "God Spawn (maximum form)",
+  "power_attributes": {
+    "power_type": "Necromancy",
+    "power_source": "Necroplasm from Hell",
+    "combat_style": [
+      "Combat expert",
+      "Magic"
+    ],
+    "weapon": "Leetha symbiote suit",
+    "equipment": [
+      "Chains",
+      "Spikes"
+    ],
+    "trump_card": "God Spawn (maximum form)",
+    "ultimate_move": "Terminus"
+  },
+  "personality": {
+    "traits": [
+      "Vengeful",
+      "Tortured",
+      "Righteous",
+      "Sacrificial"
+    ],
+    "likes": [
+      "Justice",
+      "Protecting innocents"
+    ],
+    "dislikes": [
+      "Evil",
+      " Hell Lords"
+    ],
+    "fear": "Losing to Hell completely",
+    "dream": "Save his wife and humanity",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Necroplasm Manipulation",
+      "Superhuman Strength",
+      "Shapeshifting",
+      "Teleportation"
+    ],
+    "weaknesses": [
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "CIA operative murdered, became Hellspawn, fought for redemption",
+    "motivation": "Protect the innocent",
+    "affinity": "Necroplasm",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Malebolgia",
+    "Became God Spawn",
+    "Saved humanity multiple times",
+    "United Hell against Heaven"
+  ],
+  "titles": [
+    "The Hellspawn",
+    "The One",
+    "God Spawn"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 90,
+    "speed": 85,
+    "durability": 95,
+    "power": 95,
+    "combat": 80,
+    "total": 520
+  },
+  "weaknesses": {
+    "list": [
+      "Necro counter depletion",
+      "Holy items",
+      "Light magic"
+    ],
+    "factors": "Using powers drains necroplasm"
+  },
+  "relationships": {
+    "nemesis": [
+      "Malebolgia",
+      "The Devil"
+    ],
+    "allies": [
+      "Twitch",
+      "Nyx",
+      "Violator"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Twitch",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Heaven",
+      "Hell",
+      "various"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Malebolgia",
+        "relationship": "Master",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Wanda Blake",
+    "best_friend": "Twitch",
+    "rival": "TheRedeemer",
+    "mentor": "Various (in Hell)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Twitch",
+      "Nyx",
+      "Violator"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Malebolgia",
+      "The Devil",
+      "TheRedeemer"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "TheRedeemer"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Twitch",
+      "Nyx",
+      "Violator"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Malebolgia",
+      "result": "Victory",
+      "method": "Absorbed power, became God"
+    },
+    {
+      "opponent": "God",
+      "result": "Draw",
+      "method": "Fought as equal"
+    }
+  ],
+  "quotes": [
+    "I'm God!",
+    "We are the army of God.",
+    "Evil is not the enemy."
+  ],
+  "voice_acting": {
+    "native_language": "Keith David (various)",
+    "english": "Keith David",
+    "note": "Various voice actors",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (as Hellspawn)",
+    "fate": "Continues fighting",
+    "transformation": "Became Hellspawn",
+    "awakening_potential": "Could become infinite",
+    "power_evolution": [
+      "Hellspawn",
+      "Legion",
+      "God Spawn",
+      "King of Dead"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Rat City",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "Spawn or spawning may refer to:\n\nSpawning, the eggs and sperm of aquatic animals",
+  "note": null,
+  "source": "image_comics"
+}

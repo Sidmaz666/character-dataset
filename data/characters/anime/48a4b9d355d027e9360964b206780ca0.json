@@ -1,0 +1,412 @@
+{
+  "id": "48a4b9d355d027e9360964b206780ca0",
+  "name": "Uryu Ishida",
+  "native_name": "石田 雨竜",
+  "full_name": "Uryu Ishida",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Quincy",
+    "bloodline": "Ishida Family",
+    "height_cm": 171,
+    "weight_kg": 55,
+    "age": "15-17",
+    "birthday": "November 6",
+    "zodiac": "Scorpio",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 18.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Glasses",
+      "Black hair",
+      "Quincy uniform",
+      "Bow",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Karakura Town",
+    "base_of_operations": "Karakura High School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Quincy",
+    "rank_title": "Last Quincy",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Karakura High",
+      "Soul Society allies"
+    ],
+    "previous": [],
+    "relatives": [
+      "Ryuken Ishida (father)",
+      "Soken Ishida (grandfather, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spirit Bow",
+      "native_name": "霊子弓",
+      "description": "Creates bow from spiritual energy. Fires arrows of pure reiatsu.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Reishi"
+    },
+    {
+      "name": "Heilig Pfeil",
+      "native_name": "神聖な矢",
+      "description": "Sacred arrows made of spiritual energy. Can pierce anything.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Reishi"
+    },
+    {
+      "name": "Quincy Final Form",
+      "native_name": "最終形態",
+      "description": "Unleashes full Quincy power. Gains white cloak, enhanced abilities.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Spirit Sense",
+      "native_name": "霊感",
+      "description": "Can sense spiritual pressure and see spirits. Highly attuned.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Area",
+      "limit": "Concentration"
+    }
+  ],
+  "signature_moves": [
+    "Heilig Pfeil",
+    "Spirit Bow",
+    "Quincy techniques"
+  ],
+  "ultimate_move": "Quincy Final Form",
+  "trump_card": "Last Quincy pride",
+  "power_attributes": {
+    "power_type": "Reishi",
+    "power_source": "Quincy",
+    "combat_style": [
+      "Archery",
+      "Spirit manipulation"
+    ],
+    "weapon": "Spirit Bow",
+    "equipment": [
+      "Quincy cross",
+      "Glasses"
+    ],
+    "trump_card": "Last Quincy pride",
+    "ultimate_move": "Quincy Final Form"
+  },
+  "personality": {
+    "traits": [
+      "Proud",
+      "Serious",
+      "Loyal",
+      "Intelligent",
+      "Reserved",
+      "Evolving"
+    ],
+    "likes": [
+      "Archery",
+      "Justice",
+      "Friends",
+      "Quincy pride"
+    ],
+    "dislikes": [
+      "Shinigami (initially)",
+      "Injustice",
+      "Weakness"
+    ],
+    "fear": "Losing Quincy heritage",
+    "dream": "Protect Karakura, honor Quincy",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Uryu is the last Quincy who challenges Ichigo. Initially rivals, becomes ally. Proud of Quincy heritage but learns to work with Shinigami. Key ally in Soul Society.",
+    "motivation": "Honor Quincy legacy, protect friends",
+    "affinity": "Blue/Arrows",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Survived Soul Society",
+    "Defeated Arrancar",
+    "Last Quincy",
+    "Ichigo's ally"
+  ],
+  "titles": [
+    "Last Quincy",
+    "Ishida",
+    "Archer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Student"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 70,
+    "speed": 82,
+    "durability": 78,
+    "power": 90,
+    "combat": 88,
+    "total": 496
+  },
+  "weaknesses": {
+    "list": [
+      "Pride",
+      "Overexertion",
+      "Quincy limitations"
+    ],
+    "factors": [
+      "Grandfather's memory",
+      "Ichigo"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mayuri Kurotsuchi",
+    "allies": [
+      "Ichigo",
+      "Orihime",
+      "Chad",
+      "Renji"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Best friend/rival",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Mayuri",
+      "Arrancar"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Ichigo",
+    "rival": "Ichigo",
+    "mentor": "Grandfather Soken",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo",
+      "Orihime",
+      "Chad",
+      "Renji"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mayuri Kurotsuchi",
+      "Ichigo"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Ichigo"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Orihime",
+      "Chad",
+      "Renji"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Grandfather Soken"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mayuri",
+      "result": "Loss",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Szayelaporro",
+      "result": "Victory",
+      "method": "Quincy techniques"
+    }
+  ],
+  "quotes": [
+    "I am the last Quincy.",
+    "My arrows never miss.",
+    "I'll protect this town."
+  ],
+  "voice_acting": {
+    "native_language": "Noriaki Sugiyama (Japanese)",
+    "note": "Serious, proud",
+    "native_name": null,
+    "english": "Derek Stephen Prince",
+    "japanese": "Noriaki Sugiyama"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as Quincy",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Student",
+      "Quincy",
+      "Ally",
+      "Guardian"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Karakura Town",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 20s\nOccupation: International Wanted Terrorist\nLikes: Unknown\nHeight: 168 cm\nWeight: 55 kg\n\nMinene Uryuu is a terrorist bomber. Like the Fourth, her \"Escape\" diary goes along with the type of profession she is involved in. Whenever Minene faces a dire situation, the diary will chart out the best course of actions she can take in order to get out of a tight spot. Based on the function of her diary, it might even help reduce the chances of her receiving a Dead End and it is probably one of the best diaries to have in Deus' game of survival. The diary's only shortcoming is that there are some circumstances where the odds are too heavily stacked against Minene to the point where the diary won't be able to secure an escape route for her. \n\nAn infamous atheistic terrorist, Minene is a young woman who bears a strong hatred for organized religion, particularly God. \n\n\nShe is named after Minerva — the Roman goddess of wisdom, commerce, weaving, crafts and magic.",
+  "note": null,
+  "source": "anime"
+}

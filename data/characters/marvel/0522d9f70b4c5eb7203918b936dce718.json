@@ -1,0 +1,378 @@
+{
+  "id": "0522d9f70b4c5eb7203918b936dce718",
+  "name": "Kitty Pryde",
+  "native_name": "Katherine Pryde",
+  "full_name": "Katherine Anne Pryde",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "Unknown",
+    "birthday": "March 15",
+    "zodiac": "Pisces",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Hazel",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deaware, Illinois",
+    "current_location": "X-Mansion",
+    "base_of_operations": "X-Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero / Teacher",
+    "secondary": "Computer expert",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "X-Men",
+      "Excalibur"
+    ],
+    "previous": [
+      "Yukuza"
+    ],
+    "relatives": [
+      "Samuel (father)",
+      "Theresa (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Uncanny X-Men #129 (January 1980)",
+    "comics": "Uncanny X-Men #129",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Phasing",
+      "native_name": null,
+      "description": "Pass through solid matter - quantum tunneling",
+      "type": "Defense/Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Must concentrate"
+    },
+    {
+      "name": "Electronic Disruption",
+      "native_name": null,
+      "description": "Disrupts electrical systems passing through",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Touch",
+      "limit": null
+    },
+    {
+      "name": "Intangibility",
+      "native_name": null,
+      "description": "Become intangible - objects pass through",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Selective Phasing",
+      "native_name": null,
+      "description": "Phase clothing and others with her",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Touch",
+      "limit": "Must maintain contact"
+    }
+  ],
+  "signature_moves": [
+    "Phase through walls",
+    "Electronics disruption"
+  ],
+  "ultimate_move": "Phase entire team",
+  "trump_card": "Heart phase kill",
+  "power_attributes": {
+    "power_type": "Phasing",
+    "power_source": "Mutant",
+    "combat_style": [
+      "Evasive",
+      "Technical"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Technical"
+    ],
+    "trump_card": "Heart phase kill",
+    "ultimate_move": "Phase entire team"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Smart",
+      "Loyal",
+      "Compassionate"
+    ],
+    "likes": [
+      "Computers",
+      "Pizza"
+    ],
+    "dislikes": [
+      "Anti-mutant sentiment"
+    ],
+    "fear": "Being trapped in phasing",
+    "dream": "Protecting mutant kind",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From student to teacher - X-Men's heart",
+    "motivation": "Protecting her team",
+    "affinity": "Phasing",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved Colossus from bullets",
+    "Teacher at Xavier Institute",
+    "Leader of X-Men"
+  ],
+  "titles": [
+    "Shadowcat",
+    "Kitty"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 50,
+    "speed": 70,
+    "durability": 55,
+    "power": 85,
+    "combat": 60,
+    "total": 415
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot phase when unconscious",
+      "Requires concentration"
+    ],
+    "factors": [
+      "Electrical disruption affects living beings"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kitty Pryde",
+    "allies": [
+      "Nightcrawler",
+      "Colossus",
+      "X-Men"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nightcrawler",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Marauders",
+      "Shadow King"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Colossus",
+    "best_friend": "Nightcrawler",
+    "rival": null,
+    "mentor": "Professor X",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nightcrawler",
+      "Colossus",
+      "X-Men"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kitty Pryde"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nightcrawler",
+      "Colossus",
+      "X-Men"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Professor X"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I am the smartest person in the world",
+    "You are not getting my wallet"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Ellen Page (film)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues leading",
+    "transformation": "Discovered powers as teen",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "Student",
+      "Teacher"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Phasing"
+    ],
+    "vehicles": [],
+    "headquarters": "X-Mansion",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Katherine Anne \"Kitty\" Pryde is a character appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. The character first appeared in The Uncanny X-Men #129 (January 1980) and was co-created by writer-artist John Byrne and writer Chris Claremont. A mutant, Pryde possesses a \"phasing\" ability that allows her to pass through objects, hence she is intangible while using this ability. This power also disrupts any electrical field she passes through, and lets her simulate levitation.\nThe youngest to join the X-Men, she was first portrayed as a \"kid sister\" to many older members of the group, filling the role of literary foil to the more established characters. She occasionally used the codenames Sprite and Ariel, cycling through several uniforms until settling on her trademark black-and-gold costume. In later comic books, she becomes schooled in fighting techniques and receives ninja stealth training, which combine with her powers to make her one of the X-Men's most proficient and reliable combatants. She is frequently deployed on surveillance and espionage missions.\nDuring the miniseries Kitty Pryde and Wolverine, she was renamed Shadowcat, the alias she would be most associated with, and shifted to a more mature depiction in her subsequent appearances. Pryde would eventually abandon her nickname, \"Kitty\", and switch to \"Kate\". She was one of the main cast of characters depicted in the original Excalibur title. After momentarily joining the Guardians of the Galaxy, she assumed her then-fiancé's superhero identity as the Star-Lord (Star-Lady). In the series Marauders, she was informally known as Captain Kate Pryde and the Red Queen of the Hellfire Trading Company.  After rejoining the X-Men in the \"Fall of X\" relaunch, she assumes the name Shadowkat.\nIn the 20th Century Fox X-Men film series, Kitty Pryde was initially portrayed by young actresses in cameos; Sumela Kay in X-Men (2000) and Katie Stuart in X2 (2003). Later, Elliot Page portrayed the character in X-Men: The Last Stand (2006) and X-Men: Days of Future Past (2014) in full-length appearances.",
+  "note": null,
+  "source": "marvel"
+}

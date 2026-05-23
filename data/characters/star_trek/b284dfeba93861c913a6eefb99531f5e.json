@@ -1,0 +1,412 @@
+{
+  "id": "b284dfeba93861c913a6eefb99531f5e",
+  "name": "Khan Noonien Singh",
+  "native_name": null,
+  "full_name": "Khan Noonien Singh",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Genetically Augmented)",
+    "race": "Human (Augmented)",
+    "bloodline": "Singh",
+    "height_cm": 188,
+    "weight_kg": 95,
+    "age": "Immortal (frozen until 2267, 1993 birth)",
+    "birthday": "1993",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black/Dark Brown",
+    "skin_color": "Dark/Tan",
+    "notable_features": [
+      "Imposing physique",
+      "Superhuman presence",
+      "Charismatic leader"
+    ],
+    "skin": "Dark/Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "India, Earth (21st century)",
+    "current_location": "Deceased (Ceti Alpha V)",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Genetically Enhanced Tyrant",
+    "secondary": "Space Ruler",
+    "rank_title": "Emperor (former)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "null (deceased)"
+    ],
+    "previous": [
+      "Augment Caste",
+      "Earth Tyrants (1990s)"
+    ],
+    "relatives": [
+      "Related to 20th century warlords"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Original Series (1967) - \"Space Seed\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Genetically enhanced physical power far beyond human",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Can be outsmarted"
+    },
+    {
+      "name": "Superhuman Intelligence",
+      "native_name": null,
+      "description": "Genius-level intellect and strategic mind",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Unlimited",
+      "limit": "Overconfidence can be exploited"
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Natural charisma and ability to command loyalty",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Serves own interests"
+    }
+  ],
+  "signature_moves": [
+    "Brute Strength",
+    "Strategic Planning",
+    "Psychological Manipulation"
+  ],
+  "ultimate_move": "Ceti Alpha Eel Domination",
+  "trump_card": "Genetically Engineered Superiority",
+  "power_attributes": {
+    "power_type": "Physical/Genius",
+    "power_source": "Genetic Engineering",
+    "combat_style": [
+      "Hand-to-Hand Combat",
+      "Strategic Warfare"
+    ],
+    "weapon": "Various weapons acquired",
+    "equipment": [
+      "Khan's Empire Technology"
+    ],
+    "trump_card": "Genetically Engineered Superiority",
+    "ultimate_move": "Ceti Alpha Eel Domination"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Charismatic",
+      "Ruthless",
+      "Vengeful",
+      "Superiority Complex"
+    ],
+    "likes": [
+      "Power",
+      "Control",
+      "Legacy",
+      "Revenge on Kirk"
+    ],
+    "dislikes": [
+      "Inferior Beings",
+      "Failure",
+      "Kirk"
+    ],
+    "fear": "Being Inferior",
+    "dream": "Universal Conquest",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "From 1990s warlord frozen in space to vengeful survivor seeking revenge on Kirk",
+    "motivation": "Regaining power and revenge on Kirk",
+    "affinity": "Power",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Ruled Earth with iron fist in 1990s",
+    "Conquered quarter of Earth before being defeated",
+    "Survived exile on Ceti Alpha V",
+    "Nearly defeated the Enterprise twice",
+    "Created Chekov's fear with Ceti Alpha eels"
+  ],
+  "titles": [
+    "Khan",
+    "Emperor",
+    "The Tyrant"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 95,
+    "speed": 85,
+    "durability": 90,
+    "power": 92,
+    "combat": 90,
+    "total": 550
+  },
+  "weaknesses": {
+    "list": [
+      "Hubris",
+      "Vulnerability to Emotions",
+      "Leola Root Effect"
+    ],
+    "factors": [
+      "Easily angered by Kirk",
+      "Leola root causes irrationality"
+    ]
+  },
+  "relationships": {
+    "nemesis": "James T. Kirk",
+    "allies": [
+      "His crew of 84"
+    ],
+    "allies_detailed": [
+      {
+        "name": "His Followers",
+        "relationship": "Loyal followers",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "James T. Kirk",
+      "Starfleet"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Primary nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Marla McGivers",
+    "best_friend": "His followers",
+    "rival": "James T. Kirk",
+    "mentor": "None",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "His crew of 84",
+      "His followers"
+    ],
+    "colleague": null,
+    "enemy": [
+      "James T. Kirk"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "James T. Kirk"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "His crew of 84",
+      "His followers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "James T. Kirk (Wrath of Khan)",
+      "result": "Defeat",
+      "method": "Reliant damaged, forced to surrender"
+    },
+    {
+      "opponent": "James T. Kirk (Space Seed)",
+      "result": "Defeat",
+      "method": "Outsmarted and frozen"
+    },
+    {
+      "opponent": "Starfleet",
+      "result": "Defeat",
+      "method": "Exiled to Ceti Alpha V"
+    }
+  ],
+  "quotes": [
+    "I am and always shall be your friend. Live long and prosper.",
+    "You have not experienced true grief until you've experienced the loss of one's own child.",
+    "Hetasks my intellect!"
+  ],
+  "voice_acting": {
+    "native_language": "Ricardo Montalban",
+    "english": "Ricardo Montalban",
+    "note": "Iconic villain, also played in Star Trek Into Darkness",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed on Ceti Alpha V (Wrath of Khan), later alternate timeline version appeared",
+    "transformation": "Frozen in space, revived, attempted revenge",
+    "awakening_potential": "Achieved legendary villain status",
+    "power_evolution": [
+      "Warlord",
+      "Frozen",
+      "Revived Survivor",
+      "Vengeful Enemy"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "SS Botany Bay",
+      "USS Reliant (briefly stolen)"
+    ],
+    "vehicles": [
+      "Various"
+    ],
+    "headquarters": "Ceti Alpha V / USS Reliant",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Khan Noonien Singh is a fictional character in the Star Trek science fiction franchise, a genetically engineered superhuman who first appeared as the main antagonist in the Star Trek: The Original Series episode \"Space Seed\" (1967), and was portrayed by Ricardo Montalbán, who reprised his role in the 1982 film Star Trek II: The Wrath of Khan. In the 2013 film Star Trek Into Darkness, he is portrayed by Benedict Cumberbatch.",
+  "note": null,
+  "source": "star_trek"
+}

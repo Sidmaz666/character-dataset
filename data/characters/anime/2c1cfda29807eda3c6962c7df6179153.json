@@ -1,0 +1,402 @@
+{
+  "id": "2c1cfda29807eda3c6962c7df6179153",
+  "name": "Shoto Todoroki",
+  "native_name": "轟焦凍",
+  "full_name": "Shoto Todoroki",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Quirk user)",
+    "bloodline": "Todoroki Family",
+    "height_cm": 176,
+    "weight_kg": 66,
+    "age": "15-16",
+    "birthday": "January 11",
+    "zodiac": "Capricorn",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 21.3,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Turquoise",
+    "hair_color": "Half-white half-red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Half-white half-red hair",
+      "Burn scar on eye",
+      "Serious expression",
+      "Athletic build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Hero-in-training",
+    "rank_title": "Class 1-A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Class 1-A"
+    ],
+    "previous": [],
+    "relatives": [
+      "Endeavor (father)",
+      "Rei (mother)",
+      "Toya (brother)",
+      "Natsuo (brother)",
+      "Fuyumi (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia Episode 1",
+    "manga": "My Hero Academia Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Half-Cold Half-Hot",
+      "native_name": "半冷半燃",
+      "description": "Left side creates ice, right side creates fire. Can use both simultaneously.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "All",
+      "limit": "Temperature balance"
+    },
+    {
+      "name": "Ice Formation",
+      "native_name": "氷成形",
+      "description": "Creates massive ice formations for offense and defense.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Frostbite risk"
+    },
+    {
+      "name": "Fire Blast",
+      "native_name": "火炎放射",
+      "description": "Powerful fire attacks from right side. Extremely hot.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Burns without ice"
+    }
+  ],
+  "signature_moves": [
+    "Half-Cold Half-Hot",
+    "Ice formation",
+    "Fire blast"
+  ],
+  "ultimate_move": "Heaven-Piercing Ice Wall",
+  "trump_card": "Fire and ice combination",
+  "power_attributes": {
+    "power_type": "Quirk",
+    "power_source": "Half-cold half-hot",
+    "combat_style": [
+      "Ice",
+      "Fire"
+    ],
+    "weapon": "Ice/Fire",
+    "equipment": [
+      "Hero costume"
+    ],
+    "trump_card": "Fire and ice combination",
+    "ultimate_move": "Heaven-Piercing Ice Wall"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Reserved",
+      "Intelligent",
+      "Determined",
+      "Aloof",
+      "Evolving"
+    ],
+    "likes": [
+      "Soba",
+      "Cats",
+      "Deku",
+      "Pro heroes"
+    ],
+    "dislikes": [
+      "Endeavor",
+      "Being compared to father",
+      "Injustice"
+    ],
+    "fear": "Becoming like Endeavor",
+    "dream": "Become hero on own terms",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Aloof"
+    ]
+  },
+  "character": {
+    "arc": "Todoroki struggles with father's abuse and legacy. Through Deku's influence, accepts both fire and ice sides. Becomes powerful hero.",
+    "motivation": "Become hero, reject father's legacy",
+    "affinity": "Blue-Red/Ice-Fire",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "U.A. student",
+    "Sports Festival runner-up",
+    "Provisional license"
+  ],
+  "titles": [
+    "Half-Cold Half-Hot",
+    "Endeavor's son"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 78,
+    "speed": 80,
+    "durability": 82,
+    "power": 92,
+    "combat": 82,
+    "total": 496
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional trauma",
+      "Temperature imbalance",
+      "Family issues"
+    ],
+    "factors": [
+      "Endeavor's presence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Endeavor (father)",
+    "allies": [
+      "Deku",
+      "Iida",
+      "Uraraka",
+      "Bakugo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Izuku Midoriya",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Stain",
+      "Shigaraki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Deku",
+    "rival": "Bakugo",
+    "mentor": "All Might",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Deku",
+      "Iida",
+      "Uraraka",
+      "Bakugo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Endeavor (father)",
+      "Bakugo"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Bakugo"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Deku",
+      "Iida",
+      "Uraraka",
+      "Bakugo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "All Might"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Bakugo",
+      "result": "Victory",
+      "method": "Ice vs Explosion"
+    },
+    {
+      "opponent": "Stain",
+      "result": "Loss",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I'll become a hero on my own terms.",
+    "It's my power, not his.",
+    "I'm not you."
+  ],
+  "voice_acting": {
+    "native_language": "Yuki Kaji (Japanese)",
+    "note": "Calm, serious",
+    "native_name": null,
+    "english": "David Matranga",
+    "japanese": "Yuki Kaji"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Training to be hero",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Abused",
+      "Accepting",
+      "Hero",
+      "Leader"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "U.A. High",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15\nBirthday: January 11\nBlood Type: O\nHeight: 176 cm (5'9\")\nAffiliation: U.A.\nQuirk: Half-Cold Half-Hot\n\nShouto Todoroki is a student at U.A. training to become a Pro Hero. He got into U.A. through a scholarship because of his powerful Quirk.\n\nShouto has bi-colored hair, the right side is white, the left one is red. He has a burn on his left eye. In his Hero Costume, Shouto wears a dark blue jacket, dark blue pants, a silver-colored combat vest, and white boots. He also wears a silver-colored belt with metal capsules.\n\n(Source: Boku no Hero Academia Wiki)",
+  "note": null,
+  "source": "anime"
+}

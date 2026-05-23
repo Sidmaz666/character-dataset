@@ -1,0 +1,403 @@
+{
+  "id": "d324105aa3e171aa41e18978d852b777",
+  "name": "Armstrong, Olivier Mira",
+  "native_name": "オリヴィエ・ミラ・アームストロング",
+  "full_name": "Olivier Mira Armstrong",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Armstrong",
+    "height_cm": 152,
+    "weight_kg": null,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "brown",
+    "hair_color": "Silver/Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Tall stature",
+      "Military bearing",
+      "Sharp features"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Fortress Briggs",
+    "base_of_operations": "Briggs Fortress",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Major General",
+    "secondary": "Commander of Briggs Fortress",
+    "rank_title": "Major General",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Amestrian Military",
+      "Briggs Fortress"
+    ],
+    "previous": [],
+    "relatives": [
+      "Philip Gargantos Armstrong (father)",
+      "Alex Louis Armstrong (younger brother)",
+      "Catherine Elle Armstrong (youngest sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sword Mastery",
+      "native_name": null,
+      "description": "Highly skilled with her family heirloom sword. Uses it unhesitatingly in combat.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Requires sword"
+    },
+    {
+      "name": "Military Command",
+      "native_name": null,
+      "description": "Has full command of Fortress Briggs. Excellent tactical leader who prioritizes survival of the fittest.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Not combat applicable"
+    },
+    {
+      "name": "Tank/Artillery Proficiency",
+      "native_name": null,
+      "description": "Seems proficient with tanks and artillery, utilizing military equipment effectively.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Equipment dependent"
+    },
+    {
+      "name": "Strategic Mind",
+      "native_name": null,
+      "description": "Believes in survival of the fittest. Has no tolerance for weakness but respects strength.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Not combat applicable"
+    }
+  ],
+  "signature_moves": [
+    "Sword Strike",
+    "Military Command",
+    "Fortress Defense"
+  ],
+  "ultimate_move": "Full Briggs Assault",
+  "trump_card": "Fortress Briggs Resources",
+  "power_attributes": {
+    "power_type": "Physical/Military",
+    "power_source": "Military training, Armstrong heritage",
+    "combat_style": [
+      "Sword Combat",
+      "Military Command",
+      "Tactical Warfare"
+    ],
+    "weapon": "Family heirloom sword",
+    "equipment": [
+      "Military uniform",
+      "Fortress Briggs"
+    ],
+    "trump_card": "Fortress Briggs Resources",
+    "ultimate_move": "Full Briggs Assault"
+  },
+  "personality": {
+    "traits": [
+      "Stern",
+      "Pragmatic",
+      "Strong",
+      "No-nonsense",
+      "Strategic"
+    ],
+    "likes": [
+      "Strength",
+      "Survival",
+      "Her subordinates",
+      "Win"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Equivalent exchange concept",
+      "Failure"
+    ],
+    "fear": "Cold demeanor",
+    "dream": "To protect Briggs and Amestris",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "The commander of Fortress Briggs, Olivier is a no-nonsense military leader who values strength and survival above all, leading her soldiers with an iron fist while respecting those who prove themselves strong.",
+    "motivation": "Protecting Briggs, ensuring survival of the fittest",
+    "affinity": "Military",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Major General of Amestris",
+    "Commander of Briggs Fortress",
+    "Protected northern border from invaders",
+    "Survived multiple assaults"
+  ],
+  "titles": [
+    "Major General Armstrong",
+    "The Ice Queen of Briggs",
+    "Commander of the North"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 75,
+    "speed": 65,
+    "durability": 80,
+    "power": 78,
+    "combat": 85,
+    "total": 473
+  },
+  "weaknesses": {
+    "list": [
+      "Cold demeanor",
+      "Survival of fittest mentality",
+      "Limited trust in others"
+    ],
+    "factors": [
+      "Pragmatic ruthlessness",
+      "Military focus"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Alex Louis Armstrong",
+      "Bugran",
+      "Team Mustang"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Alex Louis Armstrong",
+        "relationship": "Younger Brother",
+        "trust_level": "Family"
+      },
+      {
+        "name": "Bugran",
+        "relationship": "Subordinate",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Father's forces"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Alex Louis Armstrong",
+      "Bugran",
+      "Team Mustang"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Father's forces"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Alex Louis Armstrong",
+      "Bugran",
+      "Team Mustang"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Father's forces",
+      "result": "Victory",
+      "method": "Defended Briggs from invasion"
+    }
+  ],
+  "quotes": [
+    "Survival of the fittest is the only law in life.",
+    "I don't hold it against them if they leave me to die for the greater good."
+  ],
+  "voice_acting": {
+    "native_language": "Chieko Baisho (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Stephanie Young",
+    "japanese": "Youko Soumi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues commanding Briggs",
+    "transformation": null,
+    "awakening_potential": "Already at peak military status",
+    "power_evolution": [
+      "Officer",
+      "Major General"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Tanks",
+      "Artillery"
+    ],
+    "headquarters": "Fortress Briggs",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: March 31\nHeight: 152 cm\nBlood type: O\nHair color: light brown/pink\nEye color: brown/gold\n\nMirai is a first-year high school student with the ability to manipulate blood, an ability that is unique even in the spirit world. This ability causes her to be isolated, leading her to jump off the roof of the high school until she is saved by Akihito.\n\nClumsy and a bit aloof, Mirai rarely stands out in school. In fact, she struggles pretty much in life; she has to earn her own money to make ends meet, but her constant fear of actually encountering a youmu prevents her from earning an income from slaying youmu, which most spirit world warriors take on as part of their profession. To make things worse, her hobby of writing blog articles about bonsai is often ridiculed on the Internet.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

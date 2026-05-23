@@ -1,0 +1,322 @@
+{
+  "id": "171476349b13e58f48e60d007448988a",
+  "name": "Ui Ui",
+  "native_name": "",
+  "full_name": "Ui Ui",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "February 22",
+    "zodiac": "Pisces",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Jujutsu High",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Kaisen",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen",
+    "manga": "Jujutsu Kaisen",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cursed Energy Manipulation",
+      "type": "Energy",
+      "description": "Controls cursed energy for combat and defense",
+      "power_level": "High"
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "type": "Physical",
+      "description": "Skilled in direct combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Barrier Techniques",
+      "type": "Magic",
+      "description": "Can create barriers using cursed energy",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Cursed Energy Manipulation",
+    "Hand-to-Hand Combat",
+    "Barrier Techniques"
+  ],
+  "ultimate_move": "Cursed Energy Manipulation",
+  "trump_card": "Hand-to-Hand Combat",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Magic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Hand-to-Hand Combat",
+    "ultimate_move": "Cursed Energy Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Calculating",
+      "Determined",
+      "Loyal",
+      "Sharp"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cursed"
+    ]
+  },
+  "character": {
+    "arc": "Jujutsu Kaisen character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Madoka Yonezawa (Japanese)",
+    "Voiced by Xanthe Huynh (English)"
+  ],
+  "titles": [
+    "Jujutsu Kaisen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 45,
+    "speed": 45,
+    "durability": 45,
+    "power": 45,
+    "combat": 45,
+    "total": 270
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Jujutsu High"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Curses"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jujutsu High"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Curses"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jujutsu High"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Xanthe Huynh",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Madoka Yonezawa"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: February 22\nSign: Pisces\nHeight: 154cm\nWeight: 50kg\nBlood type: O\n\nUi is Yui's younger sister, who begins the story as a third-year junior high school student, but later enters Yui's high school the following year in the same class as Azusa. Unlike her older sister, Ui is mature, responsible and handles household chores well, though she still shares a strong relationship with Yui and has a great deal of love and respect for her older sister. Despite being a year younger than Yui, she is nearly identical to her with her hair down and is even once able to fool the club. She possesses some of her sister's musical gift, and has a great talent for playing the guitar—she became capable of playing with the rest of the light music club band after only a few days of practice (Yui was sick, so Ui dressed up as Yui to help the band out). She takes particularly good care of Yui and strives to look after her even at the risk of her own health. Ui is actually considered as the ultimate groupie for her sister's band and supports them with all her heart. She occasionally provides a narrative to the story. She is in the same class as Azusa and hangs out with her sometimes.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "4e69901b90cf5ecd194d0af068ed83cf",
+  "name": "Zatanna",
+  "native_name": null,
+  "full_name": "Zatanna Zatara",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 170,
+    "weight_kg": 57,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "-",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Misty Kilgore",
+      "Seven Soldiers of Victory",
+      "Justice League",
+      "Sentinels of Magic"
+    ],
+    "previous": [],
+    "relatives": [
+      "Giovanni \"John\" Zatara (father",
+      "deceased)",
+      "Sindella (mother",
+      "deceased)",
+      "Leonardo da Vinci (paternal ancestor"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Hawkman #4",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Cunning"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Powers and Abilities"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 10,
+    "speed": 23,
+    "durability": 28,
+    "power": 100,
+    "combat": 56,
+    "total": 298
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed",
+      "low durability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Misty Kilgore",
+      "Seven Soldiers of Victory",
+      "Justice League"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Misty Kilgore",
+      "Seven Soldiers of Victory",
+      "Justice League"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Jacob Zatara (Jacob Zatara)",
+      "Giovanni Zatara"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Jacob Zatara (Jacob Zatara)",
+      "Giovanni Zatara"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Misty Kilgore",
+      "Seven Soldiers of Victory",
+      "Justice League"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "-",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Zatanna Zatara (), known mononymously as Zatanna, is a superhero appearing in American comic books published by DC Comics. The character was created by Gardner Fox and Murphy Anderson, and first appeared in Hawkman #4 (November 1964). Throughout the character's history, Zatanna is depicted as one of DC Comics' most well-regarded supernatural superheroes.\nThe character is depicted as a renowned sorceress belonging to the fictional Homo magi race, a subset of humans endowed with innate potential to manipulate magic. She is also the daughter of Giovanni Zatara and Sindella, the former a renowned stage magician and sorcerer whom she models herself after and the latter whose lineage connects her to the royal line of Atlantis. In the future, Zatanna has a son in another universe named Jacob Zatara. (Not to be confused with Zachary Zatara from Kingdom Come, but continuing with Zatanna)  Zatanna balances her life as an international celebrity stage magician and superhero who often fights against the forces of evil and serves as both a mystic consultant and a notable member of several teams such as the Justice League, Justice League Dark, and the Sentinels of Magic. Within the DC Universe, she is often regarded as one of the most powerful magic users.\nZatanna has appeared in several different media adaptations, including appearing in several television series in the DC Animated Universe, notably voiced by Julie Brown and Jennifer Hale. She has also appeared as a recurring character in the final three seasons of Smallville, portrayed by Serinda Swan. A younger version of the character appears in Young Justice and Justice League Action, voiced by Lacey Chabert, and DC Super Hero Girls, voiced by Kari Wahlgren.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,376 @@
+{
+  "id": "bca8ca81f0d7acb13a4991ccba9ca906",
+  "name": "Victoria Neuman",
+  "native_name": null,
+  "full_name": "Victoria Neuman / Nina",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Innocent appearance",
+      "Scar on forehead"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Washington D.C.",
+    "current_location": "Washington D.C.",
+    "base_of_operations": "Congress",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Congresswoman",
+    "secondary": "Supe",
+    "rank_title": "Congresswoman",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "US Congress",
+      "Vought (secret)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Blood Manipulation",
+      "native_name": null,
+      "description": "Manipulate blood inside bodies causing explosions or healing",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires blood in range"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "More durable than normal humans",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Blood Explosion",
+    "Vascular Burst"
+  ],
+  "ultimate_move": "Mass Blood Detonation",
+  "trump_card": "Full Power Blood Control",
+  "power_attributes": {
+    "power_type": "Blood Manipulation",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Blood combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Full Power Blood Control",
+    "ultimate_move": "Mass Blood Detonation"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Secretive",
+      "Calculating",
+      "Charismatic"
+    ],
+    "likes": [
+      "Power",
+      "Influence",
+      "Control"
+    ],
+    "dislikes": [
+      "Being exposed",
+      "Failure"
+    ],
+    "fear": "Being discovered",
+    "dream": "Become President",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Secret supe politician rising to power",
+    "motivation": "Total political power",
+    "affinity": "Blood",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Elected to Congress",
+    "Survived assassination attempts",
+    "Working with Vought"
+  ],
+  "titles": [
+    "Victoria Neuman",
+    "Congresswoman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Too dangerous to expose"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 50,
+    "speed": 60,
+    "durability": 55,
+    "power": 90,
+    "combat": 50,
+    "total": 385
+  },
+  "weaknesses": {
+    "list": [
+      "Blood in bodies required",
+      "Lead cannot see through",
+      "Limited range"
+    ],
+    "factors": [
+      "Distance limitation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Boys",
+    "allies": [
+      "Vought",
+      "Stan Edgar"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Stan Edgar",
+        "relationship": "Employer",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "The Boys",
+      "Homelander"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Rival",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Homelander",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "Stan Edgar"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys",
+      "Homelander"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Homelander"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "Stan Edgar"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Assassin",
+      "result": "Victory",
+      "method": "Blood explosion"
+    }
+  ],
+  "quotes": [
+    "I could be president someday."
+  ],
+  "voice_acting": {
+    "native_language": "Shantel VanSanten (English)",
+    "english": "Shantel VanSanten",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Running for office",
+    "transformation": null,
+    "awakening_potential": "Full power control",
+    "power_evolution": [
+      "Hidden supe",
+      "Public politician"
+    ],
+    "role_in_story": "Supporting Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Car"
+    ],
+    "headquarters": "Congress",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

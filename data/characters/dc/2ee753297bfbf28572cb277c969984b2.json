@@ -1,0 +1,314 @@
+{
+  "id": "2ee753297bfbf28572cb277c969984b2",
+  "name": "Aqualad",
+  "native_name": null,
+  "full_name": "Garth",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Atlantean",
+    "race": "Atlantean",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 106,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 33.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Poseidonis, Atlantis",
+    "current_location": null,
+    "base_of_operations": "Atlantis",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Adventurer; Magician, former Sidekick",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Aquaman Family; formerly Black Lantern Corps",
+      "Sentinels of Magic",
+      "Teen Titans"
+    ],
+    "previous": [
+      "Black Lantern Corps"
+    ],
+    "relatives": [
+      "Cerdian (son)",
+      "Dolphin (wife)",
+      "Berra (mother)",
+      "Thar (father)",
+      "Slizzath (uncle) Donna (grand-daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Adventure Comics #269 (February, 1960)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Atlantean with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 89,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Unknown",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Considered evil and was an outcast taken in by Aquaman",
+    "Created by writer Robert Bernstein and artist Ramona Fradon",
+    "Created for the Young Justice animated television series by Brandon V"
+  ],
+  "titles": [
+    "Adventurer; Magician, former Sidekick"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 44,
+    "speed": 42,
+    "durability": 75,
+    "power": 89,
+    "combat": 60,
+    "total": 373
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Aquaman Family; formerly Black Lantern Corps",
+      "Sentinels of Magic",
+      "Teen Titans"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Aquaman Family; formerly Black Lantern Corps",
+      "Sentinels of Magic",
+      "Teen Titans"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Aquaman Family; formerly Black Lantern Corps",
+      "Sentinels of Magic",
+      "Teen Titans"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Atlantis",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Aqualad is the alias of two superheroes in American comic books published by DC Comics and appearing in media published by DC Entertainment. The character was originally created by writer Robert Bernstein and artist Ramona Fradon, serving as the sidekick and junior counterpart to superhero Aquaman alongside contemporary, Aquagirl. The character's first incarnation, Garth, debuted in Adventure Comics #269. A native Atlantean unlike his mentor, Garth in both continuities has purple eyes signifying a heritage considered evil and was an outcast taken in by Aquaman. He eventually abandons the \"Aqualad\" role and adopts the alias, \"Tempest\".\nThe second incarnation of the character, Kaldur'ahm, originally was set to debut in 2010, created for the Young Justice animated television series by Brandon Vietti, Greg Weisman, and Phil Bourassa. Several months before the series' premiere, an altered version of the character, Jackson Hyde, was brought into comic books by writer Geoff Johns and artist Ivan Reis. Both versions of the character, sharing the common quality of Aquaman's half-human heritage, are protege of Aquaman whose human heritage originates from their father, Aquaman villain Black Manta. While sharing similar designs, both versions of the character possess different backgrounds and inherent abilities.\nThe Garth version of Aqualad made his live-action debut in the television series Titans, played by Drew Van Acker.",
+  "note": null,
+  "source": "dc"
+}

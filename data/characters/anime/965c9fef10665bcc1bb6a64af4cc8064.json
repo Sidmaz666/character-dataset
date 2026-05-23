@@ -1,0 +1,406 @@
+{
+  "id": "965c9fef10665bcc1bb6a64af4cc8064",
+  "name": "Roy Mustang",
+  "native_name": "ロイ・マスタング",
+  "full_name": "Roy Mustang",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Mustang Family",
+    "height_cm": 173,
+    "weight_kg": 64,
+    "age": "29-30",
+    "birthday": "Unknown",
+    "zodiac": "Sagittarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 21.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Black hair",
+      "Military uniform",
+      "Gloves",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Central City",
+    "base_of_operations": "State Military",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "State Alchemist",
+    "secondary": "Colonel",
+    "rank_title": "Flame Alchemist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "State Military",
+      "Amestris"
+    ],
+    "previous": [
+      "Ishval War"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist Episode 1",
+    "manga": "Fullmetal Alchemist Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Flame Alchemy",
+      "native_name": "火炎の錬金術",
+      "description": "Creates fire explosions with snap of fingers using ignition gloves.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Wet gloves useless"
+    },
+    {
+      "name": "Ignition Gloves",
+      "native_name": "火炎手套",
+      "description": "Special gloves with transmutation circles for fire creation.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Must be dry"
+    },
+    {
+      "name": "Leadership",
+      "native_name": "リーダーシップ",
+      "description": "Charismatic leader, commands loyalty from subordinates.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Team",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Flame alchemy",
+    "Snap ignition",
+    "Fire explosion"
+  ],
+  "ultimate_move": "Maximum flame",
+  "trump_card": "Dry ignition gloves",
+  "power_attributes": {
+    "power_type": "Alchemy",
+    "power_source": "Ignition gloves",
+    "combat_style": [
+      "Fire alchemy",
+      "Military"
+    ],
+    "weapon": "Flame gloves",
+    "equipment": [
+      "Ignition gloves"
+    ],
+    "trump_card": "Dry ignition gloves",
+    "ultimate_move": "Maximum flame"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Charismatic",
+      "Loyal",
+      "Lazy (act)",
+      "Caring",
+      "Strategic"
+    ],
+    "likes": [
+      "Hawkeye",
+      "Power",
+      "Change",
+      "Subordinates"
+    ],
+    "dislikes": [
+      "Wet weather",
+      "Bureaucracy",
+      "Injustice"
+    ],
+    "fear": "Losing subordinates",
+    "dream": "Become Fuhrer, change Amestris",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic",
+      "Charismatic",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Mustang seeks to become Fuhrer to change corrupt military. Leads uprising against Father.",
+    "motivation": "Change Amestris, protect subordinates",
+    "affinity": "Red/Flame",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Colonel",
+    "Flame Alchemist",
+    "Ishval veteran",
+    "Fuhrer candidate"
+  ],
+  "titles": [
+    "Flame Alchemist",
+    "Colonel",
+    "Hero of Ishval"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Alchemist"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 72,
+    "speed": 75,
+    "durability": 70,
+    "power": 90,
+    "combat": 85,
+    "total": 482
+  },
+  "weaknesses": {
+    "list": [
+      "Wet conditions",
+      "Gloves damaged",
+      "Emotional about Riza"
+    ],
+    "factors": [
+      "Rain",
+      "Subordinates in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Father, Homunculi",
+    "allies": [
+      "Riza Hawkeye",
+      "Edward Elric",
+      "Hughes",
+      "Havoc"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Riza Hawkeye",
+        "relationship": "Most trusted subordinate",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Father",
+      "Homunculi"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Riza Hawkeye",
+    "best_friend": "Maes Hughes",
+    "rival": "Edward (friendly)",
+    "mentor": "Izumi Curtis (indirectly)",
+    "student": "Edward Elric",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Riza Hawkeye",
+      "Edward Elric",
+      "Hughes",
+      "Havoc",
+      "Maes Hughes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Father, Homunculi",
+      "Edward (friendly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Edward"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Edward Elric"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Riza Hawkeye",
+      "Edward Elric",
+      "Hughes",
+      "Havoc",
+      "Maes Hughes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Izumi Curtis"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lust",
+      "result": "Victory",
+      "method": "Flame alchemy"
+    },
+    {
+      "opponent": "Father",
+      "result": "Victory",
+      "method": "Team effort"
+    }
+  ],
+  "quotes": [
+    "I'm going to change this country.",
+    "It's a terrible day to rain.",
+    "The power of fire is frightening."
+  ],
+  "voice_acting": {
+    "native_language": "Toru Okawa (Japanese)",
+    "note": "Smooth, authoritative",
+    "native_name": null,
+    "japanese": "Tōru Ōkawa)",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues military career",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Soldier",
+      "Colonel",
+      "Leader",
+      "Fuhrer"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central Command",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: 1885 (Age 30 from vol. 10)\nHeight: 5'8\" (173 cm)\n\nRoy Mustang is the \"Flame Alchemist,\" having absolute control over heat and fire through alchemy. Using special gloves that create a spark when he snaps his fingers, Roy can create anything from a tiny ember to burn a letter, to a raging inferno that can destroy a humanoid body in seconds. His precise control over the alchemically enhanced flame is so accurate that he can boil the water in a persons' eyes and can also attack enemies amongst a riot without hurting any allies.\n\nOutwardly arrogant and playfully manipulative, Mustang is intelligent and almost always one step ahead of his opponents, and likes to feel in control of the situation. He is one of the superiors of Edward Elric. On the surface, he appears to be nothing more than a man of the military who pursues promotions and praise and is considered a ladies' man who constantly goes on dates with different women. Mustang's true goal is to become Führer in order to gain the power to reform the government in order to absolve his sins in the Ishval War as well as change the country for the better, along with the joking requirement for female officers to wear tiny miniskirts (which considerably increased Havoc's loyalty to him and caused Hawkeye to be angry with him).\n\nHis goals are admirable enough that he earns the fierce loyalty of his good friends Lt Col. Maes Hughes, Major Alex Louis Armstrong, and his own subordinates, among whom are Riza Hawkeye, Jean Havoc, Heymans Breda, Vato Falman, and Kain Fuery. While Mustang has a close and amicable relationship with all of his subordinates, he appears to share a deeper bond of affection with his second-in-command Riza Hawkeye, who has devoted her life to supporting him. This bond culminates in the final episodes of the anime when Mustang chooses Hawkeye alone to accompany him on his greatest and most dangerous mission.\n\nThough a hero of the Ishval War, he remains haunted by the horrors of war and suffers great remorse for the lives he took.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

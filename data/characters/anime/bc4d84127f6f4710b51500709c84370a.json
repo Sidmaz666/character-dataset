@@ -1,0 +1,386 @@
+{
+  "id": "bc4d84127f6f4710b51500709c84370a",
+  "name": "Gilgamesh",
+  "native_name": "Gilgamesh",
+  "full_name": "Gilgamesh",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Servant (Archer class)",
+    "race": "Heroic Spirit",
+    "height_cm": 182,
+    "weight_kg": 68,
+    "age": "Unknown (immortal)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Blonde",
+    "skin": "Fair",
+    "notable_features": [
+      "Golden armor",
+      "red eyes",
+      "proud posture",
+      "has vault of Babylon manifestation"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ancient Uruk (Mesopotamia)",
+    "current_location": "Throne of Heroes / manifested in various Grail Wars",
+    "base_of_operations": "Throne of Heroes / manifested in various Grail Wars",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "King of Heroes",
+    "secondary": "Servant Archer",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Throne of Heroes"
+    ],
+    "previous": [],
+    "relatives": [
+      "Enkidu (only friend)",
+      "gods of Mesopotamia"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2004)",
+    "manga": "Fate/stay night (2004)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Gate of Babylon",
+      "native_name": "王の財宝",
+      "description": "Opens portals to his treasury containing ALL treasures of humanity's origins",
+      "type": "Offensive",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Enuma Elish (Ea)",
+      "native_name": "天地乖離す開闢の星",
+      "description": "The Sword of Rupture that separates heaven and earth - anti-world Noble Phantasm",
+      "type": "Ultimate",
+      "tier": "EX",
+      "power_level": 100,
+      "range": "Planetary",
+      "limit": null
+    },
+    {
+      "name": "Sha Naqba Imuru",
+      "native_name": "全知なるや全能の星",
+      "description": "The all-seeing star that grants omniscient wisdom",
+      "type": "Support",
+      "tier": "EX",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Independent Action",
+      "native_name": null,
+      "description": "Can exist without a Master for extended periods",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Golden Rule",
+      "native_name": null,
+      "description": "Fated to always have infinite wealth",
+      "type": "Passive",
+      "tier": "EX",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Gate of Babylon barrage",
+    "Enkidu chains"
+  ],
+  "ultimate_move": "Enuma Elish",
+  "trump_card": "Gate of Babylon",
+  "power_attributes": {
+    "power_type": "Heroic Spirit / Divine",
+    "power_source": "Throne of Heroes",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Enuma Elish (Ea)"
+    ],
+    "trump_card": "Gate of Babylon",
+    "ultimate_move": "Enuma Elish"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Regal",
+      "Sadistic",
+      "Possessive",
+      "Occasionally wise"
+    ],
+    "likes": [
+      "Treasury",
+      "Enkidu",
+      "himself",
+      "sake"
+    ],
+    "dislikes": [
+      "Fakers",
+      "modernity",
+      "disrespect",
+      "ordinary people"
+    ],
+    "fear": "Arrogance causes him to underestimate opponents",
+    "dream": "To claim the Holy Grail as his own treasure",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Sadistic"
+    ]
+  },
+  "character": {
+    "arc": "The oldest king in human mythology, summoned as Archer during the Holy Grail War",
+    "motivation": "To claim the Holy Grail as his own treasure",
+    "affinity": "Evil (varies)",
+    "alignment": "Chaotic Good / Lawful Evil (route dependent)"
+  },
+  "achievements": [
+    "Owner of all Noble Phantasms",
+    "High-Servant status"
+  ],
+  "titles": [
+    "King of Heroes",
+    "Archer",
+    "The Oldest King"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 75,
+    "speed": 80,
+    "durability": 70,
+    "power": 100,
+    "combat": 85,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [
+      "Arrogance causes him to underestimate opponents",
+      "refuses to use Ea on unworthy foes"
+    ],
+    "factors": [
+      "arrogant",
+      "sadistic"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Kirei Kotomine (Fate/stay night)",
+      "Tokiomi Tohsaka (Fate/Zero)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Saber (Artoria)",
+      "Shirou Emiya"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Saber (obsession)",
+    "best_friend": "Enkidu",
+    "rival": "Saber",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kirei Kotomine (Fate/stay night)",
+      "Tokiomi Tohsaka (Fate/Zero)",
+      "Enkidu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Saber"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Saber"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kirei Kotomine",
+      "Tokiomi Tohsaka",
+      "Enkidu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Zasshu (mongrel)!",
+    "The king's treasure is boundless!"
+  ],
+  "voice_acting": {
+    "native_language": "Tomokazu Seki",
+    "note": null,
+    "native_name": null,
+    "english": "Grant George",
+    "japanese": "Tomokazu Seki"
+  },
+  "story": {
+    "status": "Spirit (summoned)",
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Antagonist / Anti-Hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Antagonist / Anti-Hero",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 182 cm (6'0\")\nWeight: 68 kg\nArmament: armor\nLikes: himself, power\nDislikes: snakes\nFamous quote: \"'All the evils in the world'? Bring thrice as much if you want to stain me!\"\n\nAn arrogant, selfish, and enigmatic Archer-class Servant. He appears familiar with Fuyuki City and claims to have a past relationship with Saber. Typically clad in an ornate golden armor, he possesses an immense number of Noble Phantasms, though none are representative of his true identity.\n\nGilgamesh is the great half-god, half-human king born from the union between the King of Uruk, Lugalbanda, and goddess Rimat-Ninsun. He ruled the Sumerian city-state of Uruk, the capital city of ancient Mesopotamia in the B.C. era. He was an ultimate, transcendent being so divine as to be two thirds god and one third human, and no others in the world could match him. He was a despot possessing high divinity who believed he was invincible. He is not merely a legend, and is said to have actually existed and ruled during the Sumer Dynasty five thousand years ago. He was the King of Heroes who possessed all things in the world, whose tale is recorded in mankind's oldest epic poem, the Epic of Gilgamesh which portrays Gilgamesh as a hero, destined to be king and achieve great feats, who is driven to meet his destiny, facing challenges together with his best friend Enkidu.\n\nHis title, King of Heroes, is not meant to call him a king who is a hero, but instead implies that he is the king over all heroes. He is mankind's oldest hero, the origin of all myths and model on which heroes are based, so his story is copied within the mythologies of all the countries of the world. The heroes of various myths are derived from his legend, so his Gate of Babylon possesses all of their Noble Phantasms. Though there are several heroes holding the title of \"King,\" the King of Knights and King of Conquerors, he is the only one in all of heaven and earth crowned with the title of \"King of All Heroes.\"\n\n\nIn Fate/kaleid liner PRISMA☆ILLYA, he's the Heroic Spirit sealed into the eighth Class Card. He manifests as his younger self due to Illya separating him from his shadow form half-way through his incarnation. While initially an adversary, he quickly becomes an ally to fulfill his objectives. Gilgamesh in his child form has a more easygoing attitude compared to his adult self. He asks Illya to call him Gil-kun.",
+  "note": null,
+  "source": "anime"
+}

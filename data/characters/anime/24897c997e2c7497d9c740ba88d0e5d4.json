@@ -1,0 +1,374 @@
+{
+  "id": "24897c997e2c7497d9c740ba88d0e5d4",
+  "name": "Kia the World Word",
+  "native_name": "世界詞のキア",
+  "full_name": "Kia the World Word",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Elf",
+    "race": "Elf",
+    "bloodline": "Unknown",
+    "height_cm": 150,
+    "weight_kg": 45,
+    "age": "Young (appears as teenager)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Elven features",
+      "Young appearance",
+      "Immense magical aura"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Elven Lands",
+    "current_location": "Aureatia",
+    "base_of_operations": "Wandering",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Wizard",
+    "secondary": "Shura (Champion)",
+    "rank_title": "World Word",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Elea the Red Tag",
+      "Aureatia"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Ishura (2024)",
+    "manga": "Ishura",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Almighty Word Arts",
+      "native_name": "全能詞術",
+      "description": "Kia can twist all phenomena at will simply by issuing commands without incantations. She defies the conventional Word Arts system (Thermal, Craft, Force, Life) and can use any combination to achieve desired outcomes.",
+      "type": "Reality Warping",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Cannot bring back the dead; effects based on imagination not reality"
+    },
+    {
+      "name": "Command Death",
+      "native_name": "死の命令",
+      "description": "If Kia tells anyone to die, they will die immediately as long as she wills it. Similar to Yogiri's instant death ability.",
+      "type": "Death Manipulation",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Cannot resurrect dead"
+    },
+    {
+      "name": "Weather Control",
+      "native_name": "気象操作",
+      "description": "Can control weather and geography with a single word.",
+      "type": "Elemental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Existence Manipulation",
+      "native_name": "存在操作",
+      "description": "Can warp anything in existence. Can restore things to original state or create new forms.",
+      "type": "Reality Warping",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Cannot bring back the dead"
+    },
+    {
+      "name": "Laws of Nature Override",
+      "native_name": "自然法則無効化",
+      "description": "Ignores all laws of nature, possessing power to warp anything in existence.",
+      "type": "Conceptual Manipulation",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "None known"
+    }
+  ],
+  "signature_moves": [
+    "Die.",
+    "Grow.",
+    "Clear away.",
+    "Disperse."
+  ],
+  "ultimate_move": "Command Existence",
+  "trump_card": "Tell anyone to die",
+  "power_attributes": {
+    "power_type": "Word Arts (Unique)",
+    "power_source": "Inherent Omnipotent Word Arts",
+    "combat_style": [
+      "Reality Command",
+      "Death Command",
+      "Nature Override"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Tell anyone to die",
+    "ultimate_move": "Command Existence"
+  },
+  "personality": {
+    "traits": [
+      "Confident",
+      "Arrogant",
+      "Loud-mouthed",
+      "Typical teenager"
+    ],
+    "likes": [
+      "Power",
+      "Competition"
+    ],
+    "dislikes": [
+      "Limitations of her power"
+    ],
+    "fear": "Her power not working as intended",
+    "dream": "Compete in Sixways Exhibition",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Young elf with god-like power enters world of dangerous champions",
+    "motivation": "Compete and prove power",
+    "affinity": "Word Arts",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "One of the strongest Shura in the world",
+    "Competes in Sixways Exhibition against other champions"
+  ],
+  "titles": [
+    "World Word",
+    "Shura"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Incalculable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 60,
+    "speed": 80,
+    "durability": 70,
+    "power": 100,
+    "combat": 75,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot bring back dead",
+      "Imagined effects may differ from reality",
+      "Not omniscient"
+    ],
+    "factors": [
+      "Limited to imagination and knowledge"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Elea the Red Tag"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Elea the Red Tag",
+        "relationship": "Companion",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Elea the Red Tag"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Elea the Red Tag"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Die.",
+    "Grow.",
+    "I am the World Word."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Melissa Davis",
+    "note": "Ishura anime",
+    "native_name": null,
+    "japanese": "Tomoko Kawakami"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Competing in Sixways Exhibition",
+    "transformation": "None",
+    "awakening_potential": "Limits unknown, possibly limitless",
+    "power_evolution": [],
+    "role_in_story": "Major Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Wandering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "A wandering swordsman who helps people in need (with payment, of course). He is the reincarnation of the greatest evil, the Sky Demon. He is much stronger than the average person. He can jump higher, run faster and can also summon and control both fire and wind. \n\n\n\n(Source: Wikipedia) \n\nNo voice actors have been added to this character. Help improve our database by searching for a voice actor, and adding this character to their roles .",
+  "note": null,
+  "source": "anime"
+}

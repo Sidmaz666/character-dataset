@@ -1,0 +1,469 @@
+{
+  "id": "dc8b6347d936f0ce2e4932e57da4258f",
+  "name": "Nekron",
+  "native_name": null,
+  "full_name": "Nekron",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cosmic Entity",
+    "race": "Embodiment of Death and Darkness",
+    "bloodline": null,
+    "height_cm": "Variable",
+    "weight_kg": "Incalculable",
+    "age": "Primordial/Billions of years",
+    "birthday": "Beginning of time",
+    "zodiac": "Unknown",
+    "blood_type": "None",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "None/Glowing",
+    "hair_color": "None",
+    "skin_color": "Dark/Black",
+    "notable_features": "Composed of living darkness, glowing eyes, skeletal robotic form",
+    "skin": "Dark/Black",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "The Land of the Unliving",
+    "current_location": "The Dead Zone",
+    "base_of_operations": "The Land of the Unliving",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Lord of the Unliving",
+    "secondary": "Ruler of Black Lantern Corps",
+    "rank_title": "Lord of Death",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Black Lantern Corps"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Tales of the Green Lantern Corps #2 (June, 1981)",
+    "comics": "Tales of the Green Lantern Corps #2",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Necromancy",
+      "native_name": null,
+      "description": "Can raise and control all who have ever died, animate corpses as Black Lanterns",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Multiversal",
+      "limit": "Requires death energy"
+    },
+    {
+      "name": "Darkness Manipulation",
+      "native_name": null,
+      "description": "Commands the primordial darkness of the universe, can manipulate dark energy",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Omniversal",
+      "limit": "Weaker in light"
+    },
+    {
+      "name": "Dark Lightning",
+      "native_name": null,
+      "description": "Can fire bolts of dark lightning powerful enough to kill Guardians",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Fatal Touch",
+      "native_name": null,
+      "description": "Can kill any mortal being with a touch",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Touch",
+      "limit": "Ineffective on cosmic beings"
+    },
+    {
+      "name": "Soul Manipulation",
+      "native_name": null,
+      "description": "Can manipulate and destroy souls",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": null
+    },
+    {
+      "name": "Life Manipulation",
+      "native_name": null,
+      "description": "Can take and restore life at will",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Universal",
+      "limit": null
+    },
+    {
+      "name": "Resurrection",
+      "native_name": null,
+      "description": "Can resurrect the dead as undead servants",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": "Requires dead corpses"
+    },
+    {
+      "name": "Dimensional Travel",
+      "native_name": null,
+      "description": "Can travel between Land of the Unliving and living universe via portals",
+      "type": "Mobility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Dimensional",
+      "limit": "Requires mortal link"
+    },
+    {
+      "name": "Size Manipulation",
+      "native_name": null,
+      "description": "Can grow to mountain size",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Death Manipulation",
+      "native_name": null,
+      "description": "Is death itself, can manipulate the concept of death",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Omniversal",
+      "limit": "Cannot affect certain beings"
+    }
+  ],
+  "signature_moves": [
+    "Black Lantern Creation",
+    "Death Touch",
+    "Resurrection Surge"
+  ],
+  "ultimate_move": "Blackest Night",
+  "trump_card": "Anti-Monitor Absorption",
+  "power_attributes": {
+    "power_type": "Death/Darkness",
+    "power_source": "The Land of the Unliving",
+    "combat_style": [
+      "Undead Combat",
+      "Cosmic Warfare"
+    ],
+    "weapon": "Black Lantern Ring",
+    "equipment": [
+      "Black Lantern Central Power Battery"
+    ],
+    "trump_card": "Anti-Monitor Absorption",
+    "ultimate_move": "Blackest Night"
+  },
+  "personality": {
+    "traits": "Malevolent, Patient, Manipulative, Merciless",
+    "likes": [
+      "Death",
+      "Darkness",
+      " annihilation"
+    ],
+    "dislikes": [
+      "Life",
+      "Light",
+      "Hope"
+    ],
+    "fear": "True death/The End",
+    "dream": "End all life",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Necromancy",
+      "Darkness Manipulation",
+      "Dark Lightning",
+      "Fatal Touch"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Seeks to destroy all life by bringing the Blackest Night",
+    "motivation": "Annihilate all life in the universe",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Killed the Anti-Monitor",
+    "Created the Black Lantern Corps",
+    "Caused the Blackest Night event",
+    "Resurrected countless dead heroes and villains"
+  ],
+  "titles": [
+    "Lord of the Unliving",
+    "The Black",
+    "Death Incarnate"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Incalculable",
+    "details": "Threatens all existence"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 80,
+    "total": 580
+  },
+  "weaknesses": {
+    "list": [
+      "Requires mortal link to exist in living universe",
+      "Weaker in bright light",
+      "Vulnerable to White Light of Creation"
+    ],
+    "factors": [
+      "Can be defeated by life/darkness balance restoration"
+    ]
+  },
+  "relationships": {
+    "nemesis": [
+      "Hal Jordan",
+      "Green Lantern Corps"
+    ],
+    "allies": [
+      "Black Hand",
+      "Scar",
+      "Krona"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Black Hand",
+        "relationship": "Herald",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Scar",
+        "relationship": "Servant",
+        "trust_level": "High"
+      },
+      {
+        "name": "Krona",
+        "relationship": "Servant",
+        "trust_level": "Moderate"
+      }
+    ],
+    "enemies": [
+      "Green Lantern Corps",
+      "Justice League",
+      "The Entity"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "The Entity",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Black Hand",
+      "Scar",
+      "Krona"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hal Jordan",
+      "Green Lantern Corps",
+      "The Entity"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "The Entity"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Black Hand",
+      "Scar",
+      "Krona"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Anti-Monitor",
+      "result": "Victory",
+      "method": "Absorbed and powered by him"
+    },
+    {
+      "opponent": "Hal Jordan as Ion",
+      "result": "Defeat",
+      "method": "White Light restoration"
+    },
+    {
+      "opponent": "Guardian",
+      "result": "Victory",
+      "method": "Killed with gesture"
+    }
+  ],
+  "quotes": [
+    "Death is not the end. It is merely the beginning.",
+    "All life serves death."
+  ],
+  "voice_acting": {
+    "native_language": "Kevin Michael Richardson",
+    "english": "Kevin Michael Richardson",
+    "note": "Voice actor for Blackest Night",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Eternally exists as death itself",
+    "transformation": "Blackest Night Form",
+    "awakening_potential": "Could grow to cover entire universe",
+    "power_evolution": [
+      "Base Form",
+      "Black Lantern Form",
+      "True Form"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Dimensional portals"
+    ],
+    "vehicles": [],
+    "headquarters": "The Dead Zone",
+    "story_importance": "Major",
+    "note": null
+  },
+  "source": "bing_images",
+  "publisher": "dc",
+  "about": "Nekron is a supervillain appearing in comic books published by DC Comics, primarily as an enemy of  the Green Lantern Corps. Created by Mike W. Barr, Len Wein and Joe Staton, the character, who exists as an embodiment of Death, first appeared in Tales of the Green Lantern Corps #2 (June 1981). He is the primary antagonist in the 2009–2010 Blackest Night storyline.",
+  "note": null
+}

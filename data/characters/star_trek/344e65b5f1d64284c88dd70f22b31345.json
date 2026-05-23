@@ -1,0 +1,414 @@
+{
+  "id": "344e65b5f1d64284c88dd70f22b31345",
+  "name": "Kira Nerys",
+  "native_name": null,
+  "full_name": "Kira Nerys",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Bajoran",
+    "race": "Bajoran",
+    "bloodline": "Kira",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "age": "34 when on DS9",
+    "birthday": "2342",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Tan",
+    "notable_features": [
+      "Strong features",
+      "Resistance fighter bearing",
+      "Bajoran nose"
+    ],
+    "skin": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Bajor",
+    "current_location": "Various",
+    "base_of_operations": "Deep Space 9",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "First Officer",
+    "secondary": "Bajoran Militia Officer",
+    "rank_title": "Colonel (Bajoran Militia)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Bajoran Militia",
+      "United Federation of Planets"
+    ],
+    "previous": [
+      "Bajoran Resistance"
+    ],
+    "relatives": [
+      "Shakaar (former lover)",
+      "Various resistance members"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1993) - \"Emissary\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Resistance Combat",
+      "native_name": null,
+      "description": "Expert guerrilla fighter from years in resistance",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Less effective against organized military"
+    },
+    {
+      "name": "Spiritual Connection",
+      "native_name": null,
+      "description": "Strong faith in the Prophets",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Not actual power"
+    },
+    {
+      "name": "Military Tactics",
+      "native_name": null,
+      "description": "Experienced in irregular warfare",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Modern military tactics learned"
+    }
+  ],
+  "signature_moves": [
+    "Resistance Fighting",
+    "Orb Visions",
+    "Bajoran Meditation"
+  ],
+  "ultimate_move": "Defense of Bajor",
+  "trump_card": "Prophet Blessing",
+  "power_attributes": {
+    "power_type": "Combat",
+    "power_source": "Resistance Training/Faith",
+    "combat_style": [
+      "Guerrilla Combat",
+      "Bajoran Martial Arts"
+    ],
+    "weapon": "Phaser, Mek'leth",
+    "equipment": [
+      "Bajoran artifacts"
+    ],
+    "trump_card": "Prophet Blessing",
+    "ultimate_move": "Defense of Bajor"
+  },
+  "personality": {
+    "traits": [
+      "Passionate",
+      "Strong-willed",
+      "Religious",
+      "Compassionate",
+      "Hot-tempered"
+    ],
+    "likes": [
+      "The Prophets",
+      "Freedom",
+      "Her People"
+    ],
+    "dislikes": [
+      "Cardassians",
+      "Oppression",
+      "Dukatsu"
+    ],
+    "fear": "Betraying the Prophets",
+    "dream": "Bajor's Peace and Prosperity",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strong-willed"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From vengeful resistance fighter to accepting peace and serving alongside former oppressors",
+    "motivation": "Protecting Bajor and the Prophets",
+    "affinity": "Faith/Military",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Fought in Bajoran Resistance for decades",
+    "Became first officer on DS9",
+    "Helped defeat Dominion invasion",
+    "Served as Emissary in Sisko's absence",
+    "Achieved spiritual peace"
+  ],
+  "titles": [
+    "Colonel",
+    "Nerys",
+    "The Bajoran"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 78,
+    "speed": 80,
+    "durability": 75,
+    "power": 75,
+    "combat": 85,
+    "total": 471
+  },
+  "weaknesses": {
+    "list": [
+      "Vengeance Issues",
+      "Hot Temper",
+      "Cardassian Trust Issues"
+    ],
+    "factors": [
+      "Cardassians trigger her",
+      "Prophet responsibilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gul Dukat",
+    "allies": [
+      "Benjamin Sisko",
+      "Odo",
+      "Worf",
+      "Shakaar"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Benjamin Sisko",
+        "relationship": "Commander and friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Odo",
+        "relationship": "Close friend, love interest",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Gul Dukat",
+      "Cardassians (historical)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gul Dukat",
+        "relationship": "Primary nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Odo, Shakaar",
+    "best_friend": "Odo",
+    "rival": "Gul Dukat",
+    "mentor": "Benjamin Sisko",
+    "student": "Various Bajoran officers",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Benjamin Sisko",
+      "Odo",
+      "Worf",
+      "Shakaar"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gul Dukat"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Gul Dukat"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various Bajoran officers"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Benjamin Sisko",
+      "Odo",
+      "Worf",
+      "Shakaar"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Benjamin Sisko"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gul Dukat",
+      "result": "Victory",
+      "method": "Multiple confrontations"
+    },
+    {
+      "opponent": "Dominion",
+      "result": "Victory",
+      "method": "Military command"
+    }
+  ],
+  "quotes": [
+    "Dukat, you are a traitor to your people and to yourself.",
+    "The only thing that matters is that I'm finally free.",
+    "I spent too many years fighting the Cardassians to let the Federation walk all over them now."
+  ],
+  "voice_acting": {
+    "native_language": "Nana Visitor",
+    "english": "Nana Visitor",
+    "note": "First major female Bajoran character",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued Bajoran Militia service",
+    "transformation": "From resistance fighter to diplomat",
+    "awakening_potential": "Found peace with former enemies",
+    "power_evolution": [
+      "Resistance Fighter",
+      "First Officer",
+      "Bajoran Leader"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Deep Space 9"
+    ],
+    "vehicles": [
+      "Runabout"
+    ],
+    "headquarters": "DS9",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Kira Nerys is a fictional character in the American science fiction television series Star Trek: Deep Space Nine (1993–1999). She was played by actress Nana Visitor. The character is from the fictional planet Bajor, a world which has recently emerged from a brutal foreign occupation. She was a member of the resistance, and the decades-long conflict has left her tough and uncompromising, but she is sustained by her strong faith in traditional Bajoran religion. She has been assigned to Deep Space Nine, a space station jointly operated by the United Federation of Planets and the new provisional Bajoran government, where she serves as second in command as well as the ranking representative of her people.",
+  "note": null,
+  "source": "star_trek"
+}

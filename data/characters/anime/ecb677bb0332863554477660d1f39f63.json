@@ -1,0 +1,400 @@
+{
+  "id": "ecb677bb0332863554477660d1f39f63",
+  "name": "Izuku Midoriya",
+  "native_name": "緑谷出久",
+  "full_name": "Izuku Midoriya",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 166,
+    "weight_kg": 61,
+    "age": "14-15",
+    "birthday": "July 15",
+    "zodiac": "Cancer",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Green",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green curly hair",
+      "Freckles",
+      "Hero costume",
+      "Determined expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Hero-in-training",
+    "rank_title": "Class 1-A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Class 1-A"
+    ],
+    "previous": [],
+    "relatives": [
+      "Inko Midoriya (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia Episode 1",
+    "manga": "My Hero Academia Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "One For All",
+      "native_name": "ワン・フォー・オール",
+      "description": "Inherited quirk that stockpiles power. Grants superhuman strength, speed, and durability.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Body damage at high %"
+    },
+    {
+      "name": "Full Cowl",
+      "native_name": "フルカウル",
+      "description": "Spreads One For All through body for enhanced mobility without breaking.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Super Strength",
+      "native_name": "怪力",
+      "description": "Immense strength capable of destroying buildings with punches.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Body damage"
+    }
+  ],
+  "signature_moves": [
+    "Delaware Smash",
+    "Full Cowl",
+    "One For All 100%"
+  ],
+  "ultimate_move": "One For All 100%",
+  "trump_card": "Full power",
+  "power_attributes": {
+    "power_type": "Quirk",
+    "power_source": "One For All",
+    "combat_style": [
+      "Punching",
+      "Heroics"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Hero costume",
+      "Iron soles"
+    ],
+    "trump_card": "Full power",
+    "ultimate_move": "One For All 100%"
+  },
+  "personality": {
+    "traits": [
+      "Heroic",
+      "Determined",
+      "Analytical",
+      "Kind",
+      "Selfless",
+      "Nervous"
+    ],
+    "likes": [
+      "Hero analysis",
+      "Saving people",
+      "All Might",
+      "Class 1-A"
+    ],
+    "dislikes": [
+      "Villains",
+      "Bullying",
+      "Giving up"
+    ],
+    "fear": "Not being a hero",
+    "dream": "Become greatest hero like All Might",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic",
+      "Analytical"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Deku was born quirkless but inherited One For All from All Might. Now training to become the greatest hero.",
+    "motivation": "Become Symbol of Peace",
+    "affinity": "Green/Hope",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Inherited One For All",
+    "U.A. student",
+    "Sports Festival participant"
+  ],
+  "titles": [
+    "Deku",
+    "Successor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 88,
+    "speed": 80,
+    "durability": 82,
+    "power": 90,
+    "combat": 75,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Body damage at high %",
+      "Inexperience",
+      "Self-sacrificing"
+    ],
+    "factors": [
+      "Overuse breaks bones"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Shigaraki",
+    "allies": [
+      "All Might",
+      "Bakugo",
+      "Uraraka",
+      "Iida"
+    ],
+    "allies_detailed": [
+      {
+        "name": "All Might",
+        "relationship": "Mentor",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Shigaraki",
+      "All For One"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Uraraka (implied)",
+    "best_friend": "Bakugo/Iida",
+    "rival": "Bakugo",
+    "mentor": "All Might",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "All Might",
+      "Bakugo",
+      "Uraraka",
+      "Iida",
+      "Bakugo/Iida"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Shigaraki",
+      "Bakugo"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Bakugo"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "All Might",
+      "Bakugo",
+      "Uraraka",
+      "Iida",
+      "Bakugo/Iida"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "All Might"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Bakugo",
+      "result": "Draw",
+      "method": "Tactical fighting"
+    },
+    {
+      "opponent": "Shigaraki",
+      "result": "Ongoing",
+      "method": "One For All"
+    }
+  ],
+  "quotes": [
+    "I can do this!",
+    "Plus Ultra!",
+    "I'm not done yet!"
+  ],
+  "voice_acting": {
+    "native_language": "Daiki Yamashita (Japanese)",
+    "note": "Energetic voice",
+    "native_name": null,
+    "english": "Justin Briner",
+    "japanese": "Daiki Yamashita"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Training to be hero",
+    "transformation": "One For All user",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Quirkless",
+      "Inherited",
+      "Learning",
+      "Growing"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "U.A. High",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14-16\nBirthday: July 15\nBlood type: O\nHeight: 166 cm (5'5\")\nAffiliation: U.A.\nQuirk: One For All\n\nIzuku Midoriya is the main protagonist of Boku no Hero Academia. Though originally born without a Quirk, he manages to catch the attention of the legendary hero All Might and has since become his close pupil and a student at UA.\n\nIzuku is a very timid and polite boy. Due to being bullied since childhood for being born without a Quirk, he is initially portrayed as insecure, being more reserved and not self expressive, especially in front of Katsuki. However, after being accepted into UA and facing Katsuki during Battle Training, he has gradually become more confident and brave.\n\nIzuku is also very diligent and strong willed. Since he greatly admires Heroes and has always aimed to be one, he has a habit of writing down in his notebooks all he knows about heroes and their quirks, including other UA students. He is a very caring person, and will never hesitate to rescue someone in danger, even if he knows he's not strong enough. When someone has a personal problem, Izuku will always try to help, even if it's not his business. Izuku also has the tendency to overthink with anything that grabs his attention, which makes him start mumbling to himself a lot.\n\n(Source: Boku no Hero Academia Wiki)",
+  "note": null,
+  "source": "anime"
+}

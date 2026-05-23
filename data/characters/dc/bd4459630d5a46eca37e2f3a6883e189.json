@@ -1,0 +1,400 @@
+{
+  "native_name": null,
+  "full_name": "James Craddock",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Undead Ghost",
+    "race": "Human (formerly)",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 80,
+    "age": "Unknown (18th century)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White",
+    "hair_color": "None (bald)",
+    "skin_color": "Translucent blue-white",
+    "notable_features": [
+      "Translucent ghostly form",
+      "Top hat and monocle",
+      "Floating",
+      "Gentleman's attire"
+    ],
+    "skin": "Translucent blue-white",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "England (18th century)",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Criminal",
+    "secondary": "Ghost",
+    "rank_title": "Gentleman",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Injustice Society"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Flash Comics #88 (1947)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Intangibility",
+      "native_name": null,
+      "description": "Can phase through solid objects at will",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Invisibility",
+      "native_name": null,
+      "description": "Can become invisible to the naked eye",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Ghostly Possession",
+      "native_name": null,
+      "description": "Can possess living beings and control them",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Close",
+      "limit": "Strong wills resist"
+    },
+    {
+      "name": "Energy Projection",
+      "native_name": null,
+      "description": "Fires ghostly energy bolts from his hands",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Long",
+      "limit": "Spiritual energy"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly and levitate at will",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Already dead, cannot be killed by conventional means",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Can be exorcised"
+    }
+  ],
+  "signature_moves": [
+    "Ghostly Pass Through",
+    "Possession Strike",
+    "Spiritual Blast"
+  ],
+  "ultimate_move": "Ethereal Judgment",
+  "trump_card": "Cannot be physically harmed",
+  "power_attributes": {
+    "power_type": "Ghost Physiology",
+    "power_source": "Supernatural curse",
+    "combat_style": [
+      "Intangible attacks",
+      "Possession",
+      "Spiritual warfare"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Top hat",
+      "Monocle",
+      "Gentleman's cane"
+    ],
+    "trump_card": "Cannot be physically harmed",
+    "ultimate_move": "Ethereal Judgment"
+  },
+  "personality": {
+    "traits": [
+      "Refined",
+      "Vengeful",
+      "Polite",
+      "Obsessive",
+      "Sadistic"
+    ],
+    "likes": [
+      "Haunting",
+      "Classic style",
+      "Elegance"
+    ],
+    "dislikes": [
+      "Being ignored",
+      "Exorcists",
+      "Bright light"
+    ],
+    "fear": "Being destroyed/banished",
+    "dream": "Revenge on the living",
+    "personality_type": "ISTJ (ghostly)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intangibility",
+      "Invisibility",
+      "Ghostly Possession",
+      "Energy Projection"
+    ],
+    "weaknesses": [
+      "Obsessive",
+      "Vengeful",
+      "Sadistic"
+    ]
+  },
+  "character": {
+    "arc": "An 18th century gentleman criminal who cheated the gallows by making a deal with dark forces, returning as a ghost",
+    "motivation": "Continue his criminal career beyond death",
+    "affinity": "Eternal/Gentleman",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Survived death as a ghost",
+    "Member of Injustice Society"
+  ],
+  "titles": [
+    "The Gentleman Ghost",
+    "Craddock the Ghost"
+  ],
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 40,
+    "speed": 60,
+    "durability": 70,
+    "power": 75,
+    "combat": 55,
+    "total": 370
+  },
+  "weaknesses": {
+    "list": [
+      "Vulnerable to magic/exorcism",
+      "Bright light weakens him",
+      "Ego"
+    ],
+    "factors": "Supernatural weaknesses"
+  },
+  "relationships": {
+    "nemesis": "Hawkman",
+    "allies": [
+      "Various DC villains"
+    ],
+    "enemies": [
+      "Hawkman",
+      "Hawkgirl",
+      "Doctor Fate"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Hall, Carter",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Various DC villains"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hawkman",
+      "Hall, Carter"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hall, Carter"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Various DC villains"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hawkman",
+      "result": "Defeat",
+      "method": "Nth metal disrupts ghost form"
+    }
+  ],
+  "quotes": [
+    "I was a gentleman in life, and I remain a gentleman in death!",
+    "You cannot kill what is already dead."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Undead",
+    "fate": "Continues haunting and committing crimes",
+    "transformation": "From human to ghost",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "dc",
+  "id": "bd4459630d5a46eca37e2f3a6883e189",
+  "name": "Gentleman Ghost",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gotham City",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Gentleman Ghost (James \"Jim\" Craddock), introduced as Ghost, and also known as Gentleman Jim, is a supervillain appearing in American comic books published by DC Comics. Created by writer Robert Kanigher and artist Joe Kubert, the character first appeared in Flash Comics #88 (October 1947).\nGentleman Ghost has been substantially adapted into media outside comics, including animated television series, films, and video games. He is voiced by Greg Ellis in Batman: The Brave and the Bold, \"Weird Al\" Yankovic in Teen Titans Go! vs. Teen Titans, Toby Stephens in Batman: Caped Crusader, and Robin Atkin Downes in Justice League Unlimited.",
+  "note": null,
+  "source": "dc"
+}

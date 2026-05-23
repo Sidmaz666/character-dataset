@@ -1,0 +1,319 @@
+{
+  "id": "526e67744f0b90739ec17c191c62d24c",
+  "name": "Bang",
+  "native_name": "邦古",
+  "full_name": "Bang",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "81",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "City Z",
+    "current_location": "City Z",
+    "base_of_operations": "Hero Association HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "One Punch Man",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero Association",
+      "Martial Arts"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Punch Man",
+    "manga": "One Punch Man",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Combat",
+      "type": "Physical",
+      "description": "Enhanced physical combat abilities",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "description": "Trained in various martial techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Durability",
+      "type": "Defensive",
+      "description": "Enhanced resistance to damage",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Superhuman Combat",
+    "Martial Arts",
+    "Durability"
+  ],
+  "ultimate_move": "Superhuman Combat",
+  "trump_card": "Martial Arts",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Physical Training",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "dark shirt",
+      "martial art called"
+    ],
+    "trump_card": "Martial Arts",
+    "ultimate_move": "Superhuman Combat"
+  },
+  "personality": {
+    "traits": [
+      "Dedicated",
+      "Serious",
+      "Disciplined",
+      "Brave",
+      "Persistent"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Disciplined",
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "One Punch Man character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "One Punch Man"
+  ],
+  "titles": [
+    "One Punch Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 75,
+    "speed": 75,
+    "durability": 75,
+    "power": 75,
+    "combat": 75,
+    "total": 450
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hero Association",
+      "Martial Arts"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Human\nAge: 81\nHeight: 165 cm (5'5\")\nWeight: 55 kg (121 lbs)\nAbilities: Superhuman Strength, Superhuman Agility, Superhuman Speed, Water Stream Rock Smashing Fist\nOccupation: Superhero\nLevel: S-Class; Rank 3\nAffiliation: Hero Association\nRelatives: Bomb (older brother)\n\nBang is an S-Class, rank 3, superhero for the Heroes Association, settled in Z-City. Bang owns a dojo passed down from generations, and uses the fighting style the Rock-Smashing Water Stream Fist. He is also one of the few who acknowledges Saitama's immense power.\n\nBang is an old man with white-spiky hair, thick eyebrows and a thick mustache. He has distict wrinkles on his face, a squarish chin and has a slight tan skin. He wears a dark shirt, light colored pants and kung fu shoes.\n\nBang has a serious personality, he acts calm and does not seem to be afraid at the prospect of stopping a dragon-level disaster meteor. He also prefers to be called by his name.\n\nBang being in the top 3 of the S-Class ranking, he is acknowledged by the public and heroes to be a strong fighter. Not much is known about Bang's abilities other than that he uses a martial art called \"Rock-Smashing Water Stream Fist.\"\n\n(Source: One Punch-Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

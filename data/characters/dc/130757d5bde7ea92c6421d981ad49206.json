@@ -1,0 +1,411 @@
+{
+  "name": "Talia al Ghul",
+  "native_name": null,
+  "full_name": "Talia al Ghul",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Al Ghul",
+    "height_cm": 170,
+    "weight_kg": 57,
+    "age": "Ageless",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Olive",
+    "notable_features": [
+      "Middle Eastern beauty",
+      "Deadly grace",
+      "Sword"
+    ],
+    "skin": "Olive",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (League of Assassins)",
+    "current_location": "Mobile",
+    "base_of_operations": "League of Assassins",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Leader of League of Assassins",
+    "secondary": "Assassin",
+    "rank_title": "Demon's Head (formerly)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "League of Assassins",
+      "Leviathan"
+    ],
+    "previous": [
+      "LexCorp",
+      "Secret Society of Super Villains"
+    ],
+    "relatives": [
+      "Ra's al Ghul (father)",
+      "Bruce Wayne (lover)",
+      "Damian Wayne (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Detective Comics #411 (1971)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Martial Artist",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee"
+    },
+    {
+      "name": "Expert Swordswoman",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee"
+    },
+    {
+      "name": "Genius Intellect",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    },
+    {
+      "name": "Lazarus Pit Longevity",
+      "type": "Mystical",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self"
+    },
+    {
+      "name": "Master Manipulator",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Sword of the Assassin",
+    "Shadow Strike",
+    "Poison Touch",
+    "Demon's Heir Strike"
+  ],
+  "ultimate_move": "Demon's Heir Judgment",
+  "trump_card": "League of Assassins Mastery + Lazarus Enhancement",
+  "power_attributes": {
+    "power_type": "Peak Human + Lazarus Enhancement",
+    "power_source": "League of Assassins Training + Lazarus Pit",
+    "combat_style": [
+      "Swordsmanship",
+      "Martial Arts",
+      "Poison",
+      "Stealth"
+    ],
+    "weapon": "Sword",
+    "equipment": [
+      "Poisoned weapons",
+      "League resources",
+      "Body armor"
+    ],
+    "trump_card": "League of Assassins Mastery + Lazarus Enhancement",
+    "ultimate_move": "Demon's Heir Judgment"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Seductive",
+      "Conflicted",
+      "Ruthless",
+      "Loving (to Bruce and Damian)",
+      "Manipulative"
+    ],
+    "likes": [
+      "Power",
+      "Bruce Wayne",
+      "Her son Damian"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Being controlled",
+      "Her father's extremism"
+    ],
+    "fear": "Losing Damian or Bruce",
+    "dream": "Rule the world with Bruce at her side",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Master Martial Artist",
+      "Expert Swordswoman",
+      "Genius Intellect",
+      "Lazarus Pit Longevity"
+    ],
+    "weaknesses": [
+      "Ruthless",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Daughter of Ra's al Ghul, heir to the League of Assassins. Torn between loyalty to her father and her love for Bruce Wayne. Gave birth to Damian Wayne without Bruce's knowledge. Eventually challenged her father for control of the League. Her morality oscillates between villain and anti-hero depending on her father's influence.",
+    "motivation": "Secure power and protect her son Damian",
+    "affinity": "Power/Family",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Heir to League of Assassins",
+    "Mother to Damian Wayne",
+    "Leader of Leviathan",
+    "Challenged Ra's al Ghul"
+  ],
+  "titles": [
+    "Talia al Ghul",
+    "Demon's Heir",
+    "Mother of Damian",
+    "Head of the Demon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 68,
+    "speed": 82,
+    "durability": 75,
+    "power": 72,
+    "combat": 88,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Love for Bruce Wayne",
+      "Damian as leverage",
+      "Father's influence"
+    ],
+    "factors": [
+      "Emotional conflict",
+      "Divided loyalties",
+      "Manipulative nature backfires"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ra's al Ghul (conflict)",
+    "allies": [
+      "League of Assassins",
+      "Leviathan"
+    ],
+    "enemies": [
+      "Batman (conflicted)",
+      "Ra's al Ghul (conflicted)",
+      "Deathstroke"
+    ],
+    "love_interest": "Bruce Wayne (Batman)",
+    "best_friend": null,
+    "mentor": "Ra's al Ghul",
+    "student": "Damian Wayne",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "League of Assassins",
+      "Leviathan"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ra's al Ghul (conflict)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Damian Wayne"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "League of Assassins",
+      "Leviathan"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Ra's al Ghul"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Draw",
+      "method": "Emotional and physical combat"
+    },
+    {
+      "opponent": "Ra's al Ghul",
+      "result": "Draw",
+      "method": "League control challenge"
+    }
+  ],
+  "quotes": [
+    "I am not just the daughter of the Demon. I am the Demon.",
+    "You will always be the love of my life, Beloved."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Aline Elasmar"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Leading Leviathan",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Talia",
+      "Heir to Ra's",
+      "Mother of Damian",
+      "Leviathan Leader"
+    ],
+    "role": "Major Character (Villain/Anti-Hero)",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Private jet",
+      "League transport"
+    ],
+    "vehicles": [
+      "League vehicles"
+    ],
+    "headquarters": "League of Assassins HQ / Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "130757d5bde7ea92c6421d981ad49206",
+  "publisher": "dc",
+  "about": "Talia al Ghul (; Arabic: تالية الغول, Arabic pronunciation: [taːlijja al.ɣuːl]) is a fictional character appearing in American comic books published by DC Comics. The character was created by writer Dennis O'Neil and artist Bob Brown, and first appeared in Detective Comics #411 (May 1971). Commonly associated with Batman and having been characterized as a morally ambiguous anti-heroine and supervillain, Talia stands as one of the character's most enduring love interests and female adversaries.\nTalia is the daughter of the eco-terrorist and supervillain, Ra's al Ghul. Born as a high-ranking elite of the League of Assassins, Talia followed in her father's footsteps, becoming a master assassin, one of the world's greatest spymasters, and heiress but is passed over by her chauvensic father as his successor. Seeking to elevate her status, she first sought a suitable male partner and produce a son but ultimately falls in love with Batman, testing her loyalties to either and her subsequent romatic entanglements with Batman leads to the birth of their son, Damian Wayne. Eventually taking a darker turn as she branched out, she has been a leading figure of the Secret Society of Super-Villains, the leader of the League of Assassins,  the founder of her own secret society, Leviathan, and eventually established as the leader of the League of Shadows by Ra's himself.\nSince the character's inception, Talia's character has been noted to be among Batman's most compelling villains inspite of constrasting portrayals, noted for her evolution from being a \"Bond-girl archetype\" into a pivotal and complex character and haing ambiguous motivations. However, criticism of the character's originates from elements of orientalism including being characereized within the dragon lady stereotype and being encoded as \"ethnic\" and \"foreign\" with no definitive identity due to Ra's conceptual creation by Neal Adams.\nTalia has been featured in various media adaptations. The character was voiced by Helen Slater and Olivia Hussey in the DC Animated Universe, which became her first appearances in media other than comic books. The character was subsequently portrayed by Marion Cotillard in the 2012 film The Dark Knight Rises and by Lexa Doig in the Arrowverse television series Arrow.",
+  "note": null,
+  "source": "dc"
+}

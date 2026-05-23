@@ -1,0 +1,408 @@
+{
+  "id": "308ed7bfcd4ceb7958d82a07958eab51",
+  "name": "Deanna Troi",
+  "native_name": null,
+  "full_name": "Deanna Troi",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Half-Betazoid/Half-Human",
+    "race": "Betazoid-Human Hybrid",
+    "bloodline": "Troi",
+    "height_cm": 165,
+    "weight_kg": 58,
+    "age": "29 when on Enterprise-D",
+    "birthday": "2356",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black/Dark Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Empathetic presence",
+      "Warm demeanor",
+      "Betazoid features"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Betazed",
+    "current_location": "USS Titan",
+    "base_of_operations": "USS Enterprise-D, USS Titan",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ship's Counselor",
+    "secondary": "Ambassador",
+    "rank_title": "Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "USS Enterprise-D"
+    ],
+    "relatives": [
+      "Ian Andrew Troi (father)",
+      "Lwaxana Troi (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Next Generation (1987) - \"Encounter at Farpoint\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Empathy",
+      "native_name": null,
+      "description": "Can sense emotions and feelings of others",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Cannot read non-Betazoids fully without touch"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": null,
+      "description": "Can communicate mentally with Betazeds",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Limited with non-Betazeds"
+    },
+    {
+      "name": "Psychological Expertise",
+      "native_name": null,
+      "description": "Trained in psychology and counseling",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires willing patient"
+    }
+  ],
+  "signature_moves": [
+    "Empathic Assessment",
+    "Counseling Sessions",
+    "Psychological Profiling"
+  ],
+  "ultimate_move": "Deep Telepathic Connection",
+  "trump_card": "Full Betazoid Telepathy",
+  "power_attributes": {
+    "power_type": "Psionic",
+    "power_source": "Betazoid Heritage",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Tricorder"
+    ],
+    "trump_card": "Full Betazoid Telepathy",
+    "ultimate_move": "Deep Telepathic Connection"
+  },
+  "personality": {
+    "traits": [
+      "Empathetic",
+      "Warm",
+      "Intuitive",
+      "Patient",
+      "Occasionally Indecisive"
+    ],
+    "likes": [
+      "Counseling",
+      "Art",
+      "Relationships",
+      "Will Riker"
+    ],
+    "dislikes": [
+      "Forced to Lie",
+      "Borg Trauma",
+      "Psychological Harm"
+    ],
+    "fear": "Losing Her Empathy",
+    "dream": "Helping Others Heal",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Indecisive"
+    ]
+  },
+  "character": {
+    "arc": "From young counselor to experienced officer who navigated her own feelings while helping others",
+    "motivation": "Helping crew members psychologically",
+    "affinity": "Counseling",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Provided crucial psychological support throughout Enterprise missions",
+    "Defeated alien entities with empathy",
+    "Became ship's counselor and later commander",
+    "Helped Riker make difficult decisions",
+    "Served on Titan after marrying Riker"
+  ],
+  "titles": [
+    "Counselor",
+    "Commander Troi",
+    "The Betazoid"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 50,
+    "speed": 55,
+    "durability": 55,
+    "power": 75,
+    "combat": 45,
+    "total": 362
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot Read Non-Betazeds Well",
+      "Emotional Vulnerability",
+      "Limited Combat Skills"
+    ],
+    "factors": [
+      "Strong emotions can overwhelm",
+      "Requires training"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various psychological threats",
+    "allies": [
+      "Jean-Luc Picard",
+      "William Riker",
+      "Data"
+    ],
+    "allies_detailed": [
+      {
+        "name": "William Riker",
+        "relationship": "Husband and best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Jean-Luc Picard",
+        "relationship": "Captain",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "William Riker",
+    "best_friend": "William Riker",
+    "rival": "None significant",
+    "mentor": "Various counselors",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jean-Luc Picard",
+      "William Riker",
+      "Data"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various psychological threats",
+      "None significant"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None significant"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jean-Luc Picard",
+      "William Riker",
+      "Data"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various counselors"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Nagilum",
+      "result": "Victory",
+      "method": "Psychological insight"
+    },
+    {
+      "opponent": "Various Psychological Threats",
+      "result": "Various",
+      "method": "Counseling expertise"
+    }
+  ],
+  "quotes": [
+    "I sense your confusion, Captain.",
+    "My mother would say...",
+    "I feel the collective fear on this ship."
+  ],
+  "voice_acting": {
+    "native_language": "Marina Sirtis",
+    "english": "Marina Sirtis",
+    "note": "Iconic Star Trek counselor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Riker, served on USS Titan",
+    "transformation": "Became more confident and capable officer",
+    "awakening_potential": "Achieved command status",
+    "power_evolution": [
+      "Counselor",
+      "Commander",
+      "Captain's Advisor"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise-D",
+      "USS Titan"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise Ready Room",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Deanna Troi is a main character in the science-fiction television series Star Trek: The Next Generation and related TV series and films, portrayed by Marina Sirtis. Troi is half-human, half-Betazoid, and has the psionic ability to sense emotions. She serves as the ship's counselor on USS Enterprise-D. Throughout most of the series, she holds the rank of lieutenant commander. In the seventh season, Troi successfully passes the bridge officer's examination, gaining promotion to the rank of commander while maintaining her role as counselor.",
+  "note": null,
+  "source": "star_trek"
+}

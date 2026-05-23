@@ -1,0 +1,403 @@
+{
+  "id": "3c964cd58fd070548b9dca1c4b3dcb66",
+  "name": "Kurisu Makise",
+  "native_name": "牧瀬 紅莉栖",
+  "full_name": "Kurisu Makise",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Makise Family",
+    "height_cm": 160,
+    "weight_kg": 48,
+    "age": "18",
+    "birthday": "July 25",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Reddish-brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long red hair",
+      "Blue eyes",
+      "Lab coat",
+      "Intelligent expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "Akihabara, Tokyo",
+    "base_of_operations": "Future Gadget Laboratory",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Neuroscientist",
+    "secondary": "University Researcher",
+    "rank_title": "Genius Scientist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Future Gadget Laboratory",
+      "Viktor Chondria University"
+    ],
+    "previous": [],
+    "relatives": [
+      "Shouichi Makise (father)",
+      "Yui Makise (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Steins;Gate Episode 1",
+    "manga": "Steins;Gate Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Scientific Genius",
+      "native_name": "科学的天才",
+      "description": "Brilliant neuroscientist. Published papers in prestigious journals at young age.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Human limits"
+    },
+    {
+      "name": "Time Travel Theory",
+      "native_name": "時間移動理論",
+      "description": "Expert in time travel mechanics. Helps develop Phone Microwave.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Technology"
+    },
+    {
+      "name": "Deduction",
+      "native_name": "推論",
+      "description": "Sharp analytical skills. Quickly grasps complex situations.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Information"
+    }
+  ],
+  "signature_moves": [
+    "Scientific analysis",
+    "Time leap theory",
+    "Lab mem #004"
+  ],
+  "ultimate_move": "Steins;Gate discovery",
+  "trump_card": "Genius intellect",
+  "power_attributes": {
+    "power_type": "Intellect",
+    "power_source": "Science",
+    "combat_style": [
+      "Intellect",
+      "Science"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Lab coat",
+      "Laptop"
+    ],
+    "trump_card": "Genius intellect",
+    "ultimate_move": "Steins;Gate discovery"
+  },
+  "personality": {
+    "traits": [
+      "Tsundere",
+      "Intelligent",
+      "Rational",
+      "Caring",
+      "Stubborn",
+      "Curious"
+    ],
+    "likes": [
+      "Science",
+      "Okabe",
+      "Research",
+      "Pudding"
+    ],
+    "dislikes": [
+      "Incompetence",
+      "Okabe (initially)",
+      "Waste",
+      "Irrationality"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Scientific breakthrough",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "Kurisu is the brilliant neuroscientist who joins Future Gadget Lab. Initially skeptical of Okabe, becomes his closest ally. Key to Steins;Gate worldline.",
+    "motivation": "Scientific truth, save Okabe",
+    "affinity": "Blue/Science",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Published in Science",
+    "Time travel research",
+    "Lab Member #004",
+    "Saved Okabe"
+  ],
+  "titles": [
+    "Christina",
+    "Lab Mem #004",
+    "Genius"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Scientist"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 45,
+    "speed": 50,
+    "durability": 55,
+    "power": 70,
+    "combat": 40,
+    "total": 355
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Tsundere",
+      "Emotional"
+    ],
+    "factors": [
+      "Okabe",
+      "Father"
+    ]
+  },
+  "relationships": {
+    "nemesis": "SERN, Moeka",
+    "allies": [
+      "Okabe",
+      "Mayuri",
+      "Itaru",
+      "Suzuha"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Okabe Rintaro",
+        "relationship": "Partner/love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "SERN",
+      "Rounders"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Okabe",
+    "best_friend": "Mayuri",
+    "rival": "Okabe (intellectually)",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Okabe",
+      "Mayuri",
+      "Itaru",
+      "Suzuha"
+    ],
+    "colleague": null,
+    "enemy": [
+      "SERN, Moeka",
+      "Okabe (intellectually)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Okabe"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Okabe",
+      "Mayuri",
+      "Itaru",
+      "Suzuha"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "SERN",
+      "result": "Victory",
+      "method": "Time leap"
+    },
+    {
+      "opponent": "Fate",
+      "result": "Victory",
+      "method": "Steins;Gate"
+    }
+  ],
+  "quotes": [
+    "People's feelings are what matter!",
+    "I'm not a tsundere!",
+    "This is Steins;Gate!"
+  ],
+  "voice_acting": {
+    "native_language": "Asami Imai (Japanese)",
+    "note": "Tsundere, intelligent",
+    "native_name": null,
+    "english": "Trina Nishimura",
+    "japanese": "Asami Imai"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Steins;Gate worldline",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Scientist",
+      "Lab Mem",
+      "Time traveler",
+      "Savior"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Future Gadget Lab",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 18\nBirthdate: July 25 (Leo)\nBlood type: A\nHeight: 160 cm\nWeight: 45 kg\n\nThe female protagonist. Makise Kurisu is a research member in Victor Qondria University's Brain Research Program. Her age group matches that of third-year high schoolers, but she skipped a grade through America's educational system. She is also famous in America for writing thesis papers, part of which is covered in the news. Thanks to skipping a grade in America as a girl, she was envied by people around her, and ended up building a strong personality. She does not want to show weakness to others, so she always has a stern expression. However, she is very curious, and when she builds interest, she pokes into things. Occasionally, she has views that differ from regular opinions, such as, \"The experiment data is more important than the subject's privacy.\" Rintarou often tells her, \"Hey, you've got a pretty good sense of being a Mad Scientist,\" but she is not one to agree to such things personally. She is a tsundere.\n\nRintarou has given her plenty of nicknames, in particular \"Christina\" (クリスティーナ) and \"Assistant\" (助手).",
+  "note": null,
+  "source": "anime"
+}

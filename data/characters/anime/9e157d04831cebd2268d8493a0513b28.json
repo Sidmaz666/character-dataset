@@ -1,0 +1,328 @@
+{
+  "id": "9e157d04831cebd2268d8493a0513b28",
+  "name": "Frieza",
+  "native_name": "フリーザ",
+  "full_name": "Frieza",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Kami's Lookout",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Dragon Ball",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Frieza Force"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Z",
+    "manga": "Dragon Ball Z",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ki Manipulation",
+      "type": "Energy",
+      "description": "Skilled in controlling and projecting ki energy",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "description": "Highly trained in martial arts combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Flight",
+      "type": "Movement",
+      "description": "Ability to fly using ki",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Ki Manipulation",
+    "Martial Arts",
+    "Flight"
+  ],
+  "ultimate_move": "Ki Manipulation",
+  "trump_card": "Martial Arts",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Cosmic",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Martial Arts",
+    "ultimate_move": "Ki Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Competitive",
+      "Proud",
+      "Disciplined"
+    ],
+    "likes": [
+      "Competition",
+      "Protecting others",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Losing",
+      "Being controlled",
+      "Frivolity"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Dragon Ball character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ryūsei Nakao (Japanese)"
+  ],
+  "titles": [
+    "Dragon Ball"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 85,
+    "speed": 85,
+    "durability": 85,
+    "power": 85,
+    "combat": 85,
+    "total": 510
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Goku",
+    "allies": [
+      "Z Fighters"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Goku"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Z Fighters"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Goku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Z Fighters"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ryūsei Nakao",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Frieza is a fictional graphic novel supervillain who first appears in the Dragon Ball manga created by Akira Toriyama, followed by Dragon Ball Z, Dragon Ball Super and Dragon Ball GT. Frieza also appears in the television special Bardock: The Father of Goku; a few Dragon Ball Z movies and in Dragon Ball GT. He is one of the most powerful major supervillains introduced throughout the Dragon Ball universe. In the gag series Neko Majin Z, it is revealed that he has a son, Kuriza.\n\nFrieza is introduced in the series as the powerful galactic overlord on a mission for immortality and conquest, ruler of an empire said to control seventy-nine or more planets. Frieza creates armies from the planets that he conquers, his most utilized race were the Saiyans. Frieza had heard about the legend of the Super Saiyan, a being with unrivaled power, but dismissed it as simple mythology; however, after several Saiyans emerged with rapidly evolving potential, Frieza began to fear that the legend would indeed come true, so as a result, destroyed the Saiyan race. His actions and lust for power eventually bring him into conflict with the heroes of the series when he tries to take possession of the wish-granting Dragon Balls on Planet Namek.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

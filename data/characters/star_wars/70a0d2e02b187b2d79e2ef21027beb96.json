@@ -1,0 +1,435 @@
+{
+  "id": "70a0d2e02b187b2d79e2ef21027beb96",
+  "name": "Anakin Skywalker",
+  "native_name": null,
+  "full_name": "Anakin Skywalker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Skywalker",
+    "bloodline": "Skywalker family",
+    "height_cm": 188,
+    "weight_kg": 84,
+    "age": "Born 41 BBY, Died 4 ABY",
+    "birthday": "April 26",
+    "zodiac": "Taurus",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 23.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Robes",
+      "Mechanical arm",
+      "Blue lightsaber"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tatooine",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Jedi Temple",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Knight",
+    "secondary": "General",
+    "rank_title": "Jedi Knight",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order"
+    ],
+    "previous": [
+      "Galactic Republic"
+    ],
+    "relatives": [
+      "Luke Skywalker (son)",
+      "Leia Organa (daughter)",
+      "Padme Amidala (wife)",
+      "Shmi Skywalker (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode I - The Phantom Menace (1999)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Reflexes",
+      "native_name": null,
+      "description": "Superhuman reflexes",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Force Sense",
+      "native_name": null,
+      "description": "Sense others strongly",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Wide",
+      "limit": "None"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Djem So master",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Piloting",
+      "native_name": null,
+      "description": "Expert pilot",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Djem So strikes",
+    "Power swipe"
+  ],
+  "ultimate_move": "Chosen One prophecy",
+  "trump_card": "Podracing champion",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "The Force",
+    "combat_style": [
+      "Form V (Djem So)",
+      "Form IV (Ataru)"
+    ],
+    "weapon": "Lightsaber",
+    "equipment": [
+      "Blue lightsaber",
+      "Podracer"
+    ],
+    "trump_card": "Podracing champion",
+    "ultimate_move": "Chosen One prophecy"
+  },
+  "personality": {
+    "traits": [
+      "Brash",
+      "Confident",
+      "Compassionate",
+      "Impetuous"
+    ],
+    "likes": [
+      "Flying",
+      "Helping others",
+      "Padme"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Failure",
+      "Dark side"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Become Jedi master",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Slave to hero to villain",
+    "motivation": "Help the weak",
+    "affinity": "Light Side (originally)",
+    "alignment": "Neutral Good (originally)"
+  },
+  "achievements": [
+    "Podracing champion",
+    "Discovered by Qui-Gon",
+    "The Chosen One"
+  ],
+  "titles": [
+    "The Chosen One",
+    "Jedi Knight",
+    "General"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Most powerful Jedi ever"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 90,
+    "speed": 95,
+    "durability": 85,
+    "power": 100,
+    "combat": 98,
+    "total": 558
+  },
+  "weaknesses": {
+    "list": [
+      "Fear of loss",
+      "Emotional"
+    ],
+    "factors": [
+      "Vulnerable to dark side"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Obi-Wan Kenobi",
+    "allies": [
+      "Obi-Wan Kenobi",
+      "Padme Amidala",
+      "Ahsoka Tano"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Padme Amidala",
+        "relationship": "Wife",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Ahsoka Tano",
+        "relationship": "Apprentice",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Sith",
+      "Separatists"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Count Dooku",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Padme Amidala",
+    "best_friend": "Obi-Wan Kenobi",
+    "rival": "Obi-Wan Kenobi",
+    "mentor": "Obi-Wan Kenobi",
+    "student": "Ahsoka Tano",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Obi-Wan Kenobi",
+      "Padme Amidala",
+      "Ahsoka Tano"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Obi-Wan Kenobi"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Leia Organa (sister)",
+      "Luke",
+      "Ben Solo"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Leia Organa (sister)",
+      "Luke",
+      "Ben Solo"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Obi-Wan Kenobi"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ahsoka Tano"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Obi-Wan Kenobi",
+      "Padme Amidala",
+      "Ahsoka Tano"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Obi-Wan Kenobi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Count Dooku",
+      "result": "Victory",
+      "method": "Duel"
+    },
+    {
+      "opponent": "Darth Sidious",
+      "result": "Defeat",
+      "method": "Turned to dark side"
+    }
+  ],
+  "quotes": [
+    "I was brought here to free slaves",
+    "I will not let the Republic fall"
+  ],
+  "voice_acting": {
+    "native_language": "Hayden Christensen",
+    "english": "Hayden Christensen",
+    "note": "Original actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Redeemed by Luke",
+    "transformation": "Darth Vader",
+    "awakening_potential": "Most powerful ever",
+    "power_evolution": [
+      "Slave",
+      "Padawan",
+      "Knight",
+      "Darth Vader"
+    ],
+    "role_in_story": "Supporting protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Jedi starfighter"
+    ],
+    "vehicles": [
+      "Podracer"
+    ],
+    "headquarters": "Jedi Temple",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Darth Vader is a fictional character in the Star Wars franchise. He first appeared in the original Star Wars film (1977) and its novelization (1976). He is a leader of the Galactic Empire, and is one of the two major villains in the original film trilogy. In the prequel trilogy, he transforms from the Jedi Knight Anakin Skywalker into the Sith Lord Darth Vader. His metamorphosis begins when he is lured to the dark side of the Force by Chancellor Palpatine, who later becomes the Galactic Emperor. After a lightsaber battle with his former mentor Obi-Wan Kenobi, Vader is severely injured and is transformed into a cyborg. He serves Palpatine for over two decades, hunting down the remaining Jedi and attempting to crush the Rebel Alliance. When Palpatine tries to kill Vader's son, Luke Skywalker, Vader turns against Palpatine and kills him. Vader is the husband of Padmé Amidala, the father of Luke and his twin sister Leia Organa, and the maternal grandfather of Ben Solo.",
+  "note": null,
+  "source": "star_wars"
+}

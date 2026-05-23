@@ -1,0 +1,329 @@
+{
+  "name": "Blindspot",
+  "native_name": null,
+  "full_name": "Blindspot",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White (Blind)",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blind",
+      "Enhanced other senses",
+      "Daredevil-like"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Nomadic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe (Blind Hero)",
+    "secondary": null,
+    "rank_title": "Blindspot",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sonar Sense (blind)",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self"
+    },
+    {
+      "name": "Enhanced Agility",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Self"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Melee"
+    }
+  ],
+  "signature_moves": [
+    "Sonar Strike",
+    "Blind Kick"
+  ],
+  "ultimate_move": "Sonar Fury",
+  "trump_card": "Sonar Vision",
+  "power_attributes": {
+    "power_type": "Sonar",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Martial Arts",
+      "Sonar-based"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Sonar Vision",
+    "ultimate_move": "Sonar Fury"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Disciplined",
+      "Combat-oriented",
+      "Physically active"
+    ],
+    "likes": [
+      "Justice",
+      "Independence"
+    ],
+    "dislikes": [
+      "Being pitied",
+      "Dependence"
+    ],
+    "fear": "Helplessness",
+    "dream": "Be a respected hero despite blindness",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A blind supe analogous to Daredevil. Uses sonar-like senses to fight despite blindness. Appears briefly.",
+    "motivation": "Prove blindness does not define him",
+    "affinity": "Sonar",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Supe despite blindness"
+  ],
+  "titles": [
+    "Blindspot"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 55,
+    "speed": 70,
+    "durability": 58,
+    "power": 62,
+    "combat": 72,
+    "total": 377
+  },
+  "weaknesses": {
+    "list": [
+      "Blindness",
+      "Sonar limits",
+      "Human durability"
+    ],
+    "factors": [
+      "Truly blind",
+      "Sonar can be disrupted"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "enemies": [
+      "Heroes/Protagonists"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Heroes/Protagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Blind human",
+      "Blindspot"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "c1f1ab82851465f87b28b13d48f21c69",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

@@ -1,0 +1,334 @@
+{
+  "id": "0488116e3243b7ade022f69b24d8ce63",
+  "name": "Bankai",
+  "native_name": "",
+  "full_name": "Bankai",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Taurus",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "green",
+    "hair_color": "Teal green",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Soul Society",
+    "base_of_operations": "Soul Society",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bleach",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach TYBW",
+    "manga": "Bleach TYBW",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanjutsu",
+      "type": "Swordsmanship",
+      "description": "Expert in sword combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Kido",
+      "type": "Magic",
+      "description": "Able to cast demon magic spells",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hakuda",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hoho",
+      "type": "Movement",
+      "description": "Advanced movement techniques",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Zanjutsu",
+    "Kido",
+    "Hakuda"
+  ],
+  "ultimate_move": "Zanjutsu",
+  "trump_card": "Kido",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Magic",
+    "combat_style": [
+      "Magic",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Zanjutsu"
+    ],
+    "trump_card": "Kido",
+    "ultimate_move": "Zanjutsu"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Proud",
+      "Disciplined",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Threats to loved ones",
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Bleach character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Sayumi Watabe (Japanese)"
+  ],
+  "titles": [
+    "Bleach"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 80,
+    "durability": 80,
+    "power": 80,
+    "combat": 80,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Sayumi Watabe"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: May 20\nZodiac: Taurus\nHair: Teal green\nEyes: Light brown\nHeight: 179 cm\nWeight: 67 kg\n\nHe is described as an assassin and is one of the strongest swordsmen of the Kiheitai, under the leadership of Takasugi. He is a member of the Kiheitai, an extremist Joui faction bent on causing world destruction.\n\nBansai is always seen wearing a pair of sunglasses and large headphones decorated with a yin-yang pattern. He regularly keeps his headphones on, as well as sun glasses even while others are talking to him. He carries and is skilled at playing a shamisen, which also doubles as a tool for tying others up or as a weapon similar to a garrote.\n\nOn top of being famous as a skilled swordsman, Bansai is also a talented songwriter. He works as a music producer under the name \"Tsunpo,\" and Otsu's newer songs are written by him. Bansai's background remains unknown; however, it is known that he fights alongside Takasugi in order to destroy the \"rotten\" world which resulted from the loss against the alien Amanto after the Joui conflict.\n\nIt is uncertain how much Bansai actually picks up from his conversations with other people, seeing as he is always wearing headphones, that is also how he got the nickname Deaf Man.\n\nBansai is shown to have an extremely calm demeanor, which covers up the fact that he has a vicious, almost cruel personality which actively seeks out conflict.\n\nBansai is very invested in his music hobby, frequently playing his shamisen and often comparing to other characters as musical genres. Bansai refers to Gintoki as drunken humming and Hijikata as a children's anime theme song.\n\nBeing a refined speaker, he speaks in the Japanese humble manner by using \"de gozaru\" at the end of the sentences and referring to himself as \"sessha,\" a notably antiquated way of speaking.\n\nBansai's name is roughly based on that of a hitokiri of the Bakumatsu era, Kawakami Gensai, while his stage name is based on the musician Tsunku.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,437 @@
+{
+  "id": "270f7b77d17f4afc421d95e025e4e7f7",
+  "name": "Shigure Souma",
+  "native_name": "草摩紫呉",
+  "full_name": "Shigure Souma",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Cursed",
+    "race": "Human (transforms into Dog)",
+    "bloodline": "Souma family",
+    "height_cm": 178,
+    "weight_kg": 68.5,
+    "age": "27",
+    "birthday": "February 18",
+    "zodiac": "Aquarius",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black (medium length, slightly messy)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Often wears glasses",
+      "Relaxed, handsome appearance",
+      "Usually seen in casual clothes or yukata"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Souma estate, Tokyo",
+    "current_location": "Souma estate, Tokyo",
+    "base_of_operations": "His house (where Tohru, Yuki, Kyo live)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Novelist",
+    "secondary": "Part of the Sohma family",
+    "rank_title": "N/A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Souma family",
+      "Mabudachi Trio"
+    ],
+    "previous": [],
+    "relatives": [
+      "Yuki Souma (cousin)",
+      "Kyo Souma (cousin)",
+      "Akito Sohma (love interest)",
+      "Ayame Sohma (friend)",
+      "Hatori Sohma (friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fruits Basket Episode 1",
+    "manga": "Fruits Basket Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zodiac Transformation",
+      "native_name": "十二星座変換",
+      "description": "Shigure transforms into a grey-black dog with light green eyes when hugged by the opposite sex or under great stress.",
+      "type": "Transformation/Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Triggered involuntarily; cannot control when stressed"
+    },
+    {
+      "name": "Literary Mastery",
+      "native_name": "文学精通",
+      "description": "Writes both acclaimed literary novels and popular romance novels under various pen names. Exceptional writing talent.",
+      "type": "Support/Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Non-combat ability"
+    },
+    {
+      "name": "Manipulation",
+      "native_name": "操纵",
+      "description": "Shigure is extremely cunning and manipulative, able to orchestrate complex situations to achieve his goals.",
+      "type": "Support/Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "N/A",
+      "limit": "Non-physical; psychological influence"
+    },
+    {
+      "name": "Social Intelligence",
+      "native_name": "社会的知性",
+      "description": "Highly perceptive of people's emotions and motivations. Can provide insightful advice despite his playful exterior.",
+      "type": "Support/Intelligence",
+      "tier": "B",
+      "power_level": 82,
+      "range": "N/A",
+      "limit": "Non-combat ability"
+    }
+  ],
+  "signature_moves": [
+    "Dog transformation",
+    "Romance writing",
+    "Strategic manipulation"
+  ],
+  "ultimate_move": "Long-term manipulation to break the curse",
+  "trump_card": "His obsessive love for Akito drives all his actions",
+  "power_attributes": {
+    "power_type": "Zodiac Curse (Dog)",
+    "power_source": "Cursed bond with Akito/God",
+    "combat_style": [
+      "N/A (non-combatant)"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Writing materials",
+      "Glasses"
+    ],
+    "trump_card": "His obsessive love for Akito drives all his actions",
+    "ultimate_move": "Long-term manipulation to break the curse"
+  },
+  "personality": {
+    "traits": [
+      "Playful",
+      "Manipulative",
+      "Perceptive",
+      "Passionate",
+      "Laid-back",
+      "Scheming"
+    ],
+    "likes": [
+      "High school girls (pervert joke)",
+      "Romance novels",
+      "Tohru's cooking",
+      "Akito"
+    ],
+    "dislikes": [
+      "Deadlines",
+      "Being interrupted",
+      "Ren Sohma",
+      "The curse on his family"
+    ],
+    "fear": "Losing Akito or never having her",
+    "dream": "Break the curse to have Akito as his own",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Perceptive"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Shigure begins as a seemingly carefree pervert but reveals a deeply manipulative side driven by obsessive love for Akito. His journey involves orchestrating events to break the curse while pursuing his own desires, ultimately accepting the consequences of his schemes.",
+    "motivation": "Free Akito from the curse to have her love completely",
+    "affinity": "Black/Dogs",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Successfully published literary and romance novels",
+    "Part of the legendary Mabudachi Trio",
+    "Orchestrated events leading to curse breaking",
+    "Maintained relationships despite complex family dynamics"
+  ],
+  "titles": [
+    "The Dog of the Zodiac",
+    "Gure-san",
+    "Novelist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 50,
+    "speed": 55,
+    "durability": 55,
+    "power": 40,
+    "combat": 35,
+    "total": 327
+  },
+  "weaknesses": {
+    "list": [
+      "Involuntary transformation",
+      "Manipulative nature alienates others",
+      "Obsessive love blinds judgment"
+    ],
+    "factors": [
+      "His schemes can backfire",
+      "Cannot control zodiac transformation",
+      "Willing to hurt others for his goals"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ren Sohma (rival for Akito's affection)",
+    "allies": [
+      "Tohru Honda",
+      "Yuki Sohma",
+      "Kyo Sohma",
+      "Hatori Sohma",
+      "Ayame Sohma"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tohru Honda",
+        "relationship": "Housemate/friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Akito Sohma",
+        "relationship": "Obsessive love interest",
+        "trust_level": "One-sided devotion"
+      },
+      {
+        "name": "Hatori Sohma",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Ayame Sohma",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Ren Sohma",
+      "Old Sohma faction"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Ren Sohma",
+        "relationship": "Love rival for Akito",
+        "threat_level": "Personal"
+      }
+    ],
+    "love_interest": "Akito Sohma",
+    "best_friend": "Hatori Sohma / Ayame Sohma",
+    "rival": "Ren Sohma",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tohru Honda",
+      "Yuki Sohma",
+      "Kyo Sohma",
+      "Hatori Sohma",
+      "Ayame Sohma",
+      "Hatori Sohma / Ayame Sohma"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ren Sohma (rival for Akito's affection)",
+      "Ren Sohma"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Ren Sohma"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tohru Honda",
+      "Yuki Sohma",
+      "Kyo Sohma",
+      "Hatori Sohma",
+      "Ayame Sohma",
+      "Hatori Sohma / Ayame Sohma"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "The curse itself",
+      "result": "Victory (indirect)",
+      "method": "Manipulated events that led to the curse breaking"
+    }
+  ],
+  "quotes": [
+    "High-school girls, high-school girls, all for me, pretty high-school girls!",
+    "Sometimes I wonder if I actually love her, or if I'm just obsessed with the idea of her.",
+    "Aren't you scared? Being so close to someone who could change at any moment..."
+  ],
+  "voice_acting": {
+    "native_language": "Ryotaro Okiayu (Japanese)",
+    "note": "Both voice actors known for their work",
+    "native_name": null,
+    "english": "John Burgmeier",
+    "japanese": "Ryoutarou Okiayu"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Curse breaks; relationship with Akito develops",
+    "transformation": "N/A",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Zodiac member",
+      "Manipulative strategist",
+      "Freedom seeker"
+    ],
+    "role_in_story": "Tritagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "His house with Tohru, Yuki, Kyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Shigure transforms into the dog of the Chinese Zodiac whenever he is hugged by the opposite gender or his body comes under a great deal of stress. Shigure is one of the oldest members of the Sohma family.  He is laid-back and anything but solemn. He is somewhat of a pervert, and as a writer of both romance novels and academic books.  Occasionally, Shigure shows that he has another side to himself. He can be surprisingly mature, thoughtful, and gives rather sage and insightful advice to Tooru, Kyou, Yuki, and other characters, acting like an actual \"adult.\"\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

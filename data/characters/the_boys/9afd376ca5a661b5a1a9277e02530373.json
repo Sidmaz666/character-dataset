@@ -1,0 +1,332 @@
+{
+  "id": "9afd376ca5a661b5a1a9277e02530373",
+  "name": "A-Train",
+  "native_name": null,
+  "full_name": "Alfred Booker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Booker",
+    "height_cm": 183,
+    "weight_kg": 80,
+    "age": "30s",
+    "birthday": "March 15",
+    "zodiac": "Pisces",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 23.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Athletic build"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Harlem, New York",
+    "current_location": "New York City",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "The Seven Member",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Speed",
+      "native_name": null,
+      "description": "Move at Mach 1.08",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Friction damage"
+    }
+  ],
+  "signature_moves": [
+    "Sonic Boom Run"
+  ],
+  "ultimate_move": "Full Speed Rampage",
+  "trump_card": "Mach 1+ Impact",
+  "power_attributes": {
+    "power_type": "Super Speed",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Speed combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Running suit"
+    ],
+    "trump_card": "Mach 1+ Impact",
+    "ultimate_move": "Full Speed Rampage"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Entitled",
+      "Aggressive"
+    ],
+    "likes": [
+      "Status"
+    ],
+    "dislikes": [
+      "Being challenged"
+    ],
+    "fear": "Losing status",
+    "personality_type": "ESTP",
+    "dream": "Fame",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Speed"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Privileged supe",
+    "motivation": "Fame",
+    "affinity": "Speed",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Fastest supe alive",
+    "The Seven member"
+  ],
+  "titles": [
+    "A-Train",
+    "Fastest Man Alive"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted for murder"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 60,
+    "speed": 95,
+    "durability": 55,
+    "power": 70,
+    "combat": 60,
+    "total": 395
+  },
+  "weaknesses": {
+    "list": [
+      "Friction at high speeds"
+    ],
+    "factors": [
+      "arrogant",
+      "aggressive"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hughie Campbell",
+    "allies": [
+      "The Seven"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Hughie Campbell",
+      "Robin Ward"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Popclaw",
+    "best_friend": null,
+    "rival": "The Deep",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hughie Campbell",
+      "The Deep"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "The Deep"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Robin Ward",
+      "result": "Victory (accidental)",
+      "method": "Ran through her"
+    }
+  ],
+  "quotes": [
+    "I'm the fastest man alive."
+  ],
+  "voice_acting": {
+    "native_language": "Jesse T. Usher",
+    "english": "Jesse T. Usher",
+    "note": "TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues with The Seven",
+    "transformation": null,
+    "awakening_potential": "More Compound V",
+    "power_evolution": [],
+    "role_in_story": "Supporting Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Running"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "A-Train  is a series of business simulation video games developed and published by Japanese game developer Artdink in Japan. The first game in the series was published in 1985. The first release in the United States was Take the A-Train II, published in 1988 by the Seika Corporation under the title Railroad Empire. However, the most well known U.S. release is Take the A-Train III, published in 1992 by Maxis as simply A-Train. There is also the spin-off title C.E.O.",
+  "note": null,
+  "source": "the_boys"
+}

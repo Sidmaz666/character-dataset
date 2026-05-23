@@ -1,0 +1,314 @@
+{
+  "id": "a437dbb63b6f5a13b3dda5931e813ffa",
+  "name": "Robin VI",
+  "native_name": null,
+  "full_name": "Carrie Kelley",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Red",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": null,
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "-"
+    ],
+    "previous": [],
+    "relatives": [
+      "-"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "-",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "D",
+      "power_level": 17,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Neutral",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Considered one of the best-known tales of English folklore"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 8,
+    "speed": 25,
+    "durability": 20,
+    "power": 17,
+    "combat": 70,
+    "total": 190
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed",
+      "low durability",
+      "limited power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "-"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "-"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "-"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gotham City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Robin Hood is a legendary heroic outlaw originally depicted in English folklore and subsequently featured in literature, theatre, and cinema. According to legend, he was a highly skilled archer and swordsman. In some versions of the legend, he is depicted as being of noble birth, and in modern retellings he is sometimes depicted as having fought in the Crusades before returning to England to find his lands taken by the Sheriff of Nottingham. In the oldest known versions, he is instead a member of the yeoman class. He is traditionally depicted dressed in Lincoln green. Today, he is most closely associated with his stance of \"robbing the rich to give to the poor\".\nThrough retellings, additions, and variations, a body of familiar characters associated with Robin Hood has been created. These include his lover, Maid Marian; his band of outlaws, the Merry Men; and his chief opponent, the Sheriff of Nottingham. The Sheriff is often depicted as assisting Prince John in usurping the rightful but absent King Richard, to whom Robin Hood remains loyal. He became a popular folk figure in the Late Middle Ages, and his partisanship of the common people and opposition to the Sheriff are some of the earliest-recorded features of the legend, whereas his political interests and setting during the Angevin era developed in later centuries. The earliest known ballads featuring him are from the 15th century.\nThere have been numerous variations and adaptations of the story over the subsequent years, and the story continues to be widely represented in literature, film, and television media today. Robin Hood is considered one of the best-known tales of English folklore. In popular culture, the term \"Robin Hood\" is often used to describe a heroic outlaw or rebel against tyranny.\nThe origins of the legend as well as the historical context have been debated for centuries. There are numerous references to historical figures with similar names that have been proposed as possible evidence of his existence, some dating back to the late 13th century. At least eight plausible origins to the story have been mooted by historians and folklorists, including suggestions that \"Robin Hood\" was a stock alias used by or in reference to bandits.",
+  "note": null,
+  "source": "dc"
+}

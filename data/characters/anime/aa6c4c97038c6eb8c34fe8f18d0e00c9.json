@@ -1,0 +1,420 @@
+{
+  "id": "aa6c4c97038c6eb8c34fe8f18d0e00c9",
+  "name": "Ippo Makunouchi",
+  "native_name": "幕之内一歩",
+  "full_name": "Ippo Makunouchi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Makunouchi Family",
+    "height_cm": 165,
+    "weight_kg": 68,
+    "age": "16-17",
+    "birthday": "January 12",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 25,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Short brown hair",
+      "Athletic build",
+      "Boxing gloves",
+      "Determined eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo, Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Kamogawa Boxing Gym",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Professional Boxer",
+    "secondary": "Fisherman (family business)",
+    "rank_title": "Featherweight Champion",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kamogawa Boxing Gym",
+      "OPBF"
+    ],
+    "previous": [
+      "Fisherman"
+    ],
+    "relatives": [
+      "Mother (fisherman)",
+      "Father (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Hajime no Ippo Episode 1",
+    "manga": "Hajime no Ippo Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dempsey Roll",
+      "native_name": "デンプシーロール",
+      "description": "Continuous figure-eight punches with body rotation. Devastating power.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Smash",
+      "native_name": "スマッシュ",
+      "description": "Powerful straight punch that can break through guards.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Setup required"
+    },
+    {
+      "name": "Counter Punch",
+      "native_name": "カウンターパンチ",
+      "description": "Perfectly timed counter that exploits opponent's momentum.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Timing"
+    },
+    {
+      "name": "Infinite Guts",
+      "native_name": "無限のガッツ",
+      "description": "Unbreakable willpower. Can continue fighting despite severe damage.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Dempsey Roll",
+    "Smash",
+    "Counter Punch"
+  ],
+  "ultimate_move": "Dempsey Roll",
+  "trump_card": "Infinite Guts",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Training",
+    "combat_style": [
+      "Boxing",
+      "In-fighter"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Boxing gloves",
+      "Mouthguard"
+    ],
+    "trump_card": "Infinite Guts",
+    "ultimate_move": "Dempsey Roll"
+  },
+  "personality": {
+    "traits": [
+      "Humble",
+      "Determined",
+      "Kind",
+      "Hardworking",
+      "Loyal",
+      "Shy"
+    ],
+    "likes": [
+      "Boxing",
+      "Training",
+      "Friends",
+      "Mother",
+      "Simple life"
+    ],
+    "dislikes": [
+      "Arrogance",
+      "Bullying",
+      "Giving up"
+    ],
+    "fear": "Losing strength",
+    "dream": "Become the strongest",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Ippo is a shy fisherman who becomes a champion boxer. Starts as bullied weakling, grows into confident fighter. Learns strength isn't just about winning.",
+    "motivation": "Become stronger, protect loved ones",
+    "affinity": "Red/Perseverance",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "OPBF Featherweight Champion",
+    "Japanese Featherweight Champion",
+    "Defeated Date",
+    "Mastered Dempsey Roll"
+  ],
+  "titles": [
+    "Champion",
+    "The Fighter",
+    "Kamogawa's Ace"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Boxer"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 88,
+    "speed": 82,
+    "durability": 92,
+    "power": 90,
+    "combat": 95,
+    "total": 522
+  },
+  "weaknesses": {
+    "list": [
+      "Too humble",
+      "Brain trauma risk",
+      "Inexperience"
+    ],
+    "factors": [
+      "Head trauma",
+      "Stronger opponents"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Date Eiji",
+    "allies": [
+      "Miyata",
+      "Aoki",
+      "Kimura",
+      "Coach Kamogawa"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Miyata Ichiro",
+        "relationship": "Best friend/rival",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Sendo",
+      "Date (formerly)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kumi",
+    "best_friend": "Miyata",
+    "rival": "Miyata",
+    "mentor": "Coach Kamogawa",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Miyata",
+      "Aoki",
+      "Kimura",
+      "Coach Kamogawa"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Date Eiji",
+      "Miyata"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Miyata"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Miyata",
+      "Aoki",
+      "Kimura",
+      "Coach Kamogawa"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Coach Kamogawa"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Date Eiji",
+      "result": "Victory",
+      "method": "Dempsey Roll"
+    },
+    {
+      "opponent": "Sendo",
+      "result": "Victory",
+      "method": "Counter"
+    },
+    {
+      "opponent": "Miyata",
+      "result": "Loss (spar)",
+      "method": "Outmatched"
+    }
+  ],
+  "quotes": [
+    "I want to become stronger!",
+    "Guts! Guts! Guts!",
+    "I'll keep fighting!"
+  ],
+  "voice_acting": {
+    "native_language": "Mamoru Miyano (Japanese)",
+    "note": "Humble, determined",
+    "native_name": null,
+    "english": "Steve Staley",
+    "japanese": "Kouhei Kiyasu"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues boxing",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Weakling",
+      "Novice",
+      "Champion",
+      "Legend"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kamogawa Boxing Gym",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birth Date: November 23, 1973\nHomeland: Tokyo, Japan\nGender: Male\nFamily: Hiroko Makunouchi (Mother); Kazuo Makunouchi (Father); Wanpo (Pet)\nOccupation: Professional Boxer; Makunouchi Fishing Boat   \nWeight Class: Featherweight (Weight Limit 126 Pounds)\nHeight: 164 cm (5'5\")\nReach: 165 cm (65\")\nStyle: Infighter; Peek-A-Boo Style\nCurrent Affiliation: Kamogawa Boxing Gym\nTrainer: Genji Kamogawa\nSpecialty/Signature Blows: Liver Blow, Gazelle Punch; Dempsey Roll, \nThe Anti-Anti Dempsey Roll, The \"New Evolved\" Dempsey Roll (Dempsey Roll 2.0)\n\nIppo Makunouchi is the main protagonist of the series. He lives with his mother, Hiroko Makunouchi, and helps with the family charter boat fishing business. Ippo is a classic power in-boxer and is well known for his Peek-a-Boo style of boxing and hard punches which include three signature punches: a rib-cracking liver blow, Gazelle punch (an uppercut variant), and the Dempsey roll technique. His signature punches appear to be modelled after Mike Tyson, Floyd Patterson and Jack Dempsey respectively.\n\nIppo is bullied throughout most of his school life. After being rescued by Takamura, he ends up being brought to Kamogawa Gym, where he displays an explosive punching power. After seeing a video of Mike Tyson, he becomes inspired to take up boxing to feel reborn with strength. He soon proves himself to Takamura and Kamogawa, and starts on the path to being a pro boxer.\n\nHis Pro-Debut Match was against Oda Yusuke, He was largely regarded as a lazy and unmotivated boxer, but when his girlfriend threatened to break up with him, he committed himself to training. From the first time the boxers met, there was tension between them, as a misunderstanding led Oda to believe Ippo made fun of him. On the actual fight, Ippo seemed to have the advantage from the beginning of the match, but was saved by his coach from losing the fight due to a cut. Ippo managed a comeback by knocking Oda out with a series of jabs, thus winning the fight.",
+  "note": null,
+  "source": "anime"
+}

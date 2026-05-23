@@ -1,0 +1,399 @@
+{
+  "id": "9e3a9116c6c1718facc0d8a4c4e109be",
+  "name": "Hayakawa, Aki",
+  "native_name": "早川アキ",
+  "full_name": "Aki Hayakawa",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Hayakawa",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "20-21",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Topknot",
+      "Serious expression",
+      "Devil contracts"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Public Safety HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Devil Hunter",
+    "secondary": "Public Safety Official",
+    "rank_title": "Senior Devil Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety Devil Hunters"
+    ],
+    "previous": [],
+    "relatives": [
+      "Parents (deceased)",
+      "Brother (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Chainsaw Man Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Fox Devil Contract",
+      "native_name": "狐の悪魔契約",
+      "description": "Summons Fox Devil to attack",
+      "type": "Contract",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Contract terms"
+    },
+    {
+      "name": "Curse Devil Contract",
+      "native_name": "呪いの悪魔契約",
+      "description": "Uses curse doll to attack enemies",
+      "type": "Contract",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Life force cost"
+    },
+    {
+      "name": "Swordsmanship",
+      "native_name": "剣術",
+      "description": "Skilled sword fighter",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "Close range"
+    }
+  ],
+  "signature_moves": [
+    "Fox Devil Summon",
+    "Curse Doll",
+    "Katana Slash"
+  ],
+  "ultimate_move": "Katana Man Transformation",
+  "trump_card": "Future Devil",
+  "power_attributes": {
+    "power_type": "Devil Contracts",
+    "power_source": "Various Devils",
+    "combat_style": [
+      "Contracts",
+      "Swordsmanship"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "Katana",
+      "Public Safety uniform"
+    ],
+    "trump_card": "Future Devil",
+    "ultimate_move": "Katana Man Transformation"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Determined",
+      "Caring",
+      "Vengeful",
+      "Protective"
+    ],
+    "likes": [
+      "Denji",
+      "Power",
+      "Justice"
+    ],
+    "dislikes": [
+      "Devils",
+      "Gun Devil"
+    ],
+    "fear": "Losing more family",
+    "dream": "Kill Gun Devil",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective"
+    ],
+    "weaknesses": [
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "From vengeance to family",
+    "motivation": "Kill Gun Devil",
+    "affinity": "Fox",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Senior Devil Hunter",
+    "Multiple devil kills",
+    "Mentored Denji"
+  ],
+  "titles": [
+    "Senior Devil Hunter",
+    "Public Safety Official"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 78,
+    "durability": 75,
+    "power": 85,
+    "combat": 82,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessed with Gun Devil",
+      "Life contracts",
+      "Emotional"
+    ],
+    "factors": [
+      "Contract costs",
+      "Vengeance"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gun Devil",
+    "allies": [
+      "Denji",
+      "Power",
+      "Himeno"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Denji",
+        "relationship": "Junior/Protégé",
+        "trust_level": "High"
+      },
+      {
+        "name": "Power",
+        "relationship": "Reluctant partner",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Gun Devil",
+      "Katana Man"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gun Devil",
+        "relationship": "Nemesis",
+        "threat_level": "Very High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Himeno",
+    "rival": null,
+    "mentor": null,
+    "student": "Denji",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji",
+      "Power",
+      "Himeno"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gun Devil"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Denji"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji",
+      "Power",
+      "Himeno"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Katana Man",
+      "result": "Victory",
+      "method": "Contracts"
+    },
+    {
+      "opponent": "Gun Devil",
+      "result": "Defeat",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I'll kill the Gun Devil.",
+    "You're both idiots."
+  ],
+  "voice_acting": {
+    "native_language": "Takahiro Sakurai",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Reagan Murdock",
+    "japanese": "Shougo Sakata"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Makima as Puppet Devil",
+    "transformation": "Katana Man (brief)",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Hunter",
+      "Contract User",
+      "Puppet"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Aki Hayakawa is a Public Safety Devil Hunter, working under Makima's special squad.",
+  "note": null,
+  "source": "anime"
+}

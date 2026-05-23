@@ -1,0 +1,381 @@
+{
+  "id": "8fd461208e5b71cb4d01597035cac960",
+  "name": "Venom",
+  "native_name": "",
+  "full_name": "Eddie Brock (Venom Symbiote)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Symbiote",
+    "race": "Klyntar",
+    "bloodline": "Symbiote Clan",
+    "height_cm": 190,
+    "weight_kg": 180,
+    "age": "35",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 49.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White",
+    "hair_color": "Black",
+    "skin_color": "Black",
+    "notable_features": [
+      "Large muscular form",
+      "White spider emblem",
+      "Venomous teeth"
+    ],
+    "skin": "Black",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Battleworld (Symbiote)",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Journalist",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Sinister Six",
+      "Thunderbolts"
+    ],
+    "relatives": [
+      "Spider-Man (former host)",
+      "Carnage (offspring)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #300 (1988)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Lifts up to 70 tons, stronger than Spider-Man",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Shapeshifting",
+      "native_name": null,
+      "description": "Symbiote changes shape, forms weapons and tendrils",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Adheres to any surface",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Web-Slinging",
+      "native_name": null,
+      "description": "Generates organic webbing",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Symbiote Regeneration",
+      "native_name": null,
+      "description": "Rapid healing factor",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Vulnerable to sound/fire"
+    }
+  ],
+  "signature_moves": [
+    "Symbiote Strike",
+    "Tendril Grab",
+    "Venom Bite"
+  ],
+  "ultimate_move": "Symbiote Rampage",
+  "trump_card": "Bonding with host",
+  "power_attributes": {
+    "power_type": "Symbiote Physiology",
+    "power_source": "Alien symbiote",
+    "combat_style": [
+      "Brute force",
+      "Shapeshifting"
+    ],
+    "weapon": "Symbiote tendrils",
+    "equipment": [
+      "Shapeshifting"
+    ],
+    "trump_card": "Bonding with host",
+    "ultimate_move": "Symbiote Rampage"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Protective",
+      "Vengeful",
+      "Anti-hero",
+      "Unstable"
+    ],
+    "likes": [
+      "Protecting innocents",
+      "Revenge"
+    ],
+    "dislikes": [
+      "Spider-Man",
+      "Loud noises",
+      "Fire"
+    ],
+    "fear": "Separation from host",
+    "dream": "Prove he is superior",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "From Spider-Man's discarded symbiote bonded with Eddie Brock to deadly foe, later evolving into anti-hero",
+    "motivation": "Hatred of Spider-Man and desire to protect",
+    "affinity": "Rage/Protection",
+    "alignment": "Neutral Evil -> Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Spider-Man multiple times",
+    "Became an anti-hero"
+  ],
+  "titles": [
+    "The Lethal Protector"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 85,
+    "speed": 70,
+    "durability": 85,
+    "power": 80,
+    "combat": 75,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Sonic waves",
+      "Extreme heat/fire",
+      "Can be separated"
+    ],
+    "factors": "Symbiote weaknesses"
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man",
+      "Carnage"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Anne Weying (ex-wife)",
+    "best_friend": null,
+    "rival": "Carnage",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Spider-Man",
+      "Carnage"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Carnage"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spider-Man",
+      "result": "Victories",
+      "method": "Superior strength"
+    },
+    {
+      "opponent": "Carnage",
+      "result": "Victory",
+      "method": "Team-up with Spider-Man"
+    }
+  ],
+  "quotes": [
+    "We are Venom!"
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as anti-hero",
+    "transformation": "Villain to anti-hero",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Venom or zootoxin is a type of toxin produced by an animal that is actively delivered to other animals through a wound by means of a bite, sting or similar penetrative action, usually via a specially evolved venom apparatus, such as fangs or a stinger, in a process called envenomation. Venoms are often distinguished from poisons, which is passively delivered by being ingested, inhaled, or absorbed through the skin; and toxungen, which is actively transferred to the external surface of another animal via a physical delivery mechanism.",
+  "note": null,
+  "source": "marvel"
+}

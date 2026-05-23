@@ -1,0 +1,385 @@
+{
+  "name": "Jane Foster",
+  "native_name": null,
+  "full_name": "Jane Foster",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Foster",
+    "height_cm": 170,
+    "weight_kg": 58,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown (bald during cancer treatment)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Mjolnir wielder",
+      "Thor armor",
+      "Strong but frail appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "Asgard / Earth",
+    "base_of_operations": "Asgard",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Physician",
+    "secondary": "Goddess of Thunder",
+    "rank_title": "Thor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Asgard"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Journey into Mystery #84 (1962, as Jane Foster); Thor Vol.4 #1 (2014, as Thor)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mjolnir Mastery",
+      "type": "Mythical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Thor Physiology (via Mjolnir)",
+      "type": "Mythical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self"
+    },
+    {
+      "name": "Weather Control",
+      "type": "Elemental",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Planetary"
+    },
+    {
+      "name": "Medical Expertise",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self"
+    },
+    {
+      "name": "Combat Prowess",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee"
+    }
+  ],
+  "signature_moves": [
+    "Mjolnir Cyclone",
+    "Thunder Strike",
+    "Hammer Smash",
+    "Lightning Storm"
+  ],
+  "ultimate_move": "All-Mother's Judgment",
+  "trump_card": "Worthy Wielder of Mjolnir",
+  "power_attributes": {
+    "power_type": "Thor Power (via Mjolnir)",
+    "power_source": "Mjolnir Enchantment + Worthiness",
+    "combat_style": [
+      "Hammer combat",
+      "Lightning strikes",
+      "Aerial"
+    ],
+    "weapon": "Mjolnir",
+    "equipment": [
+      "Thor Armor",
+      "Helmet"
+    ],
+    "trump_card": "Worthy Wielder of Mjolnir",
+    "ultimate_move": "All-Mother's Judgment"
+  },
+  "personality": {
+    "traits": [
+      "Courageous",
+      "Selfless",
+      "Determined",
+      "Compassionate",
+      "Worthy"
+    ],
+    "likes": [
+      "Healing",
+      "Helping others",
+      "Thunder"
+    ],
+    "dislikes": [
+      "Cancer",
+      "Injustice",
+      "Feeling powerless"
+    ],
+    "fear": "Dying before she can make a difference",
+    "dream": "Find a cure for cancer and protect the realms",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Courageous",
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A nurse who became Thor's love interest, then years later proved herself worthy of Mjolnir while battling breast cancer. As the Goddess of Thunder, she fought cancer with every chemotherapy treatment, each transformation to Thor purging all toxins including her chemo, making her cancer worse. She chose to fight as Thor anyway, saving the realms while slowly dying.",
+    "motivation": "Protect the innocent and fight despite impossible odds",
+    "affinity": "Thunder/Healing",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became the Mighty Thor",
+    "Saved Asgard multiple times",
+    "Fought cancer while being a superhero",
+    "Earned Odin's respect"
+  ],
+  "titles": [
+    "The Mighty Thor",
+    "Jane Foster",
+    "Goddess of Thunder",
+    "Dr. Jane Foster"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 92,
+    "speed": 85,
+    "durability": 88,
+    "power": 92,
+    "combat": 85,
+    "total": 527
+  },
+  "weaknesses": {
+    "list": [
+      "Cancer inside mortal form",
+      "Mjolnir dependency",
+      "Mortal without hammer"
+    ],
+    "factors": [
+      "Chemotherapy negated by transformation",
+      "Without Mjolnir she is a normal human",
+      "Cancer progresses faster when she transforms"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mangog",
+    "allies": [
+      "Thor Odinson",
+      "Asgard",
+      "Avengers"
+    ],
+    "enemies": [
+      "Mangog",
+      "Malekith",
+      "Dario Agger"
+    ],
+    "love_interest": "Thor Odinson",
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Thor Odinson",
+      "Asgard",
+      "Avengers"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mangog"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Thor Odinson",
+      "Asgard",
+      "Avengers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mangog",
+      "result": "Victory",
+      "method": "Sacrificed Mjolnir to destroy Mangog and save Asgard"
+    }
+  ],
+  "quotes": [
+    "Whosoever holds this hammer, if she be worthy, shall possess the power of Thor. I am worthy."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Survived cancer, now Valkyrie",
+    "transformation": "Thor by Mjolnir",
+    "awakening": null,
+    "power_evolution": [
+      "Jane Foster",
+      "Nurse",
+      "The Mighty Thor",
+      "Valkyrie"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight (via Mjolnir)"
+    ],
+    "vehicles": [],
+    "headquarters": "Asgard",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "acaba3f46d340b114d9a30b60c090c44",
+  "publisher": "marvel",
+  "about": "Jane Foster is a superhero appearing in American comic books published by Marvel Comics. Created by writers Stan Lee, Larry Lieber, and artist Jack Kirby, the character first appeared in Journey into Mystery #84. Jane Foster was introduced as a love interest of the superhero Thor Odinson until becoming a superhero in her own right.",
+  "note": null,
+  "source": "marvel"
+}

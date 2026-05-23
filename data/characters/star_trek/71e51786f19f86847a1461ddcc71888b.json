@@ -1,0 +1,409 @@
+{
+  "id": "71e51786f19f86847a1461ddcc71888b",
+  "name": "Neelix",
+  "native_name": null,
+  "full_name": "Neelix",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Talaxian",
+    "race": "Talaxian",
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 70,
+    "age": "45 when on Voyager",
+    "birthday": "2342",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "None (bald head with bald patch)",
+    "skin_color": "Tan/Pinkish",
+    "notable_features": [
+      "Nose extension",
+      "Smiling face",
+      "Cook appearance"
+    ],
+    "skin": "Tan/Pinkish",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Talax",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Morale Officer",
+    "secondary": "Chef, Scout",
+    "rank_title": "Crewman",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "USS Voyager Crew"
+    ],
+    "previous": [
+      "Talaxian Resistance"
+    ],
+    "relatives": [
+      "Mara (wife, deceased)",
+      "Azan (son)",
+      "Jaro (father-in-law)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cooking",
+      "native_name": null,
+      "description": "Self-appointed chef, learned to cook human food",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Short",
+      "limit": "Limited ingredients"
+    },
+    {
+      "name": "Scouting",
+      "native_name": null,
+      "description": "Excellent knowledge of Delta Quadrant species and trade routes",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Limited to Delta Quadrant"
+    },
+    {
+      "name": "Morale Boosting",
+      "native_name": null,
+      "description": "Keeps crew spirits up with food and entertainment",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Not everyone appreciated it"
+    }
+  ],
+  "signature_moves": [
+    "Cooking for the Crew",
+    "Scouting Missions",
+    "Talaxian Folk Tales"
+  ],
+  "ultimate_move": "Protecting Voyager Crew",
+  "trump_card": "Talaxian Resilience",
+  "power_attributes": {
+    "power_type": "Support",
+    "power_source": "Talaxian Heritage",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser (occasionally)",
+    "equipment": [
+      "Cooking Utensils",
+      "Scout Tools"
+    ],
+    "trump_card": "Talaxian Resilience",
+    "ultimate_move": "Protecting Voyager Crew"
+  },
+  "personality": {
+    "traits": [
+      "Cheerful",
+      "Helpful",
+      "Protective",
+      "Overbearing",
+      "Occasionally Naive"
+    ],
+    "likes": [
+      "Cooking",
+      "Helping Others",
+      "Kes",
+      "Voyager Crew"
+    ],
+    "dislikes": [
+      "Loneliness",
+      "His Past",
+      "Losing Crew"
+    ],
+    "fear": "Being Alone Again",
+    "dream": "Finding a Home",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "From opportunistic trader to valued crew member who sacrificed everything for others",
+    "motivation": "Finding belonging and helping others",
+    "affinity": "Morale",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Kept crew morale up for years",
+    "Served as scout and guide",
+    "Saved Voyager with knowledge",
+    "Learned to cook human food",
+    "Sacrificed his lungs to save Kes"
+  ],
+  "titles": [
+    "Chef",
+    "Morale Officer",
+    "The Talaxian"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 60,
+    "speed": 65,
+    "durability": 65,
+    "power": 55,
+    "combat": 55,
+    "total": 372
+  },
+  "weaknesses": {
+    "list": [
+      "Naivety",
+      "Overprotectiveness",
+      "Limited Combat Skills"
+    ],
+    "factors": [
+      "Lost his lungs",
+      "Sometimes too cheerful"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Duras (no actual connection)",
+    "allies": [
+      "Kathryn Janeway",
+      "Kes",
+      "Tuvok",
+      "Seven of Nine"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kes",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kathryn Janeway",
+        "relationship": "Captain and friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various Delta Quadrant threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kes",
+    "best_friend": "Tuvok (lighthearted rivalry)",
+    "rival": "Tuvok (lighthearted)",
+    "mentor": "Kathryn Janeway",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kathryn Janeway",
+      "Kes",
+      "Tuvok",
+      "Seven of Nine",
+      "Tuvok (lighthearted rivalry)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Duras (no actual connection)",
+      "Tuvok (lighthearted)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Tuvok"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kathryn Janeway",
+      "Kes",
+      "Tuvok",
+      "Seven of Nine"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kathryn Janeway"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Survived",
+      "method": "Scouting and knowledge"
+    }
+  ],
+  "quotes": [
+    "I used to be a trader, then a refugee, and now... I'm family.",
+    "I want to be useful to this crew.",
+    "Everyone needs a purpose."
+  ],
+  "voice_acting": {
+    "native_language": "Ethan Hawke (season 1), Josh Peck (later)",
+    "english": "Ethan Hawke / Josh Peck",
+    "note": "Voice changed after season 1",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Left Voyager to become guide for other ships",
+    "transformation": "Found family and purpose",
+    "awakening_potential": "Became respected crew member",
+    "power_evolution": [
+      "Trader",
+      "Refugee",
+      "Morale Officer",
+      "Scout"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Voyager Mess Hall",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Neelix is a character in the science fiction television series Star Trek: Voyager, played by actor Ethan Phillips since the series' inception. Neelix is an alien native to the far side of the galaxy, who joins the crew of the United Federation of Planets starship USS Voyager after it is captured and flung to the Delta Quadrant by a mysterious shockwave. He serves as a cook, morale officer, and eventual ambassador for the crew.",
+  "note": null,
+  "source": "star_trek"
+}

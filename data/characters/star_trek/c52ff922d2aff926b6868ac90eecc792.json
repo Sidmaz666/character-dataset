@@ -1,0 +1,419 @@
+{
+  "id": "c52ff922d2aff926b6868ac90eecc792",
+  "name": "Odo",
+  "native_name": null,
+  "full_name": "Odo (Unknown designation)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Changeling",
+    "race": "Foundling (Changeling)",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 75,
+    "age": "Unknown (appeared mid-40s)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (in humanoid form)",
+    "hair_color": "None (in natural form)",
+    "skin_color": "Gray/Gelatinous (in humanoid form)",
+    "notable_features": [
+      "Shapeshifting ability",
+      "Boulder-shaped natural form",
+      "Distinctive voice"
+    ],
+    "skin": "Gray/Gelatinous (in humanoid form)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Found in Gamma Quadrant, raised on Earth",
+    "current_location": "Liquidated (returned to Founders) / DS9",
+    "base_of_operations": "Deep Space 9",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Security Chief",
+    "secondary": "Constable",
+    "rank_title": "Security Chief (de facto)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Bajoran Militia"
+    ],
+    "previous": [
+      "The Founders (reluctantly)"
+    ],
+    "relatives": [
+      "The Founders (adoptive species)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1993) - \"Emissary\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shapeshifting",
+      "native_name": null,
+      "description": "Can assume any form, transform any part of body",
+      "type": "Offensive/Defensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Long",
+      "limit": "Requires concentration, difficult in direct sunlight"
+    },
+    {
+      "name": "Liquid Form",
+      "native_name": null,
+      "description": "Can become liquid, flow through small spaces",
+      "type": "Defensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short",
+      "limit": "Requires physical contact with liquid"
+    },
+    {
+      "name": "Security Detection",
+      "native_name": null,
+      "description": "Can detect lies and criminals instinctively",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Limited by shapeshifting focus"
+    }
+  ],
+  "signature_moves": [
+    "Shapeshifting Interrogation",
+    "Liquid Escape",
+    "Taking Criminal Forms"
+  ],
+  "ultimate_move": "Becoming Any Form to Solve Problems",
+  "trump_card": "Complete Shapeshifting Mastery",
+  "power_attributes": {
+    "power_type": "Shapeshifting",
+    "power_source": "Changeling Biology",
+    "combat_style": [
+      "Shapeshifting Combat",
+      "Security Tactics"
+    ],
+    "weapon": "None (becomes weapons)",
+    "equipment": [
+      "Security Badge"
+    ],
+    "trump_card": "Complete Shapeshifting Mastery",
+    "ultimate_move": "Becoming Any Form to Solve Problems"
+  },
+  "personality": {
+    "traits": [
+      "Grumpy",
+      "Lonely",
+      "Honest",
+      "Justice-Seeking",
+      "Secretly Caring"
+    ],
+    "likes": [
+      "Order",
+      "Rules",
+      "Kira Nerys (love)",
+      "Shapeshifting"
+    ],
+    "dislikes": [
+      "Criminals",
+      "Chaos",
+      "Being Called a Sludge"
+    ],
+    "fear": "Returning to Liquid State Permanently",
+    "dream": "Finding His People",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Shapeshifting",
+      "Liquid Form",
+      "Security Detection"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From lonely shapeshifter to respected security chief who found purpose and love on DS9",
+    "motivation": "Maintaining order and finding acceptance",
+    "affinity": "Security",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Maintained DS9 security for years",
+    "Became recognized citizen",
+    "Found love with Kira",
+    "Served as Great Link intermediary",
+    "Saved the Founders from Section 31"
+  ],
+  "titles": [
+    "Constable",
+    "Security Chief",
+    "The Changeling"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 90,
+    "speed": 85,
+    "durability": 100,
+    "power": 95,
+    "combat": 80,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [
+      "Sunlight Weakness",
+      "Concentration Required",
+      "Fear of Permanent Liquid"
+    ],
+    "factors": [
+      "Strong emotions disrupt forms",
+      "Lack of samples affected him"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Section 31",
+    "allies": [
+      "Benjamin Sisko",
+      "Kira Nerys",
+      "Quark",
+      "Odo's People"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kira Nerys",
+        "relationship": "Love interest, closest friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Quark",
+        "relationship": "Grudging respect",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Section 31",
+      "Criminals"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Section 31",
+        "relationship": "Threatened his people",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Kira Nerys",
+    "best_friend": "Kira Nerys / Benjamin Sisko",
+    "rival": "Quark (lighthearted)",
+    "mentor": "Various",
+    "student": "Various security personnel",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Benjamin Sisko",
+      "Kira Nerys",
+      "Quark",
+      "Odo's People",
+      "Kira Nerys / Benjamin Sisko"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Section 31",
+      "Quark (lighthearted)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Quark"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various security personnel"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Benjamin Sisko",
+      "Kira Nerys",
+      "Quark",
+      "Odo's People",
+      "Kira Nerys / Benjamin Sisko"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Section 31",
+      "result": "Victory",
+      "method": "Saved his people"
+    },
+    {
+      "opponent": "Various Criminals",
+      "result": "Victory",
+      "method": "Security expertise"
+    }
+  ],
+  "quotes": [
+    "I am pleased to see you, Doctor Bashir.",
+    "I am simply doing my job.",
+    "I... was alone. I was always alone."
+  ],
+  "voice_acting": {
+    "native_language": "Armin Shimerman",
+    "english": "Armin Shimerman",
+    "note": "Voice only for most of series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (reverted to liquid form with Founders)",
+    "fate": "Returned to Great Link to heal his people",
+    "transformation": "Gained human-like emotions and connections",
+    "awakening_potential": "Found his people and purpose",
+    "power_evolution": [
+      "Security Chief",
+      "Citizen",
+      "Founder Ambassador"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "None (shapeshifts)"
+    ],
+    "vehicles": [
+      "None"
+    ],
+    "headquarters": "DS9 Security Office",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Odo, played by René Auberjonois, is a fictional character in the science fiction television series Star Trek: Deep Space Nine. He is a member of a shape-shifting species called Changelings and serves as the head of security for the space station Deep Space Nine on which the show is set. Intelligent, observant, and taciturn, Odo uses his unique abilities throughout the show to maintain security on the DS9 station and later aids the Bajoran people and the Federation throughout the Dominion War against his own people, the Founders.",
+  "note": null,
+  "source": "star_trek"
+}

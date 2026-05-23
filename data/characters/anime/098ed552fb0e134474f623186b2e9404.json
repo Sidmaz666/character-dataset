@@ -1,0 +1,404 @@
+{
+  "id": "098ed552fb0e134474f623186b2e9404",
+  "name": "Lin Ling",
+  "native_name": "林凌",
+  "full_name": "Lin Ling",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "21",
+    "birthday": "May 22",
+    "zodiac": "Gemini",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": "Chinese nationality law"
+  },
+  "appearance": {
+    "eye_color": "Brown (Blue briefly as Nice)",
+    "hair_color": "Brown with white streak",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Hero persona (Nice)",
+      "White streak after transformation"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Hero world",
+    "current_location": "Hero world",
+    "base_of_operations": "Hero society",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hero (Nice)",
+    "secondary": "Hero ranked #10",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero society"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "To Be Hero X Episode 1",
+    "manga": "To Be Hero X Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Trust Power",
+      "native_name": "信用力",
+      "description": "Superhuman strength from people's trust - based on Trust Value system",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Requires people's trust"
+    },
+    {
+      "name": "Flight",
+      "native_name": "飛行",
+      "description": "Can fly at superhuman speed",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Reflexes",
+      "native_name": "超人的反射",
+      "description": "Superhuman reflexes from Trust Values",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Physicality",
+      "native_name": "超人的身体",
+      "description": "Superhuman strength and durability",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Ballet Combat",
+      "native_name": "バレリコfight",
+      "description": "Uses ballet in combat - unique fighting style",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Martial Arts",
+      "native_name": "武術",
+      "description": "Trained fighter skills",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Flight",
+    "Enhanced punches",
+    "Ballet kicks"
+  ],
+  "ultimate_move": "Full power from trust",
+  "trump_card": "Fighting under own name without persona",
+  "power_attributes": {
+    "power_type": "Trust-based power",
+    "power_source": "People's trust/faith",
+    "combat_style": [
+      "Hero combat",
+      "Ballet fighting"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Hero costume"
+    ],
+    "trump_card": "Fighting under own name without persona",
+    "ultimate_move": "Full power from trust"
+  },
+  "personality": {
+    "traits": [
+      "Believer in heroes",
+      "Hardworking",
+      "Determined",
+      "Idealistic",
+      "Brave"
+    ],
+    "likes": [
+      "Heroes",
+      "Protecting people",
+      "Being Nice"
+    ],
+    "dislikes": [
+      "Abusing power",
+      "Corruption"
+    ],
+    "fear": "Not being a true hero",
+    "dream": "Become true hero",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Ordinary man who becomes hero (Nice) and finds his own path",
+    "motivation": "Help people, prove heroes are real",
+    "affinity": "Trust",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "World's #10 hero",
+    "Fought God Eye under real name",
+    "Proved hero ideals"
+  ],
+  "titles": [
+    "Nice (former)",
+    "Hero #10",
+    "True hero"
+  ],
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 80,
+    "speed": 75,
+    "durability": 70,
+    "power": 75,
+    "combat": 70,
+    "total": 440
+  },
+  "weaknesses": {
+    "list": [
+      "Power depends on trust",
+      "Lost powers when rejecting persona"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "God Eye (Wreck)",
+    "allies": [
+      "Moon",
+      "Other heroes"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Moon",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      },
+      {
+        "name": "Original Nice",
+        "relationship": "Predecessor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "God Eye",
+      "Wreck"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Moon",
+      "Other heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "God Eye (Wreck)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Moon",
+      "Other heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "God Eye",
+      "result": "Victory",
+      "method": "Fighting under real name"
+    }
+  ],
+  "quotes": [
+    "I want to be a true hero!",
+    "Heroes are real!"
+  ],
+  "voice_acting": {
+    "native_language": "Hanae (Japanese)",
+    "english": "Unknown",
+    "note": "Hanae Natsuki (Japanese)",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": "Became Nice, then rejected persona",
+    "awakening_potential": "Can be strong without persona",
+    "power_evolution": [
+      "Ordinary man",
+      "Nice hero",
+      "True hero"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hero society HQ",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Gwendoline See-Hian Yeo (Chinese: 杨时贤; pinyin: Yáng Shíxián; born 10 July 1977) is an actress based in the United States. Born in Singapore, she moved to California in 1988 and began acting in sitcoms such as Grounded for Life and The Random Years. Yeo is known for her roles as Dr. Kelly Lee on General Hospital, Xiao-Mei on Desperate Housewives, and Sun Fu in Broken Trail. She is also known for voicing different roles in voiceover projects.",
+  "note": null,
+  "source": "anime"
+}

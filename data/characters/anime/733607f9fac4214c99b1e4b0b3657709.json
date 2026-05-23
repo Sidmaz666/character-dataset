@@ -1,0 +1,312 @@
+{
+  "id": "733607f9fac4214c99b1e4b0b3657709",
+  "name": "Dimple",
+  "native_name": "",
+  "full_name": "Dimple",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Seasoning City",
+    "current_location": "Seasoning City",
+    "base_of_operations": "Spirits & Such",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mob Psycho 100",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Mob Psycho 100",
+    "manga": "Mob Psycho 100",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Psychic Powers",
+      "type": "Psychic",
+      "description": "Powerful esper abilities",
+      "power_level": "High"
+    },
+    {
+      "name": "Barrier",
+      "type": "Defensive",
+      "description": "Can create psychic barriers",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Telekinetic Combat",
+      "type": "Psychic",
+      "description": "Uses telekinesis in combat",
+      "power_level": "High"
+    }
+  ],
+  "signature_moves": [
+    "Psychic Powers",
+    "Barrier",
+    "Telekinetic Combat"
+  ],
+  "ultimate_move": "Psychic Powers",
+  "trump_card": "Barrier",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Psychic",
+    "combat_style": [
+      "Psychic combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Psychic focus"
+    ],
+    "trump_card": "Barrier",
+    "ultimate_move": "Psychic Powers"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Humble",
+      "Reserved",
+      "Compassionate",
+      "Brave"
+    ],
+    "likes": [
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Unnecessary noise"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Mob Psycho 100 character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Considered one of the best anime series of the 2010s",
+    "Won the 62nd Shogakukan Manga Award in the shōnen category"
+  ],
+  "titles": [
+    "Mob Psycho 100"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 55,
+    "speed": 55,
+    "durability": 55,
+    "power": 55,
+    "combat": 55,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Mob Psycho 100 (Japanese: モブサイコ100, Hepburn: Mobu Saiko Hyaku) is a Japanese web manga series written and illustrated by One. It was serialized on Shogakukan's Ura Sunday website from April 2012 to December 2017. It has been also available online on Shogakukan's mobile app MangaONE since December 2014. Shogakukan compiled its chapters in 16 tankōbon volumes. The story follows Shigeo Kageyama, nicknamed Mob, a boy with strong psychic powers who struggles to control his emotions and be understood by others.\nAn anime television series adaptation was produced by Bones. The first season aired between July and September 2016, followed by a second season from January to April 2019, and a third and final season from October to December 2022. A live-action series adaptation aired from January to April 2018. A spin-off manga series, titled Reigen, was serialized in Shogakukan MangaONE app in 2018.\nIn North America, Dark Horse Comics licensed the manga for English publication in 2018. Meanwhile, Crunchyroll licensed the anime series for streaming, with an English dub produced by Bang Zoom! Entertainment in December 2016, and broadcast the first season on Adult Swim's Toonami programming block from October 2018 to February 2019.\nBy December 2022, the manga had over 2.8 million copies in circulation. In 2017, Mob Psycho 100 won the 62nd Shogakukan Manga Award in the shōnen category. The anime adaptation has been considered one of the best anime series of the 2010s.",
+  "note": null,
+  "source": "anime"
+}

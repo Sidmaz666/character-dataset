@@ -1,0 +1,317 @@
+{
+  "id": "7d01877f5ae9b2849d7796984ddffa7a",
+  "name": "Kofune Mio",
+  "native_name": "",
+  "full_name": "Kofune Mio",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "Unknown",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "gray",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "ing her and"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Being in the spotlight and gets embarrassed easily",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weakness"
+    ]
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Saho Shirasu (Japanese)",
+    "Voiced by Merk Nguyen (English)"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Merk Nguyen",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Saho Shirasu"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16-18\nBirthday: January 15th, 1992\nHeight: 160 cm\nWeight: 54 kg\nBlood type: A\nSign: Capricorn\nFavorite Music: jazz, moody instrumental music\n\nExperience with playing musical instruments: Started playing bass in middle school after Ritsu suggested it to her. 3 years of experience.\nFamily structure: Family of three, both parents. Typical household of an office worker.\nDwelling: Single family detached home.\nCommute to school: Walking.\nPreferences in clothing: Pants over skirts. In summertime she likes to wear sleeveless clothes, such as tank tops.\nHer room: Clean and tidy. Chic room with simple door. Actually Mio wants to decorate her room with cute things, but she does not have any because she is self-conscious about them not suiting her and because she does not want to be teased when Ritsu comes over.\nFavourite food: Gateau au Chocolat (rich layered chocolate cake).\nSubjects she is good at: All subjects. She is always in the top 10 among all students of her grade.\nSubjects she is bad at: No subject in particular.\nPhysical activity: Good at sports.\nWay to pass the time when alone: Studying.\nWeaknesses and dislikes: Scary stories. Stories about pain.\n\nMio is a shy girl who is in the light music club. She plays a left-handed, 3-Color Sunburst Fender Jazz Bass with a tortoiseshell pickguard, though is shown playing a Fender Precision Bass in the first manga volume. She uses D'Addario EXL160M medium bass strings. Her bass is given the name Elizabeth later in the anime. While she originally intended to join the literary club, she was forced into the light music club by her childhood friend and the club's president/drummer, Ritsu. She gets excellent grades in school and is often mature and strict especially where Ritsu is involved; her weakness is the macabre and horrific, and she is often incapacitated with fear when stories involving ghosts, blood, injuries, haunted houses, barnacles or other disturbing topics come up. She also has a fear of being in the spotlight and gets embarrassed easily, and is often subject to teasing from Ritsu and Sawako, their club adviser and eventual third-year homeroom teacher. Mio has long, straight black hair and gray eyes (that are angled slightly more than the other characters). She cites that she chose bass since it is not the center of attention in the band, unlike the guitarist. Mio is more technical when it comes to music, and Yui often comes to her when she is in need of more guitar tutorials.\n\nAlong with Yui, Mio is one of the band's main vocalists, though given her dislike of being center stage, she tries to avoid taking the lead vocal if possible, generally singing if Yui is unable to. She writes most of the songs, although they usually feature some odd and overly girlish lyrics like \"Light and Fluffy Time.\" As she is left-handed, she becomes entranced whenever she sees left-handed instruments, because of their rarity. After their first live performance, the attractive Mio gained a huge fan following (in no small part due to an unfortunate accident that occurred at the end of the show), led by an infatuated former student council president. Also resulting from her sudden popularity, most of her classmates voted that she portray Romeo in their class play. Mio comes to greatly enjoy her time at university as she encounters many new experiences. She is also able to overcome some of her shyness and make new friends such as Sachi and Ayame.",
+  "note": null,
+  "source": "anime"
+}

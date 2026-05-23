@@ -1,0 +1,386 @@
+{
+  "id": "4a1d8bb25cc56318535d2986c9242067",
+  "name": "Shoko Makinohara",
+  "native_name": "牧之原 翔子",
+  "full_name": "Shoko Makinohara",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Makinohara Family",
+    "height_cm": 160,
+    "weight_kg": 48,
+    "age": "17-18",
+    "birthday": "March 10",
+    "zodiac": "Pisces",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blue hair",
+      "Blue eyes",
+      "School uniform",
+      "Gentle smile",
+      "Cat lover"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Fujisawa, Japan",
+    "current_location": "Fujisawa",
+    "base_of_operations": "High School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "None",
+    "rank_title": "High Schooler",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "High School"
+    ],
+    "previous": [],
+    "relatives": [
+      "Parents"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "manga": "Bunny Girl Senpai Light Novel",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Puberty Syndrome Observer",
+      "native_name": "思春期症候群",
+      "description": "Witnessed Sakuta's Puberty Syndrome. Can sense atmospheric disturbances.",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Passive"
+    },
+    {
+      "name": "Emotional Support",
+      "native_name": "感情的支え",
+      "description": "Provides crucial emotional support to Sakuta. Helps him through crises.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Presence required"
+    },
+    {
+      "name": "Cat Communication",
+      "native_name": "猫と会話",
+      "description": "Can communicate with cats. Loves cats deeply.",
+      "type": "Utility",
+      "tier": "C",
+      "power_level": 50,
+      "range": "Short",
+      "limit": "Cats only"
+    }
+  ],
+  "signature_moves": [
+    "Emotional support",
+    "Cat care",
+    "Kind words"
+  ],
+  "ultimate_move": "Heartfelt confession",
+  "trump_card": "Pure heart",
+  "power_attributes": {
+    "power_type": "Emotional",
+    "power_source": "Heart",
+    "combat_style": [
+      "Support",
+      "Kindness"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Support items"
+    ],
+    "trump_card": "Pure heart",
+    "ultimate_move": "Heartfelt confession"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Gentle",
+      "Selfless",
+      "Loving",
+      "Supportive",
+      "Brave"
+    ],
+    "likes": [
+      "Sakuta",
+      "Cats",
+      "School",
+      "Peace"
+    ],
+    "dislikes": [
+      "Sakuta's suffering",
+      "Loneliness",
+      "Injustice"
+    ],
+    "fear": "Losing Sakuta",
+    "dream": "Be with Sakuta",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Shoko is the gentle girl who supports Sakuta through Puberty Syndrome. Has deep feelings for him. Her presence helps him overcome trauma.",
+    "motivation": "Support Sakuta, be with him",
+    "affinity": "Blue/Kindness",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Supported Sakuta",
+    "Resolved Puberty Syndrome",
+    "High school graduate"
+  ],
+  "titles": [
+    "Shoko",
+    "Support"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Student"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 45,
+    "speed": 50,
+    "durability": 55,
+    "power": 65,
+    "combat": 40,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Too selfless",
+      "Emotional"
+    ],
+    "factors": [
+      "Sakuta",
+      "Family"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Puberty Syndrome",
+    "allies": [
+      "Sakuta",
+      "Mai",
+      "Kaede"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Sakuta Azusagawa",
+        "relationship": "Love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Puberty Syndrome effects"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Sakuta",
+    "best_friend": "Mai",
+    "rival": "Mai (for Sakuta)",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sakuta",
+      "Mai",
+      "Kaede"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Puberty Syndrome",
+      "Mai (for Sakuta)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mai"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sakuta",
+      "Mai",
+      "Kaede"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Puberty Syndrome",
+      "result": "Victory",
+      "method": "Emotional support"
+    }
+  ],
+  "quotes": [
+    "Sakuta-san, I believe in you.",
+    "I'll always be here for you.",
+    "Cats are wonderful."
+  ],
+  "voice_acting": {
+    "native_language": "Yurika Kubo (Japanese)",
+    "note": "Gentle, kind",
+    "native_name": null,
+    "english": "Risa Mei",
+    "japanese": "Inori Minase"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues relationship with Sakuta",
+    "transformation": "None",
+    "awakening_potential": "Medium",
+    "power_evolution": [
+      "Student",
+      "Support",
+      "Love"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Fujisawa High",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: June 7\nBlood type: A\n\nA young, deaf transfer student with an amazingly positive outlook on life. Despite being a victim of continuous bullying, she always keeps a smile on her face.",
+  "note": null,
+  "source": "anime"
+}

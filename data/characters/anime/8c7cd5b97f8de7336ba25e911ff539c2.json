@@ -1,0 +1,391 @@
+{
+  "id": "8c7cd5b97f8de7336ba25e911ff539c2",
+  "name": "Kaworu Nagisa",
+  "native_name": "渚カヲル",
+  "full_name": "Kaworu Nagisa",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Angel (Tabris)",
+    "race": "Angel",
+    "bloodline": "None",
+    "height_cm": 165,
+    "weight_kg": 50,
+    "age": "14-15",
+    "birthday": "September 13",
+    "zodiac": "Virgo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 18.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "White/Silver",
+    "skin_color": "Pale",
+    "notable_features": [
+      "White hair",
+      "Red eyes",
+      "Plug suit",
+      "Serene expression",
+      "Halo"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo-3",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "NERV HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Fifth Child",
+    "secondary": "Angel (Tabris)",
+    "rank_title": "Fifth Child",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV",
+      "SEELE"
+    ],
+    "previous": [
+      "SEELE"
+    ],
+    "relatives": [
+      "None (Angel)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Neon Genesis Evangelion Episode 24",
+    "manga": "Evangelion Chapter 24",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "AT Field",
+      "native_name": "A.T.フィールド",
+      "description": "Powerful Absolute Terror Field - strongest of all Angels.",
+      "type": "Defense",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self/Area",
+      "limit": "Self-imposed"
+    },
+    {
+      "name": "Angel Form",
+      "native_name": "使徒",
+      "description": "True Angel form - Tabris. Can merge with Adam/Lilith.",
+      "type": "Transformation",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Self",
+      "limit": "Human form preference"
+    },
+    {
+      "name": "Soul Manipulation",
+      "native_name": "魂操作",
+      "description": "Can sense and manipulate souls. Understands human nature.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Free will"
+    }
+  ],
+  "signature_moves": [
+    "AT Field",
+    "Soul manipulation",
+    "Angel transformation"
+  ],
+  "ultimate_move": "Instrumentality trigger",
+  "trump_card": "Angel power",
+  "power_attributes": {
+    "power_type": "AT Field",
+    "power_source": "Angel",
+    "combat_style": [
+      "AT Field",
+      "Soul"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Plug suit"
+    ],
+    "trump_card": "Angel power",
+    "ultimate_move": "Instrumentality trigger"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Wise",
+      "Accepting",
+      "Mysterious",
+      "Loving",
+      "Sacrificial"
+    ],
+    "likes": [
+      "Shinji",
+      "Music",
+      "Humanity",
+      "Freedom"
+    ],
+    "dislikes": [
+      "Suffering",
+      "Hate",
+      "Confinement"
+    ],
+    "fear": "Hurting Shinji",
+    "dream": "See Shinji happy",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Kaworu is the 17th Angel Tabris in human form. Sent to trigger Instrumentality, but chooses love for Shinji over mission. Sacrifices himself.",
+    "motivation": "Love Shinji, give him choice",
+    "affinity": "White/Love",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Fifth Child",
+    "Angel Tabris",
+    "Shinji's love"
+  ],
+  "titles": [
+    "Fifth Child",
+    "Tabris",
+    "Angel"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Angel"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 75,
+    "speed": 80,
+    "durability": 85,
+    "power": 99,
+    "combat": 70,
+    "total": 501
+  },
+  "weaknesses": {
+    "list": [
+      "Love for Shinji",
+      "Self-sacrifice",
+      "Angel nature"
+    ],
+    "factors": [
+      "Shinji's happiness"
+    ]
+  },
+  "relationships": {
+    "nemesis": "SEELE (manipulated)",
+    "allies": [
+      "Shinji",
+      "Misato",
+      "Rei"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shinji Ikari",
+        "relationship": "Love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "NERV",
+      "SEELE"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Shinji",
+    "best_friend": "Shinji",
+    "rival": "None",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shinji",
+      "Misato",
+      "Rei"
+    ],
+    "colleague": null,
+    "enemy": [
+      "SEELE (manipulated)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shinji",
+      "Misato",
+      "Rei"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Shinji",
+      "result": "Sacrifice",
+      "method": "Chose death"
+    }
+  ],
+  "quotes": [
+    "I love you.",
+    "Maybe I was born to meet you.",
+    "Pain is something we must endure."
+  ],
+  "voice_acting": {
+    "native_language": "Akira Ishida (Japanese)",
+    "note": "Gentle, ethereal",
+    "native_name": null,
+    "english": "Kyle Sturdivant",
+    "japanese": "Akira Ishida"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Shinji",
+    "transformation": "Angel Tabris",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Angel",
+      "Human form",
+      "Sacrifice",
+      "Reboot"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "NERV HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 29\nSex: Male\nHeight: 175cm\nBirthday: September 13, 2000\nRelations: Shinji Ikari (Ally)\n\n\n\n\n\n(Source: Evangelion Wikia)\n\nRebuilds 1-4  (Source: Kaworu Nagisa/Rebuild - Evangelion Wiki&amp;EvaGeeks)\n\nEvangelion: 2.0 You Can (Not) Advance (Source: Kaworu Nagisa/Rebuild - Evangelion Wiki&amp;EvaGeeks)\n\nEvangelion: 3.0 You Can (Not) Redo  (Source: Kaworu Nagisa/Rebuild - Evangelion Wiki&amp;EvaGeeks)\n\nBackground and the Five Adams (Explored in Thrice Upon a Time)  (Source: Kaworu Nagisa/Rebuild - Evangelion Wiki&amp;EvaGeeks)\n\nEvangelion: 3.0+1.0 Thrice Upon a Time   (Source: Kaworu Nagisa/Rebuild - Evangelion Wiki&amp;EvaGeeks)\n\n (Source: Kaworu Nagisa/Rebuild - Evangelion Wiki&amp;EvaGeeks)",
+  "note": null,
+  "source": "anime"
+}

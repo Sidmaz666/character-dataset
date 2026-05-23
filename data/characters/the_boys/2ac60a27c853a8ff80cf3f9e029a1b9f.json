@@ -1,0 +1,337 @@
+{
+  "name": "Firecracker",
+  "native_name": null,
+  "full_name": "Firecracker",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 168,
+    "weight_kg": 58,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Patriotic outfit",
+      "Fire-themed",
+      "Conservative supe"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "USA",
+    "current_location": "USA",
+    "base_of_operations": "Vought-affiliated",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe (Conservative)",
+    "secondary": "Political figure",
+    "rank_title": "Firecracker",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV Season 4)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Pyrokinesis",
+      "type": "Elemental",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Long"
+    },
+    {
+      "name": "Fire Resistance",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Fire Blast",
+    "Patriotic Flame"
+  ],
+  "ultimate_move": "Liberty Firestorm",
+  "trump_card": "Pyrokinesis",
+  "power_attributes": {
+    "power_type": "Fire/Pyrokinesis",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Ranged",
+      "Fire-based"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Patriotic costume"
+    ],
+    "trump_card": "Pyrokinesis",
+    "ultimate_move": "Liberty Firestorm"
+  },
+  "personality": {
+    "traits": [
+      "Conservative",
+      "Patriotic",
+      "Aggressive",
+      "Dogmatic"
+    ],
+    "likes": [
+      "America",
+      "Traditional values",
+      "Fire"
+    ],
+    "dislikes": [
+      "Liberals",
+      "Criticism",
+      "Change"
+    ],
+    "fear": "Being irrelevant",
+    "dream": "Purify America",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Pyrokinesis"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "A conservative supe who joined Vought's later superhero teams. Represents the right-wing supe archetype.",
+    "motivation": "Promote conservative values through superheroics",
+    "affinity": "Fire/Patriotism",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Vought supe"
+  ],
+  "titles": [
+    "Firecracker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 55,
+    "durability": 60,
+    "power": 72,
+    "combat": 50,
+    "total": 337
+  },
+  "weaknesses": {
+    "list": [
+      "Fire limits",
+      "Water",
+      "Human durability"
+    ],
+    "factors": [
+      "Fire powers limited",
+      "Water extinguishes"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "Starlight (opposes ideologically)",
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Starlight (opposes ideologically)",
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "America first!"
+  ],
+  "voice_acting": {
+    "native_language": "Valorie Curry",
+    "english": "Valorie Curry",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought supe",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Firecracker"
+    ],
+    "role": "Minor Antagonist",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "2ac60a27c853a8ff80cf3f9e029a1b9f",
+  "publisher": "the_boys",
+  "about": "A firecracker is a small explosive device primarily designed to produce a large amount of noise, especially in the form of a loud bang, usually for celebration or entertainment; any visual effect is incidental to this goal. They have fuses, and are wrapped in a heavy paper casing to contain the explosive compound. Firecrackers, along with fireworks, originated in China.",
+  "note": null,
+  "source": "the_boys"
+}

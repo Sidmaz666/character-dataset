@@ -1,0 +1,316 @@
+{
+  "id": "94dd9eb3c0f00dd90988c8fca39a78ca",
+  "name": "Mello",
+  "native_name": "",
+  "full_name": "Mello",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Task Force HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Death Note",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Mafia",
+      "SPK"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Death Note",
+    "manga": "Death Note",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Deduction",
+      "type": "Mental",
+      "description": "Exceptionally skilled in logical deduction",
+      "power_level": "High"
+    },
+    {
+      "name": "Strategy",
+      "type": "Tactical",
+      "description": "Master strategist and planner",
+      "power_level": "High"
+    },
+    {
+      "name": "Investigation",
+      "type": "Mental",
+      "description": "Proficient in criminal investigation",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Deduction",
+    "Strategy",
+    "Investigation"
+  ],
+  "ultimate_move": "Deduction",
+  "trump_card": "Strategy",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Strategy",
+    "ultimate_move": "Deduction"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Calculating",
+      "Methodical",
+      "Analytical",
+      "Patient"
+    ],
+    "likes": [
+      "Learning",
+      "Peace and quiet"
+    ],
+    "dislikes": [
+      "Chaos"
+    ],
+    "fear": "Death",
+    "dream": "Unknown",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical",
+      "Intelligent",
+      "Patient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Death Note character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Created by Tsugumi Ohba and Takeshi Obata",
+    "Created for the character"
+  ],
+  "titles": [
+    "Death Note"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 65,
+    "speed": 65,
+    "durability": 65,
+    "power": 65,
+    "combat": 65,
+    "total": 390
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mafia",
+      "SPK"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Mihael Keehl (Japanese: ミハエル・ケール, Hepburn: Mihaeru Kēru), universally referred to by the mononym Mello (メロ, Mero), is a fictional character in the manga series Death Note, created by Tsugumi Ohba and Takeshi Obata. Mello is introduced alongside Near as a potential substitute for L. Both Mello and Near were raised at Wammy's House, an orphanage established by Watari, L's assistant. However, Mello refuses to work with Near to capture a murderer dubbed \"Kira\". Over the course of the series, he joins the mafia, obtains a Death Note, causes the death of some people, and dies before he can expose Kira's identity. Mello has also appeared in other media from the series.\nThe character of Mello was created, along with Near, to break the endless cycle of confrontations between the detective L and Light Yagami, the man behind the persona Kira. Both Mello and Near were designed after L and were initially envisioned as twins and sons of L. Ultimately, this idea was dropped, with their designs switched compared to the original concept.\nHe is voiced in the Japanese anime series by Nozomu Sasaki and in the English adaptation by David Hurwitz. Merchandise has been created for the character, including plush dolls and action figures. Mello has received positive commentary from manga and anime publications.",
+  "note": null,
+  "source": "anime"
+}

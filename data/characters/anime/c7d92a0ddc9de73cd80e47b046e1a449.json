@@ -1,0 +1,331 @@
+{
+  "id": "c7d92a0ddc9de73cd80e47b046e1a449",
+  "name": "Schutra",
+  "native_name": "",
+  "full_name": "Schutra",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "26",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "red",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Wall Rose",
+    "current_location": "Wall Rose",
+    "base_of_operations": "Survey Corps HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Attack on Titan",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Frieren",
+    "manga": "Frieren",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "ODM Gear Mastery",
+      "type": "Equipment",
+      "description": "Expert in using Omni-Directional Mobility Gear for high-speed combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Combat",
+      "description": "Skilled in using dual blades against Titans",
+      "power_level": "High"
+    },
+    {
+      "name": "Tactical Analysis",
+      "type": "Mental",
+      "description": "Ability to quickly assess Titan threats and formulate strategies",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "type": "Physical",
+      "description": "Proficient in CQC techniques",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "ODM Gear Mastery",
+    "Swordsmanship",
+    "Tactical Analysis"
+  ],
+  "ultimate_move": "ODM Gear Mastery",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "ODM Gear Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Loyal",
+      "Serious",
+      "Disciplined"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Attack on Titan character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Attack on Titan"
+  ],
+  "titles": [
+    "Attack on Titan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 55,
+    "speed": 55,
+    "durability": 55,
+    "power": 55,
+    "combat": 55,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Survey Corps"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Titans"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Survey Corps"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Titans"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Survey Corps"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 26-27\nBirthday: August 8\nHair: red/blonde\nHeight: 169 cm (5'7\")\nBlood Type: O\nPastimes and talents: foot massages, hot stone spas, and bothering animals.\nAverage hours of sleep per night: 8\nFavorite manga genres: romance\nFavorite type of guy: strong and collected\n\nShura is an Upper-First class Exorcist and Rin Okumura's mentor. She trained under the guidance of Shirou Fujimoto to obtain the title Meister as a Knight. She officially works as an Inspector for the Vatican, but has infiltrated True Cross Academy, first as a student under the name Yamada, and later as a teacher for the Exwires.\n\n(Source: Ao no Exorcist Wikia)",
+  "note": null,
+  "source": "anime"
+}

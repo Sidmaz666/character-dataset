@@ -1,0 +1,364 @@
+{
+  "id": "e89ef46270ee102cd8db222241d07e3b",
+  "name": "Edward, Elric",
+  "native_name": "エドワード・エリク",
+  "full_name": "Edward Elric (Fullmetal Alchemist)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Alchemist",
+    "race": "Human",
+    "bloodline": "Elric family",
+    "height_cm": 150,
+    "weight_kg": 40,
+    "age": "15-16",
+    "birthday": "March 11",
+    "zodiac": "Pisces",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 17.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gold",
+    "hair_color": "Blonde (long)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Automail leg",
+      "Red coat",
+      "Small height jokes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Resembool",
+    "current_location": "Central City",
+    "base_of_operations": "Amestrian Military",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "State Alchemist",
+    "secondary": "Alchemist",
+    "rank_title": "Fullmetal",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Amestrian military",
+      "Alphonse"
+    ],
+    "previous": [],
+    "relatives": [
+      "Vanessa (sister-in-law)",
+      "Pinako (grandmother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "FMA Ep1",
+    "manga": "FMA Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Alchemy",
+      "native_name": "錬金術",
+      "description": "Transmute matter",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Touch to medium",
+      "limit": "Need earth/fire"
+    },
+    {
+      "name": "Combat Alchemy",
+      "native_name": "戦斗錬金",
+      "description": "Fight with alchemy",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Alchemist Eye",
+      "native_name": "一つ目",
+      "description": "Analyze transmutation",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Wide",
+      "limit": "Needs seeing"
+    },
+    {
+      "name": "Automail Combat",
+      "native_name": "ocom",
+      "description": "Use automail in combat",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Clap transmutation",
+    "Flame alchemy",
+    "Road of Ya"
+  ],
+  "ultimate_move": "The Great Cleric",
+  "trump_card": "Door-invoking full power",
+  "power_attributes": {
+    "power_type": "Alchemy",
+    "power_source": "Knowledge + Door",
+    "combat_style": [
+      "Alchemical combat"
+    ],
+    "weapon": "Blade",
+    "equipment": [
+      "Automail arm"
+    ],
+    "trump_card": "Door-invoking full power",
+    "ultimate_move": "The Great Cleric"
+  },
+  "personality": {
+    "traits": [
+      "Short-complex",
+      "Brave",
+      "Stubborn",
+      "Caring",
+      "Short-tempered"
+    ],
+    "likes": [
+      "Alchemy",
+      "Alphonse",
+      "Winry"
+    ],
+    "dislikes": [
+      "Being called short",
+      "Cruelty"
+    ],
+    "fear": [
+      "Losing Alphonse",
+      "get Original body"
+    ],
+    "personality_type": "ENTJ",
+    "dream": "Restore bodies",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Short-tempered"
+    ]
+  },
+  "character": {
+    "arc": "Brother seeks body restoration",
+    "motivation": "Restore bodies",
+    "affinity": "Fire/Earth",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Father",
+    "Truth conversation",
+    "Saved world"
+  ],
+  "titles": [
+    "Fullmetal Alchemist",
+    "Hero of the people"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "publisher": "anime",
+  "relationships": {
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Pinako (grandmother)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Pinako (grandmother)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Pinako (grandmother)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Pinako"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Deceased",
+    "role_in_story": null,
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Stubborn",
+      "Short-tempered"
+    ],
+    "factors": [
+      "stubborn",
+      "short-tempered"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Vic Mignogna",
+    "note": null,
+    "native_name": null,
+    "japanese": "Romi Park"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Amestrian Military",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Age: 15-16 (series), 18 (movie, end of the series)\nBirthday: 1899\nBirthplace: Resembool, Amestris\nFamily: Alphonse Elric (brother), Trisha Elric (mother, deceased), Van Hohenheim (father)\nAffiliations: State Military, Winry Rockbell, Pinako Rockbell, Izumi Curtis (teacher), Roy Mustang (Commander)\nSpecies: Human\nOccupation: State Alchemist\nAbilities: Alchemy, Martial Arts\nWeapon: Alchemy, Automail arm and leg\n\nEdward \"Fullmetal Alchemist\" Elric is a young alchemical prodigy. He is the youngest State Alchemist ever to be recognized by the Amestris State Military, having received the title at the age of 12. Ed's primary motivation throughout the series is to return his younger brother, Alphonse, to his original body, which was lost in a failed human transmutation. Edward, despite his occasional bouts of immaturity, is a selfless boy who gains a reputation as a \"hero of the people\" throughout his youth. Notably, he doesn't seem concerned about returning his own arm and leg, instead focusing entirely on Al's suffering.\n\nEdward is small for his age, standing at only 149 cm (4'11\"), however, his body is that of an experienced martial artist, with noticeable muscles and a wealth of agility. Although he lacks both his right arm and left leg, Ed's ability to fight is not impaired and is in fact improved, as he will often use alchemy to cause his metal arm to partly transform into a blade or shield. His heavy automail limbs are considered by him to be the very best in Amestris. They were made by his childhood friend, Winry Rockbell, and she is constantly working on them. He is able to think quickly, even in desperate situations, though can still be frightened into paralysis. These qualities, combined with his alchemical powers and physical strength, make him a formidable fighter.\n\nBorn to Trisha Elric and Van Hohenheim of Resembool in the winter of 1899, Edward's first few years were relatively happy; but after the sudden departure of his father during the lad's formative years, Ed was left with his mother and younger brother Alphonse as his only family. The three Elrics lived in peace in the rural village and the boys began displaying a remarkable talent for alchemy at a young age, much to the joyful astonishment of his mother. However, early in the year 1904, Trisha contracted an illness that had been spreading in the area and died, leaving her two sons orphaned. Even while mourning, mired in grief, Edward vowed to his brother that the two of them would find a way to bring their dead mother back to life with the power of alchemy.\n\nEdward and Alphonse spent the next few years living on their own in the Elric family home, supported by their close childhood friend Winry Rockbell and her grandmother Pinako, and pursuing the alchemical knowledge necessary for their planned resurrection. Although they had gained a great deal of information and comprehension regarding the extended basics of the craft, before long it became apparent to the young prodigies that there was only so far they could go while being self-taught. In a stroke of good fortune, Resembool was visited by an exceptionally skilled alchemist named Izumi Curtis who, after some persuasion, agreed to take the Elric brothers on as her apprentices provided they pass a preliminary test. After they do, the Elric brothers were subjected to Izumi's intensive alchemy and martial arts training, growing significantly in both mind and body and gaining a great deal of alchemical knowledge before returning to Resembool. \n\nThough instructed specifically by Izumi to understand that death is an irreversible part of the flow of the world and that acceptance of such is important to the \"One is All, All is One\" concept, the boys dove headlong into their plan to resurrect their mother upon their homecoming, having advanced their knowledge while abroad and discovered the basics of a forbidden practice called Human Transmutation.\n\nDevising a Human Transmutation Circle, amassing the elemental ingredients for an adult human body and offering their own blood as soul and biological data, the boys secretly initiated the Human Transmutation in their home. Unfortunately, the Human Transmutation resulted in a Rebound.\n\nAlphonse and Edward were pulled into The Gate. Encountering the mysterious being called Truth, Edward was stripped of his left leg in exchange for crossing into God's domain and peeking at the Gate's vast wealth of alchemical knowledge. Maimed and bleeding, Edward was returned to the human dimension to find that Alphonse had not yet returned from his disappearance into the Gate, that the mother they had attempted to revive was a grotesque mass of organs only capable of sustaining life for a few moments and that his own sojourn into the Gate had granted him the curious ability to perform transmutations merely by clapping his hands together, without the aid of a Transmutation Circle - in the same style used by Izumi. Desperate to at least have his brother by his side, Edward willfully performed another Human Transmutation to call him back, this time sacrificing his right arm in exchange for Al's soul, which he bound alchemically to an antique suit of armor with a Blood Rune before passing out from severe blood loss. Alphonse carried Ed to the Rockbell house, where a shocked Pinako and Winry performed emergency surgery to save the young boy's life.\n\nOn the night of the failed transmutation. Lt. Colonel Flame Alchemist Roy Mustang came to the Rockbell's in response to a letter that Edward and Alphonse had sent him in the mail asking about their Father. He was shocked at the fact that the two boys had tried human alchemy and survived, and informed them that they could become state alchemist and maybe one day find a way to return their bodies to the way they were. Desperate to get His younger brother's body back, Edward asked the Rockbells to give him prosthetic limbs called automail. Though they warned him the surgery would be painful, he said the pain was nothing compared to what his brother had given up. He only took a year to adapt to the automail at age 11 when it took most adults three years.",
+  "note": null,
+  "source": "anime"
+}

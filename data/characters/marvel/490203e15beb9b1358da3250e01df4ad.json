@@ -1,0 +1,508 @@
+{
+  "id": "490203e15beb9b1358da3250e01df4ad",
+  "name": "Black Widow",
+  "native_name": null,
+  "full_name": "Natalia Alianovna Romanova",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Romanova family",
+    "height_cm": 170,
+    "weight_kkg": 59,
+    "age": "30-35 (varies by continuity)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Athletic build",
+      "Red hair",
+      "Black suit",
+      "Widow's bite"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Stalingrad, Soviet Union",
+    "current_location": "New York City",
+    "base_of_operations": "New York City, Avengers Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Spy, Assassin",
+    "rank_title": "Avenger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "S.H.I.E.L.D."
+    ],
+    "previous": [
+      "Red Room",
+      "KGB"
+    ],
+    "relatives": [
+      "Ivan Romanoff (father, deceased)",
+      "Unknown mother"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Tales of Suspense #52 (April 1964)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Combatant",
+      "native_name": null,
+      "description": "Expert in various forms of combat including martial arts and weapons",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Master Spy",
+      "native_name": null,
+      "description": "Expert in espionage, infiltration, and intelligence gathering",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Master Assassin",
+      "native_name": null,
+      "description": "Expert in assassination techniques",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Weapons Expert",
+      "native_name": null,
+      "description": "Expert with various weapons including firearms and gadgets",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Ammunition"
+    },
+    {
+      "name": "Acrobatics",
+      "native_name": null,
+      "description": "Expert acrobat and gymnast",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant tactician and strategist",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Multilingual",
+      "native_name": null,
+      "description": "Speaks multiple languages fluently",
+      "type": "Intellectual",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Widow's Bite",
+      "native_name": null,
+      "description": "Electric wrist devices capable of stunning or killing",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Contact",
+      "limit": "Power supply"
+    }
+  ],
+  "signature_moves": [
+    "Widow's bite",
+    "Acrobatic combat",
+    "Stealth takedowns"
+  ],
+  "ultimate_move": "Full combat capabilities with gadgets",
+  "trump_card": "Preparation and stealth",
+  "power_attributes": {
+    "power_type": "Human",
+    "power_source": "Training and Red Room enhancements",
+    "combat_style": [
+      "Stealth",
+      "Acrobatic",
+      "Versatile"
+    ],
+    "weapon": "Various weapons",
+    "equipment": [
+      "Widow's bite",
+      "Gadgets",
+      "Firearms",
+      "Black suit"
+    ],
+    "trump_card": "Preparation and stealth",
+    "ultimate_move": "Full combat capabilities with gadgets"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Skilled",
+      "Loyal",
+      "Complex",
+      "Redemptive"
+    ],
+    "likes": [
+      "Justice",
+      "Redemption",
+      "Avengers",
+      "Helping others",
+      "Being a hero"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Her past",
+      "Injustice",
+      "Losing friends",
+      "Betrayal"
+    ],
+    "fear": "Failing to redeem herself, Losing control, Being used again",
+    "dream": "To make up for her past and protect the innocent",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Skilled",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Soviet assassin becoming hero through redemption and joining the Avengers",
+    "motivation": "To make up for her past and protect the innocent",
+    "affinity": "Redemption",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Saved the world countless times",
+    "Avengers founding member",
+    "Defected from Soviet Union",
+    "Defeated major threats like Hydra, AIM, Thanos",
+    "Became symbol of redemption"
+  ],
+  "titles": [
+    "Black Widow",
+    "Natasha Romanoff",
+    "Nat",
+    "Agent Romanoff",
+    "Widow"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 50,
+    "speed": 75,
+    "durability": 50,
+    "power": 50,
+    "combat": 90,
+    "total": 405
+  },
+  "weaknesses": {
+    "list": [
+      "Human limitations",
+      "Past trauma",
+      "Emotional attachments",
+      "Overwork"
+    ],
+    "factors": [
+      "Guilt",
+      "Trust issues",
+      "Physical vulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Avengers",
+      "Hawkeye",
+      "Nick Fury",
+      "S.H.I.E.L.D."
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hawkeye",
+        "relationship": "Best friend and partner",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Nick Fury",
+        "relationship": "Commander and ally",
+        "trust_level": "High"
+      },
+      {
+        "name": "Captain America",
+        "relationship": "Close ally and friend",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Hydra",
+      "AIM",
+      "Red Room",
+      "Various villains"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Hydra",
+        "relationship": "Sworn enemy",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Red Room",
+        "relationship": "Former captors",
+        "threat_level": "High"
+      },
+      {
+        "name": "Taskmaster",
+        "relationship": "Personal enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Hawkeye",
+    "rival": null,
+    "mentor": null,
+    "student": "Various young heroes",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Hawkeye",
+      "Nick Fury",
+      "S.H.I.E.L.D."
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hydra",
+      "AIM",
+      "Red Room",
+      "Various villains"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various young heroes"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Hawkeye",
+      "Nick Fury",
+      "S.H.I.E.L.D."
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hydra",
+      "result": "Victory",
+      "method": "Combat and strategy"
+    },
+    {
+      "opponent": "AIM",
+      "result": "Victory",
+      "method": "Espionage and combat"
+    },
+    {
+      "opponent": "Thanos",
+      "result": "Victory",
+      "method": "Teamwork and sacrifice"
+    }
+  ],
+  "quotes": [
+    "I'm always picking up after you boys",
+    "I've got red in my ledger",
+    "I was made to be a weapon, but I chose to be a hero",
+    "Dying is like being born backwards"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Scarlett Johansson (MCU), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect the world",
+    "transformation": [
+      "Red Room training",
+      "Defection",
+      "Avengers membership"
+    ],
+    "awakening_potential": "Full redemption",
+    "power_evolution": [
+      "Soviet assassin",
+      "S.H.I.E.L.D. agent",
+      "Avenger"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various vehicles",
+      "Quinjet"
+    ],
+    "vehicles": [
+      "Various vehicles",
+      "Motorcycle"
+    ],
+    "headquarters": "Avengers Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Black Widow is a 2021 American superhero film based on Marvel Comics featuring the character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 24th film in the Marvel Cinematic Universe (MCU). The film was directed by Cate Shortland from a screenplay by Eric Pearson and stars Scarlett Johansson as Natasha Romanoff / Black Widow alongside Florence Pugh, David Harbour, O-T Fagbenle, Olga Kurylenko, William Hurt, Ray Winstone, and Rachel Weisz. Mostly set during the events of Captain America: Civil War (2016), the film sees Romanoff on the run and forced to confront her past as a Russian spy before she became an Avenger.\nLionsgate Films began developing a Black Widow film in April 2004, with David Hayter attached to write and direct. The project did not move forward and the character's film rights had reverted to Marvel Studios by June 2006. Johansson was cast in the role for several MCU films beginning with Iron Man 2 (2010), and began discussing a solo film with Marvel. Work began in late 2017 and Shortland was hired in July 2018. Jac Schaeffer and Ned Benson contributed to the script before Pearson joined. The film was written to be a prequel that expands on Romanoff's history and helps end her MCU story following the character's death in Avengers: Endgame (2019). Shortland put an emphasis on the fight sequences and said this was the most violent MCU film so far. Filming took place from May to October 2019 in Norway, England, Budapest, Morocco, and Macon, Georgia.\nBlack Widow premiered at events around the world on June 29, 2021, and was released in the United States on July 9, simultaneously in theaters and through Disney+ with Premier Access. It is the first film in Phase Four of the MCU, and was delayed three times from an original May 2020 release date due to the COVID-19 pandemic. Black Widow broke several pandemic box office records and grossed over $379 million worldwide. The film received positive reviews from critics, with particular praise for the action sequences and for the performances of Johansson and Pugh. In July 2021, Johansson filed a lawsuit against Disney over the simultaneous release, which was settled two months later.",
+  "note": null,
+  "source": "marvel"
+}

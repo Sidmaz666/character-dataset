@@ -1,0 +1,325 @@
+{
+  "id": "790cfd1cbe00ee9acc2c3612773199d8",
+  "name": "Alice Synthesis",
+  "native_name": "アリス",
+  "full_name": "Alice Synthesis",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "11",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Aincrad",
+    "base_of_operations": "Aincrad",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sword Art Online",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Integrity Knights",
+      "Human Empire"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Sword Art Online: Alicization",
+    "manga": "Sword Art Online: Alicization",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sword Skills",
+      "type": "Combat",
+      "description": "Mastery of VR sword combat techniques",
+      "power_level": "High"
+    },
+    {
+      "name": "System Knowledge",
+      "type": "Mental",
+      "description": "Deep understanding of game mechanics",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Quick Reflexes",
+      "type": "Physical",
+      "description": "Enhanced reaction time in virtual combat",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Sword Skills",
+    "System Knowledge",
+    "Quick Reflexes"
+  ],
+  "ultimate_move": "Sword Skills",
+  "trump_card": "System Knowledge",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship"
+    ],
+    "weapon": "Sword Skills",
+    "equipment": [
+      "Sword Skills"
+    ],
+    "trump_card": "System Knowledge",
+    "ultimate_move": "Sword Skills"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Loyal",
+      "Quick-thinking"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Sword Art Online character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ai Kayano (Japanese)",
+    "Voiced by Kayli Mills (English)"
+  ],
+  "titles": [
+    "Sword Art Online"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 80,
+    "durability": 80,
+    "power": 80,
+    "combat": 80,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Aincrad Liberation Force"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Aincrad Liberation Force"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Aincrad Liberation Force"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Kayli Mills",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ai Kayano"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: 9th Day of the 4th Month, 361 Human Empire Calendar\nAge: 11 (7th Month of the Human Empire Calendar, 372), 17 (3rd Month of the Human Empire Calendar, 378), 19 (3rd Month of the Human Empire Calendar, 380)\nWeapons of choice: Fragrant Olive Sword\n\nThe heroine of the fourth arc, \"Project Alicization.\" Alice is a childhood friend of Kirito and Eugeo, and is also from Rulid Village.",
+  "note": null,
+  "source": "anime"
+}

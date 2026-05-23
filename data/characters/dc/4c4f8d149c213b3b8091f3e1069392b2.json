@@ -1,0 +1,441 @@
+{
+  "name": "Tim Drake",
+  "native_name": "ティム・ドレイク",
+  "full_name": "Timothy Jackson Drake",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 61,
+    "age": "17-19",
+    "birthday": "July 19",
+    "zodiac": "Cancer",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 21.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Young detective appearance",
+      "Red Robin costume",
+      "Bo staff"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Student (formerly)",
+    "rank_title": "Red Robin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Batman Family",
+      "Titans",
+      "Young Justice"
+    ],
+    "previous": [
+      "Teen Titans",
+      "Young Justice"
+    ],
+    "relatives": [
+      "Jack Drake (father, deceased)",
+      "Janet Drake (mother, deceased)",
+      "Bruce Wayne (adoptive father)",
+      "Dick Grayson (adoptive brother)",
+      "Jason Todd (adoptive brother)",
+      "Damian Wayne (adoptive brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman #436 (August 1989)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "Considered the smartest Robin and potential successor to Batman. Expert in deduction, forensics, and criminal psychology. Deduced Batman and Robin identities at age 9.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Trained by Batman, Nightwing, Lady Shiva, and other world-class fighters. Proficient in multiple fighting styles.",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Bo Staff Mastery",
+      "native_name": null,
+      "description": "Expert in Bo staff combat, his signature weapon. Can use it for offense, defense, and traversal.",
+      "type": "Weapon",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Expert Hacker",
+      "native_name": null,
+      "description": "Master hacker and computer expert. Can infiltrate any digital security system.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 87,
+      "range": "Self",
+      "limit": "Requires technology access"
+    }
+  ],
+  "signature_moves": [
+    "Bo Staff Combo",
+    "Red Robin Drop",
+    "Detective Insight"
+  ],
+  "ultimate_move": "Tactical Genius Strike (Strategic combat + Bo staff mastery)",
+  "trump_card": "Superior Detective Mind + Bo Staff Mastery",
+  "power_attributes": {
+    "power_type": "Peak Human",
+    "power_source": "Training and Intelligence",
+    "combat_style": [
+      "Bo Staff",
+      "Martial Arts",
+      "Stealth",
+      "Detective Work"
+    ],
+    "weapon": "Bo Staff",
+    "equipment": [
+      "Red Robin Suit",
+      "Bo Staff",
+      "Grapple Gun",
+      "Smoke Pellets",
+      "Batarangs",
+      "Computer Equipment"
+    ],
+    "trump_card": "Superior Detective Mind + Bo Staff Mastery",
+    "ultimate_move": "Tactical Genius Strike (Strategic combat + Bo staff mastery)"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Analytical",
+      "Determined",
+      "Loyal",
+      "Quiet",
+      "Strategic"
+    ],
+    "likes": [
+      "Solving mysteries",
+      "Technology",
+      "Bruce Wayne trust",
+      "Leading teams"
+    ],
+    "dislikes": [
+      "Chaos",
+      "Unpredictability",
+      "Being compared to Jason Todd"
+    ],
+    "fear": "Becoming like Bruce (isolated and paranoid)",
+    "dream": "Be the world greatest detective and honor Batman legacy",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Strategic",
+      "Analytical",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Third Robin who deduced Batman identity and took the mantle. Became Red Robin, led Young Justice, and discovered Bruce Wayne was alive after his apparent death. Known as the smart Robin.",
+    "motivation": "Protect Gotham, honor Batman legacy, solve the unsolvable",
+    "affinity": "Intelligence",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Third Robin",
+    "Founded Young Justice",
+    "Became Red Robin",
+    "Discovered Bruce Wayne was alive post-Final Crisis",
+    "Led Teen Titans"
+  ],
+  "titles": [
+    "Red Robin",
+    "Robin (formerly)",
+    "Batman Beyond (alternate future)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by criminal organizations"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 65,
+    "speed": 78,
+    "durability": 65,
+    "power": 60,
+    "combat": 85,
+    "total": 448
+  },
+  "weaknesses": {
+    "list": [
+      "Human limits",
+      "Overthinker",
+      "Trust issues"
+    ],
+    "factors": [
+      "Can be paralyzed by over-analysis"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ra's al Ghul (respects Tim)",
+    "allies": [
+      "Batman",
+      "Nightwing",
+      "Batgirl",
+      "Superboy",
+      "Wonder Girl",
+      "Impulse"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Adoptive father/Mentor",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Ra's al Ghul",
+      "League of Assassins",
+      "Various Gotham villains"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Ra's al Ghul",
+        "relationship": "Respects Tim and has called him Detective",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Stephanie Brown (Spoiler)",
+    "best_friend": "Conner Kent (Superboy)",
+    "rival": "Damian Wayne",
+    "mentor": "Bruce Wayne (Batman)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Batman",
+      "Nightwing",
+      "Batgirl",
+      "Superboy",
+      "Wonder Girl",
+      "Impulse",
+      "Conner Kent (Superboy)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ra's al Ghul (respects Tim)",
+      "Damian Wayne"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Damian Wayne"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Batman",
+      "Nightwing",
+      "Batgirl",
+      "Superboy",
+      "Wonder Girl",
+      "Impulse",
+      "Conner Kent"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Bruce Wayne"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ra's al Ghul",
+      "result": "Victory",
+      "method": "Strategic planning and combat"
+    }
+  ],
+  "quotes": [
+    "Batman needs a Robin.",
+    "I figured out who Batman was when I was nine.",
+    "I am not the Robin you knew. I am something else now."
+  ],
+  "voice_acting": {
+    "native_language": "Matthew Valencia (English)",
+    "english": "Matthew Valencia",
+    "note": "Long-standing voice of Tim Drake",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues as Red Robin",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Robin",
+      "Red Robin",
+      "Batman Beyond (alternate future)"
+    ],
+    "role_in_story": "Major Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Grapple Gun",
+      "Batwing (occasional)"
+    ],
+    "vehicles": [
+      "Batwing (occasional)"
+    ],
+    "headquarters": "Gotham City, The Belfry",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "4c4f8d149c213b3b8091f3e1069392b2",
+  "publisher": "dc",
+  "about": "Timothy Jackson \"Tim\" Drake is a superhero appearing in American comic books published by DC Comics, commonly in association with the superhero Batman. Created by Marv Wolfman and Pat Broderick, he first appeared in Batman #436 (August 1989) as the third character to assume the role of Batman's crime-fighting partner and sidekick Robin. Following the events of Batman: Battle for the Cowl in 2009, Drake adopted the identity of Red Robin. In 2019, Tim returned to his original Robin persona and briefly used the mononym \"Drake\".\nAs a young boy, Tim was in the audience the night Dick Grayson's parents were murdered and later managed to discover the identities of Batman and the original Robin through their exploits. After the death of the second Robin, Jason Todd, and witnessing Batman spiral into darkness, Tim attempted to convince Dick to resume the role of Robin, stating that \"Batman needs a Robin\". However, Dick refused to return to being Batman's sidekick, and instead, Tim was appointed as the third Robin. Neal Adams redesigned the entire Robin costume specifically for Tim Drake's character, with the sole exception of the redesigned \"R\" logo by Norm Breyfogle.\nSubsequent stories emphasize Tim's superior detective skills compared to the previous two Robins, which make him more similar to Batman. He succeeded Dick as the leader of the Teen Titans, and later led his superhero team, Young Justice. He was briefly followed in the role of Robin by Stephanie Brown, and later for a longer period by Batman's biological son, Damian Wayne, during the time Tim operated as Red Robin. Tim has been shown to have a close friendship with Superboy. Tim's most high-profile romantic pairing has been with fellow superhero and Robin Stephanie Brown.\nIn 2011, Tim Drake was ranked 32nd in IGN's Top 100 Comic Book Heroes. He has also been featured in various adaptations, including several television series, such as those set in the DCAU, Young Justice (2010–2022), and Titans (2018–2023) as well as the Batman: Arkham video game series.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,415 @@
+{
+  "id": "15735c9a06d8f5cebb9132987236b8be",
+  "name": "Winry Rockbell",
+  "native_name": "ウィンリィ・ロックベル",
+  "full_name": "Winry Rockbell",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Rockbell Family",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "age": "15-16",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Blue eyes",
+      "Mechanic outfit",
+      "Goggles",
+      "Wrench"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Resembool",
+    "current_location": "Resembool",
+    "base_of_operations": "Rockbell Automail Shop",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Automail Mechanic",
+    "secondary": "None",
+    "rank_title": "Mechanic",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rockbell Automail",
+      "State Alchemist support"
+    ],
+    "previous": [],
+    "relatives": [
+      "Pinako Rockbell (grandmother)",
+      "Parents (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist Episode 1",
+    "manga": "Fullmetal Alchemist Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Automail Engineering",
+      "native_name": "オートメイル技術",
+      "description": "Genius-level skill in building and repairing automail. Best in Amestris.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Materials"
+    },
+    {
+      "name": "Mechanical Repair",
+      "native_name": "機械修理",
+      "description": "Can repair any mechanical device. Expert engineer.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Parts"
+    },
+    {
+      "name": "Wrench Combat",
+      "native_name": "レンチ攻撃",
+      "description": "Uses wrench as weapon. Surprisingly effective in close combat.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Range"
+    },
+    {
+      "name": "Emotional Support",
+      "native_name": "感情的支え",
+      "description": "Provides crucial emotional support to Edward. Keeps him grounded.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Presence"
+    }
+  ],
+  "signature_moves": [
+    "Automail repair",
+    "Wrench strike",
+    "Emotional support"
+  ],
+  "ultimate_move": "Perfect automail",
+  "trump_card": "Engineering genius",
+  "power_attributes": {
+    "power_type": "Mechanical",
+    "power_source": "Training",
+    "combat_style": [
+      "Engineering",
+      "Support"
+    ],
+    "weapon": "Wrench",
+    "equipment": [
+      "Automail tools",
+      "Goggles"
+    ],
+    "trump_card": "Engineering genius",
+    "ultimate_move": "Perfect automail"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Determined",
+      "Intelligent",
+      "Loyal",
+      "Passionate",
+      "Strong-willed"
+    ],
+    "likes": [
+      "Edward",
+      "Automail",
+      "Mechanics",
+      "Friends",
+      "Resembool"
+    ],
+    "dislikes": [
+      "War",
+      "Loss",
+      "Edward's recklessness",
+      "Injustice"
+    ],
+    "fear": "Losing Edward",
+    "dream": "Support Edward, perfect automail",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Strong-willed",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Winry is Edward's childhood friend and automail mechanic. Supports him emotionally and physically. Her parents were killed in Ishval, but she forgives and continues helping.",
+    "motivation": "Support Edward, perfect automail",
+    "affinity": "Blue/Mechanics",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Best automail mechanic",
+    "Supported Edward",
+    "Built custom limbs",
+    "Ishval forgiveness"
+  ],
+  "titles": [
+    "Mechanic",
+    "Childhood Friend"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Cenz",
+    "details": "Mechanic"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 60,
+    "speed": 65,
+    "durability": 68,
+    "power": 70,
+    "combat": 62,
+    "total": 413
+  },
+  "weaknesses": {
+    "list": [
+      "Edward's safety",
+      "Past trauma",
+      "Physical limits"
+    ],
+    "factors": [
+      "Edward",
+      "Parents' death"
+    ]
+  },
+  "relationships": {
+    "nemesis": "War, Ishval veterans (initially)",
+    "allies": [
+      "Edward",
+      "Alphonse",
+      "Pinako",
+      "Mustang"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Edward Elric",
+        "relationship": "Love interest/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "War",
+      "Ishval veterans (initially)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Edward",
+    "best_friend": "Edward",
+    "rival": "None",
+    "mentor": "Pinako",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Edward",
+      "Alphonse",
+      "Pinako",
+      "Mustang"
+    ],
+    "colleague": null,
+    "enemy": [
+      "War, Ishval veterans (initially)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Edward",
+      "Alphonse",
+      "Pinako",
+      "Mustang"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Pinako"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "War",
+      "result": "Victory",
+      "method": "Forgiveness"
+    },
+    {
+      "opponent": "Scar",
+      "result": "Victory",
+      "method": "Understanding"
+    }
+  ],
+  "quotes": [
+    "Edward, you idiot!",
+    "I'll always fix you up.",
+    "Come back safe."
+  ],
+  "voice_acting": {
+    "native_language": "Megumi Takamoto (Japanese)",
+    "note": "Caring, determined",
+    "native_name": null,
+    "english": "Caitlin Glass",
+    "japanese": "Megumi Toyoguchi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Edward, continues mechanics",
+    "transformation": "None",
+    "awakening_potential": "Medium",
+    "power_evolution": [
+      "Mechanic",
+      "Support",
+      "Wife",
+      "Legend"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Resembool",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthplace: Resembool\nBirth date: 1899\nAge: 15-16 (around 18 at the end)\nFamily: Pinako Rockbell (grandmother), Urey Rockbell (father, deceased), Sara Rockbell (mother, deceased)\nAffiliations: Rockbell Automail, Atelier Garfiel\nOccupation: Automail mechanic\nAbilities: Automail specialist and mechanic, amateur surgeon\nUnique Trait: An unusual love for machines and tools\n\nA childhood friend of the central characters, the Elric brothers, Winry is often seen in their company throughout the series. She is evidently Edward's love interest. Specializing in mechanical repair, specifically with automail, Winry services Edward's arm and leg whenever it is in need of repair or replacement.",
+  "note": null,
+  "source": "anime"
+}

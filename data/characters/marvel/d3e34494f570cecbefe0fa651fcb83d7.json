@@ -1,0 +1,355 @@
+{
+  "name": "Spider-Man Blue",
+  "native_name": null,
+  "full_name": "John Johnathon",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (enhanced)",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 175,
+    "weight_kg": 71,
+    "age": "Teen",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Blue",
+    "notable_features": [
+      "Blue skin",
+      "Spider suit",
+      "Young appearance"
+    ],
+    "skin": "Blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Superhero",
+    "rank_title": "Spider-Man Blue",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Verse"
+    ],
+    "previous": [],
+    "relatives": [
+      "Mary Jane Blue"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #500",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spider Powers",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Melee"
+    },
+    {
+      "name": "Spider-Sense",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self"
+    },
+    {
+      "name": "Suit Tech",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Blue Web Strike",
+    "Young Justice"
+  ],
+  "ultimate_move": "Blue Justice",
+  "trump_card": "Spider Powers",
+  "power_attributes": {
+    "power_type": "Spider Powers",
+    "power_source": "Spider Bite",
+    "combat_style": [
+      "Web-slinging",
+      "Martial Arts"
+    ],
+    "weapon": "Web-shooters",
+    "equipment": [
+      "Spider-Suit",
+      "Gadgets"
+    ],
+    "trump_card": "Spider Powers",
+    "ultimate_move": "Blue Justice"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Determined",
+      "Heroic",
+      "Protective"
+    ],
+    "likes": [
+      "Justice"
+    ],
+    "dislikes": [
+      "Crime"
+    ],
+    "fear": "Losing daughter",
+    "dream": "Protect world",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "John bitten by spider",
+    "motivation": "Protect family",
+    "affinity": "Spider",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Spider-Verse member"
+  ],
+  "titles": [
+    "Spider-Man Blue",
+    "John Johnathon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 76,
+    "speed": 78,
+    "durability": 72,
+    "power": 70,
+    "combat": 75,
+    "total": 476
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Youth"
+    ],
+    "factors": [
+      "Inexperience"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Villains",
+    "allies": [
+      "Spider-Verse"
+    ],
+    "enemies": [
+      "Villains"
+    ],
+    "love_interest": "Mary Jane Blue",
+    "best_friend": "Peter Parker",
+    "mentor": "Peter Parker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Verse",
+      "Peter Parker"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Verse",
+      "Peter Parker"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Peter Parker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Villains",
+      "result": "Victory",
+      "method": "Spider powers"
+    }
+  ],
+  "quotes": [
+    "I will protect world like you do, Uncle Peter."
+  ],
+  "voice_acting": {
+    "native_language": "Jake Johnson",
+    "english": "Jake Johnson",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Protecting world",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "John",
+      "Spider-Man Blue"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-slinging"
+    ],
+    "vehicles": [
+      "Spider-Mobile"
+    ],
+    "headquarters": "Earth-142",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "d3e34494f570cecbefe0fa651fcb83d7",
+  "publisher": "marvel",
+  "about": "Spider-Man: Blue is a comic book limited series written by Jeph Loeb and illustrated by Tim Sale. It ran for a total of six issues and has been reprinted in trade paperback form. Loeb and Sale had also worked on the limited series: Daredevil: Yellow, Hulk: Gray and Captain America: White which also chronicle their respective Marvel Comics characters in their formative years.",
+  "note": null,
+  "source": "marvel"
+}

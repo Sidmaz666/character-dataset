@@ -1,0 +1,402 @@
+{
+  "id": "5be8af0a63f148bc03c839a9ad072a4a",
+  "name": "Arsenal",
+  "native_name": null,
+  "full_name": "Roy William Harper Jr.",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Harper",
+    "height_cm": 180,
+    "weight_kg": 83,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Cybernetic arm (after losing arm to Prometheus)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Navajo Reservation, Arizona",
+    "current_location": "Mobile",
+    "base_of_operations": "Mobile, Titans Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Government Agent, Former Musician",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Titans",
+      "Outlaws"
+    ],
+    "previous": [
+      "Teen Titans",
+      "Justice League of America",
+      "Suicide Squad",
+      "Checkmate",
+      "Seven Soldiers of Victory",
+      "Outsiders"
+    ],
+    "relatives": [
+      "Roy Harper Sr. (father, deceased)",
+      "Oliver Queen (adoptive father)",
+      "Lian Harper (daughter)",
+      "Brave Bow (adoptive father, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "More Fun Comics #73 (November 1941, as Speedy); New Titans #99 (July 1993, as Arsenal)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Archery",
+      "native_name": null,
+      "description": "World-class archer with exceptional marksmanship. Can shoot with extraordinary accuracy and speed.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires arrows"
+    },
+    {
+      "name": "Trick Arrows",
+      "native_name": null,
+      "description": "Utilizes various specialized arrows including boxing arrows, glue arrows, explosive arrows, and more.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Limited by arrow supply"
+    },
+    {
+      "name": "Martial Arts",
+      "native_name": null,
+      "description": "Highly trained hand-to-hand combatant. Trained by Black Canary, Oliver Queen, and Nightwing.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Experienced leader who has led various superhero teams.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Weapons Mastery",
+      "native_name": null,
+      "description": "Master of Moo Gi Gong. Can use virtually any object as a weapon.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Cybernetic Arm",
+      "native_name": null,
+      "description": "Advanced prosthetic designed by Cyborg with various offensive and defensive capabilities.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": "Technology dependent"
+    }
+  ],
+  "signature_moves": [
+    "Trick Arrow Arsenal",
+    "Bow Strike",
+    "Explosive Arrow"
+  ],
+  "ultimate_move": "Full Arrow Barrage",
+  "trump_card": "Cybernetic Arm EMP",
+  "power_attributes": {
+    "power_type": "Skill",
+    "power_source": "Training and Technology",
+    "combat_style": [
+      "Archery",
+      "Martial Arts"
+    ],
+    "weapon": "Bow and Arrows, Cybernetic Arm",
+    "equipment": [
+      "Trick Arrows",
+      "Various Gadgets"
+    ],
+    "trump_card": "Cybernetic Arm EMP",
+    "ultimate_move": "Full Arrow Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Resourceful",
+      "Headstrong",
+      "Loyal"
+    ],
+    "likes": [
+      "Family",
+      "Independence"
+    ],
+    "dislikes": [
+      "Authority",
+      "Losing"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Being a true hero",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Resourceful",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Former sidekick becoming his own hero with complex history of addiction and redemption",
+    "motivation": "Proving himself",
+    "affinity": "Skill",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Teen Titans member",
+    "Justice League member",
+    "Outlaws leader"
+  ],
+  "titles": [
+    "Speedy",
+    "Arsenal",
+    "Red Arrow"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 55,
+    "speed": 60,
+    "durability": 55,
+    "power": 85,
+    "combat": 80,
+    "total": 415
+  },
+  "weaknesses": {
+    "list": [
+      "Past addiction",
+      "Limited to arrows"
+    ],
+    "factors": [
+      "Technology can be disabled"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Cheshire",
+    "allies": [
+      "Green Arrow",
+      "Teen Titans",
+      "Nightwing"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Prometheus",
+      "Cheshire"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Cheshire, Lian Harper",
+    "best_friend": "Oliver Queen",
+    "rival": null,
+    "mentor": "Green Arrow",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Green Arrow",
+      "Teen Titans",
+      "Nightwing",
+      "Oliver Queen"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Cheshire"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Green Arrow",
+      "Teen Titans",
+      "Nightwing",
+      "Oliver Queen"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Green Arrow"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I've got a bad feeling about this..."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Crispin Freeman",
+    "note": "Young Justice animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Titans Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "An arsenal is a place where arms and ammunition are made, maintained and repaired, stored, or issued, in any combination, whether privately or publicly owned. Arsenal and armoury (British English) or armory (American English) are mostly regarded as synonyms, although subtle differences in usage exist.\nA sub-armory is a place of temporary storage or carrying of weapons and ammunition, such as any temporary post or patrol vehicle that is only operational in certain times of the day.",
+  "note": null,
+  "source": "dc"
+}

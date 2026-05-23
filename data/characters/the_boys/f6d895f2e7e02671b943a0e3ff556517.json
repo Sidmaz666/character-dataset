@@ -1,0 +1,296 @@
+{
+  "name": "Annalise",
+  "native_name": null,
+  "full_name": "Annalise",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Associated with The Deep",
+      "Normal human appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": [
+      "The Deep (relationship)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": "None",
+  "trump_card": "None",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "None",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "None",
+    "ultimate_move": "None"
+  },
+  "personality": {
+    "traits": [
+      "Quiet",
+      "Caring",
+      "Hot-headed"
+    ],
+    "likes": [
+      "Peace",
+      "Nature"
+    ],
+    "dislikes": [
+      "Supe abuse",
+      "Violence"
+    ],
+    "fear": "Supe retaliation",
+    "dream": "Safe world",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [],
+    "weaknesses": [
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "A woman romantically involved with The Deep. Her story highlights the toxic relationship dynamics and abuse in the supe world.",
+    "motivation": "Survive",
+    "affinity": "Normal",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Annalise"
+  ],
+  "titles": [
+    "Annalise"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 45,
+    "speed": 50,
+    "durability": 45,
+    "power": 10,
+    "combat": 35,
+    "total": 240
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "No powers",
+      "Vulnerable to supes"
+    ],
+    "factors": [
+      "Normal human vulnerabilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "love_interest": "The Deep",
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Annalise"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "f6d895f2e7e02671b943a0e3ff556517",
+  "publisher": "the_boys",
+  "about": "Annalise Hartman is a fictional character from the Australian soap opera Neighbours, played by Kimberley Davies. She made her debut during the episode broadcast on 15 January 1993 and departed on 31 January 1996. Davies reprised the role in July 2005, and again from 28 July 2025 and left again on 11 December 2025. Annalise has often been portrayed as having a conniving persona. Her notable storylines have included a cancer scare, surviving a plane crash and being jilted at the altar on her wedding day. The character has been noted for her many relationships, which also saw her dubbed by media sources as a \"man-magnet\" and a \"blonde bombshell.\"",
+  "note": null,
+  "source": "the_boys"
+}

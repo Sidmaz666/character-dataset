@@ -1,0 +1,435 @@
+{
+  "id": "70af06a7994890673ea8c66ed903a906",
+  "name": "Homunculus (Father)",
+  "native_name": "ファーザー",
+  "full_name": "Father",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Homunculus (Dwarf in the Flask)",
+    "race": "Homunculus",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Over 1600 years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red/Golden",
+    "hair_color": "None (flask-like body)",
+    "skin_color": "Pale/White",
+    "notable_features": [
+      "Flask-shaped body",
+      "God-like power",
+      "Multiple forms"
+    ],
+    "skin": "Pale/White",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Xerxes",
+    "current_location": "Defeated/Absorbed",
+    "base_of_operations": "Central City, Amestris",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supreme Leader",
+    "secondary": "Creator of Homunculi, God-like being",
+    "rank_title": "The Dwarf in the Flask",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Xerxes",
+      "Amestris Government",
+      "Homunculi"
+    ],
+    "relatives": [
+      "Pride, Wrath, Lust, Gluttony, Envy, Sloth, Greed (creations)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "God-like Power",
+      "native_name": null,
+      "description": "After absorbing God, can manipulate energy and matter to full extent. Can turn anything into anything at any scale and create any force at any magnitude.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Requires souls to maintain"
+    },
+    {
+      "name": "No-Circle Alchemy",
+      "native_name": null,
+      "description": "Can perform alchemy without transmutation circle, clapping, or even moving. Created seven Homunculi with various powers.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "None significant"
+    },
+    {
+      "name": "Nationwide Transmutation Circle",
+      "native_name": null,
+      "description": "Created Amestris as a massive transmutation circle to claim millions of souls. Can absorb all souls in the country.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited (country-wide)",
+      "limit": "Requires sacrifices and time"
+    },
+    {
+      "name": "Soul Absorption",
+      "native_name": null,
+      "description": "Can absorb souls from millions of people. Created Homunculi from 'sins' and can reclaim them by turning their Philosopher's Stone to liquid.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Long",
+      "limit": "Requires preparation"
+    },
+    {
+      "name": "Gate of Truth Manipulation",
+      "native_name": null,
+      "description": "Tore open the Gate of Truth with bare hands. Absorbed the entity beyond the gate (God) to gain ultimate knowledge and power.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Requires massive soul energy"
+    },
+    {
+      "name": "Reality Manipulation",
+      "native_name": null,
+      "description": "After achieving 'God' status, can almost completely defy natural order. Can do anything.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Soul dependency"
+    }
+  ],
+  "signature_moves": [
+    "Nationwide Transmutation",
+    "Soul Absorption",
+    "God Power Blast"
+  ],
+  "ultimate_move": "Full Power God Form",
+  "trump_card": "Absorbed God",
+  "power_attributes": {
+    "power_type": "Alchemy/Soul",
+    "power_source": "Millions of souls, God absorption",
+    "combat_style": [
+      "Omnipotent Alchemy",
+      "Reality Manipulation",
+      "Soul Control"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Absorbed God",
+    "ultimate_move": "Full Power God Form"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Cold",
+      "Calculating",
+      "Arrogant",
+      "Power-hungry"
+    ],
+    "likes": [
+      "Power",
+      "Knowledge",
+      "Control"
+    ],
+    "dislikes": [
+      "Humanity",
+      "Emotions",
+      "Weakness"
+    ],
+    "fear": "Returning to the Gate",
+    "dream": "To become the perfect being, free from all weakness",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "God-like Power",
+      "No-Circle Alchemy",
+      "Nationwide Transmutation Circle",
+      "Soul Absorption"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Born as the Dwarf in the Flask, Father spent 1600 years manipulating humanity and creating Homunculi to achieve ultimate power. His plan to absorb God and all Amestrian souls was thwarted by Hohenheim and the Elric brothers.",
+    "motivation": "Achieving perfect existence, eliminating weakness",
+    "affinity": "Soul/Alchemy",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Created seven Homunculi",
+    "Built Amestris as transmutation circle",
+    "Absorbed God",
+    "Gained near-omnipotence",
+    "Controlled Amestris from shadows for centuries"
+  ],
+  "titles": [
+    "The Dwarf in the Flask",
+    "Father",
+    "God-like Being"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 100,
+    "total": 600
+  },
+  "weaknesses": {
+    "list": [
+      "Requires souls to maintain God form",
+      "Greed's rebellion weakened him",
+      "Hohenheim reversed his plan"
+    ],
+    "factors": [
+      "Soul dependency",
+      "Overconfidence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Van Hohenheim, Edward Elric",
+    "allies": [
+      "Homunculi (created)",
+      "Amestrian Military"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Homunculi",
+        "relationship": "Creations",
+        "trust_level": "Disposable"
+      }
+    ],
+    "enemies": [
+      "Van Hohenheim",
+      "Elric Brothers",
+      "All Amestrians"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Van Hohenheim",
+        "relationship": "Original human",
+        "threat_level": "Equal"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Van Hohenheim",
+    "mentor": null,
+    "student": "Homunculi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Homunculi (created)",
+      "Amestrian Military"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Van Hohenheim, Edward Elric",
+      "Van Hohenheim"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Miyuki"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Miyuki"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Van Hohenheim"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Homunculi"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": "Bradley, Selim",
+    "niece": null,
+    "friends": [
+      "Homunculi",
+      "Amestrian Military"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "All Amestrians",
+      "result": "Almost Victory",
+      "method": "Nationwide transmutation circle"
+    },
+    {
+      "opponent": "Elric Brothers + Hohenheim",
+      "result": "Defeat",
+      "method": "Souls restored, absorbed by God"
+    }
+  ],
+  "quotes": [
+    "I am the one who stands at the top!",
+    "I shall obtain the power of God!"
+  ],
+  "voice_acting": {
+    "native_language": "Kenta Miyake (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Defeated",
+    "fate": "Taken back into the Gate by God after defeat",
+    "transformation": "Dwarf in Flask -> God-like Being -> Defeated",
+    "awakening_potential": "Achieved maximum power then defeated",
+    "power_evolution": [
+      "Flask entity",
+      "Homunculus creator",
+      "God absorbed"
+    ],
+    "role_in_story": "Main Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central City",
+    "story_importance": "Final Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The father of Miyuki and Kei Shirogane. His wife left him and their factory shut down leaving him to not have any stable employment. He is in strong support of a relationship between Kaguya and Miyuki.",
+  "note": null,
+  "source": "anime"
+}

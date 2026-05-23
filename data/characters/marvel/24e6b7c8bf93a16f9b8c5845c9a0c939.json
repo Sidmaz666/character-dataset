@@ -1,0 +1,317 @@
+{
+  "id": "24e6b7c8bf93a16f9b8c5845c9a0c939",
+  "name": "Nightmare",
+  "native_name": null,
+  "full_name": "Nightmare",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Demon",
+    "race": "Eldritch",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 95,
+    "age": "Eternal",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 28.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Black",
+    "skin_color": "Green",
+    "notable_features": [],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Dream Dimension",
+    "current_location": "Dream Dimension",
+    "base_of_operations": "Dream Dimension",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Lord of the Dream Dimension",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Strange Tales #1 (1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dream Manipulation",
+      "native_name": null,
+      "description": "Control dreams and nightmares",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "Eldritch Magic",
+      "native_name": null,
+      "description": "Dark mystical powers",
+      "type": "Magic",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Global",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Dream Manipulation",
+    "Eldritch Magic"
+  ],
+  "ultimate_move": "Dream Manipulation",
+  "trump_card": "Eldritch Magic",
+  "power_attributes": {
+    "power_type": "Dimensional",
+    "power_source": "Dream Dimension",
+    "combat_style": [
+      "Magic"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Eldritch Magic",
+    "ultimate_move": "Dream Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Malevolent",
+      "Manipulative",
+      "Magical"
+    ],
+    "likes": [
+      "Magic"
+    ],
+    "dislikes": [
+      "Darkness"
+    ],
+    "fear": "Darkness",
+    "dream": "Power in nightmares",
+    "personality_type": null,
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Dream Manipulation",
+      "Eldritch Magic"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "The ruler of the Dream Dimension",
+    "motivation": "Power in nightmares",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Tormented countless dreamers"
+  ],
+  "titles": [
+    "Nightmare",
+    "Lord of Dreams"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 75,
+    "durability": 75,
+    "power": 90,
+    "combat": 65,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Manipulative"
+    ],
+    "factors": [
+      "manipulative"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Doctor Strange",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Doctor Strange"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Doctor Strange"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From Marvel Comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Dream Dimension",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "A nightmare, also known as a bad dream, is an unpleasant dream that can cause a strong emotional response from the mind, typically fear but also despair, anxiety, disgust or sadness. The dream may contain situations of discomfort, psychological or physical terror, or panic. After a nightmare, a person will often awaken in a state of distress and may be unable to return to sleep for a short period of time. Recurrent nightmares may require medical help, as they can interfere with sleeping patterns and cause insomnia.\nNightmares can have physical causes such as sleeping in an uncomfortable position or having a fever, or psychological causes such as stress or anxiety. Eating before going to sleep, which triggers an increase in the body's metabolism and brain activity, can be a potential stimulus for nightmares.\nThe prevalence of nightmares in children (5–12 years old) is between 20 and 30%; the prevalence in adults is between 8 and 30%. In common language, the meaning of nightmare has extended as a metaphor to many bad things, such as a bad situation or a scary monster or person.",
+  "note": null,
+  "source": "marvel"
+}

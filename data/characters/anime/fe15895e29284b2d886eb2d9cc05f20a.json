@@ -1,0 +1,387 @@
+{
+  "id": "fe15895e29284b2d886eb2d9cc05f20a",
+  "name": "Griffith",
+  "native_name": "Griffith",
+  "full_name": "Griffith",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (formerly) / Demon God Hand (Femto)",
+    "race": "Human / Apostle",
+    "height_cm": 178,
+    "weight_kg": 68,
+    "age": "22 (human) / ageless (Femto)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (human) / Crimson (Femto)",
+    "hair_color": "White (human) / Black (Femto)",
+    "skin": "Pale",
+    "notable_features": [
+      "Striking androgynous beauty as human",
+      "Crimson Griffith crest brand",
+      "Femto: full black armor, cape, helmet"
+    ],
+    "skin_color": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "God Hand dimension (Femto)",
+    "current_location": "God Hand dimension (Femto)",
+    "base_of_operations": "God Hand dimension (Femto)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Leader of the Band of the Hawk (former)",
+    "secondary": "Member of the God Hand (Femto)",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Band of the Hawk",
+      "God Hand"
+    ],
+    "previous": [],
+    "relatives": [
+      "Unknown"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Berserk Chapter 1",
+    "manga": "Berserk Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "God Hand Powers",
+      "native_name": null,
+      "description": "As Femto, possesses reality-warping powers of the God Hand",
+      "type": "Cosmic",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": "Behohlith bound"
+    },
+    {
+      "name": "Teleportation",
+      "native_name": null,
+      "description": "Can teleport across dimensions instantly",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Universal",
+      "limit": null
+    },
+    {
+      "name": "Probability Manipulation",
+      "native_name": null,
+      "description": "Can manipulate causality and fate",
+      "type": "Cosmic",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "Master Strategist",
+      "native_name": null,
+      "description": "Brilliant military commander and tactician (human form)",
+      "type": "Tactical",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "Swordsmanship",
+      "native_name": null,
+      "description": "Extremely skilled fencer as a human",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Teleportation strike",
+    "Causality manipulation"
+  ],
+  "ultimate_move": "The Eclipse / Sacrifice ritual",
+  "trump_card": "God Hand Powers",
+  "power_attributes": {
+    "power_type": "God Hand",
+    "power_source": "Behohlith / God Hand",
+    "combat_style": [
+      "Fencing",
+      "Divine combat"
+    ],
+    "weapon": "Sabre (human)",
+    "equipment": [
+      "Behohlith (as Femto)"
+    ],
+    "trump_card": "God Hand Powers",
+    "ultimate_move": "The Eclipse / Sacrifice ritual"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Ambitious",
+      "Manipulative",
+      "Coldly calculating",
+      "Obsessive"
+    ],
+    "likes": [
+      "Power",
+      "his dream",
+      "Casca (possessively)"
+    ],
+    "dislikes": [
+      "Being powerless",
+      "failure",
+      "Guts (for challenging his dream)"
+    ],
+    "fear": "His dream dying before completion",
+    "dream": "To rule his own kingdom",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Obsessive",
+      "Cold",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Brilliant mercenary leader who sacrifices everything, including his comrades, to achieve godhood and rule his kingdom",
+    "motivation": "To obtain his own kingdom at any cost",
+    "affinity": "Evil",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Became a God Hand member",
+    "United Midland under the Band of the Hawk"
+  ],
+  "titles": [
+    "The White Hawk",
+    "Femto",
+    "The Hawk of Light"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 80,
+    "speed": 85,
+    "durability": 75,
+    "power": 100,
+    "combat": 95,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [
+      "Still bound by the Behohlith ritual",
+      "Obsession with his dream"
+    ],
+    "factors": [
+      "obsessive",
+      "cold",
+      "manipulative"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Guts",
+    "allies": [
+      "God Hand",
+      "Zodd",
+      "Band of the Hawk (former)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Guts",
+      "Skull Knight"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Casca (possessive obsession)",
+    "best_friend": null,
+    "rival": "Guts",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": "Pippin",
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "God Hand",
+      "Zodd",
+      "Band of the Hawk (former)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Guts"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Guts"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "God Hand",
+      "Zodd",
+      "Band of the Hawk"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I will never give up my dream.",
+    "Do not think of me as your friend. I am your king."
+  ],
+  "voice_acting": {
+    "native_language": "Show Hayami / Toshiyuki Morikawa (Femto)",
+    "note": null,
+    "native_name": null,
+    "english": "Veronica Taylor",
+    "japanese": "Toshiyuki Morikawa"
+  },
+  "story": {
+    "status": "Alive (as Femto)",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Eye color: Blue\nHair color: Silver\nHeight: 178 cm (5'10\")\nWeight: 66 kg (145 lbs)\nFighting style: Swordsmanship\nStrengths: \nGriffith, is the charismatic leader and founder of the Band of The Hawk. \n\nExtraordinarily charismatic, intelligent, and handsome, his skill with his sabre and tactics gives him and his band the reputation of invincibility, allowing him an opportunity to gain the favor of the Midland King during Midland's century long war with the Empire of Chuder.",
+  "note": null,
+  "source": "anime"
+}

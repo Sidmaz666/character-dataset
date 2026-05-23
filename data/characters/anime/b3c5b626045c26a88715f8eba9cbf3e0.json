@@ -1,0 +1,359 @@
+{
+  "id": "b3c5b626045c26a88715f8eba9cbf3e0",
+  "name": "Howl",
+  "native_name": "ハウル・ジェンキンス・ペンドラゴン",
+  "full_name": "Howl Jenkins Pendragon",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Wizard",
+    "race": "Human",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "age": "27",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Light Blue",
+    "hair_color": "Blonde (dyed from natural dark blue)",
+    "skin": "Fair",
+    "notable_features": "Flamboyant clothes, magical presence",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Wales (Earth)",
+    "current_location": "Ingary (Moving Castle)",
+    "base_of_operations": "Ingary (Moving Castle)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Wizard/Sorcerer",
+    "secondary": "Castle owner",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Calcifer (fire demon)",
+      "Sophie Hatter",
+      "Markl (apprentice)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Howl's Moving Castle (2004)",
+    "manga": "Howl's Moving Castle (2004)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shape-shifting",
+      "native_name": "変身",
+      "description": "Transform into various animals (cat, dog, bird) and beast form with black feathers",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    },
+    {
+      "name": "Fire/Calcifer Magic",
+      "native_name": "魔法",
+      "description": "Powered by contract with fire demon Calcifer; castle operation, spellcasting",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Illusion Magic",
+      "native_name": "幻影",
+      "description": "Charms, hiding identity, enchanting",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium"
+    },
+    {
+      "name": "Enchantment",
+      "native_name": "付魔",
+      "description": "Enchant objects, create magical contracts",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Short"
+    }
+  ],
+  "signature_moves": [
+    "Beast Transformation",
+    "Flying",
+    "Enchanted Combat"
+  ],
+  "power_attributes": {
+    "power_type": "Wizard magic",
+    "power_source": "Calcifer contract (heart)",
+    "combat_style": [
+      "Transformation",
+      "Enchantment",
+      "Flight"
+    ],
+    "weapon": "Fire/Calcifer Magic",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Shape-shifting",
+    "ultimate_move": "Fire/Calcifer Magic"
+  },
+  "personality": {
+    "traits": "Flamboyant, Vain, Playful, Secretive, Cowardly, Romantic",
+    "likes": [
+      "Freedom",
+      "Charming",
+      "Sophie's",
+      "Magic"
+    ],
+    "dislikes": [
+      "Responsibility",
+      "Royal summons",
+      "Being pinned down"
+    ],
+    "fear": "Losing control, becoming demon",
+    "dream": "Live freely, protect loved ones",
+    "personality_type": null,
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Shape-shifting",
+      "Fire/Calcifer Magic",
+      "Illusion Magic",
+      "Enchantment"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From flighty to brave hero",
+    "motivation": "Protect Sophie and Ingary",
+    "affinity": "Fire",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Built moving castle",
+    "Defeated Witch of Waste",
+    "Ended war",
+    "Regained heart"
+  ],
+  "titles": [
+    "Wizard Pendragon",
+    "Wizard Jenkins",
+    "Heartless Wizard"
+  ],
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 85,
+    "durability": 65,
+    "power": 95,
+    "combat": 80,
+    "total": 480
+  },
+  "relationships": {
+    "love_interest": "Sophie Hatter",
+    "best_friend": "Calcifer",
+    "apprentice": "Markl",
+    "nemesis": "Witch of the Waste",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Witch of the Waste"
+    ],
+    "enemies_detailed": [],
+    "rival": null,
+    "mentor": null,
+    "student": "Markl",
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Calcifer"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Witch of the Waste"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Markl"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Calcifer"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Witch of the Waste (in disguise as Suliman)",
+      "result": "Victory",
+      "method": "Helped break curse with Sophie"
+    }
+  ],
+  "quotes": [
+    "I'm the wicked witch everyone's so afraid of.",
+    "Let me handle this."
+  ],
+  "voice_acting": {
+    "native_language": "Takuya Kimura",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Marries Sophie, regains heart",
+    "transformation": [
+      "Beast form (temporary)",
+      "Regained heart"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Fire/Calcifer Magic",
+  "trump_card": "Shape-shifting",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Ingary (Moving Castle)",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "about": "Age: 27\n\nHowl is a mysterious, reclusive wizard who is known for being very flamboyant and wicked. His notorious moving castle has recently been spotted near Market Chipping and rumors have begun to spread that he is searching for beautiful young women whose hearts he may steal. He comes from Wales, a country unknown to most in the book, where his family still remain unaware of his activities in Sophie's world or of its existence.\n\nDespite his reputation, Howl is in reality an endearing, charming man who is intelligent and considerate, if somewhat self-appreciative and stubborn at times. He enjoys \"slithering out\" of uncomfortable situations, often in comical ways.\n\nHowl is described as being tall and suave, fond of dyeing his hair and wearing impressive suits. However, he is described by Calcifer as \"very vain for a plain man with mud-colored hair.\"",
+  "note": null,
+  "source": "anime"
+}

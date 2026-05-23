@@ -1,0 +1,403 @@
+{
+  "id": "e5de0278ff7c8f69a751fedbfb1c2047",
+  "name": "Gendou Ikari",
+  "native_name": "碇ゲンドウ",
+  "full_name": "Gendou Ikari",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Ikari Family",
+    "height_cm": 185,
+    "weight_kg": 80,
+    "age": "47-48",
+    "birthday": "April 29",
+    "zodiac": "Taurus",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 23.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Dark brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Glasses",
+      "Beard",
+      "Black uniform",
+      "Gloves",
+      "Stern expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "NERV HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Commander of NERV",
+    "secondary": "SEELE Member",
+    "rank_title": "Commander Ikari",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV",
+      "SEELE"
+    ],
+    "previous": [
+      "GEHIRN"
+    ],
+    "relatives": [
+      "Yui Ikari (wife, deceased)",
+      "Shinji Ikari (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Neon Genesis Evangelion Episode 1",
+    "manga": "Evangelion Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Adam's Hand",
+      "native_name": "アダムの腕",
+      "description": "Has Adam's DNA implanted in his hand, granting Angel-like powers.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Adam's influence"
+    },
+    {
+      "name": "Strategic Genius",
+      "native_name": "戦略的天才",
+      "description": "Brilliant tactician who orchestrates complex plans for Instrumentality.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Global",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Command Authority",
+      "native_name": "指揮権限",
+      "description": "Controls NERV's resources, Eva units, and personnel.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "NERV-wide",
+      "limit": "SEELE oversight"
+    }
+  ],
+  "signature_moves": [
+    "Instrumentality Plan",
+    "Adam fusion",
+    "Strategic manipulation"
+  ],
+  "ultimate_move": "Human Instrumentality Project",
+  "trump_card": "Adam in hand",
+  "power_attributes": {
+    "power_type": "Adam's power",
+    "power_source": "Adam",
+    "combat_style": [
+      "Strategy",
+      "Manipulation"
+    ],
+    "weapon": "Authority",
+    "equipment": [
+      "Adam embryo"
+    ],
+    "trump_card": "Adam in hand",
+    "ultimate_move": "Human Instrumentality Project"
+  },
+  "personality": {
+    "traits": [
+      "Cold",
+      "Calculating",
+      "Ruthless",
+      "Determined",
+      "Emotionally distant",
+      "Obsessed"
+    ],
+    "likes": [
+      "Yui",
+      "Instrumentality",
+      "Control",
+      "Plans"
+    ],
+    "dislikes": [
+      "Interference",
+      "SEELE",
+      "Obstacles",
+      "Emotions"
+    ],
+    "fear": "Losing Yui forever",
+    "dream": "Reunite with Yui through Instrumentality",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Ruthless",
+      "Cold",
+      "Distant"
+    ]
+  },
+  "character": {
+    "arc": "Gendou is the cold commander of NERV and Shinji's father. Obsessed with reuniting with wife Yui through Instrumentality. Manipulates everyone for his goals.",
+    "motivation": "Reunite with Yui",
+    "affinity": "Black/Manipulation",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Founded NERV",
+    "Human Instrumentality architect",
+    "Adam fusion"
+  ],
+  "titles": [
+    "Commander",
+    "Father",
+    "SEELE Member"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Commander"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 60,
+    "durability": 75,
+    "power": 88,
+    "combat": 65,
+    "total": 453
+  },
+  "weaknesses": {
+    "list": [
+      "Obsession with Yui",
+      "Emotionally crippled",
+      "Underestimates others"
+    ],
+    "factors": [
+      "Yui's memory",
+      "Shinji"
+    ]
+  },
+  "relationships": {
+    "nemesis": "SEELE, Shinji (strained)",
+    "allies": [
+      "Fuyutsuki",
+      "Rei",
+      "Ritsuko"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kozo Fuyutsuki",
+        "relationship": "Subordinate",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "SEELE",
+      "Angels"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Yui Ikari",
+    "best_friend": "Fuyutsuki",
+    "rival": "SEELE",
+    "mentor": "Fuyutsuki",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Fuyutsuki",
+      "Rei",
+      "Ritsuko"
+    ],
+    "colleague": null,
+    "enemy": [
+      "SEELE, Shinji (strained)",
+      "SEELE"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "SEELE"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Fuyutsuki",
+      "Rei",
+      "Ritsuko"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Fuyutsuki"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "SEELE",
+      "result": "Conflict",
+      "method": "Political maneuvering"
+    },
+    {
+      "opponent": "Shinji",
+      "result": "Estranged",
+      "method": "Emotional distance"
+    }
+  ],
+  "quotes": [
+    "The time has come.",
+    "I will do what must be done.",
+    "This is all according to plan."
+  ],
+  "voice_acting": {
+    "native_language": "Fumihiko Tachiki (Japanese)",
+    "note": "Deep, commanding",
+    "native_name": null,
+    "english": "John Swasey",
+    "japanese": "Fumihiko Tachiki"
+  },
+  "story": {
+    "status": "Deceased (End of Evangelion)",
+    "fate": "Consumed by Eva-01",
+    "transformation": "Adam fusion",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Scientist",
+      "Commander",
+      "Instrumentality",
+      "Consumed"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "NERV HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: February 22\nBlood Type: AB\n\nMisuzu is a manipulative and assertive friend of Tomo, whom she has known since childhood. She does everything and can make things entertaining for her whether it be to help Tomo or make things worse.\n\nShe is very negative toward Jun and hesitant with Carol.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,396 @@
+{
+  "id": "285594a1f5748f9fa75e67399a1f8633",
+  "name": "Stormfront",
+  "native_name": null,
+  "full_name": "Klendor Cr Richter / Liberty",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Compound V Enhanced (Nazi origin)",
+    "bloodline": "Richter",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "80+ (born 1939)",
+    "birthday": "August 1",
+    "zodiac": "Leo",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Lightning bolt symbol",
+      "Aryan appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Nazi Germany",
+    "current_location": "Deceased (Season 2)",
+    "base_of_operations": "Formerly Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Nazi Propagandist",
+    "rank_title": "Team Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly The Seven"
+    ],
+    "previous": [
+      "Nazi Germany"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Electrokinetic Blasts",
+      "native_name": null,
+      "description": "Project lightning bolts",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Can be redirected"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Electric Immunity",
+      "native_name": null,
+      "description": "Immune to electricity",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Strength",
+      "native_name": null,
+      "description": "Super strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Lightning Bolt",
+    "Thunder Strike"
+  ],
+  "ultimate_move": "Full Power Lightning Storm",
+  "trump_card": "Electric Overload",
+  "power_attributes": {
+    "power_type": "Electrokinesis",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Electrical combat",
+      "Flight"
+    ],
+    "weapon": "Electrokinetic Blasts",
+    "equipment": [
+      "Lightning suit"
+    ],
+    "trump_card": "Electric Overload",
+    "ultimate_move": "Full Power Lightning Storm"
+  },
+  "personality": {
+    "traits": [
+      "Nazist",
+      "Arrogant",
+      "Violent",
+      "Superiority complex"
+    ],
+    "likes": [
+      "Power",
+      "Racism",
+      "Control"
+    ],
+    "dislikes": [
+      "Failure",
+      "Diversity"
+    ],
+    "fear": "Death",
+    "dream": "Racial purity",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Electrokinetic Blasts",
+      "Flight",
+      "Electric Immunity",
+      "Enhanced Strength"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Violent"
+    ]
+  },
+  "character": {
+    "arc": "Nazi villain rebranded as American hero",
+    "motivation": "Power and control",
+    "affinity": "Lightning",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Nazi supe program",
+    "The Seven member",
+    "Killed multiple targets"
+  ],
+  "titles": [
+    "Stormfront",
+    "Liberty"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Deceased"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 75,
+    "speed": 70,
+    "durability": 70,
+    "power": 85,
+    "combat": 60,
+    "total": 425
+  },
+  "weaknesses": {
+    "list": [
+      "EMP vulnerability",
+      "Conductivity weakness",
+      "Old age"
+    ],
+    "factors": [
+      "EMP weapons"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Boys",
+    "allies": [
+      "Vought",
+      "Nazi program"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Team leader",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "The Boys",
+      "Modern heroes"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Frenchie",
+        "relationship": "Combat enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "Nazi program"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "Nazi program"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Frenchie",
+      "result": "Victory",
+      "method": "EMP disabled him"
+    },
+    {
+      "opponent": "Kimiko",
+      "result": "Victory",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "America was never great in the first place."
+  ],
+  "voice_acting": {
+    "native_language": "Aija Mayrock (English)",
+    "english": "Aija Mayrock",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Ryan's heat vision",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Nazi weapon",
+      "Modern hero"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

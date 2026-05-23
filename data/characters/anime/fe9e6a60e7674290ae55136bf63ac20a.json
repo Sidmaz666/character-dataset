@@ -1,0 +1,382 @@
+{
+  "id": "fe9e6a60e7674290ae55136bf63ac20a",
+  "name": "Escanor",
+  "native_name": "Escanor",
+  "full_name": "Escanor",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 250,
+    "weight_kg": 150,
+    "age": "Unknown (adult)",
+    "birthday": "July 1",
+    "blood_type": "AB",
+    "bloodline": null,
+    "zodiac": "Cancer",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Orange (day) / Gray (night)",
+    "hair_color": "Orange/Red",
+    "skin": "Tan",
+    "notable_features": [
+      "Muscular giant during the day",
+      "diminutive at night",
+      "axes and rhino motif armor"
+    ],
+    "skin_color": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Britannia",
+    "current_location": "Castle Lioness",
+    "base_of_operations": "Castle Lioness",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "The Lion Sin of Pride",
+    "secondary": "King of Castle Lioness",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Seven Deadly Sins"
+    ],
+    "previous": [],
+    "relatives": [
+      "Unnamed elder brother",
+      "Unnamed father (abusive)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Nanatsu no Taizai Episode 1 (debut later)",
+    "manga": "Nanatsu no Taizai Episode 1 (debut later)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sunshine (Graces)",
+      "native_name": null,
+      "description": "Power of the Sun - strength scales with the sun's position, absolute peak at noon",
+      "type": "Cosmic",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Only at full power during daytime"
+    },
+    {
+      "name": "Divine Axe Rhitta",
+      "native_name": null,
+      "description": "Massive axe that stores solar power for nighttime use",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "One-Shot Kill (Estarossa)",
+      "native_name": null,
+      "description": "Can destroy Commandments in a single blow at noon",
+      "type": "Ultimate",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Short",
+      "limit": "Only at absolute noon"
+    },
+    {
+      "name": "Cruel Sun",
+      "native_name": null,
+      "description": "Creates a miniature sun for massive area damage",
+      "type": "Ultimate",
+      "tier": "S+",
+      "power_level": 99,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Immunity to Magic",
+      "native_name": null,
+      "description": "Sunshine protects him from magical attacks",
+      "type": "Defensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Divine Axe Rhitta swing",
+    "Cruel Sun",
+    "Sunshine Blast"
+  ],
+  "ultimate_move": "Escanor Pride Flare / The One",
+  "trump_card": "Sunshine (Graces)",
+  "power_attributes": {
+    "power_type": "Divine (Sun Graces)",
+    "power_source": "The Sun",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Divine Axe Rhitta",
+    "equipment": [
+      "Divine Axe Rhitta"
+    ],
+    "trump_card": "Sunshine (Graces)",
+    "ultimate_move": "Escanor Pride Flare / The One"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Boastful",
+      "Loyal",
+      "Honorable",
+      "Hot-blooded"
+    ],
+    "likes": [
+      "Daytime",
+      "fighting strong opponents",
+      "drinking",
+      "his kingly duties"
+    ],
+    "dislikes": [
+      "Nighttime (weak form)",
+      "cowards",
+      "disrespect"
+    ],
+    "fear": "Nighttime - becomes weak and timid",
+    "dream": "Protect his friends and fulfill his role as a Deadly Sin",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "The Lion Sin of Pride, a man with a split personality based on day/night, possessing the power of the sun itself",
+    "motivation": "Protect his friends and fulfill his role as a Deadly Sin",
+    "affinity": "Good",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Estarossa with one blow",
+    "Stood against the Demon King"
+  ],
+  "titles": [
+    "The Lion Sin of Pride",
+    "The Strongest Sin",
+    "King of Castle Lioness"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 100,
+    "speed": 90,
+    "durability": 95,
+    "power": 100,
+    "combat": 85,
+    "total": 530
+  },
+  "weaknesses": {
+    "list": [
+      "Nighttime - becomes weak and timid",
+      "pride can be exploited"
+    ],
+    "factors": [
+      "arrogant"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Seven Deadly Sins",
+      "Elizabeth"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "The Ten Commandments",
+      "Demon King"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Merlin",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Seven Deadly Sins",
+      "Elizabeth",
+      "Merlin"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Ten Commandments",
+      "Demon King"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Seven Deadly Sins",
+      "Elizabeth",
+      "Merlin"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Who decided that?!",
+    "If you were a sun, you'd be merely a star in my presence!"
+  ],
+  "voice_acting": {
+    "native_language": "Tomokazu Seki",
+    "note": null,
+    "native_name": null,
+    "english": "Kyle Hebert",
+    "japanese": "Tomokazu Sugita"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Character (Seven Deadly Sins)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Character (Seven Deadly Sins)",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Human\nAge: 40\nBirthday: July 1\nHeight: 165-325 cm (5'5\"-10'8\")\nWeight: 49-355 kg (108-785 Ibs)\nHair color: Orange\nEye color: Blue\nBlood type: AB\n\nHe is a member of the Seven Deadly Sins. He is the Lion's Sin of Pride.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,325 @@
+{
+  "id": "5dc6c3fa30199b84038b9c4731273ae3",
+  "name": "Tokito, Muichiro",
+  "native_name": "",
+  "full_name": "Tokito, Muichiro",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Demon Slayer Corps",
+    "base_of_operations": "Butterfly Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Slayer",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer",
+    "manga": "Demon Slayer",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Breathing Technique",
+      "type": "Combat",
+      "description": "Master of a specific breathing style for enhanced swordsmanship",
+      "power_level": "High"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Weapon",
+      "description": "Skilled in using Nichirin blades",
+      "power_level": "High"
+    },
+    {
+      "name": "Enhanced Senses",
+      "type": "Physical",
+      "description": "Heightened sensory perception for demon detection",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Breathing Technique",
+    "Swordsmanship",
+    "Enhanced Senses"
+  ],
+  "ultimate_move": "Breathing Technique",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Technology",
+    "combat_style": [
+      "Swordsmanship"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Breathing Technique",
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "Breathing Technique"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Compassionate",
+      "Disciplined",
+      "Brave",
+      "Selfless"
+    ],
+    "likes": [
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Frivolity"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Demon Slayer character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Kengo Kawanishi (Japanese)",
+    "Voiced by Griffin Burns (English)"
+  ],
+  "titles": [
+    "Demon Slayer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 65,
+    "speed": 65,
+    "durability": 65,
+    "power": 65,
+    "combat": 65,
+    "total": 390
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Demon Slayer Corps"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Demons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Demon Slayer Corps"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Demon Slayer Corps"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Griffin Burns",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Kengo Kawanishi"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Tokitou Muichirou is a Demon Slayer and the Mist Pillar of the Demon Killing Corps. He is usually cold but has a soft side for people that reminds him of his family. Two months after joining the Demon Slayer Corps, he was appointed a Pillar of the Mist, making him the youngest Pillar of that era. Muichiro's past is quite mysterious, as he has a poor memory and seems to remember nothing of his past. \n\nIn the Swordsmith Village arc, while fighting against Upper Moon 5, Gyokko, Muichiro regained his memories, which triggered him to awaken his Demon Slayer Mark. This made Muichiro the first Pillar to successfully activate his Demon Slayer Mark.",
+  "note": null,
+  "source": "anime"
+}

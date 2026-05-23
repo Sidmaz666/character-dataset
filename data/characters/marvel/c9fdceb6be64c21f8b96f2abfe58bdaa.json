@@ -1,0 +1,369 @@
+{
+  "name": "Madame Web",
+  "native_name": null,
+  "full_name": "Cassandra Webb",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": "Webb",
+    "height_cm": 168,
+    "weight_kg": 55,
+    "age": "Elderly",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White/Blind",
+    "hair_color": "White",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Life-support chair",
+      "Web throne",
+      "Blind"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Salem, USA",
+    "current_location": "Spider-Sanctuary",
+    "base_of_operations": "Spider-Sanctuary",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Psychic Guide",
+    "secondary": "Mentor",
+    "rank_title": "Madame Web",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Army"
+    ],
+    "previous": [],
+    "relatives": [
+      "Julia Carpenter (successor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #210 (1980)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Precognition",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Temporal"
+    },
+    {
+      "name": "Telepathy",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Global"
+    },
+    {
+      "name": "Clairvoyance",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global"
+    },
+    {
+      "name": "Web of Life Mastery",
+      "type": "Cosmic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Multiversal"
+    }
+  ],
+  "signature_moves": [
+    "Future Sight",
+    "Web Navigation",
+    "Multiversal Coordination"
+  ],
+  "ultimate_move": "Web of Destiny",
+  "trump_card": "Complete Web of Life Mastery",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Mutant Psionics",
+    "combat_style": [
+      "Non-combatant",
+      "Strategic",
+      "Psychic"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Life-support chair"
+    ],
+    "trump_card": "Complete Web of Life Mastery",
+    "ultimate_move": "Web of Destiny"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Mysterious",
+      "Cryptic",
+      "Patient"
+    ],
+    "likes": [
+      "Web of Life",
+      "Spider totems"
+    ],
+    "dislikes": [
+      "Destiny disruption"
+    ],
+    "fear": "Web destroyed",
+    "dream": "Balance in Spider-Verse",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Born mutant with myasthenia gravis, connected to life support resembling a web. Became cosmic entity connected to the Web of Life and Destiny spanning all Spider-Verses. Guided countless heroes before passing the mantle to Julia Carpenter.",
+    "motivation": "Preserve the Web of Life",
+    "affinity": "Cosmic",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Maintained Web of Life",
+    "Guided Spider heroes",
+    "Survived Spider-Verse"
+  ],
+  "titles": [
+    "Madame Web",
+    "Cassandra Webb",
+    "The Seer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 10,
+    "speed": 15,
+    "durability": 15,
+    "power": 98,
+    "combat": 5,
+    "total": 241
+  },
+  "weaknesses": {
+    "list": [
+      "Physically frail",
+      "Blindness",
+      "Mortality"
+    ],
+    "factors": [
+      "Cannot fight physically",
+      "Life support dependent"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Morlun",
+    "allies": [
+      "Spider heroes"
+    ],
+    "enemies": [
+      "Morlun",
+      "Inheritors"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": "Julia Carpenter",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Morlun"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Julia Carpenter"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Inheritors",
+      "result": "Victory",
+      "method": "Psychic guidance"
+    }
+  ],
+  "quotes": [
+    "The threads of destiny weave a web far more intricate than you imagine."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Passed mantle to Julia Carpenter",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Cassandra Webb",
+      "Madame Web"
+    ],
+    "role": "Supporting/Mentor",
+    "role_in_story": null,
+    "awakening_potential": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Life-support chair"
+    ],
+    "headquarters": "Spider-Sanctuary",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "c9fdceb6be64c21f8b96f2abfe58bdaa",
+  "publisher": "marvel",
+  "about": "Madame Web is a character appearing in American comic books published by Marvel Comics. She first appeared in The Amazing Spider-Man No. 210, published November 1980, and was created by writer Dennis O'Neil and artist John Romita Jr. She is usually depicted as a supporting character in the Spider-Man comic book series, where she appears as an elderly woman with myasthenia gravis, connected to a life support system resembling a spiderweb.",
+  "note": null,
+  "source": "marvel"
+}

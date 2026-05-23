@@ -1,0 +1,404 @@
+{
+  "id": "86777eb34f908261d9801f96e1cd468c",
+  "name": "Darth Maul",
+  "native_name": null,
+  "full_name": "Maul",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Zabrak",
+    "race": "Dathomirian",
+    "bloodline": "Nightbrother clan",
+    "height_cm": 175,
+    "weight_kg": 80,
+    "age": "Born 54 BBY, Died 2 ABY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Black (none)",
+    "skin_color": "Red tattoos",
+    "notable_features": [
+      "Double-bladed saber",
+      "Tattoos",
+      "Horns"
+    ],
+    "skin": "Red tattoos",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Dathomir",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sith Lord",
+    "secondary": "Crime lord",
+    "rank_title": "Dark Lord of the Sith",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sith"
+    ],
+    "previous": [
+      "Crimson Dawn"
+    ],
+    "relatives": [
+      "Savage Opress (brother)",
+      "Talzin (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode I - The Phantom Menace (1999)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects with Force",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Force Push",
+      "native_name": null,
+      "description": "Push opponents",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Force Choke",
+      "native_name": null,
+      "description": "Strangle victims",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Juyo master",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Spinning saber",
+    "Spin attack"
+  ],
+  "ultimate_move": "Sith prophecy",
+  "trump_card": "Unleashed power",
+  "power_attributes": {
+    "power_type": "Force (Dark Side)",
+    "power_source": "The Force",
+    "combat_style": [
+      "Juyo",
+      "Jar'Kai"
+    ],
+    "weapon": "Double-bladed lightsaber",
+    "equipment": [
+      "Speeders",
+      "Various weapons"
+    ],
+    "trump_card": "Unleashed power",
+    "ultimate_move": "Sith prophecy"
+  },
+  "personality": {
+    "traits": [
+      "Angry",
+      "Ruthless",
+      "Intelligent",
+      "Vengeful"
+    ],
+    "likes": [
+      "Vengeance",
+      "Power"
+    ],
+    "dislikes": [
+      "Obi-Wan",
+      "Jedi"
+    ],
+    "fear": "Forgetting purpose",
+    "dream": "Defeat Obi-Wan",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Assassin to crime lord",
+    "motivation": "Vengeance",
+    "affinity": "Dark Side",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Killed Qui-Gon Jinn",
+    "Founded Crimson Dawn",
+    "Conquered Mandalore"
+  ],
+  "titles": [
+    "Sith Lord",
+    "Crime lord",
+    "Shadow Lord"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Feared throughout galaxy"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 85,
+    "speed": 95,
+    "durability": 85,
+    "power": 90,
+    "combat": 95,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [
+      "Rage",
+      "Impulsiveness"
+    ],
+    "factors": [
+      "Can be manipulated"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Obi-Wan Kenobi",
+    "allies": [
+      "Talzin",
+      "Savage Opress"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Darth Sidious",
+        "relationship": "Master",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Jedi Order",
+      "Republic"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Obi-Wan Kenobi",
+        "relationship": "Nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Obi-Wan Kenobi",
+    "mentor": "Darth Sidious",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Talzin",
+      "Savage Opress"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Obi-Wan Kenobi"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Obi-Wan Kenobi"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Talzin",
+      "Savage Opress"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Darth Sidious"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Qui-Gon Jinn",
+      "result": "Victory",
+      "method": "Duel"
+    },
+    {
+      "opponent": "Obi-Wan Kenobi",
+      "result": "Defeat",
+      "method": "Cut in half"
+    }
+  ],
+  "quotes": [
+    "At last we will have our revenge"
+  ],
+  "voice_acting": {
+    "native_language": "Peter Serafinowicz",
+    "english": "Peter Serafinowicz",
+    "note": " Voice actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Obi-Wan",
+    "transformation": "Half-droid",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Assassin",
+      "Crime lord",
+      "Sith"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Speeder bike"
+    ],
+    "vehicles": [
+      null
+    ],
+    "headquarters": "Crimson Dawn",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Darth Maul, also known simply as Maul, is a character in the Star Wars franchise created by George Lucas. He first appeared in the prequel film Star Wars: Episode I – The Phantom Menace (1999). Maul returned in the animated television series Star Wars: The Clone Wars, Star Wars Rebels (2014–2018) and Star Wars: Maul – Shadow Lord (2026) as well as the standalone film Solo: A Star Wars Story (2018). Lucas had intended for Maul to feature in the sequel film trilogy, but these plans were discarded when Disney acquired Lucasfilm in 2012.",
+  "note": null,
+  "source": "star_wars"
+}

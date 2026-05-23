@@ -1,0 +1,373 @@
+{
+  "id": "caaeba6b75499385d55f411efcadaa42",
+  "name": "Makima",
+  "native_name": "マキマ",
+  "full_name": "Makima",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Devil",
+    "race": "Control Devil",
+    "bloodline": "Unknown",
+    "height_cm": 167,
+    "weight_kg": 55,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Light Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Ringed eyes",
+      "Business attire",
+      "Calm expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo",
+    "current_location": "Tokyo",
+    "base_of_operations": "Public Safety HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Public Safety Official",
+    "secondary": "Control Devil",
+    "rank_title": "High-ranking Official",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety",
+      "Government"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Chainsaw Man Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Control",
+      "native_name": "支配",
+      "description": "Controls those she deems inferior",
+      "type": "Mind Control",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Unlimited",
+      "limit": "Must view target as inferior"
+    },
+    {
+      "name": "Devil Contract",
+      "native_name": "悪魔の契約",
+      "description": "Various contracts with devils",
+      "type": "Contract",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Variable",
+      "limit": "Contract terms"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": "再生",
+      "description": "Redirects damage to others",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Needs substitute"
+    }
+  ],
+  "signature_moves": [
+    "Control",
+    "Bang",
+    "Devil Contract"
+  ],
+  "ultimate_move": "Complete Control",
+  "trump_card": "Control Devil True Form",
+  "power_attributes": {
+    "power_type": "Devil Power",
+    "power_source": "Fear of Control",
+    "combat_style": [
+      "Mind Control",
+      "Contracts"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Public Safety uniform"
+    ],
+    "trump_card": "Control Devil True Form",
+    "ultimate_move": "Complete Control"
+  },
+  "personality": {
+    "traits": [
+      "Manipulative",
+      "Calm",
+      "Calculating",
+      "Cold",
+      "Ambitious"
+    ],
+    "likes": [
+      "Control",
+      "Denji",
+      "Order"
+    ],
+    "dislikes": [
+      "Chaos",
+      "Disobedience"
+    ],
+    "fear": "Loss of control",
+    "dream": "Create ideal world through control",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Control",
+      "Devil Contract",
+      "Regeneration"
+    ],
+    "weaknesses": [
+      "Cold",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Control Devil seeking order",
+    "motivation": "Control everything",
+    "affinity": "Control",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Controlled Japan's government",
+    "Manipulated Denji",
+    "High-ranking Public Safety official"
+  ],
+  "titles": [
+    "Control Devil",
+    "Public Safety Official"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 80,
+    "speed": 85,
+    "durability": 90,
+    "power": 99,
+    "combat": 85,
+    "total": 534
+  },
+  "weaknesses": {
+    "list": [
+      "Views Denji as equal",
+      "Overconfidence"
+    ],
+    "factors": [
+      "Emotional attachment to Denji"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Denji",
+    "allies": [
+      "Public Safety (controlled)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Denji",
+      "Chainsaw Man"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Denji",
+        "relationship": "Target/Interest",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Denji (obsessed)",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Public Safety (controlled)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Denji"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Public Safety"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Denji",
+      "result": "Victory",
+      "method": "Control"
+    },
+    {
+      "opponent": "Various Devils",
+      "result": "Victory",
+      "method": "Contracts"
+    }
+  ],
+  "quotes": [
+    "I want to control you.",
+    "All I need is Denji."
+  ],
+  "voice_acting": {
+    "native_language": "Tomori Kusunoki",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Suzie Yeung",
+    "japanese": "Tomori Kusunoki"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Denji",
+    "transformation": null,
+    "awakening_potential": "N/A",
+    "power_evolution": [],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Makima is a Public Safety Devil Hunter.\n\n\n\n(Source: Chainsaw Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

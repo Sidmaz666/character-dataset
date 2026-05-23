@@ -1,0 +1,334 @@
+{
+  "id": "0323a335a3eb2e4965155191f0f21ff4",
+  "name": "Nemu Tsukumayuzuki",
+  "native_name": "",
+  "full_name": "Nemu Tsukumayuzuki",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple\nHeight",
+    "hair_color": "Ocher",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Soul Society",
+    "base_of_operations": "Soul Society",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bleach",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach",
+    "manga": "Bleach",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanjutsu",
+      "type": "Swordsmanship",
+      "description": "Expert in sword combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Kido",
+      "type": "Magic",
+      "description": "Able to cast demon magic spells",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hakuda",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hoho",
+      "type": "Movement",
+      "description": "Advanced movement techniques",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Zanjutsu",
+    "Kido",
+    "Hakuda"
+  ],
+  "ultimate_move": "Zanjutsu",
+  "trump_card": "Kido",
+  "power_attributes": {
+    "power_type": "Unknown",
+    "power_source": "Magic",
+    "combat_style": [
+      "Magic",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Zanjutsu"
+    ],
+    "trump_card": "Kido",
+    "ultimate_move": "Zanjutsu"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Proud",
+      "Disciplined",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Threats to loved ones",
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Bleach character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ringo Aoba (Japanese)"
+  ],
+  "titles": [
+    "Bleach"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 55,
+    "speed": 55,
+    "durability": 55,
+    "power": 55,
+    "combat": 55,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ringo Aoba"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Nemu Manaka takes control of the macabre game in which they are all trapped and seduces Kei instead of allowing himself to become a victim. At school she always made a distant, mysterious impression, like a beautiful but unattainable flower, i.e. many admired her, but no one was really close to her. In order to keep the fact that she has seen through Kei's true nature and dark side a secret from the others, she offers herself to him, although her true motives for doing so are currently still a mystery. Because of her initiative, Kei chooses her as the first \"keyhole\" and thus as his partner for the first stage of the game. Here he has to rape her, whereby Nemu remains unnaturally calm and confident and even encourages him to be rougher with her because the rules of this level require this level of harshness. \n\nGender: Female\nHair Color: Ocher (Dark)\nEye Color: Purple\nHeight: 1.68m\nNationality: Japan\nB/W/H： 85（D）/ 58/ 84\n\nSeiyuu:\nVisual Novel\nRamune Aozora (青空 ラムネ)",
+  "note": null,
+  "source": "anime"
+}

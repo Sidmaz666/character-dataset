@@ -1,0 +1,321 @@
+{
+  "id": "d35037358d68d6b188f6aab3ad8d19c4",
+  "name": "Damien Darkblood",
+  "native_name": null,
+  "full_name": "Damien Darkblood",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Demon",
+    "race": "Demon",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Black",
+    "skin_color": "Red",
+    "notable_features": [
+      "Demon horns"
+    ],
+    "skin": "Red",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Hell",
+    "current_location": "Earth",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Investigator",
+    "secondary": "Demon",
+    "rank_title": "Demon Detective",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Invincible",
+    "comics": "Image Comics",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Demon Physiology",
+      "native_name": null,
+      "description": "Demon powers",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Investigation",
+      "native_name": null,
+      "description": "Track anyone",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Hellfire"
+  ],
+  "ultimate_move": "Full Demon Power",
+  "power_attributes": {
+    "power_type": "Demon",
+    "power_source": "Hell powers",
+    "combat_style": [
+      "Demon combat"
+    ],
+    "weapon": "Trident",
+    "equipment": [],
+    "trump_card": "Investigation",
+    "ultimate_move": "Full Demon Power"
+  },
+  "personality": {
+    "traits": [
+      "Investigative",
+      "Determined",
+      "Gruff"
+    ],
+    "likes": [
+      "Solving mysteries"
+    ],
+    "dislikes": [
+      "Liars"
+    ],
+    "fear": "Holy items",
+    "dream": "Find the truth",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Demon detective",
+    "motivation": "Justice",
+    "affinity": "Investigation",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Solved mysteries"
+  ],
+  "titles": [
+    "Darkblood",
+    "Demon Detective"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by Hell"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 60,
+    "durability": 70,
+    "power": 75,
+    "combat": 65,
+    "total": 425
+  },
+  "weaknesses": {
+    "list": [
+      "Holy items"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Invincible"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Invincible"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Invincible"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "The truth is out there."
+  ],
+  "voice_acting": {
+    "native_language": "Kevin Durand",
+    "english": "Kevin Durand",
+    "note": "Animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues investigating",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Earth",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "trump_card": "Investigation",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

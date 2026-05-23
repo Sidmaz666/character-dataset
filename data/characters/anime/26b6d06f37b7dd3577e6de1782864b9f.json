@@ -1,0 +1,321 @@
+{
+  "id": "26b6d06f37b7dd3577e6de1782864b9f",
+  "name": "Jealousy",
+  "native_name": "ジェラシー",
+  "full_name": "Jealousy",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Amestris",
+    "base_of_operations": "Central City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Fullmetal Alchemist",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist",
+    "manga": "Fullmetal Alchemist",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Alchemy",
+      "type": "Transmutation",
+      "description": "Skilled in the art of alchemical transmutation",
+      "power_level": "High"
+    },
+    {
+      "name": "Combat Alchemy",
+      "type": "Combat",
+      "description": "Applies alchemy in combat situations",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Analytical Mind",
+      "type": "Mental",
+      "description": "Sharp problem-solving and analytical abilities",
+      "power_level": "High"
+    }
+  ],
+  "signature_moves": [
+    "Alchemy",
+    "Combat Alchemy",
+    "Analytical Mind"
+  ],
+  "ultimate_move": "Alchemy",
+  "trump_card": "Combat Alchemy",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Psychic combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Psychic focus"
+    ],
+    "trump_card": "Combat Alchemy",
+    "ultimate_move": "Alchemy"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Determined",
+      "Compassionate",
+      "Brave",
+      "Principled"
+    ],
+    "likes": [
+      "Learning",
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Death",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Fullmetal Alchemist character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Fullmetal Alchemist"
+  ],
+  "titles": [
+    "Fullmetal Alchemist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 65,
+    "speed": 65,
+    "durability": 65,
+    "power": 65,
+    "combat": 65,
+    "total": 390
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "State Military"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "State Military"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "State Military"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Jealous only appears in a flashback when Rem explains a method to kill a Shinigami. In this flashback, Rem recalls Jealous watching over a woman  in the human world. Surprised by his concern, Rem eventually looks over his shoulder and witnesses what should have been the woman's last moments on Earth. In a dark alley, a distraught man mistakes woman as the woman who broke up with him and attempts to stab her to death. Apparently infatuated with the woman, Jealous uses his Death Note to kill her destined murderer; the man suddenly walks away to commit suicide. Moments later, Jealous himself turns to a pile of sand and rust as consequence for extending a human life. Rem takes his Death Note and gave it to Misa\n\nJealous' name is commonly misspelled \"Gelus,\" which is what his name was romanized to until Death Note: How to Read 13 revealed the official spelling as Jealous. The first through fourth printings of Volume 4 of the English-language manga refers to him as Gelus.\n\nKen'ichi Matsuyama, who portrayed L in the live action films, voices Jealous in the anime.",
+  "note": null,
+  "source": "anime"
+}

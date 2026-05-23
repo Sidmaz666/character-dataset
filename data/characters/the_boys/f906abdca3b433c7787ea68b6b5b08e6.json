@@ -1,0 +1,354 @@
+{
+  "name": "Ashley Barrett",
+  "native_name": null,
+  "full_name": "Ashley Barrett",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 168,
+    "weight_kg": 58,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Vought executive attire",
+      "Red hair",
+      "Stress expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought Tower",
+    "current_location": "Vought Tower",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "CEO of Vought",
+    "secondary": "PR Executive (formerly)",
+    "rank_title": "Madam CEO",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought International"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Corporate Management",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self"
+    },
+    {
+      "name": "PR Expertise",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    },
+    {
+      "name": "Stress Endurance",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "PR Spin",
+    "Corporate Cover-up",
+    "Public Appearance"
+  ],
+  "ultimate_move": "Vought Damage Control",
+  "trump_card": "Desperate Corporate Loyalty",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "Vought position",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Corporate attire",
+      "Vought resources"
+    ],
+    "trump_card": "Desperate Corporate Loyalty",
+    "ultimate_move": "Vought Damage Control"
+  },
+  "personality": {
+    "traits": [
+      "Stressed",
+      "Loyal (to Vought)",
+      "Desperate",
+      "Anxious",
+      "Professional"
+    ],
+    "likes": [
+      "Job security",
+      "Vought success",
+      "Surviving"
+    ],
+    "dislikes": [
+      "Homelander",
+      "Threats",
+      "The Boys"
+    ],
+    "fear": "Being killed by Homelander",
+    "dream": "Survive and succeed at Vought",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Anxious"
+    ]
+  },
+  "character": {
+    "arc": "PR executive who worked her way up to CEO of Vought after Stan Edgar was ousted. Lives in constant fear of Homelander and manages Vought's increasingly dangerous supes. Represents the human cost of managing supes.",
+    "motivation": "Keep her job and stay alive",
+    "affinity": "Corporate/Fear",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Became Vought CEO",
+    "Survived multiple seasons",
+    "Managed Homelander (barely)"
+  ],
+  "titles": [
+    "Ashley Barrett",
+    "Vought CEO",
+    "PR Executive"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 35,
+    "speed": 40,
+    "durability": 40,
+    "power": 55,
+    "combat": 20,
+    "total": 265
+  },
+  "weaknesses": {
+    "list": [
+      "No powers",
+      "Cowardice",
+      "Homelander's puppet"
+    ],
+    "factors": [
+      "Completey human",
+      "Easily intimidated",
+      "Stress-prone"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homelander (through fear)",
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys (indirectly)",
+      "Homelander (fearfully)"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": "Stan Edgar (former)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homelander (through fear)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Stan Edgar"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Please do not kill me.",
+    "Everything is fine. Everything is absolutely fine."
+  ],
+  "voice_acting": {
+    "native_language": "Colby Minifie",
+    "english": "Colby Minifie",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought CEO, constantly terrified",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "PR",
+      "CEO",
+      "Homelander's servant"
+    ],
+    "role": "Supporting",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Vought car"
+    ],
+    "headquarters": "Vought Tower",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "f906abdca3b433c7787ea68b6b5b08e6",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

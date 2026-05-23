@@ -1,0 +1,426 @@
+{
+  "name": "Palmer, Ray",
+  "native_name": "レイ・パーマー",
+  "full_name": "Raymond Carson Palmer",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Metahuman)",
+    "race": "Metahuman",
+    "bloodline": "Palmer",
+    "height_cm": 180,
+    "weight_kg": 79,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 24.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Size-changing costume",
+      "Can shrink to subatomic or grow giant",
+      "Scientist appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ivy Town",
+    "current_location": "Ivy Town",
+    "base_of_operations": "Ivy Town / Ivy University",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Physicist / Professor",
+    "secondary": "Superhero",
+    "rank_title": "The Atom",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League",
+      "Ivy University (faculty)"
+    ],
+    "previous": [
+      "Justice League International",
+      "Teen Titans (mentor)"
+    ],
+    "relatives": [
+      "Jean Loring (ex-wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Showcase #34 (September 1961)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Size Manipulation",
+      "native_name": null,
+      "description": "Using a fragment of white dwarf star matter in his belt, can shrink to subatomic or grow to giant size. Can shrink small enough to enter the microverse.",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Requires Bio-Belt technology"
+    },
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "PhD physicist and professor. Expert in quantum mechanics, particle physics, and dimensional theory. One of DC smartest heroes.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 93,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Micro-Verse Exploration",
+      "native_name": null,
+      "description": "Can enter and explore microscopic worlds and dimensions that exist at the quantum level. Has discovered entire civilizations at the subatomic scale.",
+      "type": "Special",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Microverses",
+      "limit": "Requires shrinking tech"
+    },
+    {
+      "name": "Density Control",
+      "native_name": null,
+      "description": "Can control body density at various sizes. Can become intangible or incredibly dense as needed.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Bio-Belt dependent"
+    }
+  ],
+  "signature_moves": [
+    "Subatomic Strike",
+    "Giant Foot-Stomp",
+    "Quantum Leap"
+  ],
+  "ultimate_move": "Quantum Collapse (Size + density manipulation)",
+  "trump_card": "White Dwarf Belt + Genius Intellect",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "White Dwarf Star Matter",
+    "combat_style": [
+      "Size manipulation",
+      "Quantum physics",
+      "Stealth"
+    ],
+    "weapon": "Bio-Belt (White Dwarf Star Matter)",
+    "equipment": [
+      "Bio-Belt",
+      "Size-changing costume",
+      "Micro-communicator"
+    ],
+    "trump_card": "White Dwarf Belt + Genius Intellect",
+    "ultimate_move": "Quantum Collapse (Size + density manipulation)"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Humble",
+      "Curious",
+      "Kind",
+      "Scientific",
+      "Adventurous"
+    ],
+    "likes": [
+      "Science",
+      "Discovery",
+      "Teaching",
+      "Solving mysteries",
+      "Ivy Town"
+    ],
+    "dislikes": [
+      "Ignorance",
+      "Anti-science",
+      "Wasting potential",
+      "Chaos"
+    ],
+    "fear": "Losing his scientific curiosity / becoming irrelevant",
+    "dream": "Explore the entire subatomic universe and unlock its secrets",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Size Manipulation",
+      "Genius-Level Intellect",
+      "Micro-Verse Exploration",
+      "Density Control"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Brilliant physicist who discovered a way to shrink using white dwarf star matter. Became the Atom, a size-shifting superhero exploring the microverse. Key member of Justice League International. Mentored future heroes like Ryan Choi (his successor as Atom).",
+    "motivation": "Explore the unknown, protect the innocent through science",
+    "affinity": "Size/Quantum",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Discovered size-shifting technology",
+    "Explored the microverse",
+    "Justice League member",
+    "Mentored Ryan Choi (next Atom)",
+    "Ivy University professor"
+  ],
+  "titles": [
+    "The Atom",
+    "Dr. Ray Palmer",
+    "The Mighty Mite"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Valuable Justice League member"
+  },
+  "powerstats": {
+    "intelligence": 93,
+    "strength": 60,
+    "speed": 70,
+    "durability": 75,
+    "power": 88,
+    "combat": 65,
+    "total": 451
+  },
+  "weaknesses": {
+    "list": [
+      "Bio-Belt dependency",
+      "Human durability when not shrunk",
+      "Psychological isolation"
+    ],
+    "factors": [
+      "Without Bio-Belt, he is an ordinary human"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Chronos",
+    "allies": [
+      "Justice League",
+      "Hawkman",
+      "Ryan Choi (student)",
+      "Jean Loring (ex-wife)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ryan Choi",
+        "relationship": "Student and successor as Atom",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Chronos",
+      "Bug-Eyed Bandit",
+      "Floronic Man"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Chronos",
+        "relationship": "Time-traveling nemesis",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Jean Loring (ex-wife)",
+    "best_friend": "Hawkman",
+    "rival": null,
+    "mentor": null,
+    "student": "Ryan Choi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Justice League",
+      "Hawkman",
+      "Ryan Choi (student)",
+      "Jean Loring (ex-wife)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Chronos"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ryan Choi"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Justice League",
+      "Hawkman",
+      "Ryan Choi",
+      "Jean Loring"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Chronos",
+      "result": "Victory",
+      "method": "Quantum manipulation and strategy"
+    },
+    {
+      "opponent": "Darkseid",
+      "result": "Survived (with JL)",
+      "method": "Subatomic infiltration"
+    }
+  ],
+  "quotes": [
+    "Size does not matter. It is the size of your heart that counts.",
+    "The universe is infinite — both in the macro and the micro.",
+    "I have seen entire civilizations that exist in a single drop of water."
+  ],
+  "voice_acting": {
+    "native_language": "John C. McGinley (English)",
+    "english": "John C. McGinley",
+    "note": "Voice from various DC animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues exploration of microverse and teaching at Ivy University",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Scientist",
+      "The Atom",
+      "Microverse Explorer",
+      "Justice League Mentor"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Size-shifting (shrinks for travel)"
+    ],
+    "vehicles": [
+      "Justice League vehicles (sometimes)"
+    ],
+    "headquarters": "Ivy Town / Ivy University Lab",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "c11a671e2540913380ac80b3af25d9bd",
+  "publisher": "dc",
+  "about": "Raymond or Ray Palmer may refer to:\n\nRaymond A. Palmer, science-fiction writer and editor\nRaymond F. Palmer, medical professor\nRaymond Palmer, 3rd Baron Palmer (1916–1990), British peer and businessman\nRay Palmer (pastor), American pastor and author of hymns\nRay Palmer (Arrowverse), a TV show character based on his comic book counterpart\nAtom (Ray Palmer), a DC Comics comic book character",
+  "note": null,
+  "source": "dc"
+}

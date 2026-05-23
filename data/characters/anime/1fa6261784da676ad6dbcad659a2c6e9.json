@@ -1,0 +1,296 @@
+{
+  "id": "1fa6261784da676ad6dbcad659a2c6e9",
+  "name": "Grice, Falco",
+  "native_name": "グライス・ファルコ",
+  "full_name": "Falco Grice",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Eldian",
+    "height_cm": 155,
+    "weight_kg": 50,
+    "age": "12",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Fair",
+    "notable_features": "Warrior candidate, Jaw Titan",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Marley",
+    "current_location": "Marley",
+    "base_of_operations": "Marley",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Candidate",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Warriors"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Attack on Titan",
+    "manga": "Attack on Titan",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Loyal",
+      "Determined"
+    ],
+    "likes": [
+      "Helping others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Cowardice",
+    "dream": "Protect Gabi",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Warrior candidate in love with Gabi",
+    "motivation": "Protect Gabi",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 50,
+    "speed": 55,
+    "durability": 50,
+    "power": 55,
+    "combat": 50,
+    "total": 320
+  },
+  "relationships": {
+    "friend": "Gabi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Opposing faction"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "colleague": null,
+    "enemy": [
+      "Opposing faction"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Colt"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Colt"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gabi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Armor"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Natsuki Hanae (Japanese)",
+    "Voiced by Bryson Baugus (English)"
+  ],
+  "titles": [
+    "Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Bryson Baugus",
+    "note": null,
+    "native_name": null,
+    "japanese": "Natsuki Hanae"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Marley",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "Falco is an Eldian warrior working for the Marley government and the younger brother of Colt.\n\n\n\n(Source: Attack on Titan Wiki)",
+  "note": null,
+  "source": "anime"
+}

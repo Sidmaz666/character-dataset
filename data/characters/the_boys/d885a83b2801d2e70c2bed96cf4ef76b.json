@@ -1,0 +1,391 @@
+{
+  "id": "d885a83b2801d2e70c2bed96cf4ef76b",
+  "name": "The Deep",
+  "native_name": null,
+  "full_name": "Clark Therns",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Therns",
+    "height_cm": 188,
+    "weight_kg": 95,
+    "age": "40s",
+    "birthday": "October 12",
+    "zodiac": "Libra",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Gills on neck",
+      "Webbed hands",
+      "Aquatic suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cleveland, Ohio",
+    "current_location": "New York City",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "The Seven Member",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven (Season 1)"
+    ],
+    "previous": [],
+    "relatives": [
+      "Wife (mentioned)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Aquatic Breathing",
+      "native_name": null,
+      "description": "Breathe underwater with gills",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Short",
+      "limit": "Requires water"
+    },
+    {
+      "name": "Enhanced Strength",
+      "native_name": null,
+      "description": "Super strength underwater",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Limited on land"
+    },
+    {
+      "name": "Webbed appendages",
+      "native_name": null,
+      "description": "Webbed hands for swimming and combat",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 45,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Flight (limited)",
+      "native_name": null,
+      "description": "Levitate short distances",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 40,
+      "range": "Short",
+      "limit": "Not true flight"
+    }
+  ],
+  "signature_moves": [
+    "Trident Strike",
+    "Water Blast"
+  ],
+  "ultimate_move": "Full Abyssal Form",
+  "trump_card": "Underwater Burst",
+  "power_attributes": {
+    "power_type": "Aquatic Powers",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Aquatic combat",
+      "Trident fighting"
+    ],
+    "weapon": "Trident",
+    "equipment": [
+      "Aquatic suit"
+    ],
+    "trump_card": "Underwater Burst",
+    "ultimate_move": "Full Abyssal Form"
+  },
+  "personality": {
+    "traits": [
+      "Insecure",
+      "Aggressive",
+      "Perverted",
+      "Bitter"
+    ],
+    "likes": [
+      "Power",
+      "Status"
+    ],
+    "dislikes": [
+      "Being dismissed",
+      "Humiliation"
+    ],
+    "fear": "Being irrelevant",
+    "dream": "Be respected",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Aquatic Breathing",
+      "Enhanced Strength",
+      "Webbed appendages",
+      "Flight (limited)"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Failed supe desperate for respect",
+    "motivation": "Regain status and power",
+    "affinity": "Water",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Former The Seven member",
+    "Attempted sexual assault (criminal)"
+  ],
+  "titles": [
+    "The Deep",
+    "King of the Sea"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted for assault"
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 65,
+    "speed": 50,
+    "durability": 60,
+    "power": 50,
+    "combat": 50,
+    "total": 320
+  },
+  "weaknesses": {
+    "list": [
+      "Powerless on land",
+      "Limited combat",
+      "Gills useless out of water"
+    ],
+    "factors": [
+      "Dry environments"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Starlight",
+    "allies": [
+      "The Seven (formerly)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "A-Train",
+        "relationship": "Former teammate",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Starlight",
+      "The Boys"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Starlight",
+        "relationship": "Attempted victim",
+        "threat_level": "Low"
+      }
+    ],
+    "love_interest": "Annalise",
+    "best_friend": null,
+    "rival": "A-Train",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven (formerly)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Starlight",
+      "A-Train"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "A-Train"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Starlight",
+      "result": "Defeat",
+      "method": "Attacked and lost"
+    }
+  ],
+  "quotes": [
+    "I am the hero of the sea!"
+  ],
+  "voice_acting": {
+    "native_language": "Chance Morrow (English)",
+    "english": "Chance Morrow",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Removed from The Seven",
+    "transformation": null,
+    "awakening_potential": "Learning humility",
+    "power_evolution": [
+      "Rejected hero",
+      "Bitter exile"
+    ],
+    "role_in_story": "Supporting Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Swimming"
+    ],
+    "vehicles": [
+      "Submarine"
+    ],
+    "headquarters": "Vought Tower (formerly)",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The Boys is an American satirical superhero television series developed by Eric Kripke for Amazon Prime Video. Based on the comic book series by Garth Ennis and Darick Robertson, it follows the eponymous team of vigilantes as they combat superpowered individuals, referred to as \"Supes\", who often abuse their powers for personal gain and work for a powerful company, Vought International, that ensures the general public views them as heroes. The series stars Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Chace Crawford, Laz Alonso, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Elisabeth Shue, Colby Minifie, Aya Cash, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, and Daveed Diggs.",
+  "note": null,
+  "source": "the_boys"
+}

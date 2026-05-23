@@ -1,0 +1,319 @@
+{
+  "id": "719ef271d38a388fd7b2bc967f4bd885",
+  "name": "King",
+  "native_name": "王",
+  "full_name": "King",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "130",
+    "birthday": "April 1",
+    "zodiac": "Aries",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brownish",
+    "hair_color": "Orange\nEye",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "City Z",
+    "current_location": "City Z",
+    "base_of_operations": "Hero Association HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "One Punch Man",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero Association",
+      "S-Class"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Punch Man",
+    "manga": "One Punch Man",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Combat",
+      "type": "Physical",
+      "description": "Enhanced physical combat abilities",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "description": "Trained in various martial techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Durability",
+      "type": "Defensive",
+      "description": "Enhanced resistance to damage",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Superhuman Combat",
+    "Martial Arts",
+    "Durability"
+  ],
+  "ultimate_move": "Superhuman Combat",
+  "trump_card": "Martial Arts",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [],
+    "weapon": "Spear",
+    "equipment": [
+      "Spear"
+    ],
+    "trump_card": "Martial Arts",
+    "ultimate_move": "Superhuman Combat"
+  },
+  "personality": {
+    "traits": [
+      "Dedicated",
+      "Serious",
+      "Disciplined",
+      "Brave",
+      "Persistent"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Disciplined",
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "One Punch Man character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Jun Fukuyama (Japanese)",
+    "Voiced by Max Mittelman (English)"
+  ],
+  "titles": [
+    "One Punch Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 30,
+    "strength": 30,
+    "speed": 30,
+    "durability": 30,
+    "power": 30,
+    "combat": 30,
+    "total": 180
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hero Association",
+      "S-Class"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Max Mittelman",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Jun Fukuyama"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Unknown",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Fairy\nGender: Male\nAge: 1300+\nBirthday: April 1\nHeight: 160cm (5'3\"), 180cm (Human form) (5'11\")\nWeight: 48kg (106Ibs), 120kg (Human form) (265Ibs)\nHair Color: Orange\nEye Color: Brownish-Orange\nBlood Type: AB\n\nKing is a member of the Seven Deadly Sins and is the Sin of Sloth with the symbol of the Grizzly. He is the master of Black Hound Oslo (オスロ).\n\nKing's wanted poster depicts him as big man with short hair, side burns, a bulbish nose, and a sneer. His true appearance is that of a young boy and he is often mistaken for a child.\n\nHis Seven Deadly Sins Grizzly symbol is located just above his left ankle and on the outer side of his lower leg. He possesses the Sacred Treasure known as Spirit Spear Chastiefol which he uses in conjunction with his power Disaster.",
+  "note": null,
+  "source": "anime"
+}

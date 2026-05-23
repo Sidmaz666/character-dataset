@@ -1,0 +1,454 @@
+{
+  "id": "cd076fd0b9289161d83a199ea45498cd",
+  "name": "Flio",
+  "native_name": "フリオ",
+  "full_name": "Flio (True Name: Banaza)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "25",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Brown/Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Disguised appearance as merchant",
+      "True power revealed when angry"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Klyrode Kingdom",
+    "base_of_operations": "Merchant Life",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Merchant (Disguise)",
+    "secondary": "Former Hero Candidate",
+    "rank_title": "Level 2 Super Cheat (Infinite Power)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rys (Wife)",
+      "Balirossa",
+      "Gholl (Ghozal)"
+    ],
+    "previous": [
+      "Kingdom of Klyrode"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Chillin' in Another World with Level 2 Super Cheat Powers (2024)",
+    "manga": "Chillin' in Another World with Level 2 Super Cheat Powers",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Infinite Stats",
+      "native_name": "無限ステータス",
+      "description": "After defeating a slime at level 1, gained infinite stats at highest rank. All abilities at unmeasurable level.",
+      "type": "Enhancement",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "All Magic Types",
+      "native_name": "全魔法",
+      "description": "Can learn and use every magic from Humans, Demons, and Djinn.",
+      "type": "Magic",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Purification Magic",
+      "native_name": "浄化魔法",
+      "description": "Highest ranking magic against Demons. Flio can use it alone (normally requires many magicians). Effect radius depends on strength and mana capacity.",
+      "type": "Holy Magic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Massive Area",
+      "limit": "None"
+    },
+    {
+      "name": "Teleportation Magic",
+      "native_name": "瞬間移動",
+      "description": "Can teleport people and objects anywhere. Rare ability.",
+      "type": "Spatial",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Gravity Magic",
+      "native_name": "重力魔法",
+      "description": "Controls gravity. Can make others crash into ground.",
+      "type": "Force",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Appearance Change",
+      "native_name": "姿変更",
+      "description": "Can change appearance, gender, even height.",
+      "type": "Transformation",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Behaviour Control",
+      "native_name": "行動操作",
+      "description": "Controls outbursts by wild animals and behavior of others.",
+      "type": "Mind Control",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Limited scope"
+    },
+    {
+      "name": "Paralyzing Magic",
+      "native_name": "麻痺魔法",
+      "description": "Paralyzes targets.",
+      "type": "Debuff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Holy Magic Smite",
+      "native_name": "神聖雷撃",
+      "description": "Giant thunder strike, very effective against Demons.",
+      "type": "Holy Magic",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Barrier Magic",
+      "native_name": "結界魔法",
+      "description": "Automatic barrier for defense.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Healing Magic",
+      "native_name": "回復魔法",
+      "description": "Strongest healing magic including Holy Heal.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Touch",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Purification Magic (Area)",
+    "Holy Smite",
+    "Mass Teleportation"
+  ],
+  "ultimate_move": "Purification Over Entire Forest",
+  "trump_card": "Rage Mode (When loved ones are hurt)",
+  "power_attributes": {
+    "power_type": "All Magic Types",
+    "power_source": "Level 2 Cheat",
+    "combat_style": [
+      "All Magic",
+      "Ranged Combat",
+      "Defense"
+    ],
+    "weapon": "Ranged weapon",
+    "equipment": [
+      "Magical artifacts",
+      "Ranged weapon"
+    ],
+    "trump_card": "Rage Mode (When loved ones are hurt)",
+    "ultimate_move": "Purification Over Entire Forest"
+  },
+  "personality": {
+    "traits": [
+      "Peaceful",
+      "Laid-back",
+      "Protective",
+      "Kind"
+    ],
+    "likes": [
+      "Quiet life",
+      "Rys",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Conflict",
+      "Hurt to loved ones"
+    ],
+    "fear": "Hurt to family",
+    "dream": "Live peaceful life",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From unwanted hero candidate to powerful protector seeking peaceful life",
+    "motivation": "Live peaceful life with demon wife",
+    "affinity": "Holy",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Accidentally purified entire forest",
+    "Defeated Hiya the Djinn of Light and Darkness",
+    "Built peaceful life with demon companions"
+  ],
+  "titles": [
+    "Level 2 Cheater",
+    "Banaza",
+    "Flio the Merchant"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 100,
+    "speed": 95,
+    "durability": 95,
+    "power": 100,
+    "combat": 90,
+    "total": 565
+  },
+  "weaknesses": {
+    "list": [
+      "None known"
+    ],
+    "factors": [
+      "Rage when family is threatened"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Rys (Wife)",
+      "Balirossa",
+      "Gholl/Ghozal"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rys",
+        "relationship": "Wife",
+        "trust_level": "Max"
+      }
+    ],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Rys",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rys (Wife)",
+      "Balirossa",
+      "Gholl/Ghozal"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rys",
+      "Balirossa",
+      "Gholl/Ghozal"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hiya (Djinn of Light and Darkness)",
+      "result": "Victory",
+      "method": "Unleashed power after Fenrys injured"
+    }
+  ],
+  "quotes": [
+    "I just want to live a peaceful life.",
+    "But if you hurt them..."
+  ],
+  "voice_acting": {
+    "native_language": "Satoshi Hino",
+    "english": "Unknown",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Living peaceful life with demon family",
+    "transformation": "Rage Mode",
+    "awakening_potential": "Already at maximum",
+    "power_evolution": [
+      "Average Human",
+      "Level 2 Cheat (Infinite)"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Houghtow Town",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Keith Flick is a detective, at first characterized by his messy hair and beard. He is known by the name 'Genie', which is German for Genius.",
+  "note": null,
+  "source": "anime"
+}

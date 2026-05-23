@@ -1,0 +1,450 @@
+{
+  "id": "c503032914d74090aeeccbc7b0f78797",
+  "name": "Maes Hughes",
+  "native_name": "マース・ヒューズ",
+  "full_name": "Maes Hughes",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "N/A",
+    "height_cm": 178,
+    "weight_kg": 70,
+    "age": "Late 20s (during series), born 1885",
+    "birthday": "June 8",
+    "zodiac": "Gemini",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Often wears military uniform",
+      "Carries photos of his daughter",
+      "Round eyeglasses"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "N/A (deceased)",
+    "base_of_operations": "Central City Military Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Intelligence Officer/Military Investigator",
+    "secondary": "Brigadier General (posthumous)",
+    "rank_title": "Lieutenant Colonel (active), Brigadier General (posthumous)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Amestrian Military",
+      "Investigations Office"
+    ],
+    "previous": [],
+    "relatives": [
+      "Gracia Hughes (wife)",
+      "Elicia Hughes (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist Episode 1 (2003)",
+    "manga": "Fullmetal Alchemist Chapter 6",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Intelligence Analysis",
+      "native_name": "情報分析",
+      "description": "Hughes possessed exceptional deductive reasoning and analytical skills. He was able to connect multiple military activities to uncover the homunculi's conspiracy in mere days.",
+      "type": "Support/Intelligence",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Non-combat ability; intelligence gathering"
+    },
+    {
+      "name": "Expert Knife Thrower",
+      "native_name": "ナイフ投げの達人",
+      "description": "Skilled with throwing knives, able to hit targets accurately even at range. Carried multiple push knives concealed on his person.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Short to Medium",
+      "limit": "Limited weapon selection"
+    },
+    {
+      "name": "Willpower and Pain Tolerance",
+      "native_name": "精神力と忍耐力",
+      "description": "Hughes demonstrated incredible willpower and pain tolerance, surviving being stabbed and escaping his pursuers while wounded.",
+      "type": "Defense/Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Cannot prevent injury, only endure it"
+    },
+    {
+      "name": "Military Combat Training",
+      "native_name": "軍事戦闘訓練",
+      "description": "Veteran of the Ishvalan Civil War with formal military training in combat and firearms.",
+      "type": "Attack/Defense",
+      "tier": "B",
+      "power_level": 68,
+      "range": "Short to Medium",
+      "limit": "Standard military skills, not exceptional"
+    }
+  ],
+  "signature_moves": [
+    "Knife Throw",
+    "Quick Draw"
+  ],
+  "ultimate_move": "Knife throw to vital point",
+  "trump_card": "Deductive reasoning to uncover conspiracies",
+  "power_attributes": {
+    "power_type": "Military/Intelligence",
+    "power_source": "Training and natural skill",
+    "combat_style": [
+      "Knife combat",
+      "Firearms",
+      "Military tactics"
+    ],
+    "weapon": "Push knives, handgun",
+    "equipment": [
+      "Military uniform with hidden photo compartment",
+      "Investigation files"
+    ],
+    "trump_card": "Deductive reasoning to uncover conspiracies",
+    "ultimate_move": "Knife throw to vital point"
+  },
+  "personality": {
+    "traits": [
+      "Loving",
+      "Cheerful",
+      "Devoted",
+      "Protective",
+      "Intelligent",
+      "Loyal"
+    ],
+    "likes": [
+      "His family",
+      "Showing photos of Elicia",
+      "Supporting friends",
+      "Making others laugh"
+    ],
+    "dislikes": [
+      "Those who threaten his family",
+      "Corruption",
+      "Homunculi"
+    ],
+    "fear": "Something happening to his wife and daughter",
+    "dream": "See his daughter grow up; support Roy Mustang becoming Führer",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hughes serves as the heartwarming comedic relief who deeply loves his family, while also being a crucial intelligence asset. His tragic death becomes a major turning point that drives Roy Mustang's quest for revenge and truth. He represents the innocent lives lost to the homunculi's schemes.",
+    "motivation": "Protect his family and help his friends achieve their goals",
+    "affinity": "Warmth/Love",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Uncovered the homunculi's Nationwide Transmutation Circle plan",
+    "Identified Juliet Douglas as a key conspirator",
+    "Survived being stabbed by Lust",
+    "Provided crucial support to Roy Mustang's rise to power",
+    "Posthumously promoted to Brigadier General"
+  ],
+  "titles": [
+    "The Family Man",
+    "Intelligence Officer",
+    "Lieutenant Colonel"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Military officer, not a bounty target"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 55,
+    "speed": 60,
+    "durability": 65,
+    "power": 50,
+    "combat": 72,
+    "total": 397
+  },
+  "weaknesses": {
+    "list": [
+      "Could not attack when Envy took his wife's form",
+      "No superhuman abilities",
+      "Vulnerable when alone"
+    ],
+    "factors": [
+      "His love for family made him hesitate against disguised enemies",
+      "Human limitations",
+      "Investigative work made him a target"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Envy (who killed him)",
+    "allies": [
+      "Roy Mustang",
+      "Edward Elric",
+      "Alphonse Elric",
+      "Gracia Hughes",
+      "Elicia Hughes",
+      "Sheska"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Roy Mustang",
+        "relationship": "Best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Edward Elric",
+        "relationship": "Friend and protégé",
+        "trust_level": "High"
+      },
+      {
+        "name": "Gracia Hughes",
+        "relationship": "Loving husband",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Elicia Hughes",
+        "relationship": "Devoted father",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Envy",
+      "Lust",
+      "Homunculi",
+      "Father's conspiracy"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Envy",
+        "relationship": "Killed him",
+        "threat_level": "N/A (fatal)"
+      }
+    ],
+    "love_interest": "Gracia Hughes",
+    "best_friend": "Roy Mustang",
+    "rival": "None",
+    "mentor": "N/A",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Roy Mustang",
+      "Edward Elric",
+      "Alphonse Elric",
+      "Gracia Hughes",
+      "Elicia Hughes",
+      "Sheska"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Envy (who killed him)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Gracia (wife)",
+      "Elycia (daughter)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Gracia (wife)",
+      "Elycia (daughter)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Roy Mustang",
+      "Edward Elric",
+      "Alphonse Elric",
+      "Gracia Hughes",
+      "Elicia Hughes",
+      "Sheska"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lust",
+      "result": "Defeat (escaped but wounded)",
+      "method": "Managed to wound Lust with knife throw despite being stabbed"
+    },
+    {
+      "opponent": "Envy (disguised as Maria Ross)",
+      "result": "Defeat (killed)",
+      "method": "Could not attack when Envy took his wife's form; was shot"
+    }
+  ],
+  "quotes": [
+    "My daughter is the most adorable girl in the world!",
+    "Forgive me, but I have a wife and child waiting at home.",
+    "I won't let you take away my future!"
+  ],
+  "voice_acting": {
+    "native_language": "Keiji Fujiwara (Japanese)",
+    "note": "Keiji Fujiwara's final role was in FMA: Brotherhood",
+    "native_name": null,
+    "english": "Sonny Strait",
+    "japanese": "Keiji Fujiwara"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Envy in Central City after uncovering Father's conspiracy; posthumously promoted to Brigadier General",
+    "transformation": "N/A",
+    "awakening_potential": "N/A (deceased)",
+    "power_evolution": [
+      "Military officer",
+      "Investigations Division member",
+      "Intelligence analyst",
+      "Lieutenant Colonel"
+    ],
+    "role_in_story": "Supporting Character (Tragic Catalyst)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central City Military Headquarters",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Maes Hughes is often seen as the comedy relief, but has his debuts as a serious and skilled fighter. He is best friends with Roy Mustang (and would do anything to help Roy achieve his goals) and a loving and devoted husband/father. Maes would do anything for his wife Gracia and always carries pictures of his daughter Elycia in his uniform and never misses a chance to show everyone how cute she is. He starts out in the anime as a Major in the Investigation Division and eventually becomes a Lieutenant Colonel.",
+  "note": null,
+  "source": "anime"
+}

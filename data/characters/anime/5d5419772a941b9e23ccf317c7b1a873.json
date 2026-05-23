@@ -1,0 +1,338 @@
+{
+  "id": "5d5419772a941b9e23ccf317c7b1a873",
+  "name": "Byakuya Kuchiki",
+  "native_name": "",
+  "full_name": "Byakuya Kuchiki",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "Unknown",
+    "zodiac": "Aquarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Soul Society",
+    "base_of_operations": "Soul Society",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bleach",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "6th Division"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach",
+    "manga": "Bleach",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanjutsu",
+      "type": "Swordsmanship",
+      "description": "Expert in sword combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Kido",
+      "type": "Magic",
+      "description": "Able to cast demon magic spells",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hakuda",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hoho",
+      "type": "Movement",
+      "description": "Advanced movement techniques",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Zanjutsu",
+    "Kido",
+    "Hakuda"
+  ],
+  "ultimate_move": "Zanjutsu",
+  "trump_card": "Kido",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Magic",
+    "combat_style": [
+      "Magic",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Zanjutsu"
+    ],
+    "trump_card": "Kido",
+    "ultimate_move": "Zanjutsu"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Proud",
+      "Disciplined",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Threats to loved ones",
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Bleach character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ryōtarō Okiayu (Japanese)",
+    "Voiced by Dan Woren (English)"
+  ],
+  "titles": [
+    "Bleach"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 78,
+    "speed": 78,
+    "durability": 78,
+    "power": 78,
+    "combat": 78,
+    "total": 468
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Dan Woren",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ryōtarō Okiayu"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16-17\nBirthday: May 1\nHeight: 173 cm (5'8\")\nWeight: 57 kg (126 lb)\nBlood type: O\n\nMikaela is kind and upbeat in spite of the harsh events in his childhood, when he was abused by his parents and then dropped out of a car. He was then taken in by the Hyakuya orphanage. He was able to keep smiling and be happy because of his adopted family at the orphanage and even managed to befriend the extremely stubborn Yu. Mikaela was shown to be cunning. He allowed Ferid Bathory to drink his blood in exchange for good food, but Mikaela's true purpose was to steal a map in order to escape with the other children.\n\n\n\n\n(Source: Owari no Seraph Wikia)",
+  "note": null,
+  "source": "anime"
+}

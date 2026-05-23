@@ -1,0 +1,345 @@
+{
+  "name": "Terror",
+  "native_name": null,
+  "full_name": "Terror",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Dog (English Bull Terrier)",
+    "race": "Dog",
+    "bloodline": null,
+    "height_cm": 45,
+    "weight_kg": 18,
+    "age": "5",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 88.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "White/Brown",
+    "skin_color": "N/A",
+    "notable_features": [
+      "Bull terrier breed",
+      "Butcher-style collar",
+      "Loyal companion"
+    ],
+    "skin": "N/A",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "With Butcher",
+    "current_location": "With Butcher",
+    "base_of_operations": "The Boys HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Billy Butcher's dog",
+    "secondary": "Emotional support",
+    "rank_title": "Terror",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Boys"
+    ],
+    "previous": [],
+    "relatives": [
+      "Billy Butcher (owner)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Canine Senses",
+      "type": "Physical",
+      "tier": "C",
+      "power_level": 55,
+      "range": "Self"
+    },
+    {
+      "name": "Loyalty",
+      "type": "Personality",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Dog Attack",
+    "Protective Bark"
+  ],
+  "ultimate_move": "Terror Bite",
+  "trump_card": "Unconditional Loyalty to Butcher",
+  "power_attributes": {
+    "power_type": "Canine",
+    "power_source": "Natural Dog",
+    "combat_style": [
+      "Bite",
+      "Protective",
+      "Companion"
+    ],
+    "weapon": "Teeth",
+    "equipment": [
+      "Collar"
+    ],
+    "trump_card": "Unconditional Loyalty to Butcher",
+    "ultimate_move": "Terror Bite"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Protective",
+      "Brave",
+      "Aggressive to enemies"
+    ],
+    "likes": [
+      "Butcher",
+      "Treats",
+      "Butcher"
+    ],
+    "dislikes": [
+      "Supes",
+      "Strangers",
+      "Anyone hurting Butcher"
+    ],
+    "fear": "Losing Butcher",
+    "dream": "Serve Butcher",
+    "personality_type": "Loyal (Dog)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Billy Butcher's English Bull Terrier and constant companion. The one living thing Butcher genuinely loves unconditionally. Appears prominently in the comics. Represents Butcher's last shred of humanity.",
+    "motivation": "Protect and serve Butcher",
+    "affinity": "Loyalty",
+    "alignment": "True Neutral (Loyal to Butcher)"
+  },
+  "achievements": [
+    "Butcher's only true companion"
+  ],
+  "titles": [
+    "Terror",
+    "Butcher's Dog"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 20,
+    "strength": 25,
+    "speed": 40,
+    "durability": 30,
+    "power": 10,
+    "combat": 25,
+    "total": 150
+  },
+  "weaknesses": {
+    "list": [
+      "Just a dog",
+      "Mortality",
+      "Easily hurt"
+    ],
+    "factors": [
+      "Can be killed",
+      "Normal dog vulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Butcher",
+      "The Boys"
+    ],
+    "enemies": [
+      "Supes (through Butcher)"
+    ],
+    "love_interest": null,
+    "best_friend": "Butcher",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Butcher",
+      "The Boys"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Supes (through Butcher)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Butcher",
+      "The Boys"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "(Bark!)"
+  ],
+  "voice_acting": {
+    "native_language": "N/A",
+    "english": "N/A",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Butcher's loyal companion",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Puppy",
+      "Terror",
+      "Butcher's Dog"
+    ],
+    "role": "Companion",
+    "role_in_story": null,
+    "awakening_potential": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "With Butcher",
+    "story_importance": "Companion",
+    "note": null
+  },
+  "id": "d69fad6f51d939e28335ad9cf869fae5",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

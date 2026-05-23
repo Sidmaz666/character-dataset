@@ -1,0 +1,420 @@
+{
+  "id": "bdfeb0a45d09d83ba351a5cdc3e836aa",
+  "name": "Eustass Kid",
+  "native_name": "ユースタース・キッド",
+  "full_name": "Eustass Kid",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Cyborg)",
+    "race": "Human-Cyborg Hybrid",
+    "bloodline": "N/A",
+    "height_cm": 205,
+    "weight_kg": 95,
+    "age": "23",
+    "birthday": "January 10",
+    "zodiac": "Capricorn",
+    "blood_type": "X",
+    "weight_kkg": null,
+    "bmi": 22.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Cyborg prosthetic arm (left)",
+      "Tall stature",
+      "Spiky hair",
+      "Multiple piercings"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "South Blue",
+    "current_location": "Kid Pirates ship",
+    "base_of_operations": "Kidd Pirates ship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate Captain",
+    "secondary": "Cyborg fighter",
+    "rank_title": "Supernova",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kid Pirates"
+    ],
+    "previous": [
+      "Alliance with Luffy and Law (former)"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 392",
+    "manga": "One Piece Chapter 498",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Jiki Jiki no Mi",
+      "native_name": "磁氣果實",
+      "description": "Paramecia Devil Fruit - allows control over magnetism, can attract/repel metal, create magnetic constructs",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Needs metal nearby"
+    },
+    {
+      "name": "Magnetism Manipulation",
+      "native_name": "磁力操控",
+      "description": "Attracts metal to form giant arm - can also repel projectiles and create constructs",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires metal"
+    },
+    {
+      "name": "Damned Punk",
+      "native_name": "該死的朋克",
+      "description": "Electromagnetic railgun - massive cannon made of metal that can turn fleets to Swiss cheese",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Takes forever to charge, vulnerable while charging"
+    },
+    {
+      "name": "Awakening",
+      "native_name": "覺醒",
+      "description": "Awakened fruit - can attract/repel non-magnetic objects and people",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Massive stamina drain"
+    },
+    {
+      "name": "Haki",
+      "native_name": "霸氣",
+      "description": "Possesses Conqueror's Haki, Armament and Observation Haki",
+      "type": "Defense",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Giant metal arm",
+    "Damned Punk railgun",
+    "Magnetic repulsion",
+    "Awakened attraction"
+  ],
+  "ultimate_move": "Damned Punk",
+  "trump_card": "Full power awakened magnetism",
+  "power_attributes": {
+    "power_type": "Devil Fruit (Paramecia) + Cyborg",
+    "power_source": "Jiki Jiki no Mi",
+    "combat_style": [
+      "Magnetism combat",
+      "Cyborg engineering",
+      "Haki"
+    ],
+    "weapon": "Prosthetic cyborg arm",
+    "equipment": [
+      "Damned Punk"
+    ],
+    "trump_card": "Full power awakened magnetism",
+    "ultimate_move": "Damned Punk"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Ambitious",
+      "Hot-tempered",
+      "Brutal",
+      "Competitive"
+    ],
+    "likes": [
+      "Becoming Pirate King",
+      "Metal",
+      "Fighting"
+    ],
+    "dislikes": [
+      "Losing",
+      "Being mocked",
+      "Luffy (rival)"
+    ],
+    "fear": "Never achieving his dream",
+    "dream": "Become Pirate King",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Jiki Jiki no Mi",
+      "Magnetism Manipulation",
+      "Damned Punk",
+      "Awakening"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Brutal"
+    ]
+  },
+  "character": {
+    "arc": "Ruthless supernova seeking to surpass Luffy and become King",
+    "motivation": "Becoming Pirate King",
+    "affinity": "Magnetism",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Supernova of Worst Generation",
+    "Defeated Shillew",
+    "Fought Big Mom (claimed victory)",
+    "Part of alliance against Kaido"
+  ],
+  "titles": [
+    "Captain of Kid Pirates",
+    "Supernova"
+  ],
+  "bounty": {
+    "amount": 470000000,
+    "currency": "Berry",
+    "details": "Current bounty"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 95,
+    "speed": 75,
+    "durability": 85,
+    "power": 98,
+    "combat": 85,
+    "total": 518
+  },
+  "weaknesses": {
+    "list": [
+      "Needs metal nearby",
+      "Vulnerable while charging railgun",
+      "Sea Stone"
+    ],
+    "factors": [
+      "arrogant",
+      "brutal"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Shanks (lost to)",
+    "allies": [
+      "Killer",
+      "Kid Pirates"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Killer",
+        "relationship": "First mate",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Shanks",
+      "Marines",
+      "World Government"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Killer",
+    "rival": "Monkey D. Luffy",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Killer",
+      "Kid Pirates"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Shanks (lost to)",
+      "Monkey D. Luffy"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Shinigami"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Shinigami"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Monkey D. Luffy"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Killer",
+      "Kid Pirates"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Shanks' crew",
+      "result": "Defeat",
+      "method": "Lost first arm"
+    },
+    {
+      "opponent": "Big Mom",
+      "result": "Victory (with Luffy and Law)",
+      "method": "Damned Punk and alliance"
+    }
+  ],
+  "quotes": [
+    "I am going to be Pirate King!",
+    "You think I cannot beat you?",
+    "Die!"
+  ],
+  "voice_acting": {
+    "native_language": "Daisuke Namikawa (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Justin Cook",
+    "japanese": "Daisuke Namikawa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continuing pirating",
+    "transformation": "Awakened magnetism",
+    "awakening_potential": "Full fruit mastery",
+    "power_evolution": [
+      "Supernova",
+      "Awakened",
+      "Conqueror"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Kid Pirates ship"
+    ],
+    "vehicles": [],
+    "headquarters": "Kid Pirates ship",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Classification: Immortal, Shinigami, Meister\n\nHe is Patricia \"Patti/Patty\" Thompson's and Elizabeth \"Liz\" Thompson's Meister and Death's son. He was born from a fragment of Shinigami's soul.\n\nBeing the son of Shinigami, Kid was singled out. The other students at Shibusen were afraid to get close to him not only because he was Shinigami's son, but because they were afraid that they'd get hurt. This continued until he became the meister of Liz and Patti. They became good comrades, and even helped Kid. Kid didn't, necessarily, experience friendship until he met the others. He is really grateful to have friends that are not afraid of him like the others at Shibusen.\n\nKid has obsessive-compulsive personality disorder, or OCPD, which is manifested as an obsession over perfection. Objects and surroundings that are symmetrical can distract him from missions, and he will usually start to break down and have fits if he notices asymmetrical objects around him. Thus if anything is wrong by any measurement (a picture frame crooked, or not folding his toilet paper, for example), he will try to correct it right away, even at the cost of the mission at hand. He is so obsessed with symmetry that Kid refuses to fight a battle unless everything is symmetrical, as he would be asymmetrical holding only one gun. Even if an enemy is symmetrical in appearance, he will refuse to fight it and harm its symmetry. The fact that the left half of his bangs is marked with three white stripes causes him much stress. As a result of his OCPD, Kid can be very hard on himself if the asymmetry of the stripes in his hair are pointed out by someone, calling himself \"useless asymmetrical garbage.\" Kid, trying to make himself completely symmetrical, tried to dye his hair once, but the Sanzu Lines continued to reappear. This is because his reaper body rejects all forms of chemicals and toxins, including artificial coloring like hair dye. The Index of the Book of Eibon referred to this obsession as Madness of Order.\n\nHis favorite number is 8, not only for its symmetry, but for the fact it divides out evenly. An example of one of his fits, and his love for the number 8, can be shown when he met Soul on his first day of DWMA. When Soul said that if Kid had arrived at 7 like he was suppose to he could look around himself. Instead of focusing on the entire comment.. Kid replied, \"No, it can't be seven! Say eight, dammit! Eight is better! It's physically impossible to cut the number seven in half and make it symmetrical! It has to be eight instead! Eight cut vertically or horizontally stays perfectly symmetrical! Take it back, I beg of you! Please say eight! Please!\" only to become further distressed when Black Star broke one of the spikes tips jutting out of his fathers, perfectly symmetrical, school.\n\nDespite that his father wears a completely asymmetrical cloak, Kid is not bothered by it at all, being that his love for his father outweighs his OCPD. He also doesn't seem to mind that his Death God Martial Art—\"Stance of Sin\" requires him to hold his arms in asymmetrical position. Showing that there are some things he can tolerate.\n\nHe is usually very mature and precise in his ways. Kid is naturally calm and collected, and as such is perfectly fine with other people making their own decisions when it comes to symmetry or otherwise, even if he disagrees with their choices. However, there are times when his obsession with symmetry can greatly affect his usually calm personality and cause him to break down into childish fits.\n\nDue to his serious personality, Kid is unaffected by nudity. While other male characters get nose bleeds, Kid does not. During a battle with a female \"madness clown\" who was trying to distract Kid with her nearly naked body, Patti says, \"Kid-kun is one of those perverts that gets distracted only when you make him rub your breasts! This won't affect him!\" but isn't actually because he is not a pervert, and is more matured than boys his age. Considering Patti is not the smartest person in the world she would think like this. When Kid had to return to DWMA, in order to get back to the fight on the moon sooner, Kid had no problems walking in the girls bathroom to help, only to be dragged out by Liz. Later in the Death Room, Kid is shown to have blood coming out of one side of his nose and mouth, having been punched by either Liz or Kim.\n\nOf course, Kid's being unaffected by nudity may also be the result of being A-Sexual. Given that his father created both him and Asura A-sexually, and Shinigami shows no interest in either gender, even when Spirit hired Blair and her friends to entertain them during their meeting, he showed no interest and was rather confused by their flirtation and later angry at them for goofing off when they should be discussing the rescue of his son. An example to prove this is when Kid had visited Soul and Maka's apartment, when Blair's towel fell off instead of getting a nosebleed like Soul or Black Star, Kid looked rather disgusted.\n\nHe doesn't seem to have any problem socializing and genuinely cares for his friends. He is seen expressing concern about Soul's scar at one point, and threatens Gopher that he will never forgive him if he hurts Maka after Gopher threatens to hurt her in revenge for their original fight. He also threw Patti and Liz away from him before being sucked into the Book of Eibon, not wanting them to be taken with him.\n\nKid generally seems to be somewhat introverted, often working on missions on his own and not having as close of a friendship with Maka or Black☆Star as Maka and Black☆Star have with each other.\n\nIt is mentioned by Maka that it is normally hard to match soul wavelengths with more than one weapon, but Kid as a highly skilled Meister is able to do so since Liz and Patti have a strong connection with each other and admiration for Kid who gave them a better life.\n\nHis father, Death, has mentioned that Kid is a Shinigami (\"death god\") and does not need to collect souls, but Kid says he wants to make a weapon of his own specifications. His father also says that since he uses two weapons and the guns do not count as a set, he will have to collect twice as many souls: 198 evil human souls and two Witch souls instead of 99 souls and one witch soul. However, he seems perfectly fine with this.\n\nKid shares a side rivalry with Black☆Star, and seems to be stronger, however it is possible that he is more susceptible to madness than Black☆Star or Maka, for both were able to pull themselves from madness while he quickly succumbed to the Madness of Order in the Book of Eibon, while Black☆Star is able to quickly snap himself out of it. This may be because of his OCPD, or simply because of his strong drive to create a perfect world. It is also possible that being a Shinigami, Kid was weaker against the Madness.\n\nAlthough Kid's obsession with symmetry often hinders his performance and focus on missions, he still has good intentions. He wants to follow in his dad's footsteps and help make the world a more peaceful place that is safe from evil.",
+  "note": null,
+  "source": "anime"
+}

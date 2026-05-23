@@ -1,0 +1,310 @@
+{
+  "id": "e5abe3bc81044efc7591f7a9ddab6db7",
+  "name": "Roger",
+  "native_name": null,
+  "full_name": "Roger",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Homunculus",
+    "race": "Construct",
+    "bloodline": null,
+    "height_cm": 305,
+    "weight_kg": 900,
+    "age": "50+",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 96.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "None",
+    "skin_color": "Grey",
+    "notable_features": [
+      "Large size",
+      "Green suit"
+    ],
+    "skin": "Grey",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Lab",
+    "current_location": "B.P.R.D.",
+    "base_of_operations": "B.P.R.D.",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Agent",
+    "secondary": null,
+    "rank_title": "Field Agent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "B.P.R.D."
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Abe Sapien #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Incredible physical power",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Super Strength"
+  ],
+  "ultimate_move": "Super Strength",
+  "trump_card": "Super Strength",
+  "power_attributes": {
+    "power_type": "Homunculus",
+    "power_source": "Artificial",
+    "combat_style": [
+      "Melee"
+    ],
+    "weapon": "Spear",
+    "equipment": [
+      "Spear"
+    ],
+    "trump_card": "Super Strength",
+    "ultimate_move": "Super Strength"
+  },
+  "personality": {
+    "traits": [
+      "Gentle",
+      "Loyal"
+    ],
+    "likes": [
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Fire",
+    "dream": "Belonging",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Homunculus agent",
+    "motivation": "Belonging",
+    "alignment": "Good",
+    "affinity": "Good"
+  },
+  "achievements": [
+    "Saved many lives"
+  ],
+  "titles": [
+    "Roger the Homunculus",
+    "Gentle Giant"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 90,
+    "speed": 50,
+    "durability": 90,
+    "power": 70,
+    "combat": 60,
+    "total": 410
+  },
+  "weaknesses": {
+    "list": [
+      "Fire"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "B.P.R.D.",
+      "Hellboy"
+    ],
+    "enemies": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "B.P.R.D.",
+      "Hellboy"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "B.P.R.D.",
+      "Hellboy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "Comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Destroyed",
+    "fate": "Sacrificed himself",
+    "transformation": false,
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "dark_horse",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "B.P.R.D.",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Roger  is a masculine given name and a surname. The given name is derived from the Old French personal names Roger and Rogier. These names are of Germanic origin, derived from the elements hrōd, χrōþi (\"fame\", \"renown\", \"honour\") and gār, gēr (\"spear\", \"lance\") (Hrōþigēraz). The name was introduced into England by the Normans. In Normandy, the Frankish name had been reinforced by the Old Norse cognate Hróðgeirr. The name introduced into England replaced the Old English cognate Hroðgar. Roger became a very common given name during the Middle Ages. A variant form of the given name Roger that is closer to the name's origin is Rodger.",
+  "note": null,
+  "source": "dark_horse"
+}

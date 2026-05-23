@@ -1,0 +1,331 @@
+{
+  "name": "Popclaw",
+  "native_name": null,
+  "full_name": "Popclaw",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 168,
+    "weight_kg": 58,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Claws/retractable",
+      "Attractive",
+      "A-Train's girlfriend"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe",
+    "secondary": "A-Train's girlfriend",
+    "rank_title": "Popclaw",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Retractable Claws",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 68,
+      "range": "Melee"
+    },
+    {
+      "name": "Enhanced Agility",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Claw Slash",
+    "Popclaw Strike"
+  ],
+  "ultimate_move": "Claw Fury",
+  "trump_card": "Retractable Claws",
+  "power_attributes": {
+    "power_type": "Claw/Physical",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Melee",
+      "Claw combat"
+    ],
+    "weapon": "Retractable Claws",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Retractable Claws",
+    "ultimate_move": "Claw Fury"
+  },
+  "personality": {
+    "traits": [
+      "Desperate",
+      "In love with A-Train",
+      "Cling",
+      "Insecure"
+    ],
+    "likes": [
+      "A-Train",
+      "Fame",
+      "Attention"
+    ],
+    "dislikes": [
+      "Being ignored",
+      "Rejection"
+    ],
+    "fear": "Losing A-Train",
+    "dream": "Be with A-Train forever",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Retractable Claws",
+      "Enhanced Agility"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A-Train's girlfriend and fellow supe with retractable claws. Addicted to Compound V. Accidentally killed her landlord while high. Her death was covered up by A-Train and Vought.",
+    "motivation": "Be loved and famous",
+    "affinity": "Claw/Desperation",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Popclaw"
+  ],
+  "titles": [
+    "Popclaw"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 40,
+    "strength": 58,
+    "speed": 55,
+    "durability": 55,
+    "power": 60,
+    "combat": 55,
+    "total": 323
+  },
+  "weaknesses": {
+    "list": [
+      "Compound V addiction",
+      "Emotional dependency"
+    ],
+    "factors": [
+      "Drug addiction",
+      "Desperation",
+      "Insecure"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "A-Train"
+    ],
+    "enemies": [
+      "Hughie (later)"
+    ],
+    "love_interest": "A-Train",
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "A-Train"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hughie (later)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "A-Train"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I just wanted to be loved."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died from Compound V overdose/accident",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Popclaw"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "c504b80df82bcdbe273f203887190d76",
+  "publisher": "the_boys",
+  "about": "\"Get Some\" is the third episode of the first season of the American superhero television series The Boys, based on the comic book series of the same name by Garth Ennis. It is set in a universe where superpowered individuals, known as \"Supes\", are portrayed as corrupt individuals instead of the heroes the general public believes them to be. The episode was written by George Mastras and directed by Phil Sgriccia.",
+  "note": null,
+  "source": "the_boys"
+}

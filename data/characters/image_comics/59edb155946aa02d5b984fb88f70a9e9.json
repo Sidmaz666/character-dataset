@@ -1,0 +1,379 @@
+{
+  "id": "59edb155946aa02d5b984fb88f70a9e9",
+  "name": "Cecil Stedman",
+  "native_name": null,
+  "full_name": "Cecil Stedman",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Stedman",
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "50s-60s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Gray",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Military bearing",
+      "Eyepiece"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Global Defense Agency",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Director",
+    "secondary": "Global Defense Agency",
+    "rank_title": "Director",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Global Defense Agency"
+    ],
+    "previous": [
+      "US Military"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Invincible #1",
+    "comics": "Image Comics 2002",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Expert leader of superheroes",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Military Strategy",
+      "native_name": null,
+      "description": "Expert tactical strategist",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Combat Training",
+      "native_name": null,
+      "description": "Skilled combatant",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 50,
+      "range": "Melee",
+      "limit": "Human limitations"
+    }
+  ],
+  "signature_moves": [
+    "Tactical Command",
+    "Hero Coordination"
+  ],
+  "ultimate_move": "Full Agency Control",
+  "trump_card": "Kill Switch",
+  "power_attributes": {
+    "power_type": "Leadership",
+    "power_source": "Military and Intelligence",
+    "combat_style": [
+      "Tactical command"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Earpiece",
+      "Kill Switch device"
+    ],
+    "trump_card": "Kill Switch",
+    "ultimate_move": "Full Agency Control"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Strategic",
+      "Determined",
+      "Pragmatic"
+    ],
+    "likes": [
+      "Protecting Earth",
+      "Results"
+    ],
+    "dislikes": [
+      "Failure",
+      "Losing heroes"
+    ],
+    "fear": "Invasion failure",
+    "dream": "Earth's protection",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Military leader protecting Earth",
+    "motivation": "Earth's safety",
+    "affinity": "Protection",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Director of GDA",
+    "Trained Invincible",
+    "Commanded many heroes"
+  ],
+  "titles": [
+    "Director Stedman",
+    "Director"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Government official"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 45,
+    "speed": 40,
+    "durability": 45,
+    "power": 30,
+    "combat": 50,
+    "total": 305
+  },
+  "weaknesses": {
+    "list": [
+      "No inherent powers",
+      "Human limitations",
+      "Age"
+    ],
+    "factors": [
+      "Physical confrontation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Omni-Man (formerly)",
+    "allies": [
+      "Invincible",
+      "Guardians of the Globe"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Invincible",
+        "relationship": "Protégé",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Villains",
+      "Omni-Man"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Omni-Man",
+        "relationship": "Former ally",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": "Invincible",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Invincible",
+      "Guardians of the Globe"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Omni-Man (formerly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Invincible"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Invincible",
+      "Guardians of the Globe"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "The world needs heroes, and I'm the one who tells them where to go."
+  ],
+  "voice_acting": {
+    "native_language": "Lennie Moore (English)",
+    "english": "Lennie Moore",
+    "note": "Main cast in animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed in storyline",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Military officer",
+      "GDA Director"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Vehicles"
+    ],
+    "vehicles": [
+      "GDA vehicles"
+    ],
+    "headquarters": "GDA HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

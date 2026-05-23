@@ -1,0 +1,354 @@
+{
+  "id": "e091c5143627df612d96a1c6913d9b55",
+  "name": "Piccolo",
+  "native_name": "ピッコロ",
+  "full_name": "Piccolo (Namekian warrior)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Namekian",
+    "race": "Namekian",
+    "bloodline": "Namekian clan",
+    "height_cm": 200,
+    "weight_kg": 90,
+    "age": "Adult (via aging)",
+    "birthday": "May 19",
+    "zodiac": "Taurus",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Purple (antennae)",
+    "skin_color": "Green",
+    "notable_features": [
+      "Antennae",
+      "Pointed ears",
+      "Green skin"
+    ],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Namek",
+    "current_location": "Earth",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Teacher/Mentor",
+    "rank_title": "Namekian elder",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Z Fighters",
+      "Namekians"
+    ],
+    "previous": [
+      "Goku (rival)"
+    ],
+    "relatives": [
+      "Kami (original)",
+      "Gohan (student)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "DBZ Ep1",
+    "manga": "DBZ Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Special Beam Cannon",
+      "native_name": "気弾",
+      "description": "Spiral energy beam",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Needs both hands"
+    },
+    {
+      "name": "Multi-Form",
+      "native_name": "分身",
+      "description": "Split into multiple copies",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Varies",
+      "limit": "Divde power"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": "再生",
+      "description": "Heal by regenerating",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 75,
+      "range": "Self",
+      "limit": "Lost energy"
+    },
+    {
+      "name": "Cloning",
+      "native_name": "clones",
+      "description": "Create clones",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Various",
+      "limit": "Energy drain"
+    }
+  ],
+  "signature_moves": [
+    "Special Beam Cannon",
+    "Makankosappo"
+  ],
+  "ultimate_move": "Full Power Cannon",
+  "trump_card": "Super Namekian form",
+  "power_attributes": {
+    "power_type": "Energy/Regen",
+    "power_source": "Namekian heritage",
+    "combat_style": [
+      "Energy + tactics"
+    ],
+    "weapon": "Special Beam Cannon",
+    "equipment": [
+      "Special Beam Cannon",
+      "Armor"
+    ],
+    "trump_card": "Super Namekian form",
+    "ultimate_move": "Full Power Cannon"
+  },
+  "personality": {
+    "traits": [
+      "Strategic",
+      "Proud",
+      "Reserved",
+      "Caring",
+      "Serious"
+    ],
+    "likes": [
+      "Training",
+      "Gohan",
+      "Fighting strong"
+    ],
+    "dislikes": [
+      "Evil",
+      "Losing"
+    ],
+    "fear": "Not protecting",
+    "dream": "Protect Earth/Namek",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Enemy becomes hero",
+    "motivation": " Protect Earth/Namek",
+    "affinity": "Energy",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Defeated enemies",
+    "Trained Gohan",
+    "Saved Earth twice"
+  ],
+  "titles": [
+    "Namekian warrior",
+    "Hero",
+    "Teacher"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "publisher": "anime",
+  "relationships": {
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Z Fighters",
+      "Namekians"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": null,
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Christopher Sabat",
+    "note": null,
+    "native_name": null,
+    "japanese": "Hiromi Tsuru"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Race: Namekian\nHeight: 7' 4'' (223.5 cm)\nWeight: 255 lbs (115.6 kg)\nBirth Year: 753 Age\nFavorite Food: Water (especially water from the melted ice in the Northern Area)\nHobby: Meditating in a quiet place\nFavorite Vehicle: None\n\nPiccolo is a fictional character from the Dragon Ball metaseries. He is considered both the son and reincarnation of Demon King Piccolo and was spawned to save himself from certain death at the hands of Son Goku. Like his father, he appears as a tall green humanoid creature with pointy ears; he is later revealed to be part of an alien race known as the Namekians.\n\nPiccolo is first consumed with revenge against Goku, and elects to defeat and kill him during the 23rd Budokai Tenkaichi. After his narrow defeat against Goku, Piccolo is soon forced to form an at first uneasy alliance with Goku and his friends against newer, more dangerous threats like the Saiyans and Freeza. Out of necessity he also takes it upon himself to train Goku's child Son Gohan, forming a bond which is strengthened when he sacrifices himself to save the child's life against Nappa. After his resurrection, he fully joins Goku and the others in their struggles against ever more powerful villains.\n\nPiccolo still retains elements of ruthlessness and cockiness, but once he fuses with Kami, all traces of evil and hate disappear, and Piccolo is completely reborn as a pure soul. Piccolo remains a loner, preferring to stand apart from others. He has little to say unless it involves battle, but he normally can still retain his stoic and calm personality in everyday, normal situations. Piccolo has shown to have intelligence, such as when he gathered strength to regenerate his arm after Cell had drained it, or when he elected to kill Babidi since he knew leaving him alive wouldn't solve the problem of Buu. His intelligence is even picked up on Buu, who later absorbs him for his fine brain.\n\nPiccolo's character development entails him changing from a villain hell-bent on revenge on Goku and controlling the world to becoming a better person who is capable of caring about other people, like Gohan and Goku. He's also showed some interest in learning about his Namekian heritage, and has a good affinity with kids, as he trained Gohan for a year, helped Goten and Trunks to learn Fusion\nand is even seen humorously rocking Pan to sleep in Fukkatsu no F. He also acts as a confidant for Dende, who is a younger Namekian and is tasked with watching over Earth (Piccolo is able to impart the wisdom he gained from fusing with Kami, as Kami was the previous placeholder of Dende's current occupation).\n\n(Source: Dragon Ball Super Exciting Guide, Character Edition)",
+  "note": null,
+  "source": "anime"
+}

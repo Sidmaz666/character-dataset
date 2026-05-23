@@ -1,0 +1,400 @@
+{
+  "id": "4e83056d1b96a9d6539c6cb311b77359",
+  "name": "Riza Hawkeye",
+  "native_name": "リザ・ホークアイ",
+  "full_name": "Riza Hawkeye",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Hawkeye Family",
+    "height_cm": 168,
+    "weight_kg": 52,
+    "age": "25-26",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 18.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Military uniform",
+      "Serious expression",
+      "Pistol"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Central City",
+    "base_of_operations": "State Military",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Military Officer",
+    "secondary": "Mustang's adjutant",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "State Military",
+      "Mustang's unit"
+    ],
+    "previous": [],
+    "relatives": [
+      "Berthold Hawkeye (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist Episode 1",
+    "manga": "Fullmetal Alchemist Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Marksmanship",
+      "native_name": "銃の達人",
+      "description": "Elite sharpshooter with perfect accuracy. Never misses.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Ammunition"
+    },
+    {
+      "name": "Combat Skills",
+      "native_name": "戦闘技術",
+      "description": "Highly trained soldier with exceptional tactical awareness.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "All",
+      "limit": "Human limits"
+    },
+    {
+      "name": "Leadership",
+      "native_name": "リーダーシップ",
+      "description": "Commands respect and loyalty from subordinates.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Team",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Perfect shot",
+    "Dual wield",
+    "Tactical support"
+  ],
+  "ultimate_move": "Sniper precision",
+  "trump_card": "Unwavering loyalty",
+  "power_attributes": {
+    "power_type": "Military training",
+    "power_source": "Training + Experience",
+    "combat_style": [
+      "Guns",
+      "Tactical"
+    ],
+    "weapon": "Pistols",
+    "equipment": [
+      "Dual pistols",
+      "Military gear"
+    ],
+    "trump_card": "Unwavering loyalty",
+    "ultimate_move": "Sniper precision"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Disciplined",
+      "Professional",
+      "Caring",
+      "Stoic",
+      "Dedicated"
+    ],
+    "likes": [
+      "Mustang",
+      "Duty",
+      "Black Hayate",
+      "Order"
+    ],
+    "dislikes": [
+      "Incompetence",
+      "Disrespect",
+      "Threats to Mustang"
+    ],
+    "fear": "Losing Mustang",
+    "dream": "Protect Mustang, see him become Fuhrer",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Disciplined",
+      "Loyal",
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hawkeye is Mustang's most trusted subordinate. Protects him while sharing his dream of changing Amestris.",
+    "motivation": "Protect Mustang, fulfill father's legacy",
+    "affinity": "Brown/Loyalty",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Mustang's right hand",
+    "Ishval veteran",
+    "Elite soldier"
+  ],
+  "titles": [
+    "Lieutenant",
+    "Mustang's Shadow"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Military"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 65,
+    "speed": 78,
+    "durability": 72,
+    "power": 40,
+    "combat": 92,
+    "total": 432
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional about Mustang",
+      "Human limits",
+      "Guilt over Ishval"
+    ],
+    "factors": [
+      "Mustang's safety"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homunculi",
+    "allies": [
+      "Roy Mustang",
+      "Edward Elric",
+      "Hughes",
+      "Havoc"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Roy Mustang",
+        "relationship": "Superior/love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Father",
+      "Homunculi"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Roy Mustang",
+    "best_friend": "Mustang",
+    "rival": "None",
+    "mentor": "Father",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Roy Mustang",
+      "Edward Elric",
+      "Hughes",
+      "Havoc",
+      "Mustang"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homunculi",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Roy Mustang",
+      "Edward Elric",
+      "Hughes",
+      "Havoc",
+      "Mustang"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lust",
+      "result": "Victory",
+      "method": "Marksmanship"
+    },
+    {
+      "opponent": "Homunculi",
+      "result": "Victory",
+      "method": "Team effort"
+    }
+  ],
+  "quotes": [
+    "Eyes forward, sir.",
+    "I'll shoot you.",
+    "My place is by his side."
+  ],
+  "voice_acting": {
+    "native_language": "Fumiko Orikasa (Japanese)",
+    "note": "Calm, professional",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues service",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Soldier",
+      "Lieutenant",
+      "Leader",
+      "Protector"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central Command",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 11\nBirthday: August 21 (Leo)\nHeight: 137 cm (4'6\")\n\nRika is a younger classmate in Keiichi's school, and is in the same grade level as Satoko. Naturally, she is great friends with her, as they live together in the same house. She is revered by the villagers as the heir of the local shrine, and plays the role of a miko in the annual Watanagashi Festival. She has been the head of the Furude house since her parents died, but rarely attends town meetings due to her young age. While she does not speak a lot, she likes to say nonsense words such as \"mi~\" and \"nipa~\" and often ends her sentences with \"-nano desu,\" which inflame Rena's passion for cute things. She also likes to describe events using sound effects, such as \"The cat was going 'nya nya' and 'scritch scritch'\" or saying \"Clap! Clap! Clap!\" when clapping her hands.\n\n\n(Source: 07th Expansion Wiki)",
+  "note": null,
+  "source": "anime"
+}

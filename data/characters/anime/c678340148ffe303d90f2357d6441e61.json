@@ -1,0 +1,325 @@
+{
+  "id": "c678340148ffe303d90f2357d6441e61",
+  "name": "Maki Zenin",
+  "native_name": "",
+  "full_name": "Maki Zenin",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Jujutsu High",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Kaisen",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Zenin Family",
+      "Jujutsu High"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen",
+    "manga": "Jujutsu Kaisen",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cursed Energy Manipulation",
+      "type": "Energy",
+      "description": "Controls cursed energy for combat and defense",
+      "power_level": "High"
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "type": "Physical",
+      "description": "Skilled in direct combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Barrier Techniques",
+      "type": "Magic",
+      "description": "Can create barriers using cursed energy",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Cursed Energy Manipulation",
+    "Hand-to-Hand Combat",
+    "Barrier Techniques"
+  ],
+  "ultimate_move": "Cursed Energy Manipulation",
+  "trump_card": "Hand-to-Hand Combat",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Magic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Hand-to-Hand Combat",
+    "ultimate_move": "Cursed Energy Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Calculating",
+      "Determined",
+      "Loyal",
+      "Sharp"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cursed"
+    ]
+  },
+  "character": {
+    "arc": "Jujutsu Kaisen character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Mikako Komatsu (Japanese)",
+    "Voiced by Allegra Clark (English)"
+  ],
+  "titles": [
+    "Jujutsu Kaisen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 70,
+    "combat": 70,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Jujutsu High"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Curses"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jujutsu High"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Curses"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jujutsu High"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Allegra Clark",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Mikako Komatsu"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Maki Zenin is a second-year at Tokyo Metropolitan Curse Technical College. She is from the Main Family of House Zenin, one of the \"Prominent Three Families\" of Sorcerers. Due to a Heavenly Restriction, Maki possess a very low level of cursed energy, comparable to the average non-sorcerer. As a trade-off for her low cursed energy, Maki has superhuman physical prowess.\n\n\n(Source: Jujutsu Kaisen Wiki)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,326 @@
+{
+  "id": "08593f6462671249c427e87daf8bd686",
+  "name": "Crocodile",
+  "native_name": "",
+  "full_name": "Crocodile",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "44",
+    "birthday": "September 5",
+    "zodiac": "Virgo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Grand Line",
+    "current_location": "Grand Line",
+    "base_of_operations": "Grand Line",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "One Piece",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Seven Warlords"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece",
+    "manga": "One Piece",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Haki",
+      "type": "Spiritual",
+      "description": "Able to sense and project spiritual energy",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Combat",
+      "description": "Skilled in blade combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Physical Combat",
+      "type": "Physical",
+      "description": "Proficient in hand-to-hand fighting",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Haki",
+    "Swordsmanship",
+    "Physical Combat"
+  ],
+  "ultimate_move": "Haki",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "Haki"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Adventurous",
+      "Stubborn",
+      "Passionate"
+    ],
+    "likes": [
+      "Adventure",
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "One Piece character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ryuuzaburou Ootomo (Japanese)",
+    "Voiced by John Swasey (English)"
+  ],
+  "titles": [
+    "One Piece"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 70,
+    "combat": 70,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Straw Hat Pirates"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "John Swasey",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ryuuzaburou Ootomo"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 44; 46\nBirthday: September 5\nBounty: \nAffiliations: Baroque Works;  Shichibukai \n\n\nCrocodile is the leader of Baroque Works, a secret organization of assassins and spies, and a member of the Shichibukai. Utilizing Baroque Works, he incites rebellion in the kingdom of Alabasta in order to gain access to the Poneglyph hidden beneath the palace. He believes it will reveal the location of the weapon Pluton, which Crocodile wishes to gain control of in order to establish his military power. He is defeated by Monkey D. Luffy and stripped of his Shichibukai status by the World Government, after which he is imprisoned. Crocodile ate the fictional Devil Fruit Suna Suna no Mi (Sand Sand Fruit, スナスナの実), giving him the ability to control sand, as well as avoid damage by turning into sand. According to series creator Eiichiro Oda, Crocodile's bounty would have been more than twice it's value if he wasn't a Shichibukai (his former bounty before accepting Shichibukai status was 81,000,000).",
+  "note": null,
+  "source": "anime"
+}

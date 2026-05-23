@@ -1,0 +1,372 @@
+{
+  "id": "613b82762a8b8fc92d461936b50138e7",
+  "name": "Valkyrie",
+  "native_name": null,
+  "full_name": "Brunnhilde",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Asgardian",
+    "race": "Asgardian",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 88,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Winged helmet",
+      "Dragonfang sword"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Asgard",
+    "current_location": "Earth",
+    "base_of_operations": "Earth",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Asgardian warrior",
+    "secondary": "Avenger",
+    "rank_title": "Valkyrie",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Asgardians",
+      " Avengers"
+    ],
+    "previous": [
+      "Team Valkyrie"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Defenders #150",
+    "comics": "The Defenders #150 (1975)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Asgardian super strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Sword Mastery",
+      "native_name": null,
+      "description": "Expert swordswoman",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Wings enabled flight",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Asgardian durability",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Sword Strike",
+    "Winged Flight"
+  ],
+  "ultimate_move": "Dragonfang Fury",
+  "trump_card": "Valkyrie's Judgment",
+  "power_attributes": {
+    "power_type": "Asgardian",
+    "power_source": "Odin force",
+    "combat_style": [
+      "Sword combat"
+    ],
+    "weapon": "Dragonfang",
+    "equipment": [
+      "Winged helmet"
+    ],
+    "trump_card": "Valkyrie's Judgment",
+    "ultimate_move": "Dragonfang Fury"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Noble",
+      " Fierce"
+    ],
+    "likes": [
+      "Battle",
+      "Honor"
+    ],
+    "dislikes": [
+      "Cow rdice"
+    ],
+    "fear": "Failing Asgard",
+    "dream": "Protecting Asgard",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Fierce"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Asgardian warrior who joined Earth's heroes",
+    "motivation": "Protecting the nine realms",
+    "affinity": "War",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Avengers member",
+    "Leader of Team Valkyrie"
+  ],
+  "titles": [
+    "Valkyrie",
+    "Brynhild"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 75,
+    "speed": 70,
+    "durability": 70,
+    "power": 65,
+    "combat": 80,
+    "total": 430
+  },
+  "weaknesses": {
+    "list": [
+      "None significant"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Enchantress",
+    "allies": [
+      "Thor",
+      "Hulk",
+      "Avengers"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Thor",
+        "relationship": "Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Enchantress",
+      "Loki"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Enchantress",
+        "relationship": "Rival",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Enchantress",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Thor",
+      "Hulk",
+      "Avengers"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Enchantress"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Enchantress"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Thor",
+      "Hulk",
+      "Avengers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Cynthia McWilliams (English)",
+    "english": "Cynthia McWilliams",
+    "note": "MCU",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Winged Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Earth",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "In Norse mythology, a valkyrie ( VAL-kirr-ee or  val-KEER-ee; from Old Norse: valkyrja, lit. 'chooser of the slain') is one of a host of female figures who guide souls of the dead to the god Odin's hall Valhalla. There, the deceased warriors become einherjar ('single fighters' or 'once fighters'). When the einherjar are not preparing for the cataclysmic events of Ragnarök, the valkyries bear them mead. Valkyries also appear as lovers of heroes and other mortals, where they are sometimes described as the daughters of royalty, sometimes accompanied by ravens and sometimes connected to swans, boars or wolves.\nValkyries are attested in the Poetic Edda (a book of poems compiled in the 13th century from earlier traditional sources), the Prose Edda, the Heimskringla (both by Snorri Sturluson) and the Njáls saga (one of the Sagas of Icelanders), all written—or compiled—in the 13th century. They appear throughout the poetry of skalds, in a 14th-century charm, and in various runic inscriptions.\nThe Old English cognate term wælcyrge appears in several Old English manuscripts, and scholars have explored whether the term appears in Old English by way of Norse influence, or reflects a tradition also native among the Anglo-Saxon pagans. Scholarly theories have been proposed about the relation between the valkyries, the Norns, and the dísir, all of which are supernatural figures associated with fate. Archaeological excavations throughout Scandinavia have uncovered amulets theorized as depicting valkyries. In modern culture, valkyries have been the subject of works of art, musical works, comic books, video games and poetry.",
+  "note": null,
+  "source": "marvel"
+}

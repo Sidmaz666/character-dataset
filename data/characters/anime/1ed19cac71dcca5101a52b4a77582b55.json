@@ -1,0 +1,404 @@
+{
+  "id": "1ed19cac71dcca5101a52b4a77582b55",
+  "name": "Pochita",
+  "native_name": "ポチタ",
+  "full_name": "Pochita",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Devil",
+    "race": "Chainsaw Devil",
+    "bloodline": "None",
+    "height_cm": 30,
+    "weight_kg": 15,
+    "age": "Unknown (ancient)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "None",
+    "weight_kkg": null,
+    "bmi": 166.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Orange",
+    "skin_color": "Orange fur",
+    "notable_features": [
+      "Chainsaw head",
+      "Dog body",
+      "Orange",
+      "Cute expression",
+      "Pull cord tail"
+    ],
+    "skin": "Orange fur",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Hell",
+    "current_location": "Denji's heart",
+    "base_of_operations": "Moving",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chainsaw Devil",
+    "secondary": "Denji's heart",
+    "rank_title": "Hero of Hell",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Denji"
+    ],
+    "previous": [
+      "Hell"
+    ],
+    "relatives": [
+      "None"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Chainsaw Man Episode 1",
+    "manga": "Chainsaw Man Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Chainsaw Form",
+      "native_name": "チェンソー形态",
+      "description": "Transforms limbs and head into chainsaws. Can cut through anything.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Melee",
+      "limit": "Fuel/blood"
+    },
+    {
+      "name": "Erasure",
+      "native_name": "消去",
+      "description": "Can erase concepts and devils from existence by eating them.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Touch",
+      "limit": "Must eat"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": "再生",
+      "description": "As a devil, can regenerate from damage. Lives in Denji's heart.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Blood supply"
+    },
+    {
+      "name": "Devil Contract",
+      "native_name": "契約",
+      "description": "Can form contracts with humans. Gave Denji new life.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Contract terms"
+    }
+  ],
+  "signature_moves": [
+    "Chainsaw attack",
+    "Concept erasure",
+    "Regeneration"
+  ],
+  "ultimate_move": "Chainsaw Devil manifestation",
+  "trump_card": "Erasing concepts",
+  "power_attributes": {
+    "power_type": "Devil Power",
+    "power_source": "Fear of Chainsaws",
+    "combat_style": [
+      "Chainsaw",
+      "Melee"
+    ],
+    "weapon": "Chainsaw body",
+    "equipment": [
+      "Chainsaw attack"
+    ],
+    "trump_card": "Erasing concepts",
+    "ultimate_move": "Chainsaw Devil manifestation"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Heroic",
+      "Selfless",
+      "Kind",
+      "Brave",
+      "Protective"
+    ],
+    "likes": [
+      "Denji",
+      "Bread",
+      "Being pet",
+      "Heroes"
+    ],
+    "dislikes": [
+      "Evil devils",
+      "Suffering",
+      "Denji's suffering"
+    ],
+    "fear": "Losing Denji",
+    "dream": "See Denji happy",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Heroic",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Pochita is the Chainsaw Devil who saved Denji by becoming his heart. Known as 'Hero of Hell' for erasing evil devils. Lives in Denji, grants power.",
+    "motivation": "Protect Denji, be hero",
+    "affinity": "Orange/Heroism",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Hero of Hell",
+    "Erased many devils",
+    "Saved Denji",
+    "Became heart"
+  ],
+  "titles": [
+    "Chainsaw Devil",
+    "Hero of Hell"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Devil"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 95,
+    "speed": 90,
+    "durability": 98,
+    "power": 100,
+    "combat": 92,
+    "total": 550
+  },
+  "weaknesses": {
+    "list": [
+      "Self-sacrificing",
+      "Too kind",
+      "Denji's safety"
+    ],
+    "factors": [
+      "Denji's heart",
+      "Control Devil"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Control Devil, Gun Devil",
+    "allies": [
+      "Denji"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Denji",
+        "relationship": "Partner/heart",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Gun Devil",
+      "Control Devil",
+      "Weapon Devils"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Denji",
+    "rival": "Gun Devil",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Control Devil, Gun Devil",
+      "Gun Devil"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Gun Devil"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gun Devil",
+      "result": "Unknown",
+      "method": "Past battle"
+    },
+    {
+      "opponent": "Weapon Devils",
+      "result": "Victory",
+      "method": "Erasure"
+    }
+  ],
+  "quotes": [
+    "Denji, live your dream!",
+    "I'm your heart.",
+    "Be the hero!"
+  ],
+  "voice_acting": {
+    "native_language": "Shiori Izawa (Japanese)",
+    "note": "Cute, heroic",
+    "native_name": null,
+    "english": "Lindsay Seidel",
+    "japanese": "Shiori Izawa"
+  },
+  "story": {
+    "status": "Alive (in Denji)",
+    "fate": "Part of Denji",
+    "transformation": "Chainsaw Man",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Devil",
+      "Hero",
+      "Heart",
+      "One"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Denji's heart",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Pochita is the chainsaw devil.\n\n(Source: Chainsaw Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

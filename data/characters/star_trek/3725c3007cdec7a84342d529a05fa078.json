@@ -1,0 +1,404 @@
+{
+  "id": "3725c3007cdec7a84342d529a05fa078",
+  "name": "Kathryn Janeway",
+  "native_name": null,
+  "full_name": "Kathryn Janeway",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 170,
+    "weight_kg": 64,
+    "age": "Born 2337",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Auburn (later gray)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Command presence"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Bloomington, Indiana, Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Starfleet Captain",
+    "secondary": "Admiral",
+    "rank_title": "Captain, later Admiral",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Starfleet",
+      "Federation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Edward Janeway (father)",
+      "Julia Janeway (mother)",
+      "Samantha (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Trek: Voyager (1995)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Exceptional command presence and strategic thinking",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Requires crew"
+    },
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant battlefield commander",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "N/A",
+      "limit": "Requires ship"
+    },
+    {
+      "name": "Engineering Expertise",
+      "native_name": null,
+      "description": "Expert in ship systems",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Technical"
+    },
+    {
+      "name": "Diplomacy",
+      "native_name": null,
+      "description": "Expert negotiator",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Requires talking"
+    }
+  ],
+  "signature_moves": [
+    "Bold strategy",
+    "Defy the odds",
+    "Negotiate"
+  ],
+  "ultimate_move": "Voyager Safe Home",
+  "trump_card": "Captain's Gambit",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "Human ingenuity and Starfleet training",
+    "combat_style": [
+      "Command",
+      "Tactics"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Comm badge",
+      "Tricorder"
+    ],
+    "trump_card": "Captain's Gambit",
+    "ultimate_move": "Voyager Safe Home"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Intelligent",
+      "Compassionate",
+      "Strong-willed"
+    ],
+    "likes": [
+      "Science",
+      "Coffee",
+      "Getting home"
+    ],
+    "dislikes": [
+      "Losing crew",
+      "Borg"
+    ],
+    "fear": "Failing her crew",
+    "dream": "Get her crew home",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Strong-willed",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "First captain to bring ship home from Delta Quadrant, broke many rules to survive",
+    "motivation": "Get crew home safely",
+    "affinity": "N/A",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "First captain to navigate Delta Quadrant",
+    "Defeated the Borg",
+    "Got crew home",
+    "Became Admiral"
+  ],
+  "titles": [
+    "Captain",
+    "Admiral",
+    "The Voyager Captain"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 50,
+    "speed": 50,
+    "durability": 55,
+    "power": 45,
+    "combat": 60,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "No combat powers",
+      "Human limitations"
+    ],
+    "factors": "Relies on crew and ship"
+  },
+  "relationships": {
+    "nemesis": "Borg, Kazon",
+    "allies": [
+      "Tuvok",
+      "Chakotay",
+      "Seven of Nine"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tuvok",
+        "relationship": "First Officer",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Borg",
+      "Kazon",
+      "Hirogens"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Borg",
+        "relationship": "Prime enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Mark Carlson (ex-fiance)",
+    "best_friend": "Tuvok",
+    "rival": null,
+    "mentor": null,
+    "student": "B'Elanna Torres",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tuvok",
+      "Chakotay",
+      "Seven of Nine"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Borg, Kazon"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "B'Elanna Torres"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tuvok",
+      "Chakotay",
+      "Seven of Nine"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Borg",
+      "result": "Special victory",
+      "method": "Used pathogen to weaken"
+    },
+    {
+      "opponent": "Kazon",
+      "result": "Victory",
+      "method": "Strategic thinking"
+    }
+  ],
+  "quotes": [
+    "I didn't get here by playing it safe.",
+    "I can't do everything but I can do some things."
+  ],
+  "voice_acting": {
+    "native_language": "Kate Mulgrew",
+    "english": "Kate Mulgrew",
+    "note": "Portrayed by Kate Mulgrew",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Got crew home safely",
+    "transformation": "N/A",
+    "awakening_potential": "Could lead Starfleet",
+    "power_evolution": [
+      "Captain",
+      "Admiral"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Shuttlecraft"
+    ],
+    "vehicles": [
+      "USS Voyager"
+    ],
+    "headquarters": "USS Voyager",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Kathryn Janeway is a fictional character in the Star Trek franchise. She was the main character of the television series Star Trek: Voyager, which aired between 1995 and 2001. She served as the captain of the Starfleet starship USS Voyager while it was lost in the Delta Quadrant on the other side of the galaxy. After returning home to the Alpha Quadrant, she is promoted to vice admiral and briefly appears in the 2002 film Star Trek: Nemesis. She is seen again commanding the USS Dauntless in Star Trek: Prodigy, searching for the missing USS Protostar, which was being commanded by Captain Chakotay, her former first officer on Voyager, at the time of its disappearance.",
+  "note": null,
+  "source": "star_trek"
+}

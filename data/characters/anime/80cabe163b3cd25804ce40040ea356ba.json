@@ -1,0 +1,407 @@
+{
+  "id": "80cabe163b3cd25804ce40040ea356ba",
+  "name": "Choji Akimichi",
+  "native_name": "秋道チョウジ",
+  "full_name": "Choji Akimichi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Akimichi Clan)",
+    "bloodline": "Akimichi Clan",
+    "height_cm": 162,
+    "weight_kg": 70,
+    "age": "12-13 (Part I), 15-17 (Part II)",
+    "birthday": "May 1",
+    "zodiac": "Taurus",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 26.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Chubby build",
+      "Swirl marks on cheeks",
+      "Orange hair",
+      "Kind eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Akimichi Compound",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "None",
+    "rank_title": "Chunin (Part II)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team 10"
+    ],
+    "previous": [],
+    "relatives": [
+      "Choza Akimichi (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Expansion Jutsu",
+      "native_name": "倍化の術",
+      "description": "Expands body or body parts to massive sizes for devastating attacks.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "All",
+      "limit": "Calories"
+    },
+    {
+      "name": "Human Boulder",
+      "native_name": "肉弾戦車",
+      "description": "Rolls into a ball and crushes enemies with massive weight.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Butterfly Mode",
+      "native_name": "蝶々モード",
+      "description": "Converts all calories to chakra, gaining immense power but risking death.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Life-threatening"
+    },
+    {
+      "name": "Super Expansion",
+      "native_name": "超倍化",
+      "description": "Expands to giant size, becoming a massive destructive force.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Area",
+      "limit": "Chakra pills"
+    }
+  ],
+  "signature_moves": [
+    "Human Boulder",
+    "Expansion Jutsu",
+    "Butterfly Mode"
+  ],
+  "ultimate_move": "Super Butterfly Bullet",
+  "trump_card": "Three colored pills",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Akimichi techniques",
+    "combat_style": [
+      "Taijutsu",
+      "Expansion"
+    ],
+    "weapon": "Body",
+    "equipment": [
+      "Chakra pills"
+    ],
+    "trump_card": "Three colored pills",
+    "ultimate_move": "Super Butterfly Bullet"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Loyal",
+      "Gentle",
+      "Protective",
+      "Food-loving",
+      "Brave"
+    ],
+    "likes": [
+      "Food",
+      "Shikamaru",
+      "Ino",
+      "BBQ"
+    ],
+    "dislikes": [
+      "Being called fat",
+      "Bullies",
+      "Losing friends"
+    ],
+    "fear": "Losing friends",
+    "dream": "Protect friends, become strong",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Choji starts as insecure about weight. Becomes hero by sacrificing himself for friends. Proves his bravery.",
+    "motivation": "Protect friends, prove worth",
+    "affinity": "Red/Expansion",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Chunin",
+    "Defeated Jirobo",
+    "War hero",
+    "Team 10"
+  ],
+  "titles": [
+    "Food Fighter",
+    "Chunin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 68,
+    "strength": 88,
+    "speed": 65,
+    "durability": 85,
+    "power": 88,
+    "combat": 82,
+    "total": 476
+  },
+  "weaknesses": {
+    "list": [
+      "Low stamina",
+      "Emotional",
+      "Calorie-dependent"
+    ],
+    "factors": [
+      "Pills side effects"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Jirobo",
+    "allies": [
+      "Shikamaru",
+      "Ino",
+      "Asuma",
+      "Naruto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shikamaru Nara",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Shikamaru",
+    "rival": "None",
+    "mentor": "Asuma",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shikamaru",
+      "Ino",
+      "Asuma",
+      "Naruto"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Jirobo",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shikamaru",
+      "Ino",
+      "Asuma",
+      "Naruto"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Asuma"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Jirobo",
+      "result": "Victory",
+      "method": "Butterfly Mode"
+    },
+    {
+      "opponent": "Akatsuki",
+      "result": "Victory",
+      "method": "Expansion"
+    }
+  ],
+  "quotes": [
+    "Don't call me fat!",
+    "I'm not fat, I'm big-boned!",
+    "My friends are my strength."
+  ],
+  "voice_acting": {
+    "native_language": "Kentaro Ito (Japanese)",
+    "note": "Kind, gentle",
+    "native_name": null,
+    "english": "Robbie Rist",
+    "japanese": "Kentarou Itou"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues service",
+    "transformation": "Butterfly Mode",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Hero",
+      "Master"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Akimichi Compound",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Chouji Ochiai is a childhood friend of Kenji's who created the \"Friend\" symbol and became a salaryman.  Later, he traveled to Tibet and Thailand after his son died, at which point he gets involved in the dealings of the \"Friend\" group.\n\n長治 is sometimes misread as \"Nagaharu,\" but his first name is Chouji.\n\nNo voice actors have been added to this character. Help improve our database by searching for a voice actor, and adding this character to their roles .",
+  "note": null,
+  "source": "anime"
+}

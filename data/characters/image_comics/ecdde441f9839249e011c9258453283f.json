@@ -1,0 +1,373 @@
+{
+  "name": "Allen the Alien",
+  "native_name": null,
+  "full_name": "Allen",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Alien (Unopan)",
+    "race": "Unopan",
+    "bloodline": null,
+    "height_cm": 213,
+    "weight_kg": 120,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White",
+    "hair_color": "None",
+    "skin_color": "Green/Yellow",
+    "notable_features": [
+      "One eye",
+      "Cyclops appearance",
+      "Friendly alien",
+      "Large build"
+    ],
+    "skin": "Green/Yellow",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown Planet (Unopan Homeworld)",
+    "current_location": "Coalition of Planets",
+    "base_of_operations": "Coalition of Planets HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Evaluation Officer",
+    "secondary": "Coalition Leader",
+    "rank_title": "Grand Regent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Coalition of Planets"
+    ],
+    "previous": [
+      "Planetary Evaluation Corps"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #1 (2003)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Unopan Physiology",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    },
+    {
+      "name": "Adaptive Evolution",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    },
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee"
+    }
+  ],
+  "signature_moves": [
+    "Alien Tackle",
+    "Giant Fist",
+    "Adaptive Counter"
+  ],
+  "ultimate_move": "Unopan Evolution",
+  "trump_card": "Adaptive Evolution",
+  "power_attributes": {
+    "power_type": "Unopan Biology",
+    "power_source": "Unopan Genetics",
+    "combat_style": [
+      "Brawling",
+      "Adaptive",
+      "Durable"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Coalition communicator"
+    ],
+    "trump_card": "Adaptive Evolution",
+    "ultimate_move": "Unopan Evolution"
+  },
+  "personality": {
+    "traits": [
+      "Friendly",
+      "Optimistic",
+      "Loyal",
+      "Warm",
+      "Determined"
+    ],
+    "likes": [
+      "Making friends",
+      "Protecting planets",
+      "Viltrumite fighting"
+    ],
+    "dislikes": [
+      "Viltrumites",
+      "Galactic threats",
+      "Losing allies"
+    ],
+    "fear": "The Coalition falling to Viltrum",
+    "dream": "Galactic peace and friendship",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Originally a planetary evaluation officer who would test planets' strongest fighters for worthiness (including Earth's). Became stronger through each death and resurrection. Later joined the Coalition of Planets against Viltrum and became its Grand Regent. Best friend to Invincible.",
+    "motivation": "Unite the galaxy against Viltrum Empire",
+    "affinity": "Friendship/Coalition",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Grand Regent of Coalition",
+    "Defeated Viltrumites in combat",
+    "Galactic peace efforts"
+  ],
+  "titles": [
+    "Allen the Alien",
+    "Grand Regent Allen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 88,
+    "speed": 75,
+    "durability": 88,
+    "power": 80,
+    "combat": 82,
+    "total": 483
+  },
+  "weaknesses": {
+    "list": [
+      "Can be killed (then evolves)",
+      "Emotionally attached",
+      "Loyalty exploited"
+    ],
+    "factors": [
+      "Each death makes him stronger",
+      "Cares deeply about friends"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thragg (former)",
+    "allies": [
+      "Invincible",
+      "Coalition of Planets",
+      "Omni-Man (later)"
+    ],
+    "enemies": [
+      "Viltrum Empire",
+      "Thragg"
+    ],
+    "love_interest": null,
+    "best_friend": "Invincible (Mark Grayson)",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Invincible",
+      "Coalition of Planets",
+      "Omni-Man (later)",
+      "Invincible (Mark Grayson)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thragg (former)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Debbie Grayson (parent)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Debbie Grayson (parent)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Invincible",
+      "Coalition of Planets",
+      "Omni-Man"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Viltrumites",
+      "result": "Victory (evolved)",
+      "method": "Died and came back stronger"
+    }
+  ],
+  "quotes": [
+    "I am here to evaluate your planet. But first, let's be friends!"
+  ],
+  "voice_acting": {
+    "native_language": "Seth Rogen",
+    "english": "Seth Rogen",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Grand Regent of Coalition",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Allen",
+      "Evolved Allen",
+      "Grand Regent"
+    ],
+    "role": "Major Ally",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Spaceship"
+    ],
+    "vehicles": [
+      "Coalition cruiser"
+    ],
+    "headquarters": "Coalition HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "ecdde441f9839249e011c9258453283f",
+  "publisher": "image_comics",
+  "about": "The second season of the American adult animated superhero series Invincible, based on the comic book series of the same name, was created for television by comic book writer Robert Kirkman who also wrote the comics. The season was produced by Amazon MGM Studios in association with Point Grey Pictures, Skybound North, Skybound Animation and Wind Sun Sky Entertainment, with Simon Racioppa serving as showrunner. Taking place a month after the events of the previous season, Mark Grayson is attempting to regain his life after being betrayed by Omni-Man while simultaneously dealing with the repercussions of the aftermath and attempting to not end up like his father. Also, Mark contends with a new threat in Angstrom Levy, an interdimensional traveler with a personal vendetta against him.\nSteven Yeun stars as Mark Grayson / Invincible, while Sandra Oh and J. K. Simmons play his parents Debbie Grayson and Nolan Grayson / Omni-Man respectively. While the supporting cast is formed by Gillian Jacobs, Andrew Rannells, Zazie Beetz, Walton Goggins, Seth Rogen, Sterling K. Brown, Ross Marquand, Malese Jow, Mark Hamill, Chris Diamantopoulos, Kevin Michael Richardson, Fred Tatasciore, Eric Bauza, Jason Mantzoukas, Khary Payton, Zachary Quinto, Grey Griffin, Ben Schwartz, Jay Pharoah, and Calista Flockhart.\nThe season was preceded by a special episode, called \"Invincible: Atom Eve\", which was released on July 21, 2023. The season itself was divided into two parts and premiered on Amazon Prime Video on November 3, 2023, with the first four episodes each week until November 24, and the final four from March 14, 2024, through April 4. A third season was ordered on April 29, 2021.",
+  "note": null,
+  "source": "image_comics"
+}

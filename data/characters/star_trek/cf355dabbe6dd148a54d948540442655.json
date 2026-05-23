@@ -1,0 +1,424 @@
+{
+  "id": "cf355dabbe6dd148a54d948540442655",
+  "name": "Michael Burnham",
+  "native_name": null,
+  "full_name": "Michael Burnham",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human (raised by Vulcans)",
+    "bloodline": "Burnham",
+    "height_cm": 170,
+    "weight_kg": 62,
+    "age": "29 when on Discovery",
+    "birthday": "2211",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Vulcan discipline",
+      "Battle scars",
+      "Sarek-adopted features"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Discovery, USS Discovery-A",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Science Specialist",
+    "secondary": "First Officer",
+    "rank_title": "Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Vulcan Expeditionary Group"
+    ],
+    "relatives": [
+      "Sarek (adoptive father)",
+      "Spock (adoptive brother)",
+      "Paul Stamets (close friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Discovery (2017) - \"The Vulcan Hello\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spore Drive Navigation",
+      "native_name": null,
+      "description": "Can navigate the spore network with tardigrade DNA",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited (spore network)",
+      "limit": "Caused her trauma and death"
+    },
+    {
+      "name": "Vulcan Training",
+      "native_name": null,
+      "description": "Raised by Vulcans, has their discipline and combat skills",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Not fully Vulcan"
+    },
+    {
+      "name": "Xenobiology",
+      "native_name": null,
+      "description": "Expert in alien biology and sciences",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Requires research"
+    }
+  ],
+  "signature_moves": [
+    "Spore Drive Jumps",
+    "Vulcan Combat",
+    "Mutiny Leadership"
+  ],
+  "ultimate_move": "Mycelial Network Navigation",
+  "trump_card": "Mutiny Against Captain (failed)",
+  "power_attributes": {
+    "power_type": "Science/Combat",
+    "power_source": "Vulcan Training/Spock DNA",
+    "combat_style": [
+      "Vulcan Combat",
+      "Starfleet Training"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Spore Drive Interface"
+    ],
+    "trump_card": "Mutiny Against Captain (failed)",
+    "ultimate_move": "Mycelial Network Navigation"
+  },
+  "personality": {
+    "traits": [
+      "Logical",
+      "Brave",
+      "Traumatic",
+      "Determined",
+      "Rule-Breaking"
+    ],
+    "likes": [
+      "Logic",
+      "Discovery",
+      "Spock",
+      "Saving Lives"
+    ],
+    "dislikes": [
+      "Losing Control",
+      "Klingons",
+      "Her Past"
+    ],
+    "fear": "Repeating Her Mistakes",
+    "dream": "Finding Peace and Purpose",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From mutineer who started the war to hero who saved the galaxy multiple times",
+    "motivation": "Atoning for the Klingon War and finding her place",
+    "affinity": "Science",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Served as first officer on Discovery",
+    "Navigated spore drive multiple times",
+    "Ended Temporal War",
+    "Saved the mycelial network",
+    "Became first officer of Discovery-A"
+  ],
+  "titles": [
+    "Commander Burnham",
+    "The Mutineer",
+    "Sarek's Daughter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 75,
+    "speed": 78,
+    "durability": 78,
+    "power": 82,
+    "combat": 85,
+    "total": 490
+  },
+  "weaknesses": {
+    "list": [
+      "Mutiny Guilt",
+      "Trauma from War",
+      "Spock Connection Issues"
+    ],
+    "factors": [
+      "Started the Klingon War",
+      "Lost Captain Pike"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kol (Klingon)",
+    "allies": [
+      "Christopher Pike (captain)",
+      "Paul Stamets",
+      "Saru"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Christopher Pike",
+        "relationship": "Captain and mentor",
+        "trust_level": "High"
+      },
+      {
+        "name": "Spock",
+        "relationship": "Adoptive brother",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Kol",
+      "Control",
+      "Klingons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Kol",
+        "relationship": "Primary Klingon enemy",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Ash Tyler (before discovering Voq)",
+    "best_friend": "Paul Stamets",
+    "rival": "None",
+    "mentor": [
+      "Sarek",
+      "Pike"
+    ],
+    "student": "Various crew members",
+    "notable_battles": [
+      {
+        "opponent": "Klingons",
+        "result": "Various",
+        "method": "Started the war"
+      },
+      {
+        "opponent": "Control",
+        "result": "Victory",
+        "method": "Spore drive and sacrifice"
+      },
+      {
+        "opponent": "Time Crystals",
+        "result": "Victory",
+        "method": "Saved Pike's future"
+      }
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Christopher Pike (captain)",
+      "Paul Stamets",
+      "Saru"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kol (Klingon)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Christopher Pike",
+      "Paul Stamets",
+      "Saru"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "mentors": []
+  },
+  "quotes": [
+    "In my experience, the truth is more dangerous than a lie.",
+    "We are better together than apart.",
+    "I committed mutiny to prevent a war. The war came anyway."
+  ],
+  "voice_acting": {
+    "native_language": "Sonequa Martin-Green",
+    "english": "Sonequa Martin-Green",
+    "note": "First African-American female lead of Star Trek",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "First officer of Discovery-A, exploring the far future",
+    "transformation": "From mutineer to hero",
+    "awakening_potential": "Achieved redemption and purpose",
+    "power_evolution": [
+      "Vulcan Student",
+      "Starfleet Officer",
+      "Mutineer",
+      "Hero"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Discovery",
+      "USS Discovery-A"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Discovery",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "notable_battles": [],
+  "about": "Michael Burnham is the protagonist of Star Trek: Discovery, portrayed by American actress Sonequa Martin-Green. She originally appears as the First Officer of USS Shenzhou under Philippa Georgiou until she commits mutiny, for which she is stripped of rank and sent to prison for life. Burnham is later recruited by Gabriel Lorca on USS Discovery as a science specialist after serving only six months of her sentence, with Lorca viewing Burnham as an asset in the war against the Klingons. She serves as the series lead. The character is introduced as a xeno-anthropologist helping the Earth-based Starfleet understand and engage with new cultures in outer space.",
+  "note": null,
+  "source": "star_trek"
+}

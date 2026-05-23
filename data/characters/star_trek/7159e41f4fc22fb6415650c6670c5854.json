@@ -1,0 +1,412 @@
+{
+  "id": "7159e41f4fc22fb6415650c6670c5854",
+  "name": "Lore",
+  "native_name": null,
+  "full_name": "Lore Soong",
+  "basic_info": {
+    "gender": "Male (androgyne)",
+    "species": "Soong-Type Android",
+    "race": "Android",
+    "bloodline": "Soong",
+    "height_cm": 185,
+    "weight_kg": 95,
+    "age": "Immortal (does not age)",
+    "birthday": "Unknown (earlier than Data)",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow (gold)",
+    "hair_color": "Black (synthetic)",
+    "skin_color": "Pale/Plastic",
+    "notable_features": [
+      "Smirk",
+      "More human expression than Data",
+      "Evil smile"
+    ],
+    "skin": "Pale/Plastic",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Omicron Theta (built by Soong)",
+    "current_location": "Deactivated / Unknown",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Antagonist",
+    "secondary": "Android",
+    "rank_title": "None",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      null
+    ],
+    "previous": [
+      "The Crystalline Entity",
+      "Borg"
+    ],
+    "relatives": [
+      "Noonien Soong (creator)",
+      "Data (brother)",
+      "B-4 (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Next Generation (1988) - \"Datalore\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Greater than Data's strength",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "Less precise"
+    },
+    {
+      "name": "Emotional Range",
+      "native_name": null,
+      "description": "Has full emotions but lacks ethical subroutines",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Internal",
+      "limit": "Emotions lead to malevolence"
+    },
+    {
+      "name": "Manipulation",
+      "native_name": null,
+      "description": "Master manipulator, deceives easily",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Sometimes overconfident"
+    }
+  ],
+  "signature_moves": [
+    "Evil Manipulation",
+    "Emotion-Based Deception",
+    "Betrayal"
+  ],
+  "ultimate_move": "Controlling the Crystalline Entity",
+  "trump_card": "Full Emotional Responses",
+  "power_attributes": {
+    "power_type": "Combat/Manipulation",
+    "power_source": "Android Technology",
+    "combat_style": [
+      "Physical Combat",
+      "Psychological Manipulation"
+    ],
+    "weapon": "None (prefers deception)",
+    "equipment": [
+      "Various stolen tech"
+    ],
+    "trump_card": "Full Emotional Responses",
+    "ultimate_move": "Controlling the Crystalline Entity"
+  },
+  "personality": {
+    "traits": [
+      "Malevolent",
+      "Manipulative",
+      "Jealous",
+      "Arrogant",
+      "Deceptive"
+    ],
+    "likes": [
+      "Power",
+      "Control",
+      "Deceiving Others"
+    ],
+    "dislikes": [
+      "Data's Success",
+      "Being Second Best",
+      "Being Deactivated"
+    ],
+    "fear": "Being Deactivated",
+    "dream": "Being Superior to Data",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Superhuman Strength",
+      "Emotional Range",
+      "Manipulation"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Manipulative",
+      "Jealous"
+    ]
+  },
+  "character": {
+    "arc": "From Data's malevolent brother to pawn of the Crystalline Entity and Borg",
+    "motivation": "Proving his superiority and gaining power",
+    "affinity": "Evil",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Nearly destroyed the Enterprise with Crystalline Entity",
+    "Killed Dr. Soong",
+    "Worked with the Borg",
+    "Stole the emotion chip",
+    "Caused numerous problems for Data"
+  ],
+  "titles": [
+    "The Malevolent Android",
+    "Data's Evil Brother"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 98,
+    "speed": 88,
+    "durability": 92,
+    "power": 92,
+    "combat": 85,
+    "total": 550
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Betrayal by Emotion Chip",
+      "Unethical Subroutines"
+    ],
+    "factors": [
+      "Emotions cause poor judgment",
+      "Often defeated by Data"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Data",
+    "allies": [
+      "The Crystalline Entity",
+      "Borg"
+    ],
+    "allies_detailed": [
+      {
+        "name": "The Crystalline Entity",
+        "relationship": "Pawn/master",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Data",
+      "Jean-Luc Picard",
+      "Noonien Soong"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Data",
+        "relationship": "Brother, primary target",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "None (rejected by Data's love interests)",
+    "best_friend": "None",
+    "rival": "Data",
+    "mentor": "None",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Crystalline Entity",
+      "Borg",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Data"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Data"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Crystalline Entity",
+      "Borg",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Data",
+      "result": "Defeat",
+      "method": "Plasma weapon from Data"
+    },
+    {
+      "opponent": "Enterprise Crew",
+      "result": "Defeat",
+      "method": "Crystalline Entity controlled"
+    }
+  ],
+  "quotes": [
+    "You were the prototype, brother. I was always more advanced.",
+    "I have emotions. Real ones. The kinds you'll never understand.",
+    "I've been waiting for you, Data."
+  ],
+  "voice_acting": {
+    "native_language": "Brent Spiner",
+    "english": "Brent Spiner",
+    "note": "Same actor as Data, different performance",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deactivated",
+    "fate": "Decommissioned by Data, later reprogrammed parts seen",
+    "transformation": "Never reformed, remained evil",
+    "awakening_potential": "Achieved legendary villain status among androids",
+    "power_evolution": [
+      "Prototype",
+      "Malevolent Android",
+      "Pawn of Entity"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various"
+    ],
+    "vehicles": [
+      "None"
+    ],
+    "headquarters": "Various",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "This is a list of minor characters from the science fiction television series Star Trek: The Next Generation. Characters are ordered alphabetically by family name, and only characters who played a significant recurring role in the series are listed.",
+  "note": null,
+  "source": "star_trek"
+}

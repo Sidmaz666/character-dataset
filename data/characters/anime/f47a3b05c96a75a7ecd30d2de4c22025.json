@@ -1,0 +1,399 @@
+{
+  "id": "f47a3b05c96a75a7ecd30d2de4c22025",
+  "name": "Tenya Iida",
+  "native_name": "飯田天哉",
+  "full_name": "Tenya Iida",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Quirk user)",
+    "bloodline": "Iida Family",
+    "height_cm": 179,
+    "weight_kg": 67,
+    "age": "15-16",
+    "birthday": "August 22",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark blue",
+    "hair_color": "Dark blue",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Glasses",
+      "Rectangular hair",
+      "Serious expression",
+      "Athletic build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Hero-in-training",
+    "rank_title": "Class 1-A Representative",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Class 1-A"
+    ],
+    "previous": [],
+    "relatives": [
+      "Tensei Iida (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia Episode 1",
+    "manga": "My Hero Academia Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Engine",
+      "native_name": "エンジン",
+      "description": "Engines in calves provide incredible speed and kicking power.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Fuel consumption"
+    },
+    {
+      "name": "Recipro Burst",
+      "native_name": "レシプロバースト",
+      "description": "Removes engine limits for 10 seconds of extreme speed.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "10 second limit"
+    },
+    {
+      "name": "Recipro Extend",
+      "native_name": "レシプロエクステンド",
+      "description": "Maintains high speed indefinitely without time limit.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Stamina"
+    }
+  ],
+  "signature_moves": [
+    "Recipro Burst",
+    "Engine Kick",
+    "High-speed charge"
+  ],
+  "ultimate_move": "Recipro Burst",
+  "trump_card": "Engine power",
+  "power_attributes": {
+    "power_type": "Quirk",
+    "power_source": "Engine",
+    "combat_style": [
+      "Speed",
+      "Kicks"
+    ],
+    "weapon": "Legs",
+    "equipment": [
+      "Hero costume"
+    ],
+    "trump_card": "Engine power",
+    "ultimate_move": "Recipro Burst"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Disciplined",
+      "Loyal",
+      "Honest",
+      "Rule-abiding",
+      "Protective"
+    ],
+    "likes": [
+      "Rules",
+      "Order",
+      "Class 1-A",
+      "Training"
+    ],
+    "dislikes": [
+      "Disorder",
+      "Rule-breaking",
+      "Injustice"
+    ],
+    "fear": "Failing class",
+    "dream": "Become great hero like brother",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Iida is the class representative who takes rules seriously. Through Stain incident, learns that heroes must follow their own convictions.",
+    "motivation": "Become hero like brother, protect class",
+    "affinity": "Blue/Speed",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Class representative",
+    "Sports Festival runner-up",
+    "Provisional license"
+  ],
+  "titles": [
+    "Class Rep",
+    "Speedster"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 78,
+    "speed": 92,
+    "durability": 80,
+    "power": 85,
+    "combat": 82,
+    "total": 499
+  },
+  "weaknesses": {
+    "list": [
+      "Rigid thinking",
+      "Emotional about brother",
+      "Engine maintenance"
+    ],
+    "factors": [
+      "Brother's safety"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Stain",
+    "allies": [
+      "Deku",
+      "Uraraka",
+      "Bakugo",
+      "Todoroki"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Izuku Midoriya",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Stain",
+      "Shigaraki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Deku",
+    "rival": "Bakugo",
+    "mentor": "Gran Torino",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Deku",
+      "Uraraka",
+      "Bakugo",
+      "Todoroki"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Stain",
+      "Bakugo"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Bakugo"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Deku",
+      "Uraraka",
+      "Bakugo",
+      "Todoroki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Gran Torino"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stain",
+      "result": "Loss",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Bakugo",
+      "result": "Draw",
+      "method": "Speed vs Explosion"
+    }
+  ],
+  "quotes": [
+    "As class representative!",
+    "I won't allow this!",
+    "Plus Ultra!"
+  ],
+  "voice_acting": {
+    "native_language": "Kaito Ishikawa (Japanese)",
+    "note": "Serious, formal",
+    "native_name": null,
+    "english": "J. Michael Tatum",
+    "japanese": "Kaito Ishikawa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Training to be hero",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Student",
+      "Class Rep",
+      "Speed master",
+      "Hero"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "U.A. High",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: September 24\n\nTanya von Degurechaff is a cute, adorable and pretty-good looking little girl. But deep inside, she is highly power-hungry, amoral, ruthless, sadistic and hot-tempered. Especially when she is in battle against her enemies, she shows utter ruthlessness and bloodlust just to accomplish her missions. Tanya also strongly disapproves of failure and disobedience from her subordinates. She is loyal to her own job and always wants to finish it as soon as possible. Tanya will never let anyone discriminate her appearance because of how fast she goes through the ranks in the military.",
+  "note": null,
+  "source": "anime"
+}

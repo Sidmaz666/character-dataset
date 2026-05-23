@@ -1,0 +1,351 @@
+{
+  "id": "9288522749b7b05cd6b3ee2b9caf95d7",
+  "name": "Sentinel",
+  "native_name": null,
+  "full_name": "Sentinel",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant-hunting robot",
+    "race": "Robotic",
+    "bloodline": null,
+    "height_cm": 213,
+    "weight_kg": 500,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "None",
+    "weight_kkg": null,
+    "bmi": 110.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "None",
+    "skin_color": "Metal",
+    "notable_features": [
+      "Large robot frame",
+      "Mutant detection sensors"
+    ],
+    "skin": "Metal",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "United States",
+    "current_location": "Various",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mutant-hunting robot",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Various governments"
+    ],
+    "previous": [
+      "Brotherhood",
+      "Mystic"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "X-Men #14",
+    "comics": "X-Men #14 (1970)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Massive robotic strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Mutant Detection",
+      "native_name": null,
+      "description": "Can detect mutants",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Force Field",
+      "native_name": null,
+      "description": "Energy shields",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Energy Blasts",
+      "native_name": null,
+      "description": " optic blasts",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Optic Blast",
+    "Plasma Burst"
+  ],
+  "ultimate_move": "Full Power Assault",
+  "trump_card": "Mutant Detection",
+  "power_attributes": {
+    "power_type": "Robotic",
+    "power_source": "Advanced technology",
+    "combat_style": [
+      "Melee",
+      "Energy projection"
+    ],
+    "weapon": "Energy Blasts",
+    "equipment": [
+      "Mutant sensors"
+    ],
+    "trump_card": "Mutant Detection",
+    "ultimate_move": "Full Power Assault"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Single-minded",
+      "Protective",
+      "Cooperative"
+    ],
+    "likes": [
+      "Hunting mutants"
+    ],
+    "dislikes": [
+      "Mutants"
+    ],
+    "fear": "Technology dependent",
+    "dream": "Exterminating all mutants",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Robot designed to hunt mutants",
+    "motivation": "Mutant eradication",
+    "affinity": "Technology",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Hunted numerous mutants",
+    "Joined various villain groups"
+  ],
+  "titles": [
+    "Sentinel",
+    "Master Mold"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 75,
+    "speed": 60,
+    "durability": 85,
+    "power": 75,
+    "combat": 60,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Technology dependent",
+      "Can be hacked"
+    ],
+    "factors": [
+      "ruthless"
+    ]
+  },
+  "relationships": {
+    "nemesis": "X-Men",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Mutants",
+      "X-Men"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "X-Men"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Various governments"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "The Sentinels are a group of mutant-hunting robots appearing in American comic books published by Marvel Comics. They are typically depicted as antagonists to the X-Men.",
+  "note": null,
+  "source": "marvel"
+}

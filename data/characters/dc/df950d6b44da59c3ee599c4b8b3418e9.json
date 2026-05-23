@@ -1,0 +1,447 @@
+{
+  "name": "Barry Allen",
+  "native_name": "バリー・アレン",
+  "full_name": "Bartholomew Henry Allen",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Metahuman)",
+    "race": "Metahuman",
+    "bloodline": "Allen",
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": "Late 20s to 30s",
+    "birthday": "March 19",
+    "zodiac": "Pisces",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "The Flash costume",
+      "Speed Force lightning",
+      "Blonde hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Central City",
+    "current_location": "Central City",
+    "base_of_operations": "Central City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Forensic Scientist",
+    "secondary": "Superhero",
+    "rank_title": "The Flash",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League",
+      "Flash Family",
+      "Central City Police Department"
+    ],
+    "previous": [
+      "Justice League International"
+    ],
+    "relatives": [
+      "Henry Allen (father)",
+      "Nora Allen (mother, deceased)",
+      "Iris West-Allen (wife)",
+      "Wally West (nephew)",
+      "Bart Allen (grandson)",
+      "Jay Garrick (mentor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Showcase #4 (October 1956)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Speed (Speed Force)",
+      "native_name": null,
+      "description": "Connected to the Speed Force granting ability to move at speeds exceeding light. Can run across time, dimensions, and reality. Can perceive events in attoseconds.",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Requires Speed Force connection"
+    },
+    {
+      "name": "Speed Force Abilities",
+      "native_name": null,
+      "description": "Speed healing, enhanced reflexes, phasing through objects, speed mirages, infinite mass punch, speed steal/lend, and time travel capabilities.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Excessive use can damage timeline"
+    },
+    {
+      "name": "Forensic Scientist",
+      "native_name": null,
+      "description": "Expert forensic scientist for Central City PD. Exceptionally intelligent, able to process complex data at super-speed.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Time Manipulation",
+      "native_name": null,
+      "description": "Can travel through time and across alternate timelines/universes. Has access to the entire DC multiverse.",
+      "type": "Special",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Multiversal",
+      "limit": "Timeline manipulation has consequences"
+    }
+  ],
+  "signature_moves": [
+    "Speed Punch",
+    "Infinite Mass Punch",
+    "Time Travel Run",
+    "Speed Force Vortex"
+  ],
+  "ultimate_move": "Infinite Mass Punch / Time-Displacement",
+  "trump_card": "Speed Force Connection + Time Travel",
+  "power_attributes": {
+    "power_type": "Speed Force",
+    "power_source": "Speed Force Dimension",
+    "combat_style": [
+      "Speed-based",
+      "Phasing",
+      "Time manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Flash Ring (contains costume)",
+      "The Flash costume"
+    ],
+    "trump_card": "Speed Force Connection + Time Travel",
+    "ultimate_move": "Infinite Mass Punch / Time-Displacement"
+  },
+  "personality": {
+    "traits": [
+      "Heroic",
+      "Optimistic",
+      "Determined",
+      "Selfless",
+      "Intelligent",
+      "Relatable",
+      "Funny"
+    ],
+    "likes": [
+      "Justice",
+      "Science",
+      "Iris",
+      "Central City",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Villains harming civilians",
+      "Being late",
+      "Timeline destruction"
+    ],
+    "fear": "Losing Iris / failing to save someone",
+    "dream": "Protect Central City and the world from all threats",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Forensic scientist struck by lightning gaining super-speed through the Speed Force. Became the Scarlet Speedster and founding JL member. Sacrificed himself during Crisis on Infinite Earths, resurrected in Final Crisis. His legacy defined the DC Multiverse.",
+    "motivation": "Protect the innocent, honor his mother death, use science and speed for justice",
+    "affinity": "Speed Force",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "The Flash",
+    "Founding JL member",
+    "Discovered Speed Force",
+    "Saved multiverse multiple times"
+  ],
+  "titles": [
+    "The Flash",
+    "Scarlet Speedster",
+    "Fastest Man Alive"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Highly valued by criminal organizations"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 100,
+    "durability": 85,
+    "power": 98,
+    "combat": 80,
+    "total": 518
+  },
+  "weaknesses": {
+    "list": [
+      "Speed Force dependency",
+      "Timeline consequences",
+      "Emotional attachments"
+    ],
+    "factors": [
+      "Can be cut off from Speed Force",
+      "Flashpoint-like temporal errors"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Eobard Thawne (Reverse-Flash)",
+    "allies": [
+      "Justice League",
+      "Wally West",
+      "Jay Garrick",
+      "Bart Allen",
+      "Iris West"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Iris West-Allen",
+        "relationship": "Wife",
+        "trust_level": "Maximum"
+      },
+      {
+        "name": "Batman",
+        "relationship": "Best friend in JL",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Reverse-Flash",
+      "Captain Cold",
+      "Gorilla Grodd",
+      "The Rogues",
+      "Zoom"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Eobard Thawne (Reverse-Flash)",
+        "relationship": "Arch-nemesis from the future",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Iris West-Allen",
+    "best_friend": "Bruce Wayne (Batman)",
+    "rival": "Eobard Thawne",
+    "mentor": "Jay Garrick",
+    "student": "Wally West",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Justice League",
+      "Wally West",
+      "Jay Garrick",
+      "Bart Allen",
+      "Iris West",
+      "Bruce Wayne (Batman)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Eobard Thawne (Reverse-Flash)",
+      "Eobard Thawne"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Eobard Thawne"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Wally West"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Justice League",
+      "Wally West",
+      "Jay Garrick",
+      "Bart Allen",
+      "Iris West",
+      "Bruce Wayne"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jay Garrick"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Reverse-Flash",
+      "result": "Victory",
+      "method": "Speed Force manipulation"
+    },
+    {
+      "opponent": "Anti-Monitor",
+      "result": "Sacrifice",
+      "method": "Became Speed Force itself to save multiverse"
+    }
+  ],
+  "quotes": [
+    "My name is Barry Allen, and I am the fastest man alive.",
+    "I am not a hero. I am just a forensic scientist who got struck by lightning.",
+    "The Speed Force is not just speed. It is life itself."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Rosenbaum (English)",
+    "english": "Michael Rosenbaum",
+    "note": "Voice from Justice League animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Active as The Flash protecting Central City",
+    "transformation": "Gained Speed Force connection",
+    "awakening_potential": "Full Speed Force avatar",
+    "power_evolution": [
+      "Forensic Scientist",
+      "The Flash",
+      "Speed Force Avatar",
+      "Dead/Crisis",
+      "Reborn"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Super-speed running"
+    ],
+    "vehicles": [],
+    "headquarters": "Central City",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "df950d6b44da59c3ee599c4b8b3418e9",
+  "publisher": "dc",
+  "about": "Bartholomew Henry \"Barry\" Allen is a superhero appearing in American comic books published by DC Comics. He is the second character known as the Flash, following Jay Garrick. The character first appeared in Showcase #4 (October 1956), created by writer Robert Kanigher and penciler Carmine Infantino. A forensic chemist, Barry accidentally gains superpowers following a lightning strike in his laboratory. Like other heroes who go by the Flash, Barry is a \"speedster\", with powers that derive mainly from his superhuman speed. He wears a distinct red and gold costume treated to resist friction and wind, traditionally storing the costume compressed inside a ring.\nCreated as a reimagining of the popular 1940s superhero The Flash (Jay Garrick), Barry Allen's popularity helped to bring about the Silver Age of Comic Books and contributed to a large growth in DC Comics' stable of science fiction comics and characters. During popular early volumes as the Flash, Barry established his own Rogues Gallery of colorful villains and sci-fi concepts like Gorilla City. Through crossovers with popular characters like Superman, Wonder Woman, and Batman, Barry Allen's Flash also helped establish DC's flagship Justice League title, whose success would define its publishing strategy for decades to come.\nBarry Allen's classic stories also introduced the concept of the Multiverse to DC Comics, which has played a large part in DC's many continuity reboots over the years. As a result, the Flash has traditionally always had a significant role in DC's major company-wide crossover stories, and in the crossover Crisis on Infinite Earths #8 (November 1985), Barry Allen died saving the Multiverse and would not appear again for 23 years. His return to regular comics is foreshadowed during Grant Morrison's crossover story Final Crisis #2 (June 2008), preceding his full return in Geoff Johns' accompanying The Flash: Rebirth (June 2009) limited series. He has since played a pivotal role in the crossover stories like Blackest Night (2009), Flashpoint (2011), Convergence (2015), DC Rebirth (2016), Doomsday Clock (2017–2019), Infinite Frontier (2021), and Absolute Power (2024).\nBarry Allen is an established pop culture icon and has been featured in several media, first appearing in animated form in the 1967 The Superman/Aquaman Hour of Adventure and then in the related Super Friends program. Since then he has appeared in several DC Universe Animated Original Movies. Actor John Wesley Shipp portrayed the character in the live-action 1990s television show The Flash and the Arrowverse.\nGrant Gustin portrayed the character in the Arrowverse, while Ezra Miller portrayed him in the DC Extended Universe films and related media.",
+  "note": null,
+  "source": "dc"
+}

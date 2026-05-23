@@ -1,0 +1,366 @@
+{
+  "id": "c13257335e154d9ab211ae1a87cd940a",
+  "name": "Misty",
+  "native_name": "Kasumi",
+  "full_name": "Misty",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 145,
+    "weight_kg": 38,
+    "age": "10-13",
+    "birthday": "November 13",
+    "blood_type": "O",
+    "bloodline": null,
+    "zodiac": "Scorpio",
+    "weight_kkg": null,
+    "bmi": 18.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Orange",
+    "skin": "Fair",
+    "notable_features": [
+      "Yellow suspenders",
+      "Red bandana",
+      "Always carries water Pokemon"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cerulean City",
+    "current_location": "Cerulean City Gym / Traveling",
+    "base_of_operations": "Cerulean City Gym / Traveling",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Gym Leader",
+    "secondary": "Water Pokemon Specialist",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Cerulean City Gym",
+      "Kanto Gym Leaders"
+    ],
+    "previous": [],
+    "relatives": [
+      "Daisy (sister)",
+      "Lily (sister)",
+      "Violet (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Pokemon Episode 2",
+    "manga": "Pokemon Episode 2",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Water Pokemon Mastery",
+      "native_name": null,
+      "description": "Expert trainer of Water-type Pokemon",
+      "type": "Tactical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Swimming",
+      "native_name": null,
+      "description": "Excellent swimmer",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Gym Leader Authority",
+      "native_name": null,
+      "description": "Official Kanto Gym Leader",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Water Pokemon Mastery",
+    "Gym Leader Authority",
+    "Swimming"
+  ],
+  "ultimate_move": "Water Pokemon Mastery",
+  "trump_card": "Gym Leader Authority",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Gun"
+    ],
+    "trump_card": "Gym Leader Authority",
+    "ultimate_move": "Water Pokemon Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Short-tempered",
+      "Compassionate",
+      "Brave",
+      "Determined",
+      "Caring"
+    ],
+    "likes": [
+      "Water Pokemon",
+      "Staryu",
+      "Togepi"
+    ],
+    "dislikes": [
+      "Bug Pokemon",
+      "Team Rocket",
+      "being teased"
+    ],
+    "fear": "Betrayal",
+    "dream": "Become the best Water Pokemon Master",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Short-tempered"
+    ]
+  },
+  "character": {
+    "arc": "Young Water-type Gym Leader who travels with Ash to become a better trainer",
+    "motivation": "Become the best Water Pokemon Master",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Gym Leader"
+  ],
+  "titles": [
+    "Gym Leader"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 35,
+    "speed": 60,
+    "durability": 55,
+    "power": 50,
+    "combat": 60,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Short-tempered"
+    ],
+    "factors": [
+      "short-tempered"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Ash Ketchum",
+      "Brock",
+      "Togepi",
+      "Staryu",
+      "Starmie"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Team Rocket"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Ash Ketchum",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": "Meiou, Setsuna",
+    "teammate": null,
+    "friend": [
+      "Ash Ketchum",
+      "Brock",
+      "Togepi",
+      "Staryu",
+      "Starmie",
+      "Tomoe, Hotaru"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Team Rocket"
+    ],
+    "partner": "Tomoe, Hotaru",
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ash Ketchum",
+      "Brock",
+      "Togepi",
+      "Staryu",
+      "Starmie",
+      "Tomoe, Hotaru"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Togepi!"
+  ],
+  "voice_acting": {
+    "native_language": "Mayumi Iizuka",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Nobunaga Shimazaki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: 1982\nAge: 18\nGender: Male\nBlood Type: B\nHeight: 182cm\nNationality: Italian\nStand: Sex Pistols\n\n\nMista is one of the heroes of part 5, a part of Bruno's gang. When he was younger, he had a run-in with a group of gangsters, and was shot at. All of the gangster's shots missed, and that is where he saw an opportunity to pick up a gun, take aim, and shoot them all in the head. He was sentenced to prison for the rest of teenage years, and was eventually bailed out by Bucciarati, and passed Polpo's test. Guido tends to use a revolver as his firearm, and believes the number 4 is unlucky due to events from his childhood and the character for 4 in Japanese sounds similar to the word \"die.\"\n\nSex Pistols is a stand composed of Six bullet like \"people\" living inside a gun, numbered from 1 to 7 (with no number 4). Guido can control the bullets to hit any direction and can do tasks when instructed to. Each \"person\" has different personalities, love to eat, if not fed, they will not work. It is very similar to Hol Horse's The Emperor.",
+  "note": null,
+  "source": "anime"
+}

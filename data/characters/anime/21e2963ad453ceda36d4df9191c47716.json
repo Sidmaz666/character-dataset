@@ -1,0 +1,353 @@
+{
+  "id": "21e2963ad453ceda36d4df9191c47716",
+  "name": "Jonah Vogelbaum",
+  "native_name": null,
+  "full_name": "Jonah Vogelbaum",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Vogelbaum",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "70s-80s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Gray/White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Old man appearance",
+      "Scientist look"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Vought Laboratory",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Scientist",
+    "secondary": "Compound V Creator",
+    "rank_title": "Lead Scientist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": [
+      "Homelander (created as father figure)"
+    ]
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "Extremely intelligent scientist",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "No combat"
+    },
+    {
+      "name": "Compound V Creation",
+      "native_name": null,
+      "description": "Created Compound V serum",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Requires lab"
+    }
+  ],
+  "signature_moves": [
+    "V Serum Creation",
+    "Experiment Design"
+  ],
+  "ultimate_move": "Perfect V Formula",
+  "trump_card": "V Enhancement",
+  "power_attributes": {
+    "power_type": "Science",
+    "power_source": "Intelligence",
+    "combat_style": [
+      "Scientific innovation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Lab equipment"
+    ],
+    "trump_card": "V Enhancement",
+    "ultimate_move": "Perfect V Formula"
+  },
+  "personality": {
+    "traits": [
+      "Scientific",
+      "Curious",
+      "Morally ambiguous",
+      "Dedicated"
+    ],
+    "likes": [
+      "Research",
+      "Discovery"
+    ],
+    "dislikes": [
+      "Failure",
+      "Interference"
+    ],
+    "fear": "Being exposed",
+    "dream": "Perfect supe creation",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Dedicated"
+    ],
+    "weaknesses": [
+      "Slow speed",
+      "Limited power",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Scientist who created supes",
+    "motivation": "Scientific advancement",
+    "affinity": "Science",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Created Compound V",
+    "Created Homelander",
+    "Advanced supe science"
+  ],
+  "titles": [
+    "Dr. Vogelbaum",
+    "Father of Supes"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Secret"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 30,
+    "speed": 25,
+    "durability": 30,
+    "power": 20,
+    "combat": 20,
+    "total": 225
+  },
+  "weaknesses": {
+    "list": [
+      "No combat powers",
+      "Physical vulnerability",
+      "Age"
+    ],
+    "factors": [
+      "Direct confrontation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Boys",
+    "allies": [
+      "Vought"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Created",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I created them all."
+  ],
+  "voice_acting": {
+    "native_language": "Paul Fitzgerald (English)",
+    "note": "TV series",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Motoki Takagi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues research",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [
+      "Scientist",
+      "Supe creator"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cars"
+    ],
+    "vehicles": [
+      "Lab transport"
+    ],
+    "headquarters": "Vought Lab",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Sung Jin-Ah is Jin-Woo's younger sister. She is a hard-working girl who usually tops her exams and has a close relationship with her brother since they are the only siblings in their family.\n\nAs she grew with only Jin-Woo next to her with her father got stranded in a gate and her mother ending up in coma due to Eternal Sleep, Jin-Ah was always on the edge whenever Jin-Woo is in the hospital and wanted him to stop being a hunter.\n\n\n\n(Source: Solo Leveling Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

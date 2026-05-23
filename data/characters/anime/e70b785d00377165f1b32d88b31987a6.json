@@ -1,0 +1,457 @@
+{
+  "id": "e70b785d00377165f1b32d88b31987a6",
+  "name": "Stark",
+  "native_name": "シュタルク",
+  "full_name": "Stark",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "18-20",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Silver-white",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Tall stature",
+      "Strong build",
+      "Warrior appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Warrior village (destroyed by demons)",
+    "current_location": "Traveling with Frieren",
+    "base_of_operations": "Various locations",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Apprentice of Eisen, Frieren's party vanguard",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Frieren's Party"
+    ],
+    "previous": [
+      "Eisen's training",
+      "Warrior village"
+    ],
+    "relatives": [
+      "Parents (deceased, village destroyed)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren Episode 1",
+    "manga": "Sousou no Frieren Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Possesses exceptional physical power trained by Eisen. Can cut through solid rock with his axe. Has killed a dragon with a single axe swing.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Physical limitation as human"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Body conditioned far beyond ordinary human limits. Can withstand dragon bites to the head, magical sword attacks, and severe wounds that would kill most warriors. Even had a hole punched through his stomach and continued fighting.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Still human, can be injured"
+    },
+    {
+      "name": "High Resilience",
+      "native_name": null,
+      "description": "Refuses to stay down regardless of wounds. Can continue fighting while bleeding from multiple injuries. Recovers quickly from severe damage due to Eisen's training.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Requires willpower"
+    },
+    {
+      "name": "Axe Mastery",
+      "native_name": null,
+      "description": "Trained by Eisen, the legendary warrior of the Hero Party, in axe combat. Highly skilled with devastating power.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee",
+      "limit": "Requires close combat"
+    },
+    {
+      "name": "Sword Proficiency",
+      "native_name": null,
+      "description": "Raised in a warrior village, learned sword techniques including the Orden family technique. Occasionally shown practicing with swords.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": "Prefers axe"
+    },
+    {
+      "name": "Fast Reflexes",
+      "native_name": null,
+      "description": "Highly developed combat reflexes that have saved his life multiple times. Can react to demon attacks and avoid lethal injuries.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "None significant"
+    },
+    {
+      "name": "High Pain Tolerance",
+      "native_name": null,
+      "description": "Can endure severe attacks and continue fighting. Survived a poisoned arrow that would have killed others instantly.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "Pain still affects performance"
+    }
+  ],
+  "signature_moves": [
+    "Dragon Slayer Strike",
+    "Lightning Strike",
+    "Orden Technique"
+  ],
+  "ultimate_move": "Dragon Killing Blow",
+  "trump_card": "Unbreakable Resilience",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Eisen's training and natural talent",
+    "combat_style": [
+      "Axe Combat",
+      "Sword Combat",
+      "Close Combat"
+    ],
+    "weapon": "Battle Axe",
+    "equipment": [
+      "Warrior armor"
+    ],
+    "trump_card": "Unbreakable Resilience",
+    "ultimate_move": "Dragon Killing Blow"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Cowardly",
+      "Determined",
+      "Charismatic",
+      "Protective"
+    ],
+    "likes": [
+      "Children",
+      "Fern",
+      "Frieren",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Fighting demons",
+      "Fear",
+      "Injustice"
+    ],
+    "fear": "His own fear and inadequacy",
+    "dream": "To become strong enough to protect others",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Cowardly"
+    ]
+  },
+  "character": {
+    "arc": "From a cowardly young man who feared combat despite his incredible talent, to a warrior who learned that true strength comes from resilience and the will to protect others, even when afraid.",
+    "motivation": "Protecting his friends and finding Heaven",
+    "affinity": "Physical Power",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated a dragon single-handedly",
+    "Survived multiple near-fatal attacks",
+    "Became Frieren's party vanguard",
+    "Trained by the legendary Eisen"
+  ],
+  "titles": [
+    "The Warrior",
+    "Frieren's Vanguard"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 88,
+    "speed": 70,
+    "durability": 92,
+    "power": 80,
+    "combat": 85,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Cowardice in combat",
+      "Human physical limits",
+      "Overconfidence in resilience"
+    ],
+    "factors": [
+      "Fear can paralyze him",
+      "Cannot use magic"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Frieren",
+      "Fern",
+      "Eisen",
+      "Sein"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Fern",
+        "relationship": "Partner/Friend",
+        "trust_level": "High (possibly romantic)"
+      },
+      {
+        "name": "Frieren",
+        "relationship": "Party Leader",
+        "trust_level": "High"
+      },
+      {
+        "name": "Eisen",
+        "relationship": "Master/Mentor",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Demons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Revolte",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Fern",
+    "best_friend": "Fern",
+    "rival": null,
+    "mentor": "Eisen",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Fern",
+      "Eisen",
+      "Sein"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Fern",
+      "Eisen",
+      "Sein"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Eisen"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Dragon",
+      "result": "Victory",
+      "method": "Single axe swing while frozen with fear"
+    },
+    {
+      "opponent": "Revolte (Demon)",
+      "result": "Victory",
+      "method": "Survived two direct blows while fighting alongside Genau"
+    },
+    {
+      "opponent": "Linie (Demon)",
+      "result": "Victory",
+      "method": "Endured multiple attacks and continued fighting"
+    }
+  ],
+  "quotes": [
+    "Even if I'm scared, I won't run.",
+    "If I can get back up, I haven't lost."
+  ],
+  "voice_acting": {
+    "native_language": "Nobuoichi Sugimoto (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Jordan Dash Cruz",
+    "japanese": "Chiaki Kobayashi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently traveling with Frieren and Fern as the party's warrior",
+    "transformation": null,
+    "awakening_potential": "Has shown exceptional talent that rivals demon generals",
+    "power_evolution": [
+      "Eisen's Apprentice",
+      "Dragon Slayer",
+      "Demon Hunter"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mobile with party",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Stark is a carefree young man who easily makes friends with others. He is cowardly but has the determination to put aside his fears in order to protect the people dear to him.",
+  "note": null,
+  "source": "anime"
+}

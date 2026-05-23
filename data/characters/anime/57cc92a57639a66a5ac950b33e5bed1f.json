@@ -1,0 +1,334 @@
+{
+  "id": "57cc92a57639a66a5ac950b33e5bed1f",
+  "name": "The Legend",
+  "native_name": null,
+  "full_name": "Ray Browning",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Browning",
+    "height_cm": 185,
+    "weight_kg": 85,
+    "age": "60s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Heroic appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Formerly Vought",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Former mentor",
+    "rank_title": "Mentor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly Vought"
+    ],
+    "previous": [
+      "The Seven"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Enhanced physical strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "Age diminished"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Unlimited",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Senior Strike"
+  ],
+  "ultimate_move": "Final Effort",
+  "trump_card": "Experience",
+  "power_attributes": {
+    "power_type": "Super Strength",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Heroic combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Hero suit"
+    ],
+    "trump_card": "Experience",
+    "ultimate_move": "Final Effort"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Mentor-like",
+      "Experienced"
+    ],
+    "likes": [
+      "Teaching"
+    ],
+    "dislikes": [
+      "Corruption"
+    ],
+    "fear": "Being forgotten",
+    "personality_type": "INFJ",
+    "dream": "Guide new heroes",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Retired hero with wisdom",
+    "motivation": "Guide new heroes",
+    "affinity": "Wisdom",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Former Seven member",
+    "Trained many heroes"
+  ],
+  "titles": [
+    "The Legend",
+    "Mentor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Retired"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 60,
+    "speed": 50,
+    "durability": 55,
+    "power": 50,
+    "combat": 55,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Age",
+      "Physical decline"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Young heroes"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": "Various heroes",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Young heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various heroes"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Young heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "A true hero is more than powers."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Comic character",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Retired",
+    "fate": "Retired or deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Young hero",
+      "Legendary hero"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Former Vought",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The Legend of Zelda: Echoes of Wisdom is a 2024 action-adventure game developed by Nintendo and Grezzo and published by Nintendo for the Nintendo Switch. It is the first mainline The Legend of Zelda game with Princess Zelda as the main playable character.\nPlayers control Zelda on a quest to save Link and the kingdom of Hyrule using the Tri Rod, a magical artifact provided by the fairy Tri, who assists her. The visual style is similar to that of the 2019 remake of The Legend of Zelda: Link's Awakening, which Grezzo also developed. Echoes of Wisdom was released to generally favorable reviews.",
+  "note": null,
+  "source": "anime"
+}

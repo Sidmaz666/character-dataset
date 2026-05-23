@@ -1,0 +1,392 @@
+{
+  "name": "Ironheart",
+  "native_name": null,
+  "full_name": "Riri Williams",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "African-American",
+    "bloodline": "Williams",
+    "height_cm": 168,
+    "weight_kg": 61,
+    "age": "Teens",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Ironheart armor",
+      "Braids",
+      "Teen genius"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Chicago, Illinois",
+    "current_location": "Chicago / MIT",
+    "base_of_operations": "Chicago / MIT",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Inventor / Superhero",
+    "secondary": "MIT Student",
+    "rank_title": "Ironheart",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible Iron Man Vol.2 #7 (2016)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius-Level Intelligence",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self"
+    },
+    {
+      "name": "Powered Armor Suit",
+      "type": "Technology",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long"
+    },
+    {
+      "name": "Flight",
+      "type": "Technology",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long"
+    },
+    {
+      "name": "Energy Weaponry",
+      "type": "Technology",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long"
+    },
+    {
+      "name": "Technological Innovation",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Repulsor Blast",
+    "Iron Missile",
+    "Flight Strike",
+    "Armored Assault"
+  ],
+  "ultimate_move": "Ironheart Overdrive",
+  "trump_card": "Self-Built Iron Man-Level Armor",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Self-Designed Power Armor",
+    "combat_style": [
+      "Aerial",
+      "Ranged",
+      "Technological"
+    ],
+    "weapon": "Repulsors",
+    "equipment": [
+      "Ironheart Armor MK III",
+      "AI assistant N.A.T.A.L.I.E."
+    ],
+    "trump_card": "Self-Built Iron Man-Level Armor",
+    "ultimate_move": "Ironheart Overdrive"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Determined",
+      "Rebellious",
+      "Independent",
+      "Compassionate",
+      "Guarded"
+    ],
+    "likes": [
+      "Engineering",
+      "Innovation",
+      "Proving herself"
+    ],
+    "dislikes": [
+      "Being underestimated",
+      "Bureaucracy",
+      "Failure"
+    ],
+    "fear": "Not living up to her potential",
+    "dream": "Become a hero who changes the world through technology",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A teenage genius from Chicago who built her own powered armor in a college dorm. After Tony Stark fell into a coma, she reverse-engineered his Iron Man technology and began fighting crime. Despite her youth and inexperience, she proved herself a worthy hero, eventually earning Tony Starks respect and the mantle of Ironheart.",
+    "motivation": "Use her genius to help people and honor her late father",
+    "affinity": "Technology",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Built Iron Man-level armor at age 15",
+    "Stopped Techno Golem",
+    "Earned Tony Starks respect",
+    "MIT scholarship",
+    "Avenger recruit"
+  ],
+  "titles": [
+    "Ironheart",
+    "Riri Williams",
+    "Iron Man II"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 78,
+    "speed": 82,
+    "durability": 85,
+    "power": 85,
+    "combat": 72,
+    "total": 494
+  },
+  "weaknesses": {
+    "list": [
+      "Human without armor",
+      "Inexperience",
+      "Teenage impulsiveness"
+    ],
+    "factors": [
+      "Vulnerable outside suit",
+      "PTSD from losing father",
+      "Still mastering armor capabilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Techno Golem",
+    "allies": [
+      "Iron Man",
+      "Avengers",
+      "Champions",
+      "N.A.T.A.L.I.E."
+    ],
+    "enemies": [
+      "Techno Golem",
+      "Ten Rings",
+      "Criminals"
+    ],
+    "love_interest": null,
+    "best_friend": "Natalie Washington",
+    "mentor": "Tony Stark",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Iron Man",
+      "Avengers",
+      "Champions",
+      "N.A.T.A.L.I.E.",
+      "Natalie Washington"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Techno Golem"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Iron Man",
+      "Avengers",
+      "Champions",
+      "N.A.T.A.L.I.E.",
+      "Natalie Washington"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Tony Stark"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Techno Golem",
+      "result": "Victory",
+      "method": "Technological superiority and strategy"
+    }
+  ],
+  "quotes": [
+    "I am not Tony Stark. I am something different. I am Ironheart.",
+    "They said a little girl could not build an Iron Man suit. They were wrong."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continuing as Ironheart",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Riri Williams",
+      "Armor Builder",
+      "Ironheart"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      null
+    ],
+    "headquarters": "MIT / Chicago Workshop",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "c2f80d5c7ee03d0d39669a46c2294222",
+  "publisher": "marvel",
+  "about": "Ironheart is a superhero appearing in American comic books published by Marvel Comics. Created by writer Brian Michael Bendis and artist Mike Deodato, the character first appeared in Invincible Iron Man #7.",
+  "note": null,
+  "source": "marvel"
+}

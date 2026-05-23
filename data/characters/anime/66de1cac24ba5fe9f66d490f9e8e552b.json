@@ -1,0 +1,427 @@
+{
+  "id": "66de1cac24ba5fe9f66d490f9e8e552b",
+  "name": "Takenori Akagi",
+  "native_name": "赤木剛憲",
+  "full_name": "Takenori Akagi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 193,
+    "weight_kg": 90,
+    "age": "17",
+    "birthday": "June 10",
+    "zodiac": "Gemini",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 24.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Very tall",
+      "Thick eyebrows",
+      "Muscular build",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Shohoku High School",
+    "base_of_operations": "Shohoku Basketball Team",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Basketball Player",
+    "rank_title": "Center, Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Shohoku High School",
+      "Shohoku Basketball Team"
+    ],
+    "previous": [],
+    "relatives": [
+      "Ayako (sister)",
+      "Parents"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Slam Dunk Episode 1",
+    "manga": "Slam Dunk Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dominant Center Play",
+      "native_name": "センター支配",
+      "description": "Dominates the paint on both ends - scoring, rebounding, shot-blocking.",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Paint",
+      "limit": "Age/seniority"
+    },
+    {
+      "name": "Rebounding",
+      "native_name": "リバウンド",
+      "description": "Excellent rebounder using size and positioning.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Paint",
+      "limit": "None"
+    },
+    {
+      "name": "Defense",
+      "native_name": "ディフェンス",
+      "description": "Elite rim protector and interior defender.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Paint",
+      "limit": "Perimeter speed"
+    },
+    {
+      "name": "Leadership",
+      "native_name": "リーダーシップ",
+      "description": "Strong captain, leads team with experience and authority.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Team",
+      "limit": "Graduating senior"
+    }
+  ],
+  "signature_moves": [
+    "Post moves",
+    "Shot block",
+    "Rebound"
+  ],
+  "ultimate_move": "Dominant paint presence",
+  "trump_card": "Experience and leadership",
+  "power_attributes": {
+    "power_type": "Basketball skill",
+    "power_source": "Training + size",
+    "combat_style": [
+      "Center play",
+      "Post moves"
+    ],
+    "weapon": "Basketball",
+    "equipment": [
+      "Basketball shoes"
+    ],
+    "trump_card": "Experience and leadership",
+    "ultimate_move": "Dominant paint presence"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Disciplined",
+      "Passionate",
+      "Responsible",
+      "Hot-tempered",
+      "Determined"
+    ],
+    "likes": [
+      "Basketball",
+      "Team success",
+      "National championship",
+      "Discipline"
+    ],
+    "dislikes": [
+      "Slacking",
+      "Undisciplined play",
+      "Losing",
+      "Fouling out"
+    ],
+    "fear": "Not achieving dream before graduation",
+    "dream": "Win National Championship",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Disciplined",
+      "Responsible"
+    ],
+    "weaknesses": [
+      "Bound"
+    ]
+  },
+  "character": {
+    "arc": "Akagi has carried the team alone for years. With the arrival of talented first-years, he finally has a chance to achieve his dream of nationals.",
+    "motivation": "Win Nationals before graduation",
+    "affinity": "Red/Leadership",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Shohoku captain",
+    "Best 8 in prefecture",
+    "Inter-Hampionship participant",
+    "Led team to nationals"
+  ],
+  "titles": [
+    "Captain",
+    "Gori (Gorilla)",
+    "Mr. Shohoku"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 90,
+    "speed": 65,
+    "durability": 85,
+    "power": 88,
+    "combat": 85,
+    "total": 493
+  },
+  "weaknesses": {
+    "list": [
+      "Graduating senior",
+      "Can foul too much",
+      "Perimeter defense",
+      "Emotional about dream"
+    ],
+    "factors": [
+      "Age",
+      "Foul trouble"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Ayako"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hanamichi Sakuragi",
+        "relationship": "Teammate/brother-in-law",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Ayako",
+        "relationship": "Sister/manager",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Fukuda (Kainan)",
+      "Uozumi (Seirin)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None (focused on basketball)",
+    "best_friend": "Miyagi/Mitsui",
+    "rival": "Uozumi (Seirin)",
+    "mentor": "Coach Anzai",
+    "student": "Underclassmen",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Ayako",
+      "Miyagi/Mitsui"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None",
+      "Uozumi (Seirin)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Uozumi"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Underclassmen"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Ayako",
+      "Miyagi/Mitsui"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Coach Anzai"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kainan",
+      "result": "Loss",
+      "method": "Center battle"
+    },
+    {
+      "opponent": "Ryonan",
+      "result": "Victory",
+      "method": "Post dominance"
+    }
+  ],
+  "quotes": [
+    "We're going to nationals!",
+    "Basketball is a team sport!",
+    "This is my last chance.",
+    "Don't foul unnecessarily!"
+  ],
+  "voice_acting": {
+    "native_language": "Toshiyuki Morikawa (Japanese)",
+    "note": "Deep, authoritative voice",
+    "native_name": null,
+    "english": "Victor Lee",
+    "japanese": "Kiyoyuki Yanada"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Graduates, achieves nationals dream",
+    "transformation": "From lone star to team leader",
+    "awakening_potential": "N/A (graduating)",
+    "power_evolution": [
+      "Starter",
+      "Captain",
+      "National player"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Shohoku gymnasium",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Year: 3rd Year\nHeight: 197 cm\nWeight: 90 kg\nJersey Number: #4\nPosition: Center\n\nTakenori Akagi is the captain of the Shohoku basketball team and Haruko's older brother. Despite at first not thinking too much of Sakuragi (who addresses him as \"Gori\" for gorilla due to his immense physical presence), he actually realizes Sakuragi's potential as a basketball player. Serious and disciplined, Akagi's dream is to lead Shohoku to the national championship. His determination is shown in the match against Kainan, where he played on despite a serious injury to his ankle. Akagi considers Uozumi of Ryonan to be his biggest rival, though their rivalry is not antagonistic; indeed, there is respect that borders on friendship.\n\nAkagi differs from the other starters in two respects. First, he is the most academically talented out of all them and is considered a model student. After the loss to Aiwa knocks Shohoku out of the Nationals, Akagi leaves the team along with Kogure to study for the college entrance exams. In contrast, the other four had to beg their teacher to be given the chance to retake some exams they had flunked; they would otherwise have been disqualified from playing in the Nationals for having failed too many classes. Second, Akagi is the only starter not to have gotten into an actual fight, although he has used physical force against his own players (most notably Sakuragi, and once Mitsui after the gym fight) to keep them in line. He is the only other character besides Rukawa able to take one of Sakuragi's trademark headbutts without being knocked out and the only other character who has had Sakuragi inadvertently dunk a ball on his head (Murasame of Miuradai was the second, in the manga; in the anime, the second one to be dunked on the head is Naito, also from Miuradai).\n\nRegarded as the best center in the Kanagawa prefecture, Akagi plays as a fairly typical center, using his height and power to score close to the basket. He also has a reputation for being a virtually unbeatable defender. As captain of the team, he keeps discipline among his players during matches. Akagi met his match during the game against Sannoh, in the form of Masashi Kawata, considered one of the best centers at the high school level. Initially intimidated when Kawata outplayed him, he regained his confidence thanks to Uozumi's encouragement and led his team to victory. \n\n(Source: hoopedia.nba.com)",
+  "note": null,
+  "source": "anime"
+}

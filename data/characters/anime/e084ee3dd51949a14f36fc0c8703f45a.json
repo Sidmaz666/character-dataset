@@ -1,0 +1,452 @@
+{
+  "id": "e084ee3dd51949a14f36fc0c8703f45a",
+  "name": "Tanjiro Kamado",
+  "native_name": "竈門炭治郎",
+  "full_name": "Tanjiro Kamado",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kamado Clan",
+    "height_cm": 165,
+    "weight_kg": 66,
+    "age": "15",
+    "birthday": "February 14",
+    "zodiac": "Aquarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 24.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red (Burgundy)",
+    "hair_color": "Black with red tips",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Hanafuda earrings",
+      "Scar on forehead",
+      "Kind eyes",
+      "Earrings from father"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mountain village",
+    "current_location": "Demon Slayer Corps",
+    "base_of_operations": "Various missions",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Slayer",
+    "secondary": "Water Breathing user",
+    "rank_title": "Hashira-level (eventually)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps"
+    ],
+    "previous": [],
+    "relatives": [
+      "Nezuko Kamado (sister)",
+      "Tanjuro (father, deceased)",
+      "Kie (mother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer Episode 1",
+    "manga": "Kimetsu no Yaiba Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Water Breathing",
+      "native_name": "水の呼吸",
+      "description": "First breathing style learned - versatile, fluid movements mimicking water",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Not strongest against demons"
+    },
+    {
+      "name": "Sun Breathing/Hinokami Kagura",
+      "native_name": "日の呼吸/ヒノカミ神楽",
+      "description": "Original breathing style - only one that can truly kill Muzan",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Medium to Long",
+      "limit": "Takes physical toll"
+    },
+    {
+      "name": "Enhanced Smell",
+      "native_name": "超人的嗅覚",
+      "description": "Can detect demons, emotions, trace movements by scent",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Strong scents can overwhelm"
+    },
+    {
+      "name": "Total Concentration Breathing",
+      "native_name": "全集中呼吸",
+      "description": "Maximizes oxygen in body for enhanced physical abilities",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Requires training"
+    },
+    {
+      "name": "Water Breathing Forms",
+      "native_name": "水呼吸形",
+      "description": "Multiple forms including First: Water Surface Slash, Fourth: Striking Tide",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Sun Breathing Forms",
+      "native_name": "日呼吸形",
+      "description": "Powerful forms based on original sun breathing",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Medium to Long",
+      "limit": "Physical toll"
+    },
+    {
+      "name": "Demon Slayer Mark",
+      "native_name": "痣",
+      "description": "Awakened mark during battle - drastically enhances abilities",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Temporary"
+    }
+  ],
+  "signature_moves": [
+    "Water Surface Slash",
+    "Twisting Whirlpool",
+    " Hinokami Kagura dance",
+    "Sun Breathing"
+  ],
+  "ultimate_move": "Thirteenth Form - combined breathing",
+  "trump_card": "Full Sun Breathing against Muzan",
+  "power_attributes": {
+    "power_type": "Breathing / Swordsmanship",
+    "power_source": "Training + Kamado family heritage",
+    "combat_style": [
+      "Water Breathing",
+      "Sun Breathing",
+      "Sword combat"
+    ],
+    "weapon": "Nichirin sword (black blade)",
+    "equipment": [
+      "Hanafuda earrings"
+    ],
+    "trump_card": "Full Sun Breathing against Muzan",
+    "ultimate_move": "Thirteenth Form - combined breathing"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Determined",
+      "Compassionate",
+      "Protective",
+      "Hardworking"
+    ],
+    "likes": [
+      "Family",
+      "Nezuko",
+      "Training",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Demons killing innocents",
+      "Cruelty"
+    ],
+    "fear": "Nezuko being hurt",
+    "dream": "Turn Nezuko back to human",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Kind boy who becomes demon slayer to save sister",
+    "motivation": "Finding cure for Nezuko",
+    "affinity": "Water/Sun",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated many demons including Lower Ranks",
+    "Mastered Sun Breathing",
+    "Turned Nezuko back to human",
+    "Defeated Muzan"
+  ],
+  "titles": [
+    "Demon Slayer",
+    "Sun Breathing user",
+    "Benzaiten user"
+  ],
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 85,
+    "speed": 90,
+    "durability": 80,
+    "power": 90,
+    "combat": 90,
+    "total": 515
+  },
+  "weaknesses": {
+    "list": [
+      "Sun Breathing strains body",
+      "Too compassionate"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Muzan Kibutsuji",
+    "allies": [
+      "Nezuko",
+      "Zenitsu",
+      "Inosuke",
+      "Hashira"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nezuko Kamado",
+        "relationship": "Sister",
+        "trust_level": "Highest"
+      },
+      {
+        "name": "Giyu Tomioka",
+        "relationship": "Mentor",
+        "trust_level": "High"
+      },
+      {
+        "name": "Zenitsu Agatsuma",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Demons",
+      "Muzan",
+      "Akaza"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nezuko",
+      "Zenitsu",
+      "Inosuke",
+      "Hashira"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Muzan Kibutsuji"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Nezuko (sister)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Nezuko (sister)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nezuko",
+      "Zenitsu",
+      "Inosuke",
+      "Hashira"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Rui",
+      "result": "Victory",
+      "method": " Hinokami Kagura"
+    },
+    {
+      "opponent": "Akaza",
+      "result": "Victory (with help)",
+      "method": "Sun Breathing"
+    },
+    {
+      "opponent": "Muzan",
+      "result": "Victory (final)",
+      "method": "Combined breathing"
+    }
+  ],
+  "quotes": [
+    "I will protect Nezuko!",
+    "No matter how many times I get knocked down, I will get back up!",
+    "Demon or human, I will walk my own path!"
+  ],
+  "voice_acting": {
+    "native_language": "Natsuki (Japanese)",
+    "note": "Actually: 'Natsuki Hanae (Japanese), 'English:' 'ZacharyTamb (English)'",
+    "native_name": null,
+    "japanese": "Natsuki Hanae",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Nezuko restored to human",
+    "transformation": "Demon Slayer Mark",
+    "awakening_potential": "Full Sun Breathing mastery",
+    "power_evolution": [
+      "Normal boy",
+      "Demon Slayer",
+      "Hashira-level",
+      "Muzan defeater"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Demon Slayer HQ / Various",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Age: 13 (at the start of the manga); 15 (after completing training with Sabito and Makomo)\nHeight: 165cm (5'4\")\nHair color: burgundy\nEye color: dark red\n\nTanjirou Kamado is the main protagonist of Kimetsu no Yaiba, who becomes a Demon Hunter and joins the Demon Killing Corps to hunt down the demon who murdered his family and turned his sister Nezuko into a demon.\n\nTanjirou is kind by nature and has been described by others as having very gentle eyes. He has a great deal of determination and will not give up once he has a goal to achieve, an example being finding a cure for Nezuko. Even though he is relatively strong on his own, he isn't opposed to asking others for help when he needs it. He is very protective of his friends and even more so of his younger sister. His biggest attribute is his ability to empathize with anyone, even demons.\n\n\n(Source: Kimetsu no Yaiba Wiki)",
+  "note": null,
+  "source": "anime"
+}

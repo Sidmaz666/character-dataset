@@ -1,0 +1,333 @@
+{
+  "name": "Fever",
+  "native_name": null,
+  "full_name": "Fever",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 168,
+    "weight_kg": 55,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Fever-inducing supe",
+      "G-Men/Teenage Kix associate"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Vought",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe",
+    "secondary": null,
+    "rank_title": "Fever",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Heat Generation",
+      "type": "Elemental",
+      "tier": "B",
+      "power_level": 68,
+      "range": "Medium"
+    },
+    {
+      "name": "Fever Induction",
+      "type": "Biological",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Touch"
+    }
+  ],
+  "signature_moves": [
+    "Fever Touch",
+    "Heat Wave"
+  ],
+  "ultimate_move": "Burning Fever",
+  "trump_card": "Fever Powers",
+  "power_attributes": {
+    "power_type": "Heat/Biological",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Ranged",
+      "Touch"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Fever Powers",
+    "ultimate_move": "Burning Fever"
+  },
+  "personality": {
+    "traits": [
+      "Hot-headed",
+      "Aggressive",
+      "Analytical",
+      "Elemental"
+    ],
+    "likes": [
+      "Heat",
+      "Power"
+    ],
+    "dislikes": [
+      "Cold",
+      "Weakness"
+    ],
+    "fear": "Human",
+    "dream": "Fame",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical"
+    ],
+    "weaknesses": [
+      "Hot-headed",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Minor supe with fever-inducing powers. Member of Vought's supe roster.",
+    "motivation": "Fame",
+    "affinity": "Heat",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Vought supe"
+  ],
+  "titles": [
+    "Fever"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 48,
+    "speed": 55,
+    "durability": 50,
+    "power": 68,
+    "combat": 50,
+    "total": 316
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Limited power",
+      "Water vulnerability"
+    ],
+    "factors": [
+      "Normal supe"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought",
+      "G-Men/Teenage Kix"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "G-Men/Teenage Kix"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "G-Men/Teenage Kix"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought supe",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Fever"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Vought",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "9439c0c148f7ade9f962b34e86c8d200",
+  "publisher": "the_boys",
+  "about": "Fever or pyrexia in humans is a symptom of an anti-infection defense mechanism that appears with body temperature exceeding the normal range caused by an increase in the body's temperature set point in the hypothalamus. There is no single agreed-upon upper limit for normal temperature: sources use values ranging between 37.2 and 38.3 °C in humans.",
+  "note": null,
+  "source": "the_boys"
+}

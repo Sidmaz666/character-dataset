@@ -1,0 +1,419 @@
+{
+  "id": "5903a56126f2f2e85e31bb5e66bbba90",
+  "name": "Obi-Wan Kenobi",
+  "native_name": null,
+  "full_name": "Obi-Wan Kenobi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 182,
+    "weight_kg": 80,
+    "age": "Born 57 BBY, Died 0 BBY",
+    "birthday": "March 11",
+    "zodiac": "Pisces",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 24.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown (later gray)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Robes",
+      "Beard (later)",
+      "Blue lightsaber"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Stewjon",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Jedi Temple",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Master",
+    "secondary": "Jedi General",
+    "rank_title": "Jedi Knight",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order"
+    ],
+    "previous": [
+      "Galactic Republic"
+    ],
+    "relatives": [
+      "Brewlan (brother, unconfirmed)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode I - The Phantom Menace (1999)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Sense",
+      "native_name": null,
+      "description": "Sense presence of others",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Wide",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects with the Force",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Limited"
+    },
+    {
+      "name": "Mind Trick",
+      "native_name": null,
+      "description": "Influence weak minds",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Ineffective on strong-willed"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Master of Soresu (Form III)",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Soresu defense",
+    "Cut",
+    "Parry"
+  ],
+  "ultimate_move": "Perfect Soresu",
+  "trump_card": "Battle meditation",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "The Force",
+    "combat_style": [
+      "Form III (Soresu)",
+      "Form IV (Ataru)"
+    ],
+    "weapon": "Lightsaber",
+    "equipment": [
+      "Blue lightsaber",
+      "First lightsaber"
+    ],
+    "trump_card": "Battle meditation",
+    "ultimate_move": "Perfect Soresu"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Patient",
+      "Disciplined",
+      "Noble"
+    ],
+    "likes": [
+      "Peace",
+      "The Force",
+      "Training"
+    ],
+    "dislikes": [
+      "Dark side",
+      "Chaos"
+    ],
+    "fear": "Failing the Force",
+    "dream": "Maintain peace",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise",
+      "Patient",
+      "Disciplined"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "From apprentice to master to sacrifice",
+    "motivation": "Protect the galaxy",
+    "affinity": "Light Side",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Darth Maul",
+    "Trained Anakin",
+    "Trained Luke",
+    "Defeated General Grievous"
+  ],
+  "titles": [
+    "Jedi Master",
+    "The Negotiator",
+    "Ben"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Wanted by Empire"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 80,
+    "durability": 75,
+    "power": 85,
+    "combat": 95,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Overly dogmatic"
+    ],
+    "factors": [
+      "Could not see Anakin's fall"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Darth Vader",
+    "allies": [
+      "Yoda",
+      "Luke Skywalker",
+      "Qui-Gon Jinn"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Qui-Gon Jinn",
+        "relationship": "Master",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Luke Skywalker",
+        "relationship": "Apprentice",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Darth Maul",
+      "Darth Vader"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Vader",
+        "relationship": "Former apprentice/Enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Qui-Gon Jinn",
+    "rival": "Anakin Skywalker",
+    "mentor": "Qui-Gon Jinn",
+    "student": "Anakin Skywalker",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Yoda",
+      "Luke Skywalker",
+      "Qui-Gon Jinn"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Vader",
+      "Anakin Skywalker"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Anakin Skywalker"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Anakin Skywalker"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Yoda",
+      "Luke Skywalker",
+      "Qui-Gon Jinn"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Qui-Gon Jinn"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Darth Maul",
+      "result": "Victory",
+      "method": "Cut in half"
+    },
+    {
+      "opponent": "Darth Vader",
+      "result": "Victory",
+      "method": "Defeated on Remako"
+    }
+  ],
+  "quotes": [
+    "The Force will be with you, always",
+    "Who's the more foolish?"
+  ],
+  "voice_acting": {
+    "native_language": "Ewan McGregor",
+    "english": "Ewan McGregor",
+    "note": "Prequels, Alec Guinness (original)",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Became one with the Force",
+    "transformation": "Force ghost",
+    "awakening_potential": "Complete Jedi Master",
+    "power_evolution": [
+      "Youngling",
+      "Padawan",
+      "Knight",
+      "Master"
+    ],
+    "role_in_story": "Mentor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Jedi Starfighter"
+    ],
+    "vehicles": [
+      "Speeder"
+    ],
+    "headquarters": "Jedi Temple",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Obi-Wan Kenobi is a fictional character in the Star Wars franchise. He was introduced in the original Star Wars film (1977) and its novelization (1976). In Star Wars and its two sequels, Obi-Wan is depicted as a Jedi Master who trains Luke Skywalker in the ways of the Force. In the prequel trilogy, he mentors Luke's father, Anakin Skywalker. Obi-Wan is portrayed by Alec Guinness in the original trilogy and by Ewan McGregor in the prequel films. McGregor also plays the character in the television series Obi-Wan Kenobi (2022). Guinness's performance in Star Wars earned him the Saturn Award for Best Supporting Actor, as well as a nomination for the Academy Award for Best Supporting Actor.",
+  "note": null,
+  "source": "star_wars"
+}

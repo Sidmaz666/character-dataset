@@ -1,0 +1,354 @@
+{
+  "name": "Green Ghost",
+  "native_name": null,
+  "full_name": "Green Ghost",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green energy suit",
+      "Mask",
+      "Intangible when using powers"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Guardians HQ (formerly)",
+    "current_location": "Guardians HQ (formerly)",
+    "base_of_operations": "Guardians HQ (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Guardian",
+    "rank_title": "Guardian of the Globe",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe (Original)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Intangibility",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    },
+    {
+      "name": "Energy Projection",
+      "type": "Energy",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Long"
+    },
+    {
+      "name": "Flight",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self"
+    },
+    {
+      "name": "Energy Constructs",
+      "type": "Energy",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Phantom Strike",
+    "Energy Blast",
+    "Ghost Phase"
+  ],
+  "ultimate_move": "Spectral Overload",
+  "trump_card": "Intangibility",
+  "power_attributes": {
+    "power_type": "Energy/Intangibility",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Ranged",
+      "Defensive",
+      "Energy-based"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Green energy suit",
+      "Mask"
+    ],
+    "trump_card": "Intangibility",
+    "ultimate_move": "Spectral Overload"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Mysterious",
+      "Heroic"
+    ],
+    "likes": [
+      "Heroism",
+      "Flying"
+    ],
+    "dislikes": [
+      "Villains",
+      "Threats"
+    ],
+    "fear": "Dying before helping",
+    "dream": "Protect the world",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Heroic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Original Guardian of the Globe with Green Lantern-like energy powers and intangibility. Killed by Omni-Man when he shoved his hand through her skull during his betrayal.",
+    "motivation": "Protect Earth",
+    "affinity": "Energy",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Original Guardian"
+  ],
+  "titles": [
+    "Green Ghost",
+    "Guardian"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 50,
+    "speed": 75,
+    "durability": 55,
+    "power": 78,
+    "combat": 68,
+    "total": 391
+  },
+  "weaknesses": {
+    "list": [
+      "Human body",
+      "Requires concentration"
+    ],
+    "factors": [
+      "Intangibility requires focus",
+      "Human vulnerabilities when solid"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Omni-Man",
+    "allies": [
+      "Guardians (original)"
+    ],
+    "enemies": [
+      "Omni-Man"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians (original)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Omni-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Death",
+      "method": "Head crushed while intangible and solidifying"
+    }
+  ],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Omni-Man",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Green Ghost"
+    ],
+    "role": "Supporting",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Guardians HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "d2ea7315fcfb90d880aceb4e0fcb825e",
+  "publisher": "image_comics",
+  "about": "Green Ghost is a board game for up to 4 players, first published in 1965 by Transogram. Green Ghost is the first board game designed to be played in the dark.",
+  "note": null,
+  "source": "image_comics"
+}

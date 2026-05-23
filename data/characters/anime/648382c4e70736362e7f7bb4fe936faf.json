@@ -1,0 +1,413 @@
+{
+  "id": "648382c4e70736362e7f7bb4fe936faf",
+  "name": "Minato Namikaze",
+  "native_name": "波風ミナト",
+  "full_name": "Minato Namikaze",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Namikaze Clan",
+    "height_cm": 182,
+    "weight_kg": 70,
+    "age": "24 (at death)",
+    "birthday": "August 15",
+    "zodiac": "Leo",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 21.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde (yellow)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde spiky hair",
+      "Blue eyes",
+      "Hokage hat",
+      "Battle wounds from Kyuubi attack"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Deceased (reborn via Impure World Reincarnation)",
+    "base_of_operations": "Hokage Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hokage (Fourth)",
+    "secondary": "Shinobi, Jiraiya's student",
+    "rank_title": "Fourth Hokage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure"
+    ],
+    "previous": [
+      "Team Jiraiya"
+    ],
+    "relatives": [
+      "Naruto Uzumaki (son)",
+      "Kushina Uzumaki (wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Flying Thunder God Technique",
+      "native_name": "飛雷神之術",
+      "description": "Space-time ninjutsu that allows instant teleportation to any marked location. Minato perfected this technique beyond even its creator Tobirama. Uses special kunai as markings.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Unlimited (with marks)",
+      "limit": "Requires pre-placed marks"
+    },
+    {
+      "name": "Rasengan",
+      "native_name": "螺旋丸",
+      "description": "High-density spinning chakra sphere in hand, no hand signs needed. Minato created this jutsu as a student.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires significant chakra"
+    },
+    {
+      "name": "Body Flicker Technique",
+      "native_name": "瞬身之术",
+      "description": "Extreme speed movement technique that makes user appear as a yellow flash. Fastest shinobi of his time.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Short",
+      "limit": "Requires体力"
+    },
+    {
+      "name": "Sage Mode",
+      "native_name": "仙人模式",
+      "description": "Nature chakra gathering from Frog Sage training. Could use Sage Mode in battle.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Limited Sage Mode duration"
+    }
+  ],
+  "signature_moves": [
+    "Flying Thunder God",
+    "Rasengan",
+    "Body Flicker",
+    "Yellow Flash"
+  ],
+  "ultimate_move": "Rasengan (with FTG teleport)",
+  "trump_card": "Flying Thunder God: Minato style - teleporting Rasengan",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Senjutsu + Uzumaki seal",
+    "combat_style": [
+      "Lightning speed",
+      "Space-time ninjutsu",
+      "Ninjutsu"
+    ],
+    "weapon": "Special kunai with FTG seals",
+    "equipment": [
+      "concentration spinning chakra"
+    ],
+    "trump_card": "Flying Thunder God: Minato style - teleporting Rasengan",
+    "ultimate_move": "Rasengan (with FTG teleport)"
+  },
+  "personality": {
+    "traits": [
+      "Heroic",
+      "Selfless",
+      "Intelligent",
+      "Charismatic",
+      "Calm under pressure"
+    ],
+    "likes": [
+      "Protecting village",
+      "Ramen",
+      "Teaching students"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Endangering his students"
+    ],
+    "fear": "Being unable to protect those he loves",
+    "dream": "Protect the village and raise his son",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic",
+      "Intelligent",
+      "Charismatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Legendary Hokage who saved village from Kyuubi, became symbol of protection",
+    "motivation": "Protecting Leaf Village and his family",
+    "affinity": "Speed/Lightning",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Fourth Hokage of Konoha",
+    "Creator of Rasengan",
+    "Mastered Flying Thunder God beyond Tobirama",
+    "Sealed Nine-Tails into newborn Naruto",
+    "Won Third Great Ninja War"
+  ],
+  "titles": [
+    "Yellow Flash",
+    "Fourth Hokage",
+    "Konoha's Yellow Flash"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hokage - no bounty applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 90,
+    "speed": 100,
+    "durability": 85,
+    "power": 95,
+    "combat": 95,
+    "total": 555
+  },
+  "weaknesses": {
+    "list": [
+      "Limited Sage Mode duration",
+      "Pre-placed marks needed for FTG"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesa": "Obito Uchiha (caused Kyuubi attack)",
+    "allies": [
+      "Jiraiya",
+      "Kakashi",
+      "Kushina",
+      "Third Hokage"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Son",
+        "trust_level": "High - sealed Kyuubi to save him"
+      },
+      {
+        "name": "Kushina Uzumaki",
+        "relationship": "Wife",
+        "trust_level": "High - died protecting Naruto"
+      }
+    ],
+    "enemies": [
+      "Obito Uchiha",
+      "Masked Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kushina Uzumaki",
+    "best_friend": "Jiraiya",
+    "rival": null,
+    "mentor": "Jiraiya",
+    "student": "Kakashi Hatake",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jiraiya",
+      "Kakashi",
+      "Kushina",
+      "Third Hokage"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Obito Uchiha",
+      "Masked Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Kakashi Hatake"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jiraiya",
+      "Kakashi",
+      "Kushina",
+      "Third Hokage"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jiraiya"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Obito Uchiha (Nine-Tails attack)",
+      "result": "Victory",
+      "method": "Sealed Kyuubi into Naruto, defeated Obito"
+    },
+    {
+      "opponent": "Thousand shinobi (Ninja War)",
+      "result": "Victory",
+      "method": "Yellow Flash - all defeated"
+    }
+  ],
+  "quotes": [
+    "I will protect village no matter what!",
+    "Believe it! (Lucky pervert jutsu...)",
+    "My son will be the Hokage someday!"
+  ],
+  "voice_acting": {
+    "native_language": "Junko Takeuchi (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Tony Oliver",
+    "japanese": "Toshiyuki Morikawa"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died sealing Nine-Tails into Naruto, revived via Impure World Reincarnation",
+    "transformation": "Sage Mode, Kyuubi Chakra Mode (reanimation)",
+    "awakening_potential": "Would have been strongest Hokage",
+    "power_evolution": [
+      "Prodigy",
+      "Jiraiya student",
+      "Hokage",
+      "Sage Mode"
+    ],
+    "role_in_story": "Legendary Hero/Key Backstory",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hokage Tower",
+    "story_importance": "Major (backbone of series)",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: January 25\nZodiac Sign: Aquarius\nGender: Male \nAge: Part II: 24\nHeight: Part I: 179.2 cm\nWeight: Part I: 66.1 kg\nBlood type: B\n\nMinato Namikaze was the Yondaime Hokage of Konohagakure and the man responsible for sealing the nine-tailed demon fox inside Naruto Uzumaki when he was born. Doing so cost him his life, and before dying he asked that the villagers not see Naruto as the monster within him, instead wanting him to be viewed as a hero, a request ignored by the villagers. \"Namikaze\" translates literally as \"Wave wind.\" \"Minato\" translates as \"Harbor\" or \"Port.\"\n\n\nMinato is said to be one of the greatest ninja Konoha has ever produced, with natural talent that had not been seen in many years. He specializes in using the Hiraishin no Jutsu, a technique the Second Hokage, Tobirama created, which essentially allowed him to teleport to any location with the use of a special seal. By attaching the seal to a kunai or an enemy, Minato could teleport to the location of the seal unnoticed, allowing him to wipe out nearby opponents almost instantly. This ability led to his title as \"Konoha's Yellow Flash,\" and it caused him to be seen as so dangerous that a flee-on-sight order was given in regards to him during the Third Ninja War. He also created the Rasengan, a technique that does not rely on hand seals but instead uses a concentration of spinning chakra in one's palm that causes immense damage to its victim on contact. Later in the series it is revealed that technique is actually incomplete. Minato had planned to add his own nature manipulation training to the Rasengan, making it even more powerful, but could not manage to prior to his death.",
+  "note": null,
+  "source": "anime"
+}

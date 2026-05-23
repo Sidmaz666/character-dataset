@@ -1,0 +1,438 @@
+{
+  "id": "d4bae4a0684d3ffe71c0bbc2f8c34ac1",
+  "name": "Rey",
+  "native_name": null,
+  "full_name": "Rey Skywalker",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Palpatine",
+    "bloodline": "Palpatine family",
+    "height_cm": 170,
+    "weight_kg": 54,
+    "age": "Born 15 ABY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Hazel",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Scavenger outfit",
+      "Staff",
+      "Yellow lightsaber"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Jakku",
+    "current_location": "Tatooine",
+    "base_of_operations": "Resistance",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi",
+    "secondary": "Scavenger",
+    "rank_title": "Jedi Knight",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Resistance",
+      "Jedi Order"
+    ],
+    "previous": [
+      null
+    ],
+    "relatives": [
+      "Darth Sidious (grandfather)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Telekinesis",
+      "native_name": null,
+      "description": "Move objects with the Force",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Limited training"
+    },
+    {
+      "name": "Mind Trick",
+      "native_name": null,
+      "description": "Influence weak minds",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Force Sense",
+      "native_name": null,
+      "description": "Sense presence",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Wide",
+      "limit": "None"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Aggressive dueling style",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Force Heal",
+      "native_name": null,
+      "description": "Heal wounds",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Touch",
+      "limit": "Requires life force"
+    },
+    {
+      "name": "Force Lightning",
+      "native_name": null,
+      "description": "Channel dark side energy",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Dangerous"
+    }
+  ],
+  "signature_moves": [
+    "Strike",
+    " Parry",
+    "Force pull"
+  ],
+  "ultimate_move": "Force Lightning barrage",
+  "trump_card": "All Jedi power combined",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "The Force",
+    "combat_style": [
+      "Form V (Shien)",
+      "Niman"
+    ],
+    "weapon": "Lightsaber",
+    "equipment": [
+      "Yellow lightsaber",
+      "Blue lightsaber",
+      "Staff"
+    ],
+    "trump_card": "All Jedi power combined",
+    "ultimate_move": "Force Lightning barrage"
+  },
+  "personality": {
+    "traits": [
+      "Resilient",
+      "Independent",
+      "Brave",
+      "Hopeful"
+    ],
+    "likes": [
+      "Freedom",
+      "Adventure",
+      "The Force"
+    ],
+    "dislikes": [
+      "Waiting",
+      "Giving up"
+    ],
+    "fear": "Becoming like Palpatine",
+    "dream": "Find belonging",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Resilient"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "Scavenger to Jedi hero",
+    "motivation": "Find her place",
+    "affinity": "Light Side",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Kylo Ren",
+    "Found Luke Skywalker",
+    "Defeated Emperor Palpatine",
+    "Rebuilt Jedi Order"
+  ],
+  "titles": [
+    "Jedi Knight",
+    "The Last Jedi"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Wanted by First Order"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 85,
+    "durability": 80,
+    "power": 90,
+    "combat": 92,
+    "total": 502
+  },
+  "weaknesses": {
+    "list": [
+      "Fear of lineage"
+    ],
+    "factors": [
+      "Vulnerable to dark side"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kylo Ren",
+    "allies": [
+      "Finn",
+      "Poe Dameron",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Luke Skywalker",
+        "relationship": "Mentor",
+        "trust_level": "High"
+      },
+      {
+        "name": "Finn",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "First Order",
+      "Palpatine"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Kylo Ren",
+        "relationship": "Rival/Love interest",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Kylo Ren",
+    "best_friend": "Finn",
+    "rival": "Kylo Ren",
+    "mentor": "Luke Skywalker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Finn",
+      "Poe Dameron",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kylo Ren"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kylo Ren"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Finn",
+      "Poe Dameron",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Luke Skywalker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kylo Ren",
+      "result": "Victory",
+      "method": "Saber duel"
+    },
+    {
+      "opponent": "Palpatine",
+      "result": "Victory",
+      "method": "All Jedi power"
+    }
+  ],
+  "quotes": [
+    "The Force is not in you",
+    "I'm no one"
+  ],
+  "voice_acting": {
+    "native_language": "Daisy Ridley",
+    "english": "Daisy Ridley",
+    "note": "Original actress",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Active Jedi master",
+    "transformation": "Jedi Knight",
+    "awakening_potential": "Ultimate power",
+    "power_evolution": [
+      "Scavenger",
+      "Jedi apprentice",
+      "Jedi Knight"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Millennium Falcon"
+    ],
+    "vehicles": [
+      "Speeders"
+    ],
+    "headquarters": "Ajan Kloss",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Rey is a fictional character in the Star Wars franchise. She was created by Lawrence Kasdan, J. J. Abrams, and Michael Arndt for The Force Awakens (2015), the first installment of the sequel film trilogy, and is primarily portrayed by Daisy Ridley. Rey also appears in the film's sequels, The Last Jedi (2017) and The Rise of Skywalker (2019), and related Star Wars media.",
+  "note": null,
+  "source": "star_wars"
+}

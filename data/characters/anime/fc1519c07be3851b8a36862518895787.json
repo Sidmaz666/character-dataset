@@ -1,0 +1,417 @@
+{
+  "id": "fc1519c07be3851b8a36862518895787",
+  "name": "Temari",
+  "native_name": "テマリ",
+  "full_name": "Temari",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kazekage Clan",
+    "height_cm": 165,
+    "weight_kg": 47,
+    "age": "15-16 (Part I), 18-19 (Part II)",
+    "birthday": "August 23",
+    "zodiac": "Virgo",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 17.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Four ponytails",
+      "Giant fan",
+      "Sand village outfit",
+      "Sharp eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sunagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Nara Compound",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Jonin Commander",
+    "rank_title": "Jonin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Nara Clan"
+    ],
+    "previous": [
+      "Sunagakure"
+    ],
+    "relatives": [
+      "Fourth Kazekage (father)",
+      "Gaara (brother)",
+      "Kankuro (brother)",
+      "Shikamaru (husband)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 22",
+    "manga": "Naruto Chapter 35",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Wind Release",
+      "native_name": "風遁",
+      "description": "Master of wind-style jutsu. Creates devastating wind attacks.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Giant Fan",
+      "native_name": "巨大な扇",
+      "description": "Summons giant iron fan for wind techniques and transportation.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "All",
+      "limit": "Fan required"
+    },
+    {
+      "name": "Wind Scythe",
+      "native_name": "鎌鼬",
+      "description": "Creates invisible wind blades that cut through everything.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Chakra cost"
+    },
+    {
+      "name": "Summoning Jutsu",
+      "native_name": "口寄せの術",
+      "description": "Summons Kamatari, a giant weasel with a scythe.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "All",
+      "limit": "Summoning contract"
+    }
+  ],
+  "signature_moves": [
+    "Wind Scythe",
+    "Giant Fan attack",
+    "Summoning Kamatari"
+  ],
+  "ultimate_move": "Wind Release: Great Weasel",
+  "trump_card": "Giant fan + Wind style",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Wind Release",
+    "combat_style": [
+      "Long-range",
+      "Wind techniques"
+    ],
+    "weapon": "Giant Fan",
+    "equipment": [
+      "Iron fan",
+      "Summoning scroll"
+    ],
+    "trump_card": "Giant fan + Wind style",
+    "ultimate_move": "Wind Release: Great Weasel"
+  },
+  "personality": {
+    "traits": [
+      "Strong-willed",
+      "Protective",
+      "Intelligent",
+      "Confident",
+      "Caring",
+      "Practical"
+    ],
+    "likes": [
+      "Gaara",
+      "Kankuro",
+      "Shikamaru",
+      "Wind",
+      "Strategy"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Being underestimated",
+      "Threats to family"
+    ],
+    "fear": "Losing brothers",
+    "dream": "Protect Suna, support Gaara",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strong-willed",
+      "Protective",
+      "Intelligent",
+      "Practical",
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Temari starts as aloof Sand ninja. Becomes protective sister, marries Shikamaru, bridges Sand and Leaf.",
+    "motivation": "Protect Gaara and Kankuro, support family",
+    "affinity": "Green/Wind",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Jonin",
+    "Sand sibling",
+    "Married Shikamaru",
+    "War hero"
+  ],
+  "titles": [
+    "Wind Master",
+    "Jonin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 78,
+    "durability": 72,
+    "power": 88,
+    "combat": 85,
+    "total": 478
+  },
+  "weaknesses": {
+    "list": [
+      "Close-range combat",
+      "Emotional about family",
+      "Fan-dependent"
+    ],
+    "factors": [
+      "No fan situation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Gaara",
+      "Kankuro",
+      "Shikamaru",
+      "Naruto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gaara",
+        "relationship": "Brother to protect",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Shikamaru",
+    "best_friend": "Shikamaru",
+    "rival": "None",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gaara",
+      "Kankuro",
+      "Shikamaru",
+      "Naruto"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gaara",
+      "Kankuro",
+      "Shikamaru",
+      "Naruto"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Tenten",
+      "result": "Victory",
+      "method": "Wind style"
+    },
+    {
+      "opponent": "Akatsuki",
+      "result": "Victory",
+      "method": "Team effort"
+    }
+  ],
+  "quotes": [
+    "Don't underestimate Sand!",
+    "I'll protect my brothers.",
+    "Shikamaru..."
+  ],
+  "voice_acting": {
+    "native_language": "Romi Park (Japanese)",
+    "note": "Strong, confident",
+    "native_name": null,
+    "english": "Tara Platt",
+    "japanese": "Romi Park"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Marries Shikamaru, lives in Konoha",
+    "transformation": "None",
+    "awakening_potential": "Mastered",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Jonin",
+      "Wife"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Giant fan"
+    ],
+    "vehicles": [],
+    "headquarters": "Nara Compound",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The twenty-second and final season of the Naruto: Shippuden anime television series is based on Part II of Masashi Kishimoto's Naruto manga series. The first four episodes are anime–exclusive material that examine the childhoods of some main characters under the title Nostalgic Days, while the rest of the season was set over two years after the Fourth Great Ninja War and covers stories based on light novels set after the manga's ending, respectively titled Sasuke Shinden: Book of Sunrise (サスケ真伝 来光篇, Sasuke Shinden Raikō-hen), Shikamaru Hiden: A Cloud Drifting in Silent Darkness (シカマル秘伝 闇の黙に浮ぶ雲, Shikamaru Hiden — Yami no Shijima ni Ukabu Kumo), and Konoha Hiden: The Perfect Day for a Wedding (木ノ葉秘伝 祝言日和, Konoha Hiden: Shūgenbiyori). The episodes are directed by Osamu Kobayashi, Chiaki Kon, Toshinori Watabe, and Masahiko Murata, and produced by Pierrot and TV Tokyo. The season aired from October 2016 to March 2017.\nThe season would make its English television debut on Adult Swim's Toonami programming block and premiere on March 10 and finished on September 1, 2024.\nThe season contains three musical themes, including one opening and two endings. The opening theme song, \"Karanokokoro\" (カラノココロ; lit. 'Empty Heart') performed by Anly, is used from episodes 480–500. The first ending theme song, \"Tabidachi no Uta\" (旅立ちの唄; lit. 'Departure Song') performed by Ayumikurikamaki, is used from episodes 480–488. The second ending theme song, \"Zetsu Zetsu\" (絶絶; lit. 'Absolutely') performed by Swimy, is used from episodes 489–500.",
+  "note": null,
+  "source": "anime"
+}

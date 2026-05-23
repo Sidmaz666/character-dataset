@@ -1,0 +1,324 @@
+{
+  "id": "2b6392d2d236917456b8c868b4c658d1",
+  "name": "Bartolomeo",
+  "native_name": "",
+  "full_name": "Bartolomeo",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "24",
+    "birthday": "October 6",
+    "zodiac": "Libra",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Grand Line",
+    "current_location": "Grand Line",
+    "base_of_operations": "Grand Line",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "One Piece",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece",
+    "manga": "One Piece",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Haki",
+      "type": "Spiritual",
+      "description": "Able to sense and project spiritual energy",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Swordsmanship",
+      "type": "Combat",
+      "description": "Skilled in blade combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Physical Combat",
+      "type": "Physical",
+      "description": "Proficient in hand-to-hand fighting",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Haki",
+    "Swordsmanship",
+    "Physical Combat"
+  ],
+  "ultimate_move": "Haki",
+  "trump_card": "Swordsmanship",
+  "power_attributes": {
+    "power_type": "Divine",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Swordsmanship",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Swordsmanship"
+    ],
+    "trump_card": "Swordsmanship",
+    "ultimate_move": "Haki"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Adventurous",
+      "Stubborn",
+      "Passionate"
+    ],
+    "likes": [
+      "Adventure",
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "One Piece character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Shoutarou Morikubo (Japanese)",
+    "Voiced by Tyson Rinehart (English)"
+  ],
+  "titles": [
+    "One Piece"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 55,
+    "speed": 55,
+    "durability": 55,
+    "power": 55,
+    "combat": 55,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Straw Hat Pirates"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Tyson Rinehart",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Shoutarou Morikubo"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Name: Bartolomeo\nAge: 24\nBirthdate: October 6\nHeight: 220cm (7'2\")\nAffiliation: Barto Club (previously; Mafia)\nPosition: Captain\nDevil Fruit: Bari Bari no Mi (Barrier-Barrier Fruit)\nType: Paramecia\nBounty:\n\nBartolomeo the Cannibal is a Super Rookie and the captain of the Barto Club.\n\nBartolomeo is a lean yet muscular man. He has light green-colored hair in a wild rocker-like style and no eyebrows. He has a demonic looking face, sharp fangs, and a ring piercing on his nasal septum. There are two lines tattooed under his right eye that curve towards his ear. He has a dark tattoo on his chest of a thick ring with an opening on the top, wings on the sides, and long fangs on the bottom. He wears a dark purple coat with a stripe down each sleeve and a plumed collar and cuffs. On the back of it is a face with its head on fire with two crossing sabers just underneath it. He has a light-colored ring-patterned belt with a chain on the left. He has a weapon tucked in the front of his baggy checkered trousers, and has light ruffled dark boots on his feet.\n\nBartolomeo can be rather vulgar and laid-back at times. He is also very provocative, but also mocks his opponents, usually in a nonchalant manner. Even when attempting to stay cool, however, Bartolomeo can become angered when provoked in return. Bartolomeo also doesn't care what anyone else thinks of him and does not seem to hold a high opinion of people. However, Bartolomeo seems to care for his crew (or at least its reputation).\n\n\n\nBartolomeo ate the Bari Bari no Mi, a Paramecia type Devil Fruit which allows him to be a Barrier Human. He uses his Devil Fruit powers both to protect himself and attack his opponents. The barriers are seemingly indestructible. He can also use his barriers to attack his enemies.\n\n(Source: One Piece Wikia)",
+  "note": null,
+  "source": "anime"
+}

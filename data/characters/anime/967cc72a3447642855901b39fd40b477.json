@@ -1,0 +1,306 @@
+{
+  "id": "967cc72a3447642855901b39fd40b477",
+  "name": "Guts",
+  "native_name": "\tgattsu",
+  "full_name": "Guts (The Black Swordsman)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Branded human",
+    "height_cm": 190,
+    "weight_kg": 95,
+    "age": "Adult",
+    "birthday": "Spring",
+    "zodiac": "Aries",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Tan/scarred",
+    "notable_features": "Huge sword, brand mark, cape",
+    "skin": "Tan/scarred",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mercenary",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "first_appearance": {
+    "anime": "Berserk Ep1",
+    "manga": "Berserk Ch1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dragon Slayer",
+      "native_name": "dragon",
+      "description": "Massive sword cuts anything",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95
+    }
+  ],
+  "character": {
+    "arc": "Branded warrior",
+    "motivation": "Find meaning",
+    "alignment": "Chaotic Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Find meaning",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "publisher": "anime",
+  "story": {
+    "status": "Unknown",
+    "role_in_story": "Minor",
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "relationships": {
+    "nemesis": "Griffith",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Griffith"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Griffith",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Griffith"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Griffith"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "signature_moves": [
+    "Dragon Slayer"
+  ],
+  "ultimate_move": "Dragon Slayer",
+  "trump_card": "Dragon Slayer",
+  "power_attributes": {
+    "power_type": null,
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Sword",
+    "equipment": [
+      "Dragon Slayer"
+    ],
+    "trump_card": "Dragon Slayer",
+    "ultimate_move": "Dragon Slayer"
+  },
+  "achievements": [
+    "Voiced by Nobutoshi Canna (Japanese)",
+    "Voiced by Marc Diraison (English)",
+    "Dragon Slayer"
+  ],
+  "titles": [
+    "Mercenary"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Marc Diraison",
+    "note": null,
+    "native_name": null,
+    "japanese": "Nobutoshi Canna"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": null,
+    "story_importance": "Minor",
+    "note": null
+  },
+  "about": "Eyes: brown\nHair: black, \nHeight: 190cm (6'3\"), \nWeight: \nGuts is the protagonist of the story. He is a tall, muscular man with a huge sword called the Dragon Slayer, a prosthetic left forearm that has a magnetic grip which also conceals a cannon. Guts is a tragic hero; he is born as one who may be able to struggle against Causality, but seemingly unable to affect it on a large scale.\n\nNote: His name has often times been translated by some English scanlation groups as \"Gatts,\" or \"Gutts,\" or \"Gattsu.\" However, the official translation provided to Dark Horse Comics by Kentaro Miura himself, is in fact, \"Guts.\"",
+  "note": null,
+  "source": "anime"
+}

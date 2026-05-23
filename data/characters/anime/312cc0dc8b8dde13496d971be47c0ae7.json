@@ -1,0 +1,421 @@
+{
+  "id": "312cc0dc8b8dde13496d971be47c0ae7",
+  "name": "Rock Lee",
+  "native_name": "岩rees Rock",
+  "full_name": "Rock Lee",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Lee Clan",
+    "height_cm": 173,
+    "weight_kg": 66,
+    "age": "15-19",
+    "birthday": "May 2",
+    "zodiac": "Taurus",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black (dyed green)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green hair",
+      "Bandages",
+      "Sweat bands on head"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Training grounds",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Taijutsu fighter",
+    "secondary": "Shinobi",
+    "rank_title": "Jonin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure"
+    ],
+    "previous": [
+      "Team Guy"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 3",
+    "manga": "Naruto Chapter 3",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Eight Gates",
+      "native_name": "八門遁甲",
+      "description": "Removes body's limitations for massive power - can open all 8 eventually",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "Causes massive physical damage"
+    },
+    {
+      "name": "Front Lotus",
+      "native_name": "表蓮華",
+      "description": "Pile-driving strike with gate 1+ - slams enemy into ground",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Requires first gate"
+    },
+    {
+      "name": "Reverse Lotus",
+      "native_name": "裏蓮華",
+      "description": "More powerful version - rapid strikes from multiple angles with gate 3+",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Requires third gate"
+    },
+    {
+      "name": "Taijutsu Mastery",
+      "native_name": "體術",
+      "description": "Ultimate taijutsu - fastest fighter without ninjutsu",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Drunken Fist",
+      "native_name": "醉拳",
+      "description": "Fights unpredictably while appearing drunk",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Leaf Rising",
+      "native_name": "木葉烈功夫",
+      "description": "Kicks from multiple angles",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Front Lotus",
+    "Reverse Lotus",
+    "Eight Gates techniques"
+  ],
+  "ultimate_move": "Morning Peacock (gate 6+)",
+  "trump_card": "Full Eight Gates",
+  "power_attributes": {
+    "power_type": "Chakra (Eight Gates)",
+    "power_source": "Might Guy training",
+    "combat_style": [
+      "Taijutsu",
+      "Eight Gates"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Nunchaku"
+    ],
+    "trump_card": "Full Eight Gates",
+    "ultimate_move": "Morning Peacock (gate 6+)"
+  },
+  "personality": {
+    "traits": [
+      "Hardworking",
+      "Determined",
+      "Friendly",
+      "Energetic",
+      "Modest"
+    ],
+    "likes": [
+      "Training",
+      "Being called handsome",
+      "Guy",
+      "Turtles everywhere"
+    ],
+    "dislikes": [
+      "Giving up",
+      "People calling him untalented"
+    ],
+    "fear": "Not becoming Hokage-level",
+    "dream": "Become Hokage via taijutsu only",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "No-ninjutsu genius who proves hard work beats talent",
+    "motivation": "Proving hard work works",
+    "affinity": "Taijutsu/Green",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Mastered all Eight Gates",
+    "Defeated Gaara in Chunin Exams",
+    "Trained by Might Guy",
+    "Jonin rank"
+  ],
+  "titles": [
+    "Green Beast of Konoha",
+    "Taijutsu master",
+    "Hard work genius"
+  ],
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 95,
+    "speed": 100,
+    "durability": 85,
+    "power": 95,
+    "combat": 95,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot use ninjutsu/genjutsu",
+      "Eight Gates damage body"
+    ],
+    "factors": [
+      "limit"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gaara (nearly killed him)",
+    "allies": [
+      "Might Guy",
+      "Team Guy",
+      "Naruto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Might Guy",
+        "relationship": "Mentor/Sensei",
+        "trust_level": "High - idol"
+      },
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Kimimaro"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Might Guy",
+      "Team Guy",
+      "Naruto"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gaara (nearly killed him)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Might Guy",
+      "Team Guy",
+      "Naruto"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sasuke Uchiha",
+      "result": "Victory (could have won)",
+      "method": "Taijutsu dominance"
+    },
+    {
+      "opponent": "Gaara",
+      "result": "Victory (opened 5 gates)",
+      "method": "Front Lotus"
+    }
+  ],
+  "quotes": [
+    "I will prove hard work beats talent!",
+    "I am Konoha's Green Beast!",
+    "Hard work never fails!"
+  ],
+  "voice_acting": {
+    "native_language": "Yoji (Japanese: 'Masashi (Japanese), 'English: 'Jordan (English)'",
+    "note": "Actually: 'Rafael (Japanese), 'English:' 'Brian (English)'",
+    "native_name": null,
+    "english": "Brian Donovan",
+    "japanese": "Yōichi Masukawa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Teaching next generation",
+    "transformation": "Eight Gates forms",
+    "awakening_potential": "Full gate mastery",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Jonin",
+      "Master"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Training grounds",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Age: Part I: 13-14, Part II: 16-17 Boruto: 32-33\nBirthday: November 27\nHoroscope: Sagittarius\nBlood Type: A\nHeight: Part I: 158.5 cm-162.5 cm, Part II: 172 cm, Blank Period: 177 cm\nWeight: Part I: 46.6 kg-47.5 kg, Part II: 54.7 kg \nHair: Black\nEyes: Black\nRank:Part I: Genin, Part II: Chūnin, Gaiden: Jōnin\nOccupation: Chūnin Exams Proctor (Boruto only)\nAcademy Grad. Age: 12\nChūnin Prom. Age: 15\n\nRock Lee is a fictional character in the anime and manga series Naruto created by Masashi Kishimoto. Kishimoto considers Lee his favorite character to draw, and at first designed Lee to symbolize human weakness.In the anime and manga, Lee is a ninja affiliated with the village of Konohagakure, and is a member of Team Guy, which consists of himself, Neji Hyuga, Tenten, and Might Guy—the team's leader. Unable to use most ninja techniques, Lee dedicates himself to using solely taijutsu, ninja techniques similar to martial arts. Lee dreams of becoming a \"splendid ninja\" despite his inabilities.",
+  "note": null,
+  "source": "anime"
+}

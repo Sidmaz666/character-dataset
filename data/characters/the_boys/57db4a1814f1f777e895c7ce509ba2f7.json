@@ -1,0 +1,397 @@
+{
+  "id": "57db4a1814f1f777e895c7ce509ba2f7",
+  "name": "Queen Maeve",
+  "native_name": null,
+  "full_name": "Maeve 0'Brien",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "O'Brien",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "40s",
+    "birthday": "January 1",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Warrior build",
+      "Golden lasso"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ireland",
+    "current_location": "New York City",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "The Seven Member",
+    "rank_title": "Veteran Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven"
+    ],
+    "previous": [
+      "Irish superhero team"
+    ],
+    "relatives": [
+      "Ex-partner (mentioned)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Enhanced physical strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Below Homelander"
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Durable to conventional weapons",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": "Not invulnerable"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Combat Expertise",
+      "native_name": null,
+      "description": "Expert fighter with centuries of experience",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Human limitations"
+    }
+  ],
+  "signature_moves": [
+    "Warrior Strike",
+    "Lasso Bind"
+  ],
+  "ultimate_move": "Full Strength Attack",
+  "trump_card": "Ancient Warrior Form",
+  "power_attributes": {
+    "power_type": "Super Strength",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Ancient combat",
+      "Sword fighting"
+    ],
+    "weapon": "Sword",
+    "equipment": [
+      "Golden lasso"
+    ],
+    "trump_card": "Ancient Warrior Form",
+    "ultimate_move": "Full Strength Attack"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Experienced",
+      "Cynical",
+      "Alcoholic"
+    ],
+    "likes": [
+      "Heroics",
+      "Alcohol"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Vought"
+    ],
+    "fear": "Losing her legacy",
+    "dream": "Make a real difference",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "Burned out veteran seeking redemption",
+    "motivation": "Doing right before it's too late",
+    "affinity": "Warrior",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Longtime Seven member",
+    "Helped defeat Homelander",
+    "Immortalized as hero"
+  ],
+  "titles": [
+    "Queen Maeve",
+    "Wonder Woman of The Seven"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Former hero"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 80,
+    "speed": 70,
+    "durability": 75,
+    "power": 70,
+    "combat": 80,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Not invulnerable",
+      "Healing limitations",
+      "Age"
+    ],
+    "factors": [
+      "Alcoholism"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homelander",
+    "allies": [
+      "Starlight",
+      "The Boys (eventually)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Starlight",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Homelander",
+        "relationship": "Ex-lover",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Homelander",
+      "Vought"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Homelander (former)",
+    "best_friend": "Starlight",
+    "rival": null,
+    "mentor": null,
+    "student": "Starlight",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Starlight",
+      "The Boys (eventually)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homelander"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Starlight"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Starlight",
+      "The Boys"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Homelander",
+      "result": "Draw",
+      "method": "Held her own briefly"
+    }
+  ],
+  "quotes": [
+    "I've been doing this for decades."
+  ],
+  "voice_acting": {
+    "native_language": "Dominique McElligott (English)",
+    "english": "Dominique McElligott",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Retired to peace",
+    "transformation": null,
+    "awakening_potential": "Freedom from Vought",
+    "power_evolution": [
+      "Young hero",
+      "Veteran warrior"
+    ],
+    "role_in_story": "Supporting Hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Vought vehicles"
+    ],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

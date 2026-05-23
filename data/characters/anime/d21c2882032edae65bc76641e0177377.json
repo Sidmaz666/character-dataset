@@ -1,0 +1,352 @@
+{
+  "id": "d21c2882032edae65bc76641e0177377",
+  "name": "Conquest",
+  "native_name": null,
+  "full_name": "Conquest",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Viltrumite",
+    "race": "Viltrumite",
+    "bloodline": null,
+    "height_cm": 190,
+    "weight_kg": 100,
+    "age": "500+",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Armor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Viltrum",
+    "current_location": "Deceased",
+    "base_of_operations": "Viltrum Empire",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Viltrum Empire",
+    "rank_title": "General",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Viltrum Empire"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "Invincible",
+    "comics": "Image Comics",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Viltrumite strength",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Viltrumite flight",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Invulnerability",
+      "native_name": null,
+      "description": "Viltrumite durability",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Viltrumite Strike"
+  ],
+  "ultimate_move": "Full Power Attack",
+  "power_attributes": {
+    "power_type": "Viltrumite",
+    "power_source": "Viltrumite genetics",
+    "combat_style": [
+      "Combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Armor"
+    ],
+    "trump_card": "Super Strength",
+    "ultimate_move": "Full Power Attack"
+  },
+  "personality": {
+    "traits": [
+      "Proud",
+      "Warrior",
+      "Honor-bound"
+    ],
+    "likes": [
+      "Battle"
+    ],
+    "dislikes": [
+      "Failure"
+    ],
+    "fear": "Weakness",
+    "dream": "Conquer all",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Strength",
+      "Flight"
+    ],
+    "weaknesses": [
+      "Vulnerab"
+    ]
+  },
+  "character": {
+    "arc": "Viltrumite general",
+    "motivation": "Conquer",
+    "affinity": "Conquest",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Conquered worlds"
+  ],
+  "titles": [
+    "Conquest",
+    "General"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Too dangerous"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 95,
+    "speed": 95,
+    "durability": 95,
+    "power": 95,
+    "combat": 85,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Viltrumite weakness"
+    ],
+    "factors": [
+      "vulnerab"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Invincible",
+    "allies": [
+      "Viltrum Empire"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Invincible",
+      "Guardians"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Invincible",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Viltrum Empire"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Invincible"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Invincible"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Viltrum Empire"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Invincible",
+      "result": "Defeat",
+      "method": "Killed"
+    }
+  ],
+  "quotes": [
+    "I am Conquest!"
+  ],
+  "voice_acting": {
+    "native_language": "Clark Becket",
+    "note": "Animated series",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Invincible",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Warrior",
+      "General"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Viltrum Empire",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "trump_card": "Super Strength",
+  "about": "Conquest involves achieving control of another entity's territory through war or coercion. Historically, conquests occurred frequently in the international system, and there were limited normative or legal prohibitions against conquest. \nThe onset and diffusion of nationalism (the belief that nation and state should be congruent), especially in the 19th century, made the idea of conquest increasingly unacceptable to popular opinion. Prohibitions against conquest were codified with the establishment of the League of Nations following World War I and of the United Nations at the end of World War II.\nScholars have debated the strength of a norm against conquest since 1945. Conquest of large swaths of territory has been rare since the end of World War II. However, states have continued to pursue annexation of small territories.",
+  "note": null,
+  "source": "anime"
+}

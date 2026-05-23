@@ -1,0 +1,494 @@
+{
+  "id": "aabd5c287b9c6188ef7f787edbf0c718",
+  "name": "Red She-Hulk",
+  "native_name": null,
+  "full_name": "Betty Ross",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Ross family",
+    "height_cm": 188,
+    "weight_kg": 180,
+    "age": "30-40 (varies by continuity)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 50.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Red",
+    "skin_color": "Red",
+    "notable_features": [
+      "Muscular build",
+      "Red skin",
+      "Military background",
+      "Determined expression"
+    ],
+    "skin": "Red",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Various",
+    "current_location": "Various",
+    "base_of_operations": "Various locations",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Scientist",
+    "rank_title": "Agent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "Thunderbolts"
+    ],
+    "previous": [
+      "US Military",
+      "S.H.I.E.L.D."
+    ],
+    "relatives": [
+      "Thaddeus Ross (father)",
+      "Unknown mother",
+      "Bruce Banner (love interest)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Incredible Hulk #1 (1962) - as Betty Ross, Red She-Hulk #1 (2010)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Vast superhuman strength rivaling Hulk",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Transformation control"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Extremely durable body resistant to most harm",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Extreme force"
+    },
+    {
+      "name": "Heat Generation",
+      "native_name": null,
+      "description": "Can generate intense heat from body",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Contact",
+      "limit": "Energy reserves"
+    },
+    {
+      "name": "Intelligence Retention",
+      "native_name": null,
+      "description": "Retains full intelligence in Hulk form",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Scientific Expertise",
+      "native_name": null,
+      "description": "Brilliant scientist with expertise in gamma radiation",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Resources and time"
+    },
+    {
+      "name": "Combat Training",
+      "native_name": null,
+      "description": "Trained in various forms of combat",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Transformation Control",
+      "native_name": null,
+      "description": "Can control transformation between forms",
+      "type": "Biological",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Emotional state"
+    },
+    {
+      "name": "Radiation Resistance",
+      "native_name": null,
+      "description": "Resistant to most forms of radiation",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Extreme radiation"
+    }
+  ],
+  "signature_moves": [
+    "Heat attacks",
+    "Strength-based combat",
+    "Scientific strategy"
+  ],
+  "ultimate_move": "Full Red She-Hulk power",
+  "trump_card": "Intelligence and heat combination",
+  "power_attributes": {
+    "power_type": "Gamma Radiation",
+    "power_source": "Gamma radiation and enhancement",
+    "combat_style": [
+      "Strength-based",
+      "Heat-based",
+      "Strategic"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Scientific equipment",
+      "Various gadgets"
+    ],
+    "trump_card": "Intelligence and heat combination",
+    "ultimate_move": "Full Red She-Hulk power"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Intelligent",
+      "Complex",
+      "Resilient",
+      "Protective"
+    ],
+    "likes": [
+      "Science",
+      "Bruce Banner",
+      "Helping others",
+      "Being a hero",
+      "Control"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Injustice",
+      "Losing control",
+      "Hulk's rage",
+      "Betrayal"
+    ],
+    "fear": "Losing control, Failing to help Bruce, Being used again",
+    "dream": "To help Bruce and be a hero",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Intelligent",
+      "Resilient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Scientist's daughter becoming Red She-Hulk through gamma radiation",
+    "motivation": "To help Bruce Banner and protect the innocent",
+    "affinity": "Science",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Became Red She-Hulk",
+    "Avengers member",
+    "Helped Bruce Banner",
+    "Defeated major threats",
+    "Became hero"
+  ],
+  "titles": [
+    "Red She-Hulk",
+    "Betty Ross",
+    "Betty Banner",
+    "Red Betty"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 90,
+    "speed": 75,
+    "durability": 90,
+    "power": 85,
+    "combat": 80,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [
+      "Transformation control",
+      "Emotional state",
+      "Bruce attachment",
+      "Human vulnerabilities"
+    ],
+    "factors": [
+      "Stress",
+      "Anger",
+      "Love for Bruce"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Avengers",
+      "Bruce Banner",
+      "Thunderbolts"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Banner",
+        "relationship": "Love interest",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Avengers",
+        "relationship": "Team",
+        "trust_level": "High"
+      },
+      {
+        "name": "Thunderbolts",
+        "relationship": "Team",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Various villains",
+      "Hulk (sometimes)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Various villains",
+        "relationship": "Enemies",
+        "threat_level": "Variable"
+      },
+      {
+        "name": "Hulk",
+        "relationship": "Complicated",
+        "threat_level": "Variable"
+      }
+    ],
+    "love_interest": "Bruce Banner",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Bruce Banner",
+      "Thunderbolts"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various villains",
+      "Hulk (sometimes)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "General Thaddeus"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "General Thaddeus"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Bruce Banner",
+      "Thunderbolts"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various villains",
+      "result": "Victory",
+      "method": "Strength and intelligence"
+    },
+    {
+      "opponent": "Hulk",
+      "result": "Various",
+      "method": "Heat and strategy"
+    },
+    {
+      "opponent": "Major threats",
+      "result": "Victory",
+      "method": "Teamwork and power"
+    }
+  ],
+  "quotes": [
+    "I'm Red She-Hulk",
+    "I'm here to help",
+    "Science and power",
+    "I won't give up"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Various animated voice actors",
+    "note": "Multiple portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": [
+      "Red She-Hulk creation",
+      "Various power enhancements"
+    ],
+    "awakening_potential": "Full potential",
+    "power_evolution": [
+      "Scientist",
+      "Red She-Hulk",
+      "Avenger"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Various vehicles"
+    ],
+    "headquarters": "Various locations",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Elizabeth \"Betty\" Ross is a character appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in The Incredible Hulk #1 (1962) as a romantic interest of the Hulk. She is the daughter of General Thaddeus E. \"Thunderbolt\" Ross. Over the years, the character has undergone multiple transformations, including the Harpy and Red She-Hulk.",
+  "note": null,
+  "source": "marvel"
+}

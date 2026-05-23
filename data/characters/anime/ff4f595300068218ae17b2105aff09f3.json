@@ -1,0 +1,455 @@
+{
+  "id": "ff4f595300068218ae17b2105aff09f3",
+  "name": "Toshiro Hitsugaya",
+  "native_name": "日番谷冬獅郎",
+  "full_name": "Toshiro Hitsugaya",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Soul Reaper (Shinigami)",
+    "race": "Soul",
+    "bloodline": "N/A",
+    "height_cm": 133,
+    "weight_kg": 28,
+    "age": "Appears 10-13 (Shinigami age: 100-130)",
+    "birthday": "September 29",
+    "zodiac": "Libra",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 15.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue/Green",
+    "hair_color": "White (light blue-ish)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "White hair (unusual for young appearance)",
+      "Small stature despite captain rank",
+      "Often seen with serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Junrinan, District 1, Rukongai",
+    "current_location": "Soul Society",
+    "base_of_operations": "10th Division barracks",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Captain of 10th Division",
+    "secondary": "Shinigami",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "10th Division"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandmother (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Hyōrinmaru (Shikai)",
+      "native_name": "氷輪丸",
+      "description": "Strongest ice-type Zanpakutō. Can control water and ice, creating ice dragons that freeze anything they touch. Release command: 'Sit Upon the Frozen Heavens'.",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Short to Medium",
+      "limit": "Release can affect weather in surrounding area"
+    },
+    {
+      "name": "Daiguren Hyōrinmaru (Bankai)",
+      "native_name": "大紅蓮氷輪丸",
+      "description": "Ice armor with dragon head, wings, and tail. Creates massive quantities of ice. Three ice flowers appear that fade as power depletes (indicates incomplete Bankai due to young age).",
+      "type": "Attack/Defense",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Short to Long",
+      "limit": "Incomplete Bankai; flowers disappear when power depletes"
+    },
+    {
+      "name": "Tenso Jurin",
+      "native_name": "天生輪流体",
+      "description": "Controls water in the surrounding atmosphere. Can use in both Shikai and Bankai.",
+      "type": "Attack/Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Uncontrolled use can kill everyone nearby"
+    },
+    {
+      "name": "Ice Dragon Techniques",
+      "native_name": "氷龍技術",
+      "description": "Multiple ice dragon attacks, ice waves, freezing chain attacks.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short to Medium",
+      "limit": "Requires sword"
+    },
+    {
+      "name": "Zanhyo Ningyo",
+      "native_name": "残忍人形",
+      "description": "Creates an ice clone of himself so lifelike it can appear to bleed. Only usable once per Bankai activation.",
+      "type": "Support/Utility",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Only works once per activation"
+    },
+    {
+      "name": "Ryusenka",
+      "native_name": "流水花",
+      "description": "Thrust attack that causes ice to burst from impact point, encasing opponent before shattering.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Short",
+      "limit": "Requires direct hit"
+    }
+  ],
+  "signature_moves": [
+    "Ice dragons",
+    "Daiguren Hyōrinmaru",
+    "Tenso Jurin"
+  ],
+  "ultimate_move": "Sennen Hyoro (Thousand Year Ice Prison)",
+  "trump_card": "Full Bankai with all techniques",
+  "power_attributes": {
+    "power_type": "Shinigami (Ice/Water Zanpakutō)",
+    "power_source": "Reiryoku (ice-elemental)",
+    "combat_style": [
+      "Ice-based swordsmanship",
+      "Freeze attacks",
+      "Dragon formations"
+    ],
+    "weapon": "Hyōrinmaru (Zanpakutō)",
+    "equipment": [
+      "Captain's uniform"
+    ],
+    "trump_card": "Full Bankai with all techniques",
+    "ultimate_move": "Sennen Hyoro (Thousand Year Ice Prison)"
+  },
+  "personality": {
+    "traits": [
+      "Mature",
+      "Serious",
+      "Responsible",
+      "Caring",
+      "Impatient with immaturity",
+      "Protective"
+    ],
+    "likes": [
+      "Being called by his name",
+      "His lieutenant Rangiku",
+      "Momo Hinamori",
+      "Justice"
+    ],
+    "dislikes": [
+      "Being called short",
+      "Others beinglazy",
+      "His powers causing harm to innocents"
+    ],
+    "fear": "Losing control of his ice powers",
+    "dream": "Become strong enough to protect everyone",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Patient",
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Toshiro begins as a young prodigy captain struggling to be taken seriously due to his appearance. His journey involves growing into his role as captain while dealing with his ice powers and protecting those he cares about.",
+    "motivation": "Protect Soul Society and his friends",
+    "affinity": "Ice/White",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Youngest Shinigami to achieve Bankai",
+    "Youngest Captain in Gotei 13 history",
+    "Holder of the strongest ice-type Zanpakutō",
+    "Fought alongside others to protect Soul Society"
+  ],
+  "titles": [
+    "Captain of the 10th Division",
+    "The White-Haired Prodigy",
+    "Ice Captain"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Soul Society officer, not applicable"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 70,
+    "speed": 85,
+    "durability": 78,
+    "power": 95,
+    "combat": 88,
+    "total": 498
+  },
+  "weaknesses": {
+    "list": [
+      "Young age affects Bankai stability",
+      "Small stature",
+      "Overprotective of friends",
+      "Can freeze innocent people accidentally"
+    ],
+    "factors": [
+      "Bankai incomplete due to age",
+      "Power can get out of control",
+      "Limited physical strength due to size"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Tier Harribel (later ally)",
+    "allies": [
+      "Rangiku Matsumoto",
+      "Momo Hinamori",
+      "Ichigo Kurosaki",
+      "Byakuya Kuchiki"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rangiku Matsumoto",
+        "relationship": "Lieutenant/friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Momo Hinamori",
+        "relationship": "Best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Sosuke Aizen",
+      "Wandenreich"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Sosuke Aizen",
+        "relationship": "Enemy",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "None established",
+    "best_friend": "Momo Hinamori",
+    "rival": "Byakuya Kuchiki (friendly rivalry)",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rangiku Matsumoto",
+      "Momo Hinamori",
+      "Ichigo Kurosaki",
+      "Byakuya Kuchiki"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Tier Harribel (later ally)",
+      "Byakuya Kuchiki (friendly rivalry)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Byakuya Kuchiki"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rangiku Matsumoto",
+      "Momo Hinamori",
+      "Ichigo Kurosaki",
+      "Byakuya Kuchiki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Yammy Rija",
+      "result": "Victory",
+      "method": "Combined attack with other captains"
+    },
+    {
+      "opponent": "Tier Harribel",
+      "result": "Defeat (later reconciled)",
+      "method": "Bankai battle"
+    },
+    {
+      "opponent": "Cang Du (Wandenreich)",
+      "result": "Defeat",
+      "method": "His Bankai was stolen by medallion"
+    }
+  ],
+  "quotes": [
+    "Don't call me by my title... call me Toshiro!",
+    "I'm young, but I'm still a captain.",
+    "Ice is the strongest element."
+  ],
+  "voice_acting": {
+    "native_language": "Hisayo Hishida (Japanese)",
+    "note": "Known for mature voice for young character",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues serving as 10th Division captain",
+    "transformation": "From prodigy to respected captain",
+    "awakening_potential": "Bankai may become complete as he ages",
+    "power_evolution": [
+      "Young prodigy",
+      "Lieutenant",
+      "Youngest captain",
+      "Battle-hardened warrior"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "10th Division barracks, Soul Society",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: May 24\nHoroscope: Gemini\n\nThe dean of the hospital in Sotoba, Toshio resigned from university hospital, returning to take up his father's position when he passed away. He is fondly given a nickname, \"Waka-sensei\", by his colleagues as well as the residents. Toshio has a dislike to both his mother and his late father, as both of them often put reputation of the Ozaki family before anything else. He is childhood friends with Seishin Muroi and Mikiyasu Yasumori. He is a 32-year-old chain smoker and is married to Kyouko who manages an antique shop. He is baffled by the mysterious deaths and swears to solve the case and protect his village. One of the two main protagonists in the series.",
+  "note": null,
+  "source": "anime"
+}

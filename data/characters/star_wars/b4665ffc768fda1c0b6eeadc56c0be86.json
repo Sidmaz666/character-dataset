@@ -1,0 +1,386 @@
+{
+  "id": "b4665ffc768fda1c0b6eeadc56c0be86",
+  "name": "Qui-Gon Jinn",
+  "native_name": null,
+  "full_name": "Qui-Gon Jinn",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 193,
+    "weight_kg": 86,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue-Green",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bald",
+      "Tall"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased",
+    "current_location": "Deceased",
+    "base_of_operations": "Jedi Temple, Coruscant",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Master",
+    "secondary": "Negotiator",
+    "rank_title": "Jedi Master",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode I: The Phantom Menace (1999)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Sense",
+      "native_name": "Force Sense",
+      "description": "Can sense the future, ripples in the Force, and impending danger",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Force Spirit",
+      "native_name": "Force Spirit",
+      "description": "First Jedi to become a Force spirit after death, retaining consciousness in the Force",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Learned from Force Priestesses"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": "Force Telekinesis",
+      "description": "Can move objects and individuals without physical contact",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Force Dash",
+      "native_name": "Force Dash",
+      "description": "Move at superhuman speeds using the Force",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": "Short bursts only"
+    }
+  ],
+  "signature_moves": [
+    "Force Dash",
+    "Telekinetic push",
+    "Force Spirit manifestation"
+  ],
+  "ultimate_move": "Force Spirit Immortality",
+  "trump_card": "Force Spirit",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "Living Force",
+    "combat_style": [
+      "Lightsaber combat",
+      "Ataru"
+    ],
+    "weapon": "Green lightsaber",
+    "equipment": [
+      "Telekinetic push"
+    ],
+    "trump_card": "Force Spirit",
+    "ultimate_move": "Force Spirit Immortality"
+  },
+  "personality": {
+    "traits": [
+      "Compassionate",
+      "Independent",
+      "Rebellious",
+      "Wise"
+    ],
+    "likes": [
+      "Living in the moment",
+      "Helping those in need"
+    ],
+    "dislikes": [
+      "Jedi Council politics"
+    ],
+    "fear": "Being unable to help others",
+    "dream": "Bring balance to the Force",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Maverick Jedi who followed his own conscience, discovered Anakin, became first Force ghost",
+    "motivation": "Follow the Living Force",
+    "affinity": "Force",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Discovered Anakin Skywalker",
+    "First to become Force spirit",
+    "Trained Obi-Wan Kenobi",
+    "Legendary negotiator"
+  ],
+  "titles": [
+    "The Maverick Jedi"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not a bounty hunter"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 75,
+    "speed": 80,
+    "durability": 75,
+    "power": 90,
+    "combat": 85,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Rebellious nature",
+      "Often opposed Council"
+    ],
+    "factors": [
+      "His independence sometimes caused conflict"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Darth Maul",
+    "allies": [
+      "Obi-Wan Kenobi",
+      "Padme Amidala",
+      "Jedi Order"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Obi-Wan Kenobi",
+        "relationship": "Padawan",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Darth Maul",
+      "Trade Federation"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Maul",
+        "relationship": "Sith Apprentice",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Obi-Wan Kenobi",
+    "rival": null,
+    "mentor": null,
+    "student": "Obi-Wan Kenobi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Obi-Wan Kenobi",
+      "Padme Amidala",
+      "Jedi Order"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Maul"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Obi-Wan Kenobi"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Obi-Wan Kenobi",
+      "Padme Amidala",
+      "Jedi Order"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Darth Maul",
+      "result": "Defeat",
+      "method": "Killed in lightsaber duel on Naboo"
+    }
+  ],
+  "quotes": [
+    "Your focus determines your reality.",
+    "Keep min min, keep calm, focus on the Force."
+  ],
+  "voice_acting": {
+    "native_language": "Liam Neeson",
+    "english": "Liam Neeson",
+    "note": "Portrayed by Liam Neeson",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Darth Maul on Naboo",
+    "transformation": "Became Force spirit",
+    "awakening_potential": "Would have been one of the most powerful Jedi",
+    "power_evolution": [
+      "Jedi Knight",
+      "Jedi Master",
+      "Force Spirit"
+    ],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Jedi Temple",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Qui-Gon Jinn is a fictional character in the Star Wars franchise. He was introduced as a Jedi Master in the prequel film The Phantom Menace (1999), and is portrayed by Liam Neeson. He appears in the series Tales of the Jedi, and is featured as a Force spirit in the animated series The Clone Wars (2008) and the live-action miniseries Obi-Wan Kenobi (2022). Qui-Gon also appears in novels, comics and video games.",
+  "note": null,
+  "source": "star_wars"
+}

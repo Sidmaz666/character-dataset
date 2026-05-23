@@ -1,0 +1,327 @@
+{
+  "id": "280fc593c5d923308032352638cd808f",
+  "name": "Gintoki",
+  "native_name": "",
+  "full_name": "Gintoki",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "27",
+    "birthday": "October 10",
+    "zodiac": "Libra",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Yorozuya/Odd Jobs",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Gintama",
+    "manga": "Gintama",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Tomokazu Sugita (Japanese)",
+    "Voiced by Chris Patton (English)"
+  ],
+  "titles": [
+    "Yorozuya/Odd Jobs"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 70,
+    "combat": 70,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Takasugi, Shinsuke"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Tsukuyo",
+    "best_friend": null,
+    "rival": "Takasugi, Shinsuke",
+    "mentor": "Yoshida, Shouyou",
+    "student": "Kagura",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Takasugi, Shinsuke"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Takasugi, Shinsuke"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Kagura"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Yoshida, Shouyou"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Chris Patton",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Tomokazu Sugita"
+  },
+  "story": {
+    "status": "Unknown",
+    "fate": "Unknown",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 27, 29 (2 years arc)\nBirthday: October 10 (Libra)\nHeight: 177 cm\nWeight: 65 kg\nLikes: sweets, alcohol, Shounen Jump, strawberry milk, pachinko\nDislikes: ghosts, horror stuff, dentist\nFavorite quote: \"Then and now, what I protect has never changed.\"\nOccupation: Yorozuya/Odd Jobs\n\nGintoki is a samurai living in an era when samurai are no longer needed. To add to his troubles, oppressive aliens have moved in to invade planet Earth. Gintoki works taking on odd jobs alongside two kids: Kagura and Shinpachi. In the Joui war, he was known as the \"White Devil\" (Shiroyasha) due to his silver hair and white clothing he wore in battle, which, combined with his impressive capabilities as a swordsman, made him famous among his comrades and struck fear in the hearts of the Amanto.\n\nGintoki has naturally permed silver hair, which he blames for his lacking love-life. He has a big crush on the TV's news weather girl, Ketsuno. In fact, to date, the only time he is seen to have blushed is when he tries to make use of Sadaharu and Ketsuno's dog to get a chance to talk to her.(Though he later does with Tsukuyo as well when she discovers him shopping) Though several female characters have shown an interest in Gintoki, he usually does not show any response and merely puts up with them as annoyances.\n\nGintoki has two major obsessions in life. He is obsessed with sweet food such as parfaits, ice cream and cakes. His second obsession is reading the manga anthology magazine Weekly Shounen Jump. (Which, not coincidentally, is where Gintama is published). Gintoki will go to great lengths to get the latest Jump issue, to the point of reckless behavior. His Jump obsession makes him dream of being like other Jump heroes, including wishing that he had a \"Bankai\" similar to the characters of Bleach.\n\nDespite his appearance and initial behavior, Gintoki has a great amount of pride for the old bushido code. He takes it upon himself to rescue or avenge not only his comrades and friends but also people he's barely acquainted with, be it a pit-fighter who was taking care of abandoned orphans or an Amanto who resembles a kappa.\n\nDespite being a fearsome fighter with nearly unmatched skills, he avoids needless bloodshed after suffering the loss of most of his friends and allies during the Joui war.\n\n(Source: Wikipedia, VS Battles Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

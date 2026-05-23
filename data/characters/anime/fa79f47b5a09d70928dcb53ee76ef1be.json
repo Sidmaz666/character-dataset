@@ -1,0 +1,410 @@
+{
+  "id": "fa79f47b5a09d70928dcb53ee76ef1be",
+  "name": "Shikamaru Nara",
+  "native_name": "奈良シカマル",
+  "full_name": "Shikamaru Nara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Nara Clan",
+    "bloodline": "Nara Clan",
+    "height_cm": 170,
+    "weight_kg": 58,
+    "age": "16-19",
+    "birthday": "September 22",
+    "zodiac": "Virgo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Shadow manipulations",
+      "Lazy expression",
+      "IQ over 200"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Konoha military",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Strategist/Shinobi",
+    "secondary": "Military advisor",
+    "rank_title": "Jonin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure"
+    ],
+    "previous": [
+      "Team 10"
+    ],
+    "relatives": [
+      "Yoshino Nara (wife, future)",
+      "Shikadai Nara (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Shadow Imitation Technique",
+      "native_name": "影真似の術",
+      "description": "Merges shadow with target's - forces them to mimic user's movements",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium (shadow length)",
+      "limit": "Requires flat surface and light"
+    },
+    {
+      "name": "Shadow Neck Binding",
+      "native_name": "首筋",
+      "description": "Strangles targets bound by Shadow Imitation",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 65,
+      "range": "Within Shadow Imitation",
+      "limit": null
+    },
+    {
+      "name": "Shadow Clone",
+      "native_name": "影分身",
+      "description": "Creates clones from shadow",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Strategy/Intelligence",
+      "native_name": "戦略",
+      "description": "IQ over 200 - can devise battle strategies instantly",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": null
+    },
+    {
+      "name": "Fire techniques",
+      "native_name": "火遁",
+      "description": "Fire Release jutsu",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Medium",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Shadow Imitation",
+    "Strategy making",
+    "Shadow techniques"
+  ],
+  "ultimate_move": "Shadow Imitation on multiple targets",
+  "trump_card": "Full tactical mind",
+  "power_attributes": {
+    "power_type": "Yin Release (shadow)",
+    "power_source": "Nara clan",
+    "combat_style": [
+      "Shadow jutsu",
+      "Strategy"
+    ],
+    "weapon": "Fire techniques",
+    "equipment": [],
+    "trump_card": "Full tactical mind",
+    "ultimate_move": "Shadow Imitation on multiple targets"
+  },
+  "personality": {
+    "traits": [
+      "Lazy",
+      "Intelligent",
+      "Strategic",
+      "Caring",
+      "Responsible when needed"
+    ],
+    "likes": [
+      "Strategy games",
+      "Chess",
+      "Doing nothing"
+    ],
+    "dislikes": [
+      "Effort",
+      "Work",
+      "Losing friends"
+    ],
+    "fear": "Taking responsibility",
+    "dream": "Lazy life",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic",
+      "Intelligent",
+      "Responsible"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Lazy genius who steps up when needed - became key strategist",
+    "motivation": "Protecting friends and village",
+    "affinity": "Shadows/Strategy",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "First promoted to Chunin in class",
+    "Key strategist in Fourth War",
+    "Became military advisor",
+    "Married with child"
+  ],
+  "titles": [
+    "Strategist",
+    "Genius IQ",
+    "Shadow user"
+  ],
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 50,
+    "speed": 55,
+    "durability": 45,
+    "power": 60,
+    "combat": 60,
+    "total": 370
+  },
+  "weaknesses": {
+    "list": [
+      "Requires shadow/light",
+      "Limited combat strength"
+    ],
+    "factors": [
+      "lazy"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Team 10",
+      "Naruto",
+      "Konoha"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Choji Akimichi",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki",
+      "Enemies of village"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Team 10",
+      "Naruto",
+      "Konoha"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Akatsuki",
+      "Enemies of village"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Team 10",
+      "Naruto",
+      "Konoha"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kakuzu",
+      "result": "Victory",
+      "method": "Strategic combination attack"
+    }
+  ],
+  "quotes": [
+    "What a drag...",
+    "I already have a plan!",
+    "I hate doing things that are too much work!"
+  ],
+  "voice_acting": {
+    "native_language": "Shinji (Japanese: 'Shiro (Japanese), 'English: 'Yuri (low)'",
+    "note": "actually: 'Kazuya Nakai (Japanese), 'Keith Diamond (English)'",
+    "native_name": null,
+    "english": "Tom Gibis",
+    "japanese": "Showtaro Morikubo"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Military advisor",
+    "transformation": null,
+    "awakening_potential": "Full shadow mastery",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Jonin",
+      "Advisor"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Konoha",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Age: 12 (I); 15 (II)\nBirthday: September 22\nHoroscope: Virgo\nBlood Type: AB\nHeight: 170 cm\nWeight: 53.4 kg\nRank: Genin (I); Chuunin (II)\nLikes: taking naps, playing shogi\nDislikes: Hard-boiled eggs\n\nShikamaru is an extremely unenthusiastic person, and as such, lives his life avoiding work. This is partly due to him seeking paths of least resistance, as he often chooses to do things he would otherwise not do if people nag him enough. In his free time he typically takes naps, watches clouds, and plays strategy games such as Shogi and Go. When put into a situation where he potentially needs to put effort into something, he attempts to try to find a way to avoid it such as forfeiting a battle or by pretending to be preoccupied with something else. In the instances where he can not avoid these situations, Shikamaru tends to remark \"how troublesome.\"\n\nDespite his lazy tendencies, Shikamaru is extremely intelligent. His teacher, Asuma, found Shikamaru to have an IQ of over 200, and learned that Shikamaru's poor grades were a result of him finding lifting a pencil to be too much work for him. Nevertheless, Shikamaru works very well with his teammates, as their fathers were teamed together in their youth. Of his teammates, Shikamaru is closest with Chouji, who repays Shikamaru's confidence in him with unyielding loyalty. Shikamaru also has a strong bond with Asuma, often spending time with him playing strategy games. After Asuma's death, he even vows to protect Asuma and Kurenai's unborn child for his teacher's sake. Shikamaru has stated that he will make the child his apprentice someday.\n\nOne of Shikamaru's more distinctive characteristics is that he finds all women to be bossy and \"a pain.\" Contrary to this opinion, he has expressed a notably mature interest in marriage and raising a family with a son and daughter. Ironically, Shikamaru seems to constantly find himself surrounded by the very same strong-willed and bossy women he dislikes. In addition to his own mother, and being surrounded by bossy females, he usually ends up fighting against such women. Shikamaru has had a number of his appearances coincide with those of Temari. When they make their Part II debut together, Naruto Uzumaki asks if they are on a date, though both Shikamaru and Temari state that this is not the case.\n\nWhen the need arises, Shikamaru is quick to abandon his lazy nature and act appropriately to complete a mission or save his teammates. Using his Shadow Imitation Technique, the signature technique of his clan, he can capture the shadow of an opponent to either keep them immobilized or force them to mimic his movements. This ability causes Shikamaru to frequently take the task of stalling enemies so that his comrades can get to safety or to simply buy time. Although this role puts him in a dangerous position once he can no longer stall the opponent, Shikamaru is willing to serve it, feeling that sacrificing his life to ensure the safety of his friends is worth it. He then considers every element that is relevant to the situation at hand and analyzes the information to its fullest, planning out a battle ten moves in advance and devising over a hundred strategies to use against an opponent. This combination of intelligence and dedication to his teammates causes Shikamaru to become the first of the primary Konoha Genin to advance to the rank of Chunin.\n\nOnce becoming a Chunin, Shikamaru's father teaches him how to use his shadow technique more effectively, by using it to choke an opponent. This more interactive capability with his shadow is put to great use over the timeskip, and by Part II Shikamaru becomes proficient at using multiple shadow-based techniques at once. He is also able to manipulate his shadow to lift from the ground and either grab or throw weapons simply by utilizing an opponent's shadow for the same purpose. After he comes into the possession of Asuma's brass knuckles, Shikamaru learns to channel his shadow into them, using them to immobilize opponents by throwing them at an opponent's shadow to capture them and save himself the energy.",
+  "note": null,
+  "source": "anime"
+}

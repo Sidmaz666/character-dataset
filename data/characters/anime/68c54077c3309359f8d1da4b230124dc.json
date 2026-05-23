@@ -1,0 +1,377 @@
+{
+  "id": "68c54077c3309359f8d1da4b230124dc",
+  "name": "Hoshino, Aquamarine",
+  "native_name": "星野アクア",
+  "full_name": "Aqua Hoshino",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Hoshino",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "March 23",
+    "zodiac": "Aries",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Star eyes",
+      "Black hair",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Actor",
+    "secondary": "Student",
+    "rank_title": "Rising Actor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Strawberry Productions",
+      "Lalalai Theatre"
+    ],
+    "previous": [
+      "Gorou Amamiya (past life)"
+    ],
+    "relatives": [
+      "Ai Hoshino (mother, deceased)",
+      "Ruby Hoshino (twin sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Oshi no Ko Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Acting",
+      "native_name": "演技",
+      "description": "Natural acting ability from past life experience",
+      "type": "Skill",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Manipulation",
+      "native_name": "操作",
+      "description": "Can manipulate situations",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Social",
+      "limit": "Planning needed"
+    },
+    {
+      "name": "Medical Knowledge",
+      "native_name": "医学知識",
+      "description": "Knowledge from being a doctor",
+      "type": "Knowledge",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Method Acting",
+    "Strategic Planning"
+  ],
+  "ultimate_move": "Perfect Performance",
+  "trump_card": "Past Life Experience",
+  "power_attributes": {
+    "power_type": "Talent",
+    "power_source": "Training",
+    "combat_style": [
+      "Acting"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Past Life Experience",
+    "ultimate_move": "Perfect Performance"
+  },
+  "personality": {
+    "traits": [
+      "Calculating",
+      "Serious",
+      "Protective",
+      "Vengeful",
+      "Intelligent"
+    ],
+    "likes": [
+      "Ruby",
+      "Acting",
+      "Truth"
+    ],
+    "dislikes": [
+      "Liars",
+      "Father",
+      "Entertainment industry"
+    ],
+    "fear": "Losing Ruby",
+    "dream": "Find father",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "Reincarnated doctor seeking truth",
+    "motivation": "Find father and protect Ruby",
+    "affinity": "Star",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Rising actor",
+    "Discovered truth about Ai",
+    "Protecting Ruby"
+  ],
+  "titles": [
+    "Actor",
+    "Ai's Son"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 45,
+    "speed": 55,
+    "durability": 58,
+    "power": 65,
+    "combat": 40,
+    "total": 355
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessed with truth",
+      "Vengeful",
+      "Emotionally distant"
+    ],
+    "factors": [
+      "Single-minded pursuit"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Father (unknown)",
+    "allies": [
+      "Ruby",
+      "Kana",
+      "Akane"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ruby",
+        "relationship": "Twin sister",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Kana",
+        "relationship": "Colleague",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Ai's killer"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Ruby",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ruby",
+      "Kana",
+      "Akane"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Father (unknown)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ruby",
+      "Kana",
+      "Akane"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'll find you, father.",
+    "This is show business."
+  ],
+  "voice_acting": {
+    "native_language": "Takeo Otsuka",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Jack Stansbury",
+    "japanese": "Takeo Ootsuka"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Searching for truth",
+    "transformation": null,
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Doctor",
+      "Reincarnated",
+      "Actor"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 151 cm (4'11)\n\nAi Hoshino is the lead idol of B-Komachi, an idol group affiliated with Strawberry Productions. Before her idol work, she was a bumpkin who had no professionalism.\n\n(Source: Oshi no Ko Wiki)",
+  "note": null,
+  "source": "anime"
+}

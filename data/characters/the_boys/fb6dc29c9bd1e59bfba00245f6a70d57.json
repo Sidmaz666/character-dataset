@@ -1,0 +1,336 @@
+{
+  "name": "Mesmer",
+  "native_name": null,
+  "full_name": "Mesmer",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 72,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Former child star",
+      "Washed up",
+      "Mind-reader"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Washed-up child actor",
+    "secondary": "Mind-reader",
+    "rank_title": "Mesmer",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Telepathy (touch)",
+      "type": "Psychic",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Touch"
+    },
+    {
+      "name": "Mind Reading",
+      "type": "Psychic",
+      "tier": "B",
+      "power_level": 68,
+      "range": "Touch"
+    }
+  ],
+  "signature_moves": [
+    "Mind Touch",
+    "Thought Steal"
+  ],
+  "ultimate_move": "Complete Mind Read",
+  "trump_card": "Touch Telepathy",
+  "power_attributes": {
+    "power_type": "Psychic (touch)",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Non-combatant",
+      "Psychic touch"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Touch Telepathy",
+    "ultimate_move": "Complete Mind Read"
+  },
+  "personality": {
+    "traits": [
+      "Bitter",
+      "Washed-up",
+      "Desperate",
+      "Selfish"
+    ],
+    "likes": [
+      "Attention",
+      "Fame",
+      "Money"
+    ],
+    "dislikes": [
+      "His past",
+      "Being forgotten",
+      "Rejection"
+    ],
+    "fear": "Complete obscurity",
+    "dream": "Fame again",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Telepathy (touch)",
+      "Mind Reading"
+    ],
+    "weaknesses": [
+      "Selfish"
+    ]
+  },
+  "character": {
+    "arc": "Former child star who appeared in a supe-themed TV show. Washed up and desperate for relevance. Has touch-based telepathy. The Boys used him to read minds but he betrayed them.",
+    "motivation": "Reclaim fame",
+    "affinity": "Telepathy",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Child star",
+    "Supe mind-reader"
+  ],
+  "titles": [
+    "Mesmer",
+    "The Child Star"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 45,
+    "speed": 50,
+    "durability": 45,
+    "power": 65,
+    "combat": 40,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Touch-dependent",
+      "Washed-up",
+      "No combat"
+    ],
+    "factors": [
+      "Need physical touch",
+      "Desperate for validation"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "The Boys (briefly)"
+    ],
+    "enemies": [
+      "Those who forgot him"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Boys (briefly)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Those who forgot him"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Boys"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I used to be somebody."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Butcher for betrayal",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Child actor",
+      "Mesmer"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "fb6dc29c9bd1e59bfba00245f6a70d57",
+  "publisher": "the_boys",
+  "about": "Franz Anton Mesmer was a German physician with an interest in astronomy. He theorized the existence of a process of natural energy transference occurring between all animate and inanimate objects; this he called \"animal magnetism\", later referred to as mesmerism. Mesmer's theory attracted a wide following between about 1780 and 1850, and continued to have some influence until the end of the 19th century. In 1843, the Scottish doctor James Braid proposed the term \"hypnotism\" for a technique derived from animal magnetism; today the word \"mesmerism\" generally functions as a synonym of \"hypnosis\". Mesmer also supported the arts, specifically music; he was on friendly terms with Haydn and Mozart.",
+  "note": null,
+  "source": "the_boys"
+}

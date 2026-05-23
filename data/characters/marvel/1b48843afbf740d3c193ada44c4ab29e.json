@@ -1,0 +1,395 @@
+{
+  "id": "1b48843afbf740d3c193ada44c4ab29e",
+  "name": "Worldbreaker Hulk",
+  "native_name": "Bruce Banner",
+  "full_name": "Robert Bruce Banner",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human mutate",
+    "race": "Human / Gamma mutate",
+    "bloodline": null,
+    "height_cm": 234,
+    "weight_kg": 544,
+    "age": "Unknown",
+    "birthday": "December 18",
+    "zodiac": "Sagittarius",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 99.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Green",
+    "skin_color": "Green",
+    "notable_features": "Massive gamma-irradiated muscular body",
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Dayton, Ohio",
+    "current_location": "Various",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Gamma-irradiated Being",
+    "secondary": "Former weapons researcher",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Defenders",
+      "Avengers"
+    ],
+    "previous": [
+      "Sakaar forces"
+    ],
+    "relatives": [
+      "Brian Banner (father)",
+      "Rebecca Banner (mother)",
+      "Susan Banner (cousin)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Incredible Hulk #632",
+    "comics": "Incredible Hulk #632",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Limitless Strength",
+      "native_name": null,
+      "description": "The strongest Hulk form - strength increases indefinitely with anger",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Controlled by grief and rage"
+    },
+    {
+      "name": "Seismic Shattering",
+      "native_name": null,
+      "description": "Can cause earthquakes across continents and planets by existing",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Planetary",
+      "limit": "Uncontrollable at full power"
+    },
+    {
+      "name": "Gamma Radiation Emission",
+      "native_name": null,
+      "description": "Emits dangerous gamma radiation that charges up from simply existing",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Gamma Radiation Absorption",
+      "native_name": null,
+      "description": "Can absorb gamma and other energies to increase power",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Durability",
+      "native_name": null,
+      "description": "Near-invincible - can withstand cosmic-level forces",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Thunder clap",
+    "Gamma shockwave"
+  ],
+  "ultimate_move": "Worldbreaker punch",
+  "trump_card": "Full gamma unleash",
+  "power_attributes": {
+    "power_type": "Gamma radiation",
+    "power_source": "Gamma bomb",
+    "combat_style": [
+      "Raw strength",
+      "Melee combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Full gamma unleash",
+    "ultimate_move": "Worldbreaker punch"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Strategic",
+      "Controlled",
+      "Grief-stricken"
+    ],
+    "likes": [
+      "Solitude",
+      "Avoiding conflict"
+    ],
+    "dislikes": [
+      "Those who hurt innocent people"
+    ],
+    "fear": "Losing control completely",
+    "dream": "Redemption",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic",
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Most intelligent Hulk form - uses tactical cunning with unlimited power",
+    "motivation": "Protecting those he cares about",
+    "affinity": "Gamma",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Defeated Sentry",
+    "Shook entire planets",
+    "Became the strongest Hulk ever"
+  ],
+  "titles": [
+    "World Breaker",
+    "The Strongest There Is"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Berries",
+    "details": "Unmeasurable"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 100,
+    "speed": 90,
+    "durability": 100,
+    "power": 100,
+    "combat": 95,
+    "total": 577
+  },
+  "weaknesses": {
+    "list": [
+      "Lack of true control when fully angry",
+      "Emotional triggers"
+    ],
+    "factors": [
+      "Grief over wife's death",
+      "Rage at those responsible"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Sentry",
+    "allies": [
+      "Rick Jones",
+      "Red She-Hulk"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rick Jones",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Sentry",
+      "Illuminati"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Rick Jones",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rick Jones",
+      "Red She-Hulk"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sentry"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "She (cousin)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "She (cousin)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rick Jones",
+      "Red She-Hulk"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sentry",
+      "result": "Victory",
+      "method": "Absorbed Sentry's energy"
+    }
+  ],
+  "quotes": [
+    "The strongest there is!",
+    "I'm always angry"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Fred Tatasciore",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as most powerful Hulk",
+    "transformation": "Exposure to gamma bomb",
+    "awakening_potential": "Limitless",
+    "power_evolution": [
+      "Bruce Banner",
+      "Savage Hulk",
+      "Professor Hulk",
+      "Worldbreaker Hulk"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. \nFollowing his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will. This transformation often leads to destructive rampages and conflicts that complicate Banner's civilian life. The Hulk's level of strength is usually conveyed proportionate to his anger level. Commonly portrayed as a raging savage, the Hulk has been represented with other alter egos like a gangster (Joe Fixit), a merged personality (Merged Hulk), a mindless, destructive force (War), a brilliant warrior (World-Breaker), a self-hating protector (Devil Hulk), a genius scientist in his own right (Doc Green), and several minor alter egos.\nDespite Hulk and Banner's desire for solitude, the character has a large supporting cast. This includes Banner's love interest Betty Ross, his best friend, Rick Jones, his cousin She-Hulk, and therapist and ally Doc Samson. In addition, the Hulk alter ego has many key supporting characters, like his co-founders of the superhero team the Avengers, his queen Caiera, fellow warriors Korg and Miek, and sons Skaar and Hiro-Kala. However, his uncontrollable power has brought him into conflict with his fellow heroes and others such as General Thunderbolt Ross, Betty's father. Despite this, he tries his best to do what's right while battling villains such as the Leader, the Abomination, the Absorbing Man, and more.\nOne of the most iconic characters in popular culture, the character has appeared on a variety of merchandise, such as clothing and collectable items that was inspired by real-world structures (such as theme park attractions), and been referenced in several media. Banner and the Hulk have been adapted into live-action, animated, and video game incarnations. The character was first played in live-action by Bill Bixby and Lou Ferrigno in the 1978 television series The Incredible Hulk and its subsequent television films The Incredible Hulk Returns (1988), The Trial of the Incredible Hulk (1989), and The Death of the Incredible Hulk (1990). In the 2003 film Hulk, the character was played by Eric Bana. In the Marvel Cinematic Universe (MCU), the character was first portrayed by Edward Norton in the film The Incredible Hulk (2008) and then by Mark Ruffalo in later appearances in the franchise.",
+  "note": null,
+  "source": "marvel"
+}

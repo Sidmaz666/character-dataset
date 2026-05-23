@@ -1,0 +1,376 @@
+{
+  "id": "0b6941c777610b8d5131d6898b1d7699",
+  "name": "Two-Face",
+  "native_name": null,
+  "full_name": "Harvey Dent",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Dent Family",
+    "height_cm": 183,
+    "weight_kg": 84,
+    "age": "40",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "-",
+    "hair_color": "-",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "-",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Reformed criminal; former district attorney",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "-"
+    ],
+    "previous": [],
+    "relatives": [
+      "Duela Dent (Daughter)",
+      "Gilda Dent (Wife)",
+      "Poison Ivy (Fianc?e)",
+      "Rachel Dawes (Girlfriend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "-",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Criminal Genius",
+      "native_name": null,
+      "description": "Former district attorney with brilliant legal mind",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Expert Marksman",
+      "native_name": null,
+      "description": "Expert with twin pistols",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Dual Personality",
+      "native_name": null,
+      "description": "Decisions based on coin flip, making him unpredictable",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Depends on coin"
+    },
+    {
+      "name": "Legal Expertise",
+      "native_name": null,
+      "description": "Deep knowledge of law and criminal justice system",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Strategic Planner",
+      "native_name": null,
+      "description": "Capable of planning complex crimes",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Coin Flip Decision",
+    "Twin Pistol Barrage"
+  ],
+  "ultimate_move": "Chance Verdict",
+  "trump_card": "Two-headed coin",
+  "power_attributes": {
+    "power_type": "Intelligence",
+    "power_source": "Former legal training",
+    "combat_style": [
+      "Pistols",
+      "Criminal strategy"
+    ],
+    "weapon": "Twin pistols",
+    "equipment": [
+      "Two-headed coin"
+    ],
+    "trump_card": "Two-headed coin",
+    "ultimate_move": "Chance Verdict"
+  },
+  "personality": {
+    "traits": [
+      "Split personality",
+      "Obsessive",
+      "Just (corrupted)",
+      "Aggressive",
+      "Calculating"
+    ],
+    "likes": [
+      "Chance",
+      "Justice (his version)",
+      "The number two"
+    ],
+    "dislikes": [
+      "Batman",
+      "Anyone who questions his coin"
+    ],
+    "fear": "Losing his coin",
+    "dream": "To decide everything by chance",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Criminal Genius",
+      "Expert Marksman",
+      "Dual Personality",
+      "Legal Expertise"
+    ],
+    "weaknesses": [
+      "Obsessive",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Gotham's White Knight DA who became scarred and descended into madness, now letting a coin decide everything",
+    "motivation": "Let fate decide all things through his coin",
+    "affinity": "Chance/Duality",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Was Gotham's best DA",
+    "Took over Gotham's underworld at times"
+  ],
+  "titles": [
+    "The White Knight (former)",
+    "Two-Face"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 40,
+    "combat": 65,
+    "total": 340
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessive",
+      "Aggressive"
+    ],
+    "factors": [
+      "obsessive",
+      "aggressive"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [
+      "Various Gotham rogues"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Batman",
+      "Gordon"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Gilda Dent (ex-wife)",
+    "best_friend": null,
+    "rival": "Penguin",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Various Gotham rogues"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman",
+      "Penguin"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Penguin"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Various Gotham rogues"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "-",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Two-Face is a supervillain appearing in American comic books published by DC Comics. The character was created by Bob Kane, and first appeared in Detective Comics #66 (August 1942). He has become one of the superhero Batman's most enduring enemies belonging to the collective of adversaries that make up his rogues gallery.\nIn his comic book appearances, Two-Face is the alter ego of Harvey Dent, Gotham City's former district attorney who becomes a criminal mastermind obsessed with duality and the number two. Half of his face is hideously scarred after mob boss Sal Maroni throws acid at him. The resulting disfigurement drives him insane and causes him to make decisions based on the flip of a coin. The Modern Age of Comic Books portrays the character as having dissociative identity disorder, with Two-Face being an alternate personality that developed as a result of childhood abuse. The modern version is also established as having once been an ally of Batman and Commissioner James Gordon, and a close friend of Batman's secret identity, Bruce Wayne.\nThe character has been adapted in various media incarnations, having been portrayed in film by Billy Dee Williams in Batman (1989), Tommy Lee Jones in Batman Forever (1995), Aaron Eckhart in The Dark Knight (2008), Harry Lawtey in Joker: Folie à Deux (2024), and Sebastian Stan in The Batman: Part II (2027), in television by Nicholas D'Agosto in the Fox series Gotham, and Misha Collins in The CW series Gotham Knights. Richard Moll, Troy Baker, and others have provided Two-Face's voice in animation and video games.",
+  "note": null,
+  "source": "dc"
+}

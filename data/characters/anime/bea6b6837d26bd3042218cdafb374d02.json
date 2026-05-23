@@ -1,0 +1,457 @@
+{
+  "id": "bea6b6837d26bd3042218cdafb374d02",
+  "name": "Asuka Langley Soryu",
+  "native_name": "惣流・アスカ・ラングレー",
+  "full_name": "Asuka Langley Soryu",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Soryu/Zeppelin family",
+    "height_cm": 155,
+    "weight_kg": 45,
+    "age": "14",
+    "birthday": "December 4, 2001",
+    "zodiac": "Sagittarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": "American"
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Reddish-brown (braided in twin tails)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Twin tail hairstyle",
+      "Always wears nerve clips",
+      "Distinct plugsuit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Wilhelmshaven, Germany",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "Misato's apartment / NERV Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Evangelion Pilot (Second Child)",
+    "secondary": "University graduate (child prodigy)",
+    "rank_title": "Second Child",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV"
+    ],
+    "previous": [],
+    "relatives": [
+      "Kyoko Zeppelin Soryu (mother, deceased)",
+      "Mr. Langley (father)",
+      "Step-mother"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Neon Genesis Evangelion Episode 8",
+    "manga": "Neon Genesis Evangelion Chapter 8",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "EVA Unit-02 Piloting",
+      "native_name": "エヴァ弐号機操縦",
+      "description": "Asuka pilots Evangelion Unit-02 with exceptional skill and pride. She is one of the most skilled pilots despite her young age.",
+      "type": "Attack/Defense",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Short to Long (EVA range)",
+      "limit": "Synchronization rate affected by emotional state"
+    },
+    {
+      "name": "AT Field Generation",
+      "native_name": "アポジカルフィールド",
+      "description": "Asuka can generate an AT (Absolute Terror) Field for defense against Angel attacks.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Short",
+      "limit": "Requires synchronization with EVA"
+    },
+    {
+      "name": "Multi-Language Skills",
+      "native_name": "多言語能力",
+      "description": "Native German speaker, fluent in Japanese and English. Graduated from university at 14.",
+      "type": "Support/Utility",
+      "tier": "B",
+      "power_level": 75,
+      "range": "N/A",
+      "limit": "Non-combat ability; has trouble with kanji"
+    },
+    {
+      "name": "Superb Combat Reflexes",
+      "native_name": "卓越した戦闘反射神経",
+      "description": "Asuka has exceptional combat reflexes and hand-to-hand combat skills, especially in close quarters.",
+      "type": "Attack/Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Dummy Plug Compatibility",
+      "native_name": "ダミープラグ適合性",
+      "description": "Unit-02 responded to Asuka's mind for remote operations, demonstrating her exceptional compatibility.",
+      "type": "Support/Control",
+      "tier": "A",
+      "power_level": 87,
+      "range": "N/A",
+      "limit": "Requires emotional stability"
+    }
+  ],
+  "signature_moves": [
+    "EVA Unit-02 progressive knife",
+    "Close-range combat",
+    "AT field shield"
+  ],
+  "ultimate_move": "Unit-02 berserker mode",
+  "trump_card": "Remote piloting of Unit-02 through voice commands",
+  "power_attributes": {
+    "power_type": "Evangelion Synchronization",
+    "power_source": "EVA Unit-02 connection, AT Fields",
+    "combat_style": [
+      "EVA combat",
+      "Aggressive close-range fighting",
+      "Proud displays of power"
+    ],
+    "weapon": "EVA Unit-02 (progressive knife, rifle, various weapons)",
+    "equipment": [
+      "A10 nerve clips in hair",
+      "Plugsuit",
+      "Entry Plug"
+    ],
+    "trump_card": "Remote piloting of Unit-02 through voice commands",
+    "ultimate_move": "Unit-02 berserker mode"
+  },
+  "personality": {
+    "traits": [
+      "Proud",
+      "Aggressive",
+      "Competitive",
+      "Tsundere",
+      "Brave",
+      "Insecure"
+    ],
+    "likes": [
+      "Being praised",
+      "Her role as pilot",
+      "Kaji",
+      "Attention",
+      "Being the best"
+    ],
+    "dislikes": [
+      "Being useless",
+      "Dolls (reminds her of mother)",
+      "Rei",
+      "Being ignored",
+      "Shinji's passivity"
+    ],
+    "fear": "Not being needed or recognized",
+    "dream": "Be recognized as an elite pilot, find genuine love and acceptance",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Asuka begins as an arrogant, proud pilot seeking recognition, but her facade crumbles as her traumatic past resurfaces. Her journey explores the hedgehog's dilemma - the need for connection vs. the fear of being hurt. She ultimately finds some peace in rejecting Instrumentality.",
+    "motivation": "Be recognized and needed; prove she is not useless",
+    "affinity": "Red/Pride",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Graduated university at age 14",
+    "Successfully piloted Unit-02 against numerous Angels",
+    "One of the most skilled Eva pilots",
+    "Survived multiple near-death experiences",
+    "Rejected Instrumentality and chose to return to reality"
+  ],
+  "titles": [
+    "Second Child",
+    "Proud Pilot",
+    "The Red-haired Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "NERV operative, not applicable"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 60,
+    "speed": 75,
+    "durability": 65,
+    "power": 85,
+    "combat": 92,
+    "total": 465
+  },
+  "weaknesses": {
+    "list": [
+      "Severe trauma from mother's suicide",
+      "Fear of abandonment",
+      "Tsundere personality pushes people away",
+      "Unrequited feelings for Kaji"
+    ],
+    "factors": [
+      "Inferiority complex",
+      "Cannot form healthy relationships",
+      "Pride masks deep insecurity",
+      "Jealousy of other pilots"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Rei Ayanami (perceived rival)",
+    "allies": [
+      "Shinji Ikari",
+      "Misato Katsuragi",
+      "Ryoji Kaji",
+      "Rei Ayanami"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shinji Ikari",
+        "relationship": "Rival/friend/complex feelings",
+        "trust_level": "Complicated"
+      },
+      {
+        "name": "Ryoji Kaji",
+        "relationship": "Unrequited love",
+        "trust_level": "High (one-sided)"
+      },
+      {
+        "name": "Misato Katsuragi",
+        "relationship": "Guardian",
+        "trust_level": "High"
+      },
+      {
+        "name": "Hikari Horaki",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "The Angels",
+      "Her mother's memory"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Ryoji Kaji (unrequited)",
+    "best_friend": "Hikari Horaki",
+    "rival": "Shinji Ikari / Rei Ayanami",
+    "mentor": "Misato Katsuragi",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shinji Ikari",
+      "Misato Katsuragi",
+      "Ryoji Kaji",
+      "Rei Ayanami",
+      "Hikari Horaki"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Rei Ayanami (perceived rival)",
+      "Shinji Ikari / Rei Ayanami"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Shinji Ikari / Rei Ayanami"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shinji Ikari",
+      "Misato Katsuragi",
+      "Ryoji Kaji",
+      "Rei Ayanami",
+      "Hikari Horaki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Misato Katsuragi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Multiple Angels",
+      "result": "Victory (various)",
+      "method": "Skilled EVA combat with Unit-02"
+    },
+    {
+      "opponent": "Shinji Ikari",
+      "result": "Ongoing rivalry",
+      "method": "Competition for recognition and skill"
+    },
+    {
+      "opponent": "Arael (Angel)",
+      "result": "Defeat (psychological)",
+      "method": "Angel attacked her mind directly, causing breakdown"
+    }
+  ],
+  "quotes": [
+    "Anta baka?!",
+    "I won't lose to anyone!",
+    "I'm the best pilot!",
+    "It's disgusting..."
+  ],
+  "voice_acting": {
+    "native_language": "Megan McCormick (Japanese - original), Kotono Mitsuishi (English dub replacement)",
+    "note": "English dub has multiple voice actors over series",
+    "native_name": null,
+    "english": "Tiffany Grant",
+    "japanese": "Yūko Miyamura"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Rejected Instrumentality, found reconciliation with Shinji on the beach",
+    "transformation": "From arrogant pilot to broken survivor to finding peace",
+    "awakening_potential": "Could continue developing her relationship with others",
+    "power_evolution": [
+      "Child prodigy pilot",
+      "Proud Eva pilot",
+      "Psychologically broken",
+      "Recovery and acceptance"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "EVA Unit-02"
+    ],
+    "headquarters": "Misato's apartment / NERV",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14 , \nHeight: 5'1\" / 155 cm\nBirthdate: December 4, 2001\nZodiac sign: Sagittarius\nBlood type: A\nOrigin: Wilhelmshaven, Lower Saxony, Germany\n\nRelations:\nMother: Kyoko Zeppelin Souryuu \nGuardian: Misato Katsuragi \nFormer Guardian: Ryouji Kaji \n\nAsuka is the Second Child ('Second Children' in the Japanese versions of NGE), who pilots Evangelion Unit 02. She is from Germany, but with an American father and a half-German, half-Japanese mother. In the Rebuild of Evangelion series of movies, her name is changed to Asuka Langley Shikinami.",
+  "note": null,
+  "source": "anime"
+}

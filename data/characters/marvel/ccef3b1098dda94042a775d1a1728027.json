@@ -1,0 +1,371 @@
+{
+  "name": "Stryfe",
+  "native_name": null,
+  "full_name": "Stryfe (Clone of Cable)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant Clone",
+    "race": "Mutant",
+    "bloodline": "Summers/Grey (Clone)",
+    "height_cm": 195,
+    "weight_kg": 110,
+    "age": "Time-displaced",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 28.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Full armor",
+      "Helmet",
+      "Scarred face"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Apocalypse's Lab, Future",
+    "current_location": "Unknown",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Terrorist Leader",
+    "secondary": "Conqueror",
+    "rank_title": "Chaos-Bringer",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Mutant Liberation Front"
+    ],
+    "previous": [
+      "Dark Riders"
+    ],
+    "relatives": [
+      "Cable (template)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "New Mutants #86 (1990)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Omega Telekinesis",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Omega Telepathy",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global"
+    },
+    {
+      "name": "TO Virus Resistance",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    },
+    {
+      "name": "Master Tactician",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Psychic Annihilation",
+    "Telekinetic Cataclysm",
+    "Mental Domination"
+  ],
+  "ultimate_move": "Omega Cataclysm",
+  "trump_card": "Omega-Level Psionics",
+  "power_attributes": {
+    "power_type": "Omega-Level Mutant Psionics",
+    "power_source": "Mutant (Cable Clone)",
+    "combat_style": [
+      "Psychic",
+      "Tactical",
+      "Ranged"
+    ],
+    "weapon": "Psionic Power",
+    "equipment": [
+      "Full-body armor"
+    ],
+    "trump_card": "Omega-Level Psionics",
+    "ultimate_move": "Omega Cataclysm"
+  },
+  "personality": {
+    "traits": [
+      "Megalomaniacal",
+      "Vengeful",
+      "Nihilistic",
+      "Manipulative"
+    ],
+    "likes": [
+      "Destruction",
+      "Power"
+    ],
+    "dislikes": [
+      "Cable",
+      "X-Men"
+    ],
+    "fear": "Being forgotten",
+    "dream": "Destroy Cable and rule",
+    "personality_type": "ENTJ (Dark)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Omega Telekinesis",
+      "Omega Telepathy",
+      "Master Tactician"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Clone of Cable created by Apocalypse. Denied childhood, grew to hate his progenitor. Time-traveled to destroy X-Men and Cable. Omega-level psionics rivaling Cable.",
+    "motivation": "Destroy Cable and dominate",
+    "affinity": "Vengeance",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Created Legacy Virus",
+    "Led MLF",
+    "Time-traveled to destroy X-Men"
+  ],
+  "titles": [
+    "Stryfe",
+    "Chaos-Bringer",
+    "The Clone"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 70,
+    "speed": 75,
+    "durability": 90,
+    "power": 95,
+    "combat": 82,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Insanity",
+      "Hatred of Cable"
+    ],
+    "factors": [
+      "Mental instability",
+      "Overconfidence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Cable",
+    "allies": [
+      "Mutant Liberation Front"
+    ],
+    "enemies": [
+      "Cable",
+      "X-Men",
+      "Apocalypse"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": "Apocalypse",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Mutant Liberation Front"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Cable"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mutant Liberation Front"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Apocalypse"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Cable",
+      "result": "Draw",
+      "method": "Omega psionic battle"
+    }
+  ],
+  "quotes": [
+    "I am the future. You are merely the past."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed battling Cable and X-Force",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Clone",
+      "Stryfe"
+    ],
+    "role": "Major Villain",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Telekinetic flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "ccef3b1098dda94042a775d1a1728027",
+  "publisher": "marvel",
+  "about": "Stryfe is a supervillain appearing in American comic books published by Marvel Comics, most commonly in conflict with the superhero team X-Force. He is a clone of Cable from Cable's alternate future timeline.",
+  "note": null,
+  "source": "marvel"
+}

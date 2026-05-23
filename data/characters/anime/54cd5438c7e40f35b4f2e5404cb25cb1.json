@@ -1,0 +1,364 @@
+{
+  "id": "54cd5438c7e40f35b4f2e5404cb25cb1",
+  "name": "Tsukuyo",
+  "native_name": "月詠",
+  "full_name": "Tsukuyo",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 168,
+    "weight_kg": 52,
+    "age": "Early 20s",
+    "birthday": "August 15",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long black hair",
+      "Purple eyes",
+      "Ninja outfit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Yoshiwara",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Bodyguard",
+    "rank_title": "Elite Ninja",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Yoshiwara"
+    ],
+    "previous": [
+      "Dakini"
+    ],
+    "relatives": [
+      "Tsukuyo (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Gintama Episode 139",
+    "manga": "Chapter 183",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ninjutsu",
+      "native_name": "忍術",
+      "description": "Master ninja techniques",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Kunai Mastery",
+      "native_name": "苦手裏剣",
+      "description": "Expert kunai throwing",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Medium",
+      "limit": "Ammo"
+    }
+  ],
+  "signature_moves": [
+    "Kunai Throw",
+    "Ninja Strike"
+  ],
+  "ultimate_move": "Moon Shadow",
+  "trump_card": "Hidden Techniques",
+  "power_attributes": {
+    "power_type": "Ninja Arts",
+    "power_source": "Training",
+    "combat_style": [
+      "Ninjutsu",
+      "Melee"
+    ],
+    "weapon": "Kunai",
+    "equipment": [
+      "Kunai",
+      "Ninja gear"
+    ],
+    "trump_card": "Hidden Techniques",
+    "ultimate_move": "Moon Shadow"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Dedicated",
+      "Loyal",
+      "Stoic",
+      "Protective"
+    ],
+    "likes": [
+      "Duty",
+      "Order",
+      "Gintoki"
+    ],
+    "dislikes": [
+      "Chaos",
+      "Betrayal"
+    ],
+    "fear": "Failing duty",
+    "dream": "Protect Yoshiwara",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal",
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From duty-bound to finding own path",
+    "motivation": "Protect Yoshiwara",
+    "affinity": "Moon",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Elite ninja status",
+    "Protected Yoshiwara",
+    "Defeated multiple enemies"
+  ],
+  "titles": [
+    "Elite Ninja",
+    "Guardian of Yoshiwara"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 65,
+    "speed": 85,
+    "durability": 70,
+    "power": 75,
+    "combat": 88,
+    "total": 461
+  },
+  "weaknesses": {
+    "list": [
+      "Too serious",
+      "Duty-bound",
+      "Emotional attachment"
+    ],
+    "factors": [
+      "Rigid thinking"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Dakini",
+    "allies": [
+      "Gintoki",
+      "Shinpachi",
+      "Kagura"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gintoki",
+        "relationship": "Ally/Crush",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Dakini",
+      "Abuto"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Gintoki",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gintoki",
+      "Shinpachi",
+      "Kagura"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Dakini"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gintoki",
+      "Shinpachi",
+      "Kagura"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Dakini",
+      "result": "Victory",
+      "method": "Ninjutsu"
+    }
+  ],
+  "quotes": [
+    "I am Tsukuyo of the Hyakka."
+  ],
+  "voice_acting": {
+    "native_language": "Mie Sonozaki",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Marlie Collins",
+    "japanese": "Yuuko Kaida"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues protecting Yoshiwara",
+    "transformation": null,
+    "awakening_potential": "Stable",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Yoshiwara",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: February 9\nHeight: 170 cm (5' 7\")\nWeight: 52 kg (114 lb)\n\nTsukuyo is a blonde-haired woman with a scar over her forehead and left cheek. One of the better known Hundred Blooms of Yoshiwara, a law enforcement squad of Yoshiwara that consists of all females, deployed by the Night King Hosen. Despite appearing to be a heartless person when approached by Odd Jobs when he arrives to Yoshiwara, throwing a fake kunai to their foreheads, she later becomes friends with them. She has a difficult past being orphaned as a child, only to be picked up and raised by a ruthless and deadly assassin, Jiraia. While the original motive for Jiraia was to instill every bit of despair and tragedy of his own life into Tsukuyo, of who he refers to as his art or perfect creation, Tsukuyo ended up growing attached to what he did not manage to do. That is \"Friends, A Home, and Precious Things To Protect\" as told by Jiraia. Her loyalty and home lies with Hinowa in the underground city of Yoshiwara. She has ties with Hinowa, who also helped raise her like an older sister/mother through her childhood.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

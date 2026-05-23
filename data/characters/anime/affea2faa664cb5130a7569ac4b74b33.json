@@ -1,0 +1,326 @@
+{
+  "id": "affea2faa664cb5130a7569ac4b74b33",
+  "name": "Feitan",
+  "native_name": "",
+  "full_name": "Feitan",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Heavens Arena",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter x Hunter",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Phantom Troupe"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter",
+    "manga": "Hunter x Hunter",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Nen",
+      "type": "Energy",
+      "description": "Skilled in Nen manipulation",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Combat",
+      "type": "Physical",
+      "description": "Trained in various combat styles",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hunter Instincts",
+      "type": "Mental",
+      "description": "Keen tracking and survival instincts",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Nen",
+    "Martial Combat",
+    "Hunter Instincts"
+  ],
+  "ultimate_move": "Nen",
+  "trump_card": "Martial Combat",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Cosmic",
+    "combat_style": [],
+    "weapon": "Sword",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": "Martial Combat",
+    "ultimate_move": "Nen"
+  },
+  "personality": {
+    "traits": [
+      "Resourceful",
+      "Determined",
+      "Adaptable",
+      "Curious",
+      "Brave"
+    ],
+    "likes": [
+      "Learning",
+      "Protecting others",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Death"
+    ],
+    "fear": "Failure",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hunter x Hunter character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Kappei Yamaguchi (Japanese)",
+    "Voiced by Meredith Taylor-Parry (English)"
+  ],
+  "titles": [
+    "Hunter x Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 62,
+    "strength": 62,
+    "speed": 62,
+    "durability": 62,
+    "power": 62,
+    "combat": 62,
+    "total": 372
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Hunter Association"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Target/Hunted"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hunter Association"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Target/Hunted"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hunter Association"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Meredith Taylor-Parry",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Kappei Yamaguchi"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "A mysterious member of the Genei Ryoudan, Feitan is attired in what one would expect from a bandit—dark clothes with a skullhead scarf that covers his mouth. Feitan seldom speaks, but when he does, usually there's a word missing. Feitan's first language most likely isn't Japanese, but he has shown to be rather proficient in the Chinese language. He is one of the original members hailing from Ryūseigai. After Feitan's victory over Zazan in Ryūseigai, he has been granted temporary control over the Genei Ryoudan.\n\nFeitan is an assassin down to his core, and is quite skilled at his profession. His movement is incredibly fast; Feitan is able to leave afterimages of his body due to his rapid steps. He wields an umbrella that conceals both a sword and a gun that fires needles inside for hidden attacks.\n\nNen Abilities\nPain Packer: the ability allows Feitan to first use his aura to materialize a protective armor. Then, all of the damage that he has received in battle into scorching heat (named \"Rising Sun\") and is emitted into the air. The emitted nen transforms into a miniature sun that burns the victim to death. Rising Sun has a very large attack radius, and while Feitan is within his armor he will not be harmed by the fire.",
+  "note": null,
+  "source": "anime"
+}

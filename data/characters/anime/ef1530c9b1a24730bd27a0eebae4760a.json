@@ -1,0 +1,383 @@
+{
+  "id": "ef1530c9b1a24730bd27a0eebae4760a",
+  "name": "Bulma",
+  "native_name": "Buruma",
+  "full_name": "Bulma Briefs",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 163,
+    "weight_kg": 50,
+    "age": "16 (intro) / 40+ (current)",
+    "birthday": "August 18",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Leo",
+    "weight_kkg": null,
+    "bmi": 18.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Teal/Blue (originally) / Purple",
+    "skin": "Fair",
+    "notable_features": [
+      "Blue hair (changes color over series)",
+      "genius inventor look"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "West City",
+    "current_location": "Capsule Corporation, West City",
+    "base_of_operations": "Capsule Corporation, West City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Genius Scientist",
+    "secondary": "CEO of Capsule Corporation",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Z Fighters",
+      "Capsule Corporation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Dr. Briefs (father)",
+      "Vegeta (husband)",
+      "Trunks (son)",
+      "Bra (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Episode 1",
+    "manga": "Dragon Ball Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intellect",
+      "native_name": null,
+      "description": "One of the smartest humans alive, invented the Dragon Radar",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Engineering Mastery",
+      "native_name": null,
+      "description": "Created gravity chambers, time machines, and advanced tech",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Dragon Radar Operation",
+      "native_name": null,
+      "description": "Can track Dragon Balls across the planet",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "Capsule Technology",
+      "native_name": null,
+      "description": "Master of Capsule Corporation's signature technology",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Engineering Mastery",
+    "Genius Intellect",
+    "Capsule Technology"
+  ],
+  "ultimate_move": "Engineering Mastery",
+  "trump_card": "Genius Intellect",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Vehicle"
+    ],
+    "trump_card": "Genius Intellect",
+    "ultimate_move": "Engineering Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Determined",
+      "Short-tempered",
+      "Vain",
+      "Caring"
+    ],
+    "likes": [
+      "Science",
+      "shopping",
+      "Vegeta",
+      "meddling"
+    ],
+    "dislikes": [
+      "Being called old",
+      "laziness"
+    ],
+    "fear": "Humiliation",
+    "dream": "Protect her family through science",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Vain",
+      "Short-tempered"
+    ]
+  },
+  "character": {
+    "arc": "The genius inventor who started Goku's adventure and became Earth's greatest scientist",
+    "motivation": "Protect her family through science",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Voiced by Hiromi Tsuru (Japanese)",
+    "Voiced by Tiffany Vollmer (English)",
+    "Genius Intellect, Engineering Mastery"
+  ],
+  "titles": [
+    "Genius Scientist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 10,
+    "speed": 20,
+    "durability": 15,
+    "power": 20,
+    "combat": 15,
+    "total": 178
+  },
+  "weaknesses": {
+    "list": [
+      "Vain",
+      "Short-tempered"
+    ],
+    "factors": [
+      "vain",
+      "short-tempered"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Goku",
+      "Vegeta",
+      "Gohan",
+      "Trunks",
+      "Z Fighters"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Freeza",
+      "Cell",
+      "Buu"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Vegeta",
+    "best_friend": "Goku",
+    "rival": "none",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Goku",
+      "Vegeta",
+      "Gohan",
+      "Trunks",
+      "Z Fighters"
+    ],
+    "colleague": null,
+    "enemy": [
+      "none"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "none"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Goku",
+      "Vegeta",
+      "Gohan",
+      "Trunks",
+      "Z Fighters"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "It's over 9000!",
+    "Oh my, is that a new spaceship?"
+  ],
+  "voice_acting": {
+    "native_language": "Hiromi Tsuru / Aya Hisakawa",
+    "note": null,
+    "native_name": null,
+    "english": "Tiffany Vollmer",
+    "japanese": "Hiromi Tsuru"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Earthling\nHeight: 5' 5\"\nWeight: 108 lbs\nBirth year: 733 Age\nHobby: Inventing\nFavorite food: Strawberries\nFavorite vehicle: All Types of Vehicles\n\nBulma is originally a secondary main character, but her role is quickly downplayed as the series continues, even though she does remain an important support character for most of the series. Bulma is a direct parody of the character Xuanzang from the Chinese novel Journey to the West. Even though Bulma's character parodies a monk, her Japanese name \"Buruma\" is the brand of a popular gym short worn by girls in Japan. Her re-adapted name Bulma is a direct take on the word \"bloomers,\" which was a popular brand of women's underwear in the early 20th century.\n\nBulma is the second character to be introduced in the Dragon Ball series. In the early part of the story, she is the inventor of the Dragon Radar and is searching for the legendary Dragon Balls. Bulma was hoping to use the Dragon Balls to wish for the perfect boyfriend. While searching for a nearby Dragon Ball, she runs into Son Goku. It is at this time that she finds out Goku inherited one of the balls (the four-star ball) she is searching for from his Grandpa Gohan. Because of Goku's love for the ball and his belief that his Grandpa's spirit lives in the ball, Goku is not willing to give it up. Bulma then asks him to loan it for her in exchange of taking him in her travels. At that point, they team up to find the remainder of the balls and the adventure begins. In the later action-oriented episodes of the series, there is little room for a genius but Bulma continues to play a role as a secondary character, helping Goku and his friends with her gadgets, and having a rather rocky relationship with Yamcha.\n\n\n(Source: Wikipedia, Dragon Ball Super Exciting Guide, Character Edition)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Camofox Browser (third-party browser automation)
+camofox-browser/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+data/.download_progress.log
+data/image_download.log
+
+# Environment
+.env
+.env.local
+.env.*.local

@@ -1,0 +1,395 @@
+{
+  "id": "23460d0a59899e6a6ce32432c34b2c0d",
+  "name": "Taki Tooru",
+  "native_name": "立花 瀧",
+  "full_name": "Taki Tooru",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Taki Family",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "17",
+    "birthday": "May 15",
+    "zodiac": "Sagittarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown hair",
+      "School uniform",
+      "Athletic build",
+      "Determined eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo, Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Part-time waiter",
+    "rank_title": "Student",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "High School",
+      "Restaurant"
+    ],
+    "previous": [],
+    "relatives": [
+      "Father",
+      "Mother"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Your Name (Kimi no Na wa)",
+    "manga": "Your Name",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Body Swapping",
+      "native_name": "入れ替わり",
+      "description": "Unconsciously swaps body with Mitsuha across time. Can live her life.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Temporal",
+      "limit": "Unconscious, time lag"
+    },
+    {
+      "name": "Musubi Connection",
+      "native_name": "組紐",
+      "description": "Connected to Mitsuha through red string of fate. Can feel her presence.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long distance",
+      "limit": "Memory fades"
+    },
+    {
+      "name": "Cooking Skills",
+      "native_name": "料理",
+      "description": "Works as waiter, can cook. Learned from Mitsuha's body.",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Ingredients"
+    }
+  ],
+  "signature_moves": [
+    "Body swap",
+    "Searching for Mitsuha",
+    "Musubi"
+  ],
+  "ultimate_move": "Finding Mitsuha across time",
+  "trump_card": "Musubi connection",
+  "power_attributes": {
+    "power_type": "Supernatural",
+    "power_source": "Musubi",
+    "combat_style": [
+      "None"
+    ],
+    "weapon": "None",
+    "equipment": [],
+    "trump_card": "Musubi connection",
+    "ultimate_move": "Finding Mitsuha across time"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Kind",
+      "Hardworking",
+      "Romantic",
+      "Brave",
+      "Caring"
+    ],
+    "likes": [
+      "Mitsuha",
+      "Architecture",
+      "Cooking",
+      "Friends"
+    ],
+    "dislikes": [
+      "Losing Mitsuha",
+      "Forgetting",
+      "Distance"
+    ],
+    "fear": "Forgetting Mitsuha",
+    "dream": "Meet Mitsuha again",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Taki is the Tokyo boy who swaps bodies with Mitsuha across time. Falls in love, searches for her. Finds her after comet disaster, they meet again.",
+    "motivation": "Find Mitsuha, save her town",
+    "affinity": "Blue/Musubi",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Saved Itomori",
+    "Found Mitsuha",
+    "Body swapped successfully"
+  ],
+  "titles": [
+    "Student",
+    "Taki"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Student"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 70,
+    "speed": 72,
+    "durability": 70,
+    "power": 85,
+    "combat": 60,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Memory loss",
+      "Mitsuha's safety",
+      "Time lag"
+    ],
+    "factors": [
+      "Mitsuha",
+      "Comet"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Time, Comet",
+    "allies": [
+      "Mitsuha",
+      "Tsukasa",
+      "Okudera (former)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Mitsuha Miyamizu",
+        "relationship": "Love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Time",
+      "Comet"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Mitsuha",
+    "best_friend": "Tsukasa",
+    "rival": "None",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Mitsuha",
+      "Tsukasa",
+      "Okudera (former)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Time, Comet",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mitsuha",
+      "Tsukasa",
+      "Okudera"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Time",
+      "result": "Victory",
+      "method": "Found Mitsuha"
+    },
+    {
+      "opponent": "Comet",
+      "result": "Victory",
+      "method": "Saved town"
+    }
+  ],
+  "quotes": [
+    "I'm looking for someone.",
+    "Your name is?",
+    "I feel like I've been searching for you."
+  ],
+  "voice_acting": {
+    "native_language": "Ryunosuke Kamiki (Japanese)",
+    "note": "Determined, gentle",
+    "native_name": null,
+    "english": "Megan Shipman",
+    "japanese": "Rina Satou"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Reunited with Mitsuha",
+    "transformation": "None",
+    "awakening_potential": "Medium",
+    "power_evolution": [
+      "Student",
+      "Body swapper",
+      "Hero",
+      "Lover"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Train"
+    ],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17\nBirthday: December 1\nZodiac: Sagittarius\nOccupation: Italian Waiter\n\nA high school boy who lives in the city side of Tokyo. In his daily life, he spends fun times with friends and works part-time at an Italian restaurant. He holds a secret affection toward his co-worker and senpai Okudera. He is interested in architecture and art.\n\nTaki is also a kind individual, but he can sometimes be persistent. He is a very helpful and busy individual also, and sometimes may be a bit sensitive toward others. Taki is also quick to anger, which causes him to be impatient and stubborn.",
+  "note": null,
+  "source": "anime"
+}

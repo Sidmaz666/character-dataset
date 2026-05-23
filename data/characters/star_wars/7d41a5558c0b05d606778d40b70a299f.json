@@ -1,0 +1,402 @@
+{
+  "id": "7d41a5558c0b05d606778d40b70a299f",
+  "name": "Padme Amidala",
+  "native_name": null,
+  "full_name": "Padme Amidala Naberrie-Skywalker",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": null,
+    "bloodline": "Naberrie family",
+    "height_cm": 165,
+    "weight_kg": 54,
+    "age": "Born 46 BBY, Died 19 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 19.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Elaborate gowns",
+      "Queenly robes",
+      "Braided hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Naboo",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Theed Palace",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Queen",
+    "secondary": "Senator",
+    "rank_title": "Queen/Senator",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Galactic Republic"
+    ],
+    "previous": [
+      "Naboo"
+    ],
+    "relatives": [
+      "Luke Skywalker (son)",
+      "Leia Organa (daughter)",
+      "Anakin Skywalker (husband)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode I - The Phantom Menace (1999)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Diplomacy",
+      "native_name": null,
+      "description": "Negotiation skills",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Tactics",
+      "native_name": null,
+      "description": "Military strategy",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Piloting",
+      "native_name": null,
+      "description": "Ship pilot",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Blasters",
+      "native_name": null,
+      "description": "Marksmanship",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Medium",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Speech",
+    "Diplomacy"
+  ],
+  "ultimate_move": "Inspirational speech",
+  "trump_card": "Political influence",
+  "power_attributes": {
+    "power_type": "Skill",
+    "power_source": "Political knowledge",
+    "combat_style": [
+      "Negotiation"
+    ],
+    "weapon": "Blaster",
+    "equipment": [
+      "Royal gowns",
+      "various outfits"
+    ],
+    "trump_card": "Political influence",
+    "ultimate_move": "Inspirational speech"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Brave",
+      "Principled",
+      "Intelligent"
+    ],
+    "likes": [
+      "Peace",
+      "Freedom",
+      "Family"
+    ],
+    "dislikes": [
+      "War",
+      "Oppression",
+      "The Empire"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Peace for galaxy",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Queen to Senator",
+    "motivation": "Peace and freedom",
+    "affinity": "Light Side",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Ended Naboo invasion",
+    "Helped create Rebellion",
+    "Secretly married Anakin"
+  ],
+  "titles": [
+    "Queen of Naboo",
+    "Senator"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Valuable political figure"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 50,
+    "speed": 60,
+    "durability": 55,
+    "power": 50,
+    "combat": 60,
+    "total": 370
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional attachment"
+    ],
+    "factors": [
+      "Vulnerable to dark side manipulation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Empire",
+    "allies": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Bail Organa"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Anakin Skywalker",
+        "relationship": "Husband",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Trade Federation",
+      "Separatists"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Trade Federation",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Anakin Skywalker",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Bail Organa"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Empire"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Bail Organa"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Trade Federation",
+      "result": "Victory",
+      "method": "Diplomacy"
+    },
+    {
+      "opponent": "Geonosis arena",
+      "result": "Escape",
+      "method": "Escaped"
+    }
+  ],
+  "quotes": [
+    "So this is how liberty dies",
+    "You and I are meant to be together"
+  ],
+  "voice_acting": {
+    "native_language": "Natalie Portman",
+    "english": "Natalie Portman",
+    "note": "Original actress",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Lost will to live after Anakin fell",
+    "transformation": "Senator",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Queen",
+      "Senator",
+      "Mother"
+    ],
+    "role_in_story": "Supporting protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Royal ship"
+    ],
+    "vehicles": [
+      "Speeders"
+    ],
+    "headquarters": "Theed Palace",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Padmé Amidala is a fictional character in the Star Wars franchise. She first appeared in the 1999 film The Phantom Menace as the teenage queen of the fictional planet Naboo. In the following two films of the prequel trilogy, Padmé becomes a member of the Galactic Senate and secretly marries Anakin Skywalker, a Jedi Knight. Anakin has dreams of Padmé's death, and his fear drives him toward the dark side of the Force, which results in his transformation into Darth Vader. Padmé eventually dies after giving birth to the twins Luke Skywalker and Leia Organa.",
+  "note": null,
+  "source": "star_wars"
+}

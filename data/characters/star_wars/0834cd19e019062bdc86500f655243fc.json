@@ -1,0 +1,419 @@
+{
+  "id": "0834cd19e019062bdc86500f655243fc",
+  "name": "Ahsoka Tano",
+  "native_name": null,
+  "full_name": "Ahsoka Tano",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Togruta",
+    "race": null,
+    "bloodline": "Tano family",
+    "height_cm": 170,
+    "weight_kg": 54,
+    "age": "Born 36 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White (orange when young)",
+    "skin_color": "Orange",
+    "notable_features": [
+      "Head-tails",
+      "White facial markings",
+      "Lightsabers"
+    ],
+    "skin": "Orange",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Shili",
+    "current_location": "Unknown",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Knight",
+    "secondary": "Fulcrum",
+    "rank_title": "Jedi Padawan",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order",
+      "Rebellion"
+    ],
+    "previous": [
+      "Galactic Republic"
+    ],
+    "relatives": [
+      null
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: The Clone Wars (2008)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Leap",
+      "native_name": null,
+      "description": "Enhanced jumping",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Force Sense",
+      "native_name": null,
+      "description": "Sense presence",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Wide",
+      "limit": "None"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Jar'Kai master",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Force Heal",
+      "native_name": null,
+      "description": "Heal crystals",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Touch",
+      "limit": "Requires focus"
+    }
+  ],
+  "signature_moves": [
+    "Dual wield",
+    "Spin strike"
+  ],
+  "ultimate_move": "White blades",
+  "trump_card": "Master of Jar'Kai",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "The Force",
+    "combat_style": [
+      "Jar'Kai",
+      "Shien",
+      "Ataru"
+    ],
+    "weapon": "Lightsabers",
+    "equipment": [
+      "Green shoto",
+      "Green lightsaber",
+      "White lightsabers"
+    ],
+    "trump_card": "Master of Jar'Kai",
+    "ultimate_move": "White blades"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Clever",
+      "Independent",
+      "Loyal"
+    ],
+    "likes": [
+      "Adventure",
+      "Freedom",
+      "Her friends"
+    ],
+    "dislikes": [
+      "Authority",
+      "Injustice"
+    ],
+    "fear": "Abandonment",
+    "dream": "Find belonging",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Padawan to warrior",
+    "motivation": "Find purpose",
+    "affinity": "Light Side",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Served in Clone Wars",
+    "Defeated Darth Vader",
+    "Joined Rebellion"
+  ],
+  "titles": [
+    "Jedi Knight",
+    "Fulcrum",
+    "Commander"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Wanted by Empire"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 65,
+    "speed": 85,
+    "durability": 70,
+    "power": 80,
+    "combat": 92,
+    "total": 477
+  },
+  "weaknesses": {
+    "list": [
+      "Youth",
+      "Impulsiveness"
+    ],
+    "factors": [
+      "Limited experience"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Darth Vader",
+    "allies": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Bo-Katan"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Anakin Skywalker",
+        "relationship": "Master",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Empire",
+      "Inquisitors"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Vader",
+        "relationship": "Enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Anakin Skywalker",
+    "rival": null,
+    "mentor": "Anakin Skywalker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Bo-Katan"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Vader"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Bo-Katan"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Anakin Skywalker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Darth Vader",
+      "result": "Defeat",
+      "method": "Escaped"
+    },
+    {
+      "opponent": "Inquisitors",
+      "result": "Victory",
+      "method": "Duel"
+    }
+  ],
+  "quotes": [
+    "I'm no Jedi",
+    "Snips",
+    "Skyguy"
+  ],
+  "voice_acting": {
+    "native_language": "Ashley Eckstein",
+    "english": "Ashley Eckstein",
+    "note": "Original voice actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Active in galaxy",
+    "transformation": "Fulcrum",
+    "awakening_potential": "Powerful Jedi",
+    "power_evolution": [
+      "Youngling",
+      "Padawan",
+      "Warrior",
+      "Fulcrum"
+    ],
+    "role_in_story": "Supporting protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Phantom"
+    ],
+    "vehicles": [
+      "Speeder"
+    ],
+    "headquarters": "Various",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Ahsoka Tano (; ə-SO-kə TAH-no) is a fictional character in the Star Wars franchise. She was introduced as the 14-year-old Togruta Jedi Padawan of Anakin Skywalker in the animated film Star Wars: The Clone Wars (2008) before appearing in the subsequent animated television series (2008–2014; 2020); the sequel series Star Wars Rebels (2014–2018); in the live-action film Star Wars: The Rise of Skywalker (2019) as a voiceover cameo; and in the miniseries Tales of the Jedi (2022), all voiced by Ashley Eckstein. In 2020, Ahsoka made her live-action debut in the second season of the Disney+ series The Mandalorian, portrayed by Rosario Dawson. Dawson reprised the role in a 2022 episode of the spin-off series The Book of Boba Fett, and the 2023 series, Ahsoka.",
+  "note": null,
+  "source": "star_wars"
+}

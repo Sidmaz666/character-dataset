@@ -1,0 +1,317 @@
+{
+  "id": "447d8d45d732a8f76193431667351380",
+  "name": "Callisto",
+  "native_name": null,
+  "full_name": "Callisto",
+  "basic_info": {
+    "gender": "Female",
+    "species": null,
+    "race": null,
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 74,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Excalibur",
+      "Morlocks",
+      "Gene Nation"
+    ],
+    "previous": [],
+    "relatives": [
+      "-"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "X-MEN (first series) #169",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful None with superhuman attributes",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 52,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Ring"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Calm",
+      "Cunning",
+      "Ambitious"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Slow speed",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Slow speed"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Evil",
+    "alignment": "Evil"
+  },
+  "achievements": [
+    "Considered to be their remnants",
+    "Considered the most suitable to base possible future crewed missions on to study the Jovian system",
+    "Discovered in 1610 with one of the first telescopes"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 53,
+    "speed": 23,
+    "durability": 42,
+    "power": 52,
+    "combat": 85,
+    "total": 318
+  },
+  "weaknesses": {
+    "list": [
+      "Slow speed"
+    ],
+    "factors": [
+      "slow speed"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Excalibur",
+      "Morlocks",
+      "Gene Nation"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Excalibur",
+      "Morlocks",
+      "Gene Nation"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Excalibur",
+      "Morlocks",
+      "Gene Nation"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Callisto ( kə-LIST-oh) is the second-largest moon of Jupiter, after Ganymede. It is also the third-largest moon in the Solar System, following Ganymede and Saturn's moon Titan, and nearly as large as the planet Mercury. With a diameter of 4,821 km, Callisto is roughly a third larger than Earth's Moon and orbits Jupiter on average at a distance of 1.883 million km, which is about five times further out than the Moon orbiting Earth. It is the outermost of the four large Galilean moons of Jupiter, which were discovered in 1610 with one of the first telescopes, and is today visible from Earth with common binoculars.\nThe surface of Callisto is the oldest and most heavily cratered in the Solar System, with the surface almost completely covered with impact craters. It does not show any signatures of subsurface processes such as plate tectonics or volcanism, and is thought to have evolved predominantly under the influence of impacts. Prominent surface features include multi-ring structures, variously shaped impact craters, and chains of craters called catenae and associated scarps, ridges and deposits. At a small scale, the surface is varied and made up of small, sparkly frost deposits at the tips of high spots, surrounded by a low-lying, smooth blanket of dark material. This is thought to result from the sublimation-driven degradation of small landforms, which is supported by the general deficit of small impact craters and the presence of numerous small knobs, considered to be their remnants. The absolute ages of the landforms are not known.\nCallisto is composed of approximately equal amounts of rock and ice, with a density of about 1.83 g/cm3, the lowest density and surface gravity of Jupiter's major moons. Compounds detected spectroscopically on the surface include water ice, carbon dioxide, silicates and organic compounds. Investigation by the Galileo spacecraft revealed that Callisto may have a small silicate core and possibly a subsurface ocean of liquid water at depths greater than 100 km.\nIt is not in an orbital resonance like the three other Galilean satellites—Io, Europa and Ganymede—and is thus not appreciably tidally heated. Callisto's rotation is tidally locked to its orbit around Jupiter, so that it always faces the same direction, making Jupiter appear to hang directly overhead over its near-side. It is less affected by Jupiter's magnetosphere than the other inner satellites because of its more remote orbit located just outside Jupiter's main radiation belt. Callisto is surrounded by an extremely thin atmosphere composed of carbon dioxide and probably molecular oxygen, as well as by a rather intense ionosphere. Callisto is thought to have formed by slow accretion from the disk of the gas and dust that surrounded Jupiter after its formation. Callisto's gradual accretion and the lack of tidal heating meant that not enough heat was available for rapid differentiation. The slow convection in the interior of Callisto, which commenced soon after formation, led to partial differentiation and possibly to the formation of a subsurface ocean at a depth of 100–150 km and a small, rocky core.\nThe likely presence of an ocean within Callisto leaves open the possibility that it could harbor life. However, conditions are thought to be less favorable than those on nearby Europa. Various space probes, including Pioneers 10 and 11, Galileo, and Cassini, have studied Callisto. Because of its low radiation levels, Callisto has long been considered the most suitable to base possible future crewed missions on to study the Jovian system.",
+  "note": null,
+  "source": "marvel"
+}

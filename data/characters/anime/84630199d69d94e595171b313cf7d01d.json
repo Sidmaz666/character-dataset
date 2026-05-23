@@ -1,0 +1,489 @@
+{
+  "id": "84630199d69d94e595171b313cf7d01d",
+  "name": "Goku",
+  "native_name": "孫悟空",
+  "full_name": "Son Goku (born Kakarot)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Saiyan",
+    "race": "Saiyan",
+    "bloodline": "Bardock (father), Gine (mother)",
+    "height_cm": 175,
+    "weight_kg": 62,
+    "age": "Early 40s (appears late 20s)",
+    "birthday": "April 16",
+    "zodiac": "Aries",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black (turns golden in Super Saiyan forms)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Black hair (spiky)",
+      "Iconic orange gi",
+      "Tail (regrows occasionally)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Planet Vegeta",
+    "current_location": "Earth",
+    "base_of_operations": "Mount Paozu",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Martial Artist/Fighter",
+    "secondary": "Z Fighter, Farmer",
+    "rank_title": "Saiyan warrior",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Z Fighters",
+      "Dragon Team"
+    ],
+    "previous": [
+      "Saiyan race"
+    ],
+    "relatives": [
+      "Chi-Chi (wife)",
+      "Gohan (son)",
+      "Goten (son)",
+      "Vegeta (rival/friend)",
+      "Grandpa Gohan (adoptive father, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Episode 1",
+    "manga": "Dragon Ball Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Saiyan Transformations",
+      "native_name": "超サイヤ人変身",
+      "description": "Can transform through multiple levels: Super Saiyan (50x), Super Saiyan 2 (100x), Super Saiyan 3 (400x), Super Saiyan God, Super Saiyan Blue, Ultra Instinct.",
+      "type": "Transformation/Enhancement",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Each form drains more stamina"
+    },
+    {
+      "name": "Kamehameha",
+      "native_name": "かめはめ波",
+      "description": "Powerful energy wave concentrated through both hands. Goku's signature technique learned from Master Roshi.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Requires charging time"
+    },
+    {
+      "name": "Kaio-ken",
+      "native_name": "界王拳",
+      "description": "Multiplies power by a set factor. Can stack with Super Saiyan forms for massive power increases.",
+      "type": "Enhancement",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Severe strain on body if overused"
+    },
+    {
+      "name": "Instant Transmission",
+      "native_name": "瞬間移動",
+      "description": "Teleports anywhere by sensing ki. Can transport others if they make physical contact.",
+      "type": "Utility/Support",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Unlimited (with ki sensing)",
+      "limit": "Requires ability to sense target's ki"
+    },
+    {
+      "name": "Spirit Bomb",
+      "native_name": "元気玉",
+      "description": "Gathers energy from all living things to create an immensely powerful energy sphere.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires time to gather energy; vulnerable while charging"
+    },
+    {
+      "name": "Ultra Instinct",
+      "native_name": "身み自在",
+      "description": "Awakened state where body moves autonomously without thinking. Highest level of martial arts mastery.",
+      "type": "Enhancement/Attack/Defense",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Extremely difficult to achieve and maintain"
+    }
+  ],
+  "signature_moves": [
+    "Kamehameha",
+    "Instant Transmission",
+    "Dragon Fist"
+  ],
+  "ultimate_move": "Ultra Instinct Mastered",
+  "trump_card": "Full power Ultra Instinct transformation",
+  "power_attributes": {
+    "power_type": "Ki-based martial arts",
+    "power_source": "Saiyan biology, ki energy",
+    "combat_style": [
+      "Martial arts mastery",
+      "Ki manipulation",
+      "Saiyan combat"
+    ],
+    "weapon": "N/A (uses martial arts)",
+    "equipment": [
+      "Orange gi",
+      "Weighted clothing (training)"
+    ],
+    "trump_card": "Full power Ultra Instinct transformation",
+    "ultimate_move": "Ultra Instinct Mastered"
+  },
+  "personality": {
+    "traits": [
+      "Pure-hearted",
+      "Battle-hungry",
+      "Loving",
+      "Naive",
+      "Determined",
+      "Always seeking stronger opponents"
+    ],
+    "likes": [
+      "Training",
+      "Fighting strong opponents",
+      "His family",
+      "Food"
+    ],
+    "dislikes": [
+      "Killing (reluctant to kill even enemies)",
+      "Seeing friends hurt",
+      "Frieza"
+    ],
+    "fear": "Nothing really fears him",
+    "dream": "Keep getting stronger and protect Earth",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "Goku transforms from a wild child with a tail to Earth's greatest defender. His innocent nature masks incredible battle instincts, and his love of fighting drives constant growth. He represents the eternal pursuit of martial arts perfection.",
+    "motivation": "Become the strongest fighter; protect Earth and loved ones",
+    "affinity": "Orange/Martial Arts",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "First Super Saiyan in 1000 years",
+    "Achieved Ultra Instinct (Angel-level power)",
+    "Defeated Frieza, Cell, Buu, Beerus, Jiren",
+    "Saved Earth and Universe 7 multiple times",
+    "First mortal to fight evenly with a God of Destruction"
+  ],
+  "titles": [
+    "Kakarot",
+    "Saiyan warrior",
+    "Earth's defender",
+    "The Hope of the Universe"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not officially tracked; would be infinite if it were"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 100,
+    "total": 585
+  },
+  "weaknesses": {
+    "list": [
+      "Pure heart makes him vulnerable to manipulation",
+      "Overconfident in battles",
+      "Often endangers himself with risky tactics",
+      "Takes enemies less seriously than he should"
+    ],
+    "factors": [
+      "Loves a good fight more than safety",
+      "Will lower guard against strong opponents",
+      "Food-driven distraction"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Frieza",
+    "allies": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo",
+      "Chi-Chi",
+      "Krillin",
+      "Bulma",
+      "Beerus"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Vegeta",
+        "relationship": "Rival/best friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Gohan",
+        "relationship": "Son",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Chi-Chi",
+        "relationship": "Wife",
+        "trust_level": "High (complicated)"
+      },
+      {
+        "name": "Piccolo",
+        "relationship": "Friend/mentor figure",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Frieza",
+      "Cell",
+      "Majin Buu",
+      "Jiren"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Frieza",
+        "relationship": "Destroyed his home planet",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Chi-Chi",
+    "best_friend": "Vegeta",
+    "rival": "Vegeta",
+    "mentor": "Master Roshi, King Kai, Kami",
+    "student": "Gohan, Goten",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo",
+      "Chi-Chi",
+      "Krillin",
+      "Bulma",
+      "Beerus"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Frieza",
+      "Vegeta"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Vegeta"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Gohan, Goten"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": "Son, Goten",
+    "niece": null,
+    "friends": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo",
+      "Chi-Chi",
+      "Krillin",
+      "Bulma",
+      "Beerus"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Master Roshi, King Kai, Kami"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Frieza",
+      "result": "Victory",
+      "method": "First Super Saiyan transformation"
+    },
+    {
+      "opponent": "Cell",
+      "result": "Victory",
+      "method": "Self-destructed, then returned to deliver finishing blow"
+    },
+    {
+      "opponent": "Majin Buu",
+      "result": "Victory",
+      "method": "Spirit Bomb with energy from everyone"
+    },
+    {
+      "opponent": "Jiren",
+      "result": "Victory",
+      "method": "Ultra Instinct Mastered"
+    }
+  ],
+  "quotes": [
+    "I am the hope of the universe. I am the answer to all living things that cry out for peace.",
+    "I'll do it again! I'll get stronger!",
+    "You thought I was dead, didn't you?",
+    "Power comes from truth."
+  ],
+  "voice_acting": {
+    "native_language": "Masako Nozawa (Japanese)",
+    "note": "Masako Nozawa has voiced Goku since the beginning",
+    "native_name": null,
+    "english": "Ceyli Delgadillo (Funimation",
+    "japanese": "Masako Nozawa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues training and protecting Earth",
+    "transformation": "From Saiyan infant to Ultra Instinct master",
+    "awakening_potential": "Could potentially achieve more forms",
+    "power_evolution": [
+      "Saiyan infant",
+      "Martial arts student",
+      "Super Saiyan",
+      "Super Saiyan God/Blue",
+      "Ultra Instinct"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flying Nimbus"
+    ],
+    "vehicles": [],
+    "headquarters": "Mount Paozu",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Dragon Ball Z: The Legacy of Goku is a series of video games for the Game Boy Advance, based on the anime series Dragon Ball Z and part of the Dragon Ball video game series. All three games are action role-playing games. The first game, Dragon Ball Z: The Legacy of Goku, was developed by Webfoot Technologies and released in 2002. The game was followed by two sequels: Dragon Ball Z: The Legacy of Goku II, released in 2003, and Dragon Ball Z: Buu's Fury, released in 2004. Buu's Fury was re-released in 2006 as part of a Game Boy Advance two-pack, which includes Dragon Ball GT: Transformation on the same cartridge. In 2016, Webfoot Technologies claimed to be starting development of another sequel.",
+  "note": null,
+  "source": "anime"
+}

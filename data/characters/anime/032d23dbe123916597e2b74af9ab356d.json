@@ -1,0 +1,317 @@
+{
+  "id": "032d23dbe123916597e2b74af9ab356d",
+  "name": "Makise Kurisu",
+  "native_name": "牧瀬紅莉栖",
+  "full_name": "Makise Kurisu",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "18",
+    "birthday": "July 25",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Akihabara",
+    "current_location": "Akihabara",
+    "base_of_operations": "Future Gadget Lab",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Steins;Gate",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Valkyrie",
+      "University"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Steins;Gate",
+    "manga": "Steins;Gate",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Scientific Knowledge",
+      "type": "Mental",
+      "description": "Deep understanding of theoretical physics",
+      "power_level": "High"
+    },
+    {
+      "name": "Invention",
+      "type": "Technical",
+      "description": "Skilled in creating experimental devices",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Deduction",
+      "type": "Mental",
+      "description": "Keen analytical and deductive abilities",
+      "power_level": "High"
+    }
+  ],
+  "signature_moves": [
+    "Scientific Knowledge",
+    "Invention",
+    "Deduction"
+  ],
+  "ultimate_move": "Scientific Knowledge",
+  "trump_card": "Invention",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Invention"
+    ],
+    "trump_card": "Invention",
+    "ultimate_move": "Scientific Knowledge"
+  },
+  "personality": {
+    "traits": [
+      "Eccentric",
+      "Brilliant",
+      "Passionate",
+      "Obsessive",
+      "Loyal"
+    ],
+    "likes": [
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Failure",
+    "dream": "Unknown",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Obsessive"
+    ]
+  },
+  "character": {
+    "arc": "Steins;Gate character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Asami Imai (Japanese)",
+    "Voiced by Trina Nishimura (English)"
+  ],
+  "titles": [
+    "Steins;Gate"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 75,
+    "speed": 75,
+    "durability": 75,
+    "power": 75,
+    "combat": 75,
+    "total": 450
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Valkyrie",
+      "University"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Trina Nishimura",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Asami Imai"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 18\nBirthdate: July 25 (Leo)\nBlood type: A\nHeight: 160 cm\nWeight: 45 kg\n\nThe female protagonist. Makise Kurisu is a research member in Victor Qondria University's Brain Research Program. Her age group matches that of third-year high schoolers, but she skipped a grade through America's educational system. She is also famous in America for writing thesis papers, part of which is covered in the news. Thanks to skipping a grade in America as a girl, she was envied by people around her, and ended up building a strong personality. She does not want to show weakness to others, so she always has a stern expression. However, she is very curious, and when she builds interest, she pokes into things. Occasionally, she has views that differ from regular opinions, such as, \"The experiment data is more important than the subject's privacy.\" Rintarou often tells her, \"Hey, you've got a pretty good sense of being a Mad Scientist,\" but she is not one to agree to such things personally. She is a tsundere.\n\nRintarou has given her plenty of nicknames, in particular \"Christina\" (クリスティーナ) and \"Assistant\" (助手).",
+  "note": null,
+  "source": "anime"
+}

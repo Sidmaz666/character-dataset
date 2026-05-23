@@ -1,0 +1,404 @@
+{
+  "id": "b4d85a03beab5a4e91226e800ef8b55d",
+  "name": "Jinbe",
+  "native_name": "ジンベエ",
+  "full_name": "Jinbe",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Fish-Man (Whale Shark)",
+    "race": "Fish-Man",
+    "bloodline": "Ryugu Kingdom",
+    "height_cm": 301,
+    "weight_kg": 180,
+    "age": "46",
+    "birthday": "April 9",
+    "zodiac": "Aries",
+    "blood_type": "F",
+    "weight_kkg": null,
+    "bmi": 19.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark blue",
+    "hair_color": "Dark blue (near black)",
+    "skin_color": "Blue with white underbelly",
+    "notable_features": [
+      "Whale shark features",
+      "Large size",
+      "Sharp teeth",
+      "Tattoos on arms"
+    ],
+    "skin": "Blue with white underbelly",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ryugu Kingdom, Fish-Man Island",
+    "current_location": "Thousand Sunny",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Helmsman",
+    "secondary": "Fish-Man Karate Master",
+    "rank_title": "Tenth crew member / Senior Officer",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet"
+    ],
+    "previous": [
+      "Sun Pirates",
+      "Whitebeard Pirates",
+      "Seven Warlords"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 69",
+    "manga": "One Piece Chapter 69",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Fish-Man Karate",
+      "native_name": "魚空手",
+      "description": "Master of Fish-Man Karate - can strike without physical contact using water particles in the air, deliver shockwaves, and manipulate water",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Less effective on land far from water"
+    },
+    {
+      "name": "Fish-Man Jujutsu",
+      "native_name": "魚柔術",
+      "description": "Grappling martial art combining Fish-Man karate and jujutsu for close combat",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Requires close proximity"
+    },
+    {
+      "name": "Haki",
+      "native_name": "霸氣",
+      "description": "Possesses both Armament and Observation Haki",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires strong will"
+    }
+  ],
+  "signature_moves": [
+    "Fish-Man Karate",
+    "Fish-Man Jujutsu",
+    "Haki-enhanced punches",
+    "Helmsmanship"
+  ],
+  "ultimate_move": "Fish-Man Karate: Koh* (air punch shockwave)",
+  "trump_card": "Fish-Man Karate Shigan (water manipulation)",
+  "power_attributes": {
+    "power_type": "Fish-Man Martial Arts",
+    "power_source": "Fish-Man Karate Dojo training",
+    "combat_style": [
+      "Fish-Man Karate",
+      "Fish-Man Jujutsu",
+      "Grappling"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Fish-Man Karate Shigan (water manipulation)",
+    "ultimate_move": "Fish-Man Karate: Koh* (air punch shockwave)"
+  },
+  "personality": {
+    "traits": [
+      "Honorable",
+      "Wise",
+      "Calm",
+      "Protective",
+      "Strategic"
+    ],
+    "likes": [
+      "Peace",
+      "Human-Fishman coexistence",
+      "Luffy",
+      "Sea"
+    ],
+    "dislikes": [
+      "Discrimination",
+      "Arrogance",
+      "Weakness"
+    ],
+    "fear": "Being unable to protect friends",
+    "dream": "Realize Fisher Tiger's dream of equality between humans and fish-men",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Strategic",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Former enemy who became ally - balanced peace activist and powerful fighter",
+    "motivation": "Making peace between humans and fish-men",
+    "affinity": "Sea/Balance",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Second captain of Sun Pirates",
+    "Seven Warlords of the Sea (former)",
+    "Defeated Jailer Beast with single uppercut",
+    "Helmsman of Straw Hat Pirates"
+  ],
+  "titles": [
+    "Knight of the Sea",
+    "Whale Shark Fish-Man"
+  ],
+  "bounty": {
+    "amount": 250000000,
+    "currency": "Berry",
+    "details": "Former bounty as Warlord unknown, current is high"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 95,
+    "speed": 80,
+    "durability": 95,
+    "power": 90,
+    "combat": 90,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Far from water",
+      "Slow movement on land"
+    ],
+    "factors": [
+      "Most powerful near sea"
+    ]
+  },
+  "relationships": {
+    "nemesis": "World Government (formerly)",
+    "allies": [
+      "Straw Hat Pirates",
+      "Whitebeard",
+      "Fisher Tiger"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Fisher Tiger",
+        "relationship": "Captain/Mentor",
+        "trust_level": "High - died for dream"
+      },
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Marines",
+      "World Government"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Fisher Tiger / Monkey D. Luffy",
+    "rival": null,
+    "mentor": "Fisher Tiger",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates",
+      "Whitebeard",
+      "Fisher Tiger",
+      "Fisher Tiger / Monkey D. Luffy"
+    ],
+    "colleague": null,
+    "enemy": [
+      "World Government (formerly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates",
+      "Whitebeard",
+      "Fisher Tiger",
+      "Fisher Tiger / Monkey D. Luffy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Fisher Tiger"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Marineford War - Multiple marines",
+      "result": "Victory",
+      "method": "Fish-Man Karate"
+    },
+    {
+      "opponent": "Minorhinoceros (Jailer Beast)",
+      "result": "Victory",
+      "method": "Single uppercut"
+    }
+  ],
+  "quotes": [
+    "I am the knight of the sea, Jinbe!",
+    "Even if it takes thousands of years, I will protect this dream!",
+    "Fish-men and humans... we can coexist!"
+  ],
+  "voice_acting": {
+    "native_language": "Katsuhisa Ht (Japanese)",
+    "note": "Japanese: Katsuhisa Ht",
+    "native_name": null,
+    "english": "Daniel Baugh",
+    "japanese": "Katsuhisa Houki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently helmsman of Straw Hats",
+    "transformation": null,
+    "awakening_potential": "Mastered all Fish-Man arts",
+    "power_evolution": [
+      "Fish-Man Karate black belt",
+      "Captain of Sun Pirates",
+      "Warlord",
+      "Helmsman"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Thousand Sunny",
+      "Marine battleships"
+    ],
+    "vehicles": [
+      "Thousand Sunny"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 44; 46\nBirthdate: April 2nd\nHeight: 301 cm\nBlood type: F\nAffiliation: \nPosition: Helmsman\nDevil fruit: none\nBounty: \nJinbe is a whale shark fishman who was the second captain of the Sunny Pirates after Fisher Tiger, and who became a Shichibukai eight years ago. Jinbe's name comes from jinbei-zame (甚平鮫), which means \"whale shark\" in Japanese. His epithet, Kaikyou would normally translate into \"Strait\" or \"Channel.\" However since the kanji for it is written as (海侠の) and not (海峡の), the kyou part (侠) of it comes from (任侠), a honorific used when addressing a high ranking yakuza member, thus making his epithet a Japanese pun.\n\n\n\n(Source: One Piece Wiki)",
+  "note": null,
+  "source": "anime"
+}

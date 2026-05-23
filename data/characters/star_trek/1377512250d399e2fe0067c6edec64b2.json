@@ -1,0 +1,415 @@
+{
+  "id": "1377512250d399e2fe0067c6edec64b2",
+  "name": "Gul Dukat",
+  "native_name": null,
+  "full_name": "Dukat",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cardassian",
+    "race": "Cardassian",
+    "bloodline": "Dukat",
+    "height_cm": 180,
+    "weight_kg": 82,
+    "age": "Unknown (appeared 40s in 2370s)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Gray/White (bald head with ridges)",
+    "skin_color": "Tan/Gray",
+    "notable_features": [
+      "Cardassian ridges",
+      "Bald head",
+      "Cold expression"
+    ],
+    "skin": "Tan/Gray",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cardassia Prime",
+    "current_location": "Various (deceased)",
+    "base_of_operations": "DS9 (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Gul (Military Commander)",
+    "secondary": "Prefect, Senator",
+    "rank_title": "Gul",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Cardassian Union (formerly)",
+      "Null (demoted/rejected)"
+    ],
+    "previous": [
+      "Cardassian Military",
+      "Obsidian Order"
+    ],
+    "relatives": [
+      "Tora Ziyal (daughter)",
+      "Mekor (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1993) - \"Emissary\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Natural military leader with charisma",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Serves Cardassian interests"
+    },
+    {
+      "name": "Political Manipulation",
+      "native_name": null,
+      "description": "Skilled in Cardassian politics",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Outmaneuvered by enemies"
+    },
+    {
+      "name": "Combat Skills",
+      "native_name": null,
+      "description": "Trained Cardassian military officer",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "Less than soldiers"
+    }
+  ],
+  "signature_moves": [
+    "Cardassian Politics",
+    "Military Tactics",
+    "Cold Calculation"
+  ],
+  "ultimate_move": "Controlling the Bajoran Occupation",
+  "trump_card": "Cardassian Military Power",
+  "power_attributes": {
+    "power_type": "Combat/Political",
+    "power_source": "Cardassian Training",
+    "combat_style": [
+      "Cardassian Military",
+      "Political Maneuvering"
+    ],
+    "weapon": "Phased Pulse Weapon",
+    "equipment": [
+      "Cardassian Technology"
+    ],
+    "trump_card": "Cardassian Military Power",
+    "ultimate_move": "Controlling the Bajoran Occupation"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Ruthless",
+      "Delusional",
+      "Proud",
+      "Vengeful"
+    ],
+    "likes": [
+      "Power",
+      "Control",
+      "His Daughter",
+      "Cardassia"
+    ],
+    "dislikes": [
+      "Failure",
+      "Disgrace",
+      "Bajorans (after occupation)"
+    ],
+    "fear": "Disgrace",
+    "dream": "Restoring Cardassian Glory",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "From proud Cardassian commander to villain who couldn't accept his role in Bajoran suffering",
+    "motivation": "Cardassian supremacy and personal glory",
+    "affinity": "Power",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Commanded Terok Nor occupation",
+    "Controlled Bajoran occupation",
+    "Had daughter with Bajoran",
+    "Became Cardassian senator",
+    "Sided with Dominion"
+  ],
+  "titles": [
+    "Gul",
+    "Prefect",
+    "The Collaborator"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 75,
+    "speed": 70,
+    "durability": 78,
+    "power": 80,
+    "combat": 75,
+    "total": 466
+  },
+  "weaknesses": {
+    "list": [
+      "Delusion About His Role",
+      "Pride",
+      "Vengeance"
+    ],
+    "factors": [
+      "Couldn't accept responsibility",
+      "Sided with enemies"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Benjamin Sisko",
+    "allies": [
+      "Benjamin Sisko (before), Tora Ziyal"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tora Ziyal",
+        "relationship": "Daughter",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Benjamin Sisko",
+      "Kira Nerys",
+      "Bajorans"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Benjamin Sisko",
+        "relationship": "Primary nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Tora Ziyal's mother, Kira Nerys (brief, twisted)",
+    "best_friend": "None",
+    "rival": "Benjamin Sisko",
+    "mentor": "None",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Benjamin Sisko (before), Tora Ziyal",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Benjamin Sisko"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Benjamin Sisko"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Benjamin Sisko, Tora Ziyal",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Benjamin Sisko",
+      "result": "Defeat",
+      "method": "Multiple confrontations"
+    },
+    {
+      "opponent": "Kira Nerys",
+      "result": "Defeat",
+      "method": "Multiple confrontations"
+    },
+    {
+      "opponent": "Bajorans",
+      "result": "Occupation ended",
+      "method": "Military occupation"
+    }
+  ],
+  "quotes": [
+    "I governed Bajor with a fair hand. The people prospered.",
+    "The Bajorans needed us. They just didn't know it.",
+    "I have nothing but respect for you, Benjamin."
+  ],
+  "voice_acting": {
+    "native_language": "Andrew Robinson",
+    "english": "Andrew Robinson",
+    "note": "Considered one of Star Trek's greatest villains",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Kira Nerys in 2375",
+    "transformation": "Became possessed by Pah-wraith",
+    "awakening_potential": "Achieved villainous status",
+    "power_evolution": [
+      "Officer",
+      "Prefect",
+      "Senator",
+      "Dominion Ally",
+      "Pah-wraith Host"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various Cardassian ships"
+    ],
+    "vehicles": [
+      "Runabout"
+    ],
+    "headquarters": "Terok Nor / Cardassia Prime",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Dukat is a fictional character from the television series Star Trek: Deep Space Nine. A member of the fictional Cardassian species, he is introduced as the former overseer of the series' namesake space station but goes on to become the leader of his species' governing body, the Cardassian Union. At times an enemy, while at others an ally of Benjamin Sisko, Dukat appears in 35 of the series' 176 episodes. He was portrayed by Marc Alaimo throughout. Dukat became a fan favorite among Star Trek fans and he is widely considered to be one of the most iconic villains in the Star Trek franchise.",
+  "note": null,
+  "source": "star_trek"
+}

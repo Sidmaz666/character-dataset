@@ -1,0 +1,400 @@
+{
+  "id": "322f6c75933db4530bcc552e0d53f53a",
+  "name": "Jango Fett",
+  "native_name": null,
+  "full_name": "Jango Fett",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Mandalorian",
+    "bloodline": "Fett Clan",
+    "height_cm": 183,
+    "weight_kg": 85,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark Brown",
+    "hair_color": "Black",
+    "skin_color": "Tanned",
+    "notable_features": [
+      "Mandalorian armor",
+      "T-visor helmet"
+    ],
+    "skin": "Tanned",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Concordia",
+    "current_location": "Deceased",
+    "base_of_operations": "Mobile (Ship: Slave I)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty Hunter",
+    "secondary": "Clone template",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Mandalorians"
+    ],
+    "previous": [
+      "True Mandalorians"
+    ],
+    "relatives": [
+      "Boba Fett (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode II: Attack of the Clones (2002)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Marksman",
+      "native_name": null,
+      "description": "Expert marksmanship with all blaster weapons",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Weapon dependent"
+    },
+    {
+      "name": "Jetpack Combat",
+      "native_name": null,
+      "description": "Use jetpack for aerial combat and mobility",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": "Fuel limited"
+    },
+    {
+      "name": "Unarmed Combat",
+      "native_name": null,
+      "description": "Highly skilled in hand-to-hand combat",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Requires close combat"
+    },
+    {
+      "name": "Expert Piloting",
+      "native_name": null,
+      "description": "Master starfighter pilot",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Requires vehicle"
+    }
+  ],
+  "signature_moves": [
+    "Dual blaster fire",
+    "Jetpack assault",
+    "Wrist blade attack"
+  ],
+  "ultimate_move": "Rocket Barrage",
+  "trump_card": "Z-6 Jetpack",
+  "power_attributes": {
+    "power_type": "None (Natural skills)",
+    "power_source": "Mandalorian training",
+    "combat_style": [
+      "Mandalorian combat",
+      "Blaster marksmanship"
+    ],
+    "weapon": "WESTAR-34 blaster pistols, flamethrower, jetpack",
+    "equipment": [
+      "Energized beskar armor",
+      "Slave I"
+    ],
+    "trump_card": "Z-6 Jetpack",
+    "ultimate_move": "Rocket Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Professional",
+      "Honorable",
+      "Reserved",
+      "Loyal to family"
+    ],
+    "likes": [
+      "Honorable contracts",
+      "Bounty hunting"
+    ],
+    "dislikes": [
+      "Betrayal",
+      "Jedi"
+    ],
+    "fear": "Losing his son",
+    "dream": "Live freely as bounty hunter",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Greatest bounty hunter, template for clone army, killed by Mace Windu",
+    "motivation": "Provide for his son Boba",
+    "affinity": "N/A",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Best bounty hunter in the galaxy",
+    "Template for Republic clone army",
+    "Trained Boba Fett",
+    "Worked for Count Dooku"
+  ],
+  "titles": [
+    "The Best Bounty Hunter"
+  ],
+  "bounty": {
+    "amount": 5000000,
+    "currency": "Republic Credits",
+    "details": "One of the highest bounties ever"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 75,
+    "durability": 75,
+    "power": 60,
+    "combat": 85,
+    "total": 445
+  },
+  "weaknesses": {
+    "list": [
+      "No Force sensitivity",
+      "Armor can be breached"
+    ],
+    "factors": "Vulnerable to Force users"
+  },
+  "relationships": {
+    "nemesis": "Mace Windu",
+    "allies": [
+      "Count Dooku",
+      "Kaminoans"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Boba Fett",
+        "relationship": "Son",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Jedi Order"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Mace Windu",
+        "relationship": "Jedi Master",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Boba Fett",
+    "rival": null,
+    "mentor": "Jaster Mereel",
+    "student": "Boba Fett",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Count Dooku",
+      "Kaminoans",
+      "Boba Fett"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mace Windu"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Boba Fett"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Boba Fett"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Boba Fett"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Count Dooku",
+      "Kaminoans",
+      "Boba Fett"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jaster Mereel"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mace Windu",
+      "result": "Defeat",
+      "method": "Beheaded by Windu's lightsaber"
+    },
+    {
+      "opponent": "Obi-Wan Kenobi",
+      "result": "Defeat",
+      "method": "Escaped but pursued"
+    }
+  ],
+  "quotes": [
+    "I'm just a simple man trying to make my way in the universe.",
+    "As you wish."
+  ],
+  "voice_acting": {
+    "native_language": "Temuera Morrison",
+    "english": "Temuera Morrison",
+    "note": "Portrayed by Temuera Morrison",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Beheaded by Mace Windu on Geonosis",
+    "transformation": "N/A",
+    "awakening_potential": "Could have continued as top bounty hunter",
+    "power_evolution": [
+      "Mandalorian warrior",
+      "Bounty hunter"
+    ],
+    "role_in_story": "Supporting antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Slave I"
+    ],
+    "vehicles": [],
+    "headquarters": "Ship: Slave I",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Jango Fett is a fictional character in the Star Wars franchise, created by George Lucas. He first appeared as the secondary antagonist of the 2002 film Star Wars: Episode II – Attack of the Clones, played by Temuera Morrison. The character is a Mandalorian bounty hunter, regarded as the best mercenary in the galaxy of his era, and the father of Boba Fett, an unmodified clone of Jango whom he kept as payment for serving as the genetic template of the Galactic Republic's clone army and raised as his son. After Jango's death at the hands of Mace Windu, Boba follows in his father's footsteps, using his father's armor, equipment, and ship, Slave I, to become a successful bounty hunter in his own right.",
+  "note": null,
+  "source": "star_wars"
+}

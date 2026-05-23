@@ -1,0 +1,296 @@
+{
+  "id": "ef4da68149519cfd4782b5dd442e4137",
+  "name": "Nara, Shikaku",
+  "native_name": "奈良 シカク",
+  "full_name": "Shikaku Nara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "blood_type": "B",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Jonin commander, Shikamaru's father",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konoha",
+    "current_location": "Konoha",
+    "base_of_operations": "Konoha",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "rank_title": "Jonin Commander",
+    "secondary": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konoha",
+      "Nara clan"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Naruto",
+    "manga": "Naruto",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Lazy",
+      "Brilliant",
+      "Strategic"
+    ],
+    "likes": [],
+    "dislikes": [
+      "Effort"
+    ],
+    "fear": "Failure",
+    "dream": "Protect village",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Konoha's strategic commander",
+    "motivation": "Protect village",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 75,
+    "combat": 75,
+    "total": 455
+  },
+  "relationships": {
+    "son": "Shikamaru",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shikamaru (son)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Shikamaru (son)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Shikamaru (son)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shikamaru"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Deceased",
+    "role_in_story": "Supporting character",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Stealth"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "Stealth gear"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Earned that Shikamaru's poor grades were a result of him finding lif"
+  ],
+  "titles": [
+    "Ninja"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Lazy"
+    ],
+    "factors": [
+      "lazy"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Konoha",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "Age: 12 (I); 15 (II)\nBirthday: September 22\nHoroscope: Virgo\nBlood Type: AB\nHeight: 170 cm\nWeight: 53.4 kg\nRank: Genin (I); Chuunin (II)\nLikes: taking naps, playing shogi\nDislikes: Hard-boiled eggs\n\nShikamaru is an extremely unenthusiastic person, and as such, lives his life avoiding work. This is partly due to him seeking paths of least resistance, as he often chooses to do things he would otherwise not do if people nag him enough. In his free time he typically takes naps, watches clouds, and plays strategy games such as Shogi and Go. When put into a situation where he potentially needs to put effort into something, he attempts to try to find a way to avoid it such as forfeiting a battle or by pretending to be preoccupied with something else. In the instances where he can not avoid these situations, Shikamaru tends to remark \"how troublesome.\"\n\nDespite his lazy tendencies, Shikamaru is extremely intelligent. His teacher, Asuma, found Shikamaru to have an IQ of over 200, and learned that Shikamaru's poor grades were a result of him finding lifting a pencil to be too much work for him. Nevertheless, Shikamaru works very well with his teammates, as their fathers were teamed together in their youth. Of his teammates, Shikamaru is closest with Chouji, who repays Shikamaru's confidence in him with unyielding loyalty. Shikamaru also has a strong bond with Asuma, often spending time with him playing strategy games. After Asuma's death, he even vows to protect Asuma and Kurenai's unborn child for his teacher's sake. Shikamaru has stated that he will make the child his apprentice someday.\n\nOne of Shikamaru's more distinctive characteristics is that he finds all women to be bossy and \"a pain.\" Contrary to this opinion, he has expressed a notably mature interest in marriage and raising a family with a son and daughter. Ironically, Shikamaru seems to constantly find himself surrounded by the very same strong-willed and bossy women he dislikes. In addition to his own mother, and being surrounded by bossy females, he usually ends up fighting against such women. Shikamaru has had a number of his appearances coincide with those of Temari. When they make their Part II debut together, Naruto Uzumaki asks if they are on a date, though both Shikamaru and Temari state that this is not the case.\n\nWhen the need arises, Shikamaru is quick to abandon his lazy nature and act appropriately to complete a mission or save his teammates. Using his Shadow Imitation Technique, the signature technique of his clan, he can capture the shadow of an opponent to either keep them immobilized or force them to mimic his movements. This ability causes Shikamaru to frequently take the task of stalling enemies so that his comrades can get to safety or to simply buy time. Although this role puts him in a dangerous position once he can no longer stall the opponent, Shikamaru is willing to serve it, feeling that sacrificing his life to ensure the safety of his friends is worth it. He then considers every element that is relevant to the situation at hand and analyzes the information to its fullest, planning out a battle ten moves in advance and devising over a hundred strategies to use against an opponent. This combination of intelligence and dedication to his teammates causes Shikamaru to become the first of the primary Konoha Genin to advance to the rank of Chunin.\n\nOnce becoming a Chunin, Shikamaru's father teaches him how to use his shadow technique more effectively, by using it to choke an opponent. This more interactive capability with his shadow is put to great use over the timeskip, and by Part II Shikamaru becomes proficient at using multiple shadow-based techniques at once. He is also able to manipulate his shadow to lift from the ground and either grab or throw weapons simply by utilizing an opponent's shadow for the same purpose. After he comes into the possession of Asuma's brass knuckles, Shikamaru learns to channel his shadow into them, using them to immobilize opponents by throwing them at an opponent's shadow to capture them and save himself the energy.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,338 @@
+{
+  "id": "5e6bb0b0c080959ea8284e2eb1462116",
+  "name": "Shunsui Kyoraku",
+  "native_name": "",
+  "full_name": "Shunsui Kyoraku",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Cancer",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Soul Society",
+    "base_of_operations": "Soul Society",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bleach",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "8th Division"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach",
+    "manga": "Bleach",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanjutsu",
+      "type": "Swordsmanship",
+      "description": "Expert in sword combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Kido",
+      "type": "Magic",
+      "description": "Able to cast demon magic spells",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hakuda",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hoho",
+      "type": "Movement",
+      "description": "Advanced movement techniques",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Zanjutsu",
+    "Kido",
+    "Hakuda"
+  ],
+  "ultimate_move": "Zanjutsu",
+  "trump_card": "Kido",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Magic",
+    "combat_style": [
+      "Magic",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Zanjutsu"
+    ],
+    "trump_card": "Kido",
+    "ultimate_move": "Zanjutsu"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Loyal",
+      "Proud",
+      "Disciplined",
+      "Protective"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Threats to loved ones",
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Bleach character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Daisuke Ono (Japanese)",
+    "Voiced by Robbie Daymond (English)"
+  ],
+  "titles": [
+    "Bleach"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 80,
+    "durability": 80,
+    "power": 80,
+    "combat": 80,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gotei 13",
+      "Karakura Town"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Robbie Daymond",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Daisuke Ono"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Captain of the 8th Division\nHeight: 192 cm\nWeight: 87 kg\nRace: Shinigami\nBirthday: July 11th\nZodiac: Cancer\nZanpakuto: Katen Kyoukotsu \nTheme Song: Carlos Gardel's \"Por una Cabeza\"\n\nKyouraku is a laid back and flamboyant man, evident in his style of dress and general attitude. He wears a straw hat and a pink flowered haori over his captain's uniform. Although his haori and obi sash are cheap, his pinwheel hairpin is very expensive. In his off time, he can be seen drinking sake and napping. Other times, he likes to chase after women, which is noted by Yasochika Iemura of the 4th Squad when commenting in his diary. In particular, he often flirts with his lieutenant, Nanao Ise, whom he calls 'my Nanao-chan' (little Nanao). In one of the omake outtakes he told Rangiku Matsumoto to buy Nanao Ise a sexy outfit while in the human world. Matsumoto brings back a skimpy two piece bathing suit which Nanao refuses to try on. He is close friends with 13th Division Captain Jushiro Ukitake, with whom he graduated from the shinigami academy and works with often.\n\nKyouraku tends to use a more familiar speech style than most other characters in Bleach. He generally refers to his fellow captains and shinigami by their first name followed by an honorific, and is the only character who dispenses with honorifics when addressing General Yamamoto, calling him old Yama (Yama-jī). Even Ukitake, who was also taught by Yamamoto, does not do this.\n\nKyouraku is a peace-loving man who will always try to talk his way out of a fight. However, he does not wish to insult his opponents by not fighting, either, as he explains to Chad. Since he has achieved the rank of captain, it is implied that he must be a powerful fighter, but the true extent of his abilities has not been seen in the series. General Yamamoto states that Kyouraku and Jushiro Ukitake, both of whom he trained himself, possess \"greater powers on the battlefield than any younger generation, or old,\" suggesting that the two are more powerful than any other captains, with the possible exception of Yamamoto himself.\n\nThe slightly eccentric Kyouraku also seems to like making an impression on opponents. In the Soul Society arc, when Kyouraku confronts Chad who had invaded the 8th division area, he has Nanao Ise scatter rose petals over him to make a dramatic entrance. It creates this effect at first, but when Nanao doesn't stop dropping the petals and Kyouraku begins to exhort her to stop in an embarrassing manner, she dumps the whole basket on him, burying him and ruining his entrance.\n\n\n\n(Source: Wikipedia, Bleach Official Character Book Souls page 136)",
+  "note": null,
+  "source": "anime"
+}

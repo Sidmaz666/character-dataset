@@ -1,0 +1,375 @@
+{
+  "name": "Xianxia Cultivator",
+  "native_name": null,
+  "full_name": "Xianxia Cultivator",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Cultivator)",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 70,
+    "age": "Variable (Cultivation slows aging)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Varies",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Taoist robes",
+      "Spiritual aura",
+      "Flying sword"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mortal World",
+    "current_location": "Cultivation World",
+    "base_of_operations": "Sect/Cave Dwelling",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Cultivator",
+    "secondary": "Immortal seeker",
+    "rank_title": "Daoist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sect"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Cultivation Anime",
+    "manga": "Manhua",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Qi Cultivation",
+      "type": "Energy",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long"
+    },
+    {
+      "name": "Flying Sword",
+      "type": "Weapon",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long"
+    },
+    {
+      "name": "Spiritual Sense",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long"
+    },
+    {
+      "name": "Elemental Spells",
+      "type": "Mystical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Flying Sword Strike",
+    "Spirit Palm",
+    "Qi Blast"
+  ],
+  "ultimate_move": "Dao Revelation",
+  "trump_card": "Cultivation Breakthrough",
+  "power_attributes": {
+    "power_type": "Qi/Cultivation",
+    "power_source": "Heaven and Earth Qi",
+    "combat_style": [
+      "Qi-based",
+      "Sword",
+      "Magical"
+    ],
+    "weapon": "Flying Sword",
+    "equipment": [
+      "Taoist robes",
+      "Spiritual treasures"
+    ],
+    "trump_card": "Cultivation Breakthrough",
+    "ultimate_move": "Dao Revelation"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Patient",
+      "Ambitious",
+      "Disciplined"
+    ],
+    "likes": [
+      "Cultivation",
+      "Pills",
+      "Treasures",
+      "Power"
+    ],
+    "dislikes": [
+      "Demon cultivators",
+      "Bullies",
+      "Interference"
+    ],
+    "fear": "Cultivation deviation",
+    "dream": "Achieve Immortality",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Patient",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A cultivator on the path to immortality in a xianxia world. Starts weak but cultivates through stages: Qi Condensation, Foundation Establishment, Core Formation, Nascent Soul, Spirit Severing, Dao Seeking, Immortal Ascension.",
+    "motivation": "Reach the peak of cultivation",
+    "affinity": "Cultivation",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Cultivation breakthroughs",
+    true
+  ],
+  "titles": [
+    "Xianxia Cultivator",
+    "Daoist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 80,
+    "speed": 78,
+    "durability": 75,
+    "power": 90,
+    "combat": 80,
+    "total": 475
+  },
+  "weaknesses": {
+    "list": [
+      "Cultivation bottleneck",
+      "Heart demons",
+      "Sect politics"
+    ],
+    "factors": [
+      "Can plateau",
+      "Internal demons"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Demon cultivators",
+    "allies": [
+      "Sect",
+      "Fellow cultivators"
+    ],
+    "enemies": [
+      "Demons",
+      "Rival sects"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": "Sect elder",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sect",
+      "Fellow cultivators"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demon cultivators"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sect",
+      "Fellow cultivators"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Sect elder"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Demon cultivators",
+      "result": "Victories",
+      "method": "Qi cultivation techniques"
+    }
+  ],
+  "quotes": [
+    "The path to immortality is long, but I walk it unafraid."
+  ],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Cultivating towards immortality",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Mortal",
+      "Qi Condensation",
+      "Foundation",
+      "Core Formation",
+      "Nascent Soul",
+      "Spirit Severing",
+      "Dao Seeking"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flying sword",
+      "Cloud jumping"
+    ],
+    "vehicles": [],
+    "headquarters": "Cave Dwelling/Sect",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "id": "f3c94713e0c74c7659a32329412e6ab7",
+  "publisher": "anime",
+  "about": "Grandmaster of Demonic Cultivation (Chinese: 魔道祖师; pinyin: Módào Zǔshī; lit. 'Demonic Path Ancestral Master'), or MDZS, is a danmei novel written by Chinese author Mo Xiang Tong Xiu, also known as MXTX. The story is set in a fictional xianxia world where humans known as \"cultivators\" specialize in spiritual, physical, and paranormal pursuits to achieve transcendence from mortality. It tells the tale of the eponymous Wei Wuxian, who diverged from conventional practices and invented an unorthodox path of cultivation.\nGrandmaster of Demonic Cultivation follows several interwoven stories: two parallel tales recounting the events of Wei Wuxian's past and present lives, the investigation of the mystery behind a fierce dismembered entity presently terrorizing the cultivation world, and the development of the novel's central love story between Wei Wuxian and Lan Wangji, his former classmate and fellow cultivator.\nWithin the world of Grandmaster of Demonic Cultivation, issues concerning loyalty, classism, power and corruption, perception vs. reality, and ethics of violence frequently come about. The story is littered with true magical elements and supernatural beings, but the focus is on human characters in grounded conflicts.\nThe novel originated as a serialized fiction on the Chinese online platform Jinjiang Literature City from 2015 to 2016. As of December 2022, it has been officially translated into 11 different languages. The first two volumes of the ongoing official English translation reached The New York Times Best Seller list upon their release.\nAmong its official multimedia adaptations are a webcomic, an audio drama, an animated series and its spin-off, an audiobook, a live action web series, and an upcoming mobile game.\nGrandmaster of Demonic Cultivation is noted for the vast popularity and proliferation of its same-sex romantic couple Wangxian, and for its intensely devoted fan community both within China and abroad.",
+  "note": null,
+  "source": "anime"
+}

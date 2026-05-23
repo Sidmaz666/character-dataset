@@ -1,0 +1,430 @@
+{
+  "id": "0f8ae6d6cb6c852438f5091f75bed94a",
+  "name": "Kaede Rukawa",
+  "native_name": "流川楓",
+  "full_name": "Kaede Rukawa",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 187,
+    "weight_kg": 75,
+    "age": "16",
+    "birthday": "January 1",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 21.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Handsome face",
+      "Cool expression",
+      "Athletic build",
+      "Dark hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Shohoku High School",
+    "base_of_operations": "Shohoku Basketball Team",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Basketball Player",
+    "rank_title": "Small Forward",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Shohoku High School",
+      "Shohoku Basketball Team"
+    ],
+    "previous": [
+      "Furukawa Middle School"
+    ],
+    "relatives": [
+      "Parents"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Slam Dunk Episode 1",
+    "manga": "Slam Dunk Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Scoring",
+      "native_name": "得点力",
+      "description": "Elite scorer with versatile offensive moves - drives, jump shots, layups, dunks.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "All range",
+      "limit": "Can be selfish"
+    },
+    {
+      "name": "One-on-One",
+      "native_name": "一対一",
+      "description": "Exceptional isolation player, nearly unstoppable in 1v1 situations.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "All",
+      "limit": "Team play issues"
+    },
+    {
+      "name": "All-Court Player",
+      "native_name": "オールコートプレイヤー",
+      "description": "Can play and defend all positions, complete basketball player.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Full court",
+      "limit": "None"
+    },
+    {
+      "name": "Clutch Gene",
+      "native_name": "プレッシャー",
+      "description": "Performs best in crucial moments, cold under pressure.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Fadeaway jumper",
+    "Drive and dunk",
+    "Three-pointer"
+  ],
+  "ultimate_move": "Game-winning shot",
+  "trump_card": "Unconscious team play (when awakened)",
+  "power_attributes": {
+    "power_type": "Basketball skill",
+    "power_source": "Natural talent + training",
+    "combat_style": [
+      "Small forward play",
+      "Scoring"
+    ],
+    "weapon": "Basketball",
+    "equipment": [
+      "Basketball shoes"
+    ],
+    "trump_card": "Unconscious team play (when awakened)",
+    "ultimate_move": "Game-winning shot"
+  },
+  "personality": {
+    "traits": [
+      "Cool",
+      "Arrogant",
+      "Focused",
+      "Competitive",
+      "Quiet",
+      "Determined"
+    ],
+    "likes": [
+      "Basketball",
+      "Winning",
+      "Sleeping",
+      "Challenge"
+    ],
+    "dislikes": [
+      "Losing",
+      "Sakuragi",
+      "Distractions",
+      "Team talk"
+    ],
+    "fear": "Not being the best",
+    "dream": "Go to America, become best in Japan",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Focused"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Rukawa is the ace scorer who initially plays selfishly. Through competition with Sakuragi and team play, he learns to trust teammates while maintaining his scoring prowess.",
+    "motivation": "Become the best player in Japan, go to America",
+    "affinity": "Black/Cool",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Shohoku ace scorer",
+    "All-Star first year",
+    "Defeated Sannoh",
+    "Top 5 in nation"
+  ],
+  "titles": [
+    "Ace",
+    "Rukawa the scoring machine",
+    "Cool guy"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 80,
+    "speed": 85,
+    "durability": 75,
+    "power": 90,
+    "combat": 90,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Selfish play",
+      "Doesn't pass enough",
+      "Arrogant",
+      "Sleepy in class"
+    ],
+    "factors": [
+      "Team chemistry early on"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Sakuragi (rival)",
+    "allies": [
+      "Takenori Akagi",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Hanamichi Sakuragi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hanamichi Sakuragi",
+        "relationship": "Teammate/rival",
+        "trust_level": "Medium-High"
+      },
+      {
+        "name": "Takenori Akagi",
+        "relationship": "Captain/teammate",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Sendoh (rival)",
+      "Fukuda (Kainan)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Many fangirls (uninterested)",
+    "best_friend": "None",
+    "rival": "Hanamichi Sakuragi, Sendoh",
+    "mentor": "Coach Anzai",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Takenori Akagi",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Hanamichi Sakuragi",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sakuragi (rival)",
+      "Hanamichi Sakuragi, Sendoh"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Sakuta Azusagawa"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Sakuta Azusagawa"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hanamichi Sakuragi, Sendoh"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Takenori Akagi",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Hanamichi Sakuragi",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Coach Anzai"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sannoh High",
+      "result": "Victory",
+      "method": "Team play, scoring"
+    },
+    {
+      "opponent": "Kainan",
+      "result": "Loss",
+      "method": "Scoring effort"
+    }
+  ],
+  "quotes": [
+    "Hn.",
+    "I'll send you to the hospital.",
+    "Basketball is all I care about.",
+    "America..."
+  ],
+  "voice_acting": {
+    "native_language": "Hikaru Midorikawa (Japanese)",
+    "note": "Cool, calm voice",
+    "native_name": null,
+    "english": "David Lee McKinney",
+    "japanese": "Hikaru Midorikawa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues basketball, aims for America",
+    "transformation": "Learns team play",
+    "awakening_potential": "Very high - national level talent",
+    "power_evolution": [
+      "Middle school star",
+      "High school freshman",
+      "All-Star",
+      "Team player"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Bicycle"
+    ],
+    "vehicles": [],
+    "headquarters": "Shohoku gymnasium",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14-15\nBirthday: November 5 (Scorpio) (panda Kaede's birthday), November 25 (Sagittarius) (Kaede's actual birthday)\nHeight: 5'3\" (162 cm)\nOccupation: Student\nAffiliation: Minegahara Middle School, 3rd Year\n\nKaede Azusagawa is one of the main characters of the Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai series. She is the younger sister of Sakuta Azusagawa who suffered from Adolescence Syndrome stemming from online bullying. Since then, she has lived with Sakuta and has not attended school.\n\n\n\n\n\n\n\n(Source: Seishun Buta Yarou Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

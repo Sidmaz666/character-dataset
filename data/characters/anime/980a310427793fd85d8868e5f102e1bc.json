@@ -1,0 +1,408 @@
+{
+  "id": "980a310427793fd85d8868e5f102e1bc",
+  "name": "Kanata (Re:Monster)",
+  "native_name": "カナタ",
+  "full_name": "Kanata (Re:Monster - Tomokui Kanata)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Goblin (Reincarnated)",
+    "race": "Goblin",
+    "bloodline": "Kanata",
+    "height_cm": 50,
+    "weight_kg": 5,
+    "age": "30 (reincarnated as goblin baby)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Dark",
+    "skin_color": "Green (goblin)",
+    "notable_features": [
+      "Small goblin form",
+      "Ability to evolve and grow",
+      "Sharp teeth"
+    ],
+    "skin": "Green (goblin)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan (Earth, as human)",
+    "current_location": "Fantasy World",
+    "base_of_operations": "Wandering",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Adventurer (Goblin)",
+    "secondary": "Devourer",
+    "rank_title": "Evolving Overlord",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rou (Elves)",
+      "Kasumi",
+      "Naofumi"
+    ],
+    "previous": [
+      "Japan (Human Life)"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Re:Monster (2024)",
+    "manga": "Re:Monster",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Devour",
+      "native_name": "消化",
+      "description": "Can devour anything to gain abilities, memories, and power. Core mechanic.",
+      "type": "Absorption",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Touch",
+      "limit": "None"
+    },
+    {
+      "name": "Evolution",
+      "native_name": "進化",
+      "description": "Can evolve into stronger forms by consuming powerful beings.",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Requires strong prey"
+    },
+    {
+      "name": "Ability Absorption",
+      "native_name": "能力吸収",
+      "description": "Gains abilities and skills from consumed enemies.",
+      "type": "Power Stealing",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Memory Ingestion",
+      "native_name": "記憶取り込み",
+      "description": "Can read memories of consumed beings.",
+      "type": "Intelligence",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Requires recent devour"
+    },
+    {
+      "name": "Acidic Secretion",
+      "native_name": "酸分泌",
+      "description": "Can secrete acid to break down materials.",
+      "type": "Elemental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short",
+      "limit": "None"
+    },
+    {
+      "name": "Gourmet",
+      "native_name": "グルメ",
+      "description": "Special skill that increases benefits from devouring.",
+      "type": "Enhancement",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Ruler",
+      "native_name": "支配者",
+      "description": "Special skill for ruling and managing territories.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Limited"
+    }
+  ],
+  "signature_moves": [
+    "Devour Everything",
+    "Ability Steal",
+    "Goblin Evolution"
+  ],
+  "ultimate_move": "Ultimate Evolution",
+  "trump_card": "Full Power Evolution",
+  "power_attributes": {
+    "power_type": "Devour/Evolution",
+    "power_source": "Reincarnation + Devour Ability",
+    "combat_style": [
+      "Physical Combat",
+      "Ability Stealing",
+      "Acid Attacks"
+    ],
+    "weapon": "Claws (evolving)",
+    "equipment": [],
+    "trump_card": "Full Power Evolution",
+    "ultimate_move": "Ultimate Evolution"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Pragmatic",
+      "Strategic",
+      "Protective of allies",
+      "Ambitious"
+    ],
+    "likes": [
+      "Strong prey",
+      "Power",
+      "Rou"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Threats to allies"
+    ],
+    "fear": "None shown",
+    "dream": "Become the strongest being",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Died and reincarnated as weak goblin, must devour to become strongest",
+    "motivation": "Survive and grow stronger by devouring",
+    "affinity": "Dark/Evolution",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Evolved from weak goblin to powerful being",
+    "Devoured numerous powerful enemies",
+    "Built following of evolved beings"
+  ],
+  "titles": [
+    "Kanata (Goblin)",
+    "The Devourer",
+    "Evolver"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 90,
+    "speed": 85,
+    "durability": 85,
+    "power": 95,
+    "combat": 88,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [
+      "Weak initial form",
+      "Need to devour strong beings to grow"
+    ],
+    "factors": [
+      "ruthless"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Rou (Elves)",
+      "Kasumi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rou (Elves)",
+        "relationship": "Companion",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rou (Elves)",
+      "Kasumi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rou",
+      "Kasumi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'll devour everything to become stronger."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Japanese dub available",
+    "native_name": null,
+    "japanese": "Hisako Kanemoto"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues evolving",
+    "transformation": "Multiple Evolution Stages",
+    "awakening_potential": "Infinite through devouring",
+    "power_evolution": [
+      "Weak Goblin",
+      "Goblin+",
+      "Higher Evolutions"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Wandering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "An athletic young man who wants to be the captain of his own spaceship one day. Elected the de-facto captain of the group.\n\n(Source: TV Tropes)",
+  "note": null,
+  "source": "anime"
+}

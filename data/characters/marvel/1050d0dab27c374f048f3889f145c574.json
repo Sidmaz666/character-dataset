@@ -1,0 +1,320 @@
+{
+  "id": "1050d0dab27c374f048f3889f145c574",
+  "name": "Dagger",
+  "native_name": null,
+  "full_name": "Tandy Bowen",
+  "basic_info": {
+    "gender": "Female",
+    "species": null,
+    "race": null,
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": 52,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Shaker Heights, Ohio",
+    "current_location": null,
+    "base_of_operations": "Holy Ghost Church, 42nd Street, New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Cloak and Dagger",
+      "Defenders",
+      "League of Losers",
+      "Marvel Knights",
+      "New Warriors"
+    ],
+    "previous": [],
+    "relatives": [
+      "Melissa Bowen (mother)",
+      "unnamed father",
+      "Phillip Carlisle (stepfather)",
+      "Father Michael Bowen (uncle)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Spectacular Spiderman #64",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful None with superhuman attributes",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 52,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Blade",
+      "Dagger"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Lady Light"
+  ],
+  "titles": [
+    "Lady Light"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 35,
+    "durability": 42,
+    "power": 52,
+    "combat": 70,
+    "total": 272
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak"
+    ],
+    "factors": [
+      "physically weak"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Cloak and Dagger",
+      "Defenders",
+      "League of Losers"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Cloak and Dagger",
+      "Defenders",
+      "League of Losers"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Cloak and Dagger",
+      "Defenders",
+      "League of Losers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Holy Ghost Church, 42nd Street, New York City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "A dagger is a fighting knife with a very sharp point and usually one or two sharp edges, typically designed or capable of being used as a cutting or thrusting weapon. Daggers have been used throughout human history for close combat confrontations, and many cultures have used adorned daggers in ritual and ceremonial contexts. The dagger's distinctive shape and historic usage have made it iconic and symbolic. In the modern sense, a dagger is designed for close-proximity combat or self-defense; due to its use in historic weapon assemblages, it has associations with assassination and murder. However, double-edged knives play different roles in different social contexts.\nA wide variety of thrusting knives have been described as daggers, including knives that feature only a single cutting edge, such as the European rondel dagger or the Afghan pesh-kabz, or, in some instances, no cutting edge at all, such as the stiletto of the Renaissance. However, in the last hundred years or so, in most contexts, a dagger has specific definable characteristics, including a short blade with a sharply tapered point, a central spine or fuller, and usually two cutting edges sharpened the entire length of the blade, or nearly so. Most daggers also feature a full crossguard to keep the hand from riding forwards onto the sharpened blade edges.\nDaggers are primarily weapons, so knife legislation in many places restricts their manufacture, sale, possession, transport, or use.",
+  "note": null,
+  "source": "marvel"
+}

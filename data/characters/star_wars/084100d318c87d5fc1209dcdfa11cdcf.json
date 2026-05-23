@@ -1,0 +1,394 @@
+{
+  "id": "084100d318c87d5fc1209dcdfa11cdcf",
+  "name": "Mace Windu",
+  "native_name": null,
+  "full_name": "Mace Windu",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 188,
+    "weight_kg": 84,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Purple lightsaber",
+      "Jedi Master robes"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Haruun Kal",
+    "current_location": "Deceased",
+    "base_of_operations": "Jedi Temple, Coruscant",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Master",
+    "secondary": "Member of Jedi High Council",
+    "rank_title": "Master of the Order",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order",
+      "Jedi High Council"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode I: The Phantom Menace (1999)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Vaapad",
+      "native_name": "Vaapad",
+      "description": "Form VII lightsaber combat style, the most aggressive and dangerous form, created by Windu himself. It channeled the dark side without falling to it.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires intense concentration"
+    },
+    {
+      "name": "Shatterpoint",
+      "native_name": "Shatterpoint",
+      "description": "Unique ability to see faultlines in the Force that could affect the destinies of individuals and the galaxy itself.",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Only Windu mastered this ability"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": "Force Telekinesis",
+      "description": "Can move objects and individuals with the Force, including summoning his lightsaber from a distance.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Force Crush",
+      "native_name": "Force Crush",
+      "description": "Dark side ability to crush objects and body parts, used against General Grievous.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": "Dark side technique"
+    }
+  ],
+  "signature_moves": [
+    "Purple lightsaber strikes",
+    "Shatterpoint",
+    "Vaapad assault"
+  ],
+  "ultimate_move": "Vaapad Victory",
+  "trump_card": "Shatterpoint",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "Jedi training & Dark side proximity",
+    "combat_style": [
+      "Lightsaber combat",
+      "Vaapad"
+    ],
+    "weapon": "Purple lightsaber",
+    "equipment": [],
+    "trump_card": "Shatterpoint",
+    "ultimate_move": "Vaapad Victory"
+  },
+  "personality": {
+    "traits": [
+      "Principled",
+      "Serious",
+      "Disciplined",
+      "Skeptical"
+    ],
+    "likes": [
+      "Order",
+      "Justice"
+    ],
+    "dislikes": [
+      "Dark side",
+      "Anakin's arrogance"
+    ],
+    "fear": "Falling to dark side",
+    "dream": "Maintain peace in the galaxy",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "One of the greatest Jedi duelists, played key role in Clone Wars, killed by Darth Sidious",
+    "motivation": "Protect the Republic and Jedi Order",
+    "affinity": "Force",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Created Vaapad lightsaber form",
+    "Member of Jedi High Council",
+    "Defeated Darth Sidious in single combat",
+    "General in Clone Wars"
+  ],
+  "titles": [
+    "Master of the Order",
+    "Purple Jedi"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not a bounty hunter"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 80,
+    "speed": 85,
+    "durability": 85,
+    "power": 95,
+    "combat": 100,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Prone to using dark side techniques",
+      "Disliked Anakin"
+    ],
+    "factors": [
+      "His power comes dangerously close to dark side"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Darth Sidious",
+    "allies": [
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Jedi Order"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yoda",
+        "relationship": "Fellow Council member",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Darth Sidious",
+      "Separatisits"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Sidious",
+        "relationship": "Sith Lord",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Jedi Order",
+    "rival": "Anakin Skywalker",
+    "mentor": null,
+    "student": "Depa Billaba",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Jedi Order"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Sidious",
+      "Anakin Skywalker"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Anakin Skywalker"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Depa Billaba"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Jedi Order"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Darth Sidious",
+      "result": "Defeat",
+      "method": "Disarmed by Anakin, killed by Sidious lightning"
+    },
+    {
+      "opponent": "General Grievous",
+      "result": "Victory",
+      "method": "Used Force Crush on his lungs"
+    }
+  ],
+  "quotes": [
+    "This is the weapon of a Jedi, not an encumberance for lesser men.",
+    "The Senate will not stand for this."
+  ],
+  "voice_acting": {
+    "native_language": "Samuel L. Jackson",
+    "english": "Samuel L. Jackson",
+    "note": "Portrayed by Samuel L. Jackson",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Darth Sidious Force lightning",
+    "transformation": "N/A",
+    "awakening_potential": "Could have reached Yoda's level",
+    "power_evolution": [
+      "Jedi Master",
+      "Vaapad creator"
+    ],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Jedi Temple",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Mace Windu is a fictional character in the Star Wars franchise. He was introduced in the prequel trilogy as a Jedi Master who sits on the Jedi High Council during the final years of the Galactic Republic. He is portrayed by Samuel L. Jackson in all three prequel films. Windu also appears in the 2008 animated film The Clone Wars, the television series of the same name, and in novels, comics, and video games.",
+  "note": null,
+  "source": "star_wars"
+}

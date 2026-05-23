@@ -1,0 +1,380 @@
+{
+  "id": "71e4e99cd13582c31819e59196d12323",
+  "name": "Niki Sanders",
+  "native_name": null,
+  "full_name": "Niki Sanders",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Evolved Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 173,
+    "weight_kg": 62,
+    "age": "32",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Tattoos covering body when Jessica emerges",
+      "Always appears stressed"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Las Vegas, Nevada",
+    "current_location": "Las Vegas",
+    "base_of_operations": "Las Vegas",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Single Mother",
+    "secondary": "Former Casino Worker",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Various heroes"
+    ],
+    "relatives": [
+      "Micah Sanders (son)",
+      "D.L. Hawkins (husband)",
+      "Jessica Sanders (twin sister, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Heroes TV Series (2006)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength (Jessica)",
+      "native_name": null,
+      "description": "When Jessica emerges, gains superhuman strength to lift cars",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": "Only when Jessica is in control"
+    },
+    {
+      "name": "Alternate Personality",
+      "native_name": null,
+      "description": "Split personality named Jessica as coping mechanism",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Cannot control emergence"
+    },
+    {
+      "name": "Expert Hand-to-Hand Combat",
+      "native_name": null,
+      "description": "Jessica is a skilled fighter",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Intimidation",
+      "native_name": null,
+      "description": "Jessica's presence terrifies opponents",
+      "type": "Passive",
+      "tier": "C",
+      "power_level": 65,
+      "range": "Close",
+      "limit": "Only as Jessica"
+    },
+    {
+      "name": "Resilience",
+      "native_name": null,
+      "description": "Incredible emotional strength to protect her son",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Jessica's Rampage",
+    "Mama Bear Protection"
+  ],
+  "ultimate_move": "Full Jessica Emergence",
+  "trump_card": "Jessica's super-strength",
+  "power_attributes": {
+    "power_type": "Alter Ego Enhanced",
+    "power_source": "Dissociative Identity Disorder + super-strength",
+    "combat_style": [
+      "Brute force",
+      "Intimidation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Jessica's super-strength",
+    "ultimate_move": "Full Jessica Emergence"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Protective",
+      "Guilt-ridden",
+      "Fragile but strong",
+      "Self-sacrificing"
+    ],
+    "likes": [
+      "Her son Micah",
+      "A normal life"
+    ],
+    "dislikes": [
+      "Jessica taking over",
+      "Her past"
+    ],
+    "fear": "Hurting her son",
+    "dream": "A normal life for her son",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Agile"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A single mother with a secret - her alternate personality Jessica has super-strength",
+    "motivation": "Protect her son Micah",
+    "affinity": "Motherhood/Identity",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Raised Micah",
+    "Controlled Jessica to save her family"
+  ],
+  "titles": [
+    "Jessica (alt personality)"
+  ],
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 70,
+    "speed": 50,
+    "durability": 65,
+    "power": 55,
+    "combat": 65,
+    "total": 365
+  },
+  "weaknesses": {
+    "list": [
+      "Dissociative identity disorder",
+      "Cannot control Jessica",
+      "Emotional triggers"
+    ],
+    "factors": "Psychological instability"
+  },
+  "relationships": {
+    "nemesis": "Sylar",
+    "allies": [
+      "D.L. Hawkins",
+      "Micah Sanders"
+    ],
+    "enemies": [
+      "Sylar",
+      "Linderman's organization"
+    ],
+    "love_interest": "D.L. Hawkins",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "D.L. Hawkins",
+      "Micah Sanders"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sylar"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Micah Sanders"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Micah Sanders"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "D.L. Hawkins",
+      "Micah Sanders"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various thugs",
+      "result": "Victory",
+      "method": "Jessica's strength"
+    }
+  ],
+  "quotes": [
+    "Niki is gone. There's only Jessica now.",
+    "You do NOT mess with my son!"
+  ],
+  "voice_acting": {
+    "native_language": "Ali Larter",
+    "english": "Ali Larter",
+    "note": "Portrayed by Ali Larter",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Sacrificed herself to save her family",
+    "transformation": "From broken woman to hero through sacrifice",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "nbc_heroes",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Las Vegas",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Nicole Sanders is a fictional character portrayed by Ali Larter in the television series Heroes. Niki is married to D. L. Hawkins and mother of Micah Sanders. Niki, a sufferer of dissociative identity disorder, displays superhuman strength. Initially, she is able to access this power only when her alter ego \"Jessica\" is in control.",
+  "note": null,
+  "source": "nbc_heroes"
+}

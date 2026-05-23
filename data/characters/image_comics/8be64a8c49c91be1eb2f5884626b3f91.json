@@ -1,0 +1,338 @@
+{
+  "name": "Magmaniac",
+  "native_name": null,
+  "full_name": "Magmaniac",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 95,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "None",
+    "skin_color": "Rocky/Lava (transformed)",
+    "notable_features": [
+      "Lava/rock body",
+      "Glowing magma veins",
+      "Volcanic appearance"
+    ],
+    "skin": "Rocky/Lava (transformed)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Nomadic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Villain",
+    "secondary": null,
+    "rank_title": "Magmaniac",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Lizard League"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Magma Body",
+      "type": "Elemental",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Melee"
+    },
+    {
+      "name": "Heat Generation",
+      "type": "Elemental",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Magma Punch",
+    "Lava Wave"
+  ],
+  "ultimate_move": "Volcanic Eruption",
+  "trump_card": "Magma Physiology",
+  "power_attributes": {
+    "power_type": "Magma",
+    "power_source": "Mutation/Accident",
+    "combat_style": [
+      "Brute force",
+      "Heat-based"
+    ],
+    "weapon": "Lava body",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Magma Physiology",
+    "ultimate_move": "Volcanic Eruption"
+  },
+  "personality": {
+    "traits": [
+      "Hot-headed",
+      "Criminal",
+      "Volatile"
+    ],
+    "likes": [
+      "Destruction",
+      "Heat"
+    ],
+    "dislikes": [
+      "Cold",
+      "Heroes"
+    ],
+    "fear": "Being extinguished",
+    "dream": "Burn the world",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Magma Body",
+      "Heat Generation"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Minor lava-powered villain in Invincible universe. Member of the Lizard League.",
+    "motivation": "Villainy",
+    "affinity": "Lava",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Magmaniac"
+  ],
+  "titles": [
+    "Magmaniac"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 40,
+    "strength": 72,
+    "speed": 55,
+    "durability": 75,
+    "power": 70,
+    "combat": 55,
+    "total": 367
+  },
+  "weaknesses": {
+    "list": [
+      "Water",
+      "Cold",
+      "Magma body limits"
+    ],
+    "factors": [
+      "Elemental vulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Lizard League"
+    ],
+    "enemies": [
+      "Invincible",
+      "Guardians"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Lizard League"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Invincible",
+      "Guardians"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Lizard League"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Burn!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": "Magma accident",
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Magmaniac"
+    ],
+    "role": "Minor Villain",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "8be64a8c49c91be1eb2f5884626b3f91",
+  "publisher": "image_comics",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

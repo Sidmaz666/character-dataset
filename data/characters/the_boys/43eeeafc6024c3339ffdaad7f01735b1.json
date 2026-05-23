@@ -1,0 +1,403 @@
+{
+  "id": "43eeeafc6024c3339ffdaad7f01735b1",
+  "name": "Mother's Milk",
+  "native_name": null,
+  "full_name": "Marvin T. Milk",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Milk",
+    "height_cm": 183,
+    "weight_kg": 85,
+    "age": "40",
+    "birthday": "September 15",
+    "zodiac": "Virgo",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 25.4,
+    "nationality": "American"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Tattoo on arm",
+      "Scarred knuckles"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Harlem, New York",
+    "current_location": "United States",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Former Marine",
+    "rank_title": "Field Leader",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Boys"
+    ],
+    "previous": [
+      "US Marine Corps",
+      "CIA"
+    ],
+    "relatives": [
+      "Monique (wife)",
+      "Daughter (unborn)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Expert Combatant",
+      "native_name": null,
+      "description": "Trained Marine with exceptional hand-to-hand combat skills",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Gifted Intelligence",
+      "native_name": null,
+      "description": "Highly intelligent with investigative and tactical skills",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Expert Investigator",
+      "native_name": null,
+      "description": "Skilled detective who can track down any target",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Unlimited",
+      "limit": "Requires resources"
+    }
+  ],
+  "signature_moves": [
+    "Single Punch K.O.",
+    "Tactical Analysis"
+  ],
+  "ultimate_move": "Strategic Ambush",
+  "trump_card": "Fatherly Protector Mode",
+  "power_attributes": {
+    "power_type": "Human Combat",
+    "power_source": "Marine Training",
+    "combat_style": [
+      "Boxing",
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Combat gear",
+      "Surveillance equipment"
+    ],
+    "trump_card": "Fatherly Protector Mode",
+    "ultimate_move": "Strategic Ambush"
+  },
+  "personality": {
+    "traits": [
+      "Protective",
+      "Responsible",
+      "Intelligent",
+      "Principled"
+    ],
+    "likes": [
+      "Family",
+      "Justice"
+    ],
+    "dislikes": [
+      "Violence against innocents",
+      "Butcher's methods"
+    ],
+    "fear": "Failing his family",
+    "dream": "Protect the innocent",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Intelligent",
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Balances loyalty to The Boys with family responsibilities",
+    "motivation": "Protecting his family and doing what's right",
+    "affinity": "Protection",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Exposed A-Train's V stash",
+    "Led The Boys temporarily",
+    "Multiple successful missions"
+  ],
+  "titles": [
+    "MM",
+    "Mother's Milk"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by FBI"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 60,
+    "speed": 55,
+    "durability": 60,
+    "power": 40,
+    "combat": 70,
+    "total": 365
+  },
+  "weaknesses": {
+    "list": [
+      "No inherent powers",
+      "Family vulnerabilities",
+      "Moral constraints"
+    ],
+    "factors": [
+      "Emotional manipulation",
+      "Human fragility"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Black Noir",
+    "allies": [
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Frenchie",
+      "The Female"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Billy Butcher",
+        "relationship": "Old friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Frenchie",
+        "relationship": "Friend",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "The Female",
+        "relationship": "Friend",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Vought",
+      "Supes"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Black Noir",
+        "relationship": "Combat rival",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Monique",
+    "best_friend": "Billy Butcher",
+    "rival": "Frenchie",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Frenchie",
+      "The Female"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Black Noir",
+      "Frenchie"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Frenchie"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Frenchie",
+      "The Female"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Frenchie",
+      "result": "Draw",
+      "method": "Mall fight"
+    }
+  ],
+  "quotes": [
+    "I'm the multi-talented guy."
+  ],
+  "voice_acting": {
+    "native_language": "Laz Alonso (English)",
+    "english": "Laz Alonso",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues fighting",
+    "transformation": null,
+    "awakening_potential": "Leadership",
+    "power_evolution": [
+      "Marine",
+      "Veteran operative"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cars"
+    ],
+    "vehicles": [
+      "SUV"
+    ],
+    "headquarters": "Safe houses",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "The fifth and final season of the American satirical superhero television series The Boys, the first series in the franchise based on the comic book series of the same name created by Garth Ennis and Darick Robertson, was developed for television by Eric Kripke. The season was produced by Sony Pictures Television and Amazon MGM Studios in association with Point Grey Pictures, Original Film, Kripke Enterprises, Kickstart Entertainment, and KFL Nightsky Productions.",
+  "note": null,
+  "source": "the_boys"
+}

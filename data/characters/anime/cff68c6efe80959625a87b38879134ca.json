@@ -1,0 +1,480 @@
+{
+  "id": "cff68c6efe80959625a87b38879134ca",
+  "name": "Frieren",
+  "native_name": "フリーレン",
+  "full_name": "Frieren",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Elf",
+    "race": "Elf",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Over 1000 years old",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Golden blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Elven features",
+      "Eternal youth appearance",
+      "Tall stature"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (Elven homeland)",
+    "current_location": "Traveling across the continent",
+    "base_of_operations": "Various locations",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mage",
+    "secondary": "Demon Slayer, Former member of Hero Himmel's Party",
+    "rank_title": "First-Class Mage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Frieren's Party"
+    ],
+    "previous": [
+      "Hero Himmel Party",
+      "Disciples of Serie"
+    ],
+    "relatives": [
+      "Himmel (party member, deceased)",
+      "Heiter (party member, deceased)",
+      "Eisen (party member)",
+      "Fern (apprentice)",
+      "Stark (party member)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren Episode 1",
+    "manga": "Sousou no Frieren Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Immense Mana Pool",
+      "native_name": null,
+      "description": "Has suppressed her mana for over a thousand years, making her one of the most powerful beings in existence. Her actual mana vastly exceeds what appears to casual observers.",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "None significant"
+    },
+    {
+      "name": "Demon-Killing Magic",
+      "native_name": null,
+      "description": "Specializes in magic specifically designed to kill demons. Can exploit demon weaknesses including their reliance on visible mana, hypnosis, and regeneration.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Requires knowledge of specific demon types"
+    },
+    {
+      "name": "Mana Suppression",
+      "native_name": null,
+      "description": "Can completely suppress her mana to appear as an average mage while possessing immense power. This allows her to catch demons and enemies off guard.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Requires constant conscious effort"
+    },
+    {
+      "name": "Mana Detection",
+      "native_name": null,
+      "description": "Can detect mana flows, fluctuations, and concealed magic. Exceptional at reading opponents and their magical capabilities.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Cannot detect those with superior mana suppression"
+    },
+    {
+      "name": "Zoltraak",
+      "native_name": null,
+      "description": "Powerful anti-demon spell developed during the war. Can pierce through physical and magical defenses. Her version is far more powerful than demon versions or human adaptations.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Less effective against humans"
+    },
+    {
+      "name": "Defensive Magic",
+      "native_name": null,
+      "description": "Creates powerful magical barriers to protect against attacks. Taught by the Great Mage Flamme to create exceptionally strong shields.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Short",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Daily-Use Magic Collection",
+      "native_name": null,
+      "description": "Collects and masters various everyday magical spells like polishing statues, making flowers bloom, and other practical applications.",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 40,
+      "range": "Short",
+      "limit": "Not combat applicable"
+    },
+    {
+      "name": "Time Perception Difference",
+      "native_name": null,
+      "description": "Due to elven longevity, perceives time differently. Can wait decades for results, making her seemingly lazy to human companions.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": "Causes difficulty in forming human relationships"
+    }
+  ],
+  "signature_moves": [
+    "Zoltraak",
+    "Mana Suppression",
+    "Demon Slayer Magic"
+  ],
+  "ultimate_move": "Full Power Zoltraak Blast",
+  "trump_card": "Releasing Full Mana",
+  "power_attributes": {
+    "power_type": "Mana/Magic",
+    "power_source": "Innate elven magic, centuries of training",
+    "combat_style": [
+      "Ranged Magic",
+      "Demon Slaying",
+      "Mana Control"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Grimoires",
+      "Traveling cloak"
+    ],
+    "trump_card": "Releasing Full Mana",
+    "ultimate_move": "Full Power Zoltraak Blast"
+  },
+  "personality": {
+    "traits": [
+      "Apathetic",
+      "Lazy",
+      "Kind",
+      "Thoughtful",
+      "Detached"
+    ],
+    "likes": [
+      "Grimoires",
+      "Flowers",
+      "Sleeping",
+      "Learning about humans"
+    ],
+    "dislikes": [
+      "Demon King",
+      "Saying goodbye",
+      "Rushing"
+    ],
+    "fear": "Forming close relationships knowing she will outlive everyone",
+    "dream": "To understand human emotions and the meaning of her journey",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Immense Mana Pool",
+      "Demon-Killing Magic",
+      "Mana Suppression",
+      "Mana Detection"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "From an immortal elf who couldn't comprehend human emotions to someone slowly learning about friendship, loss, and the preciousness of time through her journey with humans who have short lifespans.",
+    "motivation": "Understanding human hearts and honoring her fallen companions",
+    "affinity": "Mana",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Member of the party that defeated the Demon King",
+    "Taught by the Great Mage Flamme",
+    "Disciple of Serie",
+    "Trained Fern as an apprentice",
+    "One of the strongest mages in existence"
+  ],
+  "titles": [
+    "The Slayer",
+    "Frieren the Demon Slayer",
+    "The Elf Mage"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 40,
+    "speed": 50,
+    "durability": 70,
+    "power": 100,
+    "combat": 75,
+    "total": 430
+  },
+  "weaknesses": {
+    "list": [
+      "Difficulty understanding human emotions",
+      "Long lifespan causes different time perception",
+      "Apathy towards immediate results"
+    ],
+    "factors": [
+      "Outlives all human friends",
+      "Struggles with forming lasting bonds"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Demon King (deceased)",
+    "allies": [
+      "Fern",
+      "Stark",
+      "Himmel (deceased)",
+      "Heiter (deceased)",
+      "Eisen"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Fern",
+        "relationship": "Apprentice",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Stark",
+        "relationship": "Party Member",
+        "trust_level": "High"
+      },
+      {
+        "name": "Himmel",
+        "relationship": "Former Party Member/Friend",
+        "trust_level": "Deep (deceased)"
+      }
+    ],
+    "enemies": [
+      "Demons",
+      "Demon King (deceased)"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Demon King",
+        "relationship": "Arch-nemesis (defeated)",
+        "threat_level": "N/A (deceased)"
+      }
+    ],
+    "love_interest": "Himmel",
+    "best_friend": "Himmel",
+    "rival": "Denken",
+    "mentor": "Serie, Flamme",
+    "student": "Fern",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Fern",
+      "Stark",
+      "Himmel (deceased)",
+      "Heiter (deceased)",
+      "Eisen",
+      "Himmel"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demon King (deceased)",
+      "Denken"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Denken"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Fern"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Fern",
+      "Stark",
+      "Himmel",
+      "Heiter",
+      "Eisen"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Serie, Flamme"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Demon King",
+      "result": "Victory",
+      "method": "Part of Hero Himmel Party that defeated the Demon King"
+    },
+    {
+      "opponent": "Various demons",
+      "result": "Victory",
+      "method": "Superior mana and demon-killing magic"
+    }
+  ],
+  "quotes": [
+    "It's been ten years since I joined. Looking back, it feels like only a moment.",
+    "I want to learn more about humans... and perhaps understand what you meant to me."
+  ],
+  "voice_acting": {
+    "native_language": "Chihiro Ishigami (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Mallorie Rodak",
+    "japanese": "Atsumi Tanezaki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently traveling with Fern and Stark on a journey to understand human emotions",
+    "transformation": null,
+    "awakening_potential": "Has not shown full power; still suppressing mana significantly",
+    "power_evolution": [
+      "Young Elf",
+      "Demon King Era Mage",
+      "Current Traveling Mage"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Frieren was a mage in Hero Himmel's party. They travelled along with Priest Heiter and Warrior Eisen in a ten-year journey to defeat the Demon King. She was the last member to be recruited to the party and, despite Heiter's initial impression of her mana being average, Himmel had a hunch she was the most powerful mage he had ever met.\n\nBeing an elf that has lived for over a thousand years, Frieren has a hard time forming meaningful relationships with humans because of the difference in their lifespans and how they perceive the passage of time. This generally manifests itself as laziness, since missing an important event is of no importance as she will have plenty of opportunities to relive it in the future, or as a nearly sociopathic inability to comprehend human's feelings. For instance, she tends to not notice how her lack of impatience or cold statements can affect humans around her. Her party members have also frequently stated that they can't comprehend her feelings or read what goes on in her head.\n\nDespite being an extremely powerful mage, Frieren has the habit of collecting rare and daily usage centered magic, like magic that can polish a bronze statue or make flowers bloom. She always asks for a grimoire as a reward even if she already knows its contents or when it comes to The Great Mage Flamme's lost grimoires knows they are fakes.\n\nAfter the deaths of Hero Himmel and Priest Heiter, Frieren decided she wants to learn more about humans. She is currently traveling with Fern her pupil who was a war refugee left in her care by Priest Heiter in a quest to Ende, the place where souls reside in the northernmost tip of the continent and where the Demon King's Castle was built to try and speak to Himmel's soul. In her new journey, Frieren visits many places her old party travelled through in the past and relives memories, slowly understanding more about their meaning and her feelings.\n\nIronically, Fern is generally the one to take care of Frieren in daily activities despite being far younger.\n\n\n(Source: Frieren: Beyond Journey's End Wiki)",
+  "note": null,
+  "source": "anime"
+}

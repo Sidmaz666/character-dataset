@@ -1,0 +1,436 @@
+{
+  "id": "a20cd23fa7425bca10d369a6e6842b03",
+  "name": "Usopp",
+  "native_name": "ウソップ",
+  "full_name": "Usopp",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Yasopp Family",
+    "height_cm": 176,
+    "weight_kg": 60,
+    "age": "17-19",
+    "birthday": "April 1",
+    "zodiac": "Aries",
+    "blood_type": "S",
+    "weight_kkg": null,
+    "bmi": 19.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long nose",
+      "Curly hair",
+      "Goggles",
+      "Striped pants",
+      "Slingshot"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Syrup Village",
+    "current_location": "Grand Line",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate",
+    "secondary": "Sniper",
+    "rank_title": "Straw Hat Sniper",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates"
+    ],
+    "previous": [
+      "Usopp Pirates"
+    ],
+    "relatives": [
+      "Yasopp (father)",
+      "Bankina (mother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 8",
+    "manga": "One Piece Chapter 23",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "God Usopp",
+      "native_name": "ゴッドウソップ",
+      "description": "Awakened observation Haki. Can snipe targets from kilometers away with perfect accuracy.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Kilometers",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Kabuto Slingshot",
+      "native_name": "カブト",
+      "description": "Advanced slingshot with various ammo types: fire, smoke, explosive, pop greens.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Ammo"
+    },
+    {
+      "name": "Observation Haki",
+      "native_name": "見聞色の覇気",
+      "description": "Awakened during Dressrosa. Can sense enemies, predict movements, snipe blind.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Kilometers",
+      "limit": "Concentration"
+    },
+    {
+      "name": "Pop Greens",
+      "native_name": "ポップグリーン",
+      "description": "Seeds that grow instantly into various plants: vines, carnivorous plants, etc.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Medium",
+      "limit": "Seeds"
+    }
+  ],
+  "signature_moves": [
+    "God Usopp snipe",
+    "Firebird Star",
+    "Pop Green assault"
+  ],
+  "ultimate_move": "God Usopp",
+  "trump_card": "Observation Haki",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Training",
+    "combat_style": [
+      "Sniper",
+      "Trickery"
+    ],
+    "weapon": "Kabuto slingshot",
+    "equipment": [
+      "Slingshot",
+      "Pop Greens"
+    ],
+    "trump_card": "Observation Haki",
+    "ultimate_move": "God Usopp"
+  },
+  "personality": {
+    "traits": [
+      "Cowardly",
+      "Loyal",
+      "Creative",
+      "Funny",
+      "Brave (when needed)",
+      "Insecure"
+    ],
+    "likes": [
+      "Pirates",
+      "Adventures",
+      "Crew",
+      "Lying (stories)",
+      "Sniping"
+    ],
+    "dislikes": [
+      "Danger",
+      "Cowardice (in himself)",
+      "Losing crew",
+      "Being useless"
+    ],
+    "fear": "Losing crew",
+    "dream": "Become brave warrior of the sea",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Creative",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cowardly"
+    ]
+  },
+  "character": {
+    "arc": "Usopp is the Straw Hats' sniper and liar. From Syrup Village, joined to escape boredom. Despite cowardice, becomes brave when crew needs him. Awakens Haki, becomes God Usopp.",
+    "motivation": "Become brave warrior, protect crew",
+    "affinity": "Yellow/Courage",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "God Usopp awakening",
+    "Defeated Sugar",
+    "Straw Hat Sniper",
+    "Observation Haki"
+  ],
+  "titles": [
+    "God Usopp",
+    "Sniper King",
+    "Captain Usopp"
+  ],
+  "bounty": {
+    "amount": 200000000,
+    "currency": "Berries",
+    "details": "Straw Hat Pirates"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 65,
+    "speed": 78,
+    "durability": 72,
+    "power": 85,
+    "combat": 88,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Cowardice",
+      "Crew's safety",
+      "Overconfidence"
+    ],
+    "factors": [
+      "Crew",
+      "Luffy",
+      "Nami"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Foxy, Marines",
+    "allies": [
+      "Luffy",
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Chopper",
+      "Kaya"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Marines",
+      "World Government"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kaya",
+    "best_friend": "Chopper",
+    "rival": "None",
+    "mentor": "Yasopp",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Luffy",
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Chopper",
+      "Kaya"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Foxy, Marines",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Yasopp (father)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Yasopp (father)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Luffy",
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Chopper",
+      "Kaya"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Yasopp"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sugar",
+      "result": "Victory",
+      "method": "God Usopp"
+    },
+    {
+      "opponent": "Perona",
+      "result": "Victory",
+      "method": "Pop Greens"
+    },
+    {
+      "opponent": "Lucci",
+      "result": "Loss",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I'm a brave warrior of the sea!",
+    "Usopp is God!",
+    "I'm not scared!"
+  ],
+  "voice_acting": {
+    "native_language": "Kappei Yamaguchi (Japanese)",
+    "note": "Cowardly, determined",
+    "native_name": null,
+    "japanese": "Kappei Yamaguchi",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues journey",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Liar",
+      "Sniper",
+      "God Usopp",
+      "Warrior"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Thousand Sunny"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17, 19\nBirthdate: April 1, Aries \nHeight: 174 cm (5'8½\")\nAffiliation: Straw Hat Pirates; Usopp Pirates (former)\nPosition: Sniper\nDevil Fruit: none\nBounty: \nLikes: Being seen as a hero, the Going Merry, Adventure \nDislikes: Failure\n\nUsopp is a liar and likes to play pranks on his crew members or just goof off with Luffy and Chopper. He loves to tell tall tales to Chopper (who believes him blindly) or anyone who's listening. The other aspect of Usopp besides his lying is his cowardice; he is a very timid person, or so he thinks. In extremely stressful situations, Usopp has proven to be far more courageous than he believes himself to be. He shows great resolve when his friends are threatened or mocked by outsiders. Even though he is a complete coward in battle (except as his alter ego, Sogeking), he is a useful part to the Straw Hat Pirates. He is extremely handy and can fix almost anything. He sometimes sees a role model in Zoro who never seems afraid but always proud. Usopp lacks a bit of self esteem and is often taken advantage of by Nami to make her weapons or repair and improve them - something he is very adept at, having constructed the ingenious weapon \"Clima Tact.\"\n\nUsopp will also stand up and fight for not only the well-being of people, but also for their ideals - and the ideals of a pirate, which he holds very high. In battle he normally tries to trick his enemy by telling tales or mischievous lies to deceive them. Despite his lack of physical strength compared to other members of the crew, Usopp seems to be just as resilient as his comrades and this ability to bear loads and loads of damage, is one of his best traits, in addition to his cunning and intelligence, which has saved the Straw Hats on many occasions. Also, Usopp has outstanding marksmanship abilities with his slingshot and is on his way to becoming one of the best snipers in the One Piece world, although his goal in life is to become a proud and strong pirate like his father Yasopp of the Red Haired Pirate Crew.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,420 @@
+{
+  "id": "82ade3a9a6bce430348aba65cfc7c451",
+  "name": "Billy Butcher",
+  "native_name": null,
+  "full_name": "William J. Butcher",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": "Born 1977",
+    "birthday": "February 8",
+    "zodiac": "Aquarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Facial scars",
+      "Tactical beard"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "London, England",
+    "current_location": "United States",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante Leader",
+    "secondary": "Former CIA Operative",
+    "rank_title": "Team Leader",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Boys"
+    ],
+    "previous": [
+      "CIA",
+      "Grace Mallory's Operations"
+    ],
+    "relatives": [
+      "Becca Butcher (wife, deceased)",
+      "Ryan Butcher (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Expert strategist and planner capable of orchestrating complex operations against supes",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Unlimited",
+      "limit": "Limited physical abilities"
+    },
+    {
+      "name": "Street-Level Combat",
+      "native_name": null,
+      "description": "Skilled hand-to-hand combatant with military training",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 45,
+      "range": "Melee",
+      "limit": "Human limitations apply"
+    },
+    {
+      "name": "Temp V Empowerment",
+      "native_name": null,
+      "description": "Temporary super strength and heat vision from V serum",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Temporary, causes cellular damage"
+    }
+  ],
+  "signature_moves": [
+    "X-Ray Analysis",
+    "Butcher Speech",
+    "V Counterattack"
+  ],
+  "ultimate_move": "Heat Vision Counter",
+  "trump_card": "Temp V Transformation",
+  "power_attributes": {
+    "power_type": "Temporary Super Strength",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Street Fighting",
+      "Tactical Planning"
+    ],
+    "weapon": "Various weapons",
+    "equipment": [
+      "Earpiece communicator",
+      "Surveillance equipment"
+    ],
+    "trump_card": "Temp V Transformation",
+    "ultimate_move": "Heat Vision Counter"
+  },
+  "personality": {
+    "traits": [
+      "Vengeful",
+      "Ruthless",
+      "Charismatic",
+      "Manipulative"
+    ],
+    "likes": [
+      "Winning",
+      "Protecting innocents"
+    ],
+    "dislikes": [
+      "Supes who abuse power",
+      "Homelander"
+    ],
+    "fear": "Losing his family again",
+    "dream": "Destroy all corrupt supes",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Ruthless",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Anti-hero seeking revenge against Homelander who raped his wife Becca",
+    "motivation": "Vengeance for Becca's death",
+    "affinity": "Vengeance",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Founded and led The Boys",
+    "Exposed Vought's corruption",
+    "Defeated multiple supes"
+  ],
+  "titles": [
+    "Butcher",
+    "Billy",
+    "William"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by FBI"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 50,
+    "speed": 40,
+    "durability": 45,
+    "power": 40,
+    "combat": 70,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "No inherent powers",
+      "Obsession blinds judgment",
+      "Temp V damage"
+    ],
+    "factors": [
+      "Human fragility",
+      "Emotional manipulation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homelander",
+    "allies": [
+      "Hughie Campbell",
+      "Mother's Milk",
+      "Frenchie",
+      "The Female"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hughie Campbell",
+        "relationship": "Protege",
+        "trust_level": "High"
+      },
+      {
+        "name": "Mother's Milk",
+        "relationship": "Old friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Frenchie",
+        "relationship": "Team member",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "The Female",
+        "relationship": "Team member",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Homelander",
+      "Vought",
+      "Stan Edgar"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Becca Butcher (deceased)",
+    "best_friend": "Hughie Campbell",
+    "rival": "Stan Edgar",
+    "mentor": null,
+    "student": "Hughie Campbell",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hughie Campbell",
+      "Mother's Milk",
+      "Frenchie",
+      "The Female"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homelander",
+      "Stan Edgar"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Becky (wife)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Becky (wife)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Stan Edgar"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Hughie Campbell"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hughie Campbell",
+      "Mother's Milk",
+      "Frenchie",
+      "The Female"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Homelander",
+      "result": "Draw",
+      "method": "Temp V matched his power"
+    }
+  ],
+  "quotes": [
+    "I'm the hero America deserves but not the one it needs right now."
+  ],
+  "voice_acting": {
+    "native_language": "Karl Urban (English)",
+    "english": "Karl Urban",
+    "note": "Main lead in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Seeking permanent solution to supes",
+    "transformation": "Temp V form gives temporary powers",
+    "awakening_potential": "Learning to trust again",
+    "power_evolution": [
+      "Normal human",
+      "Temp V enhanced"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cars",
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Black SUV"
+    ],
+    "headquarters": "Hidden safe houses",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "William J. Butcher is a fictional character and one of the two main protagonists of the comic book series The Boys, created by Garth Ennis and Darick Robertson. He is the leader of The Boys, a group of CIA-sponsored black ops agents who observe, record and sometimes eliminate superheroes artificially created by the mega-conglomerate Vought. He is the Homelander's archenemy, whom he blames for the rape and death of his wife Becky, while also developing an obsessive, intense hatred for all superhuman beings, which transforms him throughout the series from an anti-heroic figure into a villainous one. Butcher also appears as one of the two protagonists, alongside Hughie, in the Amazon Prime Video television adaptation of The Boys.",
+  "note": null,
+  "source": "the_boys"
+}

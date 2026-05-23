@@ -1,0 +1,396 @@
+{
+  "id": "65591139ea92471b9d10d7b2ff5cbb5c",
+  "name": "Punisher",
+  "native_name": "Frank Castle",
+  "full_name": "Francis Castle",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 90,
+    "age": "Unknown",
+    "birthday": "July 16",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": "Military vest with skull emblem",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Hell's Kitchen, New York",
+    "current_location": "New York",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Former Marine / CIA operative",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Thunderbolts"
+    ],
+    "previous": [
+      "Avengers"
+    ],
+    "relatives": [
+      "Maria (wife - deceased)",
+      "Lisa (daughter - deceased)",
+      "Frank Jr. (son - deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Amazing Spider-Man #129 (February 1974)",
+    "comics": "Amazing Spider-Man #129",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Marksman",
+      "native_name": null,
+      "description": "Expert with all firearms and weapons",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Expert Tactician",
+      "native_name": null,
+      "description": "Strategic combat planning and reconnaissance",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Tactical",
+      "limit": null
+    },
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Expert in armed and unarmed combat",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Peak Human Strength",
+      "native_name": null,
+      "description": "Above average human strength and endurance",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Pain Immunity",
+      "native_name": null,
+      "description": "Can absorb significant pain and keep fighting",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Headshot",
+    "Tactical assault"
+  ],
+  "ultimate_move": "Full arsenal assault",
+  "trump_card": "Take no prisoners",
+  "power_attributes": {
+    "power_type": "None - human skills",
+    "power_source": "Military training",
+    "combat_style": [
+      "Firearms",
+      "Tactical warfare"
+    ],
+    "weapon": "Various guns, knives, grenades",
+    "equipment": [
+      "Battle van",
+      "Kevlar vest"
+    ],
+    "trump_card": "Take no prisoners",
+    "ultimate_move": "Full arsenal assault"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Determined",
+      "Honor-bound",
+      "Vengeful"
+    ],
+    "likes": [
+      "Justice",
+      "Killing criminals"
+    ],
+    "dislikes": [
+      "Criminals",
+      "Corrupt authorities"
+    ],
+    "fear": "None shown",
+    "dream": "Eliminating all criminals",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Family murdered - becomes judge, jury, executioner",
+    "motivation": "Personal vengeance",
+    "affinity": "Justice",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Decimated criminal organizations",
+    "Worked with Avengers",
+    "Joined Thunderbolts"
+  ],
+  "titles": [
+    "The Punisher",
+    "Frank Castle"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 50,
+    "durability": 60,
+    "power": 30,
+    "combat": 85,
+    "total": 355
+  },
+  "weaknesses": {
+    "list": [
+      "No superhuman powers",
+      "Human vulnerabilities"
+    ],
+    "factors": [
+      "Standard human weaknesses"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kingpin",
+    "allies": [
+      "Daredevil (reluctant)",
+      "Barracuda"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Kingpin",
+      "Magneto"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Daredevil",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Daredevil (reluctant)",
+      "Barracuda"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kingpin",
+      "Daredevil"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Daredevil"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Daredevil"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Daredevil"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Daredevil",
+      "Barracuda"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kingpin",
+      "result": "Ongoing",
+      "method": "Trying to bring him down"
+    }
+  ],
+  "quotes": [
+    "I'm thePunisher - I sentence you to death",
+    "You kill one of ours, we kill one of yours"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Thomas Jane (film), Jon Bernthal (TV)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues his war on crime",
+    "transformation": "Family murdered by mob",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Marine",
+      "Vigilante"
+    ],
+    "role_in_story": "Anti-hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Battle Van"
+    ],
+    "vehicles": [
+      "Battle Van"
+    ],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "The Punisher is an antihero appearing in American comic books published by Marvel Comics. Created by writer Gerry Conway and artists John Romita Sr. and Ross Andru, the character first appeared in The Amazing Spider-Man #129 (February 1974), originally depicted as an assassin and adversary of the superhero Spider-Man. The Punisher's brutal nature and willingness to kill made him an anomaly in mainstream American comic books when he debuted in 1974. By the late 1980s, the Punisher was part of a wave of psychologically troubled antiheroes. At the height of his popularity in the early 1990s, the character was simultaneously featured in four monthly publications: The Punisher, The Punisher War Journal, The Punisher: War Zone, and The Punisher Armory. While his popularity declined markedly in the mid-1990s, writer Garth Ennis revived interest in the character in the early 2000s, particularly in various series under the Max imprint.\nThe Punisher is the vigilante identity of Francis G. \"Frank\" Castle (born Castiglione), a veteran U.S. Marine Corps Scout/Sniper in Force Recon. Driven by the deaths of his wife and two children, who were killed by the mob for witnessing a murder in New York City's Central Park, Castle wages a one-man war on all criminals, employing violence and killing in his campaign against crime. The stories initially place his military service in the Vietnam War, but this was later updated to the Gulf War and then to the fictional Siancong War. Castle is skilled in hand-to-hand combat, guerrilla warfare, and marksmanship, and is known for the skull motif on his chest; the symbol has since become widely controversial after being appropriated by United States military personnel and law enforcement, as well as far-right organizations. The character has been analyzed as an expression of ambivalence in American culture regarding the legacy of the Vietnam War as well as controversies about the proper response to violent crime. He has been depicted as Italian American.\nWhile he typically fights and kills networks of organized crime, the Punisher's archenemy is the severely scarred enforcer Jigsaw. Major supporting characters include the weapons engineer Microchip, who supplied Castle with high-tech equipment across many early stories, and Rachel Cole-Alves, a former marine introduced in Greg Rucka's run whose husband was murdered by organized crime. Notable story arcs include the miniseries Circle of Blood (1986), which established the character's modern mythology, and Garth Ennis's Born (2003) and the subsequent Punisher MAX series, which are widely regarded as the definitive treatments of the character. The Punisher has also appeared as a recurring antagonist and reluctant ally of Daredevil and Spider-Man, whose more restrained approaches to justice are frequently used to comment on Castle's methods.\nIn feature films, the character has been portrayed by Dolph Lundgren in The Punisher (1989), by Thomas Jane in The Punisher (2004), and by Ray Stevenson in Punisher: War Zone (2008). Jon Bernthal portrays the character in the Marvel Cinematic Universe, appearing on television in the second season of Daredevil (2016), the spin-off series The Punisher (2017–2019), the first season of Daredevil: Born Again (2025), and the special The Punisher: One Last Kill (2026). Bernthal is scheduled to return in the film Spider-Man: Brand New Day (July 2026). The character has also appeared in animated series and video games.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,414 @@
+{
+  "id": "d41f4cdc6b8713543f85ce78822baf71",
+  "name": "Spock",
+  "native_name": null,
+  "full_name": "S'chn T'Gai Spock",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Vulcan-Human hybrid",
+    "race": "Vulcan",
+    "bloodline": "S'chn family",
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": "Born 2230",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Light green",
+    "notable_features": [
+      "Pointed ears",
+      "Eyelashes",
+      "Bowling pin haircut"
+    ],
+    "skin": "Light green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "ShiKahr, Vulcan",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise, later USS Enterprise-A",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Science Officer",
+    "secondary": "Captain",
+    "rank_title": "Commander, later Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Starfleet",
+      "Federation",
+      "Vulcan"
+    ],
+    "previous": [
+      "Vulcan Academy"
+    ],
+    "relatives": [
+      "Sarek (father)",
+      "Amanda Grayson (mother)",
+      "Michael Burnham (adopted sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Trek: The Original Series (1966)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mind Meld",
+      "native_name": "Telepathic mindlink",
+      "description": "Merge consciousness with another being, sharing thoughts and memories",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Touch",
+      "limit": "Requires physical contact"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": "Telepathy",
+      "description": "Sense emotions and communicate telepathically",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Vulcan Strength",
+      "native_name": null,
+      "description": "Five times human strength due to Vulcan physiology",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Requires control"
+    },
+    {
+      "name": "Logic",
+      "native_name": null,
+      "description": "Superhuman analytical mind",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "N/A",
+      "limit": "N/A"
+    }
+  ],
+  "signature_moves": [
+    "Mind meld",
+    "Nerve pinch",
+    "Logical argument"
+  ],
+  "ultimate_move": "Infinite Diversity",
+  "trump_card": "Mind Meld Supreme",
+  "power_attributes": {
+    "power_type": "Telepathy",
+    "power_source": "Vulcan physiology, Katra",
+    "combat_style": [
+      "Vulcan combat arts",
+      "Tai chi"
+    ],
+    "weapon": "None (sometimes bat'leth)",
+    "equipment": [
+      "Tricorder",
+      "Science equipment"
+    ],
+    "trump_card": "Mind Meld Supreme",
+    "ultimate_move": "Infinite Diversity"
+  },
+  "personality": {
+    "traits": [
+      "Logical",
+      "Reserved",
+      "Honorable",
+      "Suppressed emotions"
+    ],
+    "likes": [
+      "Science",
+      "Challenges"
+    ],
+    "dislikes": [
+      "Illogic",
+      "Waste"
+    ],
+    "fear": "Failing his crew",
+    "dream": "Prove himself as Vulcan-Human bridge",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Mind Meld",
+      "Telepathy",
+      "Vulcan Strength",
+      "Logic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hybrid who bridged Vulcan and Human cultures, became Ambassador",
+    "motivation": "Prove logic and emotion can coexist",
+    "affinity": "Telepathy",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Unified Vulcan and Romulans",
+    "Saved Earth numerous times",
+    "Became Ambassador",
+    "Achieved Kol-Ut-Shar"
+  ],
+  "titles": [
+    "Ambassador",
+    "The Volcano's Child"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 80,
+    "speed": 75,
+    "durability": 75,
+    "power": 85,
+    "combat": 70,
+    "total": 485
+  },
+  "weaknesses": {
+    "list": [
+      "Suppressed emotions",
+      "Pon farr"
+    ],
+    "factors": "His human side causes conflicts"
+  },
+  "relationships": {
+    "nemesis": "various antagonists",
+    "allies": [
+      "Kirk",
+      "McCoy",
+      "Uhura"
+    ],
+    "allies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Best friend",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Khan",
+      "Romulans"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Khan Noonien Singh",
+        "relationship": "Arch-nemesis",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "T'Pring, others",
+    "best_friend": "James T. Kirk",
+    "rival": null,
+    "mentor": "Sarek",
+    "student": "Pavel Chekov",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kirk",
+      "McCoy",
+      "Uhura",
+      "James T. Kirk"
+    ],
+    "colleague": null,
+    "enemy": [
+      "various antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Pavel Chekov"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kirk",
+      "McCoy",
+      "Uhura",
+      "James T. Kirk"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Sarek"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gorn",
+      "result": "Victory",
+      "method": "Logic over strength"
+    },
+    {
+      "opponent": "Khan",
+      "result": "Victory",
+      "method": "Mind meld technique"
+    }
+  ],
+  "quotes": [
+    "Live long and prosper.",
+    "Fascinating.",
+    "The needs of the many outweigh the needs of the few."
+  ],
+  "voice_acting": {
+    "native_language": "Leonard Nimoy",
+    "english": "Leonard Nimoy",
+    "note": "Portrayed by Leonard Nimoy",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive (various timelines)",
+    "fate": "Achieved Kol-Ut-Shar, became one with the infinite",
+    "transformation": "N/A",
+    "awakening_potential": "Could have led the Federation",
+    "power_evolution": [
+      "Science Officer",
+      "Commander",
+      "Captain",
+      "Ambassador"
+    ],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Shuttlecraft"
+    ],
+    "vehicles": [
+      "USS Enterprise"
+    ],
+    "headquarters": "USS Enterprise",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Spock is a fictional character in the Star Trek media franchise. Portrayed by Leonard Nimoy, he is one of the three central characters in the original Star Trek series (1966–69), alongside Captain James T. Kirk and Dr. Leonard \"Bones\" McCoy. On that series, Spock served as first officer and science officer of the starship Enterprise. Spock's mixed human–Vulcan heritage serves as an important plot element in many of the character's appearances. As one of the most popular Star Trek characters, Spock has made return appearances in many later installments of the franchise.",
+  "note": null,
+  "source": "star_trek"
+}

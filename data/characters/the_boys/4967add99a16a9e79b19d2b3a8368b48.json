@@ -1,0 +1,352 @@
+{
+  "name": "Sister Sage",
+  "native_name": null,
+  "full_name": "Sister Sage",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "African-American",
+    "bloodline": null,
+    "height_cm": 168,
+    "weight_kg": 60,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Intelligent gaze",
+      "Strategic demeanor",
+      "Smart supe"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "USA",
+    "current_location": "Vought Tower",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Strategist (The Seven)",
+    "secondary": null,
+    "rank_title": "Smartest Person in the World",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV Season 4)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Intelligence",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self"
+    },
+    {
+      "name": "Strategic Genius",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self"
+    },
+    {
+      "name": "Pattern Recognition",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Strategic Master Plan",
+    "Mind Game Trap",
+    "Perfect Prediction"
+  ],
+  "ultimate_move": "The Perfect Plan",
+  "trump_card": "Smartest Person in the World",
+  "power_attributes": {
+    "power_type": "Superhuman Intelligence",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Non-combatant",
+      "Strategic planning",
+      "Manipulation"
+    ],
+    "weapon": "Mind",
+    "equipment": [
+      "Vought resources"
+    ],
+    "trump_card": "Smartest Person in the World",
+    "ultimate_move": "The Perfect Plan"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Calculating",
+      "Cold",
+      "Strategic",
+      "Ambitious"
+    ],
+    "likes": [
+      "Winning",
+      "Strategy",
+      "Being the smartest"
+    ],
+    "dislikes": [
+      "Stupidity",
+      "Being outsmarted",
+      "Boredom"
+    ],
+    "fear": "Being wrong",
+    "dream": "Implement the perfect plan",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "The self-proclaimed smartest person in the world. Recruited to The Seven for her strategic genius. Plans multiple steps ahead of everyone.",
+    "motivation": "Prove she is the smartest and control outcomes",
+    "affinity": "Intelligence/Strategy",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Smartest person in the world",
+    "Seven strategist"
+  ],
+  "titles": [
+    "Sister Sage",
+    "The Smartest Person",
+    "Seven Strategist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 40,
+    "speed": 45,
+    "durability": 45,
+    "power": 85,
+    "combat": 35,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Arrogance",
+      "Overthinking"
+    ],
+    "factors": [
+      "Human body",
+      "Underestimates emotions",
+      "Can be outsmarted by unpredictability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Boys (especially MM)",
+    "allies": [
+      "The Seven",
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven",
+      "Vought"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys (especially MM)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven",
+      "Vought"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I am the smartest person in the world. I have already won."
+  ],
+  "voice_acting": {
+    "native_language": "Susan Heyward",
+    "english": "Susan Heyward",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "The Seven strategist",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Sister Sage"
+    ],
+    "role": "Major Antagonist",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "4967add99a16a9e79b19d2b3a8368b48",
+  "publisher": "the_boys",
+  "about": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.",
+  "note": null,
+  "source": "the_boys"
+}

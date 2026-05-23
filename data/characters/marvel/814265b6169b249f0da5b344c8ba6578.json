@@ -1,0 +1,328 @@
+{
+  "id": "814265b6169b249f0da5b344c8ba6578",
+  "name": "Zeus",
+  "native_name": null,
+  "full_name": "Zeus",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Olympian",
+    "race": "God",
+    "bloodline": null,
+    "height_cm": 198,
+    "weight_kg": 270,
+    "age": "Eternal",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 68.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Grey",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Olympus",
+    "current_location": "Olympus",
+    "base_of_operations": "Olympus",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "King of the Gods",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Olympian Gods"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Journey into Mystery #114 (1965)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Godlike Strength",
+      "native_name": null,
+      "description": "Superhuman strength equal to other sky-fathers",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Cosmic Energy Manipulation",
+      "native_name": null,
+      "description": "Control over mystical energies",
+      "type": "Energy",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global",
+      "limit": null
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Eternal life force",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Godlike Strength",
+    "Cosmic Energy Manipulation",
+    "Immortality"
+  ],
+  "ultimate_move": "Godlike Strength",
+  "trump_card": "Cosmic Energy Manipulation",
+  "power_attributes": {
+    "power_type": "Olympian Magic",
+    "power_source": "Olympus",
+    "combat_style": [],
+    "weapon": "Thunderbolt",
+    "equipment": [
+      "Crown",
+      "Scepter"
+    ],
+    "trump_card": "Cosmic Energy Manipulation",
+    "ultimate_move": "Godlike Strength"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Proud",
+      "Physically active",
+      "Energetic",
+      "Protective"
+    ],
+    "likes": [
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being controlled"
+    ],
+    "fear": "Betrayal",
+    "dream": "Maintain divine order",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "King of the Olympian gods - leader of the Greek pantheon",
+    "motivation": "Maintain divine order",
+    "affinity": "Sky",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Led the Olympian gods"
+  ],
+  "titles": [
+    "King of the Gods",
+    "Zeus Panoptes"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 95,
+    "speed": 80,
+    "durability": 95,
+    "power": 95,
+    "combat": 80,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Odin"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Odin",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Odin"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Odin"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Olympian Gods"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_name": null,
+    "english": "Unknown",
+    "note": "From Marvel Comics",
+    "native_language": "English",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Olympus",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Zeus is the supreme deity of the Greek pantheon. He is a sky and thunder god in ancient Greek religion and mythology, who rules as king of the gods on Mount Olympus.",
+  "note": null,
+  "source": "marvel"
+}

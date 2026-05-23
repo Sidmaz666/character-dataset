@@ -1,0 +1,463 @@
+{
+  "name": "Dick Grayson",
+  "native_name": "ディック・グレイソン",
+  "full_name": "Richard John Grayson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 178,
+    "weight_kg": 79,
+    "age": "20s",
+    "birthday": "Dec 1",
+    "zodiac": "Sagittarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 24.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Acrobatic build",
+      "Nightwing costume",
+      "Grayson family crest"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Bludhaven",
+    "base_of_operations": "Bludhaven",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Police Officer (formerly)",
+    "rank_title": "Nightwing",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Batman Family",
+      "Justice League",
+      "Titans",
+      "Outsiders"
+    ],
+    "previous": [
+      "Gotham City Police Department",
+      "Teen Titans"
+    ],
+    "relatives": [
+      "Bruce Wayne (adoptive father)",
+      "John Grayson (father)",
+      "Mary Grayson (mother)",
+      "Jason Todd (adoptive brother)",
+      "Tim Drake (adoptive brother)",
+      "Damian Wayne (adoptive brother)",
+      "Barbara Gordon (love interest)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Detective Comics #38 (April 1940)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Peak Human Agility",
+      "native_name": null,
+      "description": "Trained by Bruce Wayne from childhood. One of the most agile humans in DC Universe. Former circus acrobat from the Flying Graysons.",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Expert in multiple martial arts including Escrima, Aikido, Judo, Karate, Boxing. Trained by Batman and Richard Dragon.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Expert Detective",
+      "native_name": null,
+      "description": "Trained by Batman in detective work, forensics, and criminal psychology. Second-best detective in the Bat-Family.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Escrima Stick Mastery",
+      "native_name": null,
+      "description": "Expert in dual Escrima sticks. Electrified sticks deliver non-lethal shocks. Can use for combat, defense, and traversal.",
+      "type": "Weapon",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Flying Grayson Flip",
+    "Escrima Strike Combo",
+    "Nightwing Drop"
+  ],
+  "ultimate_move": "Wing-Ding Barrage (Electrified Escrima Assault)",
+  "trump_card": "Batman-Level Tactical Mind + Peak Agility",
+  "power_attributes": {
+    "power_type": "Peak Human",
+    "power_source": "Training",
+    "combat_style": [
+      "Acrobatics",
+      "Escrima",
+      "Martial Arts",
+      "Stealth"
+    ],
+    "weapon": "Dual Escrima Sticks",
+    "equipment": [
+      "Nightwing Suit",
+      "Wing-Dings",
+      "Grapple Gun",
+      "Smoke Pellets",
+      "Electrified Escrima Sticks"
+    ],
+    "trump_card": "Batman-Level Tactical Mind + Peak Agility",
+    "ultimate_move": "Wing-Ding Barrage (Electrified Escrima Assault)"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Optimistic",
+      "Confident",
+      "Loyal",
+      "Determined",
+      "Witty"
+    ],
+    "likes": [
+      "Gymnastics",
+      "Justice",
+      "Bruce Wayne (as family)",
+      "Barbara Gordon",
+      "Bludhaven"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Being compared to Batman",
+      "Losing allies",
+      "Gotham corruption"
+    ],
+    "fear": "Becoming like Batman (isolated and cold)",
+    "dream": "Protect Bludhaven and honor his parents' legacy",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Charismatic",
+      "Loyal",
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From Robin (first sidekick) to independent hero Nightwing. Leading the Titans and becoming a symbol of hope separate from Batman's shadow. Later becomes Agent 37 for Spyral, then returns as Nightwing.",
+    "motivation": "Protect the innocent, honor his parents, forge his own identity",
+    "affinity": "Acrobatics",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "First Robin",
+    "Founded Titans",
+    "Became Nightwing",
+    "Protected Bludhaven",
+    "Filled in as Batman during Bruce absence"
+  ],
+  "titles": [
+    "Nightwing",
+    "Robin (formerly)",
+    "Batman (temporary)",
+    "Agent 37 (Spyral)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by various criminal organizations"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 92,
+    "durability": 70,
+    "power": 65,
+    "combat": 93,
+    "total": 475
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability limits",
+      "Emotional connections",
+      "Overconfidence"
+    ],
+    "factors": [
+      "Can be emotionally manipulated through his allies"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Deathstroke (Slade Wilson)",
+    "allies": [
+      "Batman",
+      "Batgirl",
+      "Superman",
+      "Wonder Woman",
+      "Starfire",
+      "Cyborg",
+      "Raven",
+      "Beast Boy",
+      "Damian Wayne"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Adoptive father/Mentor",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Barbara Gordon (Batgirl)",
+        "relationship": "Love interest/Partner",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Deathstroke",
+      "Blockbuster",
+      "Joker",
+      "Two-Face",
+      "Court of Owls"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Barbara Gordon (Batgirl)",
+    "best_friend": "Wally West (The Flash)",
+    "rival": "Jason Todd (Red Hood)",
+    "mentor": "Bruce Wayne (Batman)",
+    "student": "Damian Wayne",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Batman",
+      "Batgirl",
+      "Superman",
+      "Wonder Woman",
+      "Starfire",
+      "Cyborg",
+      "Raven",
+      "Beast Boy",
+      "Damian Wayne",
+      "Wally West (The Flash)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Deathstroke (Slade Wilson)",
+      "Jason Todd (Red Hood)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Jason Todd"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Damian Wayne"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Batman",
+      "Batgirl",
+      "Superman",
+      "Wonder Woman",
+      "Starfire",
+      "Cyborg",
+      "Raven",
+      "Beast Boy",
+      "Damian Wayne",
+      "Wally West"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Bruce Wayne"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Deathstroke",
+      "result": "Draw",
+      "method": "Acrobatic combat and tactical retreat"
+    },
+    {
+      "opponent": "Blockbuster",
+      "result": "Victory",
+      "method": "Undercover operation and combat"
+    }
+  ],
+  "quotes": [
+    "I am not Batman. I am Nightwing.",
+    "You can take the boy out of the circus, but you can't take the circus out of the boy.",
+    "Gotham needs a Batman. But the world needs more than that."
+  ],
+  "voice_acting": {
+    "native_language": "Jess Harnell (English)",
+    "english": "Jess Harnell",
+    "note": "Iconic voice of Nightwing",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues to protect Bludhaven as Nightwing",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Robin",
+      "Nightwing",
+      "Batman (temporary)",
+      "Agent 37 (Spyral)",
+      "Nightwing (returned)"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Nightwing Motorcycle",
+      "Batwing (occasional)"
+    ],
+    "vehicles": [
+      "Nightwing Motorcycle"
+    ],
+    "headquarters": "Bludhaven, The Belfry",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "75639a5f82d413ac545e309da634f1da",
+  "publisher": "dc",
+  "about": "Richard John \"Dick\" Grayson is a superhero appearing in American comic books published by DC Comics, commonly in association with Batman, the Teen Titans, and the Justice League. Created by writer Bill Finger and artist Bob Kane, he first appeared in Detective Comics #38 in April 1940. Dick is the original and most popular incarnation of Robin, the crime-fighting partner of Batman, with whom he forms the Dynamic Duo. The son of master acrobats dubbed the Flying Graysons, he is later adopted by Batman's alter ego Bruce Wayne. \nDick Grayson's character has evolved since he was introduced in 1940. In 1984, he graduated from the role of Robin to become the adult superhero Nightwing, protector of the city of Blüdhaven, an economically troubled neighbor of Gotham City. As Bruce's eldest son, Dick has become an older-brother figure to his male successors as Robin: tearaway Jason Todd, teenage prodigy Tim Drake, and Batman's biological child, trained assassin Damian Wayne. In the Batman Family, his closest relationships are with Batman's loyal butler and father figure Alfred Pennyworth, and with one of his romantic interests Barbara Gordon, who served as Batgirl alongside Dick, and who later helps Nightwing as Oracle. Dick has also taken up the mantle of Batman on occasions when Bruce was missing, incapacitated, or believed dead.\nDick is well-connected to other characters across the fictional DC Universe, particularly since 1964, when he became a founding member of the Teen Titans superhero group with other sidekicks of the Justice League. Teen Titans establishes many of the character's most significant partnerships, including with his best friends Wally West (Kid Flash), Donna Troy (Wonder Girl), and Roy Harper (Speedy), and his most well-known romantic interest, the Tamaranean princess Starfire. Dick is widely recognised as one of the superhero community's greatest strategists, leading the adult Titans team, the Outsiders, and even the Justice League at various times. Dick also has connections to the Superman franchise, with Superman providing the original inspiration for him to become Nightwing and take on a different style of superheroism from Batman, with Nightwing later mentoring Superman's son Jon Kent.\nGrayson has appeared as Robin in many Batman adaptations over the years. In live-action, the character appeared in the serial Batman played by Douglas Croft, the serial Batman and Robin played by Johnny Duncan, the television series Batman and its film played by Burt Ward, the film Batman Forever and its sequel Batman & Robin played by Chris O'Donnell, and the television series Titans played by Brenton Thwaites.",
+  "note": null,
+  "source": "dc"
+}

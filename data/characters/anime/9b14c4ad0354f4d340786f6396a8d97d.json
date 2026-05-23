@@ -1,0 +1,298 @@
+{
+  "id": "9b14c4ad0354f4d340786f6396a8d97d",
+  "name": "McMahon, Shoot",
+  "native_name": "シュート・マクマホン",
+  "full_name": "Shoot McMahon",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 190,
+    "weight_kg": 90,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Nen user, tall",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Various",
+    "current_location": "Various",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter",
+    "secondary": "Nen user",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hunter Association"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter",
+    "manga": "Hunter x Hunter",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Skilled",
+      "Loyal"
+    ],
+    "likes": [
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Frivolity",
+      "Betrayal"
+    ],
+    "fear": "Failure",
+    "dream": "Investigate",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Skilled",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weakness"
+    ]
+  },
+  "character": {
+    "arc": "Nen-using Hunter",
+    "motivation": "Investigate",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 80,
+    "speed": 75,
+    "durability": 75,
+    "power": 80,
+    "combat": 80,
+    "total": 465
+  },
+  "relationships": {
+    "partner": "Morel",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Target/Hunted"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Morel"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Target/Hunted"
+    ],
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Morel"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Bow",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Yuuji Ueda (Japanese)",
+    "Voiced by D.C. Douglas (English)"
+  ],
+  "titles": [
+    "Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Weakness"
+    ],
+    "factors": [
+      "weakness"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "D.C. Douglas",
+    "note": null,
+    "native_name": null,
+    "japanese": "Yuuji Ueda"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "Age: 14-15\nBirthday: July 20\nHeight: 159 cm\nWeight: 48 kg\nAbilities: assassination, people reading\nFavorite subject: English\nLeast favorite subject: science\nFavorite food: sushi\nHobby: researching\nClass seat number: 11\n\nHe is one of students in Class 3-E. Nagisa is seen as one of the weakest students in the class due to his small stature and mediocre physical abilities that are comparable to some of the girls in the class. However, he is actually the most talented to become an assassin out of all the students, something that acknowledged by Korosensei and Karasuma. He is able to draw closer while hiding his bloodlust to make a surprise attack and able to make his opponents falter through his bloodlust alone.\n\nNagisa usually writes Korosensei's weaknesses that at first seem minor (since it doesn't look like major weaknesses), but eventually revealed to be useful since once they're able to almost kill Korosensei because of one of his weaknesses that is the same as the one that Nagisa has written down in his note.\n\nOutwardly friendly and polite to his friends and everyone, he hides a somewhat darker side of him as an assassin that won't be able to be found out during daily classes and will only shown during training and assassination time. According to Karasuma, whenever Nagisa unleashes his killing intent, he isn't training and truly goes for a kill.",
+  "note": null,
+  "source": "anime"
+}

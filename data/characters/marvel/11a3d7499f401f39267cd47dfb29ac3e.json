@@ -1,0 +1,402 @@
+{
+  "id": "11a3d7499f401f39267cd47dfb29ac3e",
+  "name": "Ant-Man",
+  "native_name": "",
+  "full_name": "Hank Pym",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Pym Family",
+    "height_cm": 183,
+    "weight_kg": 84,
+    "age": "45",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Scientist appearance",
+      "Ant-Man helmet"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Elmsford, New York",
+    "current_location": "New York City",
+    "base_of_operations": "Avengers Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Biochemist",
+    "secondary": "Superhero",
+    "rank_title": "Doctor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers"
+    ],
+    "previous": [
+      "S.H.I.E.L.D.",
+      "Defenders"
+    ],
+    "relatives": [
+      "Maria Trovaya (first wife, deceased)",
+      "Janet Van Dyne (ex-wife)",
+      "Hope Pym (daughter)",
+      "Nadia Pym (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Tales to Astonish #27 (1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Size Manipulation",
+      "native_name": null,
+      "description": "Shrink to ant-size or grow to giant-size using Pym Particles",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Requires Pym Particles"
+    },
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "One of smartest in Marvel, expert in biochemistry and quantum physics",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Ant Communication",
+      "native_name": null,
+      "description": "Communicates with and controls ants via subsonic frequencies",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Medium",
+      "limit": "Requires helmet"
+    },
+    {
+      "name": "Pym Particle Mastery",
+      "native_name": null,
+      "description": "Can shrink/grow other objects",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Touch",
+      "limit": "Requires Pym Particles"
+    },
+    {
+      "name": "Giant-Man Form",
+      "native_name": null,
+      "description": "Grows to 60ft with proportionate superhuman strength",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Drains energy"
+    }
+  ],
+  "signature_moves": [
+    "Shrinking Strike",
+    "Giant Smash",
+    "Ant Swarm"
+  ],
+  "ultimate_move": "Quantum Realm Banish",
+  "trump_card": "Pym Particle discovery",
+  "power_attributes": {
+    "power_type": "Size Manipulation",
+    "power_source": "Pym Particles",
+    "combat_style": [
+      "Size-changing",
+      "Scientific"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Ant-Man helmet",
+      "Pym Particle canisters"
+    ],
+    "trump_card": "Pym Particle discovery",
+    "ultimate_move": "Quantum Realm Banish"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Eccentric",
+      "Passionate",
+      "Volatile",
+      "Guilt-ridden"
+    ],
+    "likes": [
+      "Science",
+      "Discoveries",
+      "Janet Van Dyne"
+    ],
+    "dislikes": [
+      "His failures",
+      "Ultron"
+    ],
+    "fear": "Losing control of his creations",
+    "dream": "Unlock secrets of the quantum realm",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Size Manipulation",
+      "Genius-Level Intellect",
+      "Ant Communication",
+      "Pym Particle Mastery"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Brilliant scientist who discovered Pym Particles, founding Avenger struggling with his legacy",
+    "motivation": "Scientific discovery and redemption",
+    "affinity": "Science/Redemption",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Founding Avenger",
+    "Discovered Pym Particles",
+    "Created Ultron (unintentionally)"
+  ],
+  "titles": [
+    "Dr. Pym",
+    "Founding Avenger"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 30,
+    "speed": 50,
+    "durability": 30,
+    "power": 90,
+    "combat": 50,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Pym Particle dependency",
+      "Mental instability"
+    ],
+    "factors": "Without Pym Particles, normal"
+  },
+  "relationships": {
+    "nemesis": "Ultron",
+    "allies": [
+      "Wasp",
+      "Iron Man",
+      "Captain America",
+      "Thor"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Ultron",
+      "Egghead"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Janet Van Dyne",
+    "best_friend": "Tony Stark",
+    "rival": null,
+    "mentor": null,
+    "student": "Scott Lang",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Wasp",
+      "Iron Man",
+      "Captain America",
+      "Thor",
+      "Tony Stark"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ultron"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Scott Lang"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Wasp",
+      "Iron Man",
+      "Captain America",
+      "Thor",
+      "Tony Stark"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ultron",
+      "result": "Victory",
+      "method": "Counter-measures"
+    },
+    {
+      "opponent": "Egghead",
+      "result": "Victory",
+      "method": "Outsmarted"
+    }
+  ],
+  "quotes": [
+    "Size isn't everything."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues scientific work",
+    "transformation": "Multiple alias changes",
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Ant-Man is the name of several superheroes appearing in books published by Marvel Comics, all of whom can shrink to the size of an ant and usually have telepathic control over ants.",
+  "note": null,
+  "source": "marvel"
+}

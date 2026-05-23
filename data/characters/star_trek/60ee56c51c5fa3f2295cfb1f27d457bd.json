@@ -1,0 +1,404 @@
+{
+  "id": "60ee56c51c5fa3f2295cfb1f27d457bd",
+  "name": "Nyota Uhura",
+  "native_name": null,
+  "full_name": "Nyota Uhura",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human (African-American)",
+    "bloodline": "Uhura",
+    "height_cm": 165,
+    "weight_kg": 58,
+    "age": "26 at start of TOS",
+    "birthday": "2239",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Gracile presence",
+      "Exceptional beauty",
+      "Communicator position"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Africa, Earth (Kenya)",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (various)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Communications Officer",
+    "secondary": "Linguist, Singer",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "USS Enterprise (various)"
+    ],
+    "relatives": [
+      "Related to future Uhura (Starfleet Academy)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Original Series (1966) - \"The Cage\" (pilot)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Linguistic Mastery",
+      "native_name": null,
+      "description": "Speaks hundreds of languages fluently, including Klingon",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Very rare untranslatable languages"
+    },
+    {
+      "name": "Communications Systems",
+      "native_name": null,
+      "description": "Expert in all communications technology and subspace frequencies",
+      "type": "Tech",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Unlimited (subspace range)",
+      "limit": "Range depends on technology"
+    },
+    {
+      "name": "Singing",
+      "native_name": null,
+      "description": "Talented singer, performed on ship",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Entertainment value only"
+    }
+  ],
+  "signature_moves": [
+    "Universal Translation",
+    "Frequency Override",
+    "Subspace Communication"
+  ],
+  "ultimate_move": "Klingon Language Expertise (defeated Gorkon)",
+  "trump_card": "Frequency Hopping to Evade Enemies",
+  "power_attributes": {
+    "power_type": "Technical/Linguistic",
+    "power_source": "Training/Instinct",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Communicator",
+      "Subspace Array"
+    ],
+    "trump_card": "Frequency Hopping to Evade Enemies",
+    "ultimate_move": "Klingon Language Expertise (defeated Gorkon)"
+  },
+  "personality": {
+    "traits": [
+      "Confident",
+      "Professional",
+      "Warm",
+      "Competent",
+      "Dignified"
+    ],
+    "likes": [
+      "Music",
+      "Languages",
+      "Adventure"
+    ],
+    "dislikes": [
+      "Being Underestimated",
+      "Communication Jamming"
+    ],
+    "fear": "Being Unable to Help Via Communications",
+    "dream": "Exploring and Communicating with New Species",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From young officer to communications legend, broke barriers as Black woman in Starfleet",
+    "motivation": "Connecting civilizations through communication",
+    "affinity": "Communication",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "One of the finest linguists in Starfleet history",
+    "Served on Enterprise during historic missions",
+    "Defeated Gorkon with language skills",
+    "Pioneered subspace communication techniques",
+    "Broke barriers as Black woman in 23rd century Starfleet"
+  ],
+  "titles": [
+    "Lieutenant Uhura",
+    "Communications Officer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 55,
+    "speed": 65,
+    "durability": 60,
+    "power": 55,
+    "combat": 60,
+    "total": 383
+  },
+  "weaknesses": {
+    "list": [
+      "Reliance on Technology",
+      "Limited Direct Combat Skills"
+    ],
+    "factors": [
+      "Communications jamming limits her"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Various enemies",
+    "allies": [
+      "James T. Kirk",
+      "Spock",
+      "Sulu",
+      "Scotty"
+    ],
+    "allies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Captain",
+        "trust_level": "High"
+      },
+      {
+        "name": "Spock",
+        "relationship": "Communications/science overlap",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Klingons (historical)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Scotty (brief romance)",
+    "best_friend": "Sulu (close friendship)",
+    "rival": "None significant",
+    "mentor": "Various instructors",
+    "student": "Various cadets",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "James T. Kirk",
+      "Spock",
+      "Sulu",
+      "Scotty",
+      "Sulu (close friendship)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various enemies",
+      "None significant"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None significant"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various cadets"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "James T. Kirk",
+      "Spock",
+      "Sulu",
+      "Scotty"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various instructors"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gorkon",
+      "result": "Victory",
+      "method": "Communicated with dying warrior"
+    },
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Communication expertise"
+    }
+  ],
+  "quotes": [
+    "I have the bridge.",
+    "Opening channel. Subspace.",
+    "All frequencies, Commander. We're listening."
+  ],
+  "voice_acting": {
+    "native_language": "Nichelle Nichols",
+    "english": "Nichelle Nichols",
+    "note": "Legendary actress, inspiration to Whoopi Goldberg",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Continued service in Starfleet",
+    "transformation": "Rose through ranks over career",
+    "awakening_potential": "Became legendary communicator",
+    "power_evolution": [
+      "Ensign",
+      "Lieutenant",
+      "Senior Officer"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (various)"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise Bridge",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Nyota Uhura, or simply Uhura, is a fictional character in the Star Trek franchise. In the original television series, the character was portrayed by Nichelle Nichols, who reprised the role for the first six Star Trek feature films. A younger Uhura is portrayed by Celia Rose Gooding in the 2022 prequel series Star Trek: Strange New Worlds, while an alternate timeline version of Uhura has been portrayed by actress Zoe Saldaña in the feature films Star Trek (2009), Star Trek Into Darkness (2013), and Star Trek Beyond (2016).",
+  "note": null,
+  "source": "star_trek"
+}

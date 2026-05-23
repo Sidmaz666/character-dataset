@@ -1,0 +1,460 @@
+{
+  "id": "42f3f285015215e7e0c257ef63bedb89",
+  "name": "Riddler",
+  "native_name": null,
+  "full_name": "Edward Nigma (formerly Edward Nashton)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Nashton Family",
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": "38",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Bald (formerly brown)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Question mark cane",
+      "Green suit",
+      "Bald head",
+      "Question mark motifs"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Criminal mastermind",
+    "secondary": "Puzzle creator",
+    "rank_title": "Prince of Puzzles",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Secret Society of Super Villains"
+    ],
+    "previous": [
+      "Injustice League",
+      "Legion of Doom"
+    ],
+    "relatives": [
+      "Unknown parents"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Detective Comics #140 (1948)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "Extremely intelligent with expertise in puzzles, riddles, and strategy",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Puzzle Mastery",
+      "native_name": null,
+      "description": "Can create and solve complex puzzles and riddles",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Strategic Planning",
+      "native_name": null,
+      "description": "Master strategist and tactician",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Unpredictable factors"
+    },
+    {
+      "name": "Engineering",
+      "native_name": null,
+      "description": "Expert engineer capable of creating complex devices",
+      "type": "Technical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Resources and time"
+    },
+    {
+      "name": "Combat Skills",
+      "native_name": null,
+      "description": "Trained in various forms of combat",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Psychological Manipulation",
+      "native_name": null,
+      "description": "Expert at psychological warfare and manipulation",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Requires victims"
+    },
+    {
+      "name": "Escape Artist",
+      "native_name": null,
+      "description": "Expert at escaping from confinement",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Unlimited",
+      "limit": "Physical limitations"
+    },
+    {
+      "name": "Gadget Creation",
+      "native_name": null,
+      "description": "Can create various gadgets and devices",
+      "type": "Technical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Unlimited",
+      "limit": "Resources and time"
+    }
+  ],
+  "signature_moves": [
+    "Riddle creation",
+    "Trap setting",
+    "Psychological manipulation"
+  ],
+  "ultimate_move": "Complex puzzle trap",
+  "trump_card": "Intelligence and preparation",
+  "power_attributes": {
+    "power_type": "Human",
+    "power_source": "Intelligence and obsession",
+    "combat_style": [
+      "Strategic",
+      "Psychological",
+      "Prepared"
+    ],
+    "weapon": "Question mark cane",
+    "equipment": [
+      "Question mark cane",
+      "Various gadgets",
+      "Riddles"
+    ],
+    "trump_card": "Intelligence and preparation",
+    "ultimate_move": "Complex puzzle trap"
+  },
+  "personality": {
+    "traits": [
+      "Obsessive",
+      "Narcissistic",
+      "Intellectual",
+      "Compulsive",
+      "Arrogant"
+    ],
+    "likes": [
+      "Riddles",
+      "Puzzles",
+      "Proving his intelligence",
+      "Wordplay"
+    ],
+    "dislikes": [
+      "Batman solving his riddles",
+      "Being ignored",
+      "Simple answers"
+    ],
+    "fear": "Being considered stupid",
+    "dream": "To finally outsmart Batman",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius Intelligence",
+      "Puzzle Mastery",
+      "Strategic Planning",
+      "Engineering"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Obsessive"
+    ]
+  },
+  "character": {
+    "arc": "A brilliant egomaniac obsessed with proving intellectual superiority through elaborate riddles",
+    "motivation": "Prove he is smarter than Batman",
+    "affinity": "Knowledge/Ego",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Created elaborate crime puzzles",
+    "Nearly killed Batman multiple times"
+  ],
+  "titles": [
+    "The Prince of Puzzles",
+    "Master of Riddles"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Multiple life sentences, frequently escapes"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 40,
+    "speed": 45,
+    "durability": 40,
+    "power": 35,
+    "combat": 50,
+    "total": 308
+  },
+  "weaknesses": {
+    "list": [
+      "Compulsive need to leave riddles",
+      "Ego"
+    ],
+    "factors": "Human limitations"
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [
+      "Hush"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Two-Face",
+        "relationship": "Fellow villain",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Penguin",
+        "relationship": "Fellow villain",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Various villains",
+        "relationship": "Temporary allies",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Batman",
+      "Gordon"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Batman",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Jim Gordon",
+        "relationship": "Law enforcement enemy",
+        "threat_level": "High"
+      },
+      {
+        "name": "Robin",
+        "relationship": "Enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Batman",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hush"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Batman"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hush"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Defeat",
+      "method": "Riddle solved"
+    }
+  ],
+  "quotes": [
+    "Riddle me this, Batman!"
+  ],
+  "voice_acting": {
+    "native_language": "John Glover",
+    "english": "John Glover",
+    "note": "Voiced in Batman: The Animated Series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Imprisoned in Arkham",
+    "transformation": "N/A",
+    "awakening_potential": "None - already at peak human potential",
+    "power_evolution": [
+      "Small-time criminal",
+      "Major villain"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Various vehicles"
+    ],
+    "headquarters": "Gotham City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "The Riddler (Edward Nigma, later Edward Nygma or Edward Nashton) is a supervillain appearing in American comic books published by DC Comics. He was created by Bill Finger and Dick Sprang, and debuted in Detective Comics #140 in October 1948. He is one of the most enduring enemies of the superhero Batman and belongs to the collective of adversaries that make up his rogues gallery.\nThe Riddler is depicted as a criminal mastermind in Gotham City. He has an obsessive compulsion to incorporate riddles, puzzles, and death traps in his schemes to prove his intellectual superiority over Batman and the police. His real name—Edward Nigma—is a pun itself; an \"enigma\" is a person or thing that is difficult to understand. With this self-conscious use of an elaborate gimmick, the Riddler's crimes are often theatrical and ostentatious. He commonly wears a domino mask and either a green unitard decorated with question mark prints or a green suit and bowler hat. A black, green, or purple question mark is his visual motif. He commonly says \"Riddle me this\", before stating his riddles.\nThe Riddler has been adapted into numerous forms of media, having been portrayed in live action by Frank Gorshin and John Astin on the 1960s television series Batman, Jim Carrey in the 1995 film Batman Forever, Cory Michael Smith on the 2014 Fox series Gotham, and Paul Dano in the 2022 film The Batman. John Glover, Robert Englund, Wally Wingert, and others have provided his voice ranging from animation to video games.",
+  "note": null,
+  "source": "dc"
+}

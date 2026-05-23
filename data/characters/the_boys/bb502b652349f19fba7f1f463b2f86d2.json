@@ -1,0 +1,324 @@
+{
+  "name": "The Protector",
+  "native_name": null,
+  "full_name": "The Protector",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 85,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Generic supe costume",
+      "Shield"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Vought",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe",
+    "secondary": null,
+    "rank_title": "The Protector",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Enhanced Physicals",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee"
+    }
+  ],
+  "signature_moves": [
+    "Protector Slam",
+    "Shield Bash"
+  ],
+  "ultimate_move": "Protector Defense",
+  "trump_card": "Enhanced Durability",
+  "power_attributes": {
+    "power_type": "Enhanced Human",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Shield combat",
+      "Brawling"
+    ],
+    "weapon": "Shield",
+    "equipment": [
+      "Supe costume"
+    ],
+    "trump_card": "Enhanced Durability",
+    "ultimate_move": "Protector Defense"
+  },
+  "personality": {
+    "traits": [
+      "Heroic (Vought-manufactured)",
+      "Brave",
+      "Physically active"
+    ],
+    "likes": [
+      "Publicity",
+      "Heroism"
+    ],
+    "dislikes": [
+      "Criticism"
+    ],
+    "fear": "Being exposed",
+    "dream": "Fame",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Heroic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Generic supe manufactured by Vought. The Protector is a less prominent supe in the Vought roster.",
+    "motivation": "Fame and fortune",
+    "affinity": "Supe",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Vought supe"
+  ],
+  "titles": [
+    "The Protector"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 65,
+    "speed": 55,
+    "durability": 62,
+    "power": 58,
+    "combat": 60,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Human-level",
+      "Low power",
+      "Vought dependency"
+    ],
+    "factors": [
+      "Average supe power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought",
+      "Other supes"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought",
+      "Other supes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "Other supes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I protect. It is what I do."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought supe",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "The Protector"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Vought",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "bb502b652349f19fba7f1f463b2f86d2",
+  "publisher": "the_boys",
+  "about": "The Protector is a character from The Boys comic series who serves as Supe. They possesses the abilities of Enhanced Physicals. They originates from [object Object].",
+  "note": null,
+  "source": "the_boys"
+}

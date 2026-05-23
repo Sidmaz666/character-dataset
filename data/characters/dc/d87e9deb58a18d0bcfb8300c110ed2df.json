@@ -1,0 +1,317 @@
+{
+  "id": "d87e9deb58a18d0bcfb8300c110ed2df",
+  "name": "Hal Jordan",
+  "native_name": null,
+  "full_name": "Hal Jordan",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 188,
+    "weight_kg": 90,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Coast City, California",
+    "current_location": null,
+    "base_of_operations": "Coast City, California",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Adventurer, Air Force Test Pilot",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Green Lantern Corps",
+      "Justice League of America",
+      "Justice League Europe",
+      "frequently teamed with the second Flash and the original Green Arrow"
+    ],
+    "previous": [],
+    "relatives": [
+      "Martin H. \"Marty\" Jordan (father",
+      "deceased)",
+      "Jessica Jordan (mother",
+      "deceased)",
+      "Jim Jordan (younger brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Showcase #22",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Ring"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Unknown",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Powers and Abilities"
+  ],
+  "titles": [
+    "Parallax",
+    "Spectre",
+    "Green Lantern"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 90,
+    "speed": 75,
+    "durability": 80,
+    "power": 100,
+    "combat": 70,
+    "total": 484
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Nekron",
+    "allies": [
+      "Green Lantern Corps",
+      "Justice League of America",
+      "Justice League Europe"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Nekron"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Green Lantern Corps",
+      "Justice League of America",
+      "Justice League Europe"
+    ],
+    "colleague": null,
+    "enemy": "Nekron",
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Green Lantern Corps",
+      "Justice League of America",
+      "Justice League Europe"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Coast City, California",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Harold \"Hal\" Jordan, one of the characters known as Green Lantern, is a superhero appearing in American comic books published by DC Comics. The character was created in 1959 by writer John Broome and artist Gil Kane, and first appeared in Showcase #22 (October 1959). Hal Jordan is a reinvention of the previous Green Lantern, who appeared in 1940s comic books as the character Alan Scott. While Alan Scott had been designed after characters from folklore and mythology, Kane instead drew visual inspiration for Hal from Hollywood actor Paul Newman.\nHal Jordan is a former fighter pilot who works for Ferris Aircraft as a test pilot, a member and occasionally leader of an intergalactic police force called the Green Lantern Corps, as well as a founding member of the Justice League, DC's flagship superhero team, alongside well-known heroes such as Batman, Superman, and Wonder Woman. He fights evil across the universe with a power ring that channels willpower into energy constructs. As Green Lantern, Hal is the assigned protector of Sector 2814, which includes Earth, on behalf of the Guardians of the Universe. His ring grants him powers of flight, space travel, and the ability to create shields, weapons, and even his uniform. Hal's on-again off-again love interest is Carol Ferris, who has also at times served as his enemy Star Sapphire. Other villains in Hal's stories include the psychic mutant Hector Hammond, avatar of death Nekron, and his archenemy, Sinestro, Hal's corrupt former Green Lantern mentor.\nDuring the 1990s, Jordan also appeared as a villain. The Emerald Twilight and Zero Hour: Crisis in Time! storylines see him become the villain Parallax following Mongul's destruction of his hometown Coast City, kill most of the Green Lantern Corps, and threaten to destroy the universe. In subsequent years, Parallax is revealed to be an evil cosmic entity who corrupted Jordan. Between his stint as Parallax and return to being a Green Lantern, Jordan also briefly served as the Spectre, an agent of God and the embodiment of his wrath. In 2012, DC editors also revealed that the character is Jewish, making him one of the most high-profile Jewish characters in comic books.\nOutside of comics, Hal Jordan has appeared in various animated projects, video games, and live-action. Hal Jordan's first live-action appearance was in the 1978 television special Legends of the Superheroes, where he was played by Howard Murphy. He made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds, and will be portrayed by Kyle Chandler in the DC Universe, beginning with the series Lanterns. In animation, Jordan has notably been voiced by Jonah Hill, Nathan Fillion, Michael Rye, and Josh Keaton. The character is routinely ranked among the most popular characters of all time.",
+  "note": null,
+  "source": "dc"
+}

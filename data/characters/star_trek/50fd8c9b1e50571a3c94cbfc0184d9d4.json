@@ -1,0 +1,410 @@
+{
+  "id": "50fd8c9b1e50571a3c94cbfc0184d9d4",
+  "name": "Chakotay",
+  "native_name": null,
+  "full_name": "Chakotay",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Native American heritage)",
+    "bloodline": "Chakotay",
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": "38 when on Voyager",
+    "birthday": "2331",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Tan",
+    "notable_features": [
+      "Tribal tattoos",
+      "Strong features",
+      "Native American bearing"
+    ],
+    "skin": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth (possibly Dorvan V)",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "First Officer",
+    "secondary": "Maquis Captain",
+    "rank_title": "Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Maquis"
+    ],
+    "relatives": [
+      "Kolopak (father, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Led Maquis rebellion against Cardassians",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Requires crew loyalty"
+    },
+    {
+      "name": "Tribal Medicine",
+      "native_name": null,
+      "description": "Traditional Native American healing techniques",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Limited by belief systems"
+    },
+    {
+      "name": "Archaeology",
+      "native_name": null,
+      "description": "Trained archaeologist",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Requires artifacts"
+    }
+  ],
+  "signature_moves": [
+    "Native Wisdom",
+    "Meditation",
+    "Tribal Leadership"
+  ],
+  "ultimate_move": "Maquis Tactics",
+  "trump_card": "Tribal Spirit",
+  "power_attributes": {
+    "power_type": "Combat/Leadership",
+    "power_source": "Training/Tribal Heritage",
+    "combat_style": [
+      "Maquis Combat",
+      "Tribal Traditions"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Tribal Artifacts"
+    ],
+    "trump_card": "Tribal Spirit",
+    "ultimate_move": "Maquis Tactics"
+  },
+  "personality": {
+    "traits": [
+      "Spiritual",
+      "Calm",
+      "Patient",
+      "Protective",
+      "Occasionally Stubborn"
+    ],
+    "likes": [
+      "Meditation",
+      "Archaeology",
+      "His Crew"
+    ],
+    "dislikes": [
+      "Cardassians",
+      "Unnecessary Violence",
+      "Disunity"
+    ],
+    "fear": "Failing His Crew",
+    "dream": "Returning Home and Protecting His People",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "From Maquis rebel to Starfleet officer, bridged two crews in Delta Quadrant",
+    "motivation": "Protecting his people and finding home",
+    "affinity": "Leadership",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Led Maquis against Cardassians",
+    "Served as Voyager first officer",
+    "Reconciled former enemies",
+    "Helped return crew home",
+    "Commanded USS Protostar later"
+  ],
+  "titles": [
+    "Commander",
+    "First Officer",
+    "The Maquis Captain"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 78,
+    "speed": 75,
+    "durability": 78,
+    "power": 75,
+    "combat": 80,
+    "total": 468
+  },
+  "weaknesses": {
+    "list": [
+      "Past Conflict with Janeway",
+      "Stubbornness",
+      "Spiritual Nature"
+    ],
+    "factors": [
+      "Former Maquis vs Starfleet tension",
+      "Spirit animal visions"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Cardassians (historical)",
+    "allies": [
+      "Kathryn Janeway",
+      "Seven of Nine",
+      "B'Elanna Torres"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kathryn Janeway",
+        "relationship": "Captain and eventual friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "B'Elanna Torres",
+        "relationship": "Close friend, romantic history",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Cardassians",
+      "Kazon"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "B'Elanna Torres (brief), Seska (before betrayal)",
+    "best_friend": "Kathryn Janeway (later)",
+    "rival": "Tuvok (at first)",
+    "mentor": "His Father",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kathryn Janeway",
+      "Seven of Nine",
+      "B'Elanna Torres",
+      "Kathryn Janeway (later)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Cardassians (historical)",
+      "Tuvok (at first)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Tuvok"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kathryn Janeway",
+      "Seven of Nine",
+      "B'Elanna Torres"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "His Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Cardassians",
+      "result": "Various victories",
+      "method": "Maquis tactics"
+    },
+    {
+      "opponent": "Kazon",
+      "result": "Various",
+      "method": "First officer support"
+    }
+  ],
+  "quotes": [
+    "Every experience gives us something we can learn from.",
+    "Sometimes you can find peace by accepting you can't change the past.",
+    "The spirits guide us in many ways."
+  ],
+  "voice_acting": {
+    "native_language": "Robert Beltran",
+    "english": "Robert Beltran",
+    "note": "Character used Native American spiritual themes",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Commanded USS Protostar, disappeared",
+    "transformation": "From rebel to officer",
+    "awakening_potential": "Commanded his own ship eventually",
+    "power_evolution": [
+      "Maquis Captain",
+      "First Officer",
+      "Ship Captain"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager",
+      "USS Protostar"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Voyager",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Chakotay is a fictional character who appears in each of the seven seasons of the American science fiction television series Star Trek: Voyager. Portrayed by Robert Beltran, he was First Officer aboard the Starfleet starship USS Voyager, and later promoted to captain in command of the USS Protostar in Star Trek: Prodigy. The character was suggested at an early stage of the development of the series. He is the first Native American main character in the Star Trek franchise. This was a deliberate move by the producers of the series, who sought to inspire minorities – specifically Native Americans – as was intended with Uhura in Star Trek: The Original Series for African Americans. To develop the character, the producers sought the assistance of Jamake Highwater, who falsely claimed to be Native American. Despite first being named by producers as Sioux, and later Hopi, Chakotay was given no tribal affiliation at the start of the series, and eventually was assigned ancestry with a fictional tribe in the episode \"Tattoo”. It wasn't until his appearance in Star Trek: Prodigy that he was formally identified as a descendant of the Nicarao people of Central America.",
+  "note": null,
+  "source": "star_trek"
+}

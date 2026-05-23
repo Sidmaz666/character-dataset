@@ -1,0 +1,363 @@
+{
+  "name": "Lucan",
+  "native_name": null,
+  "full_name": "Lucan",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Viltrumite",
+    "race": "Viltrumite",
+    "bloodline": null,
+    "height_cm": 195,
+    "weight_kg": 110,
+    "age": "Ancient",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 28.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Viltrumite warrior uniform",
+      "Scarred",
+      "Massive build",
+      "Battle-hardened"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Viltrum",
+    "current_location": "Viltrum",
+    "base_of_operations": "Viltrum Empire",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Viltrumite Warrior",
+    "secondary": null,
+    "rank_title": "Elite Warrior",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Viltrumite Empire"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #75 (2010)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Viltrumite Physiology",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    },
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Melee"
+    },
+    {
+      "name": "Flight",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Planetary"
+    },
+    {
+      "name": "Enhanced Durability",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Viltrumite Charge",
+    "Brutal Slam",
+    "Warrior Strike"
+  ],
+  "ultimate_move": "Viltrumite Elite Fury",
+  "trump_card": "Viltrumite Warrior Training",
+  "power_attributes": {
+    "power_type": "Viltrumite Biology",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Brute force",
+      "Aerial",
+      "Viltrumite combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Viltrumite armor"
+    ],
+    "trump_card": "Viltrumite Warrior Training",
+    "ultimate_move": "Viltrumite Elite Fury"
+  },
+  "personality": {
+    "traits": [
+      "Brutal",
+      "Loyal (to Viltrum)",
+      "Warrior",
+      "Disciplined"
+    ],
+    "likes": [
+      "Battle",
+      "Viltrum strength",
+      "Victory"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Resistance",
+      "Half-breeds"
+    ],
+    "fear": "Viltrum defeat",
+    "dream": "Glorious conquest",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Disciplined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Brutal"
+    ]
+  },
+  "character": {
+    "arc": "Elite Viltrumite warrior who served under Thragg and later the reformed Empire under Invincible.",
+    "motivation": "Serve the Viltrumite Empire",
+    "affinity": "Viltrum",
+    "alignment": "Lawful Evil (reformed)"
+  },
+  "achievements": [
+    "Centuries of Viltrumite combat",
+    "Elite warrior status"
+  ],
+  "titles": [
+    "Lucan",
+    "Elite Viltrumite Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 85,
+    "speed": 80,
+    "durability": 88,
+    "power": 80,
+    "combat": 85,
+    "total": 473
+  },
+  "weaknesses": {
+    "list": [
+      "Inner ear",
+      "Viltrumite weaknesses"
+    ],
+    "factors": [
+      "Same Viltrumite vulnerabilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Viltrumite Empire"
+    ],
+    "enemies": [
+      "Coalition of Planets"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Viltrumite Empire"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Coalition of Planets"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Viltrumite Empire"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Victories",
+      "method": "Viltrumite combat"
+    }
+  ],
+  "quotes": [
+    "Viltrum forever."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Reformed Empire warrior",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Lucan",
+      "Elite Viltrumite"
+    ],
+    "role": "Supporting Viltrumite",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Viltrumite ship"
+    ],
+    "headquarters": "Viltrum",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "7dd06743361154b4395b948edad1a8be",
+  "publisher": "image_comics",
+  "about": "Marcus Annaeus Lucanus (3 November AD 39 – 30 April AD 65), better known in English as Lucan ( ), was a Roman poet, born in Corduba, Hispania Baetica (present-day Córdoba, Spain). He is regarded as one of the outstanding figures of the Imperial Latin period, known in particular for his epic Pharsalia. His youth and speed of composition set him apart from other poets.",
+  "note": null,
+  "source": "image_comics"
+}

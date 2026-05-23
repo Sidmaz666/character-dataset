@@ -1,0 +1,327 @@
+{
+  "id": "1a66ab62bfc858b7bcf9e01aa9cd1841",
+  "name": "Cell",
+  "native_name": "セル",
+  "full_name": "Cell",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Kami's Lookout",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Dragon Ball",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Android"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Z",
+    "manga": "Dragon Ball Z",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ki Manipulation",
+      "type": "Energy",
+      "description": "Skilled in controlling and projecting ki energy",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "description": "Highly trained in martial arts combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Flight",
+      "type": "Movement",
+      "description": "Ability to fly using ki",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Ki Manipulation",
+    "Martial Arts",
+    "Flight"
+  ],
+  "ultimate_move": "Ki Manipulation",
+  "trump_card": "Martial Arts",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Cosmic",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Martial Arts",
+    "ultimate_move": "Ki Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Competitive",
+      "Proud",
+      "Disciplined"
+    ],
+    "likes": [
+      "Competition",
+      "Protecting others",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Losing",
+      "Being controlled",
+      "Frivolity"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Dragon Ball character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Norio Wakamoto (Japanese)",
+    "Voiced by Dameon Clarke (English)"
+  ],
+  "titles": [
+    "Dragon Ball"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 80,
+    "durability": 80,
+    "power": 80,
+    "combat": 80,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Z Fighters"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Android 17"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Z Fighters"
+    ],
+    "colleague": null,
+    "enemy": "Android 17",
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Z Fighters"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Dameon Clarke",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Norio Wakamoto"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Xellos often introduces himself as the Trickster Priest for good reason - he will mislead or cheat in order to get his purpose accomplished. (He himself stated that he never outright lies on principle; his clues usually have at least a fraction of truth in them.) Often, he will play pranks just to see the reactions of those around him, or manipulate others to do the work for him seemingly just because he can. His famous catchphrase is \"Sore wa himitsu desu\" literally \"That is a secret\". Despite his enormous powers, he prefers subtlety and manipulation over violence, although when Xellos does enter a battle, he is known to be a ruthless opponent.\n\n\n\nIn the novels, the Slayers group generally abhors his presence, while in the anime he is treated as more of a tolerable nuisance.\n\nIn the anime, Xellos and Lina seem to have a sort of mutual respect for each other. He seems to enjoy the chaos that follows Lina, and follows her for the sake of fun even if he is not ordered to do so. In the novels Xellos seems to be more distant around her, looking somewhat troubled by the fact that Lina, unlike other humans he has dealt with, is able to see the bigger picture of things and is not tricked so easily.\n\n(Source: kanzaka.wikia)",
+  "note": null,
+  "source": "anime"
+}

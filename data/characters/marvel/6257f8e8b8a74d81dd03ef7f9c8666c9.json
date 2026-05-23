@@ -1,0 +1,325 @@
+{
+  "id": "6257f8e8b8a74d81dd03ef7f9c8666c9",
+  "name": "Mystique",
+  "native_name": null,
+  "full_name": "Raven Darkholme",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Mutant",
+    "race": "Mutant",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 54,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 17,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow (without irises)",
+    "hair_color": "Red / Orange",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Arlington, Virginia",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Special operative for Germany and the United States governments, (former) German Freedom Fighter, special operative in the Weapon X Project Team",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Founder and leader of the third Brotherhood of Evil Mutants",
+      "now known as Freedom Force; X-Factor",
+      "X-Men"
+    ],
+    "previous": [],
+    "relatives": [
+      "Rogue (unofficial foster daughter)",
+      "Ralph Brickman (husband)",
+      "Gloria Brickman (daughter)",
+      "Graydon Creed (son",
+      "deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Mutant with superhuman attributes",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 64,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Cunning"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Evil",
+    "alignment": "Evil"
+  },
+  "achievements": [
+    "Known as mutants who are born with superhuman abilities",
+    "Created by writer Chris Claremont and artist David Cockrum"
+  ],
+  "titles": [
+    "Mallory Brickman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 12,
+    "speed": 23,
+    "durability": 64,
+    "power": 64,
+    "combat": 74,
+    "total": 312
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Founder and leader of the third Brotherhood of Evil Mutants",
+      "now known as Freedom Force; X-Factor",
+      "X-Men"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Founder and leader of the third Brotherhood of Evil Mutants",
+      "now known as Freedom Force; X-Factor",
+      "X-Men"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Destiny (wife)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Destiny (wife)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Founder and leader of the third Brotherhood of Evil Mutants",
+      "now known as Freedom Force; X-Factor",
+      "X-Men"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Arlington, Virginia",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Mystique is a character appearing in American comic books published by Marvel Comics. Created by writer Chris Claremont and artist David Cockrum, the character first appeared in Ms. Marvel #16 (April 1978). A member of a subspecies of humanity known as mutants who are born with superhuman abilities, Mystique is a shapeshifter who can perfectly mimic the appearance and voice of any person. Her natural appearance includes blue skin, red hair, and yellow eyes.\nTypically portrayed as a foe of the X-Men, Mystique has been both a supervillain and an antiheroine who is often depicted as a high ranking member of the Brotherhood of Mutants, having both served and lead the organization in their fight against humanity by assassinating several important people involved in mutant affairs. Stated to be over 100 years old, she commonly lives under the assumed name Raven Darkhölme, having previously used Sherlock Holmes. Mystique is the wife of Destiny / Irene Adler, the biological mother of the villain Graydon Creed, the adoptive mother of the X-Men heroine Rogue, and the biological \"father\" of the X-Men hero Nightcrawler; conceived with her wife Destiny while in one of her male forms. Mystique has been described as one of Marvel's most notable and powerful female antiheroes.\nIn live-action, Mystique appears in seven of 20th Century Fox's X-Men films. The character was played by Rebecca Romijn in X-Men (2000), X2 (2003), and X-Men: The Last Stand (2006), while Jennifer Lawrence played a younger version in X-Men: First Class (2011), X-Men: Days of Future Past (2014), X-Men: Apocalypse (2016), and Dark Phoenix (2019). Romijn also cameoed as Mystique in First Class and will reprise the role in the Marvel Cinematic Universe (MCU) film Avengers: Doomsday (2026).",
+  "note": null,
+  "source": "marvel"
+}

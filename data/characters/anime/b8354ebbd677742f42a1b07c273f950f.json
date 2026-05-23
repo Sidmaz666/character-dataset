@@ -1,0 +1,315 @@
+{
+  "id": "b8354ebbd677742f42a1b07c273f950f",
+  "name": "South",
+  "native_name": "",
+  "full_name": "South",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "23",
+    "birthday": "March 17",
+    "zodiac": "Pisces",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "his",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Tokyo Revengers",
+    "manga": "Tokyo Revengers",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Daisuke Namikawa (Japanese)",
+    "Voiced by Ian Sinclair (English)"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 78,
+    "speed": 78,
+    "durability": 78,
+    "power": 78,
+    "combat": 78,
+    "total": 468
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Ian Sinclair",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Daisuke Namikawa"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Nation's name: Repubblica Italiana (Italian Republic)\nCapital: Rome\nLanguage: Italian\nBirthday: March 17th\nNational flower: Daisy\n\nHuman name: Lovino Vargas\nHeight: Unknown\nAge: 23 (appearance)\n\nSouth Italy, better known as \"Romano,\" is (North) Italy's older brother who represents the southern half of the country. He has dark brown hair which, according to Hidekaz Himaruya, is because he has Arabic blood in him and because he has a somewhat \"dark\" personality. In the anime adaptation and in more recent official artwork, his eyes are brown and he is shown with fair skin. In earlier artwork, his eyes were colored green and he had an olive complexion. Like his brother, he has a curly ahoge which sticks out on the right side of his head (as opposed to Italy's, which sticks out on the left).\n\nDespite many speculations that they are twins, it has been confirmed by Hidekaz Himaruya that Romano is supposed to be older than Italy by a few years. In their childhood, the two knew of each other, but never met until after Grandpa Rome had passed away.  The two were separated again afterwards when Austria had taken Italy to his house and Spain had taken Romano. Eventually, the two were reunited when Italy was unified, but even after unification, they were still on difficult terms, even to this day. Italy adores Romano, while Romano usually brushes him off and tries to ignore him. This is mainly because Romano had always been jealous of his brother. Italy was favored more by Spain than he was, he inherited their grandfather's artistic talent, and Italy, according to Romano, looks more like their grandfather than he does. However, amid all the hard feelings, Romano does care about Italy and wishes that he would admire him more.\n\nFor most of his childhood, he lived with and was raised by Spain, who had controlled South Italy while Austria controlled the North.  Romano worked at Spain's house as a maid, but didn't accomplish much because he usually slacked off, slept, or just plain refused to do anything. If he did manage to find himself actually doing chores, he was quite clumsy when it came to doing so. Because Spain raised him, eventually great similarities between their cultures came to be, such as religion, customs, and even Romano's love for tomatoes. Romano always treated Spain very coldly and acted as though he hated him. Spain was always very affectionate towards him, and although Romano will never admit it, he actually cares for Spain deep down and even gets somewhat jealous when he sees Spain with someone else. Their relationship, to this day, is still quite close.\n\nUnlike his brother, Romano hates Germany with a blazing passion. Several times, he's tried getting revenge on Germany for hanging around Italy and for making him eat German foods. All of these attempts, unfortunately for him, have failed. He seems to possibly hate Germans in general, something that apparently stems back to his childhood. Romano's philosophy about Germans, as revealed in one strip, is that they are all \"uncivilized country bumpkins with bad physiology.\"\n\nIt also appears that Romano dislikes France as well.\n\nHis personality is noted as being \"dark,\" and his outlook of the world is noted as being \"bleak and biased,\" possibly due to the fact that his mafia constantly controls him and leads him around. Romano appears to be tough when compared to Italy, but in reality, he is just as cowardly and weak as he is. He loves pasta and tomatoes, but has a \"no-foreign-food\" policy, especially when it comes to potatoes and cheese. He acts friendly and nice towards women, but is somewhat rude and unsocial towards men. His hobbies include hitting on girls, siestas, cooking, and farming. It is mentioned that he is a skilled pickpocket, despite being quite clumsy and not very good with his hands. He has the nasty habit of speaking vulgarly, most often saying the words \"dammit\" and \"bastard.\" When agitated, he makes the random sound \"chigi,\" much like how his brother says \"veh.\" \n\nAlso to note is that his human first name, \"Lovino,\" means \"the wine\" in Italian, and his human last name, \"Vargas,\" is a common Spanish surname, not Italian.",
+  "note": null,
+  "source": "anime"
+}

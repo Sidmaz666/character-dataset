@@ -1,0 +1,433 @@
+{
+  "name": "Alfred Pennyworth",
+  "native_name": "アルフレッド・ペニーワース",
+  "full_name": "Alfred Thaddeus Crane Pennyworth",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Pennyworth",
+    "height_cm": 178,
+    "weight_kg": 72,
+    "age": "60s",
+    "birthday": "August 8",
+    "zodiac": "Leo",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 22.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White/Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Butler attire",
+      "White hair",
+      "Dignified appearance",
+      "Mustache"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "London, England",
+    "current_location": "Gotham City",
+    "base_of_operations": "Wayne Manor / Batcave",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Butler",
+    "secondary": "Batman Confidant / Field Medic",
+    "rank_title": "Butler of Wayne Manor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Batman Family",
+      "Wayne Enterprises (unofficial)"
+    ],
+    "previous": [
+      "British Armed Forces (SAS)",
+      "Military Intelligence"
+    ],
+    "relatives": [
+      "Thomas Wayne (former employer)",
+      "Martha Wayne (former employer)",
+      "Bruce Wayne (ward)",
+      "Dick Grayson (ward)",
+      "Jason Todd (ward)",
+      "Tim Drake (ward)",
+      "Damian Wayne (ward)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman #16 (April 1943)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Combat Training",
+      "native_name": null,
+      "description": "Former SAS operative with extensive combat training. Formidable fighter despite age.",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Age-related limits"
+    },
+    {
+      "name": "Medical Expertise",
+      "native_name": null,
+      "description": "Trained field medic. Skilled in surgery, emergency medicine, and forensic pathology. Regularly patches up the Bat-Family.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Touch",
+      "limit": "Requires medical supplies"
+    },
+    {
+      "name": "Master Butler",
+      "native_name": null,
+      "description": "The perfect butler — culinary arts, household management, emotional support, and tactical support.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Psychological Support",
+      "native_name": null,
+      "description": "Emotional anchor for Bruce Wayne and the entire Bat-Family. Provides wisdom and stability.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Butler Rebuke",
+    "Shotgun Defense",
+    "Tea and Wisdom"
+  ],
+  "ultimate_move": "Father Figure (Emotional Support + Tactical Advice)",
+  "trump_card": "SAS Training + Butler Skills + Emotional Anchor",
+  "power_attributes": {
+    "power_type": "Human (Veteran)",
+    "power_source": "SAS Training",
+    "combat_style": [
+      "Military combat",
+      "Firearms",
+      "Defensive tactics"
+    ],
+    "weapon": "Shotgun",
+    "equipment": [
+      "Butler uniform",
+      "Medical kit",
+      "Shotgun",
+      "Batcave access"
+    ],
+    "trump_card": "SAS Training + Butler Skills + Emotional Anchor",
+    "ultimate_move": "Father Figure (Emotional Support + Tactical Advice)"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Wise",
+      "Caring",
+      "Witty",
+      "Stoic",
+      "Brave",
+      "Selfless",
+      "Dignified"
+    ],
+    "likes": [
+      "Tea",
+      "Order",
+      "Bruce Wayne being safe",
+      "The Wayne Family",
+      "Cooking",
+      "Gardening"
+    ],
+    "dislikes": [
+      "Bruce recklessness",
+      "Disorder",
+      "Anyone hurting his family",
+      "Joker chaos"
+    ],
+    "fear": "Losing Bruce Wayne / the Wayne Family",
+    "dream": "See Bruce Wayne find happiness and peace",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Wise",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Loyal butler and father figure who raised Bruce Wayne after his parents' death. Batman's moral compass, emotional anchor, medic, cook, and the heart of the Bat-Family.",
+    "motivation": "Protect and support the Wayne Family",
+    "affinity": "Family",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Raised Bruce Wayne",
+    "SAS veteran",
+    "Batman most trusted ally",
+    "Protected Wayne Manor countless times",
+    "Heart of the Bat-Family"
+  ],
+  "titles": [
+    "Alfred Pennyworth",
+    "Butler",
+    "Agent A (communications)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Valued member of Batman team — no bounty"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 50,
+    "speed": 45,
+    "durability": 50,
+    "power": 40,
+    "combat": 65,
+    "total": 342
+  },
+  "weaknesses": {
+    "list": [
+      "Age",
+      "Human durability",
+      "Emotional attachment to the Waynes"
+    ],
+    "factors": [
+      "Will sacrifice himself for the Waynes"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Batman",
+      "Robin",
+      "Nightwing",
+      "Batgirl",
+      "Red Hood",
+      "Red Robin",
+      "Commissioner Gordon"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Surrogate father/Ward",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Joker",
+      "Various Gotham villains"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Bruce Wayne",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Batman",
+      "Robin",
+      "Nightwing",
+      "Batgirl",
+      "Red Hood",
+      "Red Robin",
+      "Commissioner Gordon",
+      "Bruce Wayne"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Joker",
+      "Various Gotham villains"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Batman",
+      "Robin",
+      "Nightwing",
+      "Batgirl",
+      "Red Hood",
+      "Red Robin",
+      "Commissioner Gordon",
+      "Bruce Wayne"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Superman (mind-controlled)",
+      "result": "Survived",
+      "method": "Shotgun defense and evacuation"
+    }
+  ],
+  "quotes": [
+    "I am the butler. It is what I do.",
+    "Perhaps you relied on my belief in you, Master Bruce.",
+    "The mask is not to protect you. It is to protect those you care about."
+  ],
+  "voice_acting": {
+    "native_language": "Alan Napier (English)",
+    "english": "Alan Napier",
+    "note": "Iconic voice of Batman butler",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues serving the Wayne Family",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "SAS Operative",
+      "Wayne Family Butler",
+      "Batman Father Figure"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various Wayne vehicles"
+    ],
+    "vehicles": [
+      "Wayne family cars"
+    ],
+    "headquarters": "Wayne Manor / Batcave",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "09cd7bc7162c7f2dbccec93bc0edb6f7",
+  "publisher": "dc",
+  "about": "Alfred Thaddeus Crane Pennyworth, originally Alfred Beagle, is a fictional character appearing in American comic books published by DC Comics, most commonly in association with the superhero Batman.\nAlfred is depicted as Batman's meticulous, disciplined, loyal and tireless confidant, butler, legal guardian, best friend, aide-de-camp, and surrogate father figure following the murders of his parents, Thomas and Martha Wayne. As a British noble who is a classically trained butler, whose skills extend far beyond mere housekeeping, Alfred is uniquely suited to support the lives of masked crime fighters. A former British intelligence officer, field medic and retired Shakespearean actor operative of honor and ethics with connections within the intelligence community, he has been called \"Batman's batman\". He serves as Bruce's moral anchor while providing comic relief with his sardonic and cynical attitude; as an amnesiac, he has also served as the supervillainous Outsider. A vital part of the Batman mythos, Alfred was nominated for the Wizard Fan Award for Favorite Supporting Male Character in 1994. Bane killed Alfred in 2019 during the City of Bane storyline, and he remains dead in the primary continuity of the DC Universe as of 2026.\nIn non-comics media, the character has been portrayed in live-action and voiced by actors William Austin, Eric Wilton, Michael Gough, Michael Caine, Jeremy Irons, Douglas Hodge, and Andy Serkis on film, and by Alan Napier, Efrem Zimbalist Jr., Ian Abercrombie, David McCallum, and Sean Pertwee on television, among others. Ralph Fiennes provided the voice of Alfred in the animated Lego Movie franchise, and Martin Jarvis voiced the character in the Batman: Arkham video game series. A young version of Pertwee's Alfred, played by Jack Bannon, is depicted before he became the butler to the Wayne family in the television series Pennyworth.",
+  "note": null,
+  "source": "dc"
+}

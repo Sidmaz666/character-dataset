@@ -1,0 +1,326 @@
+{
+  "id": "12be06a07e78c063faf79783e912b5e2",
+  "name": "Beta Ray Bill",
+  "native_name": null,
+  "full_name": "Beta Ray Bill",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Korbinite",
+    "race": "Korbinite",
+    "bloodline": null,
+    "height_cm": 213,
+    "weight_kg": 270,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 59.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Red",
+    "skin_color": "Silver",
+    "notable_features": [],
+    "skin": "Silver",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Korbin",
+    "current_location": "Space",
+    "base_of_operations": "Space",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Protector of Korbin",
+    "secondary": "Asgardian ally",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Asgardians",
+      "Thor"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Thor #337 (1983)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Strength equal to Thor - capable of lifting 100+ tons",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Energy Projection",
+      "native_name": null,
+      "description": "Project energy blasts from Stormbreaker",
+      "type": "Energy Projection",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Planetary",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Superhuman Strength",
+    "Energy Projection"
+  ],
+  "ultimate_move": "Superhuman Strength",
+  "trump_card": "Energy Projection",
+  "power_attributes": {
+    "power_type": "Cosmic",
+    "power_source": "Bill's Asgardian-enchanted armor",
+    "combat_style": [],
+    "weapon": "Stormbreaker",
+    "equipment": [
+      "Hammer"
+    ],
+    "trump_card": "Energy Projection",
+    "ultimate_move": "Superhuman Strength"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Brave",
+      "Physically active",
+      "Energetic"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Failing to protect others",
+    "dream": "Protect his people",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "The legendary Korbinite warrior who proved worthy to wield Stormbreaker",
+    "motivation": "Protect his people",
+    "affinity": "Storm",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Proved worthy to wield Stormbreaker",
+    "Defeated Thor in combat"
+  ],
+  "titles": [
+    "Beta Ray Bill",
+    "Champion of Korbin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 95,
+    "speed": 75,
+    "durability": 90,
+    "power": 95,
+    "combat": 85,
+    "total": 525
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Thor",
+      "Asgardians"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Thor"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Thor",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Thor",
+      "Asgardians"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thor"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Thor"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Thor",
+      "Asgardians"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From Marvel Comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Bilgespinner"
+    ],
+    "headquarters": "Space",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Beta Ray Bill is a fictional superhero appearing in American comic books published by Marvel Comics. Debuting in the Bronze Age of Comic Books, the character was initially intended to be a surprise; an apparent monster who unexpectedly turns out to be a great hero. As such, Bill is the first being outside the Marvel Universe's Norse pantheon to be introduced as being worthy to wield Thor's hammer, Mjolnir. After an initial rivalry with Thor for possession of the weapon, the alien warrior was granted a war hammer of his own, called Stormbreaker, and the two reconciled as staunch allies, going on to fight side by side.\nBeta Ray Bill has been featured in other Marvel-endorsed products, such as animated television series, video games, and merchandise.",
+  "note": null,
+  "source": "marvel"
+}

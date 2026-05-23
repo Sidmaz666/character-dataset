@@ -1,0 +1,368 @@
+{
+  "id": "22afb50a5ce62f05d50c883b68d720c2",
+  "name": "li Britannia, Cornelia",
+  "native_name": "コーネリア・リ・ブリタニア",
+  "full_name": "Cornelia li Britannia",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Britannian royalty",
+    "height_cm": 180,
+    "weight_kg": 65,
+    "age": "27-28",
+    "birthday": "January 13",
+    "zodiac": "Capricorn",
+    "blood_type": "O",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 20.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Indigo",
+    "hair_color": "Dark pink/purple",
+    "skin": "Fair",
+    "notable_features": "Royal bearing, warrior stance",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Britannian Imperial Palace",
+    "current_location": "Area 11 / Pendragon",
+    "base_of_operations": "Area 11 / Pendragon",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief General of Imperial Army",
+    "secondary": "Princess, Knightmare Pilot",
+    "rank_title": "Second Princess of Britannia",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Holy Britannian Empire",
+      "Black Knights (later)"
+    ],
+    "previous": [
+      "Schneizel's faction"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Code Geass Episode 1",
+    "manga": "Code Geass Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Knightmare Combat",
+      "native_name": "ナイトメ.frame",
+      "description": "Expert pilot; destroyed all resistance in Area 18",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long"
+    },
+    {
+      "name": "Strategic Planning",
+      "native_name": "戦略",
+      "description": "Top-class strategist; forced Lelouch to retreat",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long"
+    },
+    {
+      "name": "Leadership",
+      "native_name": "指導力",
+      "description": "Commands loyal officers and troops",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Gloucester attacks",
+    "Swift strikes"
+  ],
+  "ultimate_move": "Full Knightmare assault",
+  "power_attributes": {
+    "power_type": "Military comba",
+    "power_source": "Knightmare Frame",
+    "combat_style": [
+      "Knightmare combat",
+      "Strategy"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Knightmare Combat",
+    "ultimate_move": "Full Knightmare assault"
+  },
+  "personality": {
+    "traits": [
+      "Cold-blooded",
+      "Strategic",
+      "Proud",
+      "Patriotic",
+      "Caring about soldiers"
+    ],
+    "likes": [
+      "Victory",
+      "Her soldiers",
+      "Euphemia"
+    ],
+    "dislikes": [
+      "Zero",
+      "Honorary Britannians",
+      "Foreigners"
+    ],
+    "dream": "Protect Britannia, avenge siblings",
+    "fear": "Darkness",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": [
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "From antagonist to ally",
+    "motivation": "Protect empire, prove worth",
+    "affinity": "Fire",
+    "alignment": "Lawful Evil (initially) -> Lawful Neutral"
+  },
+  "achievements": [
+    "Defeated all resistance in Area 18",
+    "Wins title 'Witch of Britannia'",
+    "Became Governor-General of Area 11",
+    "Joined Black Knights"
+  ],
+  "titles": [
+    "Witch of Britannia",
+    "Goddess of Victory",
+    "Second Princess"
+  ],
+  "bounty": {
+    "amount": 0,
+    "currency": "N/A",
+    "details": "Imperial princess, no bounty"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 85,
+    "speed": 80,
+    "durability": 80,
+    "power": 85,
+    "combat": 90,
+    "total": 515
+  },
+  "relationships": {
+    "family": [
+      "Euphemia li Britannia (younger sister)",
+      "Lelouch vi Britannia (half-brother)",
+      "Clovis (half-brother deceased)",
+      "Nunnally (half-sister)"
+    ],
+    "allies": [
+      "Gilbert G.P. Guilford",
+      "KnightsofRound"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies_detailed": [],
+    "enemies": [
+      "Heroes/Protagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gilbert G.P. Guilford",
+      "KnightsofRound"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Heroes/Protagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gilbert G.P. Guilford",
+      "KnightsofRound"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Zero/Lelouch",
+      "result": "Draw/Incomplete",
+      "method": "Strategic pursuit"
+    },
+    {
+      "opponent": "Black Knights",
+      "result": "Captured then freed",
+      "method": "Negotiation"
+    }
+  ],
+  "quotes": [
+    "Clovis will be avenged!",
+    "War is a struggle between pride and life!",
+    "Forgive me for dragging you along to cleanup my foolish younger brother's mess."
+  ],
+  "voice_acting": {
+    "native_language": "Junko Minagawa",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Joins Black Knights after Zero Requiem",
+    "transformation": [
+      "Ally to good cause"
+    ],
+    "role_in_story": "Antagonist/Supporting",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "trump_card": "Knightmare Combat",
+  "weaknesses": {
+    "list": [
+      "Cold"
+    ],
+    "factors": [
+      "cold"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Area 11 / Pendragon",
+    "story_importance": "Antagonist/Supporting",
+    "note": null
+  },
+  "about": "Grade: 4\nAge: 11-12 (anime), 14 (manga)\nBirthday: July 13\nHeight: 140-148 cm\nBlood type: O\nFavorite subject: Mathematics, Physical education\nDisliked subject: Mandarin, Japanese\nFavorite color: green\nFavorite flower: Chinese Peony\nFavorite food: Dim Sum, chocolate\nDisliked food: Konnyaku\nFamily: mother, four sisters, Meilin Li (cousin, anime only)\n\nShaoran is a distant relative of Clow Reed, the creator of the Clow Cards. As a member of the Li clan of sorcerers from Hong Kong, of which Clow's mother was a member, Shaoran believes that he should be the one to inherit the Clow Cards, not Sakura Kinomoto. He first appears as an antagonist in the story, capturing a few cards for himself in the anime (though none in the manga).",
+  "note": null,
+  "source": "anime"
+}

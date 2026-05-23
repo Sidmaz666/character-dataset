@@ -1,0 +1,434 @@
+{
+  "id": "bd042222d90d44fe68815be87802a8cc",
+  "name": "Asakura, Ryouko",
+  "native_name": "朝倉龍子",
+  "full_name": "Ryoko Asakura",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Humanoid interface",
+    "race": "Data Entity interface",
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 52,
+    "age": "17 (appears)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Class president persona",
+      "Always smiling",
+      "Cheerful demeanor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Created by Data Overmind",
+    "current_location": "North High",
+    "base_of_operations": "Data Overmind faction",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Class President",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "North High"
+    ],
+    "previous": [
+      "Data Overmind (radical faction)"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Haruhi Suzumiya Episode 1",
+    "manga": "Haruhi Suzumiya Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Data Jurisdiction",
+      "native_name": "データ管轄",
+      "description": "Can cut off portion of reality into bubble dimension for combat",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Requires authorization"
+    },
+    {
+      "name": "Arm Blade Transformation",
+      "native_name": "腕刃変化",
+      "description": "Can transform arms into large blades/metal claws",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Metal Rod Creation",
+      "native_name": "金属棒生成",
+      "description": "Create icicles or metal rods from surroundings",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "In data jurisdiction"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": "テレッキネシス",
+      "description": "Can telekinetically move or hurl objects",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": "In data jurisdiction"
+    },
+    {
+      "name": "Freezing",
+      "native_name": "冷凍",
+      "description": "Can freeze a human in place",
+      "type": "Support",
+      "tier": "B+",
+      "power_level": 65,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": "超人的筋力",
+      "description": "Can throw knife with considerable force",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long (throwing)",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Reflexes",
+      "native_name": "超人的反射",
+      "description": "Can catch knife thrown at her",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Long Jump",
+      "native_name": "跳躍",
+      "description": "Can leap incredible distances",
+      "type": "Support",
+      "tier": "B+",
+      "power_level": 60,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Capture Field",
+      "native_name": "捕獲フィールド",
+      "description": "Create geometric shapes to capture beings",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": "Requires physical contact"
+    }
+  ],
+  "signature_moves": [
+    "Arm blades",
+    "Data jurisdiction",
+    "Knife attack"
+  ],
+  "ultimate_move": "Full data jurisdiction + arm blades",
+  "trump_card": "Termination mode attack",
+  "power_attributes": {
+    "power_type": "Data/Alien technology",
+    "power_source": "Data Overmind",
+    "combat_style": [
+      "Data combat",
+      "Blade combat"
+    ],
+    "weapon": "Knife",
+    "equipment": [
+      "Arm Blade Transformation"
+    ],
+    "trump_card": "Termination mode attack",
+    "ultimate_move": "Full data jurisdiction + arm blades"
+  },
+  "personality": {
+    "traits": [
+      "Cheerful",
+      "Charming",
+      "Calculating",
+      "Aggressive",
+      "Social"
+    ],
+    "likes": [
+      "Data collection",
+      "Monitoring Haruhi"
+    ],
+    "dislikes": [
+      "Passive observation",
+      "Failure"
+    ],
+    "fear": "Being deleted",
+    "dream": "Provoke Haruhi's full powers",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Data Jurisdiction",
+      "Arm Blade Transformation",
+      "Metal Rod Creation",
+      "Telekinesis"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Antagonist who tries to provoke Haruhi's powers",
+    "motivation": "Force Haruhi to reveal her abilities",
+    "affinity": "Data",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Class president at North High",
+    "Attempted to murder Kyon as catalyst",
+    "Created data jurisdiction bubble",
+    "Fought Yuki Nagato"
+  ],
+  "titles": [
+    "Class President",
+    "Data Interface",
+    "Radical Faction Agent"
+  ],
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 75,
+    "speed": 80,
+    "durability": 65,
+    "power": 85,
+    "combat": 80,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Requires authorization for combat",
+      "Cannot empathize with humans"
+    ],
+    "factors": [
+      "aggressive"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Yuki Nagato (rival)",
+    "allies": [
+      "Data Overmind",
+      "Radical faction"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Data Overmind",
+        "relationship": "Creator",
+        "trust_level": "Highest"
+      }
+    ],
+    "enemies": [
+      "Kyon",
+      "Yuki Nagato",
+      "SOS Brigade"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Data Overmind",
+      "Radical faction"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Yuki Nagato (rival)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Data Overmind",
+      "Radical faction"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Yuki Nagato",
+      "result": "Defeated",
+      "method": "Arm blades"
+    }
+  ],
+  "quotes": [
+    "Expanding data control range. Deploying offensive data.",
+    "Initiating offensive data assault."
+  ],
+  "voice_acting": {
+    "native_language": "Takahashi (Japanese)",
+    "note": "Actually: 'Takahashi Mikako (Japanese), 'English:' 'BrinaPalencia (English)'",
+    "native_name": null,
+    "english": "Bridget Hoffman",
+    "japanese": "Natsuko Kuwatani"
+  },
+  "story": {
+    "status": "Deleted (then restored by Data Overmind)",
+    "fate": "Pattern preserved for future use",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "North High",
+    "story_importance": "Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Height: 160cm\nWeight: 38kg\nBirthday: May 12th, 1985\nBirth Place: Izumo, Japan\nAge: 13 (season 1), 14 (season 2), 22 (in the end)\nBlood type: A\nHobby: Listening to music and sleeping\nFavorite Food: Udon Curry\nQuotes: \"Don't worry, it'll work out somehow.\"\n\nYou was born into the famous Shaman family, Asakura. He has a twin brother named Hao who is a powerful reincarnation of the original HAO who keeps getting reborn. For this reason, You is said to be the only one who can defeat his brother, and he himself is, as stated in the manga, a half of the original HAO, thus has many of the qualities of the reincarnation before him. You also has a fiance, named Anna,  When You was 13, he joined the Shaman Fight, with the reason to make his life a more comfortable place, for both him and Anna.\n\nYou himself is a pretty laid-back type of guy. He gets along with everyone around him, and making friends comes easy to him. Although he may not seem serious most of the time, he actually can get really serious when needed to be. Ironically, his twin brother, Hao is a bit like this as well, and many of You's characteristics overlap with his as well. You however, seems to be a bit more sensible than Hao since he looks at things always in a positive light and has something good to say about everything.",
+  "note": null,
+  "source": "anime"
+}

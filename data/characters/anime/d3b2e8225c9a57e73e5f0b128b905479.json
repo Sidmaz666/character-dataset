@@ -1,0 +1,396 @@
+{
+  "id": "d3b2e8225c9a57e73e5f0b128b905479",
+  "name": "Power",
+  "native_name": "パワー",
+  "full_name": "Power",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Devil",
+    "race": "Blood Fiend",
+    "bloodline": "Unknown",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink",
+    "hair_color": "Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Horns",
+      "Sharp teeth",
+      "Devil eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo",
+    "current_location": "Tokyo",
+    "base_of_operations": "Public Safety HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Devil Hunter",
+    "secondary": "Blood Fiend",
+    "rank_title": "Public Safety Devil Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety Devil Hunters"
+    ],
+    "previous": [
+      "Blood Devil"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Episode 3",
+    "manga": "Chapter 3",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Blood Manipulation",
+      "native_name": "血液操作",
+      "description": "Controls and weaponizes blood",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Needs blood source"
+    },
+    {
+      "name": "Blood Weapons",
+      "native_name": "血液武器",
+      "description": "Creates weapons from blood",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Medium",
+      "limit": "Blood consumption"
+    },
+    {
+      "name": "Enhanced Senses",
+      "native_name": "強化感覚",
+      "description": "Devil-enhanced senses",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Blood Spear",
+    "Blood Scythe",
+    "Blood Barrage"
+  ],
+  "ultimate_move": "Blood Devil Form",
+  "trump_card": "Unlimited Blood",
+  "power_attributes": {
+    "power_type": "Blood Magic",
+    "power_source": "Blood",
+    "combat_style": [
+      "Blood Weapons",
+      "Ranged"
+    ],
+    "weapon": "Blood weapons",
+    "equipment": [
+      "Public Safety uniform"
+    ],
+    "trump_card": "Unlimited Blood",
+    "ultimate_move": "Blood Devil Form"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Loyal",
+      "Childish",
+      "Brave",
+      "Selfish"
+    ],
+    "likes": [
+      "Cats",
+      "Denji",
+      "Blood",
+      "Meat"
+    ],
+    "dislikes": [
+      "Vegetables",
+      "Being ignored"
+    ],
+    "fear": "Losing friends",
+    "dream": "Become Queen of Devils",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Childish",
+      "Selfish"
+    ]
+  },
+  "character": {
+    "arc": "From selfish devil to loyal friend",
+    "motivation": "Protect friends",
+    "affinity": "Blood",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Joined Public Safety",
+    "Defeated multiple devils",
+    "Became true friend"
+  ],
+  "titles": [
+    "Blood Fiend",
+    "Public Safety Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 75,
+    "speed": 80,
+    "durability": 78,
+    "power": 88,
+    "combat": 75,
+    "total": 456
+  },
+  "weaknesses": {
+    "list": [
+      "Blood loss",
+      "Arrogance",
+      "Emotional attachment"
+    ],
+    "factors": [
+      "Needs blood supply"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gun Devil",
+    "allies": [
+      "Denji",
+      "Aki",
+      "Meowy"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Denji",
+        "relationship": "Partner/Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Aki",
+        "relationship": "Reluctant ally",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Gun Devil",
+      "Eternity Devil"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gun Devil",
+        "relationship": "Enemy",
+        "threat_level": "Very High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Denji",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji",
+      "Aki",
+      "Meowy"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gun Devil"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji",
+      "Aki",
+      "Meowy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Eternity Devil",
+      "result": "Victory",
+      "method": "Team effort"
+    },
+    {
+      "opponent": "Gun Devil",
+      "result": "Defeat",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I am Power!",
+    "Denji, you're my friend."
+  ],
+  "voice_acting": {
+    "native_language": "Fairouz Ai",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Sarah Wiedenheft",
+    "japanese": "Fairouz Ai"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Sacrificed herself for Denji",
+    "transformation": null,
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Blood Fiend",
+      "True Power"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Power is a fiend and Public Safety Devil Hunter, part of Makima's squad. She's a work partner and good friend with Denji. They share an apartment alongside Aki Hayakawa. She lacks manners and often lies to avoid punishment. She's very fond of her pet cat Nyako to the point she was willing to sacrifice Denji's life to save Nyako who had been captured by a bat demon.\n\n(Source: Chainsaw Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

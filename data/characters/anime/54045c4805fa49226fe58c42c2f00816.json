@@ -1,0 +1,408 @@
+{
+  "id": "54045c4805fa49226fe58c42c2f00816",
+  "name": "Inosuke Hashibira",
+  "native_name": "嘴平伊之助",
+  "full_name": "Inosuke Hashibira",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Demon Slayer)",
+    "bloodline": "Hashibira Family",
+    "height_cm": 164,
+    "weight_kg": 63,
+    "age": "15",
+    "birthday": "April 22",
+    "zodiac": "Aries",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 23.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Boar mask",
+      "Muscular build",
+      "Wild hair",
+      "Shirtless"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mount Kumotori",
+    "current_location": "Japan (Taisho era)",
+    "base_of_operations": "Demon Slayer Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Slayer",
+    "secondary": "Mountain dweller",
+    "rank_title": "Mizunoto",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps"
+    ],
+    "previous": [],
+    "relatives": [
+      "Kotoha (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer Episode 10",
+    "manga": "Demon Slayer Chapter 25",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Beast Breathing",
+      "native_name": "獣の呼吸",
+      "description": "Self-taught breathing style mimicking wild beasts. Unpredictable movements.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Dual Wield",
+      "native_name": "二刀流",
+      "description": "Fights with two serrated swords simultaneously. Unique fighting style.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Two swords"
+    },
+    {
+      "name": "Enhanced Flexibility",
+      "native_name": "柔軟性",
+      "description": "Extremely flexible body allows unnatural angles and movements.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Spatial Awareness",
+      "native_name": "空間認識",
+      "description": "Can sense air flow and detect enemies through skin contact.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": "Contact needed"
+    }
+  ],
+  "signature_moves": [
+    "Beast Breathing forms",
+    "Dual wield slash",
+    "Headbutt"
+  ],
+  "ultimate_move": "Beast Breathing: Seventh Form",
+  "trump_card": "Beast mode",
+  "power_attributes": {
+    "power_type": "Breathing Style",
+    "power_source": "Beast Breathing",
+    "combat_style": [
+      "Dual wield",
+      "Beast-like"
+    ],
+    "weapon": "Dual Nichirin Swords",
+    "equipment": [
+      "Boar mask",
+      "Dual swords"
+    ],
+    "trump_card": "Beast mode",
+    "ultimate_move": "Beast Breathing: Seventh Form"
+  },
+  "personality": {
+    "traits": [
+      "Wild",
+      "Aggressive",
+      "Loyal",
+      "Proud",
+      "Naive",
+      "Competitive"
+    ],
+    "likes": [
+      "Tanjiro",
+      "Zenitsu",
+      "Fighting",
+      "Headbutting"
+    ],
+    "dislikes": [
+      "Being called cute",
+      "Losing",
+      "Demons"
+    ],
+    "fear": "Losing friends",
+    "dream": "Become strongest demon slayer",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Naive",
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Inosuke raised by boars in mountains. Joins Tanjiro and Zenitsu, learns friendship and teamwork while maintaining wild nature.",
+    "motivation": "Become strongest, protect friends",
+    "affinity": "Green/Beast",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Demon Slayer",
+    "Self-taught Beast Breathing",
+    "Upper Six defeat"
+  ],
+  "titles": [
+    "Beast Breather",
+    "Boar head"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Slayer"
+  },
+  "powerstats": {
+    "intelligence": 68,
+    "strength": 85,
+    "speed": 88,
+    "durability": 82,
+    "power": 85,
+    "combat": 90,
+    "total": 498
+  },
+  "weaknesses": {
+    "list": [
+      "Reckless",
+      "No formal training",
+      "Overconfident"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Muzan, Upper Moons",
+    "allies": [
+      "Tanjiro",
+      "Zenitsu",
+      "Nezuko",
+      "Giyu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tanjiro Kamado",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Muzan",
+      "Upper Moons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Tanjiro",
+    "rival": "Zenitsu",
+    "mentor": "Self-taught",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tanjiro",
+      "Zenitsu",
+      "Nezuko",
+      "Giyu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Muzan, Upper Moons",
+      "Zenitsu"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Zenitsu"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tanjiro",
+      "Zenitsu",
+      "Nezuko",
+      "Giyu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Self-taught"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spider Demon",
+      "result": "Victory",
+      "method": "Beast Breathing"
+    },
+    {
+      "opponent": "Upper Six",
+      "result": "Victory",
+      "method": "Dual wield"
+    }
+  ],
+  "quotes": [
+    "I'm the king of the mountains!",
+    "Headbutt!",
+    "Pig assault!"
+  ],
+  "voice_acting": {
+    "native_language": "Yoshitsugu Matsuoka (Japanese)",
+    "note": "Loud, wild",
+    "native_name": null,
+    "english": "Bryce Papenbrook",
+    "japanese": "Yoshitsugu Matsuoka"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Wild child",
+      "Slayer",
+      "Beast master",
+      "Hero"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Demon Slayer HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Inosuke is a member of the Demon Slayer Corps and a traveling companion of Tanjirou Kamado. He is often seen wearing the head of a boar.",
+  "note": null,
+  "source": "anime"
+}

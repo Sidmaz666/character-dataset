@@ -1,0 +1,413 @@
+{
+  "id": "a952f75789a98900e724bfc0902856be",
+  "name": "Denji",
+  "native_name": "デンジ",
+  "full_name": "Denji",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Hybrid (Human/Devil)",
+    "race": "Human-Devil Hybrid",
+    "bloodline": "Unknown",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": "16-17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Chainsaw protrusions",
+      "Devil heart",
+      "Simple appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Public Safety HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Devil Hunter",
+    "secondary": "Chainsaw Man",
+    "rank_title": "Public Safety Devil Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety Devil Hunters"
+    ],
+    "previous": [
+      "Yakuza (forced)"
+    ],
+    "relatives": [
+      "Pochita (heart)",
+      "Father (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Chainsaw Man Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Chainsaw Transformation",
+      "native_name": "チェーンソーマン",
+      "description": "Transforms into Chainsaw Devil with chainsaw limbs",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires blood fuel"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": "再生",
+      "description": "Rapid healing from blood",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Needs blood"
+    },
+    {
+      "name": "Devil Senses",
+      "native_name": "悪魔の感覚",
+      "description": "Enhanced senses as hybrid",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Chainsaw Slash",
+    "Chainsaw Kick",
+    "Full Transformation"
+  ],
+  "ultimate_move": "Chainsaw Devil Form",
+  "trump_card": "Pochita's True Power",
+  "power_attributes": {
+    "power_type": "Devil Power",
+    "power_source": "Blood",
+    "combat_style": [
+      "Melee",
+      "Transformation"
+    ],
+    "weapon": "Chainsaw arms",
+    "equipment": [
+      "Public Safety uniform"
+    ],
+    "trump_card": "Pochita's True Power",
+    "ultimate_move": "Chainsaw Devil Form"
+  },
+  "personality": {
+    "traits": [
+      "Simple",
+      "Honest",
+      "Impulsive",
+      "Kind",
+      "Naive"
+    ],
+    "likes": [
+      "Bread",
+      "Girls",
+      "Simple pleasures"
+    ],
+    "dislikes": [
+      "Devils",
+      "Being used"
+    ],
+    "fear": "Losing humanity",
+    "dream": "Normal life with love",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Chainsaw Transformation",
+      "Regeneration",
+      "Devil Senses"
+    ],
+    "weaknesses": [
+      "Impulsive",
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "From exploited boy to hero",
+    "motivation": "Simple happiness",
+    "affinity": "Chainsaw",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated multiple devils",
+    "Joined Public Safety",
+    "Survived as hybrid"
+  ],
+  "titles": [
+    "Chainsaw Man",
+    "Public Safety Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 88,
+    "speed": 85,
+    "durability": 92,
+    "power": 95,
+    "combat": 75,
+    "total": 485
+  },
+  "weaknesses": {
+    "list": [
+      "Blood dependency",
+      "Naive",
+      "Emotional"
+    ],
+    "factors": [
+      "Blood loss",
+      "Manipulation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Makima",
+    "allies": [
+      "Power",
+      "Aki",
+      "Pochita"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Power",
+        "relationship": "Partner",
+        "trust_level": "High"
+      },
+      {
+        "name": "Aki",
+        "relationship": "Mentor figure",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Makima",
+      "Gun Devil",
+      "Various Devils"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Makima",
+        "relationship": "Manipulator",
+        "threat_level": "Very High"
+      },
+      {
+        "name": "Gun Devil",
+        "relationship": "Enemy",
+        "threat_level": "Very High"
+      }
+    ],
+    "love_interest": "Makima (initially)",
+    "best_friend": "Pochita",
+    "rival": null,
+    "mentor": "Aki",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Power",
+      "Aki",
+      "Pochita"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Makima"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Power",
+      "Aki",
+      "Pochita"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Aki"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Zombie Devil",
+      "result": "Victory",
+      "method": "Chainsaw"
+    },
+    {
+      "opponent": "Katana Man",
+      "result": "Victory",
+      "method": "Chainsaw"
+    },
+    {
+      "opponent": "Makima",
+      "result": "Defeat",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I'm Chainsaw Man!",
+    "I just want a normal life."
+  ],
+  "voice_acting": {
+    "native_language": "Kikunosuke Toya",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Ryan Colt Levy",
+    "japanese": "Kikunosuke Toya"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as Devil Hunter",
+    "transformation": "Chainsaw Devil",
+    "awakening_potential": "Unknown (Pochita's true power)",
+    "power_evolution": [
+      "Human",
+      "Hybrid",
+      "Chainsaw Man"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16, \n\nAs a young boy, Denji inherits his father's debts from the Yakuza. After meeting Pochita, he becomes a Devil Hunter for the Yakuza in an attempt to clear his debt. After Denji was betrayed and murdered by the Yakuza, which were under the control of a Devil, Pochita brought Denji back to life by becoming his heart. He now has the ability to become a devil and human hybrid by pulling the cord on his chest. In his chainsaw man form, Denji is equipped with a chainsaw for a head and one chainsaw blade coming out of each wrist. After meeting Makima, he became a Public Safety Devil Hunter.\n\n(Source: Chainsaw Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,408 @@
+{
+  "id": "2450254e751efe43eb8b02c1407e3464",
+  "name": "Joe Yabuki",
+  "native_name": "矢吹 丈",
+  "full_name": "Joe Yabuki",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Yabuki Family",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "age": "16-18",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Messy black hair",
+      "Athletic build",
+      "Boxing gloves",
+      "Scarred",
+      "Determined eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo slums",
+    "current_location": "Tokyo",
+    "base_of_operations": "Danpei's Gym",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Boxer",
+    "secondary": "None",
+    "rank_title": "Featherweight Contender",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Danpei's Gym"
+    ],
+    "previous": [
+      "Street rat"
+    ],
+    "relatives": [
+      "None mentioned"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Ashita no Joe Episode 1",
+    "manga": "Ashita no Joe Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cross Counter",
+      "native_name": "クロスカウンター",
+      "description": "Powerful counter punch that exploits opponent's momentum. Devastating impact.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Timing"
+    },
+    {
+      "name": "M Boxing Style",
+      "native_name": "M ウィーリング",
+      "description": "Unique weaving style that confuses opponents. Unpredictable movements.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Indomitable Will",
+      "native_name": "不屈の意志",
+      "description": "Never gives up. Can continue fighting despite severe damage. Pure determination.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Street Fighting",
+      "native_name": "ストリートファイト",
+      "description": "Learned from streets. Dirty tricks, unpredictable, ruthless when needed.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Rules"
+    }
+  ],
+  "signature_moves": [
+    "Cross Counter",
+    "M weaving",
+    "Last stand"
+  ],
+  "ultimate_move": "Final Cross Counter",
+  "trump_card": "Indomitable will",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Training",
+    "combat_style": [
+      "Boxing",
+      "Street"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Boxing gloves"
+    ],
+    "trump_card": "Indomitable will",
+    "ultimate_move": "Final Cross Counter"
+  },
+  "personality": {
+    "traits": [
+      "Rebellious",
+      "Proud",
+      "Determined",
+      "Lonely",
+      "Passionate",
+      "Tragic"
+    ],
+    "likes": [
+      "Boxing",
+      "Yoko",
+      "Danpei",
+      "Fighting",
+      "Freedom"
+    ],
+    "dislikes": [
+      "Authority",
+      "Confinement",
+      "Losing",
+      "Pity"
+    ],
+    "fear": "Dying without purpose",
+    "dream": "Become champion, burn bright",
+    "personality_type": "ISFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Joe is the street rat who becomes a boxer. Under Danpei's guidance, rises through ranks. Burns his life away in the ring, leaving legendary final fight.",
+    "motivation": "Burn bright, become champion",
+    "affinity": "Red/Flame",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Featherweight contender",
+    "Defeated champions",
+    "Legendary final fight",
+    "Inspired generation"
+  ],
+  "titles": [
+    "Joe",
+    "Boxer",
+    "Legend"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Boxer"
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 85,
+    "speed": 88,
+    "durability": 92,
+    "power": 88,
+    "combat": 94,
+    "total": 519
+  },
+  "weaknesses": {
+    "list": [
+      "Reckless",
+      "Pride",
+      "Health deterioration"
+    ],
+    "factors": [
+      "Yoko",
+      "Danpei"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Toru Rikiishi",
+    "allies": [
+      "Danpei",
+      "Yoko",
+      "Nishi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Danpei",
+        "relationship": "Trainer/father figure",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Rikiishi (rival)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Yoko",
+    "best_friend": "Nishi",
+    "rival": "Rikiishi",
+    "mentor": "Danpei",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Danpei",
+      "Yoko",
+      "Nishi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Toru Rikiishi",
+      "Rikiishi"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Rikiishi"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Danpei",
+      "Yoko",
+      "Nishi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Danpei"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Rikiishi",
+      "result": "Victory (tragic)",
+      "method": "Cross Counter"
+    },
+    {
+      "opponent": "Mendoza",
+      "result": "Loss",
+      "method": "Decision"
+    }
+  ],
+  "quotes": [
+    "I'll burn until I'm nothing but ash!",
+    "Joe's the name!",
+    "I lived a good life."
+  ],
+  "voice_acting": {
+    "native_language": "Teruhiko Aoi (Japanese)",
+    "english": "Unknown",
+    "note": "Passionate, rough",
+    "native_name": null,
+    "japanese": "Teruhiko Aoi"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died in ring after final fight",
+    "transformation": "None",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Street rat",
+      "Novice",
+      "Contender",
+      "Legend"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Danpei's Gym",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The protagonist of the story. He is known for his long bangs and for always wearing a worn out beige coat and a red flat cap.\n\nNot long after birth he found himself in many orphanages and facilities. However, he quickly grew tired of the boring life and frequently escaped, eventually finding his way to the Doya Town the story takes place in.\n\nJoe is rude and quick to fight, but he can also be very frivolous at times. Because of his rough upbringing he is a delinquent who likes his solitude, but he later grows to appreciate his new friends and rivals. He is not very good at understanding women, and essentially only treats them nice out of obligation.\n\nHomeland/Country: Japan\nHeight: Around 5'5 to 5'6 (Looks smaller in Season 1, Looks taller in Season 2)\nOccupation: Professional Boxer\nCurrent Affiliation: Tange Boxing Gym\nWeight Class: Bantamweight (115 to 118 Pounds Weight Limit)\n\nNatural Weight: Bantamweight but this changes in the 2nd half of the series and Joe becomes a natural Lightweight (135 pounds Weight Limit) because of his growth spurt change in bone mass and muscle mass. Joe weighed himself at 132 pounds before the weightcut to keep competing at Bantamweight.\n\nBoxing Style/Stance: Orthodox Stance, No Guard Stance, \"Turtle\" Cross Arm Stance and Brawler Stance/Infighter Stance\n\nSignature Blows/Techniques/Speciality: The Cross Counter or Variations of it. Double Cross Counter, Triple Cross Counter. Left Jab, Body Blows, Gut Punch, Counter, Uppercut, Right Hook, Overhand Right and Corkscrew Blow/Punches\n\n\nHe is a bantamweight and his specialties include the cross counter and the No Guard stance. He has extraordinary punching strength, fortitude, and fighting spirit, often standing up after taking killer blows and has been known to counter cross-counters (a double-cross), possessing a raw, natural talent for the sport. He has even countered double crosses with a triple-cross, implying he has high-level technical abilities. Following his fight with Rikiishi, he begins to better develop his guarding.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

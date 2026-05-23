@@ -1,0 +1,387 @@
+{
+  "name": "Vought International",
+  "native_name": null,
+  "full_name": "Vought International Corporation",
+  "basic_info": {
+    "gender": "N/A",
+    "species": "Corporation",
+    "race": "N/A",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": "Decades old",
+    "birthday": "N/A",
+    "zodiac": "N/A",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "N/A",
+    "hair_color": "N/A",
+    "skin_color": "N/A",
+    "notable_features": [
+      "Vought logo",
+      "Corporate towers",
+      "Superhero marketing machine"
+    ],
+    "skin": "N/A",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Founded by Frederick Vought",
+    "current_location": "New York/Vought Tower",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe Management Corporation",
+    "secondary": "Pharmaceutical Company",
+    "rank_title": "Vought International",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven"
+    ],
+    "previous": [],
+    "relatives": [
+      "Homelander (product)",
+      "Stormfront (wife of founder)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Corporate Power",
+      "type": "Organizational",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global"
+    },
+    {
+      "name": "Compound V",
+      "type": "Chemical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self"
+    },
+    {
+      "name": "Media Manipulation",
+      "type": "Organizational",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Global"
+    },
+    {
+      "name": "Political Influence",
+      "type": "Organizational",
+      "tier": "S",
+      "power_level": 88,
+      "range": "National"
+    }
+  ],
+  "signature_moves": [
+    "PR Cover-up",
+    "Superhero Marketing",
+    "Compound V Production"
+  ],
+  "ultimate_move": "Global Supremacy",
+  "trump_card": "Compound V Monopoly",
+  "power_attributes": {
+    "power_type": "Corporate/Political",
+    "power_source": "Wealth + Compound V + Media",
+    "combat_style": [
+      "Non-combatant",
+      "Corporate warfare",
+      "Propaganda"
+    ],
+    "weapon": "Money and Influence",
+    "equipment": [
+      "Vought Tower",
+      "Compound V",
+      "Supes"
+    ],
+    "trump_card": "Compound V Monopoly",
+    "ultimate_move": "Global Supremacy"
+  },
+  "personality": {
+    "traits": [
+      "Greedy",
+      "Manipulative",
+      "Power-hungry",
+      "Corrupt",
+      "Ruthless"
+    ],
+    "likes": [
+      "Money",
+      "Power",
+      "Control"
+    ],
+    "dislikes": [
+      "Exposure",
+      "Threats to supe business",
+      "Regulation"
+    ],
+    "fear": "Losing Compound V monopoly",
+    "dream": "Total global control through supes",
+    "personality_type": "ENTJ (Corporate Evil)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Corporate Power",
+      "Compound V",
+      "Media Manipulation",
+      "Political Influence"
+    ],
+    "weaknesses": [
+      "Ruthless",
+      "Manipulative",
+      "Greedy"
+    ]
+  },
+  "character": {
+    "arc": "A pharmaceutical-turned-superhero-management company. Created Compound V which gives people superpowers. Markets supes as celebrities while covering up their crimes. Controls The Seven and ultimately seeks to control global politics through their supes.",
+    "motivation": "Global domination through supe control",
+    "affinity": "Corporate Evil",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Created Compound V",
+    "Controls The Seven",
+    "Global supe monopoly"
+  ],
+  "titles": [
+    "Vought International",
+    "Vought-American",
+    "The Company"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 95,
+    "speed": 90,
+    "durability": 90,
+    "power": 98,
+    "combat": 10,
+    "total": 483
+  },
+  "weaknesses": {
+    "list": [
+      "Exposure",
+      "Public opinion",
+      "Regulation"
+    ],
+    "factors": [
+      "Secrets can be leaked",
+      "Compound V dependency",
+      "Supes can go rogue"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Boys",
+    "allies": [
+      "The Seven",
+      "US Government (bribed)"
+    ],
+    "enemies": [
+      "The Boys",
+      "Whistleblowers",
+      "Journalists"
+    ],
+    "love_interest": "N/A",
+    "best_friend": "N/A",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven",
+      "US Government (bribed)",
+      "N/A"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven",
+      "US Government",
+      "N/A"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "The Boys",
+      "result": "Ongoing",
+      "method": "Corporate and supe warfare"
+    }
+  ],
+  "quotes": [
+    "Saving the world or taking it over, either way profits are up."
+  ],
+  "voice_acting": {
+    "native_language": "N/A",
+    "english": "N/A",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Controlling global superhero industry",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Pharma company",
+      "Vought",
+      "Global Corporation"
+    ],
+    "role": "Major Organization",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Private jets"
+    ],
+    "headquarters": "Vought Tower",
+    "story_importance": "Main Organization",
+    "note": null
+  },
+  "id": "ee4e734848989020289cacd1f461b69a",
+  "publisher": "the_boys",
+  "about": "The Boys is an American satirical superhero television series developed by Eric Kripke for Amazon Prime Video. Based on the comic book series by Garth Ennis and Darick Robertson, it follows the eponymous team of vigilantes as they combat superpowered individuals, referred to as \"Supes\", who often abuse their powers for personal gain and work for a powerful company, Vought International, that ensures the general public views them as heroes. The series stars Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Chace Crawford, Laz Alonso, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Elisabeth Shue, Colby Minifie, Aya Cash, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, and Daveed Diggs.",
+  "note": null,
+  "source": "the_boys"
+}

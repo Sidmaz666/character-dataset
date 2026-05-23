@@ -1,0 +1,326 @@
+{
+  "id": "32dfe9e8738eae58f1c8a7a1717fdde8",
+  "name": "Eijiro Kirishima",
+  "native_name": "",
+  "full_name": "Eijiro Kirishima",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "16",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "My Hero Academia",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Hero"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia",
+    "manga": "My Hero Academia",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Quirk Usage",
+      "type": "Superpower",
+      "description": "Skilled in utilizing their unique quirk",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Combat Training",
+      "type": "Combat",
+      "description": "Trained in hero combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Teamwork",
+      "type": "Tactical",
+      "description": "Effective at coordinating with allies",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Quirk Usage",
+    "Combat Training",
+    "Teamwork"
+  ],
+  "ultimate_move": "Quirk Usage",
+  "trump_card": "Combat Training",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Combat Training",
+    "ultimate_move": "Quirk Usage"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Compassionate",
+      "Hardworking",
+      "Selfless"
+    ],
+    "likes": [
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Death",
+      "Betrayal"
+    ],
+    "fear": "Failing to protect others",
+    "dream": "Unknown",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "My Hero Academia character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "My Hero Academia"
+  ],
+  "titles": [
+    "My Hero Academia"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 62,
+    "strength": 62,
+    "speed": 62,
+    "durability": 62,
+    "power": 62,
+    "combat": 62,
+    "total": 372
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Species: Ghoul\nAge: 16 (Pre-Aogiri arc), 17 (Post-Aogiri arc), 20 (Tokyo Ghoul:re)\nBirthday: July 1\nHeight: 156 cm\nWeight: 45 kg\nBlood type: O\nRc Type: Ukaku\nLikes: school life, rabbits\nDislikes: ghoul investigators, blockheads, classic literature\n\nGhoul Investigators refer to her as \"Rabbit.\"\n\nTouka is a ghoul successfully posing as a human and working as a waitress at a cafe which serves as a gathering place for other ghouls, as well as a food resource.\n\nShe saves Kaneki's life at one point and acts as a reluctant guide to him and his adaptation to the ghoul society. She is very serious, tough and hard-working, trying to keep their district as safe for ghouls and humans as possible. Her powers and strength are also quite great and she makes for a formidable opponent.",
+  "note": null,
+  "source": "anime"
+}

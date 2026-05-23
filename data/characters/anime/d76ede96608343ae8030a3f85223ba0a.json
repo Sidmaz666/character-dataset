@@ -1,0 +1,362 @@
+{
+  "id": "d76ede96608343ae8030a3f85223ba0a",
+  "name": "Jet Black",
+  "native_name": "Jet Black",
+  "full_name": "Jet Black",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 188,
+    "weight_kg": 85,
+    "age": "36",
+    "birthday": "Unknown",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Fair",
+    "notable_features": [
+      "Cybernetic arm",
+      "beard",
+      "robust build"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ganymede, Jupiter system",
+    "current_location": "Bebop spaceship",
+    "base_of_operations": "Bebop spaceship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty Hunter",
+    "secondary": "Former ISSP Detective",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Bebop crew"
+    ],
+    "previous": [
+      "Inter Solar System Police (ISSP)"
+    ],
+    "relatives": [
+      "Ex-wife (unnamed)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Cowboy Bebop Episode 1",
+    "manga": "Cowboy Bebop Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cybernetic Arm",
+      "native_name": null,
+      "description": "Powerful prosthetic arm capable of enhanced strength",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Spaceship Pilot",
+      "native_name": null,
+      "description": "Skilled pilot of the Bebop spaceship",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Police Training",
+      "native_name": null,
+      "description": "Former ISSP detective with investigation and combat skills",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Cooking",
+      "native_name": null,
+      "description": "Very skilled chef (thought not everyone agrees)",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Cybernetic Arm",
+    "Police Training",
+    "Spaceship Pilot"
+  ],
+  "ultimate_move": "Cybernetic Arm",
+  "trump_card": "Police Training",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": "Police Training",
+    "ultimate_move": "Cybernetic Arm"
+  },
+  "personality": {
+    "traits": [
+      "Fatherly",
+      "Pragmatic",
+      "Stoic",
+      "Loyal",
+      "Honorable"
+    ],
+    "likes": [
+      "Cooking",
+      "bonsai plants",
+      "his ship Bebop"
+    ],
+    "dislikes": [
+      "Criminals",
+      "his past mistakes"
+    ],
+    "fear": "Failure",
+    "dream": "Make a living bounty hunting and keep his crew safe",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A former ISSP detective turned bounty hunter who captains the Bebop",
+    "motivation": "Make a living bounty hunting and keep his crew safe",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Bounty Hunter"
+  ],
+  "titles": [
+    "Bounty Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 75,
+    "speed": 60,
+    "durability": 80,
+    "power": 40,
+    "combat": 75,
+    "total": 405
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Spike Spiegel",
+      "Faye Valentine",
+      "Edward Wong",
+      "Ein"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Various criminals"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Spike Spiegel",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spike Spiegel",
+      "Faye Valentine",
+      "Edward Wong",
+      "Ein"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various criminals"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spike Spiegel",
+      "Faye Valentine",
+      "Edward Wong",
+      "Ein"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I think it's time we blow this scene."
+  ],
+  "voice_acting": {
+    "native_language": "Unsho Ishizuka",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Main Character, Captain of Bebop",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Character, Captain of Bebop",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Jet, known on his home satellite as the \"Black Dog\" for his tenacity, is a 36-year-old former cop from Ganymede (a Jovian satellite) and acts as Spike's foil during the series. Physically, Jet is very tall with a muscular build. He wears a beard with no mustache, and is completely bald save for the back of his head. Spike acts lazy and uninterested, whereas Jet is hard working and a jack-of-all-trades. Jet was once an investigator in the Inter Solar System Police (ISSP) for many years until he lost his arm in an investigation that went awry when his corrupt partner (and friend at the time) betrayed him. His arm was replaced with a cybernetic limb (later revealed to be by choice, as biological replacements were possible, he wanted the fake arm as a reminder of what happened), yet his loss of limb coupled with the general corruption of the police force prompted Jet to quit the ISSP in disgust and become a freelance bounty hunter. Jet also considers himself something of a renaissance man: he cultivates bonsai trees, cooks, enjoys jazz/blues music (he named his ship the Bebop, referring to a type of jazz), especially Charlie Parker, and even has interest in Goethe. As a character, Jet is the quintessential oyaji or \"dad\" even though he often wishes people would view him as a more brotherly figure (so as not to seem old).\n\nJet is skilled with handguns, typically carrying a pre-2004 Walther P99, as well as the use of the netgun. He is good with hand to hand combat as well. Unlike Spike, Jet tends to use more raw muscle than technique. He is also a great mechanic and pilot. Aside from the converted interplanetary fishing trawler vessel Bebop, Jet flies a smaller ship called Hammerhead. The Hammerhead appears to be a modified (Jet added larger engines and fuel tanks) salvage-craft that uses a mechanical arm equipped with a harpoon as its main weapon, which is somewhat analogous to his own mechanical arm. Both the Hammerhead and the Bebop are able to land on water, and have a fishing theme, most likely because Ganymede's surface is mostly covered with water (it is later revealed that the Bebop was originally a fishing ship that Jet \"customized\" with larger engines).\n\nDuring the series, it is revealed that Jet once lived with a woman named Alisa, who left him because he was too controlling. Later they meet up again when Alisa's new boyfriend Rhint is wanted for murder. Jet then ends up in a situation somewhat similar to that of Vicious, where he must hunt down a woman who broke his heart, and her lover.",
+  "note": null,
+  "source": "anime"
+}

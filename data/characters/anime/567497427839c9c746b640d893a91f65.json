@@ -1,0 +1,429 @@
+{
+  "id": "567497427839c9c746b640d893a91f65",
+  "name": "Raditz",
+  "native_name": "ラディッツ",
+  "full_name": "Raditz",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Saiyan",
+    "race": "Saiyan",
+    "bloodline": "Saiyan",
+    "height_cm": 186,
+    "weight_kg": 87,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long black hair",
+      "Saiyan armor",
+      "Scouter",
+      "Muscular",
+      "Warrior braids"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Planet Vegeta",
+    "current_location": "Earth",
+    "base_of_operations": "Moving",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Planet conqueror",
+    "rank_title": "Saiyan Warrior",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Frieza Force"
+    ],
+    "previous": [
+      "Planet Vegeta"
+    ],
+    "relatives": [
+      "Goku (brother)",
+      "Gohan (nephew)",
+      "Bardock (father)",
+      "Gine (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Z Episode 1",
+    "manga": "Dragon Ball Chapter 195",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Saiyan Power",
+      "native_name": "サイヤ人パワー",
+      "description": "Grows stronger after near-death recovery. Natural Saiyan trait.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Must recover"
+    },
+    {
+      "name": "Double Sunday",
+      "native_name": "ダブルサンデー",
+      "description": "Powerful energy wave fired from both hands. Devastating attack.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Energy"
+    },
+    {
+      "name": "Scouter",
+      "native_name": "スカウター",
+      "description": "Device that measures power levels. Tracks opponents.",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Long",
+      "limit": "Can be fooled"
+    },
+    {
+      "name": "Ki Blast",
+      "native_name": "気功波",
+      "description": "Basic energy projection. Can destroy cities.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Stamina"
+    }
+  ],
+  "signature_moves": [
+    "Double Sunday",
+    "Saiyan tackle",
+    "Ki blast"
+  ],
+  "ultimate_move": "Double Sunday",
+  "trump_card": "Saiyan power",
+  "power_attributes": {
+    "power_type": "Ki",
+    "power_source": "Saiyan",
+    "combat_style": [
+      "Martial Arts",
+      "Ki blasts"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Scouter",
+      "Saiyan armor"
+    ],
+    "trump_card": "Saiyan power",
+    "ultimate_move": "Double Sunday"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Ruthless",
+      "Cruel",
+      "Proud",
+      "Aggressive",
+      "Cold"
+    ],
+    "likes": [
+      "Fighting",
+      "Power",
+      "Conquest",
+      "Saiyan pride"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Earthlings",
+      "Defiance",
+      "Goku"
+    ],
+    "fear": "Frieza",
+    "dream": "Conquer planets",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Saiyan Power",
+      "Double Sunday",
+      "Scouter",
+      "Ki Blast"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Ruthless",
+      "Cruel",
+      "Aggressive",
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Raditz is Goku's older brother who arrives on Earth to recruit him. Reveals Goku's Saiyan heritage. Killed by Piccolo and Goku. First Z villain.",
+    "motivation": "Recruit Goku, conquer Earth",
+    "affinity": "Red/Conquest",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "First Saiyan appearance",
+    "Revealed Goku's origin",
+    "Killed by sacrifice"
+  ],
+  "titles": [
+    "Saiyan Warrior",
+    "Goku's Brother"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Zeni",
+    "details": "Warrior"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 82,
+    "speed": 78,
+    "durability": 80,
+    "power": 85,
+    "combat": 82,
+    "total": 477
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfident",
+      "Underestimates opponents",
+      "Tail"
+    ],
+    "factors": [
+      "Goku",
+      "Gohan"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Goku, Piccolo",
+    "allies": [
+      "Nappa",
+      "Vegeta",
+      "Frieza"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nappa",
+        "relationship": "Partner",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Goku",
+      "Piccolo",
+      "Gohan"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Nappa",
+    "rival": "Goku",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Nappa",
+      "Vegeta",
+      "Frieza"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Goku, Piccolo",
+      "Goku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Goku (brother)",
+      "Son Goku",
+      "Burdock"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Goku (brother)",
+      "Son Goku",
+      "Burdock"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Goku"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Nappa",
+      "Vegeta",
+      "Frieza"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Goku/Piccolo",
+      "result": "Defeated",
+      "method": "Sacrifice"
+    },
+    {
+      "opponent": "Earthlings",
+      "result": "Victory",
+      "method": "Overpowered"
+    }
+  ],
+  "quotes": [
+    "I am your brother, Raditz!",
+    "Pathetic earthling!",
+    "Saiyans are warriors!"
+  ],
+  "voice_acting": {
+    "native_language": "Shigeru Chiba (Japanese)",
+    "note": "Arrogant, aggressive",
+    "native_name": null,
+    "english": "Justin Cook",
+    "japanese": "Shigeru Chiba"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Piccolo's Special Beam Cannon",
+    "transformation": "None",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Warrior",
+      "Invader",
+      "Defeated"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Space pod"
+    ],
+    "vehicles": [],
+    "headquarters": "Moving",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Raditz is the biological brother of Son Goku and the eldest son of Burdock. Raditz went to Earth to help in the planet's invasion, and to persuade his younger brother Goku to join the Saiyans in their conquest. However, disappointed to discover that Goku had lost his memories and adjusted to life on Earth, Raditz kidnapped Gohan and tried to force Goku to become an ally.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,407 @@
+{
+  "id": "15758d8654cf1ed5e24de165e84bbaec",
+  "name": "Kozuki, Oden",
+  "native_name": "光月おでん",
+  "full_name": "Kozuki Oden",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kozuki",
+    "height_cm": 388,
+    "weight_kg": 1160,
+    "age": "39 (deceased)",
+    "birthday": "February 22",
+    "zodiac": "Pisces",
+    "blood_type": "XF",
+    "weight_kkg": null,
+    "bmi": 77.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Massive build",
+      "Samurai topknot",
+      "Scars",
+      "Tattoos"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Wano Country",
+    "current_location": "Wano (deceased)",
+    "base_of_operations": "Wano Country",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Daimyo",
+    "secondary": "Samurai",
+    "rank_title": "Daimyo of Kuri",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Whitebeard Pirates",
+      "Roger Pirates",
+      "Nine Red Scabbards"
+    ],
+    "relatives": [
+      "Kozuki Toki (wife, deceased)",
+      "Momonosuke (son)",
+      "Hiyori (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Episode 960",
+    "manga": "Chapter 960",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Two-Sword Style",
+      "native_name": "二刀流",
+      "description": "Dual wielding Enma and Ame no Habakiri",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Conqueror's Haki",
+      "native_name": "覇王色の覇気",
+      "description": "Can coat attacks with Conqueror's Haki",
+      "type": "Haki",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Observation Haki",
+      "native_name": "見聞色の覇気",
+      "description": "Senses others' presence and intent",
+      "type": "Haki",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Concentration"
+    }
+  ],
+  "signature_moves": [
+    "Oden Nitoryu",
+    "Toge Dori",
+    "Kagiyama"
+  ],
+  "ultimate_move": "Kozuki Style Oden Nitoryu",
+  "trump_card": "Enma's Power",
+  "power_attributes": {
+    "power_type": "Haki",
+    "power_source": "Spirit",
+    "combat_style": [
+      "Two-Sword Style",
+      "Haki"
+    ],
+    "weapon": "Enma, Ame no Habakiri",
+    "equipment": [
+      "Swords"
+    ],
+    "trump_card": "Enma's Power",
+    "ultimate_move": "Kozuki Style Oden Nitoryu"
+  },
+  "personality": {
+    "traits": [
+      "Adventurous",
+      "Loyal",
+      "Bold",
+      "Charismatic",
+      "Honor-bound"
+    ],
+    "likes": [
+      "Adventure",
+      "Wano",
+      "Family"
+    ],
+    "dislikes": [
+      "Orochi",
+      "Kaidou",
+      "Injustice"
+    ],
+    "fear": "Wano's destruction",
+    "dream": "Open Wano's borders",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Legendary samurai who opened Wano",
+    "motivation": "Open Wano to the world",
+    "affinity": "Fire",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Sailed with Whitebeard and Roger",
+    "Scarred Kaidou",
+    "Father of Wano's shogun",
+    "Nine Red Scabbards leader"
+  ],
+  "titles": [
+    "Daimyo of Kuri",
+    "Legendary Samurai"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Belly",
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 96,
+    "speed": 88,
+    "durability": 95,
+    "power": 96,
+    "combat": 98,
+    "total": 558
+  },
+  "weaknesses": {
+    "list": [
+      "Too trusting",
+      "Reckless",
+      "Deceased"
+    ],
+    "factors": [
+      "Sacrificed for family"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kaidou",
+    "allies": [
+      "Whitebeard",
+      "Roger",
+      "Nine Red Scabbards"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Izo",
+        "relationship": "Scabbard",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Kinemon",
+        "relationship": "Scabbard",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Kaidou",
+      "Orochi",
+      "Big Mom"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Kaidou",
+        "relationship": "Nemesis",
+        "threat_level": "Very High"
+      },
+      {
+        "name": "Orochi",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Toki",
+    "best_friend": "Kinemon",
+    "rival": null,
+    "mentor": "Whitebeard",
+    "student": "Nine Red Scabbards",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Whitebeard",
+      "Roger",
+      "Nine Red Scabbards",
+      "Kinemon"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kaidou"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Nine Red Scabbards"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Whitebeard",
+      "Roger",
+      "Nine Red Scabbards",
+      "Kinemon"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Whitebeard"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kaidou",
+      "result": "Defeat",
+      "method": "Betrayal"
+    },
+    {
+      "opponent": "Whitebeard",
+      "result": "Draw",
+      "method": "Haki clash"
+    }
+  ],
+  "quotes": [
+    "I'm the man who became a pirate!",
+    "Open Wano!"
+  ],
+  "voice_acting": {
+    "native_language": "Hiroshi Kamiya",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Robbie Daymond",
+    "japanese": "Hiroya Ishimaru"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Kaidou after boiling execution",
+    "transformation": null,
+    "awakening_potential": "N/A",
+    "power_evolution": [],
+    "role_in_story": "Legend",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Wano Country",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: March 22\nHeight: 150 cm\nBWH: 76-57-78\nBlood type: B\n\nKazuki is Yuuji's elder sister as well as the one who taught him throughout the earlier periods of his life. Contrary to the norm, Kazuki was the center pillar of the family instead of her father. She was the one earning all the living expenses and no one could go against her. \n\nDespite her delicate and diminutive body, she has brilliant intellect and excels in quick-witted judgement to the point that she has been labelled as a genius. She is the same age as Amane, both of which attended the same school \"Takizono Private\" and was also an active member of the basketball team for the aforementioned academy.",
+  "note": null,
+  "source": "anime"
+}

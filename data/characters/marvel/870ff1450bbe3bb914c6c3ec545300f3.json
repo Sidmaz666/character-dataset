@@ -1,0 +1,384 @@
+{
+  "name": "Spider-Man Noir",
+  "native_name": null,
+  "full_name": "Peter Parker (Earth-90214)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Parker",
+    "height_cm": 178,
+    "weight_kg": 76,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Trench coat",
+      "Fedora",
+      "Goggles mask"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City (Earth-90214)",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Private Investigator",
+    "secondary": "Vigilante",
+    "rank_title": "Spider-Man",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Army",
+      "Web-Warriors"
+    ],
+    "previous": [
+      "Daily Bugle"
+    ],
+    "relatives": [
+      "Ben Parker (uncle)",
+      "May Parker (aunt)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Spider-Man Noir #1 (February 2009)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spider Powers",
+      "native_name": null,
+      "description": "Superhuman strength, agility, wall-crawling from spider bite. Organic web-shooters.",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Expert Detective",
+      "native_name": null,
+      "description": "Private investigator with sharp deductive abilities in 1930s noir setting.",
+      "type": "Mental",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Firearms Training",
+      "native_name": null,
+      "description": "Carries and uses firearms when necessary. Skilled pistol user.",
+      "type": "Weapon",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Long",
+      "limit": "Ammunition"
+    }
+  ],
+  "signature_moves": [
+    "Noir Strike",
+    "Web Gun",
+    "Detective Combo"
+  ],
+  "ultimate_move": "Noir Justice",
+  "trump_card": "Spider Powers + Detective Skills",
+  "power_attributes": {
+    "power_type": "Spider Powers",
+    "power_source": "Spider Bite",
+    "combat_style": [
+      "Stealth",
+      "Firearms",
+      "Martial Arts",
+      "Detective Work"
+    ],
+    "weapon": "Pistol",
+    "equipment": [
+      "Trench coat",
+      "Fedora",
+      "Pistol"
+    ],
+    "trump_card": "Spider Powers + Detective Skills",
+    "ultimate_move": "Noir Justice"
+  },
+  "personality": {
+    "traits": [
+      "Grim",
+      "Determined",
+      "Cynical",
+      "Heroic"
+    ],
+    "likes": [
+      "Justice",
+      "Truth",
+      "His city"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Nazis",
+      "Crime"
+    ],
+    "fear": "Failing to protect innocents",
+    "dream": "Clean up NYC crime",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "Alternate universe Peter Parker from 1930s noir Earth. Fights Nazi spies and organized crime.",
+    "motivation": "Avenge uncle and clean up corruption",
+    "affinity": "Noir",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Nazi spy ring",
+    "Spider-Army member",
+    "Survived Spider-Verse"
+  ],
+  "titles": [
+    "Spider-Man Noir",
+    "Peter Parker",
+    "Noir Spider"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by criminals"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 78,
+    "speed": 80,
+    "durability": 72,
+    "power": 70,
+    "combat": 80,
+    "total": 455
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability",
+      "Cynicism",
+      "Limited resources"
+    ],
+    "factors": [
+      "Overly grim outlook"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Norman Osborn (Crime Lord)",
+    "allies": [
+      "Spider-Army",
+      "Spider-Gwen"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Norman Osborn",
+      "Nazis",
+      "Crime lords"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Felicia Hardy (Noir)",
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Ben Parker (deceased)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Army",
+      "Spider-Gwen"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Norman Osborn (Crime Lord)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Army",
+      "Spider-Gwen"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Ben Parker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Norman Osborn (Noir)",
+      "result": "Victory",
+      "method": "Detective work and combat"
+    }
+  ],
+  "quotes": [
+    "In a world of black and white, I fight in the gray.",
+    "Justice wears a trench coat."
+  ],
+  "voice_acting": {
+    "native_language": "Nicholas Cage",
+    "english": "Nicholas Cage",
+    "note": "Into the Spider-Verse",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Fights crime in Earth-90214",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Peter Parker",
+      "Spider-Man Noir"
+    ],
+    "role_in_story": "Main Character (alternate universe)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-slinging"
+    ],
+    "vehicles": [
+      "Car"
+    ],
+    "headquarters": "NYC detective office",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "870ff1450bbe3bb914c6c3ec545300f3",
+  "publisher": "marvel",
+  "about": "Spider-Man Noir, often referred to as Spider-Noir, Spider-Man, or simply Noir, is a superhero appearing in American comic books published by Marvel Comics. Created by David Hine and Fabrice Sapolsky as part of the Marvel Noir universe (Earth-90214), this alternate version of Spider-Man is a reinterpretation of the character inspired by film noir who emerges in New York during the Great Depression.",
+  "note": null,
+  "source": "marvel"
+}

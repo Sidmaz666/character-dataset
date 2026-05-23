@@ -1,0 +1,401 @@
+{
+  "id": "eb2e9cdba5d64447f00fe5408e7757d4",
+  "name": "Daredevil",
+  "native_name": "Matthew Murdock",
+  "full_name": "Matthew Michael Murdock",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 84,
+    "age": "Unknown",
+    "birthday": "September 13",
+    "zodiac": "Virgo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 25.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gray (blind)",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": "Red costume with devil horns, blind",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York",
+    "current_location": "Hell's Kitchen, New York",
+    "base_of_operations": "Hell's Kitchen",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante / Lawyer",
+    "secondary": "Attorney",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "New Avengers",
+      "Defenders"
+    ],
+    "previous": [
+      "Avengers"
+    ],
+    "relatives": [
+      "Stick (mentor)",
+      "Foggy Nelson (partner)",
+      "Karen Page (former partner)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Daredevil #1 (April 1964)",
+    "comics": "Daredevil #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Heightened Senses",
+      "native_name": null,
+      "description": "Superhuman hearing, smell, taste, and touch due to blindness",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Can be overwhelmed"
+    },
+    {
+      "name": "Radar Sense",
+      "native_name": null,
+      "description": "Can perceive surroundings through echolocation - 360 degree awareness",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Doesn't work through dense materials"
+    },
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Expert in multiple martial arts and acrobatics",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Peak Human Condition",
+      "native_name": null,
+      "description": "Peak human strength, speed, agility, and reflexes",
+      "type": "Attack/Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Billy Club attacks",
+    "Kick techniques",
+    "Nunchaku"
+  ],
+  "ultimate_move": "Hell's Kitchen finishing blow",
+  "trump_card": "Full sensory overload",
+  "power_attributes": {
+    "power_type": "Enhanced senses",
+    "power_source": "Chemical exposure from accident",
+    "combat_style": [
+      "Martial arts",
+      "Weapons"
+    ],
+    "weapon": "Billy Club",
+    "equipment": [
+      "Custom suit"
+    ],
+    "trump_card": "Full sensory overload",
+    "ultimate_move": "Hell's Kitchen finishing blow"
+  },
+  "personality": {
+    "traits": [
+      "Righteous",
+      "Stubborn",
+      "Compassionate",
+      "Flawed"
+    ],
+    "likes": [
+      "Justice",
+      "Helping the helpless"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Injustice"
+    ],
+    "fear": "Hurting innocents",
+    "dream": "Cleaning up Hell's Kitchen",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heightened Senses",
+      "Radar Sense",
+      "Master Martial Artist",
+      "Peak Human Condition"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "Fights for the forgotten - brings justice to criminals",
+    "motivation": "Protecting innocent lives",
+    "affinity": "Justice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved Hell's Kitchen",
+    "Became lawyer and vigilante",
+    "Member of Avengers"
+  ],
+  "titles": [
+    "Man Without Fear",
+    "Devil of Hell's Kitchen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless to the city"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 65,
+    "speed": 70,
+    "durability": 60,
+    "power": 75,
+    "combat": 95,
+    "total": 455
+  },
+  "weaknesses": {
+    "list": [
+      "Blind",
+      "Vulnerable to loud sounds and scents",
+      "Limited to melee range"
+    ],
+    "factors": [
+      "Sensory overload",
+      "Cannot see"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kingpin",
+    "allies": [
+      "Foggy Nelson",
+      "Karen Page",
+      "Stick"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Foggy Nelson",
+        "relationship": "Best friend and partner",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Kingpin",
+      "Bullseye",
+      "The Hand"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Wilson Fisk (Kingpin)",
+        "relationship": "Archenemy",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Karen Page",
+    "best_friend": "Foggy Nelson",
+    "rival": "Bullseye",
+    "mentor": "Stick",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Foggy Nelson",
+      "Karen Page",
+      "Stick"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kingpin",
+      "Bullseye"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Bullseye"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Foggy Nelson",
+      "Karen Page",
+      "Stick"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Stick"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kingpin",
+      "result": "Victory",
+      "method": "Defeated through legal and physical means"
+    }
+  ],
+  "quotes": [
+    "I am the devil of Hell's Kitchen",
+    "Justice is blind... so is Matt Murdock"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Matt Ryan (MCU Netflix)",
+    "note": "Charlie Cox portrayal",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues protecting Hell's Kitchen",
+    "transform": "Gained powers from radiation accident",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "Young hero",
+      "Experienced vigilante"
+    ],
+    "role_in_story": "Protagonist",
+    "transformation": null,
+    "awakening": null,
+    "role": null,
+    "face": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hell's Kitchen office",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Bullseye is a supervillain appearing in American comic books published by Marvel Comics. Created by writer Marv Wolfman and artist John Romita Sr., the character first appeared in Daredevil #131 (1976), and has been one of the superhero Daredevil's two archenemies, alongside the Kingpin. Bullseye has appeared consistently in Marvel Comics since his creation, featuring in solo limited series, series focused on Daredevil, and company-wide storylines.",
+  "note": null,
+  "source": "marvel"
+}

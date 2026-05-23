@@ -1,0 +1,329 @@
+{
+  "id": "dfe396739d2b75667307e28e3feb68bf",
+  "name": "Tenma, Kenzou",
+  "native_name": "天馬賢三",
+  "full_name": "Dr. Kenzo Tenma",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "31-36",
+    "birthday": "January 2",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Handsome, professional appearance",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Yokohama, Japan",
+    "current_location": "Germany (Düsseldorf)",
+    "base_of_operations": "Germany (Düsseldorf)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Neurosurgeon",
+    "secondary": "Hospital doctor",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Eisler Memorial Hospital"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Monster Episode 1",
+    "manga": "Monster Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Neurosurgery",
+      "native_name": "脳神経外科",
+      "description": "Expert brain surgeon with exceptional skill",
+      "type": "Support",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Short"
+    },
+    {
+      "name": "Medical Knowledge",
+      "native_name": "医学",
+      "description": "Extensive medical expertise",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short"
+    },
+    {
+      "name": "Determination",
+      "native_name": "決意",
+      "description": "Unwavering resolve to stop Johan",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Self"
+    }
+  ],
+  "personality": {
+    "traits": [
+      "Compassionate",
+      "Principled",
+      "Determined",
+      "Empathetic",
+      "Self-sacrificing"
+    ],
+    "likes": [
+      "Saving lives",
+      "Justice",
+      "His principles"
+    ],
+    "dislikes": [
+      "Corruption",
+      "Inequality in medicine",
+      "Johan"
+    ],
+    "fear": "The monster he created",
+    "dream": "Save all lives equally",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From respected doctor to hunted fugitive",
+    "motivation": "Stop Johan and find redemption",
+    "affinity": "Life",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Famous neurosurgeon",
+    "Saved countless lives",
+    "Uncovered hospital conspiracies"
+  ],
+  "titles": [
+    "Doctor Tenma",
+    "Monster Hunter"
+  ],
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 50,
+    "speed": 55,
+    "durability": 60,
+    "power": 40,
+    "combat": 40,
+    "total": 340
+  },
+  "relationships": {
+    "patient": "Johan Liebert (the monster)",
+    "love_interest": "Anna Heidegger",
+    "colleague": "Dr. Heinemann",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Eisler Memorial Hospital"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Every life is equal.",
+    "I will find that monster."
+  ],
+  "voice_acting": {
+    "native_language": "Hidenobu Kiuchi",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues searching for Johan, gets justice",
+    "role_in_story": "Protagonist",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "signature_moves": [
+    "Neurosurgery",
+    "Medical Knowledge",
+    "Determination"
+  ],
+  "ultimate_move": "Neurosurgery",
+  "trump_card": "Medical Knowledge",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Psychic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Medical Knowledge",
+    "ultimate_move": "Neurosurgery"
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Germany (Düsseldorf)",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "about": "Doctor Kenzou Tenma is a Japanese neurosurgeon working at the Eisler Memorial Hospital in Düsseldorf. At the beginning of Monster he is favored by the department director for his prodigious surgical skill. After a crisis of conscience, he chooses to save the life of a young boy instead of the city's mayor, and is unjustly demoted as a result; he then becomes suspect for murder when the department director and several prominent doctors are killed weeks later. It is only after nine years that Dr. Tenma learns the perpetrator of the hospital murders is none other than the boy he saved years before, Johan Liebert. Plagued by guilt, he resolves to find Johan and end the life of this \"monster\" he feels responsible for creating. Despite his mission, Dr. Tenma is a humanitarian who genuinely cares about the lives of others. These acts of kindness make him very influential with the people he meets.",
+  "note": null,
+  "source": "anime"
+}

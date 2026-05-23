@@ -1,0 +1,418 @@
+{
+  "id": "d2876b262d358932adc32b7b63a8138e",
+  "name": "Sentry",
+  "native_name": "Robert Reynolds",
+  "full_name": "Robert Reynolds",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human mutated",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 90,
+    "age": "Unknown",
+    "birthday": "July 29",
+    "zodiac": "Leo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": "Golden costume with S emblem",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York",
+    "current_location": "Earth",
+    "base_of_operations": "New York",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Former member of Avengers",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "New Avengers",
+      "Thunderbolts"
+    ],
+    "previous": [
+      "Avengers",
+      "Great Lakes Initiative"
+    ],
+    "relatives": [
+      "Lindsey (wife)",
+      "Dylan (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Sentry #1 (July 2000)",
+    "comics": "The Sentry #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Power of a million exploding suns - virtually limitless strength when mentally stable",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Mental stability affects power level"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly at supersonic speeds",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Invulnerability",
+      "native_name": null,
+      "description": "Nigh invulnerable to most forms of damage",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Invisibility",
+      "native_name": null,
+      "description": "Can become invisible",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Energy Manipulation",
+      "native_name": null,
+      "description": "Can project and absorb vast amounts of energy",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Psionic Powers",
+      "native_name": null,
+      "description": "Vast untapped psionic abilities including telepathy and telekinesis",
+      "type": "Attack/Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Untrained and unstable"
+    }
+  ],
+  "signature_moves": [
+    "Power of a Million Suns blast",
+    "Radiation pulse"
+  ],
+  "ultimate_move": "Void merger - Full power unleash",
+  "trump_card": "Total psionic output",
+  "power_attributes": {
+    "power_type": "Solar radiation",
+    "power_source": "Professor's secret serum",
+    "combat_style": [
+      "Flight",
+      "Energy blasts",
+      "Hand-to-hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Sentry suit"
+    ],
+    "trump_card": "Total psionic output",
+    "ultimate_move": "Void merger - Full power unleash"
+  },
+  "personality": {
+    "traits": [
+      "Heroic",
+      " mentally unstable",
+      " guilt-ridden"
+    ],
+    "likes": [
+      "Helping others"
+    ],
+    "dislikes": [
+      "His dark side - The Void"
+    ],
+    "fear": "Losing control to The Void",
+    "dream": "Being a true hero",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic"
+    ],
+    "weaknesses": [
+      "Vulnerab",
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Struggles with dual identity between heroic Sentry and destructive Void",
+    "motivation": "Proving himself as a hero",
+    "affinity": "Solar",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Defeated the Void",
+    "Member of New Avengers",
+    "Battled world-level threats"
+  ],
+  "titles": [
+    "The Sentry",
+    "Bob"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 84,
+    "strength": 100,
+    "speed": 98,
+    "durability": 100,
+    "power": 100,
+    "combat": 75,
+    "total": 557
+  },
+  "weaknesses": {
+    "list": [
+      "Mental instability weakens powers",
+      "The Void - dark alter ego"
+    ],
+    "factors": [
+      "Psychological vulnerabilities",
+      "Fear triggers transformation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Void",
+    "allies": [
+      "Spider-Man",
+      "X-Men",
+      "Avengers"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Spider-Man",
+        "relationship": "Ally",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "The Void",
+      "Norman Osborn"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "The Void",
+        "relationship": "Dark alter ego",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Lindsey",
+    "best_friend": null,
+    "rival": null,
+    "mentor": "The Professor",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Man",
+      "X-Men",
+      "Avengers"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Void"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Man",
+      "X-Men",
+      "Avengers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "The Professor"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "The Void",
+      "result": "Inconclusive",
+      "method": "Constant internal struggle"
+    },
+    {
+      "opponent": "Hulk",
+      "result": "Draw",
+      "method": "Matched power levels"
+    }
+  ],
+  "quotes": [
+    "I have the power of a million exploding suns!",
+    "I'm not a monster... I'm a hero"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "James Francis Cutter (animated)",
+    "note": "Created by Paul Jenkins and Jae Lee",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues fighting internal and external threats",
+    "transformation": "Grew powers from serum as teen",
+    "awakening_potential": "Virtually limitless",
+    "power_evolution": [
+      "Teen hero",
+      "Adult Avengers member"
+    ],
+    "role_in_story": "Major character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "New York",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "The Sentry and The Void are, respectively, a superhero and supervillain appearing in American comic books published by Marvel Comics. Created by Paul Jenkins and Jae Lee, with uncredited conceptual contributions by Rick Veitch, the characters first appeared in The Sentry #1 (2000).",
+  "note": null,
+  "source": "marvel"
+}

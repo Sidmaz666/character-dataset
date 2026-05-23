@@ -1,0 +1,425 @@
+{
+  "id": "ebe4d70131fc6b792d82841d58a74a00",
+  "name": "Videl",
+  "native_name": "ビーデル",
+  "full_name": "Videl Satan",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Satan Family",
+    "height_cm": 160,
+    "weight_kg": 48,
+    "age": "16-18",
+    "birthday": "May 8",
+    "zodiac": "Taurus",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Black hair",
+      "Pigtails",
+      "Athletic build",
+      "School uniform",
+      "Determined eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Satan City",
+    "current_location": "Satan City",
+    "base_of_operations": "Satan House",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Martial Artist",
+    "secondary": "Student",
+    "rank_title": "World Champion's Daughter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Satan City",
+      "Z Fighters (ally)"
+    ],
+    "previous": [],
+    "relatives": [
+      "Mr. Satan (father)",
+      "Miguel (mother)",
+      "Gohan (husband)",
+      "Pan (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Z Episode 200",
+    "manga": "Dragon Ball Chapter 400",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Martial Arts Mastery",
+      "native_name": "格闘技",
+      "description": "Highly skilled martial artist trained by father. Can fight criminals effectively.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Melee",
+      "limit": "Human limits"
+    },
+    {
+      "name": "Flight",
+      "native_name": "舞空術",
+      "description": "Learned to fly using ki. Can levitate and move through air.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": "Ki"
+    },
+    {
+      "name": "Ki Control",
+      "native_name": "気功",
+      "description": "Basic ki manipulation. Can sense energy, fly, enhance strength.",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Training"
+    },
+    {
+      "name": "Justice Sense",
+      "native_name": "正義感",
+      "description": "Strong moral compass. Fights crime, protects weak. Inspires others.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Martial arts strikes",
+    "Flight",
+    "Ki blast"
+  ],
+  "ultimate_move": "Justice combination",
+  "trump_card": "Determination",
+  "power_attributes": {
+    "power_type": "Ki",
+    "power_source": "Training",
+    "combat_style": [
+      "Martial Arts",
+      "Flight"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Vehicle"
+    ],
+    "trump_card": "Determination",
+    "ultimate_move": "Justice combination"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Determined",
+      "Kind",
+      "Strong-willed",
+      "Loyal",
+      "Evolving"
+    ],
+    "likes": [
+      "Gohan",
+      "Justice",
+      "Martial arts",
+      "Flying",
+      "Helping"
+    ],
+    "dislikes": [
+      "Crime",
+      "Evil",
+      "Weakness",
+      "Injustice"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Protect city, be with Gohan",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Strong-willed",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "Videl is Mr. Satan's daughter who fights crime. Meets Gohan, learns to fly. Falls in love, marries him. Becomes strong warrior and mother to Pan.",
+    "motivation": "Fight crime, protect city",
+    "affinity": "Black/Justice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Learned to fly",
+    "Married Gohan",
+    "Fought Buu saga",
+    "Mother of Pan"
+  ],
+  "titles": [
+    "Champion's Daughter",
+    "Gohan's Wife"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Zeni",
+    "details": "Martial Artist"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 72,
+    "speed": 78,
+    "durability": 75,
+    "power": 70,
+    "combat": 82,
+    "total": 452
+  },
+  "weaknesses": {
+    "list": [
+      "Human limits",
+      "Gohan's safety",
+      "Inexperience"
+    ],
+    "factors": [
+      "Gohan",
+      "Father"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Criminals",
+    "allies": [
+      "Gohan",
+      "Goku",
+      "Vegeta",
+      "Piccolo",
+      "Mr. Satan"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Son Gohan",
+        "relationship": "Husband",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Criminals",
+      "Babidi's minions"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Gohan",
+    "best_friend": "Gohan",
+    "rival": "None",
+    "mentor": "Gohan",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gohan",
+      "Goku",
+      "Vegeta",
+      "Piccolo",
+      "Mr. Satan"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Criminals",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Mr"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Mr"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gohan",
+      "Goku",
+      "Vegeta",
+      "Piccolo",
+      "Mr. Satan"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Gohan"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Spopovich",
+      "result": "Loss",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Criminals",
+      "result": "Victory",
+      "method": "Martial arts"
+    }
+  ],
+  "quotes": [
+    "I'll fight for justice!",
+    "Gohan, teach me to fly!",
+    "I'm not weak!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuko Minaguchi (Japanese)",
+    "note": "Determined, kind",
+    "native_name": null,
+    "english": "Moneca Stori",
+    "japanese": "Yūko Minaguchi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married to Gohan, mother of Pan",
+    "transformation": "None",
+    "awakening_potential": "Medium",
+    "power_evolution": [
+      "Student",
+      "Warrior",
+      "Wife",
+      "Mother"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Satan City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Earthling\nHeight: 5'1\"\nWeight: 101 lbs\nBirth Year: 757 Age\nHobby: Serving as the Ally of Justice\nFavorite Food: Okonomiyaki, Caesar Salad\nFavorite Vehicle: Air Bike\n\nVidel is the daughter of Mr. Satan. Mr. Satan is very protective of her, especially in respect to boys. She grew up learning martial arts hoping to be as great as her dad, when in fact, unknown to herself she was already better than him. She is a tough, tomboyish character, raised with fame all around her. In her spare time, Videl fights crime in Satan City. She becomes suspicious of Gohan after meeting him at Orange Star High School, and she even follows him for a brief time to learn more about him. Videl eventually discovers Gohan's secret identity as the Great Saiyaman. She forces Gohan to teach her how to fly, and makes him enter the 25th Tenka'ichi Budokai under the threat that she'll reveal his identity to the world. After the Buu saga, the two get together, and have a child named Pan.\n\n(Source: Dragon Ball Super Exciting Guide, Character Edition)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,295 @@
+{
+  "id": "cd5e406f89e5dabb78fc658c183af5e1",
+  "name": "Kurosaki, Isshin",
+  "native_name": "黑崎一護",
+  "full_name": "Isshin Kurosaki",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human/Shinigami",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Appears as shinigami",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura",
+    "current_location": "Karakura",
+    "base_of_operations": "Karakura",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Doctor",
+    "secondary": "Shinigami",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kurosaki family"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach",
+    "manga": "Bleach",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Protective",
+      "Mysterious"
+    ],
+    "likes": [
+      "Helping others"
+    ],
+    "dislikes": [
+      "Threats to loved ones"
+    ],
+    "fear": "The unknown",
+    "dream": "Protect family",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hidden shinigami",
+    "motivation": "Protect family",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 70,
+    "speed": 75,
+    "durability": 70,
+    "power": 75,
+    "combat": 75,
+    "total": 440
+  },
+  "relationships": {
+    "son": "Ichigo",
+    "wife": "Masaki",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo (son)",
+      "Masaki (wife)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Ichigo (son)",
+      "Masaki (wife)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Ichigo (son)",
+      "Masaki (wife)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Masaki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Sword",
+    "equipment": [
+      "Sword",
+      "Blade"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Toshiyuki Morikawa (Japanese)",
+    "Voiced by Patrick Seitz (English)"
+  ],
+  "titles": [
+    "Doctor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Patrick Seitz",
+    "note": null,
+    "native_name": null,
+    "japanese": "Toshiyuki Morikawa"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Karakura",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "Race: Human\nBirthday: July 15 (Cancer)\nAge: 15 (beginning); 17 (currently)\nHeight: 174-&gt;181 cm\nWeight: 61-&gt;66 kg\nKnown Relatives: Isshin Kurosaki (father), Masaki Kurosaki (mother, deceased), Yuzu Kurosaki (younger sister), Karin Kurosaki (younger sister),  \nTheme Song: \"Number One\" by Hazel Fernandes and Shiro Sagisu.\n\nFor the most part, Ichigo appears like a normal teenage boy, the one exception to that is his spiky, orange hair, a trait which he has been ridiculed about for years. He is a fairly tall, and lean-built person with peach skin and brown eyes. Since becoming a Shinigami, he has become noticeably more muscular, as noted by his sister Karin. When in his spiritual form, Ichigo wears standard Shinigami attire with the addition of a strap across his chest.\n\nWhen he was young, Ichigo considered his mother to be the center of his world. Ichigo always smiled whenever he was with Masaki and he was regularly at her side, holding her hand.\n\nAs a teenager, Ichigo's personality is much more complex. Stubborn, short-tempered, occasionally confrontational, determined, outspoken, strong-willed and impulsive, he attempts to maintain a detached and \"cool\" image, despite claiming to not care about what other people think about him. He generally keeps his face set in a permanent scowl with his eyebrows drawn together. Ichigo carries the burden of the real world and the spirit world (Soul Society), a task quite difficult, especially for a teenager like Ichigo, who has his own worries and problems. Also, Ichigo is quite smart; he was ranked 23rd in his high school. He does this partly to prove to his teachers and classmates that just because he's unique, or somewhat punkish, that he can still succeed.\n\nWhen Ichigo first becomes a Shinigami, his Zanpakutō is a standard-looking katana, but oversized with an equally-oversized brown sheathe hung by a strap over his right shoulder. It has a rectangular bronze hand guard with gently inward-curved edges, a stylized flame pattern on the long sides, and a simple decorative slit on the short ones. The handle is red with two light blue tassels on the end of the handle. The large size is due to the unfocused but immense amount of Ichigo's spiritual power, which he didn't know how to control. As a result, the sword itself was rather weak, since very little spiritual power was used to create it. Nevertheless, it was powerful enough to subdue a Gillian-class Menos and lesser Hollows, completely blocking a Cero from the former. It was even able to upturn the ground with a single strike. Because of its weak spiritual energy nature, Byakuya Kuchiki was able to easily cut off most of the blade during his first encounter with Ichigo and Kisuke Urahara subsequently slices it down to the hilt during their training, forcing Ichigo to learn the name of his Zanpakutō in order to release its true form. This sword is found to be a result of Rukia's deprived spiritual energy and not a result of his own power.",
+  "note": null,
+  "source": "anime"
+}

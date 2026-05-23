@@ -1,0 +1,366 @@
+{
+  "id": "8b9acfe6fdc44f24aa1973c4b9a5630a",
+  "name": "Ash Ketchum",
+  "native_name": "Satoshi",
+  "full_name": "Ash Ketchum",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 140,
+    "weight_kg": 35,
+    "age": "10",
+    "birthday": "May 22",
+    "blood_type": "O",
+    "bloodline": null,
+    "zodiac": "Gemini",
+    "weight_kkg": null,
+    "bmi": 17.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": [
+      "Trainer cap",
+      "Pokemon belt",
+      "Always carries Pikachu"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Pallet Town",
+    "current_location": "Traveling",
+    "base_of_operations": "Traveling",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pokemon Trainer",
+    "secondary": "Pokemon Master (aspiring)",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Pallet Town",
+      "Kanto League",
+      "Alola League Champion"
+    ],
+    "previous": [],
+    "relatives": [
+      "Delia Ketchum (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Pokemon Episode 1",
+    "manga": "Pokemon Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Pokemon Battling",
+      "native_name": null,
+      "description": "Expert Pokemon trainer skilled in strategy and battle tactics",
+      "type": "Tactical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Aura Connection",
+      "native_name": null,
+      "description": "Deep empathic bond with Pokemon, can sense their feelings",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Indomitable Will",
+      "native_name": null,
+      "description": "Never gives up, pushes through any obstacle",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Thunderbolt combo",
+    "Counter Shield"
+  ],
+  "ultimate_move": "Battle Bond - Ash-Greninja",
+  "trump_card": "Indomitable Will",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Counter Shield"
+    ],
+    "trump_card": "Indomitable Will",
+    "ultimate_move": "Battle Bond - Ash-Greninja"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Compassionate",
+      "Brave",
+      "Stubborn",
+      "Optimistic"
+    ],
+    "likes": [
+      "Pokemon battles",
+      "making friends",
+      "exploring"
+    ],
+    "dislikes": [
+      "Team Rocket",
+      "injustice to Pokemon",
+      "losing"
+    ],
+    "fear": "Stubborn",
+    "dream": "Become the greatest Pokemon Master",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "Young trainer from Pallet Town on a journey to become a Pokemon Master",
+    "motivation": "Become the greatest Pokemon Master",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Alola League Champion",
+    "Battle Frontier Champion",
+    "Orange League Champion"
+  ],
+  "titles": [
+    "Alola Champion",
+    "World Coronation Series Master Class"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 40,
+    "speed": 50,
+    "durability": 60,
+    "power": 45,
+    "combat": 65,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "Stubborn"
+    ],
+    "factors": [
+      "stubborn"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gary Oak",
+    "allies": [
+      "Pikachu",
+      "Misty",
+      "Brock",
+      "Professor Oak"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Team Rocket",
+      "Giovanni"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Pikachu",
+    "rival": "Gary Oak",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Pikachu",
+      "Misty",
+      "Brock",
+      "Professor Oak"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gary Oak"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Gary Oak"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Pikachu",
+      "Misty",
+      "Brock",
+      "Professor Oak"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I choose you, Pikachu!",
+    "I'm gonna be a Pokemon Master!"
+  ],
+  "voice_acting": {
+    "native_language": "Rika Matsumoto",
+    "note": null,
+    "native_name": null,
+    "english": "English]]",
+    "japanese": "Japanese]]"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Main Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Ash Ketchum, known as Satoshi (サトシ) in Japan, is a character in the Pokémon franchise owned by Nintendo, Game Freak, and Creatures. He was the protagonist of the Pokémon anime for the first 25 seasons, as well as the protagonist of several manga series. In Japanese, the character is voiced by Rica Matsumoto. In the English dub, he was voiced by Veronica Taylor in the first eight seasons and Sarah Natochenny afterwards. Ash is a young boy who travels with various companions, aiming to fulfill his dream to become a Pokémon Master; his Pokémon lineup constantly changes over the course of the series, with its sole constant member being Pikachu, Ash's first Pokémon. Ash is loosely based on Red, the player character from the Generation I games Pokémon Red and Blue. Satoshi Tajiri, the creator of Pokémon, has stated that Ash represents the \"human aspect\" of the series, and that Ash reflects what he himself was like as a child.\nAsh has been criticized for being stuck in a \"floating timeline\", as well as for his long-lasting inability to win many major Pokémon League competitions in the series. However, his longevity and persistence have also been positively received, and his character has received attention for teaching important and relatable lessons to children. Ash ultimately became Alola League Champion in Pokémon the Series: Sun & Moon – Ultra Legends, and World Champion in Pokémon Ultimate Journeys: The Series.\nDue to the huge popularity, success, and longevity of the Pokémon anime series around the world since its debut, Ash has gone on to become one of the most well-known and recognizable fictional characters of all time. He is considered a pop culture icon and a figurehead character of the wave of anime in the late 1990s. He has been used extensively in merchandise for the series.",
+  "note": null,
+  "source": "anime"
+}

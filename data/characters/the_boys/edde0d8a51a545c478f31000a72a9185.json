@@ -1,0 +1,377 @@
+{
+  "name": "Ryan Butcher",
+  "native_name": null,
+  "full_name": "Ryan Butcher",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe/Human Hybrid",
+    "race": "Human",
+    "bloodline": "Butcher",
+    "height_cm": 150,
+    "weight_kg": 45,
+    "age": "Child (8-10)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Innocent appearance",
+      "Son of Homelander",
+      "Potential for immense power"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (Secret Vought facility)",
+    "current_location": "Unknown (with Butcher/Mallory)",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Child",
+    "secondary": "Supe child",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Billy Butcher (guardian)"
+    ],
+    "previous": [
+      "Becca Butcher (mother, deceased)"
+    ],
+    "relatives": [
+      "Homelander (father)",
+      "Becca Butcher (mother)",
+      "Billy Butcher (step-uncle)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Latent Homelander Powers",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self"
+    },
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee"
+    },
+    {
+      "name": "Flight",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self"
+    },
+    {
+      "name": "Heat Vision",
+      "type": "Energy",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Heat Vision Blast",
+    "Childlike Rampage"
+  ],
+  "ultimate_move": "Untapped Potential",
+  "trump_card": "Homelander DNA",
+  "power_attributes": {
+    "power_type": "Supe (Inherited)",
+    "power_source": "Homelander DNA + Becca's natural birth",
+    "combat_style": [
+      "Untrained",
+      "Raw power"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Homelander DNA",
+    "ultimate_move": "Untapped Potential"
+  },
+  "personality": {
+    "traits": [
+      "Innocent",
+      "Kind",
+      "Confused",
+      "Traumatized",
+      "Loving"
+    ],
+    "likes": [
+      "His mother",
+      "Play",
+      "Billy (reluctantly)"
+    ],
+    "dislikes": [
+      "His father (Homelander)",
+      "Violence",
+      "Being a weapon"
+    ],
+    "fear": "Becoming like his father",
+    "dream": "Be a normal child",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Latent Homelander Powers",
+      "Superhuman Strength",
+      "Flight",
+      "Heat Vision"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "The son of Homelander and Becca Butcher, raised in secret by Becca until she was killed by Stormfront. Inherited his father's powers but his mother's kindness. Becomes a focal point of the conflict between Butcher and Homelander. Fears becoming a monster like his father.",
+    "motivation": "Be good like his mother wanted",
+    "affinity": "Innocence/Power",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Killed Stormfront (protecting mother)",
+    "Resisted Homelander's influence"
+  ],
+  "titles": [
+    "Ryan Butcher",
+    "Homelander's Son",
+    "The Natural Born Supe"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 80,
+    "speed": 72,
+    "durability": 82,
+    "power": 92,
+    "combat": 40,
+    "total": 421
+  },
+  "weaknesses": {
+    "list": [
+      "Child mentality",
+      "Emotional vulnerability",
+      "Homelander's influence"
+    ],
+    "factors": [
+      "Innocent",
+      "Traumatized",
+      "Untrained"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homelander (father)",
+    "allies": [
+      "Billy Butcher",
+      "Becca Butcher (mother, deceased)"
+    ],
+    "enemies": [
+      "Homelander",
+      "Stormfront",
+      "Vought"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": "Becca Butcher (mother)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Billy Butcher",
+      "Becca Butcher (mother, deceased)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homelander (father)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Billy Butcher",
+      "Becca Butcher"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Becca Butcher"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormfront",
+      "result": "Victory",
+      "method": "Heat vision blast protecting his mother"
+    }
+  ],
+  "quotes": [
+    "I do not want to be like him.",
+    "Mom said I am special because I am good, not because I have powers."
+  ],
+  "voice_acting": {
+    "native_language": "Cameron Crovetti",
+    "english": "Cameron Crovetti",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Protected by Butcher, potential future hero",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Baby",
+      "Ryan",
+      "Supe Child",
+      "Potential Hero"
+    ],
+    "role": "Major Supporting",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "edde0d8a51a545c478f31000a72a9185",
+  "publisher": "the_boys",
+  "about": "John Gillman, better known as the Homelander, is a fictional character and the secondary antagonist of the comic book series The Boys, and the main antagonist of the media franchise of the same name created by Garth Ennis and Darick Robertson. He is depicted as a psychopathic and sadistic narcissist with a nihilistic and hedonistic worldview who serves as the extremely powerful leader of the Seven—a group of corrupt and hedonistic superheroes grown and funded by Vought-American—and is the archenemy of Billy Butcher. Beneath his public image as a noble hero, Homelander cares little about the well-being of those he professes to protect. Described as the living personification of how the world sees the United States, the character has received critical acclaim along with Antony Starr's portrayal in the series. Homelander has been compared to Superman and Captain America.",
+  "note": null,
+  "source": "the_boys"
+}

@@ -1,0 +1,298 @@
+{
+  "id": "12841228998b6b9724f3adcffffb488c",
+  "name": "Ookido, Green",
+  "native_name": "グリーン・オーキド",
+  "full_name": "Green Oak",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "age": "Teen",
+    "birthday": "November 22",
+    "blood_type": "AB",
+    "bloodline": null,
+    "zodiac": "Sagittarius",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Fair",
+    "notable_features": "Researcher, Oak's granddaughter",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Pallet Town",
+    "current_location": "Kanto",
+    "base_of_operations": "Kanto",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Researcher",
+    "secondary": "Trainer",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Oak's lab"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Pokemon",
+    "manga": "Pokemon",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Kind",
+      "Determined"
+    ],
+    "likes": [
+      "Learning",
+      "Helping others"
+    ],
+    "dislikes": [],
+    "fear": "The unknown",
+    "dream": "Study Pokemon",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Oak's granddaughter, researcher",
+    "motivation": "Study Pokemon",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 45,
+    "speed": 50,
+    "durability": 50,
+    "power": 55,
+    "combat": 50,
+    "total": 380
+  },
+  "relationships": {
+    "grandfather": "Professor Oak",
+    "rival": "Red",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Red"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Professor Oak (grandfather)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Red"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Professor Oak (grandfather)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Professor Oak (grandfather)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Red"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Professor Oak"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": null,
+    "power_source": "Unknown",
+    "combat_style": [
+      "Ranged combat"
+    ],
+    "weapon": "Ranged weapon",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Takuya Eguchi (Japanese)",
+    "Voiced by Lucien Dodge (English)"
+  ],
+  "titles": [
+    "Researcher"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Lucien Dodge",
+    "note": null,
+    "native_name": null,
+    "japanese": "Takuya Eguchi"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kanto",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "She is an Elf who is one of the two Summoners who summoned Diablo. The reason she summoned him was to have the strength to live free.",
+  "note": null,
+  "source": "anime"
+}

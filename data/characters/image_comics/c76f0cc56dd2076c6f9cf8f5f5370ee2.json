@@ -1,0 +1,361 @@
+{
+  "name": "Thula",
+  "native_name": null,
+  "full_name": "Thula",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Viltrumite",
+    "race": "Viltrumite",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "Ancient",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long red hair",
+      "Viltrumite uniform",
+      "Warrior body",
+      "Deadly grace"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Viltrum",
+    "current_location": "Viltrum",
+    "base_of_operations": "Viltrum Empire",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Viltrumite Warrior",
+    "secondary": null,
+    "rank_title": "General",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Viltrumite Empire"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Viltrumite Physiology",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Self"
+    },
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Melee"
+    },
+    {
+      "name": "Flight",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Planetary"
+    },
+    {
+      "name": "Enhanced Durability",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 86,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Bladed Strike (hair blade)",
+    "Viltrumite Rush",
+    "Aerial Assault"
+  ],
+  "ultimate_move": "Viltrum Blade Fury",
+  "trump_card": "Viltrumite Combat Prowess",
+  "power_attributes": {
+    "power_type": "Viltrumite Biology",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Weaponized hair",
+      "Brutal",
+      "Viltrumite combat"
+    ],
+    "weapon": "Bladed weapon (hair)",
+    "equipment": [
+      "Viltrumite armor"
+    ],
+    "trump_card": "Viltrumite Combat Prowess",
+    "ultimate_move": "Viltrum Blade Fury"
+  },
+  "personality": {
+    "traits": [
+      "Vicious",
+      "Loyal",
+      "Deadly",
+      "Proud"
+    ],
+    "likes": [
+      "Combat",
+      "Victory",
+      "Viltrumite superiority"
+    ],
+    "dislikes": [
+      "Humans",
+      "Half-breeds",
+      "Weakness"
+    ],
+    "fear": "Viltrumite weakness",
+    "dream": "Viltrum dominance",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Deadly female Viltrumite warrior. Used her long hair as a bladed weapon. Fought in the Viltrumite War and later served in the reformed Empire.",
+    "motivation": "Prove Viltrumite dominance",
+    "affinity": "Viltrum",
+    "alignment": "Lawful Evil (reformed)"
+  },
+  "achievements": [
+    "Viltrumite General",
+    "Survived Viltrumite War"
+  ],
+  "titles": [
+    "Thula",
+    "General Thula",
+    "Viltrumite Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 85,
+    "speed": 82,
+    "durability": 86,
+    "power": 80,
+    "combat": 88,
+    "total": 481
+  },
+  "weaknesses": {
+    "list": [
+      "Inner ear",
+      "Viltrumite weaknesses"
+    ],
+    "factors": [
+      "Standard Viltrumite vulnerabilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Viltrumite Empire"
+    ],
+    "enemies": [
+      "Coalition"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Viltrumite Empire"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Coalition"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Viltrumite Empire"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various foes",
+      "result": "Victories",
+      "method": "Viltrumite combat"
+    }
+  ],
+  "quotes": [
+    "Viltrumites are made for war."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Reformed Empire warrior",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Thula",
+      "Viltrumite General"
+    ],
+    "role": "Supporting",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Viltrumite ship"
+    ],
+    "headquarters": "Viltrum",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "c76f0cc56dd2076c6f9cf8f5f5370ee2",
+  "publisher": "image_comics",
+  "about": "Thula (Arabic: ثُلَاء, romanized: Thulāʾ) or Thila (Arabic: ثِلَاء, romanized: Thilāʾ) is a town in west-central Yemen. It is located in the 'Amran Governorate.\nThula is one of five towns in Yemen on the UNESCO World Heritage Tentative List. Dating to the Himyarite period (between 110 BCE and the 6th century CE), the town is very well preserved and includes traditional houses and mosques. Archaeological investigation discovered Sabaean period ruins with massive stone architecture beneath the Himyarite. Restoration between 2004 and 2011, restored the Bab al Mayah gate, several\nwatch towers, paths, the traditional cistern, and other portions of the Sabaean fort.",
+  "note": null,
+  "source": "image_comics"
+}

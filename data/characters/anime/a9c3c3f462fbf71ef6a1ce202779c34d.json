@@ -1,0 +1,414 @@
+{
+  "id": "a9c3c3f462fbf71ef6a1ce202779c34d",
+  "name": "Tsubasa Ozora",
+  "native_name": "大空 翼",
+  "full_name": "Tsubasa Ozora",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Ozora Family",
+    "height_cm": 165,
+    "weight_kg": 58,
+    "age": "11-12",
+    "birthday": "March 28",
+    "zodiac": "Aries",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 21.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown hair",
+      "Soccer uniform",
+      "Athletic build",
+      "Determined eyes",
+      "Soccer ball"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo, Japan",
+    "current_location": "Nankatsu",
+    "base_of_operations": "Nankatsu SC",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Soccer Player",
+    "secondary": "Student",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Nankatsu SC",
+      "Japan Youth"
+    ],
+    "previous": [],
+    "relatives": [
+      "Mother",
+      "Father"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Captain Tsubasa Episode 1",
+    "manga": "Captain Tsubasa Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Drive Shoot",
+      "native_name": "ドライブシュート",
+      "description": "Powerful curved shot that dips suddenly. Impossible to predict trajectory.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Soccer Genius",
+      "native_name": "サッカーの天才",
+      "description": "Natural soccer prodigy. Can read the game, predict movements, inspire team.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Field",
+      "limit": "None"
+    },
+    {
+      "name": "Overhead Kick",
+      "native_name": "オーバーヘッドキック",
+      "description": "Spectacular acrobatic kick. Can score from impossible angles.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "Positioning"
+    },
+    {
+      "name": "Team Leadership",
+      "native_name": "リーダーシップ",
+      "description": "Inspires teammates to play beyond their limits. Natural captain.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Team",
+      "limit": "Morale"
+    }
+  ],
+  "signature_moves": [
+    "Drive Shoot",
+    "Overhead Kick",
+    "Sky Laboon"
+  ],
+  "ultimate_move": "Drive Shoot",
+  "trump_card": "Soccer genius",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Training",
+    "combat_style": [
+      "Soccer",
+      "Striker"
+    ],
+    "weapon": "Soccer ball",
+    "equipment": [
+      "Soccer cleats"
+    ],
+    "trump_card": "Soccer genius",
+    "ultimate_move": "Drive Shoot"
+  },
+  "personality": {
+    "traits": [
+      "Optimistic",
+      "Determined",
+      "Friendly",
+      "Passionate",
+      "Loyal",
+      "Inspiring"
+    ],
+    "likes": [
+      "Soccer",
+      "Friends",
+      "Training",
+      "Competition",
+      "Brazil"
+    ],
+    "dislikes": [
+      "Cheating",
+      "Giving up",
+      "Unsportsmanlike conduct"
+    ],
+    "fear": "Not being able to play soccer",
+    "dream": "Win World Cup for Japan",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Tsubasa is the soccer prodigy who moves to Nankatsu. Becomes captain, leads team to nationals. Dreams of winning World Cup for Japan. Inspires everyone around him.",
+    "motivation": "Win World Cup, become best",
+    "affinity": "Blue/Soccer",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Nankatsu captain",
+    "National champion",
+    "Japan Youth captain",
+    "Drive Shoot master"
+  ],
+  "titles": [
+    "Captain",
+    "Prodigy",
+    "Striker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Student"
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 75,
+    "speed": 88,
+    "durability": 80,
+    "power": 85,
+    "combat": 90,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Too trusting",
+      "Soccer obsession",
+      "Young"
+    ],
+    "factors": [
+      "Team",
+      "Coach Roberto"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hyuga",
+    "allies": [
+      "Hyuga",
+      "Wakashimazu",
+      "Misaki",
+      "Coach Roberto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Genzo Wakabayashi",
+        "relationship": "Best friend/rival",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Toho Academy (rivals)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Genzo",
+    "rival": "Hyuga",
+    "mentor": "Coach Roberto",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hyuga",
+      "Wakashimazu",
+      "Misaki",
+      "Coach Roberto",
+      "Genzo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hyuga"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hyuga"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hyuga",
+      "Wakashimazu",
+      "Misaki",
+      "Coach Roberto",
+      "Genzo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Coach Roberto"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Toho Academy",
+      "result": "Victory",
+      "method": "Drive Shoot"
+    },
+    {
+      "opponent": "Nitto High",
+      "result": "Victory",
+      "method": "Teamwork"
+    }
+  ],
+  "quotes": [
+    "Soccer is my friend!",
+    "I'll never give up!",
+    "Let's play soccer!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuko Sanpei (Japanese)",
+    "note": "Energetic, passionate",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues soccer journey",
+    "transformation": "None",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Prodigy",
+      "Captain",
+      "Star",
+      "Legend"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Nankatsu SC",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17, 18 (Monogatari Series: Second Season onwards)\nHair: Long/short black hair\nEyes: Dark-colored\nSkin: Fair complexion\nHeight: 158 cm\n\nFavorite phrase/slogan: \"I don't know everything, I just know what I know.\" (何でもは知らないわよ。知ってることだけ。, Nandemo wa shiranaiwa yo. Shitteru koto dake.)\n\nShe styles her hair into two braids and ties them with a hair ribbon that has a cat design. She is always seen dressed in the uniform of Naoetsu Private High School, even outside of school days, and is rarely seen on any other type of clothing, except for a set of sleepwear which she wore during Tsubasa Cat Arc.\n\nHanekawa Tsubasa is Araragi's classmate and the class president. Araragi describes her as \"the class president of all class presidents.\" The reason Tsubasa and Hitagi cut their hair short is because they learned Araragi likes it short.\n\nHanekawa currently lives with her stepfather and stepmother.\n\nHanekawa Family's Past\n\nHanekawa Story's overview in Nekomonogatari/Bakemonogatari",
+  "note": null,
+  "source": "anime"
+}

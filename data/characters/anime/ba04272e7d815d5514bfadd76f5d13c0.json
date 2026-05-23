@@ -1,0 +1,443 @@
+{
+  "id": "ba04272e7d815d5514bfadd76f5d13c0",
+  "name": "Joestar, Johnny",
+  "native_name": "ジョニ Joestar",
+  "full_name": "Johnny Joestar",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Joestar",
+    "height_cm": 195,
+    "weight_kg": 97,
+    "age": "18",
+    "birthday": "Ripple",
+    "zodiac": "Libra",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 25.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Paraplegic",
+      "Former jockey",
+      "Young appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Steel Ball Run Race",
+    "current_location": "Steel Ball Run Race",
+    "base_of_operations": "Slow Dancer (horse)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Racing Prodigy",
+    "secondary": "Spin User, Stand User",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Steel Ball Run competitors"
+    ],
+    "previous": [
+      "Professional jockey"
+    ],
+    "relatives": [
+      "Joestar bloodline",
+      "Gyro Zeppeli (mentor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Steel Ball Run (JoJo no Kimyou na Bouken Part 7)",
+    "manga": "Steel Ball Run Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tusk ACT1",
+      "native_name": null,
+      "description": "Stand takes form of stuffed doll. Can shoot infinitely spinning fingernails up to 10 meters. Nails have immense cutting power, capable of slicing through rock, cutting limbs, but cannot cut through metal.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Medium (10m)",
+      "limit": "Limited to fingernails, cannot cut metal"
+    },
+    {
+      "name": "Tusk ACT2",
+      "native_name": null,
+      "description": "Fingernails rotate around fingers like axes with drilling property. Dramatically increased shot power capable of blasting large zones. Nails regrow slower.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Slower nail regeneration"
+    },
+    {
+      "name": "Tusk ACT3",
+      "native_name": null,
+      "description": "Bullet Hole Displacement ability. Can transfer his body through bullet holes to other locations. Any object other than himself touching bullet holes is pulverized.",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "Bullet holes have limited persistence"
+    },
+    {
+      "name": "Tusk ACT4",
+      "native_name": null,
+      "description": "Golden Spin nail bullets with infinite rotation. Can force open dimensional walls and trap enemies. The infinite spin counteracts any ability. Damage is permanent until countered by opposite infinite spin.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Requires mounted position for maximum power"
+    },
+    {
+      "name": "Spin Technique",
+      "native_name": null,
+      "description": "Mastered the Golden Rectangle Spin technique from Gyro Zeppeli. Can channel spin through his Stand for devastating effects.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Requires practice to master"
+    },
+    {
+      "name": "Horse Riding",
+      "native_name": null,
+      "description": "Former professional jockey with exceptional riding skills. Rides the horse Slow Dancer who provides additional power for Golden Spin.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Limited to mounted combat"
+    }
+  ],
+  "signature_moves": [
+    "Nail Bullet",
+    "Golden Rectangle Spin",
+    "Tusk ACT4 Infinite Spin"
+  ],
+  "ultimate_move": "Tusk ACT4: Infinite Rotation Drill",
+  "trump_card": "Complete Golden Spin",
+  "power_attributes": {
+    "power_type": "Stand/Spin",
+    "power_source": "Saint's Corpse, Gyro's training",
+    "combat_style": [
+      "Stand Combat",
+      "Ranged Attack",
+      "Golden Spin"
+    ],
+    "weapon": "Fingernails (Tusk)",
+    "equipment": [
+      "Slow Dancer (horse)"
+    ],
+    "trump_card": "Complete Golden Spin",
+    "ultimate_move": "Tusk ACT4: Infinite Rotation Drill"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Cunning",
+      "Selfish",
+      "Brooding",
+      "Ambitious"
+    ],
+    "likes": [
+      "Winning",
+      "Walking again",
+      "Power",
+      "Gyro"
+    ],
+    "dislikes": [
+      "Losing",
+      "His disability",
+      "Being looked down on"
+    ],
+    "fear": "Never walking again",
+    "dream": "To walk again",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Brooding",
+      "Selfish"
+    ]
+  },
+  "character": {
+    "arc": "From a selfish racing prodigy left paraplegic and alone, Johnny transforms through his journey with Gyro Zeppeli, learning the Spin technique and developing his Stand Tusk to become a formidable competitor.",
+    "motivation": "Walking again, winning the Steel Ball Run",
+    "affinity": "Spin",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Acquired Stand: Tusk",
+    "Mastered Golden Spin technique",
+    "Developed Tusk to ACT4",
+    "Survived the Steel Ball Run",
+    "Became one of the most powerful Spin users"
+  ],
+  "titles": [
+    "Joe Kid",
+    "JoJo",
+    "The Crippled Jockey"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 50,
+    "speed": 70,
+    "durability": 65,
+    "power": 88,
+    "combat": 80,
+    "total": 433
+  },
+  "weaknesses": {
+    "list": [
+      "Paraplegic (legs)",
+      "Limited nail ammunition",
+      "Requires horse for ACT4"
+    ],
+    "factors": [
+      "Physical mobility issue",
+      "Range limitation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Funny Valentine",
+    "allies": [
+      "Gyro Zeppeli",
+      "Slow Dancer",
+      "We Kapoo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gyro Zeppeli",
+        "relationship": "Mentor/Friend",
+        "trust_level": "Deep"
+      },
+      {
+        "name": "Slow Dancer",
+        "relationship": "Partner",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Funny Valentine",
+      "Diego Brando"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Funny Valentine",
+        "relationship": "Main Antagonist",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Gyro Zeppeli",
+    "rival": "Diego Brando",
+    "mentor": "Gyro Zeppeli",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gyro Zeppeli",
+      "Slow Dancer",
+      "We Kapoo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Funny Valentine",
+      "Diego Brando"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Diego Brando"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gyro Zeppeli",
+      "Slow Dancer",
+      "We Kapoo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Gyro Zeppeli"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Funny Valentine",
+      "result": "Victory",
+      "method": "Tusk ACT4 infinite spin counteracted D4C Love Train"
+    },
+    {
+      "opponent": "Diego Brando",
+      "result": "Victory",
+      "method": "Superior spin technique"
+    }
+  ],
+  "quotes": [
+    "I'm going to walk again, no matter what it takes.",
+    "I'll make my own path!"
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": "Anime adaptation voice work pending",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Survived Steel Ball Run, continues journey",
+    "transformation": "Tusk ACT1 -> ACT2 -> ACT3 -> ACT4",
+    "awakening_potential": "Full mastery of Golden Spin achieved",
+    "power_evolution": [
+      "Normal Jockey",
+      "Crippled",
+      "Spin User",
+      "Stand User (Tusk)",
+      "Golden Spin Master"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Slow Dancer (horse)"
+    ],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 18 (Part 2), 68 (Part 3), 78 (Part 4)\nBirthday: September 27, 1920\nZodiac: Libra\nHeight: 195 cm (6'5\")\nWeight: 97 kg (214 lb)\nBlood type: B\nNationality: British-American\nOccupation: real estate agent\nStand: Hermit Purple\n\nJoseph Joestar is the main protagonist of the second part of JoJo's Bizarre Adventure series, Battle Tendency, and the second JoJo of the series. He also appears as a primary ally in Stardust Crusaders (Part 3) and a secondary ally in Diamond is Unbreakable (Part 4).\n\nJoseph is a natural-born Ripple user and eventual Stand user, wielding the psychic photographic Stand, Hermit Purple. An exuberant troublemaker with an exceptional talent for trickery, Joseph meets the fantastic threats approaching him throughout his life with initiative and impressive ingenuity, battling Vampires, the Pillar Men, and malevolent Stand users.\n\nBackground:\n\nPart 2: Battle Tendency\n\nPart 3: Stardust Crusaders\n\nPart 4: Diamond is Unbreakable\n\nTimeline:\n\nPart 2: Battle Tendency\n\n\n\n\n\n\nPart 3: Stardust Crusaders\n\n\n\n\nPart 4: Diamond is Unbreakable\n\n\n\nStand - Hermit Purple\nAbility type: Close-Range, Reconnaissance\nForm type: Natural Non-Humanoid\nPower: Spirit Photography\n\nJoseph's Stand, Hermit Purple, manifests itself as a tangle of thorny vines, which Joseph can wield as both a weapon and a hazardous defense. Furthermore, it has been shown to conduct the Ripple, which makes Hermit Purple one of the more effective Stands against those weak to it such as Vampires.\n\nOne of its special abilities is to use cameras, televisions, and other things to perform a form of fortune-telling referred to as \"spirit photography.\"\n\n(Source: JoJo's Bizarre Encyclopedia, edited)",
+  "note": null,
+  "source": "anime"
+}

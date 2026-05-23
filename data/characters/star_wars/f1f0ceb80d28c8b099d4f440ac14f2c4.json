@@ -1,0 +1,418 @@
+{
+  "id": "f1f0ceb80d28c8b099d4f440ac14f2c4",
+  "name": "Kylo Ren",
+  "native_name": null,
+  "full_name": "Ben Solo",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Skywalker",
+    "bloodline": "Skywalker family",
+    "height_cm": 189,
+    "weight_kg": 85,
+    "age": "Born 5 ABY, Died 35 ABY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 23.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Dark robes",
+      "Crossguard saber",
+      "Helmet"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Chandrila",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Finalizer",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sith",
+    "secondary": "Jedi (formerly)",
+    "rank_title": "Supreme Leader",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "First Order"
+    ],
+    "previous": [
+      "Jedi Order"
+    ],
+    "relatives": [
+      "Han Solo (father)",
+      " Leia Organa (mother)",
+      "Darth Vader (grandfather)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Freeze",
+      "native_name": null,
+      "description": "Stop blaster bolts",
+      "type": "Defensive",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Mind Probe",
+      "native_name": null,
+      "description": "Read thoughts",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": "Requires contact"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Aggressive dueling",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Force Bond",
+      "native_name": null,
+      "description": "Connection with Rey",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Requires dyad"
+    }
+  ],
+  "signature_moves": [
+    "Freeze",
+    "Power break"
+  ],
+  "ultimate_move": "Unlimited power",
+  "trump_card": "Force dyad",
+  "power_attributes": {
+    "power_type": "Force (mixed)",
+    "power_source": "The Force",
+    "combat_style": [
+      "Form VII",
+      "Crushing style"
+    ],
+    "weapon": "Crossguard lightsaber",
+    "equipment": [
+      "Helmet",
+      "Armored robes"
+    ],
+    "trump_card": "Force dyad",
+    "ultimate_move": "Unlimited power"
+  },
+  "personality": {
+    "traits": [
+      "Brooding",
+      " conflicted",
+      "Power-seeking"
+    ],
+    "likes": [
+      "Power",
+      "His grandfather's legacy"
+    ],
+    "dislikes": [
+      "Light side",
+      "Weakness"
+    ],
+    "fear": "Going to light",
+    "dream": "Be like Vader",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Force Freeze",
+      "Telekinesis",
+      "Mind Probe",
+      "Lightsaber Combat"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Jedi student to dark side warrior",
+    "motivation": "Live up to legacy",
+    "affinity": "Dark Side",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Destroyed Jedi temple",
+    "Led Knights of Ren",
+    "Killed Han Solo"
+  ],
+  "titles": [
+    "Supreme Leader",
+    "Master of the Knights of Ren"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Most powerful in First Order"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 85,
+    "speed": 85,
+    "durability": 90,
+    "power": 95,
+    "combat": 95,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [
+      "Inner conflict",
+      "Incomplete training"
+    ],
+    "factors": [
+      "Conflicted about light/dark"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Luke Skywalker",
+    "allies": [
+      "Snoke",
+      "Hux"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Snoke",
+        "relationship": "Master",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Resistance",
+      "Luke Skywalker"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Luke Skywalker",
+        "relationship": "Uncle/Teacher",
+        "threat_level": "Low"
+      }
+    ],
+    "love_interest": "Rey",
+    "best_friend": null,
+    "rival": "Rey",
+    "mentor": "Luke Skywalker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Snoke",
+      "Hux"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Luke Skywalker",
+      "Rey"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Rey"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Snoke",
+      "Hux"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Luke Skywalker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Rey",
+      "result": "Defeat",
+      "method": "Wounded"
+    },
+    {
+      "opponent": "Luke Skywalker",
+      "result": "Inconclusive",
+      "method": "Projection duel"
+    }
+  ],
+  "quotes": [
+    "I will finish what you started",
+    "Let the past die"
+  ],
+  "voice_acting": {
+    "native_language": "Adam Driver",
+    "english": "Adam Driver",
+    "note": "Original actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Sacrificed for Rey",
+    "transformation": "Redeemed",
+    "awakening_potential": "Full potential",
+    "power_evolution": [
+      "Jedi student",
+      "Kylo Ren",
+      "Supreme Leader",
+      "Redeemed"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "TIE whisper"
+    ],
+    "vehicles": [
+      null
+    ],
+    "headquarters": "Finalizer",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Kylo Ren is a fictional character in the Star Wars franchise. He was introduced in The Force Awakens (2015), the first film of the sequel trilogy as the main antagonist. He subsequently appeared in The Last Jedi (2017) and The Rise of Skywalker (2019). He also appears in the animated series Star Wars Resistance (2018–2020), and the television specials The Lego Star Wars Holiday Special (2020) and Lego Star Wars: Terrifying Tales (2021). Ren is portrayed by Adam Driver in all three sequel trilogy films.",
+  "note": null,
+  "source": "star_wars"
+}

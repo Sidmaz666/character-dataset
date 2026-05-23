@@ -1,0 +1,432 @@
+{
+  "id": "192e9bc0ec83e41764bc844ef908453c",
+  "name": "Captain Marvel",
+  "native_name": null,
+  "full_name": "Carol Susan Jane Danvers",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human-Kree Hybrid",
+    "race": "Human-Kree",
+    "bloodline": "Danvers",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": "Unknown",
+    "birthday": "March 12",
+    "zodiac": "Pisces",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Star emblem on suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Boston, Massachusetts",
+    "current_location": "Earth/Space",
+    "base_of_operations": "Avengers HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Air Force Major, Avenger",
+    "rank_title": "Major",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "Alpha Flight"
+    ],
+    "previous": [
+      "Starforce",
+      "AI.A.",
+      "X-Men"
+    ],
+    "relatives": [
+      "Marie Danvers (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Marvel Super-Heroes #13",
+    "comics": "Marvel Super-Heroes #13 (1968)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Can lift massive amounts of weight, one of strongest heroes",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly at 3x speed of sound",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Energy Absorption",
+      "native_name": null,
+      "description": "Can absorb various forms of energy",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Energy Blasts",
+      "native_name": null,
+      "description": "Can fire photonic blasts from hands",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Almost immune to toxins and poisons",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Healing Factor",
+      "native_name": null,
+      "description": "Rapid healing abilities",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Cosmic Awareness",
+      "native_name": null,
+      "description": "Spatial awareness and precognition",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": "Randomly manifests"
+    },
+    {
+      "name": "Space Survival",
+      "native_name": null,
+      "description": "Can survive in space without suit",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Photon Blast",
+    "Binary Burst"
+  ],
+  "ultimate_move": "Supernova",
+  "trump_card": "Full Binary Powers",
+  "power_attributes": {
+    "power_type": "Cosmic Energy",
+    "power_source": "Tesseract/Kree enhancement",
+    "combat_style": [
+      "Hand-to-hand combat",
+      "Energy projection"
+    ],
+    "weapon": "Energy Blasts",
+    "equipment": [
+      "Captain Marvel suit"
+    ],
+    "trump_card": "Full Binary Powers",
+    "ultimate_move": "Supernova"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Strong-willed"
+    ],
+    "likes": [
+      "Justice",
+      "Truth"
+    ],
+    "dislikes": [
+      "Losing control"
+    ],
+    "fear": "Losing herself to Kree side",
+    "dream": "Protecting Earth",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Strong-willed"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Former Air Force pilot turned cosmic hero",
+    "motivation": "Protecting the innocent",
+    "affinity": "Cosmic",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Avengers member",
+    "Leader of Alpha Flight",
+    "Defeated Thanos"
+  ],
+  "titles": [
+    "Captain Marvel",
+    "Binary",
+    "Warbird"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 90,
+    "speed": 85,
+    "durability": 80,
+    "power": 85,
+    "combat": 75,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Can be overpowered by energy absorption limits",
+      "Binary powers unstable"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Yon-Rogg",
+    "allies": [
+      "Avengers",
+      "Nick Fury"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Nick Fury",
+        "relationship": "Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Yon-Rogg",
+      "Thanos"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Yon-Rogg",
+        "relationship": "Former mentor/enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "War Machine",
+    "rival": "Mar-Vell",
+    "mentor": "Mar-Vell",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Nick Fury",
+      "War Machine"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Yon-Rogg",
+      "Mar-Vell"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mar-Vell"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Nick Fury",
+      "War Machine"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Mar-Vell"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Thanos",
+      "result": "Victory",
+      "method": "Snapped fingers"
+    }
+  ],
+  "quotes": [
+    "I'm not trying to be a hero. Just saying there's another option."
+  ],
+  "voice_acting": {
+    "native_language": "Brie Larson (English)",
+    "english": "Brie Larson",
+    "note": "MCU",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": "Binary form when fully powered",
+    "awakening_potential": "Full Binary powers can return",
+    "power_evolution": [
+      "Supernova"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Avengers HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Captain Marvel is a 2019 American superhero film based on Marvel Comics featuring the character Carol Danvers / Captain Marvel. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 21st film in the Marvel Cinematic Universe (MCU). The film was directed by Anna Boden and Ryan Fleck from a screenplay they co-wrote with Geneva Robertson-Dworet. It stars Brie Larson as Carol Danvers, alongside Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch, Gemma Chan, Annette Bening, Clark Gregg, and Jude Law. Set in 1995, the story follows Danvers as she becomes Captain Marvel after Earth is caught in a galactic conflict.\nDevelopment began by May 2013. The film was officially announced in October 2014 as Marvel Studios' first female-led project. Nicole Perlman and Meg LeFauve were hired to write it the following April after submitting separate takes on the character, and borrowed elements from Roy Thomas's 1971 \"Kree–Skrull War\" comic book storyline. Larson was announced as Danvers at the 2016 San Diego Comic-Con, with Boden and Fleck hired to direct in April 2017. Robertson-Dworet was soon hired to re-write the script, and the rest of the cast were added by the start of filming. Location shooting began in January 2018, with principal photography starting that March in California and concluding in Louisiana in July 2018. Several actors reprise their roles from previous MCU films, including Jackson and Gregg. They were both digitally de-aged in post-production to reflect the film's 1990s setting.\nCaptain Marvel premiered in London on February 27, 2019, and was theatrically released in the United States on March 8 as part of Phase Three of the MCU. The film grossed over $1.1 billion worldwide, making it the first female-led superhero film to pass the billion-dollar mark. It became the fifth-highest-grossing film of 2019 and was the 23rd-highest-grossing film of all time during its theatrical run. The film received generally positive reviews from critics, with praise for the performances—particularly Larson's. Audience responses were also positive, although the audience reception section on Rotten Tomatoes was subject to review bombing. A sequel, The Marvels, was released on November 10, 2023.",
+  "note": null,
+  "source": "marvel"
+}

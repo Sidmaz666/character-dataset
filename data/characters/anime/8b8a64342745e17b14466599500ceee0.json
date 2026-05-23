@@ -1,0 +1,340 @@
+{
+  "id": "8b8a64342745e17b14466599500ceee0",
+  "name": "Matou, Shinji",
+  "native_name": "間桐慎二",
+  "full_name": "Shinji Matou",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Magus lineage (weakened)",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "17",
+    "birthday": "May 5",
+    "zodiac": "Taurus",
+    "blood_type": "A",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue",
+    "skin": "Fair",
+    "notable_features": "Archer dojo vice-captain, narcissistic",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Fuyuki City",
+    "current_location": "Matou household",
+    "base_of_operations": "Matou household",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Master of Rider (temporary)",
+    "secondary": "Homurahara Academy Student, Archery Dojo member",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Matou Clan",
+      "Homurahara Academy"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "game": "Fate/stay night (2004)",
+    "manga": "Fate/stay night (2006)",
+    "comics": null
+  },
+  "abilities": [
+    {
+      "name": "Magecraft",
+      "native_name": "",
+      "description": "Matou bloodline thinned; cannot use proper magecraft, only basic commands",
+      "type": "Support",
+      "tier": "D",
+      "power_level": 20
+    },
+    {
+      "name": "Rider Control",
+      "native_name": "",
+      "description": "Commands Sakura's Servant temporarily",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 40
+    }
+  ],
+  "signature_moves": [
+    "Blood Fort Andromeda"
+  ],
+  "personality": {
+    "traits": [
+      "Narcissistic",
+      "Chauvinistic",
+      "Cowardly",
+      "Manipulative"
+    ],
+    "likes": [
+      "Archery",
+      "Popularity",
+      "Rin Tohsaka"
+    ],
+    "dislikes": [
+      "Shirou Emiya (jealousy)",
+      "Sakura (resentment)"
+    ],
+    "fear": "Powerlessness",
+    "dream": "Be a proper magus",
+    "personality_type": null,
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Magecraft",
+      "Rider Control"
+    ],
+    "weaknesses": [
+      "Cowardly",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "From rival to pathetic victim",
+    "motivation": "Prove worth as magus",
+    "affinity": "Void",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Temporary Master of Rider"
+  ],
+  "titles": [
+    "Vice-Captain of Archery Dojo"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 45,
+    "speed": 50,
+    "durability": 40,
+    "power": 25,
+    "combat": 50,
+    "total": 260
+  },
+  "relationships": {
+    "rival": "Shirou Emiya",
+    "love_interest": "Rin Tohsaka",
+    "relatives": [
+      "Sakura Matou (younger sister)",
+      "Zouken Matou (grandfather)"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Shirou Emiya"
+    ],
+    "enemies_detailed": [],
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sakura Matou (younger sister)",
+      "Zouken Matou (grandfather)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Shirou Emiya"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Sakura Matou (younger sister)",
+      "Zouken Matou (grandfather)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Shirou Emiya"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sakura Matou",
+      "Zouken Matou"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Shirou Emiya",
+      "result": "Defeat",
+      "method": "Rider overwhelmed"
+    }
+  ],
+  "quotes": [
+    "I'm the Master now!",
+    "Don't look down on me!"
+  ],
+  "voice_acting": {
+    "native_language": "Hiroshi Kamiya",
+    "note": null,
+    "native_name": null,
+    "english": "Spike Spencer",
+    "japanese": "Megumi Ogata"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Murdered by Illya and Berserker",
+    "role_in_story": "Antagonist",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Rider Control",
+  "trump_card": "Magecraft",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Magecraft",
+    "ultimate_move": "Rider Control"
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Cowardly",
+      "Manipulative"
+    ],
+    "factors": [
+      "cowardly",
+      "manipulative"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Matou household",
+    "story_importance": "Antagonist",
+    "note": null
+  },
+  "about": "Age: 17 Height: 165 cm\n\nThe main protagonist of KonoSuba. A sixteen-year-old Japanese teenager who became a game-obsessed shut-in after having his heart broken over his childhood friend during middle school. He is sent to the parallel reality after dying from acute stress reaction, forcing Aqua to come with him after she irritates him with her attitude. Kazuma is classed as an Adventurer which, despite being the lowest ranked class, allows him to learn various skills from other classes, albeit at an increased cost. With his ability, Kazuma learns basic skills such as stealing, archery, monster detection, and basic magic.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

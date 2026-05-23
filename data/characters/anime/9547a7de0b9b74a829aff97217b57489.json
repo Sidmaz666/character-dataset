@@ -1,0 +1,398 @@
+{
+  "id": "9547a7de0b9b74a829aff97217b57489",
+  "name": "Gon Freecss",
+  "native_name": "ゴン=フリークス",
+  "full_name": "Gon Freecss",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Freecss Family",
+    "height_cm": 154,
+    "weight_kg": 49,
+    "age": "12",
+    "birthday": "May 5",
+    "zodiac": "Taurus",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 20.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spiky black hair",
+      "Fishing rod",
+      "Green outfit",
+      "Innocent expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Whale Island",
+    "current_location": "Hunter Exam",
+    "base_of_operations": "None (traveler)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter",
+    "secondary": "None",
+    "rank_title": "Rookie Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hunter Association"
+    ],
+    "previous": [],
+    "relatives": [
+      "Ging Freecss (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter Episode 1",
+    "manga": "Hunter x Hunter Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Enhancement",
+      "native_name": "強化系",
+      "description": "Aura type that enhances physical abilities. Simple and powerful.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Training"
+    },
+    {
+      "name": "Janken",
+      "native_name": "じゃんけん",
+      "description": "Rock-paper-scissors Nen attack. Rock=enhanced punch, Paper=release aura, Scissors=enhanced slash.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee/Short",
+      "limit": "Must call out"
+    },
+    {
+      "name": "Super Enhancement",
+      "native_name": "超強化",
+      "description": "In rage, Gon's enhancement becomes godlike but destroys his body.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 99,
+      "range": "Self",
+      "limit": "Life-threatening"
+    }
+  ],
+  "signature_moves": [
+    "Janken",
+    "Fishing rod",
+    "Enhancement"
+  ],
+  "ultimate_move": "Janken: Rock (enhanced)",
+  "trump_card": "Rage mode",
+  "power_attributes": {
+    "power_type": "Nen",
+    "power_source": "Enhancement",
+    "combat_style": [
+      "Taijutsu",
+      "Nen"
+    ],
+    "weapon": "Fishing rod",
+    "equipment": [
+      "Fishing rod"
+    ],
+    "trump_card": "Rage mode",
+    "ultimate_move": "Janken: Rock (enhanced)"
+  },
+  "personality": {
+    "traits": [
+      "Innocent",
+      "Determined",
+      "Loyal",
+      "Curious",
+      "Brave",
+      "Simple"
+    ],
+    "likes": [
+      "Adventure",
+      "Friends",
+      "Finding father",
+      "Training"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Hurt friends",
+      "Quitters"
+    ],
+    "fear": "Losing friends",
+    "dream": "Find his father, become Hunter",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Gon leaves Whale Island to find his father Ging. Becomes a Hunter and meets lifelong friends.",
+    "motivation": "Find father, become Hunter",
+    "affinity": "Green/Enhancement",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Hunter Exam pass",
+    "Defeated Hisoka (indirectly)",
+    "Greed Island clear"
+  ],
+  "titles": [
+    "Rookie Hunter",
+    "Ging's son"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 85,
+    "speed": 82,
+    "durability": 85,
+    "power": 88,
+    "combat": 85,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Inexperienced",
+      "Reckless",
+      "Emotional"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Chrollo, Meruem",
+    "allies": [
+      "Killua",
+      "Kurapika",
+      "Leorio"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Killua Zoldyck",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Hisoka"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Killua",
+    "rival": "Hisoka",
+    "mentor": "Wing, Biscuit",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Killua",
+      "Kurapika",
+      "Leorio"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Chrollo, Meruem",
+      "Hisoka"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Gon (Gon)",
+      "Ging Freecss"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Gon (Gon)",
+      "Ging Freecss"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hisoka"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Killua",
+      "Kurapika",
+      "Leorio"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Wing, Biscuit"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hisoka",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Genthru",
+      "result": "Victory",
+      "method": "Janken"
+    }
+  ],
+  "quotes": [
+    "I can do it!",
+    "I'm a Hunter!",
+    "Let's go, Killua!"
+  ],
+  "voice_acting": {
+    "native_language": "Megumi Han (Japanese)",
+    "note": "Energetic voice",
+    "native_name": null,
+    "english": "Elinor Holt",
+    "japanese": "Rica Matsumoto"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues journey",
+    "transformation": "Enhanced form",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Novice",
+      "Hunter",
+      "Nen user",
+      "Master"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Traveling",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 12 (beginning), 14-15 (current)\nBirthday: May 5\nHeight: 154 cm\nWeight: 49 kg\nEye Color: Brown\nBlood type: B\nOccupation: Hunter\nNen type: Enhancement\nAbilities: \n\nGon Freecss (ゴン゠フリークス, Gon Furīkusu) is a Rookie Hunter and the son of Ging Freecss. Finding his father is Gon's motivation in becoming a Hunter. He has been the main protagonist for most of the series.\n\nGon wants to become a Hunter because he wishes to find out the depths of an occupation that would cause a father to choose the profession over being with his own son.\n\nGon is an athletic, rustic, and friendly boy who is searching for adventure. Also, he is not very good at math. However, having spent a lot of time in the woods as a child, he is very good with animals. Simultaneously, his flaws lie in his temper and impulsive nature. Gon sometimes fails to think things through and such actions lead to him suffering. Though possessing talent far beyond the norm for his age, anytime his abilities are challenged, he feels as if he has to prove his antagonist wrong.\n\n\n\nBackground: \n\n\nTimeline:\n\n\n\n\n\n\n\n\n\n\n\n\n(Source: Hunter x Hunter Wiki)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,396 @@
+{
+  "id": "678cefb84f64968cb3a248ed86b915dc",
+  "name": "Hughie Campbell",
+  "native_name": null,
+  "full_name": "Hughie Campbell",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Campbell",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "24",
+    "birthday": "May 3",
+    "zodiac": "Taurus",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": "Scottish people (comics)"
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Retainer (formerly)",
+      "Scar on face"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "United States",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Former Employee at Billy's Butcher Shop",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Boys"
+    ],
+    "previous": [
+      "Robert Singer's Office"
+    ],
+    "relatives": [
+      "Father (alive)",
+      "Robin Ward (ex-girlfriend, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Tactical Adaptation",
+      "native_name": null,
+      "description": "Quick learner who adapts to supe combat situations",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Short",
+      "limit": "Limited combat experience"
+    },
+    {
+      "name": "Explosives Expertise",
+      "native_name": null,
+      "description": "Proficient with explosives and gadgets provided by Frenchie",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": "Requires equipment"
+    }
+  ],
+  "signature_moves": [
+    "Quick Thinking Escape",
+    "Explosive Trap"
+  ],
+  "ultimate_move": "Suicide Bomb Attack",
+  "trump_card": "Desperation Strength",
+  "power_attributes": {
+    "power_type": "Human Combat",
+    "power_source": "Training and Equipment",
+    "combat_style": [
+      "Improvised Combat",
+      "Stealth"
+    ],
+    "weapon": "Explosives",
+    "equipment": [
+      "Earpiece",
+      "Body armor"
+    ],
+    "trump_card": "Desperation Strength",
+    "ultimate_move": "Suicide Bomb Attack"
+  },
+  "personality": {
+    "traits": [
+      "Courageous",
+      "Compassionate",
+      "Innocent",
+      "Determined"
+    ],
+    "likes": [
+      "Justice",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Innocent suffering",
+      "Supes who abuse power"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Make a difference",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Courageous",
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Goes from innocent volunteer to hardened vigilante",
+    "motivation": "Justice for Robin's death",
+    "affinity": "Justice",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Infiltrated The Seven",
+    "Helped expose Vought",
+    "Killed Translucent"
+  ],
+  "titles": [
+    "Wee Hughie",
+    "Hughie"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by FBI"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 45,
+    "speed": 50,
+    "durability": 50,
+    "power": 40,
+    "combat": 55,
+    "total": 305
+  },
+  "weaknesses": {
+    "list": [
+      "No inherent powers",
+      "Emotional vulnerability",
+      "Physical limitations"
+    ],
+    "factors": [
+      "Guilt over actions",
+      "Traumatic past"
+    ]
+  },
+  "relationships": {
+    "nemesis": "A-Train",
+    "allies": [
+      "Billy Butcher",
+      "Mother's Milk",
+      "Frenchie",
+      "Starlight"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Billy Butcher",
+        "relationship": "Mentor",
+        "trust_level": "High"
+      },
+      {
+        "name": "Mother's Milk",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Frenchie",
+        "relationship": "Friend",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "A-Train",
+      "Homelander",
+      "Vought"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "A-Train",
+        "relationship": "Killer of Robin",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Starlight",
+    "best_friend": "Billy Butcher",
+    "rival": null,
+    "mentor": "Billy Butcher",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Billy Butcher",
+      "Mother's Milk",
+      "Frenchie",
+      "Starlight"
+    ],
+    "colleague": null,
+    "enemy": [
+      "A-Train"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Mana Walker"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Mana Walker"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Billy Butcher",
+      "Mother's Milk",
+      "Frenchie",
+      "Starlight"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Billy Butcher"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Translucent",
+      "result": "Victory",
+      "method": "Explosive trap"
+    }
+  ],
+  "quotes": [
+    "You don't have to like it. You just have to do it."
+  ],
+  "voice_acting": {
+    "native_language": "Jack Quaid (English)",
+    "note": "Main lead in TV series",
+    "native_name": null,
+    "japanese": "Simon Pegg",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Becomes new team leader",
+    "transformation": "Hardened by trauma",
+    "awakening_potential": "Leadership growth",
+    "power_evolution": [
+      "Innocent volunteer",
+      "Combat veteran"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cars",
+      "Motorcycles"
+    ],
+    "vehicles": [
+      "Van"
+    ],
+    "headquarters": "Safe houses",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The 14th, also referred to as \"Pianist\" and \"Musician,\" and is the \"Noah of Destruction\" was a disowned member of the The Noah Family and the younger brother of Mana Walker. He was the only individual, besides the First Child of the Noah Family Road Kamelot and The Millennium Earl, who is able to control Noah's Ark. His true name was recently revealed to be 'Nea,' though it is not known if that is his human name or his Noah name.\n\n\n(Source: D.Gray-man Wikia)",
+  "note": null,
+  "source": "anime"
+}

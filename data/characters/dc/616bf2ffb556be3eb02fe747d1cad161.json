@@ -1,0 +1,393 @@
+{
+  "id": "616bf2ffb556be3eb02fe747d1cad161",
+  "name": "Lois Lane",
+  "native_name": "",
+  "full_name": "Lois Joanne Lane",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Lane Family",
+    "height_cm": 168,
+    "weight_kg": 59,
+    "age": "35",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Professional attire",
+      "Confident posture"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Metropolis",
+    "current_location": "Metropolis",
+    "base_of_operations": "Daily Planet, Metropolis",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Investigative Journalist",
+    "secondary": "Reporter",
+    "rank_title": "Senior Reporter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Daily Planet"
+    ],
+    "previous": [
+      "WGBS TV"
+    ],
+    "relatives": [
+      "Samuel Lane (father)",
+      "Ella Lane (mother)",
+      "Lucy Lane (sister)",
+      "Clark Kent (husband)",
+      "Jon Kent (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Action Comics #1 (1938)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Investigative Journalism",
+      "native_name": null,
+      "description": "World-class reporter with a keen eye for truth",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Indomitable Will",
+      "native_name": null,
+      "description": "Incredible courage, never backs down from danger",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Expert Interviewer",
+      "native_name": null,
+      "description": "Master interrogator who can get information from anyone",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Close",
+      "limit": "Requires social interaction"
+    },
+    {
+      "name": "Street Smart",
+      "native_name": null,
+      "description": "Highly resourceful in dangerous situations",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Multilingual",
+      "native_name": null,
+      "description": "Fluent in multiple languages for international reporting",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Expose Truth",
+    "Breaking Story"
+  ],
+  "ultimate_move": "Truth Shall Set You Free",
+  "trump_card": "Connection to Superman",
+  "power_attributes": {
+    "power_type": "Human Skill",
+    "power_source": "Training and experience",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Notepad",
+      "Press badge",
+      "Camera"
+    ],
+    "trump_card": "Connection to Superman",
+    "ultimate_move": "Truth Shall Set You Free"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Determined",
+      "Compassionate",
+      "Stubborn",
+      "Principled"
+    ],
+    "likes": [
+      "Justice",
+      "Truth",
+      "Superman",
+      "Writing"
+    ],
+    "dislikes": [
+      "Liars",
+      "Injustice",
+      "Corruption"
+    ],
+    "fear": "Losing her family",
+    "dream": "To expose the truth and make the world a better place",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "From award-winning journalist to wife of Superman, balancing career with Superman family",
+    "motivation": "Truth and justice through journalism",
+    "affinity": "Truth/Justice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Won multiple Pulitzer Prizes",
+    "Married Superman",
+    "Mother of Jon Kent"
+  ],
+  "titles": [
+    "Senior Reporter at Daily Planet"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 35,
+    "speed": 40,
+    "durability": 35,
+    "power": 20,
+    "combat": 30,
+    "total": 245
+  },
+  "weaknesses": {
+    "list": [
+      "No superhuman powers"
+    ],
+    "factors": "Human limitations"
+  },
+  "relationships": {
+    "nemesis": "Lex Luthor",
+    "allies": [
+      "Superman",
+      "Jimmy Olsen",
+      "Perry White"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Lex Luthor",
+      "General Zod",
+      "Brainiac"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Clark Kent/Superman",
+    "best_friend": "Jimmy Olsen",
+    "rival": "Cat Grant",
+    "mentor": "Perry White",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Superman",
+      "Jimmy Olsen",
+      "Perry White"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Lex Luthor",
+      "Cat Grant"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Cat Grant"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Superman",
+      "Jimmy Olsen",
+      "Perry White"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Perry White"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lex Luthor",
+      "result": "Victory",
+      "method": "Exposed his crimes"
+    }
+  ],
+  "quotes": [
+    "The truth is always worth fighting for."
+  ],
+  "voice_acting": {
+    "native_language": "Dana Delany",
+    "english": "Dana Delany",
+    "note": "Voiced in Superman: The Animated Series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as reporter and mother",
+    "transformation": "N/A",
+    "awakening_potential": "Unknown",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Lois Lane is a fictional character appearing in American comic books published by DC Comics. Created by writer Jerry Siegel and artist Joe Shuster, she first appeared in Action Comics #1 (June 1938). Lois is an award-winning journalist for the Metropolis newspaper the Daily Planet and the primary love interest of the superhero Superman and his alter ego, Clark Kent. In DC continuity, she is also his wife and the mother of their son, Jon Kent, the newest Superboy in the DC Universe.\nLois's physical appearance was originally based on Joanne Carter, a model hired by Joe Shuster. Jerry Siegel took her name from actress Lola Lane, while her character was inspired by actress Glenda Farrell's portrayal of the fictional reporter Torchy Blane in a series of 1930s films.\nDepictions of the character have varied spanning the comics and other media adaptations. The original Golden Age version of Lois Lane, as well as versions of her from the 1970s onwards, portrays Lois as a dauntless journalist and intellectually equal to Superman. During the Silver Age of Comics, she was the star of Superman's Girl Friend, Lois Lane, a comic book series that had a light and humorous tone. \nSince her debut in comic books in 1938, Lois has appeared in various media adaptations and is among the best-known female comic book characters. Actresses who have portrayed Lois in live-action film and television include Noel Neill, Phyllis Coates, Margot Kidder, Teri Hatcher, Erica Durance, Kate Bosworth, Amy Adams, and Elizabeth Tulloch. In animation, the character has been voiced by Joan Alexander, Dana Delany, and Alice Lee. Rachel Brosnahan most recently played the character in the film Superman (2025).",
+  "note": null,
+  "source": "dc"
+}

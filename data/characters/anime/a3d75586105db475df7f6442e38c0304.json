@@ -1,0 +1,413 @@
+{
+  "id": "a3d75586105db475df7f6442e38c0304",
+  "name": "L Lawliet",
+  "native_name": "エル・ローライト",
+  "full_name": "L Lawliet",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 179,
+    "weight_kg": 50,
+    "age": "24-25",
+    "birthday": "October 31",
+    "zodiac": "Scorpio",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 15.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Messy black hair",
+      "Dark circles",
+      "White shirt",
+      "Crouching pose",
+      "Holds objects oddly"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Investigation HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Detective",
+    "secondary": "World's Greatest",
+    "rank_title": "L",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kira Investigation Team"
+    ],
+    "previous": [
+      "Wammy's House"
+    ],
+    "relatives": [
+      "None known"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Death Note Episode 8",
+    "manga": "Death Note Chapter 8",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intellect",
+      "native_name": "天才",
+      "description": "World's greatest detective. Solves impossible cases. Deductive reasoning unmatched.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Global",
+      "limit": "None"
+    },
+    {
+      "name": "Deduction",
+      "native_name": "推論",
+      "description": "Can deduce truth from minimal data. Narrowed Kira to Light quickly.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Self",
+      "limit": "Information"
+    },
+    {
+      "name": "Investigation Network",
+      "native_name": "調査網",
+      "description": "Access to global police resources, surveillance, intelligence.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Global",
+      "limit": "None"
+    },
+    {
+      "name": "Unconventional Methods",
+      "native_name": "型破り",
+      "description": "Uses bizarre tactics: handcuffs, surveillance, psychological warfare.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Deduction",
+    "Surveillance",
+    "Psychological tactics"
+  ],
+  "ultimate_move": "Final confrontation",
+  "trump_card": "Genius intellect",
+  "power_attributes": {
+    "power_type": "Intellect",
+    "power_source": "Genius",
+    "combat_style": [
+      "Deduction",
+      "Strategy"
+    ],
+    "weapon": "Mind",
+    "equipment": [
+      "Laptop",
+      "Sweets"
+    ],
+    "trump_card": "Genius intellect",
+    "ultimate_move": "Final confrontation"
+  },
+  "personality": {
+    "traits": [
+      "Genius",
+      "Eccentric",
+      "Childish",
+      "Obsessive",
+      "Logical",
+      "Mysterious"
+    ],
+    "likes": [
+      "Sweets",
+      "Cases",
+      "Challenge",
+      "Justice",
+      "Light (rivalry)"
+    ],
+    "dislikes": [
+      "Kira",
+      "Injustice",
+      "Losing",
+      "Rules"
+    ],
+    "fear": "Being wrong",
+    "dream": "Catch Kira, prove justice",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius"
+    ],
+    "weaknesses": [
+      "Childish",
+      "Obsessive"
+    ]
+  },
+  "character": {
+    "arc": "L is the world's greatest detective who hunts Kira. Suspects Light immediately. Engages in cat-and-mouse game. Dies when Rem writes his name, but nearly wins.",
+    "motivation": "Catch Kira, prove justice",
+    "affinity": "White/Justice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Narrowed Kira to Light",
+    "Solved countless cases",
+    "World's greatest detective",
+    "Died victorious"
+  ],
+  "titles": [
+    "L",
+    "World's Greatest Detective"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "None",
+    "details": "Detective"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 55,
+    "speed": 60,
+    "durability": 58,
+    "power": 75,
+    "combat": 65,
+    "total": 411
+  },
+  "weaknesses": {
+    "list": [
+      "Sweets addiction",
+      "Eccentricity",
+      "Physical weakness"
+    ],
+    "factors": [
+      "Light",
+      "Rem"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Light/Kira",
+    "allies": [
+      "Watari",
+      "Light (temporarily)",
+      "Matsuda"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Watari",
+        "relationship": "Guardian/partner",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Kira/Light",
+      "Rem"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Watari",
+    "rival": "Light",
+    "mentor": "Watari",
+    "student": "Near, Mello",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Watari",
+      "Light (temporarily)",
+      "Matsuda"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Light/Kira",
+      "Light"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Light"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Near, Mello"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Watari",
+      "Light",
+      "Matsuda"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Watari"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Light/Kira",
+      "result": "Draw (both died)",
+      "method": "Mind games"
+    },
+    {
+      "opponent": "Second Kira",
+      "result": "Victory",
+      "method": "Deduction"
+    }
+  ],
+  "quotes": [
+    "I am L.",
+    "Justice will prevail!",
+    "There are many types of monsters."
+  ],
+  "voice_acting": {
+    "native_language": "Kappei Yamaguchi (Japanese)",
+    "note": "Monotone, quirky",
+    "native_name": null,
+    "english": "Alessandro Juliani",
+    "japanese": "Kappei Yamaguchi"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Rem's Death Note",
+    "transformation": "None",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Detective",
+      "L",
+      "Legend"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Investigation HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: October 31, 1979 (1982 in anime)\nZodiac sign: Scorpio\nHeight: 179 cm (5'10\")\nWeight: 50 kg (110 lbs.)\nLikes: sweets\nDislikes: Wearing socks\n\nL, who also uses the aliases Hideki Ryuga, Ryuzaki, Eraldo Coil and Deneuve, the latter two for which he has developed reputations as the second—and third—best detectives in the world, is quite secretive and only communicates with the world through his assistant Watari. He never shows his face to the world, instead of representing himself with a capital L in Cloister Black font. After meeting the Kira investigation team, he requests that the task force refers to him as Ryuzaki for discretion. The Kira investigation team never learns his true name.\n\nL's disheveled and languid appearance masks his great powers of deduction and insight. He tends to second-guess everything he is presented with and is extremely meticulous and analytical. He has several quirks such as preferring to crouch rather than sit, eating only sweet foods like desserts and fruits, and holding items very delicately. He stayed in England for five years, and during that time he was the champion in tennis for the England Junior Cup.\n\nL suggests that even though he eats only sweet foods, he remains underweight because the brain uses the most calories of any organ in the body. He also says that if he sits normally, his reasoning ability would drop 40%.\n\n(Source: Wikipedia, Death Note Profiles)",
+  "note": null,
+  "source": "anime"
+}

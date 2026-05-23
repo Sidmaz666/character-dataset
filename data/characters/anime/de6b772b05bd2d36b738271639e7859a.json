@@ -1,0 +1,360 @@
+{
+  "id": "de6b772b05bd2d36b738271639e7859a",
+  "name": "Kishibe",
+  "native_name": "岸辺",
+  "full_name": "Kishibe",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "50s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Scarred face",
+      "Serious expression",
+      "Older"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Public Safety HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Devil Hunter",
+    "secondary": "Instructor",
+    "rank_title": "Top Devil Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Public Safety Devil Hunters"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Episode 4",
+    "manga": "Chapter 39",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Knife Mastery",
+      "native_name": "ナイフ術",
+      "description": "Expert knife fighter",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Close range"
+    },
+    {
+      "name": "Devil Contracts",
+      "native_name": "悪魔契約",
+      "description": "Multiple devil contracts",
+      "type": "Contract",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Variable",
+      "limit": "Contract terms"
+    },
+    {
+      "name": "Combat Experience",
+      "native_name": "戦闘経験",
+      "description": "Decades of hunting experience",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Knife Throw",
+    "Contract Summon"
+  ],
+  "ultimate_move": "Top Hunter Techniques",
+  "trump_card": "Unknown Contracts",
+  "power_attributes": {
+    "power_type": "Devil Contracts",
+    "power_source": "Various Devils",
+    "combat_style": [
+      "Knives",
+      "Contracts"
+    ],
+    "weapon": "Knives",
+    "equipment": [
+      "Knives",
+      "Public Safety uniform"
+    ],
+    "trump_card": "Unknown Contracts",
+    "ultimate_move": "Top Hunter Techniques"
+  },
+  "personality": {
+    "traits": [
+      "Stoic",
+      "Wise",
+      "Ruthless",
+      "Experienced",
+      "Practical"
+    ],
+    "likes": [
+      "Training",
+      "Results",
+      "Order"
+    ],
+    "dislikes": [
+      "Incompetence",
+      "Makima"
+    ],
+    "fear": "None",
+    "dream": "Peace",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise",
+      "Practical"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Veteran hunter training next gen",
+    "motivation": "Survival and order",
+    "affinity": "Various",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Top Devil Hunter",
+    "Trained many hunters",
+    "Survived decades"
+  ],
+  "titles": [
+    "Top Devil Hunter",
+    "Instructor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 75,
+    "speed": 82,
+    "durability": 80,
+    "power": 90,
+    "combat": 95,
+    "total": 510
+  },
+  "weaknesses": {
+    "list": [
+      "Age",
+      "Multiple contracts cost"
+    ],
+    "factors": [
+      "Contract toll"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Denji",
+      "Aki",
+      "Himeno (deceased)"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Makima (suspicious)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": "Denji, Aki",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Denji",
+      "Aki",
+      "Himeno (deceased)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Makima (suspicious)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Denji, Aki"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Denji",
+      "Aki",
+      "Himeno"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Survive.",
+    "I'll train you."
+  ],
+  "voice_acting": {
+    "native_language": "TBA",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Vic Mignogna",
+    "japanese": "Takahiro Sakurai"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues training hunters",
+    "transformation": null,
+    "awakening_potential": "Stable",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Public Safety HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Rohan is a famous mangaka. He first appears as an antagonist to Koichi and Toshikazu when they go to his house for an autograph. After they try to sneak a peek of the new issue of his manga he uses his stand Heaven's Door to make neither of them able to attack him. Then he reads their memories and in doing so finds out about Josuke, Okuyasu and everyone else in the story so far, but only according to how Koichi sees them. Then he decides to use them as materials for his manga. After using Koichi as his personal \"Inspiration\" Okuyasu and Josuke find out about where Koichi has been going by following him. They defeat him and leave him in the hospital for a while.",
+  "note": null,
+  "source": "anime"
+}

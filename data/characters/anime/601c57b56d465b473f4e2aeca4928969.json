@@ -1,0 +1,427 @@
+{
+  "id": "601c57b56d465b473f4e2aeca4928969",
+  "name": "Thorfinn",
+  "native_name": "トルフィン",
+  "full_name": "Thorfinn Karlsefni",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Viking",
+    "bloodline": "Karlsefni",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "16-19",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown hair",
+      "Scarred face",
+      "Viking attire",
+      "Dual daggers",
+      "Intense eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Iceland",
+    "current_location": "Vinland",
+    "base_of_operations": "Moving",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Viking",
+    "rank_title": "Thorfinn",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vinland Saga"
+    ],
+    "previous": [
+      "Askeladd's band"
+    ],
+    "relatives": [
+      "Thors (father)",
+      "Ylva (mother)",
+      "Hildegard (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Vinland Saga Episode 1",
+    "manga": "Vinland Saga Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dual Daggers",
+      "native_name": "二刀流",
+      "description": "Master of dual-wielding daggers. Incredibly fast and precise.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Viking Combat",
+      "native_name": "戦術",
+      "description": "Trained by Askeladd. Skilled in all forms of medieval combat.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Survival Skills",
+      "native_name": "生存技術",
+      "description": "Can survive in harsh conditions. Expert tracker and hunter.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Resources"
+    },
+    {
+      "name": "Berserker Rage",
+      "native_name": "狂戦士",
+      "description": "When enraged, becomes unstoppable. Loses control but gains power.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Control loss"
+    }
+  ],
+  "signature_moves": [
+    "Dual dagger strikes",
+    "Berserker rush",
+    "Viking tactics"
+  ],
+  "ultimate_move": "Berserker rage",
+  "trump_card": "Unlimited determination",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Training",
+    "combat_style": [
+      "Dual wielding",
+      "Viking"
+    ],
+    "weapon": "Dual daggers",
+    "equipment": [
+      "Daggers",
+      "Viking gear"
+    ],
+    "trump_card": "Unlimited determination",
+    "ultimate_move": "Berserker rage"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Vengeful",
+      "Evolving",
+      "Brave",
+      "Conflicted",
+      "Honorable"
+    ],
+    "likes": [
+      "Revenge (initially)",
+      "Peace (later)",
+      "Vinland",
+      "Freedom"
+    ],
+    "dislikes": [
+      "War",
+      "Slavery",
+      "Askeladd",
+      "Violence (later)"
+    ],
+    "fear": "Losing purpose",
+    "dream": "Reach Vinland, find peace",
+    "personality_type": "ISFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "Thorfinn is the young Viking seeking revenge against Askeladd for killing his father. After years of violence, realizes war is empty. Seeks Vinland, a land without war.",
+    "motivation": "Reach Vinland, end war",
+    "affinity": "Brown/Revenge",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Defeated Askeladd",
+    "Survived slavery",
+    "Found purpose",
+    "Vinland journey"
+  ],
+  "titles": [
+    "Thorfinn",
+    "Viking",
+    "Warrior"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Silver",
+    "details": "Viking"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 85,
+    "speed": 88,
+    "durability": 88,
+    "power": 85,
+    "combat": 94,
+    "total": 518
+  },
+  "weaknesses": {
+    "list": [
+      "Revenge obsession",
+      "Guilt",
+      "Past trauma"
+    ],
+    "factors": [
+      "Father's memory",
+      "Askeladd"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Askeladd (formerly)",
+    "allies": [
+      "Einar",
+      "Leif",
+      "Thorkell"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Einar",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Askeladd (formerly)",
+      "Slavers"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Einar",
+    "rival": "Askeladd",
+    "mentor": "Thors (father)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Einar",
+      "Leif",
+      "Thorkell"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Askeladd (formerly)",
+      "Askeladd"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Helga (mother)",
+      "Thors"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Helga (mother)",
+      "Thors"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Askeladd"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Einar",
+      "Leif",
+      "Thorkell"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Thors"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Askeladd",
+      "result": "Victory",
+      "method": "Dual daggers"
+    },
+    {
+      "opponent": "Bjorn",
+      "result": "Victory",
+      "method": "Skill"
+    },
+    {
+      "opponent": "Slavers",
+      "result": "Victory",
+      "method": "Liberation"
+    }
+  ],
+  "quotes": [
+    "I have no enemies.",
+    "I'll reach Vinland.",
+    "War is hell."
+  ],
+  "voice_acting": {
+    "native_language": "Yuto Uemura (Japanese)",
+    "note": "Determined, evolving",
+    "native_name": null,
+    "english": "Laura Stahl",
+    "japanese": "Yuuto Uemura"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Journey to Vinland",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Child",
+      "Warrior",
+      "Slave",
+      "Peacemaker"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Ship"
+    ],
+    "vehicles": [],
+    "headquarters": "Moving",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "A ferocious young man who is devoted to avenging his father's death at the hands of Askeladd, and is tricked into joining his band in hopes of defeating him in a fair fight. He is the son of Thors, the most renowned Jomsviking warrior until his defection, and is related to the leadership of the Jomsvikings through his mother Helga, daughter of chief Sigvaldi and Thorkell's niece.\n\nAfter his father's death, Thorfinn grew up on the battlefield and became a skilled warrior. His style is emphasized by dual-wielding two knives, as well as using throwing knives, and he has impressive durability.\n\nThorfinn is the fictionalized version of his historical counterpart, Icelandic explorer Thorfinn Karlsefni.\n\n(Source: Vinland Saga Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

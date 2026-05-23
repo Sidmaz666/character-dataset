@@ -1,0 +1,370 @@
+{
+  "id": "07e990c1d4eca6f855c47b90bf21b33c",
+  "name": "Hoshino, Ruby",
+  "native_name": "星野ルビー",
+  "full_name": "Ruby Hoshino",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Hoshino",
+    "height_cm": 163,
+    "weight_kg": 50,
+    "age": "16",
+    "birthday": "March 23",
+    "zodiac": "Aries",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 18.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink",
+    "hair_color": "Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Star eyes",
+      "Pink hair",
+      "Twin tails"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Idol",
+    "secondary": "Student",
+    "rank_title": "B Komachi Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "B Komachi",
+      "Strawberry Productions"
+    ],
+    "previous": [
+      "Sarina Tendouji (past life)"
+    ],
+    "relatives": [
+      "Ai Hoshino (mother, deceased)",
+      "Aqua Hoshino (twin brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Oshi no Ko Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Singing",
+      "native_name": "歌",
+      "description": "Professional idol singing",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Dancing",
+      "native_name": "ダンス",
+      "description": "Idol dance performance",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 83,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Acting",
+      "native_name": "演技",
+      "description": "Basic acting skills",
+      "type": "Skill",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Stage",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Idol Performance",
+    "Live Concert"
+  ],
+  "ultimate_move": "Star Stage",
+  "trump_card": "Ai's Legacy",
+  "power_attributes": {
+    "power_type": "Talent",
+    "power_source": "Training",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Microphone"
+    ],
+    "trump_card": "Ai's Legacy",
+    "ultimate_move": "Star Stage"
+  },
+  "personality": {
+    "traits": [
+      "Energetic",
+      "Optimistic",
+      "Determined",
+      "Loyal",
+      "Naive"
+    ],
+    "likes": [
+      "Idol activities",
+      "Aqua",
+      "B Komachi"
+    ],
+    "dislikes": [
+      "Liars",
+      "Betrayal"
+    ],
+    "fear": "Losing family again",
+    "dream": "Become top idol like Ai",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "Reincarnated fan pursuing idol dream",
+    "motivation": "Honor Ai's legacy",
+    "affinity": "Star",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Member of new B Komachi",
+    "Successful idol debut",
+    "Reincarnated as Ai's daughter"
+  ],
+  "titles": [
+    "Idol",
+    "Ai's Daughter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 45,
+    "speed": 68,
+    "durability": 58,
+    "power": 72,
+    "combat": 35,
+    "total": 343
+  },
+  "weaknesses": {
+    "list": [
+      "Naive",
+      "Emotional",
+      "Impulsive"
+    ],
+    "factors": [
+      "Inexperience"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Aqua",
+      "Kana",
+      "Akane"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Aqua",
+        "relationship": "Twin brother",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Kana",
+        "relationship": "Idol partner",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Kana",
+    "rival": null,
+    "mentor": "Ai (deceased)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Aqua",
+      "Kana",
+      "Akane"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Aqua",
+      "Kana",
+      "Akane"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Ai"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I'll become a great idol!",
+    "Ai's dream lives on!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuriko Nakamura",
+    "note": "",
+    "native_name": null,
+    "english": "Alyssa Marek",
+    "japanese": "Yurie Igoma"
+  },
+  "publisher": "anime",
+  "story": {
+    "status": "Unknown",
+    "role_in_story": null,
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Height: 151 cm (4'11)\n\nAi Hoshino is the lead idol of B-Komachi, an idol group affiliated with Strawberry Productions. Before her idol work, she was a bumpkin who had no professionalism.\n\n(Source: Oshi no Ko Wiki)",
+  "note": null,
+  "source": "anime"
+}

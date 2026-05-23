@@ -1,0 +1,410 @@
+{
+  "id": "1302468ccebc398c6b320aed42a4a677",
+  "name": "Brook",
+  "native_name": "ブルック",
+  "full_name": "Brook",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Undead Skeleton (Human)",
+    "race": "Skeleton (formerly Human)",
+    "bloodline": "N/A",
+    "height_cm": 266,
+    "weight_kg": 45,
+    "age": "Died at 38, revived 50 years later as skeleton",
+    "birthday": "April 3",
+    "zodiac": "Aries",
+    "blood_type": "X",
+    "weight_kkg": null,
+    "bmi": 6.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "(None - has skull face with hollow eyes)",
+    "hair_color": "Black (afro)",
+    "skin_color": "White (bone)",
+    "notable_features": [
+      "Skeleton body",
+      "Afro hairstyle",
+      "Top hat and cane",
+      "Gentleman posture"
+    ],
+    "skin": "White (bone)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "West Blue (specific island unknown)",
+    "current_location": "Thousand Sunny",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Musician",
+    "secondary": "Swordsman",
+    "rank_title": "Ninth crew member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates"
+    ],
+    "previous": [
+      "Rumbar Pirates"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 337",
+    "manga": "One Piece Chapter 442",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Yomi Yomi no Mi",
+      "native_name": "黃泉果實",
+      "description": "Paramecia Devil Fruit that allows Brook to return to life after death. His soul reinhabits his skeleton body, granting pseudo-immortality.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Dies once, then must inhabit skeleton body permanently"
+    },
+    {
+      "name": "Soul Solidification",
+      "native_name": "靈魂固體化",
+      "description": "Can channel his soul's cold aura into his sword to freeze opponents or objects",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Swordsmanship",
+      "native_name": "劍術",
+      "description": "Skilled fencer using shikomizue (cane sword), style resembles fpcio and iaido",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": "Not as powerful as Zoro"
+    },
+    {
+      "name": "Musical Manipulation",
+      "native_name": "音樂操控",
+      "description": "Can play mesmerizing music that can calm, hypnotize, or influence listeners",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Long",
+      "limit": "Non-combat focused"
+    }
+  ],
+  "signature_moves": [
+    "Yomi Yomi no Mi",
+    "Soul Solidification",
+    "Cane sword attacks",
+    "Musical performances"
+  ],
+  "ultimate_move": "King Punch (Million Death Spring)",
+  "trump_card": "Soul King's chill of the Underworld freeze attack",
+  "power_attributes": {
+    "power_type": "Devil Fruit (Paramecia) + Swordsmanship",
+    "power_source": "Yomi Yomi no Mi",
+    "combat_style": [
+      "Fencing",
+      "Soul-based attacks"
+    ],
+    "weapon": "Shikomizue (cane sword)",
+    "equipment": [
+      "Violin",
+      "Guitar"
+    ],
+    "trump_card": "Soul King's chill of the Underworld freeze attack",
+    "ultimate_move": "King Punch (Million Death Spring)"
+  },
+  "personality": {
+    "traits": [
+      "Gentlemanly",
+      "Cheerful",
+      "Polite",
+      "Dramatic",
+      "Loyal"
+    ],
+    "likes": [
+      "Music",
+      "Performing",
+      "Friends",
+      "Milk"
+    ],
+    "dislikes": [
+      "Being ignored",
+      "Disrespect to music",
+      "Seeing friends hurt"
+    ],
+    "fear": "Losing his crew friends again",
+    "dream": "Reunite with Laboon and complete his promise to return",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Overcame 50 years of loneliness to find new family in Straw Hats",
+    "motivation": "Keeping promises and protecting friends",
+    "affinity": "Music/Soul",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "World-famous as 'Soul King' rock star",
+    "Former captain of Rumbar Pirates",
+    "First soul-based Devil Fruit user in series"
+  ],
+  "titles": [
+    "Soul King",
+    "Dead Bones",
+    "Gentleman Skeleton",
+    "Humming Swordsman"
+  ],
+  "bounty": {
+    "amount": 83000000,
+    "currency": "Berry",
+    "details": "Current bounty after time skip"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 85,
+    "durability": 60,
+    "power": 65,
+    "combat": 70,
+    "total": 410
+  },
+  "weaknesses": {
+    "list": [
+      "Water/seawater",
+      "Sea Stone",
+      "Soul can be separated from body"
+    ],
+    "factors": [
+      "Cannot heal - uses milk to repair bones"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kuma (knew of his past)",
+    "allies": [
+      "Straw Hat Pirates",
+      "Laboon"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Laboon",
+        "relationship": "Best friend/Promise keeper",
+        "trust_level": "High - 50+ years"
+      },
+      {
+        "name": "Rumbar Pirates crew",
+        "relationship": "Former crew",
+        "trust_level": "N/A - deceased"
+      }
+    ],
+    "enemies": [
+      "Kuma",
+      "Roronoa Zoro"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Laboon",
+    "rival": "Roronoa Zoro (crew swordsman rival)",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates",
+      "Laboon"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kuma (knew of his past)",
+      "Roronoa Zoro (crew swordsman rival)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Roronoa Zoro"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates",
+      "Laboon"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ryuma (zombie)",
+      "result": "Victory",
+      "method": "Using soul-powered sword"
+    },
+    {
+      "opponent": "Hody Jones",
+      "result": "Victory (with crew)",
+      "method": "Sword attacks"
+    }
+  ],
+  "quotes": [
+    "Yo-ha-ho!",
+    "I am the gentleman skeleton Brook!",
+    "My soul will keep burning! This melody... THIS IS MY SOUL KING SHOW!"
+  ],
+  "voice_acting": {
+    "native_language": "Jyuchiro? / Kenichi (Japanese)",
+    "note": "Japanese: Masaya? Onosaka",
+    "native_name": null,
+    "english": "Ian Sinclair",
+    "japanese": "Cho"
+  },
+  "story": {
+    "status": "Alive (undead)",
+    "fate": "Currently traveling with Straw Hats",
+    "transformation": "Soul exit body form",
+    "awakening_potential": "Full soul manipulation abilities",
+    "power_evolution": [
+      "Human",
+      "Skeleton",
+      "Soul King",
+      "Complete soul control"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Thousand Sunny",
+      "Spirited Away (ghost ship)"
+    ],
+    "vehicles": [
+      "Violin",
+      "Guitar"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 88; 90\nBirthdate: April 3; Aries\nHeight: 2m 66cm (8'8½\")\nAffiliation: Straw Hat Pirates; Rumbar Pirates (former)\nPosition: Musician, Swordsman\nDevil Fruit: Yomi Yomi no Mi (Revive Revive Fruit)\nType: Paramecia\nBounty: \nBrook known as the \"Gentleman Skeleton\", is a pirate inhabiting the Florian Triangle region of the Grand Line. Although he claims to be a gentleman, and talks in the dialect of one, Brook's etiquette has severely degenerated over the course of his isolation. He has awful table manners: he shouts for food while waiting to be served, asks to swap plates with people who have larger servings than he does and eating so messily his entire face is stained. He is also extremely flatulent after meals, but says \"excuse me\" so as to be \"gentlemanly.\" He also loves to tell odd, bone-themed jokes, as well as melodramatic tales, and is very perverted, asking to see Nami and Robin's underwear upon meeting them. \n\nHe's a skilled musician (something Luffy has always wanted in his crew since the beginning), fond of playing the violin. Due to his light weight he can not only jump to incredible heights but can run on water by moving his legs furiously. He uses a shikomizue as his main weapon; with it, he is able to make swift iaidō attacks that the enemy cannot notice.",
+  "note": null,
+  "source": "anime"
+}

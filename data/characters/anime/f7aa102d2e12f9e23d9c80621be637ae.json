@@ -1,0 +1,447 @@
+{
+  "id": "f7aa102d2e12f9e23d9c80621be637ae",
+  "name": "Satoru Gojo",
+  "native_name": "五条悟",
+  "full_name": "Gojo Satoru",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Gojo Clan",
+    "height_cm": 190,
+    "weight_kg": 85,
+    "age": "28",
+    "birthday": "December 7",
+    "zodiac": "Sagittarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 23.5,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Blue (Six Eyes)",
+    "hair_color": "White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Six Eyes",
+      "Black blindfold",
+      "Tall physique"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo",
+    "current_location": "Tokyo Jujutsu High",
+    "base_of_operations": "Tokyo Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Sorcerer",
+    "secondary": "Teacher",
+    "rank_title": "Special Grade / Teacher",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gojo Clan",
+      "Tokyo Jujutsu High"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen Episode 1",
+    "manga": "Jujutsu Kaisen Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Six Eyes",
+      "native_name": "六眼",
+      "description": "Rare ocular ability - perceives cursed energy at atomic level, near-zero energy waste, technique analysis",
+      "type": "Support",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Long",
+      "limit": "Causes mental fatigue over time"
+    },
+    {
+      "name": "Limitless",
+      "native_name": "無下限",
+      "description": "God-tier technique allowing manipulation of space - base for all color variants",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Requires Six Eyes for control"
+    },
+    {
+      "name": "Blue",
+      "native_name": "蒼",
+      "description": "Attractive void - pulls objects toward center of focus with infinite gravity",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Red",
+      "native_name": "赤",
+      "description": "Repulsive void - pushes objects away from center",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Hollow Purple",
+      "native_name": "紫葦",
+      "description": "Combination of Blue and Red - erases anything in path of imaginary mass",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Drains massive energy"
+    },
+    {
+      "name": "Domain Expansion - Unlimited Void",
+      "native_name": "領域展開 - 無限 Void",
+      "description": "Hits all inside with infinite knowledge/info, overwhelming minds",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Domain",
+      "limit": "Requires domain expansion"
+    },
+    {
+      "name": "Reverse Cursed Technique",
+      "native_name": "逆呪術",
+      "description": "Uses reversed cursed energy to heal himself",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Limitless",
+    "Blue",
+    "Red",
+    "Hollow Purple",
+    "Domain Expansion"
+  ],
+  "ultimate_move": "Hollow Purple / Unlimited Void",
+  "trump_card": "Full power Limitless + Six Eyes",
+  "power_attributes": {
+    "power_type": "Cursed Energy / Space Manipulation",
+    "power_source": "Gojo Clan bloodline",
+    "combat_style": [
+      "Cursed energy manipulation",
+      "Space distortion"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Blindfold"
+    ],
+    "trump_card": "Full power Limitless + Six Eyes",
+    "ultimate_move": "Hollow Purple / Unlimited Void"
+  },
+  "personality": {
+    "traits": [
+      "Confident",
+      "Playful",
+      "Rebellious",
+      "Caring",
+      "Sarcastic"
+    ],
+    "likes": [
+      "Teaching",
+      "Being strongest",
+      "Confectionery",
+      "Compliments"
+    ],
+    "dislikes": [
+      "Higher ups",
+      "Curses",
+      "Weakness"
+    ],
+    "fear": "None mentioned",
+    "dream": "Change jujutsu world",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": [
+      "Limited",
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Strongest sorcerer who protects students and challenges establishment",
+    "motivation": "Creating better world for sorcerers",
+    "affinity": "Space/Blue-Red",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Strongest Jujutsu Sorcerer",
+    "Sealed King of Curses (Ryomen Sukuna's fingers)",
+    "Teacher at Tokyo Jujutsu High",
+    "Defeated many Special Grade curses"
+  ],
+  "titles": [
+    "The Strongest",
+    "Gojo Satoru",
+    "Sensei"
+  ],
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 95,
+    "speed": 100,
+    "durability": 95,
+    "power": 100,
+    "combat": 100,
+    "total": 590
+  },
+  "weaknesses": {
+    "list": [
+      "Limited",
+      "Limit"
+    ],
+    "factors": [
+      "limited",
+      "limit"
+    ]
+  },
+  "relationships": {
+    "nemesis": [
+      "Geto (former friend)",
+      "Pseudo-Junpei",
+      "Kenjaku"
+    ],
+    "allies": [
+      "Students",
+      "Geto (past)",
+      "Yuta"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yuji Itadori",
+        "relationship": "Student",
+        "trust_level": "High"
+      },
+      {
+        "name": "Megumi Fushiguro",
+        "relationship": "Student",
+        "trust_level": "High"
+      },
+      {
+        "name": "Nobara Kugisaki",
+        "relationship": "Student",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Curses",
+      "Higher ups",
+      "Sukuna"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Students",
+      "Geto (past)",
+      "Yuta"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Geto (former friend)",
+      "Pseudo-Junpei",
+      "Kenjaku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Students",
+      "Geto",
+      "Yuta"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Toji Fushiguro",
+      "result": "Victory",
+      "method": "Limitless + Hollow Purple"
+    },
+    {
+      "opponent": "Sukuna (multiple times)",
+      "result": "Various results",
+      "method": "Domain vs Domain"
+    }
+  ],
+  "quotes": [
+    "Don`t worry, I am the strongest!",
+    "This plan is boring, let me handle it.",
+    "Good job! No, wait, I should say that.",
+    "I`ll be your opponent!"
+  ],
+  "voice_acting": {
+    "native_language": "Nobunaga (Japanese)",
+    "note": "Actually: 'Natsuki (Japanese), English: 'Cris (Englsh)'",
+    "native_name": null,
+    "english": "Kaiji Tang",
+    "japanese": "Yuichi Nakamura"
+  },
+  "story": {
+    "status": "Alive (sealed in Prison Realm)",
+    "fate": "Sealed by Prison Realm but revived later",
+    "transformation": null,
+    "awakening_potential": "Full Limitless mastery",
+    "power_evolution": [
+      "Young prodigy",
+      "Strongest sorcerer",
+      "Teacher"
+    ],
+    "role_in_story": "Primary Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo Jujutsu High",
+    "story_importance": "Primary",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Age: 28\nBirthday: December 7, 1989\nHeight: 190 cm (6'3\")\nClan: Gojou Clan\nHair: White\nEyes: Light Blue\nGrade: Special Grade\nAbilities: Immense Strength, Immense Speed &amp; Reflexes, Tactical Intellect, High Skill, Immense Cursed Energy, Infinity, Cursed Technique Lapse: Blue, Cursed Technique Reversal: Red, Cursed Technique Hollow: Purple, Six Eyes, Limitless, Domain Expansion: Infinite Void.\n\nSatoru Gojou is the first-year teacher at Tokyo Metropolitan Magic Technical College.\n\nWhen interacting with his students and friends, he is known to be quite playful and carefree. However, toward his enemies, he has shown to be quite cruel and rebellious. He is also very confident in his abilities and reputation as a powerful sorcerer.\n\n\n\n(Source: Jujutsu Kaisen Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

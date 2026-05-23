@@ -1,0 +1,326 @@
+{
+  "id": "c1fe74028e70956c93306ea3d3c8355d",
+  "name": "Neferpitou",
+  "native_name": "",
+  "full_name": "Neferpitou",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red\nHair",
+    "hair_color": "White\nOccupation",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Heavens Arena",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter x Hunter",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Chimera Ants"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter",
+    "manga": "Hunter x Hunter",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Nen",
+      "type": "Energy",
+      "description": "Skilled in Nen manipulation",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Combat",
+      "type": "Physical",
+      "description": "Trained in various combat styles",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Hunter Instincts",
+      "type": "Mental",
+      "description": "Keen tracking and survival instincts",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Nen",
+    "Martial Combat",
+    "Hunter Instincts"
+  ],
+  "ultimate_move": "Nen",
+  "trump_card": "Martial Combat",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Cosmic",
+    "combat_style": [],
+    "weapon": "Bow",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": "Martial Combat",
+    "ultimate_move": "Nen"
+  },
+  "personality": {
+    "traits": [
+      "Resourceful",
+      "Determined",
+      "Adaptable",
+      "Curious",
+      "Brave"
+    ],
+    "likes": [
+      "Learning",
+      "Protecting others",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Death"
+    ],
+    "fear": "Failure",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hunter x Hunter character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Ayumi Fujimura (Japanese)",
+    "Voiced by Sarah Williams (English)"
+  ],
+  "titles": [
+    "Hunter x Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 78,
+    "speed": 78,
+    "durability": 78,
+    "power": 78,
+    "combat": 78,
+    "total": 468
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Hunter Association"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Target/Hunted"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hunter Association"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Target/Hunted"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hunter Association"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Sarah Williams",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Ayumi Fujimura"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Gender: Unknown\nEye Color: Red\nHair Color: White\nOccupation: Chimera Ant Royal Guard\nNen Type: Specialization\nAbilities: \n\nNeferpitou (ネフェルピトー, Neferupitō), nicknamed Pitou (ピトー, Pitō), is a cat-humanoid Chimera Ant and the firstborn of the Chimera Ant King's three Royal Guards.\n\nNeferpitou is very loyal to the King and will sacrifice themself for him. Of the three Royal Guards, Pitou is the most curious and would get distracted easily, and loves to play.\n\n Pitou is a cat Chimera Ant, and like a cat, loves to play with their opponents like a cat would with their prey. Despite their cheerful and playful manner, though, Pitou has a cruel and terrifying personality as well. Pitou also took their duty to protect the King seriously and is willing to sacrifice their chance to fight strong opponents to fulfill their duty.\n\n\nCharacter Background:\nNeferpitou is the first of the three Royal Guards born for the Chimera Ant King. They are personally named by the Queen, as were the other Royal Guards. Like Menthuthuyoupi, Neferpitou appeared to have no memories of their previous life if they had one.\n\nTimeline:\n\n\n\n\n\n\n(Source: Hunterpedia Wiki)",
+  "note": null,
+  "source": "anime"
+}

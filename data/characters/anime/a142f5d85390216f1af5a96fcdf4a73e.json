@@ -1,0 +1,375 @@
+{
+  "id": "a142f5d85390216f1af5a96fcdf4a73e",
+  "name": "Emiya, Shirou",
+  "native_name": "衛宮士郎",
+  "full_name": "Shirou Emiya",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Mage (Magus)",
+    "height_cm": 167,
+    "weight_kg": 58,
+    "age": "17",
+    "birthday": "Unknown",
+    "blood_type": "AB",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Orange",
+    "skin": "Fair",
+    "notable_features": "Orange hair, scar from fire trauma",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Fuyuki City",
+    "current_location": "Fuyuki City",
+    "base_of_operations": "Fuyuki City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student (Homurahara Academy)",
+    "secondary": "Master of Saber, Magus-in-training",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Homurahara Academy"
+    ],
+    "previous": [
+      "Kiritsugu Emiya (foster father)"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "manga": "Fate/stay night (2005)",
+    "game": "Fate/stay night (2004)",
+    "comics": null
+  },
+  "abilities": [
+    {
+      "name": "Reinforcement",
+      "native_name": "強化",
+      "description": "Analyze object structure and enhance its effectiveness (sharpness, durability)",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Short"
+    },
+    {
+      "name": "Projection",
+      "native_name": "投影",
+      "description": "Create replicas of Noble Phantasms; eventually becomes Unlimited Blade Works",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium"
+    },
+    {
+      "name": "Tracing",
+      "native_name": "投影貝",
+      "description": "Project weapons by tracing their concept/image",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Unlimited Blade Works",
+    "Reinforced Sword",
+    "Tracing"
+  ],
+  "ultimate_move": "Unlimited Blade Works (無限の刃譜)",
+  "power_attributes": {
+    "power_type": "Magecraft",
+    "power_source": "Kiritsugu's teaching, Avalon cells",
+    "combat_style": [
+      "Swordsmanship",
+      "Magecraft"
+    ],
+    "weapon": "Swordsmanship",
+    "equipment": [
+      "Projection",
+      "Tracing"
+    ],
+    "trump_card": "Tracing",
+    "ultimate_move": "Unlimited Blade Works (無限の刃譜)"
+  },
+  "personality": {
+    "traits": [
+      "Idealistic",
+      "Self-sacrificing",
+      "Kind",
+      "Hardworking",
+      "Naive"
+    ],
+    "likes": [
+      "Cooking",
+      "Housework",
+      "Helping others",
+      "Saving people"
+    ],
+    "dislikes": [
+      "Umekobucha",
+      "Being unable to help",
+      "Killing"
+    ],
+    "fear": "Being unable to save those who plead for help",
+    "dream": "Become a Hero of Justice",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Hardworking"
+    ],
+    "weaknesses": [
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "From survivor to hero who fights for justice",
+    "motivation": "Save everyone, fulfill Kiritsugu's dream",
+    "affinity": "Justice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Won Fifth Holy Grail War (Fate route)",
+    "Mastered Projection Magecraft",
+    "Became Hero of Justice",
+    "Bridged past and future with Archer"
+  ],
+  "titles": [
+    "Hero of Justice",
+    "Emiya Shirou"
+  ],
+  "bounty": {
+    "amount": 0,
+    "currency": "N/A",
+    "details": "No bounty as not a wanted criminal"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 65,
+    "speed": 60,
+    "durability": 55,
+    "power": 80,
+    "combat": 75,
+    "total": 410
+  },
+  "relationships": {
+    "nemesis": "Kuzuki Souichirou (Caster)",
+    "allies": [
+      "Saber (Artoria)",
+      "Rin Tohsaka",
+      "Sakura Matou"
+    ],
+    "love_interest": "Saber (Artoria)",
+    "mentor": "Kiritsugu Emiya (foster father)",
+    "best_friend": "Sakura Matou",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies": [
+      "Kuzuki Souichirou",
+      "Matou, Shinji"
+    ],
+    "enemies_detailed": [],
+    "rival": "Matou, Shinji",
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Saber (Artoria)",
+      "Rin Tohsaka",
+      "Sakura Matou"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kuzuki Souichirou (Caster)",
+      "Matou, Shinji"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Matou, Shinji"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Saber",
+      "Rin Tohsaka",
+      "Sakura Matou"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kiritsugu Emiya"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Saber Alter",
+      "result": "Victory",
+      "method": "Unlimited Blade Works"
+    },
+    {
+      "opponent": "Archer (future self)",
+      "result": "Draw",
+      "method": "Mutual understanding"
+    }
+  ],
+  "quotes": [
+    "I will become a Hero of Justice.",
+    "No matter what happens, I'll protect everyone!",
+    "A sword is just a tool. The heart is what matters."
+  ],
+  "voice_acting": {
+    "native_language": "Noriaki Sugiyama",
+    "note": null,
+    "native_name": null,
+    "english": "English]]",
+    "japanese": "Japanese]]"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues training as mage, potentially meets future self again",
+    "transformation": [
+      "Unlimited Blade Works mastery"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "trump_card": "Tracing",
+  "weaknesses": {
+    "list": [
+      "Naive"
+    ],
+    "factors": [
+      "naive"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Fuyuki City",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "about": "Birthday: November 11, 1965\nHeight: 175 cm\nWeight: 67 kg\nBlood type: AB\nServant: Saber\nClassifications: human, magus, master\nLikes: efficiency\nSpouse: \nDaughter: \nTalents: shooting, jobs involving destruction\nSidearm: Thompson Contender chambered in .30-06 Springfield, in conjunction with his Mystic Code Origin Bullets, Calico M950 submachine gun, Walther WA2000 sniper fitted with AN/PVS4 thermal optics\nFamous quote: \"Even if I am to carry 'all the evils of this world,' it won't matter. If that can save the world, then I'd gladly accept it.\"\n\nShirou's foster father and his savior from the aftermath of the massive Fuyuki fire. During his lifetime, Kiritsugu was disillusioned with becoming a Hero of Justice, a defender of humanity who could save everyone. Although he feels he failed to do so, his efforts were a source of inspiration for Shirou.\n\nPrior to his fateful meeting with Shirou, Kiritsugu was notorious as the \"Magus Killer,\" a freelancer who would hunt down heretical magi. Although he was a magus with Magic Circuits and abilities he was considered unorthodox in that he would utilize modern technology and weaponry along with his magecraft to track down and kill magi.\n\nAlthough mentioned and seen in flashbacks in Fate/stay night, Kiritsugu is one of the main protagonists in its prequel Fate/Zero.\n\nDue to his father, Norikata Emiya, fourth family head of the Emiya family and a magus who received a Sealing Designation, Kiritsugu lost his mother shortly after he was born. Father and son were on the run from the Mage's Association, and thus Kiritsugu spent his youth wandering around the world with his father.",
+  "note": null,
+  "source": "anime"
+}

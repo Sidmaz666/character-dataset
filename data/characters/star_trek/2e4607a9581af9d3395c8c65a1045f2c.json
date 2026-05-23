@@ -1,0 +1,400 @@
+{
+  "id": "2e4607a9581af9d3395c8c65a1045f2c",
+  "name": "Ezri Dax",
+  "native_name": null,
+  "full_name": "Ezri Tigan Dax",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human/Trill",
+    "race": "Joined Trill",
+    "bloodline": "Dax",
+    "height_cm": 168,
+    "weight_kg": 60,
+    "age": "28 when on DS9",
+    "birthday": "2364",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black/Dark Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Trill spots",
+      "Young face",
+      "Counselor training"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Trill",
+    "current_location": "Various",
+    "base_of_operations": "USS Aventine / DS9",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Counselor",
+    "secondary": "Science Officer",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [],
+    "relatives": [
+      "Dax symbiont (joined)",
+      "Norvo Tigan (fiancé, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1998) - \"Image in Harm's Way\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Trill Knowledge",
+      "native_name": null,
+      "description": "Contains memories and skills from all previous hosts",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Mental",
+      "limit": "Host memories can be overwhelming"
+    },
+    {
+      "name": "Psychological Training",
+      "native_name": null,
+      "description": "Counselor training from medical background",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Limited experience"
+    },
+    {
+      "name": "Quick Learning",
+      "native_name": null,
+      "description": "Can learn quickly using host memories",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Mental",
+      "limit": "Requires relevant memories"
+    }
+  ],
+  "signature_moves": [
+    "Counselor Insight",
+    "Dax Host Wisdom",
+    "Trill Knowledge"
+  ],
+  "ultimate_move": "Combining Multiple Host Skills",
+  "trump_card": "Jadzia's Combat Memories",
+  "power_attributes": {
+    "power_type": "Psionic/Knowledge",
+    "power_source": "Trill Symbiont",
+    "combat_style": [
+      "Basic Starfleet",
+      "Jadzia's Combat Training"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Counselor Tools"
+    ],
+    "trump_card": "Jadzia's Combat Memories",
+    "ultimate_move": "Combining Multiple Host Skills"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Nervous",
+      "Quick-witted",
+      "Brave",
+      "Uncertain"
+    ],
+    "likes": [
+      "Helping Others",
+      "Adventure",
+      "Being a Starfleet Officer"
+    ],
+    "dislikes": [
+      "Being a Surprise Host",
+      "Pressure",
+      "Indecision"
+    ],
+    "fear": "Not Living Up to Jadzia",
+    "dream": "Finding Her Own Identity",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From unprepared host who never wanted to be one to confident officer and counselor",
+    "motivation": "Finding her own identity while honoring the Dax legacy",
+    "affinity": "Counseling",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "First host never to apply for joining",
+    "Served on DS9 and Aventine",
+    "Helped defeat Dominion",
+    "Found her own path as Dax",
+    "Became successful counselor despite late start"
+  ],
+  "titles": [
+    "Counselor Dax",
+    "The New Host",
+    "Ezri"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 65,
+    "speed": 70,
+    "durability": 68,
+    "power": 75,
+    "combat": 70,
+    "total": 436
+  },
+  "weaknesses": {
+    "list": [
+      "Unprepared for Joining",
+      "Limited Combat Experience",
+      "Insecurity"
+    ],
+    "factors": [
+      "Never wanted to be a host",
+      "Comparison to Jadzia"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None significant",
+    "allies": [
+      "Benjamin Sisko",
+      "Julian Bashir",
+      "Worf"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Benjamin Sisko",
+        "relationship": "Commander",
+        "trust_level": "High"
+      },
+      {
+        "name": "Julian Bashir",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Julian Bashir (brief)",
+    "best_friend": "Julian Bashir",
+    "rival": "None",
+    "mentor": "Benjamin Sisko",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Benjamin Sisko",
+      "Julian Bashir",
+      "Worf"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None significant",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Benjamin Sisko",
+      "Julian Bashir",
+      "Worf"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Benjamin Sisko"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Counselor support and Dax knowledge"
+    }
+  ],
+  "quotes": [
+    "I've never been good at making decisions, and now I'm responsible for nine lifetimes.",
+    "I'm not Jadzia. I never will be. But I'm still Dax.",
+    "I spent my whole life trying to avoid the symbiote, and now I can't imagine life without it."
+  ],
+  "voice_acting": {
+    "native_language": "Nicole Remar (voice), Michelle Hurd (appearance later)",
+    "english": "Nicole Remar",
+    "note": "Last major character added to DS9",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued Starfleet service",
+    "transformation": "Found her own identity as host",
+    "awakening_potential": "Became respected officer despite late joining",
+    "power_evolution": [
+      "Medical Student",
+      "Unexpected Host",
+      "Counselor",
+      "Officer"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Aventine",
+      "Deep Space 9"
+    ],
+    "vehicles": [
+      "Runabout"
+    ],
+    "headquarters": "Various",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Ezri Dax is a fictional character who appears in the seventh and final season of the American science fiction TV series Star Trek: Deep Space Nine. Portrayed by Nicole de Boer, she is a counselor aboard the Bajoran space station Deep Space Nine. The character is a member of the Trill species, and is formed of both a host and a symbiont—referred to as Dax. Ezri was introduced to the series following the death of the previous Dax host, Jadzia at the end of season six. The producers decided that the new symbiont bearer would be female in order to ensure that Nana Visitor was not the only female member of the main cast. There were initial difficulties in casting, and the character changed from one intended to be \"spooky\" to one struggling to deal with all her previous personalities, having taken on the Dax symbiont without the usual preparation. De Boer was not considered for the part until co-producer Hans Beimler suggested that she submit an audition tape, which resulted in her meeting the producers in Los Angeles and subsequently gaining the role.",
+  "note": null,
+  "source": "star_trek"
+}

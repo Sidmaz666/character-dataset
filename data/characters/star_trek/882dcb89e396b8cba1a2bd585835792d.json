@@ -1,0 +1,419 @@
+{
+  "id": "882dcb89e396b8cba1a2bd585835792d",
+  "name": "Quark",
+  "native_name": null,
+  "full_name": "Quark",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Ferengi",
+    "race": "Ferengi",
+    "bloodline": "Ferengi",
+    "height_cm": 145,
+    "weight_kg": 65,
+    "age": "Unknown (appeared 40s in 2370s)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 30.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "None (large ears prominent)",
+    "skin_color": "Blue-gray",
+    "notable_features": [
+      "Large pointed ears",
+      "Devious expression",
+      "Business acumen"
+    ],
+    "skin": "Blue-gray",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ferenginar",
+    "current_location": "Deep Space 9",
+    "base_of_operations": "Quark's Bar (Deep Space 9)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bar Owner",
+    "secondary": "Businessman, Smuggler (former)",
+    "rank_title": "Businessman",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Ferengi Commerce Authority"
+    ],
+    "previous": [
+      "Various illegal enterprises"
+    ],
+    "relatives": [
+      "Rom (brother)",
+      "Nog (nephew)",
+      "Moogie (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Deep Space Nine (1993) - \"Emissary\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Business Acumen",
+      "native_name": null,
+      "description": "Exceptional Ferengi business skills and profit-seeking",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Not useful in direct combat"
+    },
+    {
+      "name": "Negotiation",
+      "native_name": null,
+      "description": "Master of deals, bribes, and profit manipulation",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Honest people resist him"
+    },
+    {
+      "name": "Survival Instinct",
+      "native_name": null,
+      "description": "Can talk his way out of almost any situation",
+      "type": "Defensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Outmatched by physical threats"
+    }
+  ],
+  "signature_moves": [
+    "Profit Motive",
+    "Business Deal",
+    "The Rules of Acquisition"
+  ],
+  "ultimate_move": "Surviving by Profiting",
+  "trump_card": "Rules of Acquisition",
+  "power_attributes": {
+    "power_type": "Social/Business",
+    "power_source": "Ferengi Instincts",
+    "combat_style": [
+      "Verbal Combat",
+      "Business Tactics"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Dabo Table",
+      "Profit Sensors"
+    ],
+    "trump_card": "Rules of Acquisition",
+    "ultimate_move": "Surviving by Profiting"
+  },
+  "personality": {
+    "traits": [
+      "Greedy",
+      "Cunning",
+      "Survivalist",
+      "Secretly Loyal",
+      "Cowarldy Brave"
+    ],
+    "likes": [
+      "Profit",
+      "Rules of Acquisition",
+      "His Family"
+    ],
+    "dislikes": [
+      "Giving Away Free Things",
+      "Unprofitable Situations",
+      "Romulan Ale"
+    ],
+    "fear": "Being Killed by Odo",
+    "dream": "Great Profit and Legacy",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Greedy"
+    ]
+  },
+  "character": {
+    "arc": "From greedy opportunist to unlikely hero who cared for family and station",
+    "motivation": "Profit, but ultimately family and belonging",
+    "affinity": "Business",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Ran successful bar for years",
+    "Helped defeat Founders invasion",
+    "Raised Rom and Nog with honor",
+    "Survived countless threats",
+    "Became respected by Starfleet"
+  ],
+  "titles": [
+    "The Ferengi",
+    "Quark",
+    "Bartender"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 50,
+    "speed": 55,
+    "durability": 55,
+    "power": 50,
+    "combat": 40,
+    "total": 335
+  },
+  "weaknesses": {
+    "list": [
+      "Greedy",
+      "Physical Coward",
+      "Easily Intimidated"
+    ],
+    "factors": [
+      "Physical threats, Romulan ale"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Odo (adversarial friendship)",
+    "allies": [
+      "Benjamin Sisko",
+      "Odo",
+      "Rom",
+      "Nog"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rom",
+        "relationship": "Brother, often neglected",
+        "trust_level": "High"
+      },
+      {
+        "name": "Nog",
+        "relationship": "Nephew he helped raise",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Gul Dukat",
+      "Various criminals"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gul Dukat",
+        "relationship": "Former business partner",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": "Various women (Grilka, etc.)",
+    "best_friend": "Odo (grudging)",
+    "rival": "Brunt",
+    "mentor": "None",
+    "student": "Rom",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Benjamin Sisko",
+      "Odo",
+      "Rom",
+      "Nog",
+      "Odo (grudging)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Odo (adversarial friendship)",
+      "Brunt"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Brunt"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Rom"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Benjamin Sisko",
+      "Odo",
+      "Rom",
+      "Nog"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Klingons",
+      "result": "Survived",
+      "method": "Bar management and negotiation"
+    },
+    {
+      "opponent": "Various Threats",
+      "result": "Survived",
+      "method": "Profiteering and survival"
+    }
+  ],
+  "quotes": [
+    "Ferengi are not conquerors, we are businessmen.",
+    "The acquisition of wealth is no more difficult than the acquisition of a mate.",
+    "Hate is a very limiting emotion."
+  ],
+  "voice_acting": {
+    "native_language": "Armin Shimerman",
+    "english": "Armin Shimerman",
+    "note": "Ferengi were originally designed to be villainous",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued bar ownership on DS9",
+    "transformation": "Became more than just greedy businessman",
+    "awakening_potential": "Found family meaning beyond profit",
+    "power_evolution": [
+      "Smuggler",
+      "Bartender",
+      "Family Man"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "None"
+    ],
+    "vehicles": [
+      "None"
+    ],
+    "headquarters": "Quark's Bar",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Quark is a fictional character in the American television series Star Trek: Deep Space Nine. He was played by Armin Shimerman and is a member of the extraterrestrial race known as the Ferengi, who are stereotypically capitalist and motivated only by profit.",
+  "note": null,
+  "source": "star_trek"
+}

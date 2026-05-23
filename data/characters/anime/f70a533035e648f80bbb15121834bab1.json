@@ -1,0 +1,329 @@
+{
+  "id": "f70a533035e648f80bbb15121834bab1",
+  "name": "Android 18",
+  "native_name": "人造人間18号",
+  "full_name": "Android 18",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Kami's Lookout",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Dragon Ball",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Android"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Z",
+    "manga": "Dragon Ball Z",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ki Manipulation",
+      "type": "Energy",
+      "description": "Skilled in controlling and projecting ki energy",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "description": "Highly trained in martial arts combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Flight",
+      "type": "Movement",
+      "description": "Ability to fly using ki",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Ki Manipulation",
+    "Martial Arts",
+    "Flight"
+  ],
+  "ultimate_move": "Ki Manipulation",
+  "trump_card": "Martial Arts",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Cosmic",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Martial Arts",
+    "ultimate_move": "Ki Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Competitive",
+      "Proud",
+      "Disciplined"
+    ],
+    "likes": [
+      "Competition",
+      "Protecting others",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Losing",
+      "Being controlled",
+      "Frivolity"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Disciplined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Dragon Ball character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Miki Itō (Japanese)",
+    "Voiced by Meredith McCoy (English)"
+  ],
+  "titles": [
+    "Dragon Ball"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 65,
+    "speed": 65,
+    "durability": 65,
+    "power": 65,
+    "combat": 65,
+    "total": 390
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Z Fighters"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Z Fighters"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Sagara"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Sagara"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Z Fighters"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "english": "Meredith McCoy",
+    "japanese": "Miki Itō"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Sagara's commanding officer and one of Tessa's military strategists with the rank of Lieutenant Commander, fulfilling the role of Operations Director. He is also the foster father of Sagara. He and Sousuke were once enemies, as mentioned in a two part episode by Sagara himself. The foster father status may be on the school's official papers only but Kalinin is certainly a very fatherly figure to Sagara. Kalinin was formerly of the Soviet special forces - Spetsnaz - and was the leader of the team that found a crashed Japanese airliner. There was only one survivor: a three year-old child by the name of Sagara Sousuke. His wife is deceased and the whereabouts and status of the rest of his family is unknown. There is speculation that Kalinin has betrayed Mithril to Amalgam, due to his meeting with Leonard Testarossa at the end of the book 'Dancing Very Merry Christmas' and also due to his mysterious disappearance and attitude during the raid by Amalgam on Merida Island. Kalinin later appears in 'Tsudoku to Make My Day' at Leonard's villa, apparently as one of Leonard's subordinates, although his subsequent actions in the book suggest the possibility that he may be working for the anti-Leonard faction of Amalgam, or as a Mithril deep cover agent.\n\nAndrei mentioned that he had difficulty maintaining family ties, mostly with his wife, due to his time spent with the Spetsnaz. He seems to be of a family man sort and loves his wife so much that he made the Borscht (that Sousuke avoids at all costs) that his wife made him as he returns from missions. He operates under the codename Perth 1.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

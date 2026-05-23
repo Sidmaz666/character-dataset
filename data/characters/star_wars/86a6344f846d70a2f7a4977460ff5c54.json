@@ -1,0 +1,442 @@
+{
+  "id": "86a6344f846d70a2f7a4977460ff5c54",
+  "name": "Scar",
+  "native_name": "スカー",
+  "full_name": "Unknown (Ishvalan, abandoned his birth name)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Ishvalan",
+    "bloodline": "Ishvalan Clan",
+    "height_cm": 185,
+    "weight_kg": 75,
+    "age": "Mid-20s (during series)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark Brown/Black",
+    "hair_color": "Black",
+    "skin_color": "Brown",
+    "notable_features": [
+      "X-shaped scar on forehead",
+      "Tattooed right arm with alchemical arrays",
+      "Tall and lean build"
+    ],
+    "skin": "Brown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ishval Region, Amestris",
+    "current_location": "Amestris",
+    "base_of_operations": "Various locations throughout Amestris",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante/Killer (formerly)",
+    "secondary": "Priest (former), Revolutionary",
+    "rank_title": "N/A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Ishvalan people",
+      "Rebels against Amestrian government"
+    ],
+    "previous": [
+      "Ishvalan religious order",
+      "State Alchemist hunters"
+    ],
+    "relatives": [
+      "Brother (deceased) - gave him his arm",
+      "Ishvalan family (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist Episode 4 (2003)",
+    "manga": "Fullmetal Alchemist Chapter 5",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Destruction Alchemy",
+      "native_name": "破壊錬成術",
+      "description": "Scar's right arm, transplanted from his brother, can perform the first two steps of alchemy: analysis and deconstruction. Instead of reconstructing matter, he completely destroys it at a molecular level.",
+      "type": "Attack/Destruction",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Short to Medium",
+      "limit": "Can only destroy, not create; Ishvalan religion forbids full alchemy"
+    },
+    {
+      "name": "Tattoo Array Combat",
+      "native_name": "タトゥー配列戦法",
+      "description": "Scar's tattooed arm contains multiple transmutation circles that allow him to target specific parts of his enemies for destruction - typically destroying organs or limbs.",
+      "type": "Attack/Precision",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Short",
+      "limit": "Requires direct contact or close proximity"
+    },
+    {
+      "name": "Alkahestry Compatibility",
+      "native_name": "錬成医学",
+      "description": "In the manga/Brotherhood, Scar's brother's research allowed Scar to utilize alkahestric techniques to help restore alchemy to Amestris during the Promised Day.",
+      "type": "Support/Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Developed late in the series; requires specific conditions"
+    }
+  ],
+  "signature_moves": [
+    "Destruction Palm",
+    "Organ Implosion",
+    "Mass Destruction Array"
+  ],
+  "ultimate_move": "Large-scale Destruction Alchemy using his brother's transmutation circle research",
+  "trump_card": "The Grand Arcanum knowledge inherited from his brother",
+  "power_attributes": {
+    "power_type": "Alchemy (Destruction only)",
+    "power_source": "His brother's transmuted arm containing alchemical arrays",
+    "combat_style": [
+      "Close combat",
+      "Destruction alchemy",
+      "Religious martial arts"
+    ],
+    "weapon": "His own body (specifically his right arm)",
+    "equipment": [
+      "Tattooed arm with transmutation circles"
+    ],
+    "trump_card": "The Grand Arcanum knowledge inherited from his brother",
+    "ultimate_move": "Large-scale Destruction Alchemy using his brother's transmutation circle research"
+  },
+  "personality": {
+    "traits": [
+      "Vengeful",
+      "Brooding",
+      "Religiously devout",
+      "Merciful",
+      "Righteous"
+    ],
+    "likes": [
+      "His people",
+      "Religious contemplation",
+      "Justice"
+    ],
+    "dislikes": [
+      "State Alchemists",
+      "Amestrian government",
+      "Waste of life"
+    ],
+    "fear": "Becoming the very thing he hates",
+    "dream": "Protect the remaining Ishvalan people and rebuild his homeland",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Destruction Alchemy",
+      "Tattoo Array Combat",
+      "Alkahestry Compatibility"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Scar transforms from a vengeful killer targeting State Alchemists to a reluctant ally of the protagonists. His journey involves questioning the ethics of his revenge while seeking justice for his massacred people. He eventually finds redemption by helping defeat the true enemies of his people.",
+    "motivation": "Avenge the Ishvalan people and protect the survivors",
+    "affinity": "Destruction/Red",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Survived the Ishvalan Civil War",
+    "Single-handedly dealt defeats to multiple State Alchemists",
+    "Created the massive transmutation circle in Lior",
+    "Helped restore alchemy during the Promised Day",
+    "Aided in the defeat of the homunculi and Father's plan"
+  ],
+  "titles": [
+    "The Scarred Man",
+    "Wrath of God",
+    "Ishvalan Avenger"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Operating as vigilante, not officially tracked by Amestrian military"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 82,
+    "speed": 75,
+    "durability": 70,
+    "power": 95,
+    "combat": 85,
+    "total": 485
+  },
+  "weaknesses": {
+    "list": [
+      "Can only destroy, not create",
+      "Vulnerable when arm is restrained",
+      "Emotional revenge clouding judgment"
+    ],
+    "factors": [
+      "His hatred can make him reckless",
+      "Limited range on destruction alchemy",
+      "Religious conflicts about using alchemy"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Solf J. Kimblee (Crimson Alchemist)",
+    "allies": [
+      "Edward Elric",
+      "Alphonse Elric",
+      "Roy Mustang",
+      "Winry Rockbell",
+      "May Chang"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Edward Elric",
+        "relationship": "Reluctant ally",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Winry Rockbell",
+        "relationship": "Conflicted (accidentally killed her parents)",
+        "trust_level": "Complicated"
+      },
+      {
+        "name": "Roy Mustang",
+        "relationship": "Uneasy alliance",
+        "trust_level": "Low but respectful"
+      }
+    ],
+    "enemies": [
+      "Solf J. Kimblee",
+      "State Alchemists",
+      "Homunculi",
+      "Amestrian Military"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Solf J. Kimblee",
+        "relationship": "Primary target for revenge",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "None officially established",
+    "best_friend": "His brother (deceased)",
+    "rival": "Kimblee",
+    "mentor": "Ishvalan religious order",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Edward Elric",
+      "Alphonse Elric",
+      "Roy Mustang",
+      "Winry Rockbell",
+      "May Chang",
+      "His brother (deceased)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Solf J. Kimblee (Crimson Alchemist)",
+      "Kimblee"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kimblee"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Edward Elric",
+      "Alphonse Elric",
+      "Roy Mustang",
+      "Winry Rockbell",
+      "May Chang",
+      "His brother"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Ishvalan religious order"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Edward Elric (first encounter)",
+      "result": "Victory (near victory)",
+      "method": "Nearly killed Ed with destruction alchemy; Ed escaped by sacrificing his automail arm"
+    },
+    {
+      "opponent": "Solf J. Kimblee",
+      "result": "Inconclusive",
+      "method": "Ongoing rivalry throughout the series"
+    },
+    {
+      "opponent": "Sloth (Homunculus)",
+      "result": "Victory",
+      "method": "Used destruction alchemy to destroy Sloth"
+    },
+    {
+      "opponent": "Amestrian Military (multiple)",
+      "result": "Ongoing victories",
+      "method": "Systematically killed State Alchemists"
+    }
+  ],
+  "quotes": [
+    "I am but a vessel for my brother's will... and the wrath of God.",
+    "That alchemy is forbidden! Only God has the right to create!",
+    "The name of God and my own... I have abandoned both."
+  ],
+  "voice_acting": {
+    "native_language": "Ryotaro Okiayu (Japanese)",
+    "english": "Lloyd Sherr (English dub)",
+    "note": "Known for deep, brooding voice",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Helps rebuild Ishval after the series",
+    "transformation": "Embraces his role as 'Wrath of God'",
+    "awakening_potential": "Could continue using alkahestry to help Ishvalans",
+    "power_evolution": [
+      "Religious priest",
+      "Vengeful survivor",
+      "Serial killer targeting alchemists",
+      "Ally to the Elrics"
+    ],
+    "role_in_story": "Major Antagonist turned Anti-Hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "None (wandering)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "The fictional universe of the Star Wars franchise features multiple planets and moons. While only the feature films and some other works are considered canon to the franchise since the 2012 acquisition of Lucasfilm by The Walt Disney Company, some canon planets were first named or explored in works from the non-canon Star Wars expanded universe, now rebranded as Star Wars Legends.",
+  "note": null,
+  "source": "star_wars"
+}

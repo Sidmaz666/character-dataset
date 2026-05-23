@@ -1,0 +1,328 @@
+{
+  "id": "bfe4f9ac312a6ba5f00da83cc2c20c6b",
+  "name": "Endeavor",
+  "native_name": "",
+  "full_name": "Endeavor",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "My Hero Academia",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero Agency",
+      "Todoroki Family"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia",
+    "manga": "My Hero Academia",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Quirk Usage",
+      "type": "Superpower",
+      "description": "Skilled in utilizing their unique quirk",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Combat Training",
+      "type": "Combat",
+      "description": "Trained in hero combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Teamwork",
+      "type": "Tactical",
+      "description": "Effective at coordinating with allies",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Quirk Usage",
+    "Combat Training",
+    "Teamwork"
+  ],
+  "ultimate_move": "Quirk Usage",
+  "trump_card": "Combat Training",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Physical Training",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Combat Training",
+    "ultimate_move": "Quirk Usage"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Compassionate",
+      "Hardworking",
+      "Selfless"
+    ],
+    "likes": [
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Death",
+      "Betrayal"
+    ],
+    "fear": "Failing to protect others",
+    "dream": "Unknown",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "My Hero Academia character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "My Hero Academia"
+  ],
+  "titles": [
+    "My Hero Academia"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 75,
+    "speed": 75,
+    "durability": 75,
+    "power": 75,
+    "combat": 75,
+    "total": 450
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "All Might"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "All Might",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "All Might"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "All Might"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": "Todoroki, Shouto",
+    "niece": null,
+    "friends": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Shigeru Chiba"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "My Hero Academia (Japanese: 僕のヒーローアカデミア, Hepburn: Boku no Hīrō Akademia) is a Japanese manga series written and illustrated by Kōhei Horikoshi. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from July 2014 to August 2024, with its chapters collected in 42 tankōbon volumes. Set in a world where superpowers (called \"Quirks\") have become commonplace, the story follows Izuku Midoriya, a boy who was born without a Quirk but still dreams of becoming a superhero himself. He is scouted by the world's greatest hero, All Might, who bestows his Quirk to Midoriya after recognizing his potential, and helps to enroll him in a prestigious high school for superheroes in training.\nThe manga spawned a media franchise, leading to numerous spin-off manga, such as My Hero Academia: Smash!!, My Hero Academia: Vigilantes, and My Hero Academia: Team-Up Missions. The series has also been expanded into light novels, stage plays, and various types of merchandise and media, including numerous video games. It has been adapted into an anime television series produced by Bones, which aired for eight seasons from April 2016 to December 2025. It has also spawned four animated films, subtitled Two Heroes, Heroes Rising, World Heroes' Mission, and You're Next, as well as ten original video animations (OVAs) and a television special that adapts a bonus chapter from the final volume of the manga. A live-action film by Legendary Entertainment is in development.\nMy Hero Academia became a commercial success and has appeared on The New York Times best-seller list several times. By April 2024, the manga had over 100 million copies in circulation, including sales of spin-offs, making it one of the best-selling manga series of all time. The series received praise for its art, characters, storytelling, action scenes, and its pop culture references to Western superhero comics. It has won several awards, including the Sugoi Japan Award and Harvey Award for Best Manga, and is considered one of the best of the 2010s.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,416 @@
+{
+  "id": "291f9b2b4e921f6ae1cf617677962e3e",
+  "name": "Miles Morales",
+  "native_name": null,
+  "full_name": "Miles Gonzalo Morales",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human with Spider DNA",
+    "bloodline": "Morales",
+    "height_cm": 173,
+    "weight_kg": 62,
+    "age": "17-18",
+    "birthday": "August 8",
+    "zodiac": "Leo",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [
+      "Red spider emblem",
+      "Unique Venom Strike"
+    ],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Brooklyn, New York",
+    "current_location": "New York",
+    "base_of_operations": "Queens",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Student",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider Society",
+      "Champions",
+      "Avengers"
+    ],
+    "previous": [
+      "Web Warriors"
+    ],
+    "relatives": [
+      "Aaron Davis (uncle)",
+      "Rio Morales (mother)",
+      "Jefferson Davis (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Ultimate Fallout #4",
+    "comics": "Ultimate Fallout #4 (2011)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Proportionate spider strength, can lift several tons",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Speed and Agility",
+      "native_name": null,
+      "description": "Enhanced speed, agility, and reflexes",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Venom Blast",
+      "native_name": null,
+      "description": "Bio-electric energy bursts from hands that can stun and damage",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Long",
+      "limit": "Energy drain"
+    },
+    {
+      "name": "Camouflage",
+      "native_name": null,
+      "description": "Can become near-invisible",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Self",
+      "limit": "Short duration"
+    },
+    {
+      "name": "Spider-Sense",
+      "native_name": null,
+      "description": "Danger warning sense, limited compared to Peter Parker",
+      "type": "Defense",
+      "tier": "C",
+      "power_level": 45,
+      "range": "Short",
+      "limit": "Only warns of immediate danger"
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Ability to cling to surfaces",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Venom Punch",
+    "Venom Blast",
+    "Camouflage"
+  ],
+  "ultimate_move": "Mega Venom Blast",
+  "trump_card": "Galvanize",
+  "power_attributes": {
+    "power_type": "Spider DNA",
+    "power_source": "Genetically modified spider bite",
+    "combat_style": [
+      "Martial Arts",
+      "Acrobatics"
+    ],
+    "weapon": "Venom Blast",
+    "equipment": [
+      "Web shooters"
+    ],
+    "trump_card": "Galvanize",
+    "ultimate_move": "Mega Venom Blast"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Determined",
+      "Compassionate"
+    ],
+    "likes": [
+      "Helping others",
+      "Family"
+    ],
+    "dislikes": [
+      "Evil",
+      "Injustice"
+    ],
+    "fear": "Failing loved ones",
+    "dream": "Becoming like his idol Peter Parker",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Limited",
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "Young hero who stepped up after Peter Parker's death",
+    "motivation": "Proving himself as a hero",
+    "affinity": "Electricity",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Became Spider-Man",
+    "Joined the Avengers",
+    "Member of Champions"
+  ],
+  "titles": [
+    "Spider-Man",
+    "Kid Arachnid"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 60,
+    "speed": 65,
+    "durability": 55,
+    "power": 70,
+    "combat": 60,
+    "total": 385
+  },
+  "weaknesses": {
+    "list": [
+      "Weaker spider-sense",
+      "Energy management",
+      "Inexperience"
+    ],
+    "factors": [
+      "Venom Blast drains energy"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kingpin",
+    "allies": [
+      "Peter Parker",
+      "Ganke Lee"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Peter Parker",
+        "relationship": "Mentor/Idol",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Kingpin",
+      "Green Goblin"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Kingpin",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Gwen Stacy",
+    "best_friend": "Ganke Lee",
+    "rival": null,
+    "mentor": "Peter Parker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Peter Parker",
+      "Ganke Lee"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kingpin"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Peter Parker",
+      "Ganke Lee"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Peter Parker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Green Goblin",
+      "result": "Victory",
+      "method": "Used Venom Blast"
+    }
+  ],
+  "quotes": [
+    "Not another spider. Just... Miles."
+  ],
+  "voice_acting": {
+    "native_language": "Shameik Moore (English)",
+    "english": "Shameik Moore",
+    "note": "Spider-Man: Into the Spider-Verse",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Could develop more powers",
+    "power_evolution": [
+      "More Venom abilities",
+      "Stronger spider-sense"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-swinging"
+    ],
+    "vehicles": [],
+    "headquarters": "Brooklyn apartment",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Spider-Man (Miles Gonzalo Morales ) is a superhero who appears in American comic books published by Marvel Comics. He is a modern reimagining of the popular character Spider-Man, created in 2011 by writer Brian Michael Bendis and artist Sara Pichelli, along with input by Marvel's then-editor-in-chief Axel Alonso. Miles Morales debuted in Ultimate Comics: Fallout #4.\nThe Afro–Latino teenage son of a Black American father and an Afro-Puerto Rican mother, Miles Morales is the second Spider-Man to appear in Ultimate Marvel, an imprint with a separate continuity from the mainstream Marvel Universe called the Ultimate Universe (Earth-1610). He first appeared in Ultimate Fallout #4 (August 2011), following the death of the Ultimate Peter Parker. The character was initially introduced in the alternate Earth-1610 (portrayed in the Ultimate Universe comics), in which he was bitten by a spider genetically engineered at the behest of Norman Osborn in an attempt to duplicate the abilities of Spider-Man. He was featured in the Ultimate Comics: Spider-Man comic book series. After Marvel ended the Ultimate imprint in 2015, Miles was transported to the main Marvel Universe (Earth-616), beginning with stories under the All-New, All-Different Marvel branding that debuted that same year, in which he is the fourth Spider-Man (after Peter Parker, Ben Reilly, and Otto Octavius).\nReaction to the character was mixed. Some, including Spider-Man's co-creator, Stan Lee, approved the creation of a positive role model for children of color. Others expressed displeasure at the replacement of Peter Parker, with The Guardian, Fox News, and Culture Map Houston reporting that some fans viewed the decision as an attempt by Marvel Comics to exhibit political correctness, and that the introduction of a minority Spider-Man was simply a publicity stunt to attract more readers, a charge Alonso denied. Alexandra Petri of The Washington Post called for the character to be judged on the quality of his stories, which garnered positive reviews.\nAs a result of the character's popularity, Miles Morales has been adapted in numerous media outside comics. The character was not the lead protagonist in the Ultimate Spider-Man animated television series, but was later added to the main cast, as an alternate Spider-Man from another universe voiced by Donald Glover in season three and Ogie Banks in season four, later named Kid Arachnid. Nadji Jeter first voiced the character, later named Spy-D, in the Disney XD animated series Spider-Man (2017–2020), and went on to reprise his role in the Marvel's Spider-Man (2018–present) video game series developed by Insomniac Games, and Marvel Ultimate Alliance 3: The Black Order (2019). The character is the star of the animated Spider-Verse film franchise produced by Sony Pictures Animation, with Shameik Moore voicing the character in the Academy Award-winning feature film Spider-Man: Into the Spider-Verse (2018), as well as its sequels Across the Spider-Verse (2023) and Beyond the Spider-Verse (upcoming, 2027).",
+  "note": null,
+  "source": "marvel"
+}

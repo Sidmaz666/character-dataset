@@ -1,0 +1,455 @@
+{
+  "name": "Jason Todd",
+  "native_name": "ジェイソン・トッド",
+  "full_name": "Jason Peter Todd",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 183,
+    "weight_kg": 84,
+    "age": "Late teens to early 20s",
+    "birthday": "Dec 16",
+    "zodiac": "Sagittarius",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 25.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "White streak in hair",
+      "Red Hood mask",
+      "Angry demeanor",
+      "Muscular build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Gotham City",
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vigilante",
+    "secondary": "Anti-Hero",
+    "rank_title": "Red Hood",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Outlaws",
+      "Batman Family (sometimes)"
+    ],
+    "previous": [
+      "Batman Family (Robin)",
+      "League of Assassins"
+    ],
+    "relatives": [
+      "Bruce Wayne (adoptive father)",
+      "Catherine Todd (mother)",
+      "Willis Todd (father)",
+      "Dick Grayson (adoptive brother)",
+      "Tim Drake (adoptive brother)",
+      "Damian Wayne (adoptive brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman #357 (March 1983)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Martial Artist",
+      "native_name": null,
+      "description": "Trained by Batman and the League of Assassins. Proficient in Krav Maga, Boxing, Ninjutsu, and multiple fighting styles.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Firearms Expert",
+      "native_name": null,
+      "description": "Expert marksman with pistols, rifles, and various firearms. Combines guns with hand-to-hand combat seamlessly.",
+      "type": "Weapon",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Ammunition"
+    },
+    {
+      "name": "Enhanced Physiology",
+      "native_name": null,
+      "description": "Resurrected via Lazarus Pit granting enhanced strength, endurance, and healing. Minor mystical enhancements from the Pit.",
+      "type": "Buff",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Master Strategist",
+      "native_name": null,
+      "description": "Trained in tactical warfare and criminal underworld operations by both Batman and the League of Assassins.",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 83,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Red Hood Barrage",
+    "Dual Pistol Assault",
+    "Outlaw Brawler"
+  ],
+  "ultimate_move": "Red Reckoning (Full combat with firearms and martial arts)",
+  "trump_card": "Lethal Combat Training + Lazarus Pit Enhancement",
+  "power_attributes": {
+    "power_type": "Peak Human (Enhanced)",
+    "power_source": "Training + Lazarus Pit",
+    "combat_style": [
+      "Firearms",
+      "Martial Arts",
+      "Street Fighting",
+      "Ninjutsu"
+    ],
+    "weapon": "Dual Pistols",
+    "equipment": [
+      "Red Hood Helmet",
+      "Body Armor",
+      "Custom Pistols",
+      "Knives",
+      "Explosives",
+      "Grapple Gun"
+    ],
+    "trump_card": "Lethal Combat Training + Lazarus Pit Enhancement",
+    "ultimate_move": "Red Reckoning (Full combat with firearms and martial arts)"
+  },
+  "personality": {
+    "traits": [
+      "Rebellious",
+      "Angry",
+      "Determined",
+      "Loyal to allies",
+      "Reckless",
+      "Anti-heroic",
+      "Protective"
+    ],
+    "likes": [
+      "Justice through force",
+      "Guns",
+      "The Outlaws",
+      "Roy Harper",
+      "Starfire"
+    ],
+    "dislikes": [
+      "Batman moral code",
+      "Joker (especially)",
+      "Criminals who harm children",
+      "Being underestimated"
+    ],
+    "fear": "Being forgotten or replaced",
+    "dream": "Clean up Gotham streets permanently (by any means necessary)",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Reckless"
+    ]
+  },
+  "character": {
+    "arc": "Second Robin killed by Joker, resurrected by Lazarus Pit. Became Red Hood — an anti-hero who kills criminals. Struggles with identity and morality. Eventually reconciles somewhat with the Bat-Family.",
+    "motivation": "Eliminate crime through lethal force, honor his own sense of justice",
+    "affinity": "Guns",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Second Robin",
+    "Survived Joker attack",
+    "Resurrected from death",
+    "Formed the Outlaws",
+    "Reconciled with Bat-Family"
+  ],
+  "titles": [
+    "Red Hood",
+    "Robin (formerly)",
+    "Arkham Knight (alternate universe)"
+  ],
+  "bounty": {
+    "amount": "$1,000,000",
+    "currency": "USD",
+    "details": "Wanted by various criminal organizations"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 75,
+    "speed": 80,
+    "durability": 72,
+    "power": 70,
+    "combat": 92,
+    "total": 467
+  },
+  "weaknesses": {
+    "list": [
+      "Anger issues",
+      "Trauma from death",
+      "Emotional instability"
+    ],
+    "factors": [
+      "Joker-related trauma triggers"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Joker",
+    "allies": [
+      "Roy Harper (Arsenal)",
+      "Starfire",
+      "Batman (strained)",
+      "Dick Grayson",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Adoptive father (strained)",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Dick Grayson (Nightwing)",
+        "relationship": "Adoptive brother (rivalry)",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Joker",
+      "Black Mask",
+      "Penguin",
+      "Various crime lords"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Joker",
+        "relationship": "His killer and lifelong enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Starfire (formerly)",
+    "best_friend": "Roy Harper (Arsenal)",
+    "rival": "Dick Grayson (Nightwing)",
+    "mentor": "Bruce Wayne (Batman)",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Roy Harper (Arsenal)",
+      "Starfire",
+      "Batman (strained)",
+      "Dick Grayson",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Joker",
+      "Dick Grayson (Nightwing)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Dick Grayson"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Roy Harper",
+      "Starfire",
+      "Batman",
+      "Dick Grayson",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Bruce Wayne"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Joker",
+      "result": "Variable",
+      "method": "Firearms and hand-to-hand combat"
+    },
+    {
+      "opponent": "Batman",
+      "result": "Loss (reconciled)",
+      "method": "Emotional and physical combat"
+    }
+  ],
+  "quotes": [
+    "I am not Robin anymore. I am my own man.",
+    "Batman lets them live. I do not.",
+    "You want to know why I am better than you, Bruce? Because I am willing to do what is necessary."
+  ],
+  "voice_acting": {
+    "native_language": "Jensen Ackles (English)",
+    "english": "Jensen Ackles",
+    "note": "Known for Under the Red Hood animated film",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues as the anti-hero Red Hood",
+    "transformation": "Lazarus Pit resurrection",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Robin",
+      "Death",
+      "Red Hood",
+      "Arkham Knight (alternate)",
+      "Outlaw Leader"
+    ],
+    "role_in_story": "Major Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Red Hood Motorcycle"
+    ],
+    "vehicles": [
+      "Red Hood Motorcycle"
+    ],
+    "headquarters": "Gotham City (mobile)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "dbe0a195a75a7d8c1b21a38bf59aec17",
+  "publisher": "dc",
+  "about": "Jason Peter Todd is a fictional character appearing in American comic books published by DC Comics. First appearing in Batman #357 in March 1983, he was created to succeed Dick Grayson as Robin, Batman's partner and sidekick. He initially shared a similar origin to Grayson, being the son of circus acrobats who were killed by criminals in Gotham (Dick's were killed by a local mob boss who sabotaged their trapeze while Jason's parents were killed by Killer Croc) and adopted by Bruce Wayne, Batman's alter ego, as his son and protégé. Following the Crisis on Infinite Earths event and the rebooting of DC's main comics universe, Jason's origin was changed to being a pre-teen street urchin and petty thief whom Bruce adopted and mentored after finding the boy attempting to steal the tires off the Batmobile. This origin has since become the standard for subsequent iterations of the character.\nFollowing Max Allan Collins's revamping of Todd's origin story in Batman #408–411, the character was written by Jim Starlin, who had him become increasingly aggressive and reckless. This led DC Comics to conduct a telephone poll concerning the 1988 storyline \"A Death in the Family\" to determine whether the character should die at the Joker's hands. The poll ended with a narrow majority of votes in favor of killing Todd, resulting in his death. Subsequent stories dealt with Batman's guilt over failing to save him. The character was resurrected in the 2005 \"Under the Hood\" story arc, which saw him become a murderous villain known as the Red Hood. In the current New 52/DC Rebirth continuity, Todd is a more nuanced antihero who maintains a tense, albeit partially mended, relationship with Batman and has been accepted as a full member of the Batman family.\nTodd has made several appearances as Robin and Red Hood in other forms of media outside of comics, including television series, films, and video games. The 2015 game Batman: Arkham Knight reimagined Todd resurfacing with a new villain identity, the Arkham Knight, after being trapped in Arkham Asylum for years and tortured by the Joker, who conditioned him to despise and turn on his former mentor before assuming the Red Hood identity near the end of the game.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,396 @@
+{
+  "id": "4d3c0676d1b26477faf0be08a933ec36",
+  "name": "Hiro Nakamura",
+  "native_name": "中村広",
+  "full_name": "Hiro Nakamura",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Evolved Human",
+    "race": null,
+    "bloodline": "Nakamura family",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "24",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Sword",
+      "Always carries katana"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo, Japan",
+    "current_location": "Various",
+    "base_of_operations": "Yamagato Industries",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Computer Programmer",
+    "secondary": "Time-space manipulator",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Various heroes"
+    ],
+    "previous": [
+      "Yamagato Industries"
+    ],
+    "relatives": [
+      "Kaito Nakamura (father)",
+      "Kimiko Nakamura (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Heroes TV Series (2006)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Time Travel",
+      "native_name": null,
+      "description": "Travel through time to any point",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Teleportation",
+      "native_name": null,
+      "description": "Instantly transport anywhere",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Time Stop/Freeze",
+      "native_name": null,
+      "description": "Freeze time while moving freely",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Local",
+      "limit": "Requires intense focus"
+    },
+    {
+      "name": "Space Folding",
+      "native_name": null,
+      "description": "Bend space to teleport people/objects",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Requires power"
+    }
+  ],
+  "signature_moves": [
+    "Time freeze",
+    "Time travel",
+    "Teleport bomb"
+  ],
+  "ultimate_move": "Space-Time Mastery",
+  "trump_card": "Full Time Control",
+  "power_attributes": {
+    "power_type": "Space-time manipulation",
+    "power_source": "Genetic mutation",
+    "combat_style": [
+      "Sword fighting",
+      "Time manipulation"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "8th Wonders comic"
+    ],
+    "trump_card": "Full Time Control",
+    "ultimate_move": "Space-Time Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Nerdy",
+      "Excitable",
+      "Brave",
+      "Otaku"
+    ],
+    "likes": [
+      "Comics",
+      "Being hero",
+      "Saving people"
+    ],
+    "dislikes": [
+      "Giving up",
+      "Evil"
+    ],
+    "fear": "Failing to save the world",
+    "dream": "Be like comic book heroes",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Otaku who discovered real powers, became true hero",
+    "motivation": "Save the world like his comics",
+    "affinity": "Time/Space",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world multiple times",
+    "Defeated Sylar",
+    "Mastered time powers",
+    "Became company CEO"
+  ],
+  "titles": [
+    "The Time Traveler",
+    "Yamagato CEO"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 60,
+    "speed": 95,
+    "durability": 60,
+    "power": 100,
+    "combat": 70,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Power overuse causes nosebleeds",
+      "Headaches"
+    ],
+    "factors": "Using powers drains energy"
+  },
+  "relationships": {
+    "nemesis": "Sylar",
+    "allies": [
+      "Ando Masahashi",
+      "Claire Bennet",
+      "Peter Petrelli"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ando Masahashi",
+        "relationship": "Best friend",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Sylar",
+      "Arthur"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Sylar",
+        "relationship": "Main enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Claire Bennet",
+    "best_friend": "Ando Masahashi",
+    "rival": null,
+    "mentor": "Kaito Nakamura",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ando Masahashi",
+      "Claire Bennet",
+      "Peter Petrelli"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sylar"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ando Masahashi",
+      "Claire Bennet",
+      "Peter Petrelli"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kaito Nakamura"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Sylar",
+      "result": "Victory",
+      "method": "Stabbed in the past"
+    },
+    {
+      "opponent": "Arthur",
+      "result": "Defeat",
+      "method": "Lost powers temporarily"
+    }
+  ],
+  "quotes": [
+    "I am the most powerful being in the universe.",
+    "I can bend time like on Star Trek!"
+  ],
+  "voice_acting": {
+    "native_language": "Masi Oka",
+    "english": "Masi Oka",
+    "note": "Portrayed by Masi Oka",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues hero work",
+    "transformation": "N/A",
+    "awakening_potential": "Could master all time",
+    "power_evolution": [
+      "Weak user",
+      "Master of time"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Yamagato Industries",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "nbc_heroes",
+  "about": "Hiro Nakamura  is a fictional superhero on the NBC superhero drama Heroes who possesses the ability of space-time manipulation, allowing him to alter the flow of time, teleport and time travel. In the show, he is portrayed by Japanese actor Masi Oka.",
+  "note": null,
+  "source": "nbc_heroes"
+}

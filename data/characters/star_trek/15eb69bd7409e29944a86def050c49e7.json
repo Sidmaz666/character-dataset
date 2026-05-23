@@ -1,0 +1,408 @@
+{
+  "id": "15eb69bd7409e29944a86def050c49e7",
+  "name": "T'Pol",
+  "native_name": null,
+  "full_name": "T'Pol",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Vulcan",
+    "race": "Vulcan",
+    "bloodline": "T'Pol",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "age": "124 when on Enterprise",
+    "birthday": "Unknown, around 2260",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Olive",
+    "notable_features": [
+      "Vulcan ears",
+      "Slanted eyebrows",
+      "Green-tinged skin"
+    ],
+    "skin": "Olive",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vulcan",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (NX-01)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Science Officer",
+    "secondary": "SubCommander",
+    "rank_title": "SubCommander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Vulcan Expeditionary Group"
+    ],
+    "previous": [
+      "Vulcan High Command"
+    ],
+    "relatives": [
+      "Koss (fiancé, former)",
+      "T'Les (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Enterprise (2001) - \"Broken Bow\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mind Meld",
+      "native_name": "Tal-tor shon",
+      "description": "Can connect minds with others",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short",
+      "limit": "Requires physical contact"
+    },
+    {
+      "name": "Vulcan Science",
+      "native_name": null,
+      "description": "Advanced scientific knowledge",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Limited by available tech"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": null,
+      "description": "Minor telepathic abilities",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Medium",
+      "limit": "Less than full Betazeds"
+    }
+  ],
+  "signature_moves": [
+    "Vulcan Logic",
+    "Mind Meld",
+    "Scientific Analysis"
+  ],
+  "ultimate_move": "Mind Meld with the Ship",
+  "trump_card": "Vulcan Nerve Stimulation",
+  "power_attributes": {
+    "power_type": "Psionic/Science",
+    "power_source": "Vulcan Training",
+    "combat_style": [
+      "Vulcan Martial Arts",
+      "Mind Combat"
+    ],
+    "weapon": "Phase Pistol",
+    "equipment": [
+      "Tricorder"
+    ],
+    "trump_card": "Vulcan Nerve Stimulation",
+    "ultimate_move": "Mind Meld with the Ship"
+  },
+  "personality": {
+    "traits": [
+      "Logical",
+      "Reserved",
+      "Skeptical",
+      "Eventually Caring",
+      "Pragmatic"
+    ],
+    "likes": [
+      "Science",
+      "Logic",
+      "Archer (eventually)"
+    ],
+    "dislikes": [
+      "Emotional Decisions",
+      "Human Inefficiency",
+      "Illicit Substances"
+    ],
+    "fear": "Losing Her Rationality",
+    "dream": "Proving Vulcans Right About Humanity",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Mind Meld",
+      "Vulcan Science",
+      "Telepathy"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From skeptical Vulcan observer to committed crew member with Archer",
+    "motivation": "Proving Vulcan concerns about humanity wrong",
+    "affinity": "Science",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Served as first Vulcan on human starship",
+    "Helped establish Earth-Vulcan alliance",
+    "Assisted in founding the Federation",
+    "Worked through addiction to Trellium-D",
+    "Helped cure Phlox's people"
+  ],
+  "titles": [
+    "SubCommander",
+    "Science Officer",
+    "The Vulcan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 70,
+    "speed": 72,
+    "durability": 75,
+    "power": 72,
+    "combat": 75,
+    "total": 454
+  },
+  "weaknesses": {
+    "list": [
+      "Trellium-D Addiction",
+      "Emotional Growth Issues",
+      "Pride"
+    ],
+    "factors": [
+      "Used too much Trellium-D",
+      "Had to leave Enterprise once"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Xindi (indirect)",
+    "allies": [
+      "Jonathan Archer",
+      "Trip Tucker",
+      "Malcolm Reed"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jonathan Archer",
+        "relationship": "Captain and close friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Trip Tucker",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Xindi",
+      "Temporal Agents"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Jonathan Archer, Koss (former)",
+    "best_friend": "Trip Tucker",
+    "rival": "None",
+    "mentor": "Various Vulcans",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jonathan Archer",
+      "Trip Tucker",
+      "Malcolm Reed"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Xindi (indirect)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jonathan Archer",
+      "Trip Tucker",
+      "Malcolm Reed"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various Vulcans"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Xindi",
+      "result": "Victory",
+      "method": "Supported Archer"
+    },
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Science and mind melds"
+    }
+  ],
+  "quotes": [
+    "Humans are capable of achieving great things.",
+    "I am not the first officer. I am merely science officer.",
+    "Logic does not preclude emotion. It is not my enemy."
+  ],
+  "voice_acting": {
+    "native_language": "Jolene Blalock",
+    "english": "Jolene Blalock",
+    "note": "Played dual roles as T'Pol and alternate timeline version",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continued service, eventually married and had children",
+    "transformation": "Found her own path between logic and emotion",
+    "awakening_potential": "Achieved peace with human relationships",
+    "power_evolution": [
+      "Vulcan Diplomat",
+      "Science Officer",
+      "Married Vulcan"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (NX-01)"
+    ],
+    "vehicles": [
+      "Shuttlepod"
+    ],
+    "headquarters": "USS Enterprise Science Lab",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "T'Pol is a fictional character in the Star Trek franchise. Portrayed by Jolene Blalock in the series Star Trek: Enterprise, she is a Vulcan who serves as the science officer aboard the starship Enterprise (NX-01). She appeared in all 98 episodes of \"Enterprise\" and reprised her role in one episode of Star Trek: Lower Decks.",
+  "note": null,
+  "source": "star_trek"
+}

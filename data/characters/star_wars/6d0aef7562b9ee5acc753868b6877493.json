@@ -1,0 +1,413 @@
+{
+  "id": "6d0aef7562b9ee5acc753868b6877493",
+  "name": "Han Solo",
+  "native_name": null,
+  "full_name": "Han Solo",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": "Solo family",
+    "height_cm": 180,
+    "weight_kg": 85,
+    "age": "Born 32 BBY, Died 34 ABY",
+    "birthday": "December 17",
+    "zodiac": "Sagittarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 26.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Vest",
+      "Blaster pistol",
+      "Smuggler's outfit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Corellia",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Millennium Falcon",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Smuggler",
+    "secondary": "Pilot",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rebel Alliance"
+    ],
+    "previous": [
+      "Imperial Navy"
+    ],
+    "relatives": [
+      "Ben Solo (son)",
+      "Jaina Solo (daughter)",
+      "Anakin Solo (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode IV - A New Hope (1977)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Piloting",
+      "native_name": null,
+      "description": "Expert pilot and smuggler",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Blasters",
+      "native_name": null,
+      "description": "Expert marksman",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Tactics",
+      "native_name": null,
+      "description": "Combat tactics",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Mechanics",
+      "native_name": null,
+      "description": "Ship repair",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Touch",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Quick draw",
+    "Evasion"
+  ],
+  "ultimate_move": "Kessel Run",
+  "trump_card": "The Falcon",
+  "power_attributes": {
+    "power_type": "Skill",
+    "power_source": "Experience",
+    "combat_style": [
+      "Gunslinger"
+    ],
+    "weapon": "Blaster",
+    "equipment": [
+      "DL-44 pistol",
+      "Millennium Falcon"
+    ],
+    "trump_card": "The Falcon",
+    "ultimate_move": "Kessel Run"
+  },
+  "personality": {
+    "traits": [
+      "Cynical",
+      "Cocky",
+      "Loyal",
+      "Selfish (initially)"
+    ],
+    "likes": [
+      "Money",
+      "The Falcon",
+      "Adventure"
+    ],
+    "dislikes": [
+      "Authority",
+      "Imperial government"
+    ],
+    "fear": "Commitment",
+    "dream": "Be his own boss",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cynical",
+      "Selfish"
+    ]
+  },
+  "character": {
+    "arc": "Selfish smuggler to hero",
+    "motivation": "Profit",
+    "affinity": "Neutral",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Made the Kessel Run",
+    "Helped destroy Death Star",
+    "Befriended Chewbacca"
+  ],
+  "titles": [
+    "Captain",
+    "General"
+  ],
+  "bounty": {
+    "amount": 17000,
+    "currency": "Credits",
+    "details": "Wanted by Empire"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 65,
+    "speed": 85,
+    "durability": 70,
+    "power": 50,
+    "combat": 85,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Greed",
+      "Commitment issues"
+    ],
+    "factors": [
+      "Solo lifestyle"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Jabba the Hutt",
+    "allies": [
+      "Chewbacca",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Chewbacca",
+        "relationship": "First mate",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Leia Organa",
+        "relationship": "Wife",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Empire",
+      "Jabba"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Jabba the Hutt",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Leia Organa",
+    "best_friend": "Chewbacca",
+    "rival": "Lando Calrissian",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Chewbacca",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Jabba the Hutt",
+      "Lando Calrissian"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Lando Calrissian"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Chewbacca",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormtroopers",
+      "result": "Victory",
+      "method": "Combat"
+    },
+    {
+      "opponent": "Greedo",
+      "result": "Victory",
+      "method": "Quick draw"
+    }
+  ],
+  "quotes": [
+    "I have a bad feeling about this",
+    "Never tell me the odds",
+    "Hokey religions"
+  ],
+  "voice_acting": {
+    "native_language": "Harrison Ford",
+    "english": "Harrison Ford",
+    "note": "Original actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Kylo Ren",
+    "transformation": "Rebel hero",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Street rat",
+      "Smuggler",
+      "Rebel hero"
+    ],
+    "role_in_story": "Supporting protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Millennium Falcon"
+    ],
+    "vehicles": [
+      "Landspeeder"
+    ],
+    "headquarters": "Millennium Falcon",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Han Solo is a fictional character in the Star Wars franchise. He first appeared in the original Star Wars film (1977) and its novelization (1976). He later appeared in the films The Empire Strikes Back (1980), Return of the Jedi (1983), The Force Awakens (2015), and The Rise of Skywalker (2019); he is portrayed by Harrison Ford in all five of these films. In Solo: A Star Wars Story (2018), a younger version of the character is played by Alden Ehrenreich. In the animated web series Forces of Destiny (2017–2018), Solo is voiced by A. J. LoCascio and Kiff VandenHeuvel. Ford was nominated for the Saturn Award for Best Actor for his portrayal of Solo in Star Wars, and won the award for his performance in The Force Awakens.",
+  "note": null,
+  "source": "star_wars"
+}

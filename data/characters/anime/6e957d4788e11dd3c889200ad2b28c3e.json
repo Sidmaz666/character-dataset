@@ -1,0 +1,399 @@
+{
+  "id": "6e957d4788e11dd3c889200ad2b28c3e",
+  "name": "Ochaco Uraraka",
+  "native_name": "麗日お茶子",
+  "full_name": "Ochaco Uraraka",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human (Quirk user)",
+    "bloodline": "Uraraka Family",
+    "height_cm": 156,
+    "weight_kg": 46,
+    "age": "15-16",
+    "birthday": "December 27",
+    "zodiac": "Capricorn",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 18.9,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown bob hair",
+      "Pink cheeks",
+      "Hero costume",
+      "Cute expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Hero-in-training",
+    "rank_title": "Class 1-A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "U.A. High",
+      "Class 1-A"
+    ],
+    "previous": [],
+    "relatives": [
+      "Uraraka family"
+    ]
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia Episode 1",
+    "manga": "My Hero Academia Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zero Gravity",
+      "native_name": "無重力",
+      "description": "Can make objects weightless by touching them with fingertips.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Touch",
+      "limit": "Nausea from overuse"
+    },
+    {
+      "name": "Floating",
+      "native_name": "浮遊",
+      "description": "Can float herself and others in zero gravity state.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "Time limit"
+    },
+    {
+      "name": "Meteor Strike",
+      "native_name": "流星雨",
+      "description": "Drops heavy objects from height with zero gravity for devastating impact.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Objects needed"
+    }
+  ],
+  "signature_moves": [
+    "Zero Gravity",
+    "Floating",
+    "Meteor Strike"
+  ],
+  "ultimate_move": "Zero Gravity Release",
+  "trump_card": "Unlimited float",
+  "power_attributes": {
+    "power_type": "Quirk",
+    "power_source": "Zero Gravity",
+    "combat_style": [
+      "Grappling",
+      "Zero-G"
+    ],
+    "weapon": "Zero gravity",
+    "equipment": [
+      "Hero costume"
+    ],
+    "trump_card": "Unlimited float",
+    "ultimate_move": "Zero Gravity Release"
+  },
+  "personality": {
+    "traits": [
+      "Cheerful",
+      "Kind",
+      "Determined",
+      "Optimistic",
+      "Caring",
+      "Brave"
+    ],
+    "likes": [
+      "Deku",
+      "Mochi",
+      "Helping others",
+      "Space"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Losing friends",
+      "Being weak"
+    ],
+    "fear": "Failing parents",
+    "dream": "Become pro hero, support family",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Heavy"
+    ]
+  },
+  "character": {
+    "arc": "Uraraka joins U.A. to become hero and support her struggling family. Develops feelings for Deku. Becomes stronger hero.",
+    "motivation": "Become pro hero, help family",
+    "affinity": "Pink/Zero-G",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "U.A. student",
+    "Sports Festival participant",
+    "Provisional license"
+  ],
+  "titles": [
+    "Zero Gravity Hero",
+    "Uraraka"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 65,
+    "speed": 75,
+    "durability": 70,
+    "power": 82,
+    "combat": 78,
+    "total": 445
+  },
+  "weaknesses": {
+    "list": [
+      "Motion sickness",
+      "Emotional",
+      "Physical strength"
+    ],
+    "factors": [
+      "Overuse nausea"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Deku",
+      "Iida",
+      "Bakugo",
+      "Todoroki"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Izuku Midoriya",
+        "relationship": "Crush/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Shigaraki",
+      "All For One"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Deku",
+    "best_friend": "Deku/Iida",
+    "rival": "None",
+    "mentor": "Thirteen",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Deku",
+      "Iida",
+      "Bakugo",
+      "Todoroki",
+      "Deku/Iida"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Deku",
+      "Iida",
+      "Bakugo",
+      "Todoroki",
+      "Deku/Iida"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Thirteen"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Bakugo",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Shigaraki",
+      "result": "Ongoing",
+      "method": "Zero Gravity"
+    }
+  ],
+  "quotes": [
+    "I'll do my best!",
+    "Deku-kun!",
+    "Plus Ultra!"
+  ],
+  "voice_acting": {
+    "native_language": "Ayane Sakura (Japanese)",
+    "note": "Cheerful, cute",
+    "native_name": null,
+    "english": "Luci Christian",
+    "japanese": "Ayane Sakura"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Training to be hero",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Student",
+      "Hero",
+      "Zero-G master",
+      "Pro"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "U.A. High",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15\nBirthday: December 27\nBlood Type: B\nHeight: 156 cm (5'1\")\nAffiliation: U.A.\nQuirk: Zero Gravity\n\nOchako is Izuku's best friend. Her Quirk is Zero Gravity which allows her to make any object she touches with her fingertips float, although she will become nauseous if she uses the ability too much. Aside from Katsuki, she also refers to Izuku as \"Deku\" but unlike the former, she calls him this nickname out of affection, commenting that \"Deku\" gives the vibe of never giving up. She eventually switches to Deku-kun a move that prompted him to accept the name. She comes from a family of construction workers, and because there is not much of a market for them, they are poor. Due to this, Ochako aspires to become a hero for money so she can give her parents an easy life. Ochako originally meets Izuku prior to Yuuei's entrance exam, after she stops him from falling over after he tripped on his own foot. This caused Izuku to develop a large crush on her (as he had \"talked\" to a girl), to the point of blushing and stammering every time he is with her. Izuku eventually returns the favor by saving her during the entrance exam, and Yuuga later deduces that Ochako returns Izuku's feelings, despite her attempts to deny this.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

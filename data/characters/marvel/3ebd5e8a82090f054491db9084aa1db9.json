@@ -1,0 +1,403 @@
+{
+  "id": "3ebd5e8a82090f054491db9084aa1db9",
+  "name": "Odin",
+  "native_name": null,
+  "full_name": "Odin Borson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Asgardian God",
+    "race": "Asgardian",
+    "bloodline": "Odinsons",
+    "height_cm": 198,
+    "weight_kg": 500,
+    "age": "5000+",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 127.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Asgard",
+    "current_location": null,
+    "base_of_operations": "City of Asgard, Asgard",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Deity, Monarch of Asgard, Asgardian God of the Sky, Wind, Wisdom, Crafts, Time, and the Dead, Warrior",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Asgardians",
+      "Council of Godheads"
+    ],
+    "previous": [],
+    "relatives": [
+      "Buri (Tiwaz) (paternal grandfather)",
+      "Bolthorn (maternal grandfather)",
+      "Bor Burison (father",
+      "deceased)",
+      "Bestla (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Journey into Mystery #85",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Odinforce",
+      "native_name": null,
+      "description": "Mystical power of Asgard's rulers granting godlike abilities",
+      "type": "Passive",
+      "tier": "Omega",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": "Can be depleted"
+    },
+    {
+      "name": "Godlike Strength",
+      "native_name": null,
+      "description": "Lifts over 100 tons",
+      "type": "Attack",
+      "tier": "Omega",
+      "power_level": 98,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Mystic Magic",
+      "native_name": null,
+      "description": "Asgardian magic: teleportation, energy projection, reality alteration",
+      "type": "Attack",
+      "tier": "Omega",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": "Requires Odinforce"
+    },
+    {
+      "name": "Wisdom and Knowledge",
+      "native_name": null,
+      "description": "Vast knowledge of Nine Realms, sacrificed an eye for wisdom",
+      "type": "Passive",
+      "tier": "Omega",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Asgardian god, does not age",
+      "type": "Passive",
+      "tier": "Omega",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Can be killed in battle"
+    }
+  ],
+  "signature_moves": [
+    "Odin's Judgment",
+    "All-Father's Wrath",
+    "Gungnir Strike"
+  ],
+  "ultimate_move": "Odinforce Unleashed",
+  "trump_card": "Odinforce",
+  "power_attributes": {
+    "power_type": "Godly",
+    "power_source": "Odinforce + Asgardian",
+    "combat_style": [
+      "Magic",
+      "Spear",
+      "Strategy"
+    ],
+    "weapon": "Gungnir",
+    "equipment": [
+      "Odin's throne"
+    ],
+    "trump_card": "Odinforce",
+    "ultimate_move": "Odinforce Unleashed"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Authoritative",
+      "Protective",
+      "Cunning",
+      "Stern"
+    ],
+    "likes": [
+      "Watching over Asgard",
+      "His children"
+    ],
+    "dislikes": [
+      "Disobedience",
+      "Threats to Asgard"
+    ],
+    "fear": "Losing Asgard",
+    "dream": "Protect the Nine Realms",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "The All-Father of Asgard, father of Thor and Hela, wise but harsh ruler who sacrificed greatly",
+    "motivation": "Protect Asgard and the Nine Realms",
+    "affinity": "Wisdom/Authority",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Ruled Asgard for millennia",
+    "Defeated Surtur",
+    "Created the Odinforce"
+  ],
+  "titles": [
+    "All-Father",
+    "King of Asgard",
+    "God of Wisdom"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 80,
+    "durability": 100,
+    "power": 100,
+    "combat": 95,
+    "total": 575
+  },
+  "weaknesses": {
+    "list": [
+      "Odinsleep recovery period",
+      "Pride"
+    ],
+    "factors": "Must enter Odinsleep"
+  },
+  "relationships": {
+    "nemesis": "Surtur",
+    "allies": [
+      "Thor",
+      "Frigga",
+      "Heimdall"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Surtur",
+      "Hela",
+      "Malekith"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Frigga (wife)",
+    "best_friend": "Vili and Ve (brothers)",
+    "rival": "Zeus",
+    "mentor": "Mimir",
+    "student": "Thor",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Thor",
+      "Frigga",
+      "Heimdall",
+      "Vili and Ve (brothers)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Surtur",
+      "Zeus"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Bestla"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Bestla"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Zeus"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Thor"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Thor",
+      "Frigga",
+      "Heimdall",
+      "Vili and Ve"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Mimir"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Surtur",
+      "result": "Victory",
+      "method": "Odinforce"
+    },
+    {
+      "opponent": "Laufey",
+      "result": "Victory",
+      "method": "Killed Laufey"
+    }
+  ],
+  "quotes": [
+    "The wise king seeks not war, but must prepare for it always."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Dead (varies)",
+    "fate": "Ragnarok cycles",
+    "transformation": "N/A",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "City of Asgard, Asgard",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Odin (; from Old Norse: Óðinn) is a widely revered god in Norse mythology and Germanic paganism. Most surviving information on Odin comes from Norse mythology, but he figures prominently in the recorded history of Northern Europe. This includes the Roman Empire's partial occupation of Germania (c. 2 BCE), the Migration Period (4th–6th centuries CE) and the Viking Age (8th–11th centuries CE). Consequently, Odin has hundreds of names and titles. Several of these stem from the reconstructed Proto-Germanic theonym Wōðanaz, meaning \"lord of frenzy\" or \"leader of the possessed\", which may relate to the god's strong association with poetry. \nMost mythological stories about Odin survive from the 13th-century Prose Edda and an earlier collection of Old Norse poems, the Poetic Edda, along with other Old Norse items like Ynglinga saga. The Prose Edda and other sources depict Odin as the head of the pantheon, sometimes called the Æsir, and bearing a spear and a ring. Wider sources depict Odin as the son of Bestla and Borr; brother to Vili and Vé; and husband to the goddess Frigg, with whom he fathered Baldr. Odin has many other sons, including Thor, whom he sired with the earth-goddess Jörð. He is sometimes accompanied by animal familiars, such as the ravens Huginn and Muninn and the wolves Geri and Freki. The Prose Edda describes Odin and his brothers' creation of the world through slaying the primordial being Ymir, and his giving of life to the first humans Ask and Embla. Odin is often referred to as long-bearded, sometimes as an old man, and also as possessing only one eye, having sacrificed the other for wisdom. \nOdin is widely regarded as a god of the dead and warfare. In this role, he receives slain warriors—the einherjar—at Valhöll (\"Carrion-hall\" or \"Hall of the Slain\") in the realm of Asgard. The Poetic Edda associates him with Valkyries, perhaps as their leader. In the mythic future, Odin leads the einherjar at Ragnarök, where he is killed by the monstrous wolf Fenrir. Accounts by early travellers to Northern Europe describe human sacrifices being made to Odin. In Old English texts, Odin is euhemerized as an ancestral figure for royalty and is frequently depicted as a founding figure for various Germanic peoples, such as the Langobards. In some later folklore, he is a leader of the Wild Hunt, a ghostly procession of the dead. \nOdin has an attested history spanning over a thousand years. He is an important subject of interest to Germanic scholars. Some scholars consider the god's relations to other figures—as reflected, for example in the etymological similarity of his name to the name of Freyja's husband Óðr. Others discuss his historical lineage, exploring whether he derives from Proto-Indo-European mythology or developed later in Germanic society. In modern times, most forms of the new religious movement Heathenry venerate him; in some, he is the central deity. The god regularly features across all forms of modern media, especially genre fiction, and—alongside others in the Germanic pantheon—has lent his name to a day of the week, Wednesday, in many languages.",
+  "note": null,
+  "source": "marvel"
+}

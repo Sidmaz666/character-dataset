@@ -1,0 +1,366 @@
+{
+  "name": "Immortal Emperor",
+  "native_name": null,
+  "full_name": "Immortal Emperor",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Immortal",
+    "race": "Celestial",
+    "bloodline": null,
+    "height_cm": 190,
+    "weight_kg": 85,
+    "age": "Eternal",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gold",
+    "hair_color": "White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Imperial robe",
+      "Crown",
+      "Ancient wisdom"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Celestial Realm",
+    "current_location": "Celestial Realm",
+    "base_of_operations": "Imperial Palace",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Emperor",
+    "secondary": "Celestial Ruler",
+    "rank_title": "Immortal Emperor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Celestial Court"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Xianxia Anime",
+    "manga": "Manhua",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Immortality",
+      "type": "Racial",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self"
+    },
+    {
+      "name": "Celestial Magic",
+      "type": "Mystical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Universal"
+    },
+    {
+      "name": "Reality Manipulation",
+      "type": "Reality",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Universal"
+    },
+    {
+      "name": "Divine Authority",
+      "type": "Divine",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Universal"
+    }
+  ],
+  "signature_moves": [
+    "Imperial Decree",
+    "Celestial Judgment",
+    "Divine Suppression"
+  ],
+  "ultimate_move": "Heavenly Mandate",
+  "trump_card": "Absolute Immortality",
+  "power_attributes": {
+    "power_type": "Celestial/Divine",
+    "power_source": "Celestial Heritage",
+    "combat_style": [
+      "Divine",
+      "Overwhelming",
+      "Supreme"
+    ],
+    "weapon": "Divine Power",
+    "equipment": [
+      "Imperial regalia"
+    ],
+    "trump_card": "Absolute Immortality",
+    "ultimate_move": "Heavenly Mandate"
+  },
+  "personality": {
+    "traits": [
+      "Ancient",
+      "Wise",
+      "Detached",
+      "Benevolent (or cruel)",
+      "Omnipotent"
+    ],
+    "likes": [
+      "Order",
+      "Balance",
+      "The celestial realm"
+    ],
+    "dislikes": [
+      "Chaos",
+      "Rebellion",
+      "Mortal interference"
+    ],
+    "fear": "Nothing (truly immortal)",
+    "dream": "Eternal celestial peace",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": [
+      "Cruel"
+    ]
+  },
+  "character": {
+    "arc": "An immortal emperor ruling over the celestial realm. A god-like being with eternal life and supreme authority over the cosmos.",
+    "motivation": "Maintain celestial order",
+    "affinity": "Celestial/Divine",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Immortal rule",
+    "Cosmos governance"
+  ],
+  "titles": [
+    "Immortal Emperor",
+    "Celestial Ruler",
+    "Eternal One"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 95,
+    "total": 590
+  },
+  "weaknesses": {
+    "list": [
+      "Celestial laws",
+      "Pride",
+      "Detachment from mortals"
+    ],
+    "factors": [
+      "Bound by celestial law",
+      "Too powerful to be challenged"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Celestial Court"
+    ],
+    "enemies": [
+      "Chaos beings",
+      "Rebels"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Celestial Court"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Chaos beings",
+      "Rebels"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Celestial Court"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Chaos",
+      "result": "Victory",
+      "method": "Divine suppression"
+    }
+  ],
+  "quotes": [
+    "I have seen a million empires rise and fall. You are merely the next."
+  ],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active (Immortal)",
+    "fate": "Eternally ruling",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Mortal",
+      "Ascended",
+      "Immortal Emperor"
+    ],
+    "role": "Cosmic Being",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Omnipresence"
+    ],
+    "vehicles": [],
+    "headquarters": "Celestial Palace",
+    "story_importance": "Cosmic",
+    "note": null
+  },
+  "id": "338bf3916a7216d9166ad6de14eac54d",
+  "publisher": "anime",
+  "about": "Race: Human\nGender: Male\nOccupation: Superhero\nLevel: S-Class; Rank: 5\nAffiliation: Heroes Association\nDebut: Chapter 29\n\nChild Emperor is a young boy with large eyes. He wears a plain T-shirt with two buttons both of which are buttoned, along with a black school bag on his back.\n\nAs a genius, the Child Emperor values education, which can be seen when he mentions about going to cram school even after hearing about the Earth being in danger. He easily becomes infuriated when being labeled as childish by others. He is very analytical, observing the situation and formulating plans in a calm and collected manner.\n\n(Source: One Punch-Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

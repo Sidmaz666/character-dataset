@@ -1,0 +1,401 @@
+{
+  "id": "a6231d2717b8478f008802ba161b4e20",
+  "name": "Homelander",
+  "native_name": null,
+  "full_name": "John Vogelbaum",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Vogelbaum",
+    "height_cm": 190,
+    "weight_kg": 95,
+    "age": "Born 1986",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red cape"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought Facility, South Dakota",
+    "current_location": "United States",
+    "base_of_operations": "Tower, New York",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Leader of The Seven",
+    "rank_title": "Team Leader",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven",
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": [
+      "Ryan Butcher (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "greatest strength ever",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Heat Vision",
+      "native_name": null,
+      "description": "Energy beams from eyes",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "X-Ray Vision",
+      "native_name": null,
+      "description": "See through anything",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Unlimited",
+      "limit": "Lead"
+    },
+    {
+      "name": "Super Hearing",
+      "native_name": null,
+      "description": "Hear from miles away",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Nigh-Invulnerability",
+      "native_name": null,
+      "description": "Nearly indestructible",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Laser Eyes",
+    "Melting Glare"
+  ],
+  "ultimate_move": "Maximum Heat Vision",
+  "trump_card": "Full Power",
+  "power_attributes": {
+    "power_type": "Super Powers",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Flight combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Cape"
+    ],
+    "trump_card": "Full Power",
+    "ultimate_move": "Maximum Heat Vision"
+  },
+  "personality": {
+    "traits": [
+      "Psychopathic",
+      "Narcissistic",
+      "Manipulative",
+      "Violent"
+    ],
+    "likes": [
+      "Power",
+      "Adulation"
+    ],
+    "dislikes": [
+      "Being challenged"
+    ],
+    "fear": "Rejection",
+    "personality_type": "ENTJ",
+    "dream": "Total control",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Super Strength",
+      "Flight",
+      "Heat Vision",
+      "X-Ray Vision"
+    ],
+    "weaknesses": [
+      "Violent",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "False god persona",
+    "motivation": "Total control",
+    "affinity": "Power",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Led The Seven",
+    "Became America's hero"
+  ],
+  "titles": [
+    "Homelander",
+    "America's Hero",
+    "The God"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Too dangerous"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 100,
+    "speed": 95,
+    "durability": 95,
+    "power": 100,
+    "combat": 85,
+    "total": 565
+  },
+  "weaknesses": {
+    "list": [
+      "Novichok gas",
+      "Lead"
+    ],
+    "factors": [
+      "violent",
+      "manipulative"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Billy Butcher",
+    "allies": [
+      "The Seven"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "The Boys",
+      "Billy Butcher"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Billy Butcher",
+        "relationship": "Arch-enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Queen Maeve",
+    "best_friend": null,
+    "rival": "Stan Edgar",
+    "mentor": null,
+    "student": "Ryan Butcher",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Billy Butcher",
+      "Stan Edgar"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Stan Edgar"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ryan Butcher"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Billy Butcher",
+      "result": "Draw",
+      "method": "Temp V matched powers"
+    }
+  ],
+  "quotes": [
+    "I am the hero America deserves."
+  ],
+  "voice_acting": {
+    "native_language": "Antony Starr",
+    "english": "Antony Starr",
+    "note": "TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ruling as leader",
+    "transformation": "Full power",
+    "awakening_potential": "More brutal",
+    "power_evolution": [],
+    "role_in_story": "Main Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "John Gillman, better known as the Homelander, is a fictional character and the secondary antagonist of the comic book series The Boys, and the main antagonist of the media franchise of the same name created by Garth Ennis and Darick Robertson. He is depicted as a psychopathic and sadistic narcissist with a nihilistic and hedonistic worldview who serves as the extremely powerful leader of the Seven—a group of corrupt and hedonistic superheroes grown and funded by Vought-American—and is the archenemy of Billy Butcher. Beneath his public image as a noble hero, Homelander cares little about the well-being of those he professes to protect. Described as the living personification of how the world sees the United States, the character has received critical acclaim along with Antony Starr's portrayal in the series. Homelander has been compared to Superman and Captain America.",
+  "note": null,
+  "source": "the_boys"
+}

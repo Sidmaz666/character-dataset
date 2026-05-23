@@ -1,0 +1,413 @@
+{
+  "id": "a130da76e2a559835c05ab4c30e75e0a",
+  "name": "Nezuko Kamado",
+  "native_name": "竈門禰豆子",
+  "full_name": "Nezuko Kamado",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Demon",
+    "race": "Demon (formerly Human)",
+    "bloodline": "Kamado Family",
+    "height_cm": 153,
+    "weight_kg": 45,
+    "age": "12-14 (physically frozen)",
+    "birthday": "December 28",
+    "zodiac": "Capricorn",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": 19.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink",
+    "hair_color": "Black with orange tips",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bamboo muzzle",
+      "Pink kimono",
+      "Demon fangs",
+      "Small stature"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mount Kumotori",
+    "current_location": "Japan (Taisho era)",
+    "base_of_operations": "Demon Slayer Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon",
+    "secondary": "Tanjiro's protector",
+    "rank_title": "Demon",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps (ally)",
+      "Kamado Family"
+    ],
+    "previous": [],
+    "relatives": [
+      "Tanjiro (brother)",
+      "Kie (mother)",
+      "Tanjuro (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer Episode 1",
+    "manga": "Demon Slayer Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Blood Demon Art",
+      "native_name": "血鬼術",
+      "description": "Creates explosive pink flames from blood that can burn demons but not humans.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Mid",
+      "limit": "Blood supply"
+    },
+    {
+      "name": "Demon Strength",
+      "native_name": "怪力",
+      "description": "Superhuman strength capable of crushing demons and breaking boulders.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Sunlight weakness"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": "再生",
+      "description": "Can regenerate lost limbs and heal wounds rapidly.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "Time"
+    },
+    {
+      "name": "Size Manipulation",
+      "native_name": "体サイズ操作",
+      "description": "Can shrink to child size or grow to adult size for combat.",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": "Energy cost"
+    }
+  ],
+  "signature_moves": [
+    "Blood Demon Art",
+    "Demon kick",
+    "Protective rage"
+  ],
+  "ultimate_move": "Explosive Blood Flames",
+  "trump_card": "Humanity retention",
+  "power_attributes": {
+    "power_type": "Blood Demon Art",
+    "power_source": "Demon blood",
+    "combat_style": [
+      "Physical",
+      "Blood flames"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Bamboo muzzle"
+    ],
+    "trump_card": "Humanity retention",
+    "ultimate_move": "Explosive Blood Flames"
+  },
+  "personality": {
+    "traits": [
+      "Protective",
+      "Gentle",
+      "Fierce",
+      "Loyal",
+      "Innocent",
+      "Brave"
+    ],
+    "likes": [
+      "Tanjiro",
+      "Humans",
+      "Protecting others",
+      "Sweet potatoes"
+    ],
+    "dislikes": [
+      "Demons hurting humans",
+      "Separation from Tanjiro"
+    ],
+    "fear": "Hurting humans",
+    "dream": "Become human again, protect Tanjiro",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Loyal",
+      "Fierce"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Nezuko was turned into a demon but retained humanity. Protects humans while fighting demon instincts. Key to defeating Muzan.",
+    "motivation": "Protect Tanjiro, become human again",
+    "affinity": "Pink/Blood",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Resisted human flesh",
+    "Protected Tanjiro",
+    "Defeated Upper Moons"
+  ],
+  "titles": [
+    "Demon Sister",
+    "Chosen Demon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Demon"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 85,
+    "speed": 80,
+    "durability": 88,
+    "power": 90,
+    "combat": 75,
+    "total": 483
+  },
+  "weaknesses": {
+    "list": [
+      "Sunlight",
+      "Human memories fading",
+      "Blood demon art drain"
+    ],
+    "factors": [
+      "Tanjiro's safety"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Muzan, Upper Moons",
+    "allies": [
+      "Tanjiro",
+      "Zenitsu",
+      "Inosuke",
+      "Giyu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tanjiro Kamado",
+        "relationship": "Brother/protector",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Muzan",
+      "Upper Moons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Tanjiro",
+    "rival": "None",
+    "mentor": "Tanjiro",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tanjiro",
+      "Zenitsu",
+      "Inosuke",
+      "Giyu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Muzan, Upper Moons",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Nezuko (sister)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Nezuko (sister)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tanjiro",
+      "Zenitsu",
+      "Inosuke",
+      "Giyu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Tanjiro"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Rui",
+      "result": "Victory",
+      "method": "Blood Demon Art"
+    },
+    {
+      "opponent": "Daki",
+      "result": "Victory",
+      "method": "Explosive flames"
+    }
+  ],
+  "quotes": [
+    "Mmm!",
+    "Tanjiro!",
+    "Protect!"
+  ],
+  "voice_acting": {
+    "native_language": "Satomi Sato (Japanese)",
+    "note": "Muffled, determined",
+    "native_name": null,
+    "english": "Abby Trott",
+    "japanese": "Akari Kitō"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Cured, becomes human",
+    "transformation": "Demon form",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Human",
+      "Demon",
+      "Protector",
+      "Human again"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Demon Slayer HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 13 (at the start of the manga); 15 (after completing training with Sabito and Makomo)\nHeight: 165cm (5'4\")\nHair color: burgundy\nEye color: dark red\n\nTanjirou Kamado is the main protagonist of Kimetsu no Yaiba, who becomes a Demon Hunter and joins the Demon Killing Corps to hunt down the demon who murdered his family and turned his sister Nezuko into a demon.\n\nTanjirou is kind by nature and has been described by others as having very gentle eyes. He has a great deal of determination and will not give up once he has a goal to achieve, an example being finding a cure for Nezuko. Even though he is relatively strong on his own, he isn't opposed to asking others for help when he needs it. He is very protective of his friends and even more so of his younger sister. His biggest attribute is his ability to empathize with anyone, even demons.\n\n\n(Source: Kimetsu no Yaiba Wiki)",
+  "note": null,
+  "source": "anime"
+}

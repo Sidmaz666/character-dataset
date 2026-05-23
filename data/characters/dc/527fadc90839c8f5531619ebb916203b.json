@@ -1,0 +1,492 @@
+{
+  "id": "527fadc90839c8f5531619ebb916203b",
+  "name": "Reverse Flash",
+  "native_name": null,
+  "full_name": "Eobard Thawne",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Thawne family",
+    "height_cm": 188,
+    "weight_kg": 79,
+    "age": "Unknown (time traveler)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Yellow suit",
+      "Reverse lightning",
+      "Blond hair",
+      "Muscular build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "25th Century",
+    "current_location": "Various time periods",
+    "base_of_operations": "Various time periods",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supervillain",
+    "secondary": "Time traveler",
+    "rank_title": "Reverse Flash",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Secret Society of Super Villains"
+    ],
+    "previous": [
+      "Rogues",
+      "Legion of Doom"
+    ],
+    "relatives": [
+      "Unknown parents"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Flash #139 (September 1963)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Can move at speeds exceeding light, faster than Flash",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Negative Speed Force",
+      "native_name": null,
+      "description": "Draws power from the Negative Speed Force, granting enhanced abilities",
+      "type": "Power Source",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Negative Speed Force exhaustion"
+    },
+    {
+      "name": "Time Travel",
+      "native_name": null,
+      "description": "Can travel through time using super speed",
+      "type": "Temporal",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Time paradoxes"
+    },
+    {
+      "name": "Speed Stealing",
+      "native_name": null,
+      "description": "Can steal speed from other speedsters",
+      "type": "Power Theft",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Contact",
+      "limit": "Negative Speed Force exhaustion"
+    },
+    {
+      "name": "Time Manipulation",
+      "native_name": null,
+      "description": "Can manipulate time to some extent",
+      "type": "Temporal",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Negative Speed Force exhaustion"
+    },
+    {
+      "name": "Phasing",
+      "native_name": null,
+      "description": "Can vibrate molecules to pass through solid objects",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Contact",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Lightning Generation",
+      "native_name": null,
+      "description": "Can generate and project red lightning from Negative Speed Force",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Negative Speed Force exhaustion"
+    },
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "Brilliant scientist and tactician",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    }
+  ],
+  "signature_moves": [
+    "Negative Speed Force attacks",
+    "Time manipulation",
+    "Speed steal"
+  ],
+  "ultimate_move": "Full Negative Speed Force power",
+  "trump_card": "Time manipulation and speed",
+  "power_attributes": {
+    "power_type": "Negative Speed Force",
+    "power_source": "Negative Speed Force",
+    "combat_style": [
+      "Speed-based",
+      "Time manipulation",
+      "Vengeful"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Reverse Flash suit",
+      "Various gadgets"
+    ],
+    "trump_card": "Time manipulation and speed",
+    "ultimate_move": "Full Negative Speed Force power"
+  },
+  "personality": {
+    "traits": [
+      "Obsessive",
+      "Vengeful",
+      "Intelligent",
+      "Cruel",
+      "Determined"
+    ],
+    "likes": [
+      "Speed",
+      "Time travel",
+      "Tormenting Flash",
+      "Being faster",
+      "Revenge"
+    ],
+    "dislikes": [
+      "Flash",
+      "Being slower",
+      "Losing",
+      "Being stopped",
+      "Time paradoxes"
+    ],
+    "fear": "Being erased from existence, Losing to Flash, Being forgotten",
+    "dream": "To destroy Flash and become the fastest",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Obsessive",
+      "Vengeful",
+      "Cruel"
+    ]
+  },
+  "character": {
+    "arc": "Time traveler becoming Flash's greatest enemy through obsession and revenge",
+    "motivation": "To destroy Flash and prove his superiority",
+    "affinity": "Revenge",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Traveled through time",
+    "Created Flash's origin",
+    "Defeated Flash multiple times",
+    "Became Flash's greatest enemy",
+    "Caused major time disruptions"
+  ],
+  "titles": [
+    "Reverse Flash",
+    "Professor Zoom",
+    "Eobard Thawne",
+    "Zoom",
+    "The Reverse Flash"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Multiple life sentences, frequently escapes"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 50,
+    "speed": 100,
+    "durability": 70,
+    "power": 100,
+    "combat": 80,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Negative Speed Force exhaustion",
+      "Time paradoxes",
+      "Obsession with Flash",
+      "Mental instability"
+    ],
+    "factors": [
+      "Time manipulation consequences",
+      "Overconfidence",
+      "Emotional instability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Barry Allen",
+    "allies": [
+      "Various villains",
+      "Rogues"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rogues",
+        "relationship": "Fellow villains",
+        "trust_level": "Low"
+      },
+      {
+        "name": "Various villains",
+        "relationship": "Temporary allies",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Barry Allen",
+      "Wally West",
+      "Jay Garrick",
+      "Justice League"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Barry Allen",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Wally West",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      },
+      {
+        "name": "Jay Garrick",
+        "relationship": "Enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Barry Allen",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Various villains",
+      "Rogues"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Barry Allen"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Barry Allen"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Various villains",
+      "Rogues"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Barry Allen",
+      "result": "Various",
+      "method": "Time manipulation and speed"
+    },
+    {
+      "opponent": "Wally West",
+      "result": "Various",
+      "method": "Speed steal and time manipulation"
+    },
+    {
+      "opponent": "Justice League",
+      "result": "Various",
+      "method": "Time manipulation and strategy"
+    }
+  ],
+  "quotes": [
+    "I am the fastest man alive",
+    "Run, Barry, run",
+    "I will destroy you",
+    "Time is my weapon"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Matt Letscher (The Flash TV series), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues to hunt Flash",
+    "transformation": [
+      "Time travel",
+      "Negative Speed Force",
+      "Various power enhancements"
+    ],
+    "awakening_potential": "Full Negative Speed Force potential",
+    "power_evolution": [
+      "Time traveler",
+      "Reverse Flash",
+      "Zoom"
+    ],
+    "role_in_story": "Main antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Super speed",
+      "Time travel"
+    ],
+    "vehicles": [
+      "None needed"
+    ],
+    "headquarters": "Various time periods",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "The Reverse-Flash is a name used by several supervillains appearing in American comic books published by DC Comics. Each iteration of the character serves as a foil and an enemy of the Flash.",
+  "note": null,
+  "source": "dc"
+}

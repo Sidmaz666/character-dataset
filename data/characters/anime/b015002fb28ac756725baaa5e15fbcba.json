@@ -1,0 +1,354 @@
+{
+  "id": "b015002fb28ac756725baaa5e15fbcba",
+  "name": "Itadori, Yuuji",
+  "native_name": "伊東,優二",
+  "full_name": "Yuji Itadori",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Demon",
+    "race": "Human vessel",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 72,
+    "age": "15",
+    "birthday": "August 31",
+    "zodiac": "Virgo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 23.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Pink",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Strong build",
+      "Sukuna marks on hands"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sendai",
+    "current_location": "Jujutsu High",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sorcerer",
+    "secondary": "Sukuna vessel",
+    "rank_title": "Grade 1 potential",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jujutsu High",
+      "Megumi",
+      "Nobara"
+    ],
+    "previous": [],
+    "relatives": [
+      "Itadori Jin (grandfather, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen S1E1",
+    "manga": "JK Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Divine Dismantle",
+      "native_name": "神 baste",
+      "description": "Sukuna's slash technique",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Needs Sukuna"
+    },
+    {
+      "name": "Super Strength",
+      "native_name": "超筋力",
+      "description": "Exceptional physical power",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Divergent Fist",
+      "native_name": "分裂拳",
+      "description": "Delayed fist strike",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Black Flash",
+      "native_name": "",
+      "description": "Hits with spatial blow",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Needs cursed energy"
+    }
+  ],
+  "signature_moves": [
+    "Divine Dismantle",
+    "Black Flash",
+    "Soul Drop Kick"
+  ],
+  "ultimate_move": "Meguna Slash",
+  "trump_card": "Full Sukuna powers + Black Flash",
+  "power_attributes": {
+    "power_type": "Cursed/Sukuna",
+    "power_source": "Sukuna vessel + training",
+    "combat_style": [
+      "Martial arts",
+      "Cursed energy"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Full Sukuna powers + Black Flash",
+    "ultimate_move": "Meguna Slash"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Compassionate",
+      "Determined",
+      "Strong will",
+      "Carefree"
+    ],
+    "likes": [
+      "Friends",
+      "Helping",
+      "Sukuna freedom"
+    ],
+    "dislikes": [
+      "Hurting innocents",
+      "Sukuna inside"
+    ],
+    "fear": "Being controlled",
+    "dream": "Die properly",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Vessel who controls Sukuna power",
+    "motivation": "Find purpose, die properly",
+    "affinity": "Cursed",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Consumed Sukuna fingers",
+    "Defeated Mahito",
+    "Rescued friends"
+  ],
+  "titles": [
+    "Sukuna vessel",
+    "Rising star",
+    "Grade 1 candidate"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "publisher": "anime",
+  "relationships": {
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": "Mahito",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Mahito"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Mahito"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jujutsu High",
+      "Megumi",
+      "Nobara"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Unknown",
+    "role_in_story": null,
+    "fate": null,
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Adam McArthur",
+    "note": null,
+    "native_name": null,
+    "japanese": "Junya Enoki"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Jujutsu High",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Age: 15\nBirthdate: March 20\nHeight: 173 cm (5'8'')\nWeight: 80 kg (176 lbs)\n\nYuuji, a first-year student at Tokyo Metropolitan Curse Technical College, is a muscular teenager with big light brown eyes and light brown spiky hair. After becoming a host for Sukuna, a small line appeared below each of his eyes.\n\nYuuji is a fair person who cares greatly for not only his comrades, but anyone he views as people with their own wills, despite how deep or shallow his connection to them is. He cares greatly for the \"value of a life\" and to this end he will ensure that others receive a \"fair death.\" He is easy to anger in the face of pure cruelty and unfair judgement of other people.\n\n\n(Source: Jujutsu Kaisen Wiki)",
+  "note": null,
+  "source": "anime"
+}

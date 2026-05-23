@@ -1,0 +1,361 @@
+{
+  "id": "463faeda06901fbbf69e823b5217b702",
+  "name": "Rider",
+  "native_name": "メドゥーサ",
+  "full_name": "Medusa (Rider)",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Divine Spirit/Heroic Spirit",
+    "race": "Gorgon (former human)",
+    "height_cm": 172,
+    "weight_kg": 57,
+    "age": "Unknown (immortal)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple (Mystic Eyes)",
+    "hair_color": "Purple",
+    "skin": "Fair",
+    "notable_features": "Blindfold/mask covering petrifying eyes, serpent hair",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Greece (mythological)",
+    "current_location": "Fuyuki City",
+    "base_of_operations": "Fuyuki City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Rider-class Servant",
+    "secondary": "Sakura Matou's protector",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sakura Matou (true Master)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "game": "Fate/stay night (2004)",
+    "manga": "Fate/stay night (2006)",
+    "comics": null
+  },
+  "abilities": [
+    {
+      "name": "Mystic Eyes of Petrification",
+      "native_name": "石化の魔眼 (キュベレイ)",
+      "description": "Cybele - highest rank petrification eyes; anyone looking directly gets turned to stone",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Monstrous Strength",
+      "native_name": "",
+      "description": "Increase physical attributes above normal limits, risk of Gorgon transformation",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 75,
+      "range": "Melee"
+    },
+    {
+      "name": "Magic Resistance",
+      "native_name": "抗魔",
+      "description": "B-rank; nullifies spells of 3 verses or less",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self"
+    },
+    {
+      "name": "Riding",
+      "native_name": "騎乗",
+      "description": "A+ rank; can ride Phantasmal and Divine Beasts",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 85
+    }
+  ],
+  "signature_moves": [
+    "Blood Fort Andromeda",
+    "Petrifying Gaze",
+    "Chain Bind"
+  ],
+  "ultimate_move": "Bellerophon (珀伽索斯)",
+  "trump_card": "Cybele - Full Mystic Eyes activation",
+  "power_attributes": {
+    "power_type": "Mystic Eyes/Mount combat",
+    "power_source": "Divine Beast heritage",
+    "combat_style": [
+      "Close combat",
+      "Aerial assault",
+      "Petrification"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Chain Bind"
+    ],
+    "trump_card": "Cybele - Full Mystic Eyes activation",
+    "ultimate_move": "Bellerophon (珀伽索斯)"
+  },
+  "personality": {
+    "traits": [
+      "Silent",
+      "Protective",
+      "Loyal",
+      "Stoic"
+    ],
+    "likes": [
+      "Protecting Sakura",
+      "Pegasus"
+    ],
+    "dislikes": [
+      "Zouken Matou",
+      "Shinji Matou"
+    ],
+    "fear": "Becoming full Gorgon monster",
+    "dream": "Protect Sakura, break curse",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Limit"
+    ]
+  },
+  "character": {
+    "arc": "From controlled enemy to loyal protector",
+    "motivation": "Protect true Master Sakura",
+    "affinity": "Earth",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Fought in 5th Holy Grail War",
+    "Petrified many enemies",
+    "Protected Sakura",
+    "Rode Pegasus"
+  ],
+  "titles": [
+    "Gorgon Sister",
+    "Rider-class Servant"
+  ],
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 50,
+    "speed": 90,
+    "durability": 65,
+    "power": 85,
+    "combat": 80,
+    "total": 465
+  },
+  "relationships": {
+    "love_interest": "Shirou Emiya (Heaven's Feel)",
+    "master": "Sakura Matou (true), Shinji (temporary control)",
+    "nemesis": "Perseus (mythological)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Perseus"
+    ],
+    "enemies_detailed": [],
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Perseus (mythological)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sakura Matou (true Master)"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Archer (EMIYA)",
+      "result": "Victory",
+      "method": "Petrified"
+    },
+    {
+      "opponent": "Saber",
+      "result": "Defeat",
+      "method": "Excalibur"
+    }
+  ],
+  "quotes": [
+    "Allow me to serve you.",
+    "I am... yours."
+  ],
+  "voice_acting": {
+    "native_language": "Asakawa Yu",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Manifested",
+    "fate": "Continues as Sakura's Servant",
+    "transformation": [
+      "Full Gorgon form (Monstrous Strength risk)"
+    ],
+    "role_in_story": "Servant/Ally",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Limit"
+    ],
+    "factors": [
+      "limit"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Fuyuki City",
+    "story_importance": "Servant/Ally",
+    "note": null
+  },
+  "about": "Height: 212 cm\nWeight: 130 kg\nTrue Identity: Alexander the Great/Iskandar, King of Conquerors\nMaster: Waver Velvet\nCatalyst: Mantle once worn by Iskandar himself\nHoly Grail War No.: 4th Holy Grail War\n\nRider was originally meant to be summoned by Lord Kayneth El-Melloi Archibald, but due to some circumstances, he ended up being Waver Velvet's servant.\n\nIskandar, or how he refers to himself, the King of Conquerors is a noble and courageous man, who prefers to conquer his enemies by winning without killing and controlling without humiliating them. He is known as a marvelous ruler who once almost conquered the whole known world.\n\nHe is not pragmatic, but is a person who lets history run its course and acts according to his impulses. While he is wild and somewhat inconsiderate to others, his greed ultimately resulted in the happiness of the people he ruled over.\n\nIn the new era, Rider is mostly amazed by ordinary modern things, and usually spends his free time exploring modern war vehicles and machinery.",
+  "note": null,
+  "source": "anime"
+}

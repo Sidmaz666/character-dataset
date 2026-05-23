@@ -1,0 +1,356 @@
+{
+  "id": "8eff19c11517496a8224bdf6f131530a",
+  "name": "Jessie",
+  "native_name": "Musashi",
+  "full_name": "Jessie",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "blood_type": "B",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Magenta/Pink",
+    "skin": "Fair",
+    "notable_features": [
+      "Long magenta hair",
+      "Team Rocket uniform"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Traveling with Team Rocket",
+    "current_location": "Traveling with Team Rocket",
+    "base_of_operations": "Traveling with Team Rocket",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Team Rocket Agent",
+    "secondary": "",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Team Rocket"
+    ],
+    "previous": [],
+    "relatives": [
+      "Miyamoto (mother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Pokemon Episode 2",
+    "manga": "Pokemon Episode 2",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Disguises",
+      "native_name": null,
+      "description": "Expert at creating and using elaborate disguises",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Mechanical Engineering",
+      "native_name": null,
+      "description": "Skilled at building mecha and gadgets",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Poison Pokemon Mastery",
+      "native_name": null,
+      "description": "Expert with Poison-type Pokemon",
+      "type": "Tactical",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Disguises",
+    "Mechanical Engineering",
+    "Poison Pokemon Mastery"
+  ],
+  "ultimate_move": "Disguises",
+  "trump_card": "Mechanical Engineering",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Mechanical Engineering"
+    ],
+    "trump_card": "Mechanical Engineering",
+    "ultimate_move": "Disguises"
+  },
+  "personality": {
+    "traits": [
+      "Dramatic",
+      "Ambitious",
+      "Cunning",
+      "Loyal to James and Meowth",
+      "Vain"
+    ],
+    "likes": [
+      "Stealing rare Pokemon",
+      "fashion",
+      "dramatic entrances"
+    ],
+    "dislikes": [
+      "Boss Giovanni ignoring her",
+      "Ash and Pikachu"
+    ],
+    "fear": "Humiliation",
+    "dream": "Earn Giovanni's approval, steal powerful Pokemon",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Vain"
+    ]
+  },
+  "character": {
+    "arc": "Team Rocket agent obsessed with stealing Ash's Pikachu, secretly has a tragic past",
+    "motivation": "Earn Giovanni's approval, steal powerful Pokemon",
+    "affinity": "Evil",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Team Rocket Agent"
+  ],
+  "titles": [
+    "Team Rocket Agent"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 40,
+    "speed": 55,
+    "durability": 50,
+    "power": 45,
+    "combat": 50,
+    "total": 315
+  },
+  "weaknesses": {
+    "list": [
+      "Vain"
+    ],
+    "factors": [
+      "vain"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "James",
+      "Meowth"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Ash Ketchum",
+      "Officer Jenny"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "James",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "James",
+      "Meowth"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ash Ketchum",
+      "Officer Jenny"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Michael"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Michael"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "James",
+      "Meowth"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Prepare for trouble!",
+    "And make it double!"
+  ],
+  "voice_acting": {
+    "native_language": "Megumi Hayashibara",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Recurring Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Recurring Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "She is a journalist and the ex-wife of Max and mother of Michael.",
+  "note": null,
+  "source": "anime"
+}

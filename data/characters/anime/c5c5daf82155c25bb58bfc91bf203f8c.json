@@ -1,0 +1,430 @@
+{
+  "id": "c5c5daf82155c25bb58bfc91bf203f8c",
+  "name": "Tony Tony Chopper",
+  "native_name": "トニートニー・チョッパー",
+  "full_name": "Tony Tony Chopper",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Reindeer",
+    "race": "Reindeer (Human-reindeer hybrid)",
+    "bloodline": "None",
+    "height_cm": 90,
+    "weight_kg": 20,
+    "age": "15-17",
+    "birthday": "December 24",
+    "zodiac": "Capricorn",
+    "blood_type": "X",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "White/Brown",
+    "skin_color": "Brown fur",
+    "notable_features": [
+      "Blue nose",
+      "Pink hat",
+      "Antlers",
+      "Small stature",
+      "Cute"
+    ],
+    "skin": "Brown fur",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Drum Island",
+    "current_location": "Grand Line",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate",
+    "secondary": "Doctor",
+    "rank_title": "Straw Hat Doctor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates"
+    ],
+    "previous": [
+      "Drum Island"
+    ],
+    "relatives": [
+      "Hiriluk (adoptive father)",
+      "Kureha (adoptive mother/mentor)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 81",
+    "manga": "One Piece Chapter 134",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Hito Hito no Mi",
+      "native_name": "ヒトヒトの実",
+      "description": "Human-Human Fruit. Gives reindeer human intelligence and abilities. Can transform.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Forms"
+    },
+    {
+      "name": "Seven Forms",
+      "native_name": "七段変形",
+      "description": "Can transform into seven forms: Brain Point, Heavy Point, Guard Point, Horn Point, etc.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Rumble Ball"
+    },
+    {
+      "name": "Medical Mastery",
+      "native_name": "医療の達人",
+      "description": "Brilliant doctor trained by Kureha. Can cure any disease, heal any wound.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Touch",
+      "limit": "Supplies"
+    },
+    {
+      "name": "Rumble Ball",
+      "native_name": "ランブルボール",
+      "description": "Special drug that allows additional transformations. Enhances power temporarily.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "3 per day"
+    }
+  ],
+  "signature_moves": [
+    "Guard Point",
+    "Horn Point",
+    "Medical treatment"
+  ],
+  "ultimate_move": "Monster Point",
+  "trump_card": "Rumble Ball",
+  "power_attributes": {
+    "power_type": "Devil Fruit",
+    "power_source": "Hito Hito no Mi",
+    "combat_style": [
+      "Transformation",
+      "Medical"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Medical kit",
+      "Rumble Balls"
+    ],
+    "trump_card": "Rumble Ball",
+    "ultimate_move": "Monster Point"
+  },
+  "personality": {
+    "traits": [
+      "Innocent",
+      "Caring",
+      "Loyal",
+      "Naive",
+      "Brave (when needed)",
+      "Kind"
+    ],
+    "likes": [
+      "Cotton candy",
+      "Friends",
+      "Medicine",
+      "Adventure",
+      "Praise"
+    ],
+    "dislikes": [
+      "Being called pet",
+      "Discrimination",
+      "Losing friends",
+      "Cruelty"
+    ],
+    "fear": "Losing crew",
+    "dream": "Cure all diseases",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "Chopper is the reindeer doctor who ate Hito Hito no Mi. Outcast from herd, adopted by Hiriluk. Became Straw Hat doctor. Dreams of curing all diseases.",
+    "motivation": "Cure all diseases, protect crew",
+    "affinity": "Pink/Medicine",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Straw Hat Doctor",
+    "Cured countless patients",
+    "Seven transformations",
+    "Monster Point control"
+  ],
+  "titles": [
+    "Cotton Candy Lover",
+    "Doctor",
+    "Mascot"
+  ],
+  "bounty": {
+    "amount": 100,
+    "currency": "Berries",
+    "details": "Straw Hat Pets (mistaken)"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 70,
+    "speed": 75,
+    "durability": 80,
+    "power": 82,
+    "combat": 78,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Crew's safety",
+      "Naivety",
+      "Rumble Ball limit"
+    ],
+    "factors": [
+      "Crew",
+      "Hiriluk's dream"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Wapol, Marines",
+    "allies": [
+      "Luffy",
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Usopp",
+      "Kureha"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Wapol",
+      "Marines"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Usopp",
+    "rival": "None",
+    "mentor": "Kureha, Hiriluk",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Luffy",
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Usopp",
+      "Kureha"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Wapol, Marines",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Luffy",
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Usopp",
+      "Kureha"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kureha, Hiriluk"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Wapol",
+      "result": "Victory",
+      "method": "Horn Point"
+    },
+    {
+      "opponent": "Kumadori",
+      "result": "Victory",
+      "method": "Monster Point"
+    },
+    {
+      "opponent": "Queen",
+      "result": "Victory",
+      "method": "Medical skills"
+    }
+  ],
+  "quotes": [
+    "I'm not a pet!",
+    "When do I get cotton candy?",
+    "I'll cure everyone!"
+  ],
+  "voice_acting": {
+    "native_language": "Ikue Otani (Japanese)",
+    "note": "Cute, high-pitched",
+    "native_name": null,
+    "english": "Lisa Ortiz",
+    "japanese": "Ikue Otani"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues journey",
+    "transformation": "Seven forms",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Reindeer",
+      "Doctor",
+      "Pirate",
+      "Legend"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Thousand Sunny"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15, 17\nBirthday: December 24\nZodiac sign: Capricorn\nAffliation: Straw Hat Pirates\nPosition: Doctor\nDevil Fruit: Hito Hito no Mi (Human Human Fruit)\nType: Zoan\nBounty: \nHe is the Straw Hat crew's general physician despite being a reindeer. After a set of unusual circumstances, he ate the Hito Hito no Mi (Human Human Fruit), which permitted him the ability to speak, think, and, to a limited extent, change into a human.\n\nChopper often acts like a child, but he is an upright friend and companion who will try anything to overcome a task given by his team. He also still has distrust in humankind because of events in his youth, where he was treated as a brutal monster. He will often outright insult a human who compliments him while smiling, dancing, and being obviously pleased. He also shows a certain interest in books, but mostly medicine related ones.\n\nChopper is more or less on a journey to define himself, seeing almost anybody on his crew as a role model. This, combined with his naiveness, often causes him to imitate the other Straw Hats' actions, no matter how obviously silly. Because of this, he often gets involved in the crazy antics of Luffy and Usopp, wholeheartedly believing that what they are doing is sensible and fun. Chopper is one of the most innocent Straw Hat Pirates, and is also very naive, resulting in a tendency to believe anything told to him, even the outrageously fictitious and exaggerated lies of Usopp. Sanji originally wanted to cook Chopper and continues to refer to him as \"the emergency food supply\" to tease him but considers him a friend. Although he is the crew's doctor he wasn't originally hired by Luffy for that purpose. But actually, in Luffy's words, for being \"cool reindeer that can transform.\"",
+  "note": null,
+  "source": "anime"
+}

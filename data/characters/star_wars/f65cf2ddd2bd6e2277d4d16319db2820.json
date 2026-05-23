@@ -1,0 +1,407 @@
+{
+  "id": "f65cf2ddd2bd6e2277d4d16319db2820",
+  "name": "General Grievous",
+  "native_name": null,
+  "full_name": "Grievous",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Kaleesh",
+    "race": "Cyborg",
+    "bloodline": null,
+    "height_cm": 216,
+    "weight_kg": 175,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 37.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "None",
+    "skin_color": "Organic (exposed chest)",
+    "notable_features": [
+      "Four arms",
+      "Mechanical body",
+      "Coughing"
+    ],
+    "skin": "Organic (exposed chest)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Kaleesh",
+    "current_location": "Deceased",
+    "base_of_operations": "Separatist Flagship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "General of Separatist Droid Army",
+    "secondary": "Jedi Hunter",
+    "rank_title": "Supreme Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Confederacy of Independent Systems"
+    ],
+    "previous": [
+      "Kaleesh warrior clans"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode III: Revenge of the Sith (2005)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Four-Arm Combat",
+      "native_name": null,
+      "description": "Can wield up to four lightsabers simultaneously thanks to cybernetic arms",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires four weapons"
+    },
+    {
+      "name": "Cyborg Strength",
+      "native_name": null,
+      "description": "Superhuman physical strength from mechanical body",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires mechanical body"
+    },
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant military strategist",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Requires army"
+    },
+    {
+      "name": "Cyborg Reflexes",
+      "native_name": null,
+      "description": "Enhanced reflexes from mechanical body",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short",
+      "limit": "Requires power"
+    }
+  ],
+  "signature_moves": [
+    "Four lightsaber strike",
+    "Lightning assault",
+    "Hand-to-hand beatdown"
+  ],
+  "ultimate_move": "Quadruple Lightsaber Storm",
+  "trump_card": "Cyborg Body",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "Cybernetic enhancements",
+    "combat_style": [
+      "Lightsaber combat (trained by Dooku)",
+      "Unarmed"
+    ],
+    "weapon": "Up to four lightsabers",
+    "equipment": [
+      "Cyborg body",
+      "Separatist droid army"
+    ],
+    "trump_card": "Cyborg Body",
+    "ultimate_move": "Quadruple Lightsaber Storm"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Cunning",
+      "Brutal",
+      "Ambitious"
+    ],
+    "likes": [
+      "Victory",
+      "Collecting lightsabers"
+    ],
+    "dislikes": [
+      "Jedi",
+      " Republic"
+    ],
+    "fear": "Being defeated",
+    "dream": "Win the Clone Wars",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Four-Arm Combat",
+      "Cyborg Strength",
+      "Tactical Genius",
+      "Cyborg Reflexes"
+    ],
+    "weaknesses": [
+      "Ruthless",
+      "Brutal"
+    ]
+  },
+  "character": {
+    "arc": "Feared Separatist general, collected Jedi lightsabers, killed by Obi-Wan",
+    "motivation": "Destroy the Republic and Jedi",
+    "affinity": "N/A",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Supreme Commander of Separatist Army",
+    "Collected numerous Jedi lightsabers",
+    "Inducted fear across the galaxy",
+    "Hunted Jedi throughout Clone Wars"
+  ],
+  "titles": [
+    "The Killer",
+    "Supreme Commander"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not a bounty hunter"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 95,
+    "speed": 85,
+    "durability": 90,
+    "power": 60,
+    "combat": 95,
+    "total": 515
+  },
+  "weaknesses": {
+    "list": [
+      "No Force sensitivity",
+      "Vital organs in chest"
+    ],
+    "factors": "Vulnerable to Force users, organ damage lethal"
+  },
+  "relationships": {
+    "nemesis": "Obi-Wan Kenobi",
+    "allies": [
+      "Count Dooku",
+      "Darth Sidious",
+      "Separatists"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Count Dooku",
+        "relationship": "Trainer",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Jedi Order",
+      "Republic"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Obi-Wan Kenobi",
+        "relationship": "Nemesis",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Mace Windu",
+    "mentor": "Count Dooku",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Count Dooku",
+      "Darth Sidious",
+      "Separatists"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Obi-Wan Kenobi",
+      "Mace Windu"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mace Windu"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Count Dooku",
+      "Darth Sidious",
+      "Separatists"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Count Dooku"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Obi-Wan Kenobi",
+      "result": "Defeat",
+      "method": "Shot in chest by blaster"
+    },
+    {
+      "opponent": "Mace Windu",
+      "result": "Defeat",
+      "method": "Force crushed lungs"
+    }
+  ],
+  "quotes": [
+    "I am the leader of the droid army!",
+    "Your lightsaber techniques are old."
+  ],
+  "voice_acting": {
+    "native_language": "Matthew Wood",
+    "english": "Matthew Wood",
+    "note": "Voice by Matthew Wood",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Shot by Obi-Wan Kenobi on Utapau",
+    "transformation": "N/A",
+    "awakening_potential": "Could have won the war",
+    "power_evolution": [
+      "Kaleesh warlord",
+      "Cyborg general"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Masking Borg"
+    ],
+    "vehicles": [
+      "Separatist flagship"
+    ],
+    "headquarters": "Various Separatist bases",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "General Grievous is a character in the Star Wars franchise created by George Lucas. He was introduced in the 2003 animated series Star Wars: Clone Wars, before appearing through computer-generated imagery in the 2005 live-action film Star Wars: Episode III – Revenge of the Sith. Wood reprised the role in the 2008 animated series Star Wars: The Clone Wars and the 2024 anthology series Tales of the Empire.",
+  "note": null,
+  "source": "star_wars"
+}

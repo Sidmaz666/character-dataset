@@ -1,0 +1,327 @@
+{
+  "id": "b926b5dfb8d12b1d5ff3cdb32437842a",
+  "name": "Stain",
+  "native_name": "",
+  "full_name": "Stain",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "U.A. High School",
+    "base_of_operations": "U.A. High School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "My Hero Academia",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Villain"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "My Hero Academia",
+    "manga": "My Hero Academia",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Quirk Usage",
+      "type": "Superpower",
+      "description": "Skilled in utilizing their unique quirk",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Combat Training",
+      "type": "Combat",
+      "description": "Trained in hero combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Teamwork",
+      "type": "Tactical",
+      "description": "Effective at coordinating with allies",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Quirk Usage",
+    "Combat Training",
+    "Teamwork"
+  ],
+  "ultimate_move": "Quirk Usage",
+  "trump_card": "Combat Training",
+  "power_attributes": {
+    "power_type": "Magic",
+    "power_source": "Physical Training",
+    "combat_style": [],
+    "weapon": "Scythe",
+    "equipment": [
+      "repertoire other techniques"
+    ],
+    "trump_card": "Combat Training",
+    "ultimate_move": "Quirk Usage"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Compassionate",
+      "Hardworking",
+      "Selfless"
+    ],
+    "likes": [
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Death",
+      "Betrayal"
+    ],
+    "fear": "Failing to protect others",
+    "dream": "Unknown",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "My Hero Academia character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "My Hero Academia"
+  ],
+  "titles": [
+    "My Hero Academia"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 70,
+    "combat": 70,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Tenya Iida",
+    "allies": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Tenya Iida"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Tenya Iida"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "U.A. High School",
+      "Pro Heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Dr. Franken Stein (Franken being his first name) is the man that changed Sid into a zombie. He was also Death Scythe’s first partner (Maka's mother was the second). He was also the most powerful technician to ever graduate from the school, Shibusen. He has a bolt going through his head which turns so his thoughts would be on the matter at hand. He mostly moves by pushing his chair in the direction he wants to go even if it ends up with him crashed on the floor. Stein is such a strong fighter that he could take down Black Star while still seated in his chair. Stein sees everything in the world, including himself, as an experiment or specimen. He even experimented on Spirit (now Death Scythe) when he was sleeping during the five years they worked together. His understanding of soul wavelengths gives him a huge advantage against other users since he can change his own to match the other’s wavelength and thereby nullify or disrupt the soul frequency of the technician and weapon. This comes from his high spiritual flexibility and by observing his opponent beforehand. His soul wavelength is so high that he doesn’t need a weapon and can channel it through his body and release it out of his body as electric discharge. He has a strange hobby of wanting to dissect anything he thinks is interesting. He is also the school doctor; he still respects Spirit and still calls him Senpai.\n\nOther than his electric charges, he uses a repertoire of other techniques such as Soul Sutures, a technique which binds people to e.g. the ground via a soul wavelength (the technique is costly, it requires so much attention the wielder cannot move), Witch Hunter (the technique Maka uses) when he is using Spirit as a weapon, and the ability to cancel out direct soul attacks by matching wavelengths (explained earlier).",
+  "note": null,
+  "source": "anime"
+}

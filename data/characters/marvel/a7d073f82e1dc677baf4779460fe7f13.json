@@ -1,0 +1,383 @@
+{
+  "name": "Spider-Ham",
+  "native_name": null,
+  "full_name": "Peter Porker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Anthropomorphic Pig",
+    "race": "Animal (Cartoon)",
+    "bloodline": "Unknown",
+    "height_cm": 100,
+    "weight_kg": 30,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 30,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "None",
+    "skin_color": "Pink",
+    "notable_features": [
+      "Pig snout",
+      "Spider costume",
+      "Cartoon physics",
+      "Tiny stature"
+    ],
+    "skin": "Pink",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth-8311 (Cartoon Earth)",
+    "current_location": "Earth-8311",
+    "base_of_operations": "Earth-8311",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Photographer (Daily Beagle)",
+    "secondary": "Superhero",
+    "rank_title": "Spider-Ham",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Army",
+      "Web-Warriors"
+    ],
+    "previous": [
+      "Daily Beagle"
+    ],
+    "relatives": [
+      "May Porker (aunt)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Marvel Tails #1 (November 1983)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cartoon Physics",
+      "native_name": null,
+      "description": "Operates on cartoon logic. Can survive anything comically, pull items from hammerspace, and break physics for laughs.",
+      "type": "Special",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Only works in cartoon logic"
+    },
+    {
+      "name": "Spider Powers (Comedic)",
+      "native_name": null,
+      "description": "Super strength, agility, wall-crawling, all exaggerated via cartoon physics. Can lift massive objects with pig strength.",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Mallet Weapon",
+      "native_name": null,
+      "description": "Carries a giant mallet for comedic combat. Can appear from nowhere due to cartoon logic.",
+      "type": "Weapon",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Mallet Smash",
+    "Pork Chop",
+    "Cartoon Chaos"
+  ],
+  "ultimate_move": "Cartoon Apocalypse (Reality-warping via cartoon logic)",
+  "trump_card": "Cartoon Physics",
+  "power_attributes": {
+    "power_type": "Cartoon",
+    "power_source": "Cartoon Physics",
+    "combat_style": [
+      "Cartoon combat",
+      "Mallet",
+      "Comedy"
+    ],
+    "weapon": "Giant Mallet",
+    "equipment": [
+      "Spider costume",
+      "Mallet",
+      "Cartoon gadgets"
+    ],
+    "trump_card": "Cartoon Physics",
+    "ultimate_move": "Cartoon Apocalypse (Reality-warping via cartoon logic)"
+  },
+  "personality": {
+    "traits": [
+      "Funny",
+      "Goofy",
+      "Heroic",
+      "Optimistic",
+      "Comedic",
+      "Loyal"
+    ],
+    "likes": [
+      "Jokes",
+      "Food",
+      "Making people laugh",
+      "Saving the day"
+    ],
+    "dislikes": [
+      "Serious villains",
+      "Dull moments",
+      "Not being taken seriously"
+    ],
+    "fear": "Not being funny",
+    "dream": "Make the multiverse laugh",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A spider bitten by a radioactive pig (yes, reversed origin). Becomes Spider-Ham, the cartoon animal version of Spider-Man from Earth-8311. Member of Spider-Army fighting multiversal threats with comedy.",
+    "motivation": "Save the day and make everyone laugh",
+    "affinity": "Cartoon",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Spider-Army member",
+    "Defeated multiversal threats",
+    "Protected cartoon Earth"
+  ],
+  "titles": [
+    "Spider-Ham",
+    "Peter Porker",
+    "The Spectacular Spider-Ham"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted by cartoon villains"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 65,
+    "speed": 70,
+    "durability": 90,
+    "power": 85,
+    "combat": 60,
+    "total": 430
+  },
+  "weaknesses": {
+    "list": [
+      "Cartoon physics limits",
+      "Not taken seriously",
+      "Small size"
+    ],
+    "factors": [
+      "Reality outside cartoon Earth"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Doctor Octopussycat",
+    "allies": [
+      "Spider-Army",
+      "Spider-Gwen",
+      "Miles Morales"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Doctor Octopussycat",
+      "Various cartoon villains"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Mary Jane Waterbuffalo",
+    "best_friend": "Miles Morales",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Army",
+      "Spider-Gwen",
+      "Miles Morales"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Doctor Octopussycat"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Army",
+      "Spider-Gwen",
+      "Miles Morales"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Doctor Octopussycat",
+      "result": "Victory",
+      "method": "Cartoon mallet and comedy"
+    }
+  ],
+  "quotes": [
+    "Thwip! Or should I say, Oink!",
+    "I am the Spider-Ham! The spectacular sensational Spider-Ham!"
+  ],
+  "voice_acting": {
+    "native_language": "John Mulaney",
+    "english": "John Mulaney",
+    "note": "Voice in Into the Spider-Verse",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Fighting crime and making laughs",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Peter Porker",
+      "Spider-Ham"
+    ],
+    "role_in_story": "Supporting Character (comic relief)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-slinging",
+      "Cartoon physics"
+    ],
+    "vehicles": [],
+    "headquarters": "Earth-8311",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "a7d073f82e1dc677baf4779460fe7f13",
+  "publisher": "marvel",
+  "about": "Spider-Ham is a superhero appearing in American comic books published by Marvel Comics. The character is an anthropomorphic pig and is a cartoon animal parody version of Spider-Man. He was created by Larry Hama, Tom DeFalco and Mark Armstrong.",
+  "note": null,
+  "source": "marvel"
+}

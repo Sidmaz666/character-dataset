@@ -1,0 +1,423 @@
+{
+  "id": "86066740b244f34c071ad2405e598fc9",
+  "name": "Hohenheim, Van",
+  "native_name": "ヴァン・hovenハイム",
+  "full_name": "Van Hohenheim",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Philosopher's Stone)",
+    "race": "Human (Immortal)",
+    "bloodline": null,
+    "height_cm": 176,
+    "weight_kg": null,
+    "age": "Over 400 years",
+    "birthday": "Unknown",
+    "zodiac": "Aquarius",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Golden",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Ageless appearance",
+      "Cross-shaped markings (when using power)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Xerxes",
+    "current_location": "Amestris",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Alchemist",
+    "secondary": "Former Slave, Philosopher's Stone carrier",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Elric Brothers",
+      "Amestris"
+    ],
+    "previous": [
+      "Xerxes",
+      "Trisha Elric (wife)"
+    ],
+    "relatives": [
+      "Edward Elric (son)",
+      "Alphonse Elric (son)",
+      "Trisha Elric (wife, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Philosopher's Stone Enhanced Alchemy",
+      "native_name": null,
+      "description": "Over half a million souls power his stone. Can perform transmutations without circles or body movement. Can perform biological transmutations and circumvent Equivalent Exchange.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Philosopher's Stone depletion"
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Body capable of miraculous regeneration. Incapable of dying or aging for over 400 years.",
+      "type": "Defense",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Stone depletion = death"
+    },
+    {
+      "name": "Soul Communication",
+      "native_name": null,
+      "description": "Can converse directly with each of the 536,329 souls in his Philosopher's Stone. Alchemy can be implemented in multiple locations simultaneously.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Requires soul deposit"
+    },
+    {
+      "name": "Soul Shield",
+      "native_name": null,
+      "description": "Can call upon souls of his Stone for augmented power. Deflected sustained energy blasts and Father couldn't overcome his shielding without nuclear-level force.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Costs soul energy"
+    },
+    {
+      "name": "400 Years of Knowledge",
+      "native_name": null,
+      "description": "Nearly four centuries of life experience and alchemical study. Knowledge easily dwarfs any other human alchemist.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Not combat applicable"
+    }
+  ],
+  "signature_moves": [
+    "Soul Shield",
+    "No-Circle Transmutation",
+    "Biological Alchemy"
+  ],
+  "ultimate_move": "Full Philosopher's Stone Release",
+  "trump_card": "Half Million Souls Power",
+  "power_attributes": {
+    "power_type": "Alchemy",
+    "power_source": "Philosopher's Stone (536,329 souls)",
+    "combat_style": [
+      "Advanced Alchemy",
+      "Soul Combat",
+      "No-Circle Transmutation"
+    ],
+    "weapon": "Soul Shield",
+    "equipment": [
+      "Soul Shield"
+    ],
+    "trump_card": "Half Million Souls Power",
+    "ultimate_move": "Full Philosopher's Stone Release"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Caring",
+      "Determined",
+      "Regretful",
+      "Protective"
+    ],
+    "likes": [
+      "His sons",
+      "Trisha's memory",
+      "Protecting people"
+    ],
+    "dislikes": [
+      "Father",
+      "Xerxes tragedy",
+      "Not being there for his sons"
+    ],
+    "fear": "Not saving his family",
+    "dream": "To save Amestris and reunite with his sons",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A former slave of Xerxes who gained immortality through Father's failed experiment. Left his family to find a way to stop Father's plan, carrying the weight of hundreds of thousands of souls. Finally returns to help his sons defeat Father.",
+    "motivation": "Protecting his family, stopping Father",
+    "affinity": "Soul/Alchemy",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Survived over 400 years",
+    "Carried 536,329 souls",
+    "Defeated Father (first round)",
+    "Saved Amestris",
+    "Reunited with sons"
+  ],
+  "titles": [
+    "Hohenheim of Light",
+    "Slave No. 23",
+    "The Immortal Alchemist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 85,
+    "speed": 75,
+    "durability": 100,
+    "power": 100,
+    "combat": 90,
+    "total": 550
+  },
+  "weaknesses": {
+    "list": [
+      "Philosopher's Stone depletion",
+      "Emotional guilt over leaving family",
+      "Cannot die but can be overpowered"
+    ],
+    "factors": [
+      "Stone dependency",
+      "Past trauma"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Father",
+    "allies": [
+      "Edward Elric",
+      "Alphonse Elric",
+      "Izumi Curtis"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Edward Elric",
+        "relationship": "Son",
+        "trust_level": "Deep (reconciled)"
+      },
+      {
+        "name": "Alphonse Elric",
+        "relationship": "Son",
+        "trust_level": "Deep (reconciled)"
+      }
+    ],
+    "enemies": [
+      "Father",
+      "Xerxes betrayers"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Father",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Trisha Elric",
+    "best_friend": null,
+    "rival": "Homunculus (Father)",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Edward Elric",
+      "Alphonse Elric",
+      "Izumi Curtis"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Father",
+      "Homunculus (Father)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Homunculus"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Edward Elric",
+      "Alphonse Elric",
+      "Izumi Curtis"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Father",
+      "result": "Victory (first round), ultimate victory",
+      "method": "Soul Shield and enhanced alchemy"
+    }
+  ],
+  "quotes": [
+    "I am Van Hohenheim, and I have been carrying these souls for 400 years.",
+    "I promised we would die together, Trisha."
+  ],
+  "voice_acting": {
+    "native_language": "Unshō Ishizuka (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "John Swasey",
+    "japanese": "Daisuke Namikawa"
+  },
+  "story": {
+    "status": "Deceased (chose to die with Trisha)",
+    "fate": "Died peacefully after defeating Father, reunited with Trisha",
+    "transformation": null,
+    "awakening_potential": "Already achieved maximum power",
+    "power_evolution": [
+      "Slave",
+      "Immortal",
+      "Protector",
+      "Father's Defeater"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mobile",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 18\nHeight: 176 cm (5'9\")\nBirthday: February 7\nZodiac: Aquarius\n\nVanitas is a doctor who specializes in vampires. He is a human being who inherited his name and the Book of Vanitas from the infamous vampire.",
+  "note": null,
+  "source": "anime"
+}

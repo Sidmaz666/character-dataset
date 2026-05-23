@@ -1,0 +1,292 @@
+{
+  "id": "c75333f7903051a554151e0bc9d8b3fc",
+  "name": "Edogawa, Ranpo",
+  "native_name": "江戸川 乱歩",
+  "full_name": "Ranpo Edogawa",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "Adult",
+    "birthday": "October 21",
+    "blood_type": "O",
+    "bloodline": null,
+    "zodiac": "Libra",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Detective, ADA member",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Yokohama",
+    "base_of_operations": "Yokohama",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Detective",
+    "secondary": "Ability user",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Armed Detective Agency"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bungo Stray Dogs",
+    "manga": "Bungo Stray Dogs",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Genius",
+      "Childish",
+      "Confident"
+    ],
+    "likes": [
+      "Recognition"
+    ],
+    "dislikes": [
+      "Unknown"
+    ],
+    "fear": "The truth being hidden",
+    "dream": "Solve cases",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Childish"
+    ]
+  },
+  "character": {
+    "arc": "Greatest detective with ability",
+    "motivation": "Solve cases",
+    "alignment": "Chaotic Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 50,
+    "speed": 55,
+    "durability": 50,
+    "power": 55,
+    "combat": 45,
+    "total": 350
+  },
+  "relationships": {
+    "colleague": "Dazai, Atsushi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Armed Detective Agency"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Main character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Gun",
+    "equipment": [
+      "Badge",
+      "Gun"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Hiroshi Kamiya (Japanese)",
+    "Voiced by Vic Mignogna (English)"
+  ],
+  "titles": [
+    "Detective"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Childish"
+    ],
+    "factors": [
+      "childish"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Vic Mignogna",
+    "note": null,
+    "native_name": null,
+    "japanese": "Hiroshi Kamiya"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Yokohama",
+    "story_importance": "Main character",
+    "note": null
+  },
+  "about": "Age: 26\nBirthday: October 21\nHeight: 168 cm\nWeight: 57 kg\nBlood type: O\nLikes: Logical thinking, fantasy horror\nDislikes: Common sense, useless knowledge\nAbility: Super Deduction; allows him to deduce the \"truth\" about a certain situation/crime and giving him complete information such as where to find evidence and who the culprit is within a matter of seconds. Ranpo \"activates\" this ability by putting on a pair of glasses given to him by the director.",
+  "note": null,
+  "source": "anime"
+}

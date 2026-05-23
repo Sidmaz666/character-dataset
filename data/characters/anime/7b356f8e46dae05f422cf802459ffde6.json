@@ -1,0 +1,291 @@
+{
+  "id": "7b356f8e46dae05f422cf802459ffde6",
+  "name": "Yuuhi, Kurenai",
+  "native_name": "夕日 紅",
+  "full_name": "Kurenai Yuuhi",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 165,
+    "weight_kg": 52,
+    "age": "Adult",
+    "birthday": "June 11",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Gemini",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Genjutsu master, red eyes",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konoha",
+    "current_location": "Various",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "rank_title": "Jonin",
+    "secondary": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konoha",
+      "Team 8"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Naruto",
+    "manga": "Naruto",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Caring",
+      "Protective"
+    ],
+    "likes": [
+      "Helping others",
+      "Peace and quiet"
+    ],
+    "dislikes": [
+      "Threats to loved ones",
+      "Chaos"
+    ],
+    "fear": "Failure",
+    "dream": "Protect team",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Team 8 leader, genjutsu master",
+    "motivation": "Protect team",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 60,
+    "speed": 65,
+    "durability": 60,
+    "power": 75,
+    "combat": 70,
+    "total": 405
+  },
+  "relationships": {
+    "team": "Kiba, Hinata, Shino",
+    "partner": "Asuma",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Asuma"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Asuma"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Stealth"
+    ],
+    "weapon": "Sword",
+    "equipment": [
+      "Stealth gear"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Rumi Ochiai (Japanese)",
+    "Voiced by Mary Elizabeth McGlynn (English)"
+  ],
+  "titles": [
+    "Ninja"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Mary Elizabeth McGlynn",
+    "note": null,
+    "native_name": null,
+    "japanese": "Rumi Ochiai"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "Birthdate: September 30\nAge: 15 (Beginning of Aincrad arc); 17 (End of Aincrad arc, Fairy Dance arc); 18 (Phantom Bullet arc); 19 (Alicization Arc)\nHeight: 168 cm\nWeight: 55 kg\nThree Sizes (BWH): 82-60-83\nWeapons of choice: Wind Fleuret (1st Floor), Lambent Light (Forged by Lisbeth)\n\nAsuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she's extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.",
+  "note": null,
+  "source": "anime"
+}

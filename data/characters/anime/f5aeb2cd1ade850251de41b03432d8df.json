@@ -1,0 +1,329 @@
+{
+  "id": "f5aeb2cd1ade850251de41b03432d8df",
+  "name": "Kanzaki, Urumi",
+  "native_name": "神崎麗美",
+  "full_name": "Urumi Kanzaki",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 158,
+    "weight_kg": 45,
+    "age": "14",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 18,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Heterochromia (left blue, right brown)",
+    "hair_color": "Platinum Blonde",
+    "skin": "Fair",
+    "notable_features": "Genius IQ 200+, Heterochromia",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo",
+    "current_location": "Holy Forest Academy",
+    "base_of_operations": "Holy Forest Academy",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student (Class 3-4)",
+    "secondary": "Genius child",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Holy Forest Academy"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "GTO Episode 16",
+    "manga": "Chapter 52",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intellect",
+      "native_name": "",
+      "description": "IQ over 200, excels in philosophy, mathematics, physics, engineering, chemistry, biology, literature and arts",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Linguistic Mastery",
+      "native_name": "",
+      "description": "Speaks five languages fluently: Japanese, Chinese, English, French, Mandarin",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70
+    },
+    {
+      "name": "Strategic Manipulation",
+      "native_name": "",
+      "description": "Creates elaborate revenge plots and classroom terrorism schemes",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75
+    }
+  ],
+  "signature_moves": [
+    "Classroom Terrorism",
+    "Explosive Pranks",
+    "Psychological Manipulation"
+  ],
+  "power_attributes": {
+    "power_type": "Intellect",
+    "power_source": "Genius mind",
+    "combat_style": [
+      "Strategy",
+      "Manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Strategic Manipulation",
+    "ultimate_move": "Genius Intellect"
+  },
+  "personality": {
+    "traits": [
+      "Genius",
+      "Cunning",
+      "Manipulative",
+      "Rebellious",
+      "Yandere tendencies"
+    ],
+    "likes": [
+      "Testing people",
+      "Revenge",
+      "Onizuka"
+    ],
+    "dislikes": [
+      "Teachers who abandon students",
+      "Authority"
+    ],
+    "fear": "Being abandoned again",
+    "dream": "Find a teacher who truly cares",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "From revenge to redemption through Onizuka's care",
+    "motivation": "Test people to find genuine connection",
+    "affinity": "Intelligence",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Orchestrated classroom terrorism",
+    "IQ over 200"
+  ],
+  "titles": [
+    "The Mind",
+    "Classroom Terrorist"
+  ],
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 20,
+    "speed": 25,
+    "durability": 30,
+    "power": 85,
+    "combat": 15,
+    "total": 275
+  },
+  "relationships": {
+    "love_interest": "Eikichi Onizuka",
+    "best_friend": "Onizuka (after redemption)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Onizuka (after redemption)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Onizuka"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Kotono Mitsuishi",
+    "note": null,
+    "native_name": null,
+    "english": "Michelle Ruff",
+    "japanese": "Kotono Mitsuishi"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Reconciles with mother, celebrates Onizuka's return at school festival",
+    "role_in_story": "Supporting",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Genius Intellect",
+  "trump_card": "Strategic Manipulation",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Manipulative"
+    ],
+    "factors": [
+      "manipulative"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Holy Forest Academy",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "The antithesis to the \"dumb blonde\" stereotype, Urumi Kanzaki is a prodigy with an IQ over 200. She also has heterochromia, possessing different colored eyes: one brown and one blue. However, she is psychologically disturbed, having her fair share of hate toward teachers. Her genius is displayed repeatedly by such abstract actions as the detonation of time bombs (i.e. firecrackers in disposable boxes) and making a harmless snake look like a cobra using paper cutouts. Her intellect is also shown through actions, such as shouting curse words in French and being able to speak fluent Mandarin. On the trip in Okinawa, Toshito Kikuchi noted that she can speak 5 languages, but ironically, she doesn't understand what her Gundam otaku roommates say.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,338 @@
+{
+  "name": "Marathon",
+  "native_name": null,
+  "full_name": "Marathon",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Speedster",
+      "Racing outfit",
+      "A-Train successor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Vought",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe (Speedster)",
+    "secondary": null,
+    "rank_title": "Marathon",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Speed",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    },
+    {
+      "name": "Enhanced Reflexes",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Speed Dash",
+    "Sonic Boom",
+    "Quick Strike"
+  ],
+  "ultimate_move": "Marathon Blitz",
+  "trump_card": "Super Speed",
+  "power_attributes": {
+    "power_type": "Speed",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Speed",
+      "Hit-and-run"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Racing suit"
+    ],
+    "trump_card": "Super Speed",
+    "ultimate_move": "Marathon Blitz"
+  },
+  "personality": {
+    "traits": [
+      "Competitive",
+      "Fast",
+      "Ambitious",
+      "Vought supe"
+    ],
+    "likes": [
+      "Racing",
+      "Speed",
+      "Winning"
+    ],
+    "dislikes": [
+      "Losing",
+      "A-Train comparisons"
+    ],
+    "fear": "Being slower",
+    "dream": "Be the fastest supe",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Superhuman Speed",
+      "Enhanced Reflexes"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Speedster supe recruited to potentially replace A-Train in The Seven. Competes for the speedster position.",
+    "motivation": "Be the fastest and gain fame",
+    "affinity": "Speed",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Speedster supe"
+  ],
+  "titles": [
+    "Marathon",
+    "The Fast Supe"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 55,
+    "speed": 88,
+    "durability": 55,
+    "power": 75,
+    "combat": 55,
+    "total": 373
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability",
+      "Speed limits",
+      "Competitiveness"
+    ],
+    "factors": [
+      "Normal body",
+      "Can be outrun"
+    ]
+  },
+  "relationships": {
+    "nemesis": "A-Train (competition)",
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought"
+    ],
+    "colleague": null,
+    "enemy": [
+      "A-Train (competition)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Speed kills."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Speedster supe",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Marathon"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Running",
+      "Super speed"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "0432cb7ff113802d016bf3ea9984585c",
+  "publisher": "the_boys",
+  "about": "The marathon is a long-distance foot race with a distance of 42.195 kilometres, usually run as a road race, but the distance can be covered on trail routes. The marathon can be completed by running or with a run/walk strategy. There are also wheelchair divisions. More than 800 marathons are held worldwide each year, with the vast majority of competitors being recreational athletes, as larger marathons can have tens of thousands of participants.",
+  "note": null,
+  "source": "the_boys"
+}

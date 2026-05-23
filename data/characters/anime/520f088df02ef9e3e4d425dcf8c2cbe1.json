@@ -1,0 +1,402 @@
+{
+  "id": "520f088df02ef9e3e4d425dcf8c2cbe1",
+  "name": "Giyu Tomioka",
+  "native_name": "冨岡義勇",
+  "full_name": "Giyu Tomioka",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Demon Slayer)",
+    "bloodline": "Tomioka Family",
+    "height_cm": 176,
+    "weight_kg": 70,
+    "age": "19-21",
+    "birthday": "February 8",
+    "zodiac": "Aquarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Two-toned haori",
+      "Stoic expression",
+      "Water Hashira uniform"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan (Taisho era)",
+    "base_of_operations": "Demon Slayer Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Slayer",
+    "secondary": "Hashira",
+    "rank_title": "Water Hashira",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps",
+      "Hashira"
+    ],
+    "previous": [],
+    "relatives": [
+      "Tsutako (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer Episode 1",
+    "manga": "Demon Slayer Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Water Breathing",
+      "native_name": "水の呼吸",
+      "description": "Master of all water breathing forms. Fluid, adaptable sword techniques.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Mid",
+      "limit": "Stamina"
+    },
+    {
+      "name": "Eleventh Form: Dead Calm",
+      "native_name": "拾壱ノ型 凪",
+      "description": "Original technique creating calm water surface that nullifies attacks.",
+      "type": "Defense",
+      "tier": "Godly",
+      "power_level": 95,
+      "range": "Area",
+      "limit": "Concentration"
+    },
+    {
+      "name": "Tenth Form: Constant Flux",
+      "native_name": "拾ノ型 生生流転",
+      "description": "Continuous flowing attack that changes direction and power.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Mid",
+      "limit": "Stamina"
+    }
+  ],
+  "signature_moves": [
+    "Water Breathing forms",
+    "Dead Calm",
+    "Constant Flux"
+  ],
+  "ultimate_move": "Eleventh Form: Dead Calm",
+  "trump_card": "Original technique",
+  "power_attributes": {
+    "power_type": "Breathing Style",
+    "power_source": "Water Breathing",
+    "combat_style": [
+      "Swordsmanship",
+      "Water"
+    ],
+    "weapon": "Nichirin Sword",
+    "equipment": [
+      "Sword",
+      "Haori"
+    ],
+    "trump_card": "Original technique",
+    "ultimate_move": "Eleventh Form: Dead Calm"
+  },
+  "personality": {
+    "traits": [
+      "Stoic",
+      "Serious",
+      "Loyal",
+      "Protective",
+      "Humble",
+      "Distant"
+    ],
+    "likes": [
+      "Tanjiro",
+      "Duty",
+      "Silence",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Demons",
+      "Being misunderstood"
+    ],
+    "fear": "Failing others",
+    "dream": "Protect humanity from demons",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Distant"
+    ]
+  },
+  "character": {
+    "arc": "Giyu is the stoic Water Hashira who spared Tanjiro and Nezuko. Mentor figure who believes in their potential. Carries guilt over past failures.",
+    "motivation": "Protect humanity, honor Sabito",
+    "affinity": "Blue/Water",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Water Hashira",
+    "Survived Final Selection",
+    "Mentored Tanjiro"
+  ],
+  "titles": [
+    "Water Hashira",
+    "Water Pillar"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Slayer"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 85,
+    "speed": 88,
+    "durability": 85,
+    "power": 92,
+    "combat": 95,
+    "total": 530
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional guilt",
+      "Overly serious",
+      "Self-doubt"
+    ],
+    "factors": [
+      "Past trauma"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Muzan, Upper Moons",
+    "allies": [
+      "Tanjiro",
+      "Shinobu",
+      "Rengoku",
+      "Tengen"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tanjiro Kamado",
+        "relationship": "Protector/mentor",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Muzan",
+      "Upper Moons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Sabito (deceased)",
+    "rival": "None",
+    "mentor": "Sakonji",
+    "student": "Tanjiro",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tanjiro",
+      "Shinobu",
+      "Rengoku",
+      "Tengen",
+      "Sabito (deceased)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Muzan, Upper Moons",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Tanjiro"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tanjiro",
+      "Shinobu",
+      "Rengoku",
+      "Tengen",
+      "Sabito"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Sakonji"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Rui",
+      "result": "Victory",
+      "method": "Water Breathing"
+    },
+    {
+      "opponent": "Akaza",
+      "result": "Draw",
+      "method": "Dead Calm"
+    }
+  ],
+  "quotes": [
+    "I'm not hated.",
+    "Don't give up.",
+    "Those who regret their choices..."
+  ],
+  "voice_acting": {
+    "native_language": "Takahiro Sakurai (Japanese)",
+    "note": "Calm, stoic",
+    "native_name": null,
+    "english": "Johnny Yong Bosch",
+    "japanese": "Takahiro Sakurai"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as Hashira",
+    "transformation": "None",
+    "awakening_potential": "Mastered",
+    "power_evolution": [
+      "Slayer",
+      "Hashira",
+      "Water master",
+      "Mentor"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Demon Slayer HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 19 (chapter first), 21 (as of chapter 28)\nBirthday: February 8\nRace: human\nGender: male\nHeight: 176 cm (5'9\")\nWeight: 69 kg (152 lbs)\nHair color: black\nEye color: dark blue\n\nGiyuu Tomioka is a Demon Hunter and the Water Pillar of the Demon Slayer Corps.",
+  "note": null,
+  "source": "anime"
+}

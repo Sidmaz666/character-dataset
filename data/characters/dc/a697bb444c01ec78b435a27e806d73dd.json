@@ -1,0 +1,512 @@
+{
+  "id": "a697bb444c01ec78b435a27e806d73dd",
+  "name": "Superman",
+  "native_name": null,
+  "full_name": "Kal-El (Clark Joseph Kent)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Kryptonian",
+    "race": "Kryptonian",
+    "bloodline": "House of El",
+    "height_cm": 191,
+    "weight_kg": 101,
+    "age": "30s (varies by continuity)",
+    "birthday": "February 29",
+    "zodiac": "Pisces",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "S-shield on chest",
+      "Cape",
+      "Muscular build",
+      "Black hair with curl"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Krypton",
+    "current_location": "Metropolis",
+    "base_of_operations": "Fortress of Solitude, Metropolis",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Reporter",
+    "rank_title": "Man of Steel",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League",
+      "Daily Planet"
+    ],
+    "previous": [],
+    "relatives": [
+      "Jor-El (father, deceased)",
+      "Lara (mother, deceased)",
+      "Jonathan Kent (adoptive father, deceased)",
+      "Martha Kent (adoptive mother)",
+      "Lois Lane (wife)",
+      "Jon Kent (son)",
+      "Kara Zor-El (cousin)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Action Comics #1 (June 1938)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Vast superhuman strength capable of moving planets",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Solar energy dependence"
+    },
+    {
+      "name": "Invulnerability",
+      "native_name": null,
+      "description": "Nearly indestructible body resistant to most forms of harm",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Kryptonite, magic, red sun radiation"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Can move at speeds exceeding light",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Solar energy dependence"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly at supersonic speeds",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Solar energy dependence"
+    },
+    {
+      "name": "Heat Vision",
+      "native_name": null,
+      "description": "Can project intense heat beams from eyes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Solar energy dependence"
+    },
+    {
+      "name": "X-Ray Vision",
+      "native_name": null,
+      "description": "Can see through most materials",
+      "type": "Sensory",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Cannot see through lead"
+    },
+    {
+      "name": "Super Breath",
+      "native_name": null,
+      "description": "Can create hurricane-force winds and freeze objects",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Solar energy dependence"
+    },
+    {
+      "name": "Super Hearing",
+      "native_name": null,
+      "description": "Can hear sounds from great distances",
+      "type": "Sensory",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Planetary",
+      "limit": "Can be overwhelmed by loud sounds"
+    }
+  ],
+  "signature_moves": [
+    "Heat vision",
+    "Freeze breath",
+    "Super speed attacks"
+  ],
+  "ultimate_move": "Solar flare (releases all stored solar energy)",
+  "trump_card": "Superman Prime (cosmic level power)",
+  "power_attributes": {
+    "power_type": "Kryptonian Physiology",
+    "power_source": "Solar radiation (yellow sun)",
+    "combat_style": [
+      "Brute force",
+      "Speed-based",
+      "Versatile"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Superman suit",
+      "Fortress of Solitude"
+    ],
+    "trump_card": "Superman Prime (cosmic level power)",
+    "ultimate_move": "Solar flare (releases all stored solar energy)"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Compassionate",
+      "Hopeful",
+      "Responsible",
+      "Humble"
+    ],
+    "likes": [
+      "Helping others",
+      "Truth",
+      "Justice",
+      "Lois Lane",
+      "Humanity"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Kryptonite",
+      "Losing control",
+      "Deception"
+    ],
+    "fear": "Losing control of powers, Failing to protect others, Kryptonite",
+    "dream": "To protect humanity and inspire hope",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Responsible"
+    ],
+    "weaknesses": [
+      "Vulnerab"
+    ]
+  },
+  "character": {
+    "arc": "Last son of Krypton becoming Earth's greatest hero and symbol of hope",
+    "motivation": "To protect the innocent and uphold truth and justice",
+    "affinity": "Hope",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved Earth countless times",
+    "Justice League founder and leader",
+    "Defeated major threats like Darkseid, Doomsday, Lex Luthor",
+    "Became symbol of hope for humanity",
+    "Protected the universe"
+  ],
+  "titles": [
+    "Man of Steel",
+    "Man of Tomorrow",
+    "Big Blue Boy Scout",
+    "Last Son of Krypton",
+    "Superman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 95,
+    "total": 580
+  },
+  "weaknesses": {
+    "list": [
+      "Kryptonite",
+      "Magic",
+      "Red sun radiation",
+      "Lead blocks X-ray vision"
+    ],
+    "factors": [
+      "Solar energy depletion",
+      "Moral constraints",
+      "Overconfidence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Lex Luthor",
+    "allies": [
+      "Lois Lane",
+      "Batman",
+      "Wonder Woman",
+      "Justice League"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Lois Lane",
+        "relationship": "Wife",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Batman",
+        "relationship": "Best friend and ally",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Wonder Woman",
+        "relationship": "Close ally and friend",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Lex Luthor",
+      "Doomsday",
+      "Darkseid",
+      "Brainiac",
+      "Zod"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Lex Luthor",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Doomsday",
+        "relationship": "Killer",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Darkseid",
+        "relationship": "Cosmic threat",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Lois Lane",
+    "best_friend": "Batman",
+    "rival": "Cyborg Superman",
+    "mentor": "Jonathan Kent (deceased)",
+    "student": "Superboy (Conner Kent)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Lois Lane",
+      "Batman",
+      "Wonder Woman",
+      "Justice League"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Lex Luthor",
+      "Cyborg Superman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Jor (parent)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Jor (parent)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Cyborg Superman"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Superboy"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Lois Lane",
+      "Batman",
+      "Wonder Woman",
+      "Justice League"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Jonathan Kent"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Doomsday",
+      "result": "Death (temporary)",
+      "method": "Mutual destruction"
+    },
+    {
+      "opponent": "Lex Luthor",
+      "result": "Victory",
+      "method": "Superior abilities and intelligence"
+    },
+    {
+      "opponent": "Darkseid",
+      "result": "Victory",
+      "method": "Teamwork and solar power"
+    }
+  ],
+  "quotes": [
+    "Truth, justice, and the American way",
+    "I'm here to help",
+    "There's a right and a wrong in the universe, and that distinction is not hard to make",
+    "It's not about where you were born, or what powers you have, or what you look like. It's about what you do"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "George Newbern (Justice League), Henry Cavill (films), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect Earth",
+    "transformation": [
+      "Solar absorption",
+      "Various power upgrades"
+    ],
+    "awakening_potential": "Superman Prime (cosmic level)",
+    "power_evolution": [
+      "Basic Superman",
+      "Solar charged",
+      "Various power boosts"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight",
+      "Super speed"
+    ],
+    "vehicles": [
+      "None needed"
+    ],
+    "headquarters": "Fortress of Solitude, Metropolis",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Superman is a superhero created by writer Jerry Siegel and artist Joe Shuster, first appearing in issue #1 of Action Comics, published in the United States on April 18, 1938. Superman has been regularly published in American comic books published by DC Comics since then, and has been adapted to other media including radio serials, novels, films, television shows, theater, and video games. Superman is the archetypal superhero: he wears an outlandish costume, uses a codename, and fights evil and averts disasters with the aid of extraordinary abilities. Although there are earlier characters who arguably fit this definition, it was Superman who popularized the superhero genre and established its conventions. He was the best-selling superhero in American comic books up until the 1980s and remains the highest grossing superhero if one considers the entire history of the genre (starting in 1938).\nSuperman was born Kal-El, on the fictional planet Krypton. As a baby, his parents Jor-El and Lara sent him to Earth in a small spaceship shortly before Krypton was destroyed in an apocalyptic cataclysm. His ship landed in the American countryside near the fictional town of Smallville, Kansas, where he was found and adopted by farmers Jonathan and Martha Kent, who named him Clark Kent. The Kents quickly realized he was superhuman; due to the Earth's yellow sun, all of his physical and sensory abilities are far beyond those of a human, and he is nearly impervious to harm and capable of unassisted flight. His adoptive parents having instilled him with strong morals, he chooses to use his powers to benefit humanity, and to fight crime as a vigilante. To protect his personal life, he changes into a primary-colored costume and uses the alias \"Superman\" when fighting crime. Clark resides in the fictional American city of Metropolis, where he works as a journalist for the Daily Planet alongside supporting characters including his love interest and fellow journalist Lois Lane, photographer Jimmy Olsen, and editor-in-chief Perry White. His enemies include Brainiac, General Zod, and archenemy Lex Luthor.\nSince 1939, Superman has been featured in both Action Comics and his own Superman comic. He exists within the DC Universe, where he interacts with other heroes including fellow Justice League members like Wonder Woman and Batman, and appears in various titles based on the team. Different versions of the character exist in alternative universes; the Superman from the Golden Age of comic books was later labeled as the Earth-Two version while the version appearing in Silver Age and Bronze Age comics has been labeled the Earth-One Superman. His persona has also inspired the creation of characters such as Supergirl, Superboy and Krypto the Superdog.\nSuperman has been adapted outside of comics. The radio series The Adventures of Superman ran from 1940 to 1951 and would feature Bud Collyer as the voice of Superman. Collyer would also voice the character in a series of animated shorts produced by Fleischer/Famous Studios and released between 1941 and 1943. Superman also appeared in film serials in 1948 and 1950, played by Kirk Alyn. Christopher Reeve would portray Superman in the 1978 film and its sequels, and define the character in cinema for generations. Superman would continue to appear in feature films, including a series starring Henry Cavill and a 2025 film starring David Corenswet. The character has also appeared in numerous television series, including Adventures of Superman, played by George Reeves, and Superman: The Animated Series, voiced by Tim Daly.",
+  "note": null,
+  "source": "dc"
+}

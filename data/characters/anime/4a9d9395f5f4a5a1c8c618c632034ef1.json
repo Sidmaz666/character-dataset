@@ -1,0 +1,439 @@
+{
+  "id": "4a9d9395f5f4a5a1c8c618c632034ef1",
+  "name": "Denken",
+  "native_name": "デンケン",
+  "full_name": "Denken",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Elderly",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Gray/Silver",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Elderly appearance",
+      "Imperial mage robes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Weise Region",
+    "current_location": "Various",
+    "base_of_operations": "Imperial Magic Association",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "First-Class Mage",
+    "secondary": "Imperial Army Mage, Politician",
+    "rank_title": "First-Class Mage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Imperial Magic Association",
+      "First-Class Mage"
+    ],
+    "previous": [
+      "Imperial Army",
+      "Apprentice to Macht"
+    ],
+    "relatives": [
+      "Parents (deceased)",
+      "Wife (deceased)",
+      "Laufen (partner)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren",
+    "manga": "Sousou no Frieren",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mana Detection",
+      "native_name": null,
+      "description": "Talented at detecting mana. Could sense faint traces of mana in water left by Kanne during the First-Class Mage Exam. Also detected Frieren's binding spell.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long",
+      "limit": "Cannot match Frieren's concealment"
+    },
+    {
+      "name": "Keen Intellect",
+      "native_name": null,
+      "description": "Cunning and politically savvy after years of navigating imperial politics. Excellent at analyzing situations and planning courses of action.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Physical limitations of age"
+    },
+    {
+      "name": "Multi-Spell Casting",
+      "native_name": null,
+      "description": "Tries different spells consecutively in combat, making him unpredictable. Can engage in aerial battles against powerful mages.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Limited mana compared to elite mages"
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "native_name": null,
+      "description": "Capable of engaging opponents in physical combat beyond just magic.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": "Elderly"
+    },
+    {
+      "name": "Lights of Judgement",
+      "native_name": "Catastravia",
+      "description": "A powerful offensive spell that creates lights of judgment to attack opponents.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Long",
+      "limit": "Requires charging time"
+    },
+    {
+      "name": "Curse Reversal",
+      "native_name": "Mistilziela",
+      "description": "A spell to reverse curses, which Denken requested from Serie after becoming a First-Class Mage.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Short",
+      "limit": "Very specific use"
+    }
+  ],
+  "signature_moves": [
+    "Multi-Spell Assault",
+    "Lights of Judgement: Catastravia",
+    "Mana Sensing"
+  ],
+  "ultimate_move": "Lights of Judgement: Catastravia",
+  "trump_card": "Political Connections and Experience",
+  "power_attributes": {
+    "power_type": "Mana/Magic",
+    "power_source": "Imperial Magic Training",
+    "combat_style": [
+      "Multi-Spell Combat",
+      "Aerial Magic Combat",
+      "Tactical Analysis"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Imperial Mage Robes"
+    ],
+    "trump_card": "Political Connections and Experience",
+    "ultimate_move": "Lights of Judgement: Catastravia"
+  },
+  "personality": {
+    "traits": [
+      "Cautious",
+      "Calm",
+      "Strategic",
+      "Determined",
+      "Patient"
+    ],
+    "likes": [
+      "Strategy",
+      "His late wife",
+      "Laufen"
+    ],
+    "dislikes": [
+      "Demon attacks",
+      "Recklessness",
+      "Failure"
+    ],
+    "fear": "Not being able to visit his hometown cemetery",
+    "dream": "To visit his hometown cemetery where his wife is buried",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Strategic",
+      "Patient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "An elderly mage who spent his life seeking power and influence in the imperial army, ultimately motivated by the desire to visit his wife's grave in a demon-plagued region that only First-Class Mages can enter.",
+    "motivation": "Honoring his late wife, protecting others from demons",
+    "affinity": "Mana",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became a First-Class Mage at an elderly age",
+    "Survived imperial politics for decades",
+    "Apprentice to Macht",
+    "Passed First-Class Mage Exam alongside Frieren"
+  ],
+  "titles": [
+    "First-Class Mage",
+    "Imperial Mage"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 35,
+    "speed": 45,
+    "durability": 50,
+    "power": 75,
+    "combat": 60,
+    "total": 353
+  },
+  "weaknesses": {
+    "list": [
+      "Elderly with physical limitations",
+      "Limited mana compared to younger mages",
+      "Slower in physical combat"
+    ],
+    "factors": [
+      "Age",
+      "Political distractions"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Frieren",
+      "Fern",
+      "Laufen",
+      "Macht (former teacher)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Laufen",
+        "relationship": "Partner",
+        "trust_level": "High"
+      },
+      {
+        "name": "Frieren",
+        "relationship": "Fellow First-Class Mage",
+        "trust_level": "Respectful"
+      }
+    ],
+    "enemies": [
+      "Demons",
+      "Richter"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Demons",
+        "relationship": "Enemy race",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "His late wife",
+    "best_friend": "Laufen",
+    "rival": "Frieren",
+    "mentor": "Macht",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Fern",
+      "Laufen",
+      "Macht (former teacher)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Frieren"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Frieren"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Fern",
+      "Laufen",
+      "Macht"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Macht"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Frieren",
+      "result": "Defeat",
+      "method": "Overwhelmed by her basic offensive magic despite multi-spell assault"
+    },
+    {
+      "opponent": "Richter",
+      "result": "Victory (via Lawine and Kanne)",
+      "method": "Frieren broke barrier to give allies advantage"
+    }
+  ],
+  "quotes": [
+    "I only wanted to visit my wife's grave.",
+    "Once Frieren broke the barrier, my loss was inevitable."
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": null,
+    "native_name": null,
+    "english": "Ben Phillips",
+    "japanese": "Jirou Saitou"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Passed First-Class Mage Exam, can now visit his hometown",
+    "transformation": null,
+    "awakening_potential": "Achieved his goal of becoming First-Class Mage",
+    "power_evolution": [
+      "Apprentice",
+      "Imperial Mage",
+      "First-Class Mage"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Imperial Magic Association",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "An elderly Imperial mage. A cautious person who always keeps calm and analyzes the situation before entering into battle. A competent leader who values coordination and cooperation.",
+  "note": null,
+  "source": "anime"
+}

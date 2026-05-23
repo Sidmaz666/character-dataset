@@ -1,0 +1,376 @@
+{
+  "id": "df795a81e0252703ddcd3346a6d57b42",
+  "name": "Aunt May",
+  "native_name": "",
+  "full_name": "May Reilly Parker",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Reilly Family",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "65",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White/Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Elderly woman",
+      "Glasses"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "New York City",
+    "base_of_operations": "Forest Hills, Queens",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Homemaker",
+    "secondary": "Hospital Volunteer",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Parker Family"
+    ],
+    "previous": [],
+    "relatives": [
+      "Ben Parker (husband, deceased)",
+      "Peter Parker (nephew)",
+      "Mary Jane Watson-Parker (niece-in-law)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Fantasy #15 (1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Indomitable Will",
+      "native_name": null,
+      "description": "Incredible inner strength despite being a normal elderly woman",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Nurturing Presence",
+      "native_name": null,
+      "description": "Maternal instinct to care for her loved ones",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Moral Compass",
+      "native_name": null,
+      "description": "Strong moral center that guided Peter to become a hero",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Perceptive",
+      "native_name": null,
+      "description": "Remarkably perceptive about people",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Cooking",
+      "native_name": null,
+      "description": "Famous for her wheat cakes",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "The Worried Aunt Speech"
+  ],
+  "ultimate_move": "Maternal Wisdom",
+  "trump_card": "Peter's love for her",
+  "power_attributes": {
+    "power_type": "Human",
+    "power_source": "Life experience",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Handbag"
+    ],
+    "trump_card": "Peter's love for her",
+    "ultimate_move": "Maternal Wisdom"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Patient",
+      "Worried",
+      "Strong-willed",
+      "Loving"
+    ],
+    "likes": [
+      "Cooking",
+      "Her nephew Peter",
+      "Gardening"
+    ],
+    "dislikes": [
+      "Spider-Man's danger"
+    ],
+    "fear": "Losing Peter",
+    "dream": "Peter to have a safe, happy life",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strong-willed",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Low durability",
+      "Limited power",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "The loving aunt who raised Peter Parker, later discovering his secret identity",
+    "motivation": "Protect and care for her family",
+    "affinity": "Family/Love",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Raised Peter Parker",
+    "Kept Spider-Man's identity secret"
+  ],
+  "titles": [
+    "Aunt May",
+    "May Parker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 20,
+    "speed": 20,
+    "durability": 25,
+    "power": 15,
+    "combat": 15,
+    "total": 160
+  },
+  "weaknesses": {
+    "list": [
+      "Elderly health issues",
+      "Heart condition"
+    ],
+    "factors": "Normal human"
+  },
+  "relationships": {
+    "nemesis": "Green Goblin",
+    "allies": [
+      "Peter Parker",
+      "Mary Jane Watson"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Green Goblin",
+      "Doctor Octopus"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Ben Parker (deceased)",
+    "best_friend": "Anna Watson",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Peter Parker",
+      "Mary Jane Watson",
+      "Anna Watson"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Green Goblin"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Peter Parker",
+      "Mary Jane Watson",
+      "Anna Watson"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "With great power comes great responsibility.",
+    "Oh my stars and garters!"
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Living with Peter and MJ",
+    "transformation": "N/A",
+    "awakening_potential": "Unknown",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Maybelle \"May\" Parker-Jameson, commonly known as Aunt May, is a fictional character appearing in American comic books published by Marvel Comics, commonly in association with the superhero Spider-Man. Making her first full appearance in Amazing Fantasy #15, the character was created by writer Stan Lee and artist Steve Ditko, playing an influential role in the Spider-Man comic books.",
+  "note": null,
+  "source": "marvel"
+}

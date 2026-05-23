@@ -1,0 +1,371 @@
+{
+  "id": "ff24443161d963012ebf4c2bd920d6f0",
+  "name": "Blue Beetle",
+  "native_name": null,
+  "full_name": "Theodore Stephen 'Ted' Kord",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kord",
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Chicago, Illinois",
+    "current_location": "Chicago",
+    "base_of_operations": "Kord Industries, The Bug",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "CEO of Kord Industries, Inventor",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League International",
+      "L.A.W."
+    ],
+    "previous": [
+      "Justice League",
+      "Extreme Justice"
+    ],
+    "relatives": [
+      "Thomas Kord (father, deceased)",
+      "Jarvis Kord (uncle, deceased)",
+      "Daniel Garrett (mentor, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Captain Atom #83 (November 1966)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "IQ of 192. Proficient in physics, chemistry, computer science, genetics, mechanical engineering, and aerospace engineering. Mastery of extraterrestrial technology.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Olympic-Level Athletics",
+      "native_name": null,
+      "description": "Peak physical condition with extraordinary agility and acrobatic skills.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Martial Arts",
+      "native_name": null,
+      "description": "Skilled in karate and aikido. Expert hand-to-hand combatant.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Espionage",
+      "native_name": null,
+      "description": "Highly skilled in stealth, stealth and espionage.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Flash Bang",
+    "Air Blast"
+  ],
+  "ultimate_move": "Bug Airship Assault",
+  "trump_card": "Full Technological Arsenal",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Genius Intellect and Gadgets",
+    "combat_style": [
+      "Acrobatics",
+      "Gadget Combat"
+    ],
+    "weapon": "The Bug (airship), BB Gun",
+    "equipment": [
+      "Strobe Light Gun",
+      "Compressed Air Blaster"
+    ],
+    "trump_card": "Full Technological Arsenal",
+    "ultimate_move": "Bug Airship Assault"
+  },
+  "personality": {
+    "traits": [
+      "Clever",
+      "Witty",
+      "Resourceful",
+      "Determined"
+    ],
+    "likes": [
+      "Technology",
+      "Inventions"
+    ],
+    "dislikes": [
+      "Giving up"
+    ],
+    "fear": "Failure",
+    "dream": "Being a true hero",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Resourceful"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Using technology and wits to continue hero legacy without powers",
+    "motivation": "Honor Dan Garrett's legacy",
+    "affinity": "Technology",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Justice League Member",
+    "Kord Industries CEO"
+  ],
+  "titles": [
+    "Blue Beetle II",
+    "Ted"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 55,
+    "speed": 60,
+    "durability": 55,
+    "power": 50,
+    "combat": 65,
+    "total": 380
+  },
+  "weaknesses": {
+    "list": [
+      "No superpowers",
+      "Relies on technology"
+    ],
+    "factors": [
+      "Equipment can be disabled"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Booster Gold",
+      "Green Lantern",
+      "The Question"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Jarvis Kord"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Booster Gold",
+    "rival": null,
+    "mentor": "Daniel Garrett",
+    "student": "Jaime Reyes",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Booster Gold",
+      "Green Lantern",
+      "The Question"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Jarvis Kord"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Jaime Reyes"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Booster Gold",
+      "Green Lantern",
+      "The Question"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Daniel Garrett"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I don't need the scarab. I've got something better: brains."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "Various voice actors in animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Captain Atom during Infinite Crisis",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "The Bug"
+    ],
+    "vehicles": [],
+    "headquarters": "Kord Industries",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Blue Beetle is the name of three superheroes appearing in a number of American comic books published by a variety of companies since 1939. The most recent of the companies to own rights to Blue Beetle is DC Comics, which bought the rights to the character from Charlton Comics in 1983, using the name for three distinct characters over the years.\nThe original Blue Beetle was created by Charles Nicholas Wojtkoski and Fox Comics and later owned by Charlton Comics. The first Beetle was Dan Garret (later spelled Dan Garrett), who initially gained superpowers from a special vitamin, which was later changed to gaining powers from a \"sacred scarab\". The original Blue Beetle was featured in not only his own comic but also a weekly radio serial.\nThe second Blue Beetle, created by Charlton and later taken over by DC Comics, was the successor to Dan Garrett known as Ted Kord. Kord \"jumped\" to the DC Comics universe during the Crisis on Infinite Earths alongside a number of other Charlton Comics characters. The second Blue Beetle later starred in his own 24-issue comic. Kord never had any super powers but used science to create various devices to help him fight crime. He became a member of the Justice League of America and was later killed during the prelude to DC Comics' 2005 Infinite Crisis cross over.\nThe third Blue Beetle, created by DC Comics, is Jaime Reyes, a teenager who discovers that the original Blue Beetle scarab morphs into a battle suit allowing him to fight crime and travel in space. Over the years, Reyes became a member of the Teen Titans and starred in two Blue Beetle comic series. In DC Comics' 2011 \"The New 52\" reboot, Jaime Reyes was the primary Blue Beetle character, only occasionally referring to past versions. With the subsequent continuity revision \"DC Rebirth\" in 2016, the previous versions were restored.\nThe characters have appeared in a variety of other media. The Jaime Reyes incarnation appears in the 2023 DC Extended Universe film Blue Beetle, portrayed by Xolo Maridueña.",
+  "note": null,
+  "source": "dc"
+}

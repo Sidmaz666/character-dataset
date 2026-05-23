@@ -1,0 +1,383 @@
+{
+  "id": "474382d76bf351643df405b9e160b7ce",
+  "name": "Renji Abarai",
+  "native_name": "阿散井恋次",
+  "full_name": "Renji Abarai",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Shinigami",
+    "race": "Soul",
+    "bloodline": "None",
+    "height_cm": 188,
+    "weight_kg": 78,
+    "age": "Unknown (appears 20s)",
+    "birthday": "August 31",
+    "zodiac": "Virgo",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red hair",
+      "Tattoos",
+      "Pineapple hairstyle",
+      "Tall"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Rukongai",
+    "current_location": "Soul Society",
+    "base_of_operations": "6th Division",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Lieutenant (6th Division)",
+    "secondary": "Shinigami",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "6th Division"
+    ],
+    "previous": [],
+    "relatives": [
+      "Rukia Kuchiki (adoptive sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zabimaru",
+      "native_name": "蛇尾丸",
+      "description": "Shikai extends into segmented blade. Bankai is a full snake skeleton.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Hiaburi",
+      "native_name": "飛鏑",
+      "description": "Long-range energy attack using reiatsu.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Reiatsu cost"
+    }
+  ],
+  "signature_moves": [
+    "Zabimaru strike",
+    "Hiaburi",
+    "Bankai"
+  ],
+  "ultimate_move": "Hihibashira (Bankai)",
+  "trump_card": "Bankai",
+  "power_attributes": {
+    "power_type": "Reiatsu",
+    "power_source": "Soul",
+    "combat_style": [
+      "Sword",
+      "Kido"
+    ],
+    "weapon": "Zabimaru",
+    "equipment": [
+      "Zabimaru"
+    ],
+    "trump_card": "Bankai",
+    "ultimate_move": "Hihibashira (Bankai)"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Hot-headed",
+      "Determined",
+      "Passionate",
+      "Protective"
+    ],
+    "likes": [
+      "Rukia",
+      "Training",
+      "Fighting",
+      "Justice"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Betrayal",
+      "Weakness"
+    ],
+    "fear": "Losing Rukia",
+    "dream": "Protect Rukia, become stronger",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Renji starts as Rukia's childhood friend, becomes a lieutenant, and fights to save her from execution.",
+    "motivation": "Protect Rukia, become stronger",
+    "affinity": "Red/Passion",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "6th Division Lieutenant",
+    "Bankai user",
+    "Defeated Byakuya (training)"
+  ],
+  "titles": [
+    "Lieutenant",
+    "Pineapple Head"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 85,
+    "speed": 80,
+    "durability": 82,
+    "power": 85,
+    "combat": 88,
+    "total": 490
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional",
+      "Reckless",
+      "Overpowered by captains"
+    ],
+    "factors": [
+      "Rukia's safety"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Byakuya (initially)",
+    "allies": [
+      "Ichigo",
+      "Rukia",
+      "Byakuya"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rukia Kuchiki",
+        "relationship": "Sister figure",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Aizen"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Rukia (unrequited)",
+    "best_friend": "Ichigo",
+    "rival": "Byakuya",
+    "mentor": "Byakuya",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ichigo",
+      "Rukia",
+      "Byakuya"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Byakuya (initially)",
+      "Byakuya"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Byakuya"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo",
+      "Rukia",
+      "Byakuya"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Byakuya"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Byakuya Kuchiki",
+      "result": "Defeat",
+      "method": "Outclassed"
+    },
+    {
+      "opponent": "Espada",
+      "result": "Victory",
+      "method": "Bankai"
+    }
+  ],
+  "quotes": [
+    "I'll save you, Rukia!",
+    "Don't look away!"
+  ],
+  "voice_acting": {
+    "native_language": "Kentaro Ito (Japanese)",
+    "note": "Passionate voice",
+    "native_name": null,
+    "english": "Wally Wingert",
+    "japanese": "Kentarō Itō"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as lieutenant",
+    "transformation": "Bankai",
+    "awakening_potential": "Captain material",
+    "power_evolution": [
+      "Rukongai",
+      "Academy",
+      "Seated officer",
+      "Lieutenant"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "6th Division",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: August 31\nZodiac: Virgo\nGender: Male\nRace: Shinigami\nHeight: 187.96 cm\nWeight: 78.17 kg\nTitle: Lieutenant of 6th Division\nZanpakuto: Zabimaru\nBankai: Hihio Zabimaru, \nShikai Command: Roar! Zabimaru!\nEducation: Shinou Academy\nMarital status: married\nFavorite sport: futsal\n\nRenji is one of the most unusual Bleach character, having long crimson hair which is usually kept in high ponytail, and whole upper body tattooed in tribal work. He dresses in normal Shinigami kimono, but he usually wears some kind of headband (it's shown to be rather very expensive glasses or white headband).\n\nIn terms of personality, Renji is same as any other Shinigami. His personality varies from cocky and eccentric, to being depressed after he's defeated, all the way to being clueless and funny. Although he's carefree and happy character in most of the series, he can be quite serious, especially when it's the matter of life and death situations for either him or people he hold precious.\n\nHe is shown to have rather complicated relationship with his captain, Kuchiki Byakuya. Renji sees Byakuya as the goal he has to surpass. First time, when Renji was still in the Academy, he encountered Byakuya and felt something chilling about him. In the meantime, Renji became Byakuya's lieutenant, and throughout the series, Renji starts to see Byakuya not only as rival, but also as man he can look up to.",
+  "note": null,
+  "source": "anime"
+}

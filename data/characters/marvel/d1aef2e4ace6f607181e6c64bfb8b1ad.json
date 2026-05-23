@@ -1,0 +1,386 @@
+{
+  "id": "d1aef2e4ace6f607181e6c64bfb8b1ad",
+  "name": "Iceman",
+  "native_name": "Bobby Drake",
+  "full_name": "Robert Drake",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "Unknown",
+    "birthday": "December 21",
+    "zodiac": "Sagittarius",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown (auburn as Ice form)",
+    "skin_color": "Fair",
+    "notable_features": "Ice armor form - can become organic ice",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York",
+    "current_location": "X-Mansion",
+    "base_of_operations": "X-Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Teacher",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "X-Men",
+      "New Warriors"
+    ],
+    "previous": [
+      "Original X-Men"
+    ],
+    "relatives": [
+      "Maybelle (mother)",
+      "Harold (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "X-Men #1 (September 1963)",
+    "comics": "X-Men #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cryokinesis",
+      "native_name": null,
+      "description": "Generate and manipulate ice and cold",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Hydrokinesis",
+      "native_name": null,
+      "description": "Control moisture on molecular level",
+      "type": "Attack/Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Planetary",
+      "limit": null
+    },
+    {
+      "name": "Organic Ice Form",
+      "native_name": null,
+      "description": "Transform into living ice - fully durable",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "At first lost powers on M-Day, later restored"
+    },
+    {
+      "name": "Ice Clone Generation",
+      "native_name": null,
+      "description": "Create sentient ice copies of self",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Various",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Molecular Reconstitution",
+      "native_name": null,
+      "description": "Regenerate from any ice or water - functionally immortal",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Ice shield",
+    "Ice blast",
+    "Ice wall"
+  ],
+  "ultimate_move": "Ice army generation",
+  "trump_card": "Omega-class power",
+  "power_attributes": {
+    "power_type": "Cryo/Hydrokinesis",
+    "power_source": "Mutant",
+    "combat_style": [
+      "Ice manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Ice shield"
+    ],
+    "trump_card": "Omega-class power",
+    "ultimate_move": "Ice army generation"
+  },
+  "personality": {
+    "traits": [
+      "Witty",
+      "Optimistic",
+      "Confident",
+      "Brave"
+    ],
+    "likes": [
+      "Pranks",
+      "Being ice hero"
+    ],
+    "dislikes": [
+      "Anti-mutant sentiment"
+    ],
+    "fear": "Not being true self",
+    "dream": "Proud mutant hero",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From insecure teen to Omega-level hero",
+    "motivation": "Proving himself",
+    "affinity": "Ice",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Omega-level mutant",
+    "Founding X-Men member",
+    "Became proud LGBTQ+ icon"
+  ],
+  "titles": [
+    "Bobby",
+    "Iceman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 70,
+    "speed": 75,
+    "durability": 85,
+    "power": 100,
+    "combat": 65,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Fire",
+      "Heat",
+      "Limited by imagination"
+    ],
+    "factors": [
+      "Fire/heat attacks"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mr. Sinister",
+    "allies": [
+      "Original X-Men",
+      "Emma Frost"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ice",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Styx",
+      "Sentinel"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Professor X",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Original X-Men",
+      "Emma Frost"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mr. Sinister"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Original X-Men",
+      "Emma Frost"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Professor X"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "It's Iceman!",
+    "Coolest mutant alive!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Caleb McLaughlin (film)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": "Born with mutant powers",
+    "awakening_potential": "Omega-level - fully realized",
+    "power_evolution": [
+      "Teen hero",
+      "Omega-level hero"
+    ],
+    "role_in_story": "Major character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Ice slide"
+    ],
+    "vehicles": [],
+    "headquarters": "X-Mansion",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Iceman is a superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Created by writer Stan Lee and artist/co-plotter Jack Kirby, the character first appeared in The X-Men #1. Iceman is a mutant born with superhuman abilities. He has the ability to manipulate ice and cold by freezing water vapor around him. This allows him to freeze objects, as well as cover his body with ice.",
+  "note": null,
+  "source": "marvel"
+}

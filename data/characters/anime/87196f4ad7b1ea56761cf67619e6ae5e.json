@@ -1,0 +1,360 @@
+{
+  "id": "87196f4ad7b1ea56761cf67619e6ae5e",
+  "name": "River, Nate",
+  "native_name": "ネイト・リバー",
+  "full_name": "Nate River (Near/N)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 155,
+    "weight_kg": 40,
+    "age": "13-17",
+    "birthday": "August 24",
+    "zodiac": "Virgo",
+    "blood_type": "B",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 16.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gray",
+    "hair_color": "White/Silver",
+    "skin": "Pale",
+    "notable_features": "Childlike appearance, always hunches, plays with toys",
+    "skin_color": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Winchester, England (Wammy's House)",
+    "current_location": "USA",
+    "base_of_operations": "USA",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Head of SPK (Special Provision for Kira)",
+    "secondary": "Third L",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "SPK",
+      "Wammy's House"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Death Note Episode 26-27",
+    "manga": "Chapter 59",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Deductive Reasoning",
+      "native_name": "",
+      "description": "Genius-level analytical ability, solves cases using logic and evidence",
+      "type": "Support",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Long"
+    },
+    {
+      "name": "Strategic Planning",
+      "native_name": "",
+      "description": "Creates complex strategies to trap Kira",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95
+    },
+    {
+      "name": "Tactical Analysis",
+      "native_name": "",
+      "description": "Uses toys and objects as props for theories",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85
+    }
+  ],
+  "signature_moves": [
+    "Logical Traps",
+    "Psychological Warfare",
+    "Evidence Construction"
+  ],
+  "power_attributes": {
+    "power_type": "Intellect",
+    "power_source": "Wammy's House training",
+    "combat_style": [
+      "Strategy",
+      "Deduction"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Logical Traps"
+    ],
+    "trump_card": "Strategic Planning",
+    "ultimate_move": "Deductive Reasoning"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Analytical",
+      "Detached",
+      "Methodical",
+      "Childlike quirks"
+    ],
+    "likes": [
+      "Toys",
+      "Puzzles",
+      "Solving cases"
+    ],
+    "dislikes": [
+      "Kira",
+      "Uncertainty",
+      "Mello's methods"
+    ],
+    "fear": "Losing to Kira",
+    "dream": "Catch Kira and prove superior to L",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Low durability",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Child detective becomes third L, catches Kira",
+    "motivation": "Prove himself worthy successor to L",
+    "affinity": "Intelligence",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Founded SPK",
+    "Apprehended Light Yagami",
+    "Became Third L",
+    "Burned Death Notes"
+  ],
+  "titles": [
+    "Near",
+    "N",
+    "Third L"
+  ],
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 25,
+    "speed": 30,
+    "durability": 25,
+    "power": 80,
+    "combat": 20,
+    "total": 280
+  },
+  "relationships": {
+    "mentor": "L (Roger Ruvie)",
+    "rival": "Mihael Keehl (Mello)",
+    "nemesis": "Light Yagami",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Light Yagami",
+      "Mihael Keehl"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Light Yagami",
+      "Mihael Keehl (Mello)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mihael Keehl"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "SPK",
+      "Wammy's House"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "L"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Light Yagami (Kira)",
+      "result": "Victory",
+      "method": "Psychological manipulation and evidence"
+    }
+  ],
+  "quotes": [
+    "I'm the type of person who solves the problem I want to solve.",
+    "I won't let you kill me."
+  ],
+  "voice_acting": {
+    "native_language": "Noriko Hidaka",
+    "note": null,
+    "native_name": null,
+    "english": "Cathy Weseluck",
+    "japanese": "Noriko Hidaka"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as L after catching Kira",
+    "role_in_story": "Protagonist (second half)",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Deductive Reasoning",
+  "trump_card": "Strategic Planning",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Low durability",
+      "Poor combat skills"
+    ],
+    "factors": [
+      "physically weak",
+      "low durability",
+      "poor combat skills"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "USA",
+    "story_importance": "Protagonist (second half)",
+    "note": null
+  },
+  "about": "Height: 212 cm\nWeight: 130 kg\nTrue Identity: Alexander the Great/Iskandar, King of Conquerors\nMaster: Waver Velvet\nCatalyst: Mantle once worn by Iskandar himself\nHoly Grail War No.: 4th Holy Grail War\n\nRider was originally meant to be summoned by Lord Kayneth El-Melloi Archibald, but due to some circumstances, he ended up being Waver Velvet's servant.\n\nIskandar, or how he refers to himself, the King of Conquerors is a noble and courageous man, who prefers to conquer his enemies by winning without killing and controlling without humiliating them. He is known as a marvelous ruler who once almost conquered the whole known world.\n\nHe is not pragmatic, but is a person who lets history run its course and acts according to his impulses. While he is wild and somewhat inconsiderate to others, his greed ultimately resulted in the happiness of the people he ruled over.\n\nIn the new era, Rider is mostly amazed by ordinary modern things, and usually spends his free time exploring modern war vehicles and machinery.",
+  "note": null,
+  "source": "anime"
+}

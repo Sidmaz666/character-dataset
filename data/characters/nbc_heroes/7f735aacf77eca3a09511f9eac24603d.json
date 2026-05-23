@@ -1,0 +1,394 @@
+{
+  "id": "7f735aacf77eca3a09511f9eac24603d",
+  "name": "Sylar",
+  "native_name": "Gabriel Gray",
+  "full_name": "Gabriel Gray (Sylar)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Evoluted Human",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Dark Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Watchmaker hands"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Various",
+    "current_location": "Various",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Serial Killer",
+    "secondary": "Watchmaker, Superhero (later)",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Various (evolving)"
+    ],
+    "previous": [
+      "The Company"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Heroes TV Series (2006)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Intuitive Aptitude",
+      "native_name": null,
+      "description": "Ability to understand how anything works, innate scientific genius",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "N/A",
+      "limit": "Requires study"
+    },
+    {
+      "name": "Power Absorption",
+      "native_name": null,
+      "description": "Can steal other evolved humans' powers by studying their brains",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Touch",
+      "limit": "Requires killing"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects with mind (first power stolen)",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Rapid healing when not killed by head trauma",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Brain must be intact"
+    }
+  ],
+  "signature_moves": [
+    "Telekinetic blast",
+    "Head crush",
+    "Power steal"
+  ],
+  "ultimate_move": "Full Power Set",
+  "trump_card": "Complete Power Absorption",
+  "power_attributes": {
+    "power_type": "Psychic/Adaptive",
+    "power_source": "Genetic mutation",
+    "combat_style": [
+      "Scientific analysis",
+      "Telekinesis"
+    ],
+    "weapon": "None (creates tools)",
+    "equipment": [
+      "Watchmaking tools"
+    ],
+    "trump_card": "Complete Power Absorption",
+    "ultimate_move": "Full Power Set"
+  },
+  "personality": {
+    "traits": [
+      "Genius",
+      "Driven",
+      "Obsessive",
+      "Ambitious"
+    ],
+    "likes": [
+      "Understanding",
+      "Knowledge"
+    ],
+    "dislikes": [
+      "Being told no",
+      "Inefficiency"
+    ],
+    "fear": "Being ordinary",
+    "dream": "Be the most powerful",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius"
+    ],
+    "weaknesses": [
+      "Obsessive"
+    ]
+  },
+  "character": {
+    "arc": "Watchmaker who became serial killer stealing powers, eventually became hero",
+    "motivation": "Become special, gain power",
+    "affinity": "Telepathy/Kinesis",
+    "alignment": "Chaotic Neutral (evolving)"
+  },
+  "achievements": [
+    "Stealing multiple powers",
+    "Defeated numerous heroes",
+    "Saved the world (later)",
+    "Became company CEO"
+  ],
+  "titles": [
+    "The Watchmaker",
+    "Hero",
+    "The Killer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 70,
+    "speed": 70,
+    "durability": 80,
+    "power": 95,
+    "combat": 80,
+    "total": 495
+  },
+  "weaknesses": {
+    "list": [
+      "Brain vulnerability",
+      "Power dependency"
+    ],
+    "factors": "Cannot take without killing"
+  },
+  "relationships": {
+    "nemesis": "Hiro Nakamura, Peter Petrelli",
+    "allies": [
+      "The Company",
+      "Claire Bennet (later)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Claire Bennet",
+        "relationship": "Friend",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Various heroes"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Hiro Nakamura",
+        "relationship": "Rival",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Peter Petrelli",
+    "mentor": "Chandra Suresh",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Company",
+      "Claire Bennet (later)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hiro Nakamura, Peter Petrelli",
+      "Peter Petrelli"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Peter Petrelli"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Company",
+      "Claire Bennet"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Chandra Suresh"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Claire Bennet",
+      "result": "Stole power",
+      "method": "Studied her brain"
+    },
+    {
+      "opponent": "Hiro Nakamura",
+      "result": "Defeat (initially)",
+      "method": "Stabbed in future"
+    }
+  ],
+  "quotes": [
+    "People don't understand me.",
+    "I'm not a killer. I'm a hero."
+  ],
+  "voice_acting": {
+    "native_language": "Zachary Quinto",
+    "english": "Zachary Quinto",
+    "note": "Portrayed by Zachary Quinto",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues in various forms",
+    "transformation": "Stole multiple powers",
+    "awakening_potential": "Could become most powerful",
+    "power_evolution": [
+      "Watchmaker",
+      "Serial killer",
+      "Hero"
+    ],
+    "role_in_story": "Main antagonist then hero",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Various",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "nbc_heroes",
+  "about": "Sylar is a fictional character and a primary antagonist of the NBC superhero drama series Heroes. Portrayed by Zachary Quinto, he is a super-powered serial killer who targets other superhumans in order to steal their powers. He served as the primary villain of the first season and then as a recurring antagonist. Over the course of seasons 2, 3 and 4, the writers depicted Sylar attempting at various times and under different circumstances to become a hero or curb his desire to kill, undergoing relapses at various stages. In the series' penultimate episode he experienced over three years of penitence in a mental prison, and later identifies himself as a hero in what became the show's series finale due to cancellation.",
+  "note": null,
+  "source": "nbc_heroes"
+}

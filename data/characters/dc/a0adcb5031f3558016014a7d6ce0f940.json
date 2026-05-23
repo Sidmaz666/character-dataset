@@ -1,0 +1,360 @@
+{
+  "id": "a0adcb5031f3558016014a7d6ce0f940",
+  "name": "Bushido",
+  "native_name": null,
+  "full_name": "Ryuko Orsono",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 178,
+    "weight_kg": 75,
+    "age": "25",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "-",
+    "hair_color": "-",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "-",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Teen Titans"
+    ],
+    "previous": [],
+    "relatives": [
+      "-"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Titans: Secret Files & Origins #2",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Master Swordsman",
+      "native_name": null,
+      "description": "Expert in traditional Japanese swordsmanship",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Samurai Training",
+      "native_name": null,
+      "description": "Trained in traditional samurai combat techniques",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Martial Arts Expert",
+      "native_name": null,
+      "description": "Skilled in multiple hand-to-hand combat forms",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Reflexes",
+      "native_name": null,
+      "description": "Exceptionally fast reflexes from years of training",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Stealth",
+      "native_name": null,
+      "description": "Trained in ninja-level stealth techniques",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Katana Slash",
+    "Samurai Charge",
+    "Blade Dance"
+  ],
+  "ultimate_move": "Bushido's Final Strike",
+  "trump_card": "Samurai code of honor",
+  "power_attributes": {
+    "power_type": "Peak Human",
+    "power_source": "Training",
+    "combat_style": [
+      "Swordsmanship",
+      "Samurai techniques"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "Samurai armor",
+      "Shuriken"
+    ],
+    "trump_card": "Samurai code of honor",
+    "ultimate_move": "Bushido's Final Strike"
+  },
+  "personality": {
+    "traits": [
+      "Honorable",
+      "Disciplined",
+      "Loyal",
+      "Focused",
+      "Traditional"
+    ],
+    "likes": [
+      "Honor",
+      "Training",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonor",
+      "Cowardice"
+    ],
+    "fear": "Bringing shame",
+    "dream": "Perfect his swordsmanship",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Disciplined",
+      "Focused",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "A samurai-trained warrior bringing ancient combat techniques to modern crimefighting",
+    "motivation": "Uphold the samurai code and protect the innocent",
+    "affinity": "Honor/Duty",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Member of the Teen Titans"
+  ],
+  "titles": [
+    "The Samurai",
+    "Teen Titan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 60,
+    "speed": 75,
+    "durability": 65,
+    "power": 45,
+    "combat": 85,
+    "total": 390
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Teen Titans"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Various DC villains"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Teen Titans"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various DC villains"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Teen Titans"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "-",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Bushidō (武士道; Japanese pronunciation: [bɯ.ɕiꜜ.doː]) is a samurai moral code concerning samurai attitudes, behavior, and lifestyle. Its origins date back to the Kamakura period, but the code was formalized in the Edo period (1603–1868). There are multiple types of bushido, which evolved significantly through history. Contemporary forms of bushido are still used in the social and economic organization of Japan. Bushido is also used as an overarching term for all the codes, practices, philosophies, and principles of samurai culture. It is loosely analogous to the European concept of chivalry, but with some major differences.",
+  "note": null,
+  "source": "dc"
+}

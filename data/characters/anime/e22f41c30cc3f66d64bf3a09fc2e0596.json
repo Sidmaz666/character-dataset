@@ -1,0 +1,293 @@
+{
+  "id": "e22f41c30cc3f66d64bf3a09fc2e0596",
+  "name": "Fujimura, Taiga",
+  "native_name": "藤村 大河",
+  "full_name": "Taiga Fujimura",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 155,
+    "weight_kg": 45,
+    "age": "23",
+    "birthday": "Unknown",
+    "blood_type": "O",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Fair",
+    "notable_features": "Short hair, energetic, teaches at Homurahara",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Fuyuki City",
+    "current_location": "Homurahara Academy",
+    "base_of_operations": "Homurahara Academy",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Teacher/Magical Researcher",
+    "secondary": "Shirou Emiya's guardian",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Homurahara Academy",
+      "Mage Association"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "game": "Fate/stay night (2004)",
+    "manga": "Fate/stay night (2006)",
+    "comics": null
+  },
+  "abilities": [],
+  "personality": {
+    "traits": [
+      "Energetic",
+      "Clumsy",
+      "Kind",
+      "Scold"
+    ],
+    "likes": [
+      "Teaching",
+      "Shirou's cooking"
+    ],
+    "dislikes": [
+      "Being ignored"
+    ],
+    "fear": "The unknown",
+    "dream": "Guide Shirou",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "weaknesses": [
+      "Cold"
+    ],
+    "strengths": []
+  },
+  "character": {
+    "arc": "Guardian and teacher",
+    "motivation": "Guide Shirou",
+    "alignment": "Lawful Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 30,
+    "speed": 35,
+    "durability": 30,
+    "power": 40,
+    "combat": 30,
+    "total": 225
+  },
+  "relationships": {
+    "ward": "Shirou Emiya",
+    "love_interest": "Kiritsugu Emiya (former)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Homurahara Academy",
+      "Mage Association"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "voice_acting": {
+    "native_language": "Atsuko Tanaka",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as teacher",
+    "role_in_story": "Supporting",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Ranged combat"
+    ],
+    "weapon": "Ranged weapon",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Teacher/Magical Researcher"
+  ],
+  "titles": [
+    "Teacher/Magical Researcher"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Cold"
+    ],
+    "factors": [
+      "cold"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Homurahara Academy",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "Height: 165 cm\nWeight: 53 kg\n\nShe is an English teacher at Shirou's school, homeroom instructor of Shirou's class and the supervising teacher for the archery dojo. She is widely called \"Tiger,\" a nickname she dislikes (\"Taiga\" and \"Tiger\" sound similar in Japanese), though Shirou refers to her as \"Fuji-nee\" (older sister Fuji). After Kiritsugu died, Taiga became Shirou's guardian and has been living with him for several years. Taiga and Shirou are very close, and she regards him as a younger brother.\n\nShe's initially distrustful of Saber, believing that \"some strange woman was trying to take Shirou from her\" as she put it. She becomes exasperated whenever a new girl appears at Shirou's house, thinking he stashes girls at his house. Taiga always shows up for breakfast and dinner at Shirou's house to have some of Sakura's cooking, and always saves some scraps from breakfast for her lunch.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

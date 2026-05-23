@@ -1,0 +1,362 @@
+{
+  "name": "Aquarius",
+  "native_name": null,
+  "full_name": "Aquarius",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Atlantean",
+    "race": "Atlantean",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 90,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Atlantean armor",
+      "Trident",
+      "Aquatic appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Underwater City (Atlantis-equivalent)",
+    "current_location": "Underwater City",
+    "base_of_operations": "Underwater City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "King of the Seas",
+    "secondary": "Guardian",
+    "rank_title": "Aquarius",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe (Original)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Underwater Breathing",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    },
+    {
+      "name": "Enhanced Strength",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee"
+    },
+    {
+      "name": "Trident Mastery",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee"
+    },
+    {
+      "name": "Marine Telepathy",
+      "type": "Psychic",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Underwater"
+    }
+  ],
+  "signature_moves": [
+    "Trident Strike",
+    "Aquatic Slam",
+    "Ocean Wave"
+  ],
+  "ultimate_move": "King of the Sea",
+  "trump_card": "Underwater Dominance + Trident",
+  "power_attributes": {
+    "power_type": "Atlantean",
+    "power_source": "Atlantean Biology",
+    "combat_style": [
+      "Melee",
+      "Underwater"
+    ],
+    "weapon": "Trident",
+    "equipment": [
+      "Atlantean armor"
+    ],
+    "trump_card": "Underwater Dominance + Trident",
+    "ultimate_move": "King of the Sea"
+  },
+  "personality": {
+    "traits": [
+      "Regal",
+      "Heroic",
+      "Proud",
+      "Brave"
+    ],
+    "likes": [
+      "The sea",
+      "His kingdom",
+      "Heroism"
+    ],
+    "dislikes": [
+      "Pollution",
+      "Surface threats",
+      "Villains"
+    ],
+    "fear": "His kingdom destroyed",
+    "dream": "Peace between land and sea",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Heroic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Original Guardian of the Globe, the team's equivalent of Aquaman. King of an underwater civilization. Killed by Omni-Man during his betrayal alongside the other original Guardians.",
+    "motivation": "Protect seas and Earth",
+    "affinity": "Sea/Water",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Original Guardian",
+    "King of seas"
+  ],
+  "titles": [
+    "Aquarius",
+    "King of the Seven Seas"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 62,
+    "strength": 80,
+    "speed": 65,
+    "durability": 78,
+    "power": 75,
+    "combat": 78,
+    "total": 438
+  },
+  "weaknesses": {
+    "list": [
+      "Human-level durability",
+      "Water dependency"
+    ],
+    "factors": [
+      "Needs water",
+      "Atlantean vulnerabilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Omni-Man (killer)",
+    "allies": [
+      "Guardians (original)"
+    ],
+    "enemies": [
+      "Omni-Man",
+      "Sea threats"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians (original)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Omni-Man (killer)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Death",
+      "method": "Overwhelmed by Viltrumite strength"
+    }
+  ],
+  "quotes": [
+    "The seas will not be conquered."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Omni-Man",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "",
+      "Aquarius"
+    ],
+    "role": "Supporting Hero",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Swimming",
+      "Aquatic travel"
+    ],
+    "vehicles": [
+      "Sea creatures"
+    ],
+    "headquarters": "Underwater City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "id": "d58a4558923caf2a53f9bca434337bb4",
+  "publisher": "image_comics",
+  "about": "Aquarius (♒︎; Greek: Ὑδροχόος, romanized: Hydrokhóos, Latin for \"water-bearer\") is the eleventh astrological sign in the zodiac, originating from the constellation Aquarius. Under the tropical zodiac, the Sun is in the Aquarius sign between about January 20 and February 19. Aquarius is one of the three air signs, alongside Gemini and Libra. The ruling planets of Aquarius are Saturn (in traditional astrology alongside Capricorn), and Uranus (in modern astrology). It is the fixed air sign. The opposite sign of Aquarius is Leo.",
+  "note": null,
+  "source": "image_comics"
+}

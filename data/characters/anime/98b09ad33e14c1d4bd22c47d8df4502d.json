@@ -1,0 +1,418 @@
+{
+  "id": "98b09ad33e14c1d4bd22c47d8df4502d",
+  "name": "Veltol Velvet Velsvalt",
+  "native_name": "ベルトール＝ベルベット・ベールシュバルト",
+  "full_name": "Veltol Velvet Velsvalt",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Immortal",
+    "race": "Demon",
+    "bloodline": "Velsvalt",
+    "height_cm": 190,
+    "weight_kg": 85,
+    "age": "1000+ (Born ~1000 years ago)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (Formerly) / Black (2099)",
+    "hair_color": "Dark",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Towering muscular build",
+      "Slightly feminine face",
+      "Draconic form in true power"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Alneath (Fantasy World)",
+    "current_location": "Tokyo/Shinjuku (2099)",
+    "base_of_operations": "Shinjuku Streets",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Demon Lord (Former)",
+    "secondary": "Streamer (Bloody Spirit)",
+    "rank_title": "Demon King",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Machina SOLEIGE",
+      "Takahashi",
+      "Hizuki Reynard-Yamada"
+    ],
+    "previous": [
+      "Immortal Kingdom"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Demon Lord 2099 (2024)",
+    "manga": "Demon Lord 2099",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Immense Magic Power",
+      "native_name": "魔力",
+      "description": "His magic is powered by the belief and recognition of others. The more people know of him (whether they love or hate him), the stronger his magic becomes.",
+      "type": "Magic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires public recognition to be strong"
+    },
+    {
+      "name": "Flight",
+      "native_name": "飛行",
+      "description": "Can fly through the air.",
+      "type": "Mobility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Master Swordsman",
+      "native_name": "剣術",
+      "description": "Skilled with large jagged swords.",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Enhanced Speed",
+      "native_name": "加速",
+      "description": "Superhuman speed.",
+      "type": "Mobility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Belief-Based Power",
+      "native_name": "信仰之力",
+      "description": "Magic power increases with both supporters and haters. Internet streaming and flame wars can power him up.",
+      "type": "Enhancement",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Weakens if forgotten"
+    },
+    {
+      "name": "Dragon Transformation",
+      "native_name": "竜変化",
+      "description": "At peak power, can transform into a monstrous dragon-like form. Only activates after catastrophic injury.",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Requires near-death injury to trigger"
+    }
+  ],
+  "signature_moves": [
+    "Demon Lord Strike",
+    "Dark Energy Slash"
+  ],
+  "ultimate_move": "True Demon Lord Form (Draconic)",
+  "trump_card": "Dragon Transformation",
+  "power_attributes": {
+    "power_type": "Magic (Belief-Based)",
+    "power_source": "Public Recognition and Belief",
+    "combat_style": [
+      "Sword Combat",
+      "Dark Magic",
+      "Flight"
+    ],
+    "weapon": "Large Jagged Sword (Blue Gradient Blade)",
+    "equipment": [
+      "Black Armor with Glowing Blue Lines"
+    ],
+    "trump_card": "Dragon Transformation",
+    "ultimate_move": "True Demon Lord Form (Draconic)"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Charismatic",
+      "Arrogant",
+      "Playful",
+      "Adaptive"
+    ],
+    "likes": [
+      "Power",
+      "Streaming",
+      "Conquest",
+      "Machina"
+    ],
+    "dislikes": [
+      "Gram (Arch Enemy)",
+      "Weakness"
+    ],
+    "fear": "Being forgotten",
+    "dream": "Rule both merged worlds",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Former Demon Lord revived in cyberpunk future, must rebuild power through modern means",
+    "motivation": "World conquest",
+    "affinity": "Dark",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Formerly ruled the Immortal Kingdom",
+    "Defeated by Gram 200 years ago but survived",
+    "Rebuilt following through streaming",
+    "Merged two worlds through power"
+  ],
+  "titles": [
+    "Demon Lord",
+    "Demon King",
+    "Beloved/Reviled"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 92,
+    "speed": 90,
+    "durability": 88,
+    "power": 95,
+    "combat": 90,
+    "total": 545
+  },
+  "weaknesses": {
+    "list": [
+      "Power depends on public recognition",
+      "Weaker in modern era",
+      "Has lost followers"
+    ],
+    "factors": [
+      "Forgotten by modern world",
+      "Gram is his weakness"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Gram (Sworn Enemy)",
+    "allies": [
+      "Machina SOLEIGE",
+      "Takahashi",
+      "Hizuki Reynard-Yamada"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Machina SOLEIGE",
+        "relationship": "Subordinate/Love Interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Gram"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Machina SOLEIGE",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Machina SOLEIGE",
+      "Takahashi",
+      "Hizuki Reynard-Yamada"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Gram (Sworn Enemy)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Machina SOLEIGE",
+      "Takahashi",
+      "Hizuki Reynard-Yamada"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gram (Hero)",
+      "result": "Defeat",
+      "method": "Battle 200 years ago"
+    },
+    {
+      "opponent": "Marcus",
+      "result": "Victory",
+      "method": "Social Media Power-Up"
+    }
+  ],
+  "quotes": [
+    "I am the Demon Lord!",
+    "Even in this age, I will conquer!",
+    "Let the streaming begin!"
+  ],
+  "voice_acting": {
+    "native_language": "Satoshi Hino",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Ian Sinclair",
+    "japanese": "Satoshi Hino"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Conquering new world",
+    "transformation": "Dragon Form (One-Winged Angel)",
+    "awakening_potential": "Regaining strength through modern fame",
+    "power_evolution": [
+      "Original Demon Lord",
+      "Revived Weakened",
+      "Rebuilding Power"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Shinjuku Streets",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "The legendary Demon Lord, ruler of the former Immortal Kingdom.",
+  "note": null,
+  "source": "anime"
+}

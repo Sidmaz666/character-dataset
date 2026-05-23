@@ -1,0 +1,431 @@
+{
+  "name": "Ra's al Ghul",
+  "native_name": "ラーズ・アル・グール",
+  "full_name": "Ra's al Ghul",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Immortal)",
+    "race": "Human",
+    "bloodline": "al Ghul",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "Several centuries old",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "White (formerly black)",
+    "skin_color": "Olive",
+    "notable_features": [
+      "Dignified appearance",
+      "Green cloak",
+      "Lazarus Pit rejuvenation"
+    ],
+    "skin": "Olive",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Arabian Peninsula (centuries ago)",
+    "current_location": "Unknown (global)",
+    "base_of_operations": "League of Assassins Headquarters (global)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Leader of League of Assassins",
+    "secondary": "Eco-terrorist",
+    "rank_title": "The Demon Head",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "League of Assassins"
+    ],
+    "previous": [],
+    "relatives": [
+      "Talia al Ghul (daughter)",
+      "Nyssa Raatko (daughter)",
+      "Damian Wayne (grandson)",
+      "Bruce Wayne (former son-in-law candidate)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman #232 (June 1971)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Lazarus Pit Immortality",
+      "native_name": null,
+      "description": "Uses mystical Lazarus Pits to resurrect and rejuvenate. Has lived for centuries gaining vast knowledge. Each use temporarily drives him mad.",
+      "type": "Supernatural",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Requires access to Lazarus Pit; causes temporary insanity"
+    },
+    {
+      "name": "Master Swordsman",
+      "native_name": null,
+      "description": "Centuries of practice make him one of the world greatest swordsmen. Can match Batman in hand-to-hand combat.",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "Centuries-old strategic genius. Master of multiple sciences, history, and warfare.",
+      "type": "Mental",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "League of Assassins",
+      "native_name": null,
+      "description": "Commands a global network of assassins, spies, and operatives. One of the most powerful organizations in DC.",
+      "type": "Leadership",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Global",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Demon Head Strike",
+    "Lazarus Rage",
+    "League Assassination"
+  ],
+  "ultimate_move": "League of Assassins Global Strike",
+  "trump_card": "Centuries of Experience + Lazarus Pit Immortality + Global Network",
+  "power_attributes": {
+    "power_type": "Supernatural + Combat",
+    "power_source": "Lazarus Pit + Training",
+    "combat_style": [
+      "Swordsmanship",
+      "Martial Arts",
+      "Strategy",
+      "Stealth"
+    ],
+    "weapon": "Scimitar",
+    "equipment": [
+      "Lazarus Pit access",
+      "League of Assassins resources",
+      "Green Cloak",
+      "Scimitar",
+      "Body armor"
+    ],
+    "trump_card": "Centuries of Experience + Lazarus Pit Immortality + Global Network",
+    "ultimate_move": "League of Assassins Global Strike"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Ruthless",
+      "Patient",
+      "Charismatic",
+      "Megalomaniacal",
+      "Philosophical"
+    ],
+    "likes": [
+      "Eco-terrorism",
+      "Environment",
+      "Bruce Wayne (as heir)",
+      "History",
+      "Strategy"
+    ],
+    "dislikes": [
+      "Environmental destruction",
+      "Modern society flaws"
+    ],
+    "fear": "Humanity destroying itself and the planet",
+    "dream": "Purge the world of destructive humanity and rebuild civilization",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Centuries-old eco-terrorist and immortal who leads the League of Assassins. Believes humanity is destroying the Earth. Sees Bruce Wayne as his ideal heir. Father of Talia and grandfather of Damian Wayne.",
+    "motivation": "Save the planet by eliminating destructive humanity",
+    "affinity": "Immortality",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Founded League of Assassins",
+    "Lived for centuries",
+    "Discovered Lazarus Pits",
+    "Manipulated global events for centuries"
+  ],
+  "titles": [
+    "The Demon Head",
+    "Ra's al Ghul",
+    "Head of the Demon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "International terrorist — wanted globally"
+  },
+  "powerstats": {
+    "intelligence": 96,
+    "strength": 70,
+    "speed": 75,
+    "durability": 85,
+    "power": 85,
+    "combat": 92,
+    "total": 503
+  },
+  "weaknesses": {
+    "list": [
+      "Lazarus Pit addiction",
+      "Temporary madness after resurrection",
+      "Arrogance"
+    ],
+    "factors": [
+      "Lazarus Pit withdrawal",
+      "Arrogance can be exploited"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Batman (also respects him)",
+    "allies": [
+      "Talia al Ghul",
+      "League of Assassins",
+      "Bane (sometimes)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Desired heir/son-in-law",
+        "trust_level": "Low (but respected)"
+      }
+    ],
+    "enemies": [
+      "Batman",
+      "Justice League"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Bruce Wayne (Batman)",
+        "relationship": "Nemesis and desired heir",
+        "threat_level": "Very High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Batman",
+    "mentor": null,
+    "student": "Bruce Wayne (attempted)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Talia al Ghul",
+      "League of Assassins",
+      "Bane (sometimes)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman (also respects him)",
+      "Batman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Sensei",
+      "Talia",
+      "Damian Wayne",
+      "Bruce Wayne"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Sensei",
+      "Talia",
+      "Damian Wayne",
+      "Bruce Wayne"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Batman"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Bruce Wayne"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Talia al Ghul",
+      "League of Assassins",
+      "Bane"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Variable",
+      "method": "Sword combat and strategy"
+    }
+  ],
+  "quotes": [
+    "The deathblow is the merciful release.",
+    "You will become me, Detective.",
+    "The world is a garden. Mankind is the weed that must be pruned."
+  ],
+  "voice_acting": {
+    "native_language": "David Warner (English)",
+    "english": "David Warner",
+    "note": "Iconic voice from Batman: The Animated Series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues eco-terrorism campaign",
+    "transformation": "Lazarus Pit resurrection (multiple times)",
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Human",
+      "Immortal",
+      "Founder of League of Assassins",
+      "Global manipulator"
+    ],
+    "role_in_story": "Major Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various League vehicles",
+      "Private aircraft"
+    ],
+    "vehicles": [
+      "Various"
+    ],
+    "headquarters": "League of Assassins Headquarters (global)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "2ce23bdb01131fdfc76b5a9ca56dd325",
+  "publisher": "dc",
+  "about": "Ra's al Ghul (Arabic: رأس الغول, romanized: Raʾs al-Ġūl) is a supervillain appearing in American comic books published by DC Comics, commonly as an adversary of the superhero Batman. Created by editor Julius Schwartz, writer Dennis O'Neil, and artist Neal Adams, the character first appeared in Batman #232's \"Daughter of the Demon\" (June 1971).\nMost notable as the leader of the League of Assassins, Ra's al Ghul's name in Arabic means \"Head of the Ghoul\". He is the son of Sensei; the father of Talia al Ghul, Ali al Ghul, Nyssa al Ghul, and Dusan al Ghul; and the maternal grandfather of Damian Wayne, who is the biological son of Bruce Wayne/Batman and Talia. Other versions include other grandchildren such as Athanasia al Ghul (Injustice timeline), Hafid al Ghul (Damian's clone), Tallant Wayne (Brotherhood of the Bat timeline), and by last the siblings: Saif al Ghul, Taj al Ghul and Janan al Ghul (in the Earth al Ghul timeline). Stories featuring Ra's al Ghul often involve the Lazarus Pits, which restore life to the dying. The Lazarus Pits have considerably prolonged Ra's' life, making him particularly dangerous, as he has honed his combat skills for centuries. Though primarily an enemy of Batman, Ra's has also come into conflict with Superman and other heroes in the DC Universe.\nRa's al Ghul has been featured in various media adaptations. The character was portrayed by David Warner in the DC Animated Universe, Liam Neeson in the Dark Knight trilogy, Jason Isaacs in Batman: Under the Red Hood, Dee Bradley Baker in the Batman: Arkham video game series, Matt Nable in the Arrowverse television series, and Alexander Siddig in Gotham.\nIGN's list of the Top 100 Comic Book Villains of All Time List ranked Ra's as number seven.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,510 @@
+{
+  "id": "42f436332c68d2a670c8d8d00e6c5552",
+  "name": "Iron Man",
+  "native_name": null,
+  "full_name": "Anthony Edward Stark",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Stark family",
+    "height_cm": 185,
+    "weight_kg": 89,
+    "age": "35-45 (varies by continuity)",
+    "birthday": "May 29",
+    "zodiac": "Gemini",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Goatee",
+      "Arc reactor in chest",
+      "Muscular build",
+      "Black hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Long Island, New York",
+    "current_location": "New York City",
+    "base_of_operations": "Stark Tower, New York City, Avengers Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "CEO, Inventor",
+    "rank_title": "Avenger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "Stark Industries",
+      "Illuminati"
+    ],
+    "previous": [
+      "S.H.I.E.L.D.",
+      "Guardians of the Galaxy"
+    ],
+    "relatives": [
+      "Howard Stark (father, deceased)",
+      "Maria Stark (mother, deceased)",
+      "Morgan Stark (daughter)",
+      "Pepper Potts (wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Tales of Suspense #39 (March 1963)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "One of the smartest humans on Earth with expertise in engineering, physics, and technology",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Armor Mastery",
+      "native_name": null,
+      "description": "Expert pilot and fighter in various Iron Man armors",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Armor damage"
+    },
+    {
+      "name": "Repulsor Technology",
+      "native_name": null,
+      "description": "Can project powerful energy blasts from hands and feet",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Power supply"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly at supersonic speeds using armor propulsion",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Unlimited",
+      "limit": "Power supply"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Armor grants enhanced strength",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Armor capabilities"
+    },
+    {
+      "name": "Durability",
+      "native_name": null,
+      "description": "Armor provides enhanced protection",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Armor damage"
+    },
+    {
+      "name": "Technological Creation",
+      "native_name": null,
+      "description": "Can create advanced technology and weapons",
+      "type": "Technical",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Resources and time"
+    },
+    {
+      "name": "Business Acumen",
+      "native_name": null,
+      "description": "Brilliant businessman and CEO",
+      "type": "Intellectual",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Market conditions"
+    }
+  ],
+  "signature_moves": [
+    "Repulsor blast",
+    "Unibeam",
+    "Flight combat"
+  ],
+  "ultimate_move": "Iron Man armor with full capabilities",
+  "trump_card": "Preparation and versatility",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Arc reactor technology",
+    "combat_style": [
+      "Technological",
+      "Aerial",
+      "Versatile"
+    ],
+    "weapon": "Repulsors",
+    "equipment": [
+      "Iron Man armor",
+      "Arc reactor",
+      "Various gadgets"
+    ],
+    "trump_card": "Preparation and versatility",
+    "ultimate_move": "Iron Man armor with full capabilities"
+  },
+  "personality": {
+    "traits": [
+      "Arrogant",
+      "Brilliant",
+      "Charismatic",
+      "Heroic",
+      "Self-sacrificing"
+    ],
+    "likes": [
+      "Technology",
+      "Innovation",
+      "Pepper Potts",
+      "Being right",
+      "Saving the world"
+    ],
+    "dislikes": [
+      "Being wrong",
+      "Losing",
+      "Injustice",
+      "Being controlled",
+      "Failure"
+    ],
+    "fear": "Failing to protect others, Losing control, Being replaced",
+    "dream": "To protect the world through technology",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Arrogant weapons manufacturer becoming hero through captivity and redemption",
+    "motivation": "To protect the world and atone for past mistakes",
+    "affinity": "Technology",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Saved the world countless times",
+    "Avengers founding member",
+    "Created advanced technology",
+    "Defeated major threats like Thanos, Ultron, Mandarin",
+    "Became symbol of technological heroism"
+  ],
+  "titles": [
+    "Iron Man",
+    "Tony Stark",
+    "Shellhead",
+    "Golden Avenger",
+    "The Mechanic"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 85,
+    "speed": 75,
+    "durability": 85,
+    "power": 90,
+    "combat": 85,
+    "total": 520
+  },
+  "weaknesses": {
+    "list": [
+      "Armor damage",
+      "Power supply",
+      "Human vulnerabilities",
+      "Arrogance"
+    ],
+    "factors": [
+      "Technology dependence",
+      "Overconfidence",
+      "Mental fatigue"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mandarin",
+    "allies": [
+      "Avengers",
+      "Pepper Potts",
+      "James Rhodes",
+      "Happy Hogan"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Pepper Potts",
+        "relationship": "Wife and CEO",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "James Rhodes",
+        "relationship": "Best friend and War Machine",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Captain America",
+        "relationship": "Close ally and friend",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Mandarin",
+      "Obadiah Stane",
+      "Justin Hammer",
+      "Ultron",
+      "Thanos"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Mandarin",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Obadiah Stane",
+        "relationship": "Former mentor turned enemy",
+        "threat_level": "High"
+      },
+      {
+        "name": "Ultron",
+        "relationship": "Created enemy",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Pepper Potts",
+    "best_friend": "James Rhodes",
+    "rival": null,
+    "mentor": "Howard Stark (deceased)",
+    "student": "Peter Parker (Spider-Man), Harley Keener",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Pepper Potts",
+      "James Rhodes",
+      "Happy Hogan"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mandarin"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Peter Parker, Harley Keener"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Pepper Potts",
+      "James Rhodes",
+      "Happy Hogan"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Howard Stark"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Mandarin",
+      "result": "Victory",
+      "method": "Technology and strategy"
+    },
+    {
+      "opponent": "Obadiah Stane",
+      "result": "Victory",
+      "method": "Superior armor and intelligence"
+    },
+    {
+      "opponent": "Thanos",
+      "result": "Victory",
+      "method": "Teamwork and sacrifice"
+    }
+  ],
+  "quotes": [
+    "I am Iron Man",
+    "Genius, billionaire, playboy, philanthropist",
+    "Sometimes you gotta run before you can walk",
+    "I love you 3000"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Robert Downey Jr. (MCU), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect the world",
+    "transformation": [
+      "Armor upgrades",
+      "Various power enhancements"
+    ],
+    "awakening_potential": "Full technological potential",
+    "power_evolution": [
+      "Basic Iron Man",
+      "Advanced armors",
+      "God-level technology"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight",
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Stark Industries vehicles",
+      "Quinjet"
+    ],
+    "headquarters": "Stark Tower, Avengers Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Iron Man is a superhero appearing in American comic books published by Marvel Comics. Co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby, the character first appeared in Tales of Suspense #39 in 1962 (cover dated March 1963) and received his own title with Iron Man #1 in 1968. Shortly after his creation, Iron Man became a founding member of the superhero team the Avengers, alongside Thor, Ant-Man, the Wasp, and the Hulk. Iron Man stories, individually and with the Avengers, have been published consistently since the character's creation.\nIron Man is the superhero persona of Anthony Edward \"Tony\" Stark, a businessman and engineer who runs the weapons manufacturing company Stark Industries. When Stark was captured in a war zone and sustained a severe heart wound, he built his Iron Man armor and escaped his captors. Iron Man's suits of armor grant him superhuman strength, flight, energy projection, and other abilities. The character was created in response to the Vietnam War as Lee's attempt to create a likeable pro-war character. Since his creation, Iron Man has been used to explore political themes, with early Iron Man stories being set in the Cold War. The character's role as a weapons manufacturer proved controversial, and Marvel moved away from geopolitics by the 1970s. Instead, the stories began exploring themes such as civil unrest, technological advancement, corporate espionage, alcoholism, and governmental authority.\nMajor Iron Man stories include \"Demon in a Bottle\" (1979), \"Armor Wars\" (1987–1988), \"Extremis\" (2005), and \"Iron Man 2020\" (2020). He is also a leading character in the company-wide stories Civil War (2006–2007), Dark Reign (2008–2009), and Civil War II (2016). Additional superhero characters have emerged from Iron Man's supporting cast, including James Rhodes as War Machine and Riri Williams as Ironheart, as well as reformed villains, Natasha Romanova as Black Widow and Clint Barton as Hawkeye. Iron Man's list of enemies includes his archenemy, the Mandarin, various supervillains of communist origin, and many of Stark's business rivals.\nRobert Downey Jr. portrayed Tony Stark in Iron Man (2008), the first film of the Marvel Cinematic Universe, and continued to portray the character until his final live-action appearance in Avengers: Endgame (2019). Downey's portrayal popularized the character, elevating Iron Man into one of Marvel's most recognizable superheroes. Other adaptations of the character appear in animated direct-to-video films, television series, and video games.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,375 @@
+{
+  "id": "580b79f197370028b253587c1422ab83",
+  "name": "Hugo Strange",
+  "native_name": "",
+  "full_name": "Hugo Strange",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 75,
+    "age": "45",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Monocle",
+      "Goatee beard",
+      "Balding",
+      "Psychiatrist's coat"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Gotham City",
+    "current_location": "Arkham Asylum",
+    "base_of_operations": "Arkham Asylum",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Psychiatrist",
+    "secondary": "Criminal Mastermind",
+    "rank_title": "Doctor",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Arkham Asylum staff"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Detective Comics #36 (1940)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "Brilliant psychologist with deep understanding of criminal psychology",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Master Manipulator",
+      "native_name": null,
+      "description": "Expert at psychological manipulation and brainwashing",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Close",
+      "limit": "Requires interaction"
+    },
+    {
+      "name": "Scientific Expertise",
+      "native_name": null,
+      "description": "Advanced knowledge in chemistry, biology and genetics",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Monster Creation",
+      "native_name": null,
+      "description": "Created super-strong monsters through scientific experimentation",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Laboratory",
+      "limit": "Requires resources"
+    },
+    {
+      "name": "Batman Identity Knowledge",
+      "native_name": null,
+      "description": "One of few villains who deduced Batman's secret identity",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Psychological Breakdown",
+    "Monster Serum Injection"
+  ],
+  "ultimate_move": "Mind Break",
+  "trump_card": "Knowledge of Batman's identity",
+  "power_attributes": {
+    "power_type": "Intelligence",
+    "power_source": "Scientific knowledge",
+    "combat_style": [
+      "Psychological warfare",
+      "Manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Laboratory equipment",
+      "Brainwashing devices"
+    ],
+    "trump_card": "Knowledge of Batman's identity",
+    "ultimate_move": "Mind Break"
+  },
+  "personality": {
+    "traits": [
+      "Obsessive",
+      "Sadistic",
+      "Arrogant",
+      "Genius",
+      "Unhinged"
+    ],
+    "likes": [
+      "Studying Batman",
+      "Psychological experiments",
+      "Power"
+    ],
+    "dislikes": [
+      "Batman",
+      "Being outsmarted"
+    ],
+    "fear": "Irrelevance",
+    "dream": "To become Batman or destroy him utterly",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Genius"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Obsessive",
+      "Sadistic"
+    ]
+  },
+  "character": {
+    "arc": "A brilliant psychiatrist obsessed with Batman, deducing his identity to become one of his most dangerous psychological foes",
+    "motivation": "Obsession with understanding and becoming Batman",
+    "affinity": "Obsession/Madness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Deduced Batman's identity",
+    "Took over Arkham Asylum",
+    "Created monster army"
+  ],
+  "titles": [
+    "Doctor",
+    "The Batman Obsessed"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 40,
+    "speed": 40,
+    "durability": 40,
+    "power": 40,
+    "combat": 50,
+    "total": 305
+  },
+  "weaknesses": {
+    "list": [
+      "Physical frailness",
+      "Obsessive nature can be exploited"
+    ],
+    "factors": "No superhuman abilities"
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Batman",
+      "Gordon"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Jonathan Crane",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Batman",
+      "Jonathan Crane"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Jonathan Crane"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Defeat",
+      "method": "Outsmarted"
+    }
+  ],
+  "quotes": [
+    "I know who you are, Batman. I know everything about you."
+  ],
+  "voice_acting": {
+    "native_language": "Ray Buktenica",
+    "english": "Ray Buktenica",
+    "note": "Voiced in Batman: The Animated Series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Imprisoned in Arkham",
+    "transformation": "N/A",
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Unknown",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Hugo Strange is a supervillain appearing in American comic books published by DC Comics, commonly as an adversary of the superhero Batman. The character is one of Batman's first recurring villains, and was also one of the first to discover his secret identity. The character first appeared in Detective Comics #36 (February 1940).\nA notorious enemy of Batman, the character has appeared in various forms of non-comics media, including animation, video games, and the live-action television series Gotham, where he is portrayed by BD Wong.",
+  "note": null,
+  "source": "dc"
+}

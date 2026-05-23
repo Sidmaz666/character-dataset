@@ -1,0 +1,341 @@
+{
+  "name": "Payback",
+  "native_name": null,
+  "full_name": "Payback (Superhero Team)",
+  "basic_info": {
+    "gender": "N/A",
+    "species": "Supe Team",
+    "race": "N/A",
+    "bloodline": null,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "age": "Decades old (disbanded)",
+    "birthday": "N/A",
+    "zodiac": "N/A",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "N/A",
+    "hair_color": "N/A",
+    "skin_color": "N/A",
+    "notable_features": [
+      "Team uniform",
+      "Parody of Avengers",
+      "Vought's pre-Seven team"
+    ],
+    "skin": "N/A",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Disbanded",
+    "base_of_operations": "Vought Tower (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero Team",
+    "secondary": null,
+    "rank_title": "Payback",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Vought"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Collective Supe Power",
+      "type": "Team",
+      "tier": "A",
+      "power_level": 88,
+      "range": "N/A"
+    }
+  ],
+  "signature_moves": [
+    "Team Assault",
+    "Coordinated Attack"
+  ],
+  "ultimate_move": "Payback Strike",
+  "trump_card": "Elite Supe Team",
+  "power_attributes": {
+    "power_type": "Supe Team",
+    "power_source": "Compound V (all members)",
+    "combat_style": [
+      "Team Combat",
+      "Coordinated"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Team uniforms"
+    ],
+    "trump_card": "Elite Supe Team",
+    "ultimate_move": "Payback Strike"
+  },
+  "personality": {
+    "traits": [
+      "Competitive",
+      "Toxic team dynamics",
+      "Betrayal-driven"
+    ],
+    "likes": [
+      "Fame",
+      "Glory",
+      "Vought approval"
+    ],
+    "dislikes": [
+      "Soldier Boy (leader, betrayed him)",
+      "The Seven (replaced them)"
+    ],
+    "fear": "Being forgotten",
+    "dream": "Return to glory",
+    "personality_type": "N/A (Team)",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Collective Supe Power"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Vought's superhero team before The Seven. Led by Soldier Boy. The team included Gunpowder, Mindstorm, Crimson Countess, Black Noir, and Swatto. They betrayed Soldier Boy and handed him to Russians. Payback disbanded and was replaced by The Seven.",
+    "motivation": "Previously: Fame and glory",
+    "affinity": "Team/Betrayal",
+    "alignment": "Mixed"
+  },
+  "achievements": [
+    "Original Vought team",
+    "Betrayed and captured Soldier Boy"
+  ],
+  "titles": [
+    "Payback",
+    "The Original Super Team"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 80,
+    "speed": 70,
+    "durability": 75,
+    "power": 82,
+    "combat": 80,
+    "total": 447
+  },
+  "weaknesses": {
+    "list": [
+      "Internal betrayal",
+      "Replaced by Seven",
+      "Disbanded"
+    ],
+    "factors": [
+      "Toxic dynamics",
+      "Backstabbing culture"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Soldier Boy (their victim)",
+    "allies": [
+      "Vought (formerly)"
+    ],
+    "enemies": [
+      "Soldier Boy",
+      "The Boys"
+    ],
+    "love_interest": "N/A",
+    "best_friend": "N/A",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought (formerly)",
+      "N/A"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Soldier Boy (their victim)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought",
+      "N/A"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Soldier Boy",
+      "result": "Victory",
+      "method": "Betrayal and capture"
+    }
+  ],
+  "quotes": [
+    "We were the first. We should be the best."
+  ],
+  "voice_acting": {
+    "native_language": "N/A",
+    "english": "N/A",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Disbanded",
+    "fate": "Replaced by The Seven",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Payback",
+      "Disbanded"
+    ],
+    "role": "Team (Historical)",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Vought transport"
+    ],
+    "headquarters": "Vought Tower (formerly)",
+    "story_importance": "Historical Team",
+    "note": null
+  },
+  "id": "a5d13200a4d69911d36333885193d379",
+  "publisher": "the_boys",
+  "about": "The third season of the American satirical superhero television series The Boys, the first series in the franchise based on the comic book series of the same name written by Garth Ennis and Darick Robertson, was developed for television by American writer and television producer Eric Kripke. The season is produced by Sony Pictures Television Studios and Amazon Studios in association with Point Grey Pictures, Original Film, Kripke Enterprises, Kickstart Entertainment and KFL Nightsky Productions.",
+  "note": null,
+  "source": "the_boys"
+}

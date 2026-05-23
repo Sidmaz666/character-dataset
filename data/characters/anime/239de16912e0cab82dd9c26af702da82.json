@@ -1,0 +1,446 @@
+{
+  "id": "239de16912e0cab82dd9c26af702da82",
+  "name": "Kyo Sohma",
+  "native_name": "草摩夾",
+  "full_name": "Kyo Sohma",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Cursed",
+    "race": "Human (transforms into Cat/monster)",
+    "bloodline": "Souma family",
+    "height_cm": 171,
+    "weight_kg": 56,
+    "age": "15-16",
+    "birthday": "January 15",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Orange (manga), Red (anime)",
+    "hair_color": "Orange (bright, spiky)",
+    "skin_color": "Slightly tanned",
+    "notable_features": [
+      "Bright orange hair",
+      "Cat-like features",
+      "Wears Juzu bead bracelet",
+      "Muscular build as series progresses"
+    ],
+    "skin": "Slightly tanned",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Souma estate, Tokyo",
+    "current_location": "Souma estate, Tokyo",
+    "base_of_operations": "Souma household / Kazuma's dojo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Martial artist",
+    "rank_title": "Cat of the Zodiac (excluded)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Souma family",
+      "Kazuma Sohma's household"
+    ],
+    "previous": [
+      "Biological family (father abandoned him)"
+    ],
+    "relatives": [
+      "Kazuma Sohma (adoptive father)",
+      "Yuki Sohma (cousin/rival)",
+      "Tohru Honda (wife)",
+      "Hajime Sohma (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fruits Basket Episode 1",
+    "manga": "Fruits Basket Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zodiac Transformation (Cat)",
+      "native_name": "十二星座変換",
+      "description": "Transforms into an orange cat when hugged by the opposite sex or under stress. Unlike other zodiacs, he is excluded from the official zodiac.",
+      "type": "Transformation/Defense",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self",
+      "limit": "Triggered involuntarily; excluded from curse benefits"
+    },
+    {
+      "name": "True Form (Monster)",
+      "native_name": "真の姿",
+      "description": "When the Juzu bead bracelet is removed, Kyo transforms into a grotesque, foul-smelling monster - the cat's vengeful spirit. This is his true, most frightening form.",
+      "type": "Transformation/Attack",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Short",
+      "limit": "Extremely grotesque; loses control; fears being seen in this form"
+    },
+    {
+      "name": "Martial Arts Mastery",
+      "native_name": "武術の達人",
+      "description": "Highly skilled martial artist trained by Kazuma Sohma. Extremely talented but loses to Yuki despite training.",
+      "type": "Attack/Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Cannot defeat Yuki despite training"
+    },
+    {
+      "name": "Enhanced Speed",
+      "native_name": "加速能力",
+      "description": "Possesses cat-like reflexes and speed, giving him an edge in physical combat.",
+      "type": "Attack/Support",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Requires physical exertion"
+    }
+  ],
+  "signature_moves": [
+    "Martial arts combat",
+    "Cat transformation",
+    "True form monster"
+  ],
+  "ultimate_move": "Martial arts strike",
+  "trump_card": "His love for Tohru gives him courage to live",
+  "power_attributes": {
+    "power_type": "Zodiac Curse (Cat - excluded)",
+    "power_source": "Cursed bond with Akito/God",
+    "combat_style": [
+      "Martial arts (karate)",
+      "Cat-like reflexes"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Juzu bead bracelet (suppresses monster form)"
+    ],
+    "trump_card": "His love for Tohru gives him courage to live",
+    "ultimate_move": "Martial arts strike"
+  },
+  "personality": {
+    "traits": [
+      "Hot-headed",
+      "Stubborn",
+      "Protective",
+      "Insecure",
+      "Loyal",
+      "Tender beneath anger"
+    ],
+    "likes": [
+      "Tohru Honda",
+      "Kazuma (master)",
+      "Fish",
+      "Training"
+    ],
+    "dislikes": [
+      "Yuki Sohma",
+      "Onions/leeks",
+      "Rain",
+      "His monster form",
+      "Being called a monster"
+    ],
+    "fear": "Turning into his monster form, being rejected by Tohru",
+    "dream": "Defeat Yuki, break free from the curse, be with Tohru",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Kyo begins as an angry, resentful outcast blaming Yuki for all his misfortune. His journey involves confronting his guilt over his mother's death, accepting Tohru's love, and eventually breaking free from the curse to find happiness.",
+    "motivation": "Defeat Yuki to prove himself, protect Tohru, break the curse",
+    "affinity": "Orange/Cats",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Trained under Kazuma Sohma",
+    "Overcame monster form fears",
+    "Broke the curse",
+    "Married Tohru and had children",
+    "Found redemption despite being 'the excluded one'"
+  ],
+  "titles": [
+    "The Cat",
+    "The Excluded One",
+    "Kyonkyon"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 82,
+    "speed": 90,
+    "durability": 65,
+    "power": 75,
+    "combat": 88,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Volatile temper",
+      "Monster form when bracelet removed",
+      "Blames Yuki unfairly",
+      "Guilt over mother's death"
+    ],
+    "factors": [
+      "Cannot control monster transformation",
+      "Social awkwardness",
+      "Self-loathing",
+      "Quick to anger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Yuki Sohma (perceived rival)",
+    "allies": [
+      "Tohru Honda",
+      "Kazuma Sohma",
+      "Shigure Sohma"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tohru Honda",
+        "relationship": "Love interest/wife",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Kazuma Sohma",
+        "relationship": "Adoptive father/master",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Shigure Sohma",
+        "relationship": "Housemate",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Yuki Sohma (rival)",
+      "Akito Sohma"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Yuki Sohma",
+        "relationship": "Rival (complicated)",
+        "threat_level": "Personal conflict"
+      }
+    ],
+    "love_interest": "Tohru Honda",
+    "best_friend": "Tohru Honda / Kazuma Sohma",
+    "rival": "Yuki Sohma",
+    "mentor": "Kazuma Sohma",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tohru Honda",
+      "Kazuma Sohma",
+      "Shigure Sohma",
+      "Tohru Honda / Kazuma Sohma"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Yuki Sohma (perceived rival)",
+      "Yuki Sohma"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Jouichirou Yukihira"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Jouichirou Yukihira"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Yuki Sohma"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tohru Honda",
+      "Kazuma Sohma",
+      "Shigure Sohma",
+      "Tohru Honda / Kazuma Sohma"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kazuma Sohma"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Yuki Sohma",
+      "result": "Defeat (ongoing)",
+      "method": "Always loses despite training harder"
+    },
+    {
+      "opponent": "His monster form",
+      "result": "Victory (acceptance)",
+      "method": "Tohru's love helped him accept himself"
+    }
+  ],
+  "quotes": [
+    "Don't call me a monster!",
+    "I hate the rat! Why does he always get to win?!",
+    "Tohru... you're the only one who doesn't treat me like a monster.",
+    "Even if I'm the cat who got tricked... I don't want to lose anymore."
+  ],
+  "voice_acting": {
+    "native_language": "Tomokazu Seki (Japanese)",
+    "note": "Both voice actors capture Kyo's hot-headedness",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Curse breaks, marries Tohru, has three children including Hajime",
+    "transformation": "From angry outcast to accepting man",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Abandoned child",
+      "Martial arts trainee",
+      "Angry outcast",
+      "Tohru's love",
+      "Free man"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Souma household",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15-16\nBirthday: November 6\nHeight: 171 cm\nWeight: 57 kg\nBlood type: B\nCuisine Style: Yukihira Style Recipes \nFood Forte: All\nGeneration: 92nd\nAffiliation: Tootsuki Culinary Academy, \n\nHe is the son of Jouichirou Yukihira and, until it closed, worked at his father's restaurant, Restaurant Yukihira. As one of the main protagonist in the manga, Souma fight his odds in the elite school to becoming the best chef in the world even with strong background discrimination of his academy. He is currently a student at Tootsuki Culinary Academy and a resident of Polar Star Dormitory. \n\nSouma is a rather energetic child who has the constant drive to move forward with his cooking, mostly due to his rivalry with his father. Due to his drive to move forward Souma is willing to try odd things with food including \"Grilled Squid Tentacles Dressed in Peanut Butter,\" though these dishes usually don't go over too well. It is because the will of Souma to try to move forward, his dishes are often considered as creative and innovative by some peers and lecturers; leading his rivalry with all the students in the Tootsuki Culinary Academy. Through all this, Souma maintains a laid back attitude towards just about everything but cooking.\n\nSouma can cook many different foods in many different styles, though he prefers what he calls \"Yukihira Style,\" which is the cooking style which he learned from his father. Souma shows an immense capability for cooking and a special adaption with learning from his mistakes, and improvising through learning from said mistakes. It is due to his creativity and also resourcefulness, Souma is able to create the same dishes with different ways of cooking that would create even. Unlike most student whom used lavish ingredients, Souma didn't care about the classes of the ingredients which he claimed that it wasn't expensive ingredients, classy backgrounds, nor fancy techniques made the food better, but rather it's the wise usage and alternatives made the food interesting, and the customer's satisfaction about the food that matters. Further more, he also claimed that undefeated food in just the looks and taste in regal made him bored, which the boredom would made the chef stop improving their dishes. To eliminate such boredom, Souma continued to search for different styles of cooking around the world in order to improve his cooking skills.",
+  "note": null,
+  "source": "anime"
+}

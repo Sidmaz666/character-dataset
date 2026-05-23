@@ -1,0 +1,329 @@
+{
+  "name": "Webweaver",
+  "native_name": null,
+  "full_name": "Webweaver",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spider-like costume",
+      "Web-themed",
+      "Spider-Man parody"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Vought",
+    "current_location": "Vought",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe",
+    "secondary": null,
+    "rank_title": "Webweaver",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Vought"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV Season 4)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Web Generation (organic)",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 68,
+      "range": "Long"
+    },
+    {
+      "name": "Wall Crawling",
+      "type": "Physical",
+      "tier": "C",
+      "power_level": 55,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Web Swing",
+    "Web Trap"
+  ],
+  "ultimate_move": "Web Cocoon",
+  "trump_card": "Organic Webbing",
+  "power_attributes": {
+    "power_type": "Web",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Web-based",
+      "Agile"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Web costume"
+    ],
+    "trump_card": "Organic Webbing",
+    "ultimate_move": "Web Cocoon"
+  },
+  "personality": {
+    "traits": [
+      "Edgy",
+      "Spider-themed",
+      "Vought supe"
+    ],
+    "likes": [
+      "Webbing",
+      "Fame"
+    ],
+    "dislikes": [
+      "Being mocked"
+    ],
+    "fear": "Human",
+    "dream": "Vought fame",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Web Generation (organic)",
+      "Wall Crawling"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Obvious Spider-Man parody supe in the Vought roster. Uses organic webbing. Appears briefly.",
+    "motivation": "Fame",
+    "affinity": "Web",
+    "alignment": "Neutral"
+  },
+  "achievements": [
+    "Vought supe"
+  ],
+  "titles": [
+    "Webweaver",
+    "The Spider-Supe"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 55,
+    "speed": 60,
+    "durability": 55,
+    "power": 62,
+    "combat": 55,
+    "total": 337
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Low tier power"
+    ],
+    "factors": [
+      "Normal durability"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Vought"
+    ],
+    "enemies": [
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Vought"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Vought"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Vought supe",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Webweaver"
+    ],
+    "role": "Minor",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-swinging"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "9aa7a347a491e8b2739ffed19c260e72",
+  "publisher": "the_boys",
+  "about": "WebWeaver is a commercial web-based Learning management system. This software has been developed and distributed by the German company DigiOnline GmbH including a variety of tools that allow and enhance communication and collaboration of those involved in education. Part of WebWeaver is a Content Management System (CMS), which is used for building and maintenance of websites.",
+  "note": null,
+  "source": "the_boys"
+}

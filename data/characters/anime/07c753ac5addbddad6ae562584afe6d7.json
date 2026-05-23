@@ -1,0 +1,363 @@
+{
+  "id": "07c753ac5addbddad6ae562584afe6d7",
+  "name": "Crimson Countess",
+  "native_name": null,
+  "full_name": "Cassandra Countess",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Countess",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "30s-40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red costume",
+      "Vampiric appearance"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased",
+    "current_location": "Deceased",
+    "base_of_operations": "Formerly Payback HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Payback Member",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Payback (former)"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Blood Draining",
+      "native_name": null,
+      "description": "Drain blood from victims",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Requires close contact"
+    },
+    {
+      "name": "Enhanced Strength",
+      "native_name": null,
+      "description": "Super strength from blood",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Melee",
+      "limit": "Requires blood"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 50,
+      "range": "Unlimited",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Blood Drain",
+    "Vampire Strike"
+  ],
+  "ultimate_move": "Full Blood Feast",
+  "trump_card": "Blood Lust",
+  "power_attributes": {
+    "power_type": "Vampiric Powers",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Vampiric combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Costume"
+    ],
+    "trump_card": "Blood Lust",
+    "ultimate_move": "Full Blood Feast"
+  },
+  "personality": {
+    "traits": [
+      "Savage",
+      "Bloodthirsty",
+      "Loyal",
+      "Passionate"
+    ],
+    "likes": [
+      "Blood",
+      "Fighting"
+    ],
+    "dislikes": [
+      "Light",
+      "Garlic"
+    ],
+    "fear": "Death by sunlight",
+    "dream": "Unlimited blood",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Vampiric supe with dark appetites",
+    "motivation": "Blood and power",
+    "affinity": "Blood",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Payback member",
+    "Killed victims"
+  ],
+  "titles": [
+    "Crimson Countess",
+    "Blood Queen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Deceased"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 65,
+    "speed": 55,
+    "durability": 60,
+    "power": 70,
+    "combat": 60,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Sunlight weakness",
+      "Garlic sensitivity",
+      "Stakes"
+    ],
+    "factors": [
+      "Religious items"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Heroes",
+    "allies": [
+      "Payback"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Soldier Boy",
+        "relationship": "Teammate/lover",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Heroes",
+      "Vought"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Soldier Boy",
+    "best_friend": "Soldier Boy",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Payback",
+      "Soldier Boy"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Heroes"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Payback",
+      "Soldier Boy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various heroes",
+      "result": "Victory",
+      "method": "Blood drain"
+    }
+  ],
+  "quotes": [
+    "I hunger."
+  ],
+  "voice_acting": {
+    "native_language": "Anonymous (English)",
+    "note": "Comic character",
+    "native_name": null,
+    "english": "Jade Kelly",
+    "japanese": "Ayumu Murase"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed in storyline",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Human",
+      "Vampiric supe"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Payback HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Crimson is the co-protagonist of the story, characterized by a haughty and cautious behavior, he has a deep hatred towards dragons despite belonging to the same species and being the previous king of the winged family of dragons. In an alternate time they(Ragna and Crimson) almost succeed in eradicating the dragon species but for reasons not revealed it could not be carried out. Currently Crimson and Ragna maintain their fight against dragons through a past temporal plane.",
+  "note": null,
+  "source": "anime"
+}

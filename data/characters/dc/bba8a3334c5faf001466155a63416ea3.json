@@ -1,0 +1,445 @@
+{
+  "id": "bba8a3334c5faf001466155a63416ea3",
+  "name": "Ben 10",
+  "native_name": null,
+  "full_name": "Benjamin Kirby Tennyson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Tennyson family",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "age": "10-16 (varies by series)",
+    "birthday": "December 27",
+    "zodiac": "Capricorn",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Omnitrix on left wrist",
+      "Green jacket with white stripe",
+      "Brown hair"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Bellwood, USA",
+    "current_location": "Bellwood, USA",
+    "base_of_operations": "Rustbucket (RV)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hero",
+    "secondary": "Student",
+    "rank_title": "Omnitrix wielder",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Plumber trainee",
+      "Hero team"
+    ],
+    "previous": [],
+    "relatives": [
+      "Max Tennyson (grandfather)",
+      "Sandra Tennyson (mother)",
+      "Carl Tennyson (father)",
+      "Gwen Tennyson (cousin)",
+      "Ken Tennyson (cousin)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Ben 10 (2005) - Episode 1",
+    "manga": null,
+    "comics": "Ben 10 #1 (2012)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Omnitrix Transformation",
+      "native_name": null,
+      "description": "Can transform into various alien species using the Omnitrix device",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Time limit on transformations, recharge time"
+    },
+    {
+      "name": "Alien Abilities",
+      "native_name": null,
+      "description": "Gains powers of transformed alien including strength, speed, energy projection, and special abilities",
+      "type": "Versatile",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Varies by alien",
+      "limit": "Depends on alien form"
+    },
+    {
+      "name": "Strategic Thinking",
+      "native_name": null,
+      "description": "Quick thinking and adaptability in combat situations",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Unlimited",
+      "limit": "Can be impulsive"
+    }
+  ],
+  "signature_moves": [
+    "Omnitrix transformation",
+    "Alien combo attacks"
+  ],
+  "ultimate_move": "Alien X (reality manipulation)",
+  "trump_card": "Omnitrix Master Mode",
+  "power_attributes": {
+    "power_type": "Alien Technology",
+    "power_source": "Omnitrix",
+    "combat_style": [
+      "Versatile combat",
+      "Adaptive fighting"
+    ],
+    "weapon": "Omnitrix",
+    "equipment": [
+      "Omnitrix",
+      "Rustbucket"
+    ],
+    "trump_card": "Omnitrix Master Mode",
+    "ultimate_move": "Alien X (reality manipulation)"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Impulsive",
+      "Caring",
+      "Heroic",
+      "Mischievous"
+    ],
+    "likes": [
+      "Aliens",
+      "Adventure",
+      "Video games",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Villains",
+      "Being told what to do",
+      "Losing"
+    ],
+    "fear": "Losing control of Omnitrix, Failing to protect others",
+    "dream": "To be a great hero like his grandfather",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Heroic"
+    ],
+    "weaknesses": [
+      "Impulsive"
+    ]
+  },
+  "character": {
+    "arc": "From immature kid to responsible hero learning to use power wisely",
+    "motivation": "Protect the innocent and have adventures",
+    "affinity": "Heroism",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved Earth multiple times",
+    "Became Plumber trainee",
+    "Mastered Omnitrix",
+    "Defeated Vilgax and other major threats",
+    "Protected the universe"
+  ],
+  "titles": [
+    "Ben 10",
+    "Hero",
+    "Omnitrix wielder",
+    "Ben Tennyson"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 80,
+    "durability": 85,
+    "power": 95,
+    "combat": 80,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Time limit on transformations",
+      "Recharge time",
+      "Can be impulsive",
+      "Omnitrix malfunctions"
+    ],
+    "factors": [
+      "Omnitrix damage",
+      "Alien weaknesses",
+      "Overconfidence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Vilgax",
+    "allies": [
+      "Gwen Tennyson",
+      "Max Tennyson",
+      "Kevin Levin",
+      "Rook Blonko"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gwen Tennyson",
+        "relationship": "Cousin and teammate",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Max Tennyson",
+        "relationship": "Grandfather and mentor",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Kevin Levin",
+        "relationship": "Former enemy turned ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Vilgax",
+      "Aggregor",
+      "Diagon",
+      "Hex",
+      "Charmcaster"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Vilgax",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Aggregor",
+        "relationship": "Major threat",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Julie Yamamoto",
+    "best_friend": "Kevin Levin",
+    "rival": "Kevin Levin (formerly)",
+    "mentor": "Max Tennyson",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gwen Tennyson",
+      "Max Tennyson",
+      "Kevin Levin",
+      "Rook Blonko"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Vilgax",
+      "Kevin Levin (formerly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kevin Levin"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gwen Tennyson",
+      "Max Tennyson",
+      "Kevin Levin",
+      "Rook Blonko"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Max Tennyson"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Vilgax",
+      "result": "Victory",
+      "method": "Omnitrix mastery and teamwork"
+    },
+    {
+      "opponent": "Aggregor",
+      "result": "Victory",
+      "method": "Ultimate forms and strategy"
+    },
+    {
+      "opponent": "Diagon",
+      "result": "Victory",
+      "method": "Alien X and dimensional powers"
+    }
+  ],
+  "quotes": [
+    "It's hero time!",
+    "Going hero!",
+    "I'm going to stop you, no matter what!",
+    "The Omnitrix is my responsibility"
+  ],
+  "voice_acting": {
+    "native_language": "Tara Strong (young Ben)",
+    "english": "Yuri Lowenthal (teen Ben)",
+    "note": "Multiple voice actors across series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues hero work",
+    "transformation": [
+      "Omnitrix transformations",
+      "Ultimate forms",
+      "Master Control"
+    ],
+    "awakening_potential": "Full Omnitrix mastery",
+    "power_evolution": [
+      "Basic Omnitrix",
+      "Ultimate Omnitrix",
+      "Omnitrix Master"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Rustbucket (RV)",
+      "Plumber vehicles"
+    ],
+    "vehicles": [
+      "Rustbucket"
+    ],
+    "headquarters": "Rustbucket",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Ben 10 is an American science fiction superhero media franchise conceived by Man of Action and owned by The Cartoon Network, Inc. division of Warner Bros. Discovery. The franchise, mainly consisting of animated series produced by Cartoon Network Studios, revolves around a young boy named Ben Tennyson, who discovers the Omnitrix—a high-tech, extraterrestrial device shaped like a wristwatch. This remarkable gadget contains the DNA of various alien species, allowing Ben to transform into them at will. Initially, the Omnitrix features ten alien transformations, but over time, Ben gains the ability to unlock additional species.\nThe franchise began with an animated series named Ben 10 (2005–2008), which was followed by its sequels Ben 10: Alien Force (2008–2010), Ben 10: Ultimate Alien (2010–2012), and Ben 10: Omniverse (2012–2014), all sharing the same continuity. The reboot series, also titled Ben 10, was released from 2016 till 2021, set on a new continuity, with a 44-minute finale special serving as a crossover with the first four series. The franchise also includes five films (three animated and two live-action), numerous video games, and crossovers with other two Cartoon Network series, Generator Rex (2010–2013) and The Secret Saturdays (2008–2010). It has garnered considerable critical acclaim, securing three Emmy Awards, and ranks as Cartoon Network's second-longest existing franchise. Furthermore, Ben 10 has inspired a line of toys produced initially by Bandai for the franchise's first four series and later by Playmates Toys for the reboot. Ben 10 is one of Cartoon Network's most commercially successful franchises.",
+  "note": null,
+  "source": "dc"
+}

@@ -1,0 +1,303 @@
+{
+  "id": "4425484cb3ef9335bcfd766cb7992be0",
+  "name": "Science Dog",
+  "native_name": null,
+  "full_name": "Science Dog",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Dog",
+    "race": "Dog",
+    "bloodline": null,
+    "height_cm": 50,
+    "weight_kg": 25,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 100,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Unknown",
+    "notable_features": [
+      "Dog superhero"
+    ],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Earth",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero Pet",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "Invincible",
+    "comics": "Image Comics",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Senses",
+      "native_name": null,
+      "description": "Enhanced dog senses",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Bark"
+  ],
+  "ultimate_move": "Super Bark",
+  "power_attributes": {
+    "power_type": "Enhanced senses",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Super Senses",
+    "ultimate_move": "Super Bark"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Protective",
+      "Cooperative"
+    ],
+    "likes": [
+      "Helping"
+    ],
+    "dislikes": [
+      "Evil"
+    ],
+    "fear": "Dog limitations",
+    "dream": "Help hero",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Heroic dog",
+    "motivation": "Help hero",
+    "affinity": "Protection",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Superhero Pet"
+  ],
+  "titles": [
+    "Science Dog"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero pet"
+  },
+  "powerstats": {
+    "intelligence": 40,
+    "strength": 45,
+    "speed": 50,
+    "durability": 40,
+    "power": 45,
+    "combat": 40,
+    "total": 260
+  },
+  "weaknesses": {
+    "list": [
+      "Dog limitations"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Woof!"
+  ],
+  "voice_acting": {
+    "native_language": "Fred Tatasciore",
+    "note": "Animated series",
+    "native_name": null,
+    "english": "Todd Haberkorn",
+    "japanese": "Jun Fukuyama"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as pet",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Earth",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "trump_card": "Super Senses",
+  "about": "Dog Day Afternoon is a 1975 American biographical crime drama film directed by Sidney Lumet and produced by Martin Bregman and Martin Elfand. The film stars Al Pacino, John Cazale, James Broderick and Charles Durning. The screenplay is written by Frank Pierson and is based on the Life magazine article \"The Boys in the Bank\" by P. F. Kluge and Thomas Moore. The feature chronicles the 1972 robbery and hostage situation led by John Wojtowicz and Salvatore Naturile at a Chase Manhattan branch in Brooklyn.\nElfand brought the article to Bregman's attention, who proceeded to negotiate a deal with Warner Bros. Pictures and clear the rights to use the story. Pierson conducted his research and wrote a script that centered on the story of the robbery around Wojtowicz. The cast was selected by Lumet and Pacino, with the latter selecting past co-stars from his off-Broadway plays. Filming took place between September and November 1974, and the production was finished three weeks ahead of schedule.\nWhen theatrically released on September 21, 1975, Dog Day Afternoon was a critical and box-office success. The film was nominated for seven Golden Globe Awards, six BAFTAs (winning Best Actor for Pacino and Best Editing), and six Academy Awards (winning Best Original Screenplay). In 2009, Dog Day Afternoon was deemed \"culturally, historically, or aesthetically significant\" by the Library of Congress, and was selected for preservation in the National Film Registry.",
+  "note": null,
+  "source": "anime"
+}

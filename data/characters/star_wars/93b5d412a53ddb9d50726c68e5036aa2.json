@@ -1,0 +1,356 @@
+{
+  "id": "93b5d412a53ddb9d50726c68e5036aa2",
+  "name": "C-3PO",
+  "native_name": null,
+  "full_name": "C-3PO",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Droid",
+    "race": "Protocol",
+    "bloodline": null,
+    "height_cm": 167,
+    "weight_kg": 75,
+    "age": "Created 112 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Unknown",
+    "skin_color": "Gold",
+    "notable_features": [
+      "Gold plating",
+      "Human cyborg language",
+      "Missing arm"
+    ],
+    "skin": "Gold",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tatooine",
+    "current_location": "Unknown",
+    "base_of_operations": "Various",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Protocol droid",
+    "secondary": "Translator",
+    "rank_title": "Protocol",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rebel Alliance"
+    ],
+    "previous": [
+      "Luke Skywalker"
+    ],
+    "relatives": [
+      "BZ Protocol (creator)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode IV - A New Hope (1977)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Translation",
+      "native_name": null,
+      "description": "Over 6 million languages",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Long",
+      "limit": "Requires programming"
+    },
+    {
+      "name": "Diplomacy",
+      "native_name": null,
+      "description": "Protocol and etiquette",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Translation"
+  ],
+  "ultimate_move": "Diplomatic translation",
+  "trump_card": "All languages",
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Droid programming",
+    "combat_style": [
+      "None"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Translator unit"
+    ],
+    "trump_card": "All languages",
+    "ultimate_move": "Diplomatic translation"
+  },
+  "personality": {
+    "traits": [
+      "Nervous",
+      "Polite",
+      "Anxious",
+      "Loyal"
+    ],
+    "likes": [
+      "Etiquette",
+      "Friends"
+    ],
+    "dislikes": [
+      "Violence",
+      "Risks"
+    ],
+    "fear": "Being dismantled",
+    "dream": "Help humans",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Anxious"
+    ]
+  },
+  "character": {
+    "arc": "Protocol droid to hero",
+    "motivation": "Serve humans",
+    "affinity": "Neutral",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Helped find Death Star plans",
+    "Served Rebellion"
+  ],
+  "titles": [
+    "Protocol Droid"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Valued by Rebellion"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 25,
+    "speed": 30,
+    "durability": 50,
+    "power": 0,
+    "combat": 10,
+    "total": 190
+  },
+  "weaknesses": {
+    "list": [
+      "Fragile",
+      "No combat ability"
+    ],
+    "factors": [
+      "Limited physical capabilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "R2-D2",
+      "Luke Skywalker",
+      "Han Solo"
+    ],
+    "allies_detailed": [
+      {
+        "name": "R2-D2",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Empire"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "R2-D2",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "R2-D2",
+      "Luke Skywalker",
+      "Han Solo"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Empire"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "R2-D2",
+      "Luke Skywalker",
+      "Han Solo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I am fluent in over 6 million languages",
+    "Oh my goodness"
+  ],
+  "voice_acting": {
+    "native_language": "Anthony Daniels",
+    "english": "Anthony Daniels",
+    "note": "Original actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Serving new owners",
+    "transformation": "Upgraded",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Protocol droid"
+    ],
+    "role_in_story": "Supporting protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various ships"
+    ],
+    "vehicles": [
+      null
+    ],
+    "headquarters": "Various",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "C-3PO or See-Threepio is a humanoid robot character in the Star Wars franchise. He is a protocol droid designed to assist in etiquette and translation, and is fluent in over six million forms of communication. He first appeared in the 1976 novelization of the original Star Wars film (1977), and he appears in all nine films of the Skywalker Saga, which includes the original trilogy, the prequel trilogy and the sequel trilogy. Anthony Daniels portrays C-3PO in all the Skywalker Saga films and the standalone film Rogue One, and he voices the droid in the animated series The Clone Wars. In addition to films, C-3PO appears in television series, novels, comics, and video games.",
+  "note": null,
+  "source": "star_wars"
+}

@@ -1,0 +1,377 @@
+{
+  "id": "a7541354e788092feac474f276dc311c",
+  "name": "Rogue",
+  "native_name": "Anna Marie",
+  "full_name": "Anna Marie",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": "Mystique (adoptive mother)",
+    "height_cm": 175,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "June 16",
+    "zodiac": "Gemini",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Auburn (white streak)",
+    "skin_color": "Pale",
+    "notable_features": "White streak in hair",
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Caldecott County, Mississippi",
+    "current_location": "Various",
+    "base_of_operations": "X-Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "X-Men",
+      "Avengers"
+    ],
+    "previous": [
+      "Brotherhood of Evil Mutants",
+      "Morlocks"
+    ],
+    "relatives": [
+      "Mystique (adoptive mother)",
+      "Destiny (adoptive mother)",
+      "Graydon Creed (half-brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Marvel Team-Up #16 (January 1981)",
+    "comics": "Marvel Team-Up #16",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Power Absorption",
+      "native_name": null,
+      "description": "Temporarily absorb powers and memories through touch",
+      "type": "Attack/Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Touch",
+      "limit": "Temporary - must maintain skin contact"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Absorbed from Ms. Marvel - strength of 50 tons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Gained from absorbed powers"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly when absorbing flight powers",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Requires flight power absorption"
+    },
+    {
+      "name": "Durability",
+      "native_name": null,
+      "description": "Near-invulnerable when using absorbed powers",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Power drain",
+    "Memory theft"
+  ],
+  "ultimate_move": "Full power absorb",
+  "trump_card": "Absorb most powerful mutant",
+  "power_attributes": {
+    "power_type": "Power absorption",
+    "power_source": "Mutant",
+    "combat_style": [
+      "Melee",
+      "Absorbed powers"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Absorb most powerful mutant",
+    "ultimate_move": "Full power absorb"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Caring",
+      "Confident",
+      "Loyal"
+    ],
+    "likes": [
+      "Helping others",
+      "Being part of team"
+    ],
+    "dislikes": [
+      "Hurt people",
+      "Being alone"
+    ],
+    "fear": "Harming friends with powers",
+    "dream": "Belonging",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Loyal",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Vulnerab"
+    ]
+  },
+  "character": {
+    "arc": "From villain to hero - learns control",
+    "motivation": "Finding identity",
+    "affinity": "Absorption",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Member of X-Men and Avengers",
+    "Overcame fear of powers"
+  ],
+  "titles": [
+    "Rogue"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 85,
+    "speed": 70,
+    "durability": 80,
+    "power": 90,
+    "combat": 75,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot touch without absorbing",
+      "Mental intrusion"
+    ],
+    "factors": [
+      "Prolonged contact dangerous"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Ms. Marvel",
+    "allies": [
+      "Gambit",
+      "X-Men",
+      "Avengers"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gambit",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Mystique",
+      "Brotherhood"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Gambit",
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Professor X",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gambit",
+      "X-Men",
+      "Avengers"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Ms. Marvel"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gambit",
+      "X-Men",
+      "Avengers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Professor X"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "You won't know what you had until I'm gone"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Anna Paquin (films)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": "Discovering powers as teen",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "Villain",
+      "Hero"
+    ],
+    "role_in_story": "Major character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "X-Mansion",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Rogue is a character appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. She first appeared in Avengers Annual #10 (1981). In the Marvel Universe, Rogue is depicted as a mutant, a subspecies of humans born with an \"X-gene\" that grants superhuman abilities. She is capable of absorbing the life force, attributes, memories, and superpowers of anyone through physical touch. The character is initially portrayed as a reluctant supervillain, but she soon joins the X-Men as a superhero and has since endured as one of its most prominent members.",
+  "note": null,
+  "source": "marvel"
+}

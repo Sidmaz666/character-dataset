@@ -1,0 +1,372 @@
+{
+  "id": "20897035f0979e9e15942c90ccd7f722",
+  "name": "Heiter",
+  "native_name": "ハイター",
+  "full_name": "Heiter",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "Unknown (deceased)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Priest robes",
+      "Smiling face",
+      "Alcoholic"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased",
+    "current_location": "Deceased",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Priest",
+    "secondary": "Adventurer",
+    "rank_title": "Hero Party Priest",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Himmel's Hero Party"
+    ],
+    "relatives": [
+      "Fern (adoptive daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Healing Magic",
+      "native_name": "回復魔法",
+      "description": "Powerful healing and restoration spells",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "Cannot resurrect"
+    },
+    {
+      "name": "Purification",
+      "native_name": "浄化",
+      "description": "Curses and dark magic removal",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Strong curses difficult"
+    }
+  ],
+  "signature_moves": [
+    "Heal",
+    "Purify",
+    "Blessing"
+  ],
+  "ultimate_move": "Divine Restoration",
+  "trump_card": "Life Force Healing",
+  "power_attributes": {
+    "power_type": "Divine Magic",
+    "power_source": "Faith",
+    "combat_style": [
+      "Support",
+      "Healing"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Holy Symbol",
+      "Priest robes"
+    ],
+    "trump_card": "Life Force Healing",
+    "ultimate_move": "Divine Restoration"
+  },
+  "personality": {
+    "traits": [
+      "Jovial",
+      "Caring",
+      "Alcoholic",
+      "Wise",
+      "Selfless"
+    ],
+    "likes": [
+      "Alcohol",
+      "Fern",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Demons",
+      "Suffering"
+    ],
+    "fear": "Not being able to save others",
+    "dream": "Peace for all",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Selfless priest who saved many",
+    "motivation": "Saving lives",
+    "affinity": "Light",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Demon King with party",
+    "Raised Fern as daughter",
+    "Countless lives saved"
+  ],
+  "titles": [
+    "Hero Party Priest",
+    "Saint"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 40,
+    "speed": 50,
+    "durability": 65,
+    "power": 94,
+    "combat": 60,
+    "total": 389
+  },
+  "weaknesses": {
+    "list": [
+      "Alcoholism",
+      "Self-sacrificing",
+      "Deceased"
+    ],
+    "factors": [
+      "Overuse of life force"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Demons",
+    "allies": [
+      "Frieren",
+      "Himmel (deceased)",
+      "Eisen",
+      "Fern"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Fern",
+        "relationship": "Adoptive daughter",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Frieren",
+        "relationship": "Former party member",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Demons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Himmel",
+    "rival": null,
+    "mentor": null,
+    "student": "Fern",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Himmel (deceased)",
+      "Eisen",
+      "Fern",
+      "Himmel"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Fern"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Himmel",
+      "Eisen",
+      "Fern"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Demon King",
+      "result": "Victory",
+      "method": "Party effort"
+    }
+  ],
+  "quotes": [
+    "I'll heal you.",
+    "Fern, be good."
+  ],
+  "voice_acting": {
+    "native_language": "Takahiro Sakurai",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Jason Douglas",
+    "japanese": "Hiroki Touchi"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died after Fern grew up, entrusted her to Frieren",
+    "transformation": null,
+    "awakening_potential": "N/A",
+    "power_evolution": [],
+    "role_in_story": "Supporting (deceased)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "A rocket engineer that bears a resemblance to Alphonse Elric and befriends Edward in the movie. He is fascinated by Ed's stories about his travels around his original world, but is unsure of whether he can believe in the fact that Ed came from another world where alchemy is real, and his brother looks like him. He is studying under the father of modern rocketry, and wants to prove the scientific worth of his fellow Germans by inventing a rocket that can actually be ridden. He also has his own reasons to do it as fast as possible—he is slowly succumbing to an unspecified disease that eventually causes him to cough up blood. This is most likely Tuberculosis, as it fits all his symptoms and makes him keeping it a secret make much more sense.",
+  "note": null,
+  "source": "anime"
+}

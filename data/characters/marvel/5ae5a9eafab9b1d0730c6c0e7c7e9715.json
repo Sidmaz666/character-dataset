@@ -1,0 +1,385 @@
+{
+  "id": "5ae5a9eafab9b1d0730c6c0e7c7e9715",
+  "name": "Apocalypse",
+  "native_name": null,
+  "full_name": "En Sabah Nur",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 200,
+    "weight_kg": 150,
+    "age": "5000+",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 37.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Akkaba, Egypt",
+    "current_location": null,
+    "base_of_operations": "Celestial Ship, mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student; formerly Conqueror; Scientist",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Clan Akkaba",
+      "employer of Apocalypse's Horsemen",
+      "Dark Riders",
+      "former employer of the Alliance of Evil",
+      "198"
+    ],
+    "previous": [],
+    "relatives": [
+      "Baal of the Crimson Sands (adopted father",
+      "deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "X-Factor #5 (June, 1986)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Celestial Technology",
+      "native_name": null,
+      "description": "Body modified with advanced Celestial technology",
+      "type": "Passive",
+      "tier": "Omega",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Matter Manipulation",
+      "native_name": null,
+      "description": "Manipulates matter at molecular level",
+      "type": "Attack",
+      "tier": "Omega",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Energy intensive"
+    },
+    {
+      "name": "Molecular Shapeshifting",
+      "native_name": null,
+      "description": "Alters form, size, and biology at will",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Lifts over 100 tons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Immortality",
+      "native_name": null,
+      "description": "Cannot die of old age, transfers consciousness",
+      "type": "Passive",
+      "tier": "Omega",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Body can be destroyed"
+    }
+  ],
+  "signature_moves": [
+    "Energy Blast",
+    "Molecular Reconstruction",
+    "Size Alteration"
+  ],
+  "ultimate_move": "Apocalypse's Judgment",
+  "trump_card": "Celestial armor",
+  "power_attributes": {
+    "power_type": "Celestial-Enhanced Mutant",
+    "power_source": "Celestial tech + X-gene",
+    "combat_style": [
+      "Brute force",
+      "Molecular manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Celestial armor"
+    ],
+    "trump_card": "Celestial armor",
+    "ultimate_move": "Apocalypse's Judgment"
+  },
+  "personality": {
+    "traits": [
+      "Darwinian",
+      "Dictatorial",
+      "Patient",
+      "Ancient",
+      "Merciless"
+    ],
+    "likes": [
+      "Strength",
+      "Evolution",
+      "Conquest"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Peace",
+      "Stagnation"
+    ],
+    "fear": "Oblivion",
+    "dream": "Purify world through survival of fittest",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Merciless"
+    ]
+  },
+  "character": {
+    "arc": "Ancient mutant born in Egypt who believes only the strong deserve to survive",
+    "motivation": "Evolution through survival of the fittest",
+    "affinity": "Survival/Evolution",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Ruled ancient Egypt",
+    "Created the Horsemen of Apocalypse"
+  ],
+  "titles": [
+    "En Sabah Nur",
+    "The First Mutant"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 100,
+    "speed": 75,
+    "durability": 100,
+    "power": 100,
+    "combat": 90,
+    "total": 560
+  },
+  "weaknesses": {
+    "list": [
+      "Ego",
+      "Overconfidence",
+      "Celestial tech disruption"
+    ],
+    "factors": "Celestial tech dependent"
+  },
+  "relationships": {
+    "nemesis": "X-Men",
+    "allies": [
+      "Horsemen of Apocalypse"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "X-Men",
+      "Cable",
+      "Fantastic Four"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Mr. Sinister",
+    "mentor": null,
+    "student": "Stryfe",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Horsemen of Apocalypse"
+    ],
+    "colleague": null,
+    "enemy": [
+      "X-Men",
+      "Mr. Sinister"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Mr. Sinister"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Stryfe"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Horsemen of Apocalypse"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "X-Men",
+      "result": "Multiple defeats",
+      "method": "Combined efforts"
+    }
+  ],
+  "quotes": [
+    "There is no good or evil. Only the strong and the weak."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues scheming",
+    "transformation": "N/A",
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Celestial Ship, mobile",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Apocalypse (from Ancient Greek  ἀποκάλυψις (apokálupsis) 'revelation, disclosure') is a literary genre originating in Judaism in the centuries following the Babylonian exile (597–587 BCE) but persisting in Christianity and Islam. In apocalypse, a supernatural being reveals cosmic mysteries or the past to a human intermediary. The means of mediation include dreams, visions and heavenly journeys, and they typically feature symbolic imagery drawn from the Jewish Bible, cosmological and (pessimistic) historical surveys, the division of time into periods, esoteric numerology, and claims of ecstasy and inspiration. Almost all are written under pseudonyms, claiming as author a venerated hero from previous centuries, as with the Book of Daniel, composed during the 2nd century BCE but bearing the name of the legendary Daniel from the 6th century BCE. \nEschatology (from Greek eschatos, last) concerns expectations of the end of the present age. Thus, apocalyptic eschatology is the application of the apocalyptic world-view to the end of the world, when God will bring judgment to the world and save his followers. An apocalypse will often contain much eschatological material like the epiphany of Paul the Apostle, but need not: the baptism of Jesus in Matthew's gospel, for example, can be considered apocalyptic in that the heavens open for the presence of a divine mediator (the dove representing the spirit of God) and a voice communicates supernatural information, but there is no eschatological element. In popular use apocalypse often means such a catastrophic end-times event, but in scholarly use the term is restricted to the visionary or revelatory event. \nScholars have identified examples of the genre ranging from the mid-2nd century BCE to the 2nd century CE, and examples are to be found in Persian and Greco-Roman literature as well as Jewish and Christian texts. The sole clear case in the Jewish Bible (Old Testament) is chapters 7–12 of the Book of Daniel, but there are many examples from non-canonical Jewish works; the Book of Revelation is the only apocalypse in the New Testament, but passages reflecting the genre are to be found in the gospels and in nearly all the genuine Pauline epistles.",
+  "note": null,
+  "source": "marvel"
+}

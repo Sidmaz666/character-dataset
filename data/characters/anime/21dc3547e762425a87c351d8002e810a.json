@@ -1,0 +1,388 @@
+{
+  "id": "21dc3547e762425a87c351d8002e810a",
+  "name": "Android 17",
+  "native_name": "Jinzouningen 17-gou",
+  "full_name": "Lapis (real name) / Android 17",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Android (cyborg)",
+    "race": "Enhanced Human",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "Unknown (appears 20s)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": [
+      "Black buzz cut hair (originally long)",
+      "blue scarf",
+      "twin red dots on cheek of Android 17"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Nature preserve (ranger)",
+    "base_of_operations": "Nature preserve (ranger)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Wildlife Ranger",
+    "secondary": "Z Fighter / Android",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Z Fighters",
+      "Universe 7 Team"
+    ],
+    "previous": [
+      "Dr. Gero's Androids",
+      "Red Ribbon Army"
+    ],
+    "relatives": [
+      "Android 18 (sister)",
+      "Krillen (brother-in-law)",
+      "Marron (niece)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Z Episode 126",
+    "manga": "Dragon Ball Z Episode 126",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Infinite Energy",
+      "native_name": null,
+      "description": "Powered by an infinite energy reactor - never tires",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Barrier",
+      "native_name": null,
+      "description": "Can generate an invisible energy barrier",
+      "type": "Defensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Combat",
+      "native_name": null,
+      "description": "Extremely powerful physically, rivaling Super Saiyan levels",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Ki Blasts",
+      "native_name": null,
+      "description": "Can fire powerful energy attacks",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Endless Stamina",
+      "native_name": null,
+      "description": "Never runs out of energy due to infinite engine",
+      "type": "Passive",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Barrier",
+    "Energy Blast Barrage",
+    "Sniper Shot"
+  ],
+  "ultimate_move": "Full Power Energy Barrage",
+  "trump_card": "Infinite Energy",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Ki Blasts",
+    "equipment": [
+      "Bow",
+      "Arrow",
+      "Survival gear"
+    ],
+    "trump_card": "Infinite Energy",
+    "ultimate_move": "Full Power Energy Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Calm",
+      "Reserved",
+      "Protective of nature",
+      "Family-oriented",
+      "Strong-willed"
+    ],
+    "likes": [
+      "Wildlife",
+      "protecting the island",
+      "his family"
+    ],
+    "dislikes": [
+      "Dr. Gero",
+      "those who harm nature"
+    ],
+    "fear": "Unknown",
+    "dream": "Protect his family and the natural world",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strong-willed",
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From reluctant villain to wildlife ranger and one of Universe 7's strongest fighters",
+    "motivation": "Protect his family and the natural world",
+    "affinity": "Good",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Mastered 5 abilities",
+    "Infinite Energy, Barrier"
+  ],
+  "titles": [
+    "Wildlife Ranger"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 92,
+    "speed": 88,
+    "durability": 90,
+    "power": 88,
+    "combat": 85,
+    "total": 518
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Android 18",
+      "Krillen",
+      "Goku",
+      "Universe 7 Team"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Cell",
+      "Jiren",
+      "Dr. Gero (deceased)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Goku",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Android 18",
+      "Krillen",
+      "Goku",
+      "Universe 7 Team"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Cell",
+      "Jiren",
+      "Dr. Gero (deceased)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Sagara"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Sagara"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Android 18",
+      "Krillen",
+      "Goku",
+      "Universe 7 Team"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "What? I was just taking a nap."
+  ],
+  "voice_acting": {
+    "native_language": "Shigeru Nakahara",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Supporting Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Sagara's commanding officer and one of Tessa's military strategists with the rank of Lieutenant Commander, fulfilling the role of Operations Director. He is also the foster father of Sagara. He and Sousuke were once enemies, as mentioned in a two part episode by Sagara himself. The foster father status may be on the school's official papers only but Kalinin is certainly a very fatherly figure to Sagara. Kalinin was formerly of the Soviet special forces - Spetsnaz - and was the leader of the team that found a crashed Japanese airliner. There was only one survivor: a three year-old child by the name of Sagara Sousuke. His wife is deceased and the whereabouts and status of the rest of his family is unknown. There is speculation that Kalinin has betrayed Mithril to Amalgam, due to his meeting with Leonard Testarossa at the end of the book 'Dancing Very Merry Christmas' and also due to his mysterious disappearance and attitude during the raid by Amalgam on Merida Island. Kalinin later appears in 'Tsudoku to Make My Day' at Leonard's villa, apparently as one of Leonard's subordinates, although his subsequent actions in the book suggest the possibility that he may be working for the anti-Leonard faction of Amalgam, or as a Mithril deep cover agent.\n\nAndrei mentioned that he had difficulty maintaining family ties, mostly with his wife, due to his time spent with the Spetsnaz. He seems to be of a family man sort and loves his wife so much that he made the Borscht (that Sousuke avoids at all costs) that his wife made him as he returns from missions. He operates under the codename Perth 1.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

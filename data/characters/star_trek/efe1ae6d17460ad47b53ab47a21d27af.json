@@ -1,0 +1,406 @@
+{
+  "id": "efe1ae6d17460ad47b53ab47a21d27af",
+  "name": "Montgomery Scott",
+  "native_name": null,
+  "full_name": "Montgomery Scott",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Scott",
+    "height_cm": 175,
+    "weight_kg": 85,
+    "age": "52 at start of TOS",
+    "birthday": "2220",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 27.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White/Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Weathered face",
+      "Scottish accent",
+      "Work-worn hands"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Scotland, Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (NCC-1701), USS Enterprise-A",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Engineer",
+    "secondary": "Engineering Specialist",
+    "rank_title": "Lieutenant Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Various starship postings"
+    ],
+    "relatives": [
+      "Alexander Scott (cousin)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Original Series (1966) - \"The Cage\" (pilot)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Engineering Genius",
+      "native_name": null,
+      "description": "Legendary ability to fix or modify any system with impossible solutions",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Long",
+      "limit": "Requires time and materials"
+    },
+    {
+      "name": "Transporter Expert",
+      "native_name": null,
+      "description": "Master of transporter technology, saved people others thought lost",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Range limitations"
+    },
+    {
+      "name": "Impossible Repairs",
+      "native_name": null,
+      "description": "Can make damaged systems work through unconventional methods",
+      "type": "Tech",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Short",
+      "limit": "Sometimes damages other systems"
+    }
+  ],
+  "signature_moves": [
+    "Scottish Engineering",
+    "I Cannae Change the Laws of Physics",
+    "Impossible Repairs"
+  ],
+  "ultimate_move": "Transporter救 (Saving people at impossible ranges)",
+  "trump_card": "Cheating Transporter Safety Limits",
+  "power_attributes": {
+    "power_type": "Technical",
+    "power_source": "Engineering Genius",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser (rarely used)",
+    "equipment": [
+      "Engineering Tricorder",
+      "Various Tools"
+    ],
+    "trump_card": "Cheating Transporter Safety Limits",
+    "ultimate_move": "Transporter救 (Saving people at impossible ranges)"
+  },
+  "personality": {
+    "traits": [
+      "Pragmatic",
+      "Loyal",
+      "Scottish Pride",
+      "Stubborn",
+      "Humble"
+    ],
+    "likes": [
+      "The Enterprise",
+      "Scottish Whiskey",
+      "Engineering Challenges"
+    ],
+    "dislikes": [
+      "Admirals Second-Guessing",
+      "Englishmen (lighthearted)",
+      "Impossible Tasks"
+    ],
+    "fear": "Losing the Enterprise",
+    "dream": "Living On A Starship",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "From young engineer with near-fatal accident to legendary ship mechanic who defied physics",
+    "motivation": "Keeping the Enterprise running",
+    "affinity": "Engineering",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the Enterprise multiple times with impossible repairs",
+    "Pioneered advanced transporter techniques",
+    "Kept Enterprise running for decades",
+    "Served through original and refit Enterprise",
+    "Regarded as greatest engineer in Starfleet"
+  ],
+  "titles": [
+    "Scotty",
+    "The Miracle Worker",
+    "Chief Engineer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 70,
+    "speed": 55,
+    "durability": 72,
+    "power": 75,
+    "combat": 50,
+    "total": 414
+  },
+  "weaknesses": {
+    "list": [
+      "Loves Scotch Too Much",
+      "Stubborn Pride",
+      "Mistrust of Englishmen"
+    ],
+    "factors": [
+      "Confidence sometimes misplaced"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Khan",
+    "allies": [
+      "James T. Kirk",
+      "Spock",
+      "Leonard McCoy"
+    ],
+    "allies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Captain and friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Spock",
+        "relationship": "Engineering collaboration",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Khan",
+      "Klingons"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Various women",
+    "best_friend": "James T. Kirk",
+    "rival": "None significant",
+    "mentor": "Various engineers",
+    "student": "Various engineering apprentices",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "James T. Kirk",
+      "Spock",
+      "Leonard McCoy"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Khan",
+      "None significant"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Star Trek"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Star Trek"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None significant"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various engineering apprentices"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "James T. Kirk",
+      "Spock",
+      "Leonard McCoy"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various engineers"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Khan",
+      "result": "Victory (with crew)",
+      "method": "Engineering solutions"
+    }
+  ],
+  "quotes": [
+    "I cannae change the laws of physics!",
+    "I'm giving her all she's got, Captain!",
+    "Ye eejit!",
+    "The more they overthink the plumbing, the easier it is to stop up the drain."
+  ],
+  "voice_acting": {
+    "native_language": "James Doohan",
+    "english": "James Doohan",
+    "note": "Iconic Scottish character in Star Trek",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Retired to Edinburgh, visited by Kirk in 2290s",
+    "transformation": "Continued engineering excellence throughout career",
+    "awakening_potential": "Became legendary engineer of the fleet",
+    "power_evolution": [
+      "Engineer",
+      "Chief Engineer",
+      "Legendary Engineer"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (various)"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise Engineering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Montgomery \"Scotty\" Scott is a fictional character in the science fiction franchise Star Trek. First portrayed by James Doohan in the original Star Trek series, Scotty also appears in the animated Star Trek series, 10 Star Trek films, the Star Trek: The Next Generation episode \"Relics\", and in numerous books, comics, and video games.\nSimon Pegg has assumed the character and appeared in the Star Trek reboot (2009) and its sequels, Star Trek Into Darkness (2013) and Star Trek Beyond (2016). In 2023, a young version of Scotty appeared in the final episode of the second season of Star Trek: Strange New Worlds, portrayed by Martin Quinn, who would go on to play Scotty as a regular character in the third season. Later in 2023, an animated version of Scotty was played by Carlos Alazraqui in a Very Short Treks episode.",
+  "note": null,
+  "source": "star_trek"
+}

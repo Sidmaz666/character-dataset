@@ -1,0 +1,445 @@
+{
+  "id": "18c0f5c85040d9afa50c1dc298bee46a",
+  "name": "Toushirou Hitsugaya",
+  "native_name": "日番谷冬獅郎",
+  "full_name": "Toushirou Hitsugaya",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Soul/Reaper",
+    "race": "Shinigami",
+    "bloodline": null,
+    "height_cm": 164,
+    "weight_kg": 60,
+    "age": "Young (appears as child, actual age higher)",
+    "birthday": "August 15",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Teal/Green",
+    "hair_color": "Mint green",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Child-like appearance",
+      "Gold four-pointed star handguard",
+      "Carries sword on back"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Soul Society",
+    "base_of_operations": "10th Division HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinigami",
+    "secondary": "Captain of 10th Division",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "10th Division"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandmother (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Hyorinmaru",
+      "native_name": "氷輪丸",
+      "description": "Strongest ice-type Zanpakuto - controls ice and water",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Smaller ice amount in Shikai"
+    },
+    {
+      "name": "Shikai: Hyorinmaru",
+      "native_name": "始解: 氷輪丸",
+      "description": "Ice control - creates ice dragons, freezes opponents",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Medium to Long",
+      "limit": null
+    },
+    {
+      "name": "Bankai: Daiguren Hyorinmaru",
+      "native_name": "卍解: 大紅蓮氷輪丸",
+      "description": "Massive ice power - ice wings, amplified freezing",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Body changes to adult form"
+    },
+    {
+      "name": "Ice Dragon",
+      "native_name": "氷龍",
+      "description": "Creates dragon-shaped ice that freezes on contact",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Hyoketsu",
+      "native_name": "氷虐",
+      "description": "Freezes everything in front after buildup",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Takes 4 seconds"
+    },
+    {
+      "name": "Sennen Hyoro",
+      "native_name": "千年氷牢",
+      "description": "Thousand Years Ice Prison - ice pillars crush opponents",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Ryusenka",
+      "native_name": "流星氷花",
+      "description": "Freezes anything on impact",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Shinku Taso Hoheki",
+      "native_name": "真空多層氷壁",
+      "description": "Multilayer vacuum ice wall - combines with Haineko",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Requires Rangiku's help"
+    },
+    {
+      "name": "Immense Spiritual Power",
+      "native_name": "膨大な灵力",
+      "description": "Massive cold spiritual pressure",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Uncontrollable when young"
+    }
+  ],
+  "signature_moves": [
+    "Ice Dragon",
+    "Bankai freeze",
+    "Hyoketsu"
+  ],
+  "ultimate_move": "Daiguren Hyorinmaru (completed Bankai)",
+  "trump_card": "Full Bankai with matured power - can freeze concepts",
+  "power_attributes": {
+    "power_type": "Ice/Zanpakuto",
+    "power_source": "Hyorinmaru (strongest ice Zanpakuto)",
+    "combat_style": [
+      "Ice sword combat"
+    ],
+    "weapon": "Hyorinmaru (Zanpakuto)",
+    "equipment": [],
+    "trump_card": "Full Bankai with matured power - can freeze concepts",
+    "ultimate_move": "Daiguren Hyorinmaru (completed Bankai)"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Responsible",
+      "Stoic",
+      "Reserved",
+      "Caring"
+    ],
+    "likes": [
+      "Matsumoto",
+      "Duty",
+      "Being organized"
+    ],
+    "dislikes": [
+      "Matsumoto's drinking",
+      "Inefficiency"
+    ],
+    "fear": "Not being able to protect",
+    "dream": "Become strong captain",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Responsible"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Young captain with immense power who grew into role",
+    "motivation": "Protect Soul Society",
+    "affinity": "Ice",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Youngest Shinigami to achieve Bankai",
+    "10th Division Captain",
+    "Defeated Tier Harribel",
+    "Completed Bankai after training"
+  ],
+  "titles": [
+    "Captain",
+    "Ice Master",
+    "Youngest Captain"
+  ],
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 80,
+    "speed": 85,
+    "durability": 75,
+    "power": 95,
+    "combat": 85,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [
+      "Child body limits power",
+      "Ice quantity limited in Shikai"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Aizen (former enemy)",
+    "allies": [
+      "Matsumoto",
+      "Rukia",
+      "Ichigo",
+      "Gotei 13"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rangiku Matsumoto",
+        "relationship": "Lieutenant",
+        "trust_level": "High"
+      },
+      {
+        "name": "Ichigo Kurosaki",
+        "relationship": "Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Espada",
+      "Aizen"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Matsumoto",
+      "Rukia",
+      "Ichigo",
+      "Gotei 13"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Aizen (former enemy)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Matsumoto",
+      "Rukia",
+      "Ichigo",
+      "Gotei 13"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Tier Harribel",
+      "result": "Victory (with help)",
+      "method": "Daiguren Hyorinmaru"
+    },
+    {
+      "opponent": "Gerald Valkyrie",
+      "result": "Victory",
+      "method": "Hyoketsu"
+    }
+  ],
+  "quotes": [
+    "Sit Upon the Frozen Heavens!",
+    "Ice... freezes everything!"
+  ],
+  "voice_acting": {
+    "native_language": "Nakamura (Japanese)",
+    "note": "Actually: 'Nakamura Shidou (Japanese), 'English:' 'JohnnyYongBosch (English)'",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as captain",
+    "transformation": "Adult form in Bankai",
+    "awakening_potential": "Full Bankai can freeze concepts",
+    "power_evolution": [
+      "Vice-captain",
+      "Captain",
+      "Matured Bankai"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "10th Division HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Tōshirō Hitsugaya (Japanese: 日番谷 冬獅郎, Hepburn: Hitsugaya Tōshirō) is a fictional character in the manga and anime series Bleach, created by Tite Kubo. In the series, Hitsugaya is a captain of the 10th division or squad of the Gotei 13, a group of Soul Reapers who govern the flow of souls and protect Soul Society, an afterlife realm. Hitsugaya makes appearances in all Bleach's films, being the protagonist in Bleach: The Diamond Dust Rebellion, and in other media related to the series, including video games and original video animations.\nHitsugaya has been well received among both readers and reviewers. Amongst the Bleach reader base, he has been highly popular, placing high in several popularity polls. Several pieces of merchandise have been released in his likeness, including action figures, plush toys and key chains. Anime and manga publications have provided acclaim and criticism of Hitsugaya's character.",
+  "note": null,
+  "source": "anime"
+}

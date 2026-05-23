@@ -1,0 +1,364 @@
+{
+  "id": "96cd183105784979b5e9a72d496f330a",
+  "name": "Faye Valentine",
+  "native_name": "Faye Valentine",
+  "full_name": "Faye Valentine",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 165,
+    "weight_kg": 50,
+    "age": "23 (physically, 77 chronologically)",
+    "birthday": "August 14",
+    "blood_type": "B",
+    "bloodline": null,
+    "zodiac": "Leo",
+    "weight_kkg": null,
+    "bmi": 18.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Purple",
+    "skin": "Fair",
+    "notable_features": [
+      "Yellow outfit with black tights",
+      "long purple hair"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Bebop spaceship",
+    "base_of_operations": "Bebop spaceship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty Hunter",
+    "secondary": "Con Artist",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Bebop crew"
+    ],
+    "previous": [],
+    "relatives": [
+      "Unknown (amnesiac)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Cowboy Bebop Episode 2",
+    "manga": "Cowboy Bebop Episode 2",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Marksmanship",
+      "native_name": null,
+      "description": "Skilled with various firearms",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Con Artist",
+      "native_name": null,
+      "description": "Expert liar and manipulator, skilled at scams",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Pilot",
+      "native_name": null,
+      "description": "Skilled pilot, owns the Red Tail fighter",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Acrobatic Combat",
+      "native_name": null,
+      "description": "Flexible and agile fighter",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Con Artist",
+    "Marksmanship",
+    "Pilot"
+  ],
+  "ultimate_move": "Con Artist",
+  "trump_card": "Marksmanship",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": "Marksmanship",
+    "ultimate_move": "Con Artist"
+  },
+  "personality": {
+    "traits": [
+      "Selfish facade",
+      "Cunning",
+      "Vulnerable underneath",
+      "Resourceful",
+      "Sarcastic"
+    ],
+    "likes": [
+      "Money",
+      "gambling",
+      "luxury"
+    ],
+    "dislikes": [
+      "Being vulnerable",
+      "her lost memories"
+    ],
+    "fear": "Failure",
+    "dream": "Find her true past and identity",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Resourceful"
+    ],
+    "weaknesses": [
+      "Selfish"
+    ]
+  },
+  "character": {
+    "arc": "A cryogenically frozen amnesiac from the past trying to recover her memories",
+    "motivation": "Find her true past and identity",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Voiced by Megumi Hayashibara (Japanese)",
+    "Voiced by Wendee Lee (English)",
+    "Con Artist"
+  ],
+  "titles": [
+    "Bounty Hunter"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 45,
+    "speed": 75,
+    "durability": 55,
+    "power": 35,
+    "combat": 70,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Selfish"
+    ],
+    "factors": [
+      "selfish"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Spike Spiegel",
+      "Jet Black",
+      "Edward Wong"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Various criminals"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Spike (unrequited)",
+    "best_friend": "Edward Wong",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spike Spiegel",
+      "Jet Black",
+      "Edward Wong"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various criminals"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spike Spiegel",
+      "Jet Black",
+      "Edward Wong"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "You're gonna carry that weight."
+  ],
+  "voice_acting": {
+    "native_language": "Megumi Hayashibara",
+    "note": null,
+    "native_name": null,
+    "english": "Wendee Lee",
+    "japanese": "Megumi Hayashibara"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: August 14, 1994\n\nOne of the members of the bounty hunting crew in the anime series Cowboy Bebop. Often seen with a cigarette and in a form-fitting outfit complete with bright yellow hot pants and a matching top, black suspenders, white boots, and a long-sleeved red shirt worn normally through the sleeves, not to mention her signature headband. She is unusually attractive, sporting a bob of violet hair, green eyes, fair skin, and a voluptuous body. Although appearing to be no more than her 23 years alive suggests, Faye is actually upwards of 74-years-old, having been put into cryogenic freeze after a space shuttle accident. During the course of the series (set in 2071), Faye manages to cross paths with Spike and Jet twice before she finally makes herself at home aboard their ship the second time, much to the consternation and disapproval of the two men, both of whom have their own reservations about women in general. Faye herself is brash, egotistical, and quite lazy, despite taking plenty of time to pamper and care for her own appearance. Faye has also been placed under arrest several times in the series and spends much time in handcuffs on the ship. She, at times, expects the boys to take care of bounties for her, while she sits by idly to reap the benefits and eat all their food, another source of conflict.\n\nSeemingly little more than a thorn in her partners’ sides, Faye is actually a well-rounded member of the team. She can handle herself exceptionally well for a woman of her slight appearance, displaying at least once in the series (in \"Cowboy Funk\") that she packs quite a mean punch. Adept at flying, Faye has stood her ground just as well as Spike has in an aerial dogfight in her ship Red Tail, at times even against Spike in an aerial dogfight. She also excels with guns, and is first seen in the series completely disabling a ship with a Heckler &amp; Koch MP5, though she is immediately apprehended afterward. In the movie, she is seen with the same gun, in addition to her normal companion: a Glock 30. Where Faye really shines, however, is with her mouth. She has an almost unstoppable attitude, and even her sometimes innocent smile can be seen as dangerous. Sarcastic and presumptuous, she rarely appears weak or in need of support. She brags and takes care of herself, never trusting others, cheating and lying her way from one day to the next.\n\n\nThroughout the series, though she retains her sarcastic demeanor and unpleasant nature up until the very end, it is easy to see her grow as a character. She learns to value her comrades, coming back to the Bebop when she realizes that it is the only home that she has left, naming it as the “only place I could return to”. She grows to understand the disadvantages of being a loner, and that even though her \"family\" is somewhat dysfunctional it is still a place where she will always belong.",
+  "note": null,
+  "source": "anime"
+}

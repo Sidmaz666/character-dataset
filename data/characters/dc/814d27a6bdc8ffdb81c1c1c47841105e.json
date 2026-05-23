@@ -1,0 +1,376 @@
+{
+  "id": "814d27a6bdc8ffdb81c1c1c47841105e",
+  "name": "Penguin",
+  "native_name": null,
+  "full_name": "Oswald Chesterfield Cobblepot",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Cobblepot Family",
+    "height_cm": 157,
+    "weight_kg": 79,
+    "age": "50",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 32,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Trader",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "-"
+    ],
+    "previous": [],
+    "relatives": [
+      "Miranda Cobblepot (Aunt)",
+      "Miranda (Mother",
+      "deceased)",
+      "Father (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "DETECTIVE COMICS #58 (December, 1941)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Criminal Genius",
+      "native_name": null,
+      "description": "Brilliant criminal strategist and leader of Gotham's underworld",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Umbrella Weaponry",
+      "native_name": null,
+      "description": "Trick umbrellas containing guns, blades, and other weapons",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Business Acumen",
+      "native_name": null,
+      "description": "Legitimate businessman running Iceberg Lounge",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Manipulation",
+      "native_name": null,
+      "description": "Expert manipulator and information broker",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 85,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Resource Network",
+      "native_name": null,
+      "description": "Extensive criminal contacts throughout Gotham",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Global",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Umbrella Gun Shot",
+    "Penguin Slash"
+  ],
+  "ultimate_move": "Iceberg Lounge Trap",
+  "trump_card": "Gentleman persona",
+  "power_attributes": {
+    "power_type": "Intelligence",
+    "power_source": "Criminal experience",
+    "combat_style": [
+      "Trick umbrellas",
+      "Strategic planning"
+    ],
+    "weapon": "Trick Umbrella",
+    "equipment": [
+      "Monocle",
+      "Top hat"
+    ],
+    "trump_card": "Gentleman persona",
+    "ultimate_move": "Iceberg Lounge Trap"
+  },
+  "personality": {
+    "traits": [
+      "Calculating",
+      "Refined",
+      "Sadistic",
+      "Ambitious",
+      "Vindictive"
+    ],
+    "likes": [
+      "Birds",
+      "Money",
+      "Power",
+      "Classical music"
+    ],
+    "dislikes": [
+      "Batman",
+      "His height being mocked",
+      "Poverty"
+    ],
+    "fear": "Humiliation",
+    "dream": "Rule Gotham's criminal underworld",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Criminal Genius",
+      "Umbrella Weaponry",
+      "Business Acumen",
+      "Manipulation"
+    ],
+    "weaknesses": [
+      "Sadistic"
+    ]
+  },
+  "character": {
+    "arc": "A deformed aristocrat turned criminal mastermind using Iceberg Lounge as a front",
+    "motivation": "Wealth, power, and respect",
+    "affinity": "Greed/Control",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Ruled Gotham's underworld",
+    "Operated Iceberg Lounge"
+  ],
+  "titles": [
+    "The Penguin",
+    "Gentleman of Crime"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 40,
+    "speed": 40,
+    "durability": 45,
+    "power": 35,
+    "combat": 55,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Sadistic"
+    ],
+    "factors": [
+      "sadistic"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [
+      "Various Gotham rogues"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Batman",
+      "Two-Face"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Two-Face",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Various Gotham rogues"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman",
+      "Two-Face"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Two-Face"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Various Gotham rogues"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gotham City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Penguins are a group of flightless semi-aquatic sea birds which live almost exclusively in the Southern Hemisphere. Only one species, the Galapagos penguin, lives at, and slightly north of, the equator. Highly adapted for life in the ocean water, penguins have countershaded dark and white plumage and flippers for swimming. Most penguins feed on krill, fish, squid and other forms of sea life which they catch with their bills and swallow whole while swimming. A penguin has a spiny tongue and powerful jaws to grip slippery prey.\nThey spend about half of their lives on land and the other half in the sea. The largest living species is the emperor penguin (Aptenodytes forsteri): on average, adults are about 1.1 m (3 ft 7 in) tall and weigh 35 kg (77 lb). The smallest penguin species is the little blue penguin (Eudyptula minor), also known as the fairy penguin, which stands around 30–33 cm (12–13 in) tall and weighs 1.2–1.3 kg (2.6–2.9 lb). Today, larger penguins generally inhabit colder regions, and smaller penguins inhabit regions with temperate or tropical climates. Some prehistoric penguin species were enormous: as tall or heavy as an adult human. There was a great diversity of species in subantarctic regions, and at least one giant species in a region around 2,000 km south of the equator 35 mya, during the Late Eocene, a climate decidedly warmer than today.",
+  "note": null,
+  "source": "dc"
+}

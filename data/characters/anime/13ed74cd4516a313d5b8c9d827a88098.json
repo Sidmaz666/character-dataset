@@ -1,0 +1,329 @@
+{
+  "id": "13ed74cd4516a313d5b8c9d827a88098",
+  "name": "Jogo",
+  "native_name": "",
+  "full_name": "Jogo",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Jujutsu High",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Kaisen",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Cursed Spirits",
+      "Disaster Curses"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen",
+    "manga": "Jujutsu Kaisen",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cursed Energy Manipulation",
+      "type": "Energy",
+      "description": "Controls cursed energy for combat and defense",
+      "power_level": "High"
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "type": "Physical",
+      "description": "Skilled in direct combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Barrier Techniques",
+      "type": "Magic",
+      "description": "Can create barriers using cursed energy",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Cursed Energy Manipulation",
+    "Hand-to-Hand Combat",
+    "Barrier Techniques"
+  ],
+  "ultimate_move": "Cursed Energy Manipulation",
+  "trump_card": "Hand-to-Hand Combat",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Magic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Hand-to-Hand Combat",
+    "ultimate_move": "Cursed Energy Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Calculating",
+      "Determined",
+      "Loyal",
+      "Sharp"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cursed"
+    ]
+  },
+  "character": {
+    "arc": "Jujutsu Kaisen character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Shirou Saitou (Japanese)",
+    "Voiced by Mike McFarland (English)"
+  ],
+  "titles": [
+    "Jujutsu Kaisen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 72,
+    "speed": 72,
+    "durability": 72,
+    "power": 72,
+    "combat": 72,
+    "total": 432
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Jujutsu High"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Curses"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jujutsu High"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Curses"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Kisaki Eri (wife)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Kisaki Eri (wife)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jujutsu High"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Mike McFarland",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Shirou Saitou"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Mouri Kogorou is a private detective and Ran's father. Some time ago, he worked in the Tokyo Metropolitan Police Division One with Inspector Megure, but while an excellent marksman he was not a particularly good investigator. Around the time Mouri left the police force, his wife Kisaki Eri also moved out, though they have never officially divorced despite ten years having passed.\n\nMouri has an overinflated sense of his own importance and detective prowess to the point where he doesn't investigate why he is suddenly and consistently passing out at crime scenes and solving cases in his sleep with different deductions than he was making while awake. He is also frequently unprofessional in his work, frequently making sarcastic and blunt comments about suspects or even his own clients. \n\nOn cases, Mouri is typically lax with his deductions and investigation, following only the most obvious clues or assumptions to reach his conclusions, which are often silly or fall directly into a culprit's trap. The police, especially Megure, often find him to be an embarrassment while awake and hope to see \"Nemuri no Kogorou\"  (Sleeping Detective) as soon as possible. Mouri does have a serious side which only emerges when the case has personal importance to him, such as when Eri and Ran are involved. When this happens, Mouri's entire personality and demeanor changes and he begins acting professionally, demonstrating improved deductive skills and cunning. While he is not up to the standards of Shinichi and he still can have problems with finding clues, his logical reasoning becomes better, and Mouri often demonstrates he has a better sense of interpersonal relationships than Shinichi does.\n\nMouri easily becomes infatuated with beautiful women. His favorite celebrity is pop idol Okino Yoko, and he never misses (or tries not to miss) her television shows. He also keeps a large collection of Yoko related goods and his office and bedroom have Yoko posters. Because of his flirtatious behavior around attractive women, he often embarrasses Ran, and while it is not stated as the reason why Eri left him, it is one of the primary reasons why she hasn't come back.\n\nWhile never outright called an alcoholic, Mouri has a tendency to get intoxicated and Shinichi/Conan often makes sarcastic remarks about him spending money on alcohol. In the anime, particularly in early episodes, his office is littered with empty beer cans, and he keeps a well-stocked liquor shelf. Mouri is also a heavy smoker, and is usually seen with a cigarette in his mouth. Other hobbies include watching his favorite idol star, Okino Yoko, betting on horse races, playing mahjong (which he tends to lose) and playing or watching baseball (he even plays in his neighborhood's team). \n\nIn the movies, Mouri suffers from a mild acrophobia (fear of heights) and is quite uncomfortable in high settings where he has the chance to see how high up he is. He does not have this fear in the manga.",
+  "note": null,
+  "source": "anime"
+}

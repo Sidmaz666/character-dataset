@@ -1,0 +1,466 @@
+{
+  "id": "7d02136fe4641dd692c5922ec4938911",
+  "name": "Light Yagami",
+  "native_name": "夜神月",
+  "full_name": "Light Yagami",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Yagami family",
+    "height_cm": 179,
+    "weight_kg": 54,
+    "age": "17 (start of series); 22 (end)",
+    "birthday": "February 28",
+    "zodiac": "Pisces",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 16.9,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown (turns white when losing memories of Death Note)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Sharp, attractive features",
+      "Often seen with calculating expression",
+      "Changes hair color when Shinigami eyes are active"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo, Japan",
+    "current_location": "N/A (deceased)",
+    "base_of_operations": "Various locations in Japan",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student (high school, then university)",
+    "secondary": "Detective (alias), Kira (self-proclaimed god)",
+    "rank_title": "N/A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "N/A (deceased)"
+    ],
+    "previous": [
+      "Japanese Task Force",
+      "NPA"
+    ],
+    "relatives": [
+      "Soichiro Yagami (father, deceased)",
+      "Sachiko Yagami (mother)",
+      "Sayu Yagami (sister)",
+      "Misa Amane (fiancée, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Death Note Episode 1",
+    "manga": "Death Note Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Death Note Usage",
+      "native_name": "死のノート使用",
+      "description": "Light can kill anyone by writing their name while visualizing their face. Causes death within 40 seconds if no cause is specified.",
+      "type": "Attack/Killing",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited (requires name and face)",
+      "limit": "Requires physical notebook; cannot kill those whose names are unknown"
+    },
+    {
+      "name": "Genius-Level Intelligence",
+      "native_name": "天才的な知性",
+      "description": "Light possesses exceptional analytical skills, strategic planning, and pattern recognition. Can predict multiple scenarios and counter them.",
+      "type": "Support/Intelligence",
+      "tier": "S",
+      "power_level": 98,
+      "range": "N/A",
+      "limit": "Non-combat ability"
+    },
+    {
+      "name": "Shinigami Eyes (partial)",
+      "native_name": "死神の眼",
+      "description": "After the eye trade, Light can see names and lifespans of humans, but his lifespan is reduced and he loses half his remaining life.",
+      "type": "Detection/Utility",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Sight-based",
+      "limit": "Costs half remaining lifespan; gained through Misa"
+    },
+    {
+      "name": "Memory Manipulation",
+      "native_name": "記憶操作",
+      "description": "Can temporarily lose Death Note memories by passing ownership to Ryuk, allowing manipulation of others who think he's innocent.",
+      "type": "Utility/Deception",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Cannot write in Death Note while memories are lost"
+    },
+    {
+      "name": "Physical Prowess",
+      "native_name": "身体能力",
+      "description": "Light is athletic, fast, and agile. Peak human physical condition.",
+      "type": "Attack/Defense",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Social Manipulation",
+      "native_name": "社会的操作",
+      "description": "Master of manipulating people's emotions and decisions. Can lie convincingly and influence others' actions.",
+      "type": "Support/Deception",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Requires face-to-face interaction or media access"
+    }
+  ],
+  "signature_moves": [
+    "Name writing",
+    "Television broadcast manipulation",
+    "Fake memory loss"
+  ],
+  "ultimate_move": "Manipulating Rem to kill L and Watari",
+  "trump_card": "Death Note hidden in watch mechanism",
+  "power_attributes": {
+    "power_type": "Supernatural (Death Note) / Intelligence",
+    "power_source": "Death Note power, Shinigami eyes (via Misa)",
+    "combat_style": [
+      "Strategic planning",
+      "Social manipulation",
+      "Physical combat (when necessary)"
+    ],
+    "weapon": "Death Note",
+    "equipment": [
+      "Death Note",
+      "Watch with hidden paper",
+      "Various aliases"
+    ],
+    "trump_card": "Death Note hidden in watch mechanism",
+    "ultimate_move": "Manipulating Rem to kill L and Watari"
+  },
+  "personality": {
+    "traits": [
+      "Brilliant",
+      "Calculating",
+      "Arrogant",
+      "Charismatic",
+      "Self-righteous",
+      "Sociopathic"
+    ],
+    "likes": [
+      "Justice (his version)",
+      "Control",
+      "Winning",
+      "Being proven right"
+    ],
+    "dislikes": [
+      "Criminals",
+      "Being questioned",
+      "Losing control",
+      "L"
+    ],
+    "fear": "Being exposed as Kira",
+    "dream": "Create a world without crime where he rules as god",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Light transforms from a brilliant but bored high school student into Kira, the self-proclaimed god who judges criminals. His journey explores the corrupting influence of absolute power and the dangers of absolute certainty in one's own righteousness.",
+    "motivation": "Create a crime-free world and rule as its god",
+    "affinity": "Justice (corrupted)/Red",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Reduced global crime rates significantly",
+    "Defeated L's initial investigation",
+    "Manipulated multiple Shinigami and humans",
+    "Controlled Yotsuba Corporation",
+    "Eliminated most of his opposition"
+  ],
+  "titles": [
+    "Kira",
+    "God of the New World",
+    "The Second L",
+    "First Kira"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Mass murderer, international fugitive"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 65,
+    "speed": 70,
+    "durability": 60,
+    "power": 95,
+    "combat": 75,
+    "total": 463
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Arrogance",
+      "Cannot be killed by normal means except through Death Note",
+      "Relies on Death Note for power"
+    ],
+    "factors": [
+      "Hubris leads to mistakes",
+      "Believes he cannot lose",
+      "Easily manipulated emotionally regarding family",
+      "Underestimates opponents"
+    ]
+  },
+  "relationships": {
+    "nemesis": "L Lawliet",
+    "allies": [
+      "Ryuk (observer only)",
+      "Misa Amane",
+      "Rem (manipulated)",
+      "Kyiosuke Higuchi (manipulated)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ryuk",
+        "relationship": "Uses him as tool",
+        "trust_level": "None"
+      },
+      {
+        "name": "Misa Amane",
+        "relationship": "Love interest/tool",
+        "trust_level": "Conditional"
+      }
+    ],
+    "enemies": [
+      "L Lawliet",
+      "Near",
+      "Mello",
+      "Japanese Task Force",
+      "FBI agents"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "L Lawliet",
+        "relationship": "Equal intellectual rival",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Misa Amane",
+    "best_friend": "None (uses everyone)",
+    "rival": "L Lawliet",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Ryuk (observer only)",
+      "Misa Amane",
+      "Rem (manipulated)",
+      "Kyiosuke Higuchi (manipulated)",
+      "None (uses everyone)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "L Lawliet"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "L Lawliet"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ryuk",
+      "Misa Amane",
+      "Rem",
+      "Kyiosuke Higuchi",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "L Lawliet",
+      "result": "Victory (L died, but Light lost shortly after)",
+      "method": "Manipulated Rem to kill L through Shinigami rules loophole"
+    },
+    {
+      "opponent": "Near",
+      "result": "Defeat",
+      "method": "Overconfidence led to exposure; killed by Ryuk"
+    },
+    {
+      "opponent": "FBI Agents",
+      "result": "Victory",
+      "method": "Used Death Note to kill all 12 agents simultaneously"
+    }
+  ],
+  "quotes": [
+    "I will create a world without crime... and I will be its god.",
+    "I'm正义. I'm justice. I'm Kira.",
+    "If you can't win... then die!",
+    "I am the god of this new world."
+  ],
+  "voice_acting": {
+    "native_language": "Mamoru Miyano (Japanese)",
+    "note": "Both voice actors received acclaim for their performances",
+    "native_name": null,
+    "english": "Brad Swaile",
+    "japanese": "Mamoru Miyano"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Ryuk writing his name in the Death Note after being exposed by Near",
+    "transformation": "From idealistic student to god complex murderer",
+    "awakening_potential": "N/A (deceased)",
+    "power_evolution": [
+      "Bored genius student",
+      "Kira - judge of criminals",
+      "God complex holder",
+      "Manipulator of shinigami"
+    ],
+    "role_in_story": "Protagonist/Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "N/A",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: February 28, 1986 (1989 in the anime)\nZodiac sign: Pisces\nHair color: Brown\nEye color: Brown\nHeight: 179 cm (5'10\")\nWeight: 54 kg (119 lbs.)\nBlood type: A\nOccupation: high school student, a university student, detective\nAge (during the series): 17-24\nLikes: Justice\nDislikes: Evil\n\nLight, born on February 28, 1986, is a third-year high school student (12th grade) at Daikoku Private Academy (大国学園, Daikoku Gakuen) who also attends supplemental classes at Gamou Prep Academy at the beginning of the story. Light has a father, Soichiro Yagami, who is the head of the Police Force. Light also has a mother, Sachiko Yagami, and a younger sister, Sayu Yagami.\n\nIn Spring 2004, Light becomes a first-year student (freshman) at To-Oh University (東応大学, Tōō Daigaku), becoming one of two freshman representatives; L is the other freshman representative. During a tennis game with L at To-Oh, spectators reveal that Light was the junior high school tennis champion in 1999 and 2000. After his 2000 victory, Light quit tennis as he entered high school.\n\nYagami Light is a brilliant college student. Nicknamed \"Kira,\" he uses the Death Note to create his ideal world of justice under him, its new God. Though he looks frail, Light is an extremely athletic person, with an aptitude to find an opponent's weak point. He is a genius, which adds to his notion that only he is fit to judge humanity and steer it on a proper moral course.",
+  "note": null,
+  "source": "anime"
+}

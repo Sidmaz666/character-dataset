@@ -1,0 +1,442 @@
+{
+  "id": "5f44ac1056ea934ebc241db480e228d7",
+  "name": "Tohru Honda",
+  "native_name": "本田透",
+  "full_name": "Tohru Honda",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Honda family",
+    "height_cm": 157,
+    "weight_kg": 45,
+    "age": "16",
+    "birthday": "February 3",
+    "zodiac": "Aquarius (Year of the Dog)",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown (dark, medium length)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Always smiling",
+      "Polite demeanor",
+      "Often wears casual clothes or school uniform"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Souma estate, Tokyo",
+    "current_location": "Souma estate, Tokyo",
+    "base_of_operations": "Souma household",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Part-time janitor",
+    "rank_title": "N/A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Souma household",
+      "Kaibara Municipal High School"
+    ],
+    "previous": [],
+    "relatives": [
+      "Kyoko Honda (mother, deceased)",
+      "Katsuya Honda (father, deceased)",
+      "Arisa Uotani (best friend)",
+      "Saki Hanajima (best friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fruits Basket Episode 1",
+    "manga": "Fruits Basket Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Exceptional Housekeeping",
+      "native_name": "家政の天才",
+      "description": "Excellent cooking and cleaning skills. Her meals bring joy to everyone around her.",
+      "type": "Support/Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "Non-combat ability"
+    },
+    {
+      "name": "Empathy and Understanding",
+      "native_name": "共感能力",
+      "description": "Can understand and relate to people's emotional pain, helping them heal through compassion.",
+      "type": "Support/Healing",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Cannot physically help in combat"
+    },
+    {
+      "name": "Indomitable Optimism",
+      "native_name": "不屈の楽観性",
+      "description": "Despite losing both parents and living in a tent, Tohru maintains a positive outlook and spreads joy.",
+      "type": "Support/Inspiration",
+      "tier": "S",
+      "power_level": 90,
+      "range": "N/A",
+      "limit": "Hides her own pain"
+    },
+    {
+      "name": "Courage",
+      "native_name": "勇気",
+      "description": "Willing to stand up for friends despite her fears. Faces the Sohma curse head-on.",
+      "type": "Support/Defense",
+      "tier": "B",
+      "power_level": 75,
+      "range": "N/A",
+      "limit": "Physical limitations"
+    }
+  ],
+  "signature_moves": [
+    "Home-cooked meals",
+    "Emotional support",
+    "Tent living"
+  ],
+  "ultimate_move": "Breaking the curse through pure kindness",
+  "trump_card": "Her compassion breaks the emotional barriers of the cursed Sohmas",
+  "power_attributes": {
+    "power_type": "Emotional/Support",
+    "power_source": "Pure heart and optimism",
+    "combat_style": [
+      "N/A (non-combatant)"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "Cooking utensils",
+      "Cleaning supplies"
+    ],
+    "trump_card": "Her compassion breaks the emotional barriers of the cursed Sohmas",
+    "ultimate_move": "Breaking the curse through pure kindness"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Optimistic",
+      "Selfless",
+      "Polite",
+      "Caring",
+      "Naive"
+    ],
+    "likes": [
+      "Cooking",
+      "Her mother",
+      "The Sohmas",
+      "Helping others",
+      "Being useful"
+    ],
+    "dislikes": [
+      "Being a burden",
+      "Her friends being hurt",
+      "The curse",
+      "Saying mean things"
+    ],
+    "fear": "Being alone, losing friends",
+    "dream": "Help break the Sohma curse, find happiness",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Exceptional Housekeeping",
+      "Empathy and Understanding",
+      "Indomitable Optimism",
+      "Courage"
+    ],
+    "weaknesses": [
+      "Naive"
+    ]
+  },
+  "character": {
+    "arc": "Tohru begins as an orphaned optimist living in a tent, gradually becoming part of the Sohma family. Her journey involves healing the emotional wounds of the cursed members while learning to value herself. She serves as the catalyst for breaking the curse through unconditional love.",
+    "motivation": "Help others and find a place to belong",
+    "affinity": "Green/Nurturing",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Survived losing both parents at young age",
+    "Became the emotional anchor for the Sohma family",
+    "Helped break the curse through compassion",
+    "Maintained her optimism despite hardships",
+    "Found love with Kyo Sohma"
+  ],
+  "titles": [
+    "The Girl Who Lived in a Tent",
+    "The Girl Born in the Year of the Dog"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 45,
+    "speed": 50,
+    "durability": 55,
+    "power": 60,
+    "combat": 30,
+    "total": 315
+  },
+  "weaknesses": {
+    "list": [
+      "Low self-esteem",
+      "Cannot say no",
+      "Hides her own pain",
+      "Too self-sacrificing"
+    ],
+    "factors": [
+      "Puts others before herself constantly",
+      "Avoids burdening others even when she needs help",
+      "Grief over mother's death unprocessed"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Akito Sohma (initially)",
+    "allies": [
+      "Kyo Sohma",
+      "Yuki Sohma",
+      "Shigure Sohma",
+      "Arisa Uotani",
+      "Saki Hanajima"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kyo Sohma",
+        "relationship": "Love interest/future husband",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Yuki Sohma",
+        "relationship": "Friend/found family",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Shigure Sohma",
+        "relationship": "Housemate",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kyoko Honda",
+        "relationship": "Mother (deceased)",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "The curse itself",
+      "Old Sohma faction"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Kyo Sohma",
+    "best_friend": "Arisa Uotani / Saki Hanajima",
+    "rival": "None",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kyo Sohma",
+      "Yuki Sohma",
+      "Shigure Sohma",
+      "Arisa Uotani",
+      "Saki Hanajima",
+      "Arisa Uotani / Saki Hanajima"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Akito Sohma (initially)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kyo Sohma",
+      "Yuki Sohma",
+      "Shigure Sohma",
+      "Arisa Uotani",
+      "Saki Hanajima",
+      "Arisa Uotani / Saki Hanajima"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "The curse itself",
+      "result": "Victory",
+      "method": "Her compassion and love helped break the curse"
+    },
+    {
+      "opponent": "Akito Sohma",
+      "result": "Victory (turned ally)",
+      "method": "Showed compassion even after being hurt"
+    }
+  ],
+  "quotes": [
+    "I'll do my best!",
+    "Everyone deserves to be happy.",
+    "I don't want to be a burden to anyone.",
+    "The cat was just lonely, that's why he was excluded from the zodiac..."
+  ],
+  "voice_acting": {
+    "native_language": "Manaka Iwami (Japanese - 2019 series), Yui Horie (Japanese - 2001 series)",
+    "note": "Both versions are highly praised",
+    "native_name": null,
+    "english": "Laura Bailey",
+    "japanese": "Yui Horie"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Breaks the curse, marries Kyo Sohma, has children",
+    "transformation": "Grows from selfless girl to someone who values herself",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Orphan",
+      "Tent dweller",
+      "Sohma family member",
+      "Curse breaker"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Souma household",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Team: Aoba Jousai High, Kitagawa Daiichi (former)\nAge: 17\nHeight: 184.3 cm\nWeight: 72.2 kg\nBirthday: July 20, 1994\nYear: 3rd Year\nNumber: 1\nPosition: Setter\n\nThe captain and setter of the Aoba Jousai High School Volleyball Club. Oikawa was also Kageyama's senpai when they were attending Kitagawa Daiichi. According to Kageyama, he is a very talented setter and volleyball player with a bad personality.\n\nOikawa also frequently makes cheerful remarks, but follows them up with serious or intimidating afterthoughts. Despite his flirtatious and blasé exterior, Oikawa is extremely intelligent and cunning, to the point of his own teammates stating they wouldn't want to be friends with him because he figures out everyone's weakness.\n\nHe holds a grudge against Kageyama, whom he mockingly calls Tobio-chan. This is due to his feelings of inferiority when compared to Kageyama, who has been hailed as a genius setter since their time spent at Kitagawa Daiichi. Kageyama can unintentionally bring out the more childish or rash aspects of Oikawa's personality. \n\n(Source: Haikyuu!! Wiki)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,332 @@
+{
+  "id": "6820d4ee21e9a6a03b9fce463cbc724a",
+  "name": "Gorr the God Butcher",
+  "native_name": null,
+  "full_name": "Gorr",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Alien",
+    "race": "Unknown alien race",
+    "bloodline": null,
+    "height_cm": 188,
+    "weight_kg": 195,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 55.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Black",
+    "skin_color": "Dark",
+    "notable_features": [],
+    "skin": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unnamed planet",
+    "current_location": "Deceased",
+    "base_of_operations": "Deceased",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "God Butcher",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Thor: God of Thunder #2 (2013)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "All-Black Empowerment",
+      "native_name": null,
+      "description": "Powered by All-Black the Necrosword granting superhuman abilities",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Necrosword Manipulation",
+      "native_name": null,
+      "description": "Create constructs from All-Black, summon shadow monsters",
+      "type": "Darkness",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Planetary",
+      "limit": null
+    },
+    {
+      "name": "Virtual Immortality",
+      "native_name": null,
+      "description": "Granted by All-Black the Necrosword",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Necrosword Manipulation",
+    "All-Black Empowerment",
+    "Virtual Immortality"
+  ],
+  "ultimate_move": "Godbomb",
+  "trump_card": "Necrosword Manipulation",
+  "power_attributes": {
+    "power_type": "Darkness",
+    "power_source": "All-Black the Necrosword",
+    "combat_style": [
+      "Swordsmanship"
+    ],
+    "weapon": "All-Black the Necrosword",
+    "equipment": [
+      "All-Black Empowerment",
+      "Virtual Immortality"
+    ],
+    "trump_card": "Necrosword Manipulation",
+    "ultimate_move": "Godbomb"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Zealous",
+      "Determined"
+    ],
+    "likes": [
+      "Physical training",
+      "Protection",
+      "Swordsmanship"
+    ],
+    "dislikes": [
+      "Darkness"
+    ],
+    "fear": "Darkness",
+    "dream": "Kill all gods",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "A mortal who sought to kill all gods after his suffering - became the God Butcher",
+    "motivation": "Extinguish all gods",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Killed numerous gods across the cosmos",
+    "Created the Godbomb",
+    "Nearly killed Thor"
+  ],
+  "titles": [
+    "Gorr the God Butcher",
+    "Butcher of Gods"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 98,
+    "speed": 85,
+    "durability": 95,
+    "power": 100,
+    "combat": 90,
+    "total": 548
+  },
+  "weaknesses": {
+    "list": [
+      "Ruthless"
+    ],
+    "factors": [
+      "ruthless"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thor",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Thor"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Thor"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From Marvel Comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died after All-Black was destroyed",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Deceased",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Gorr the God Butcher is a supervillain appearing in American comic books published by Marvel Comics. Created by Jason Aaron and Esad Ribic, Gorr first appeared in Thor: God of Thunder #2 (January 2013). Gorr the God Butcher has been described as one of Marvel's most notable and powerful supervillains, as well as one of Thor's greatest foes.\nThe character made his live-action debut in the Marvel Cinematic Universe (MCU) film Thor: Love and Thunder (2022), portrayed by Christian Bale.",
+  "note": null,
+  "source": "marvel"
+}

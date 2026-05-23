@@ -1,0 +1,416 @@
+{
+  "id": "9caf4757e58c5cf36e3404db547c9580",
+  "name": "Luke Skywalker",
+  "native_name": null,
+  "full_name": "Luke Skywalker",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": "Skywalker family",
+    "height_cm": 172,
+    "weight_kg": 73,
+    "age": "Born 19 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Mechanical hand (later)",
+      "Jedi robes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tatooine",
+    "current_location": "Deceased",
+    "base_of_operations": "Jedi Temple (later)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jedi Knight",
+    "secondary": "Rebel Hero, Farmer",
+    "rank_title": "Jedi Master",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Jedi Order",
+      "Galactic Alliance"
+    ],
+    "previous": [
+      "Rebel Alliance",
+      "Rebel Fleet"
+    ],
+    "relatives": [
+      "Anakin Skywalker (father)",
+      "Padme Amidala (mother)",
+      " Leia (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode IV: A New Hope (1977)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Telekinesis",
+      "native_name": "Force Telekinesis",
+      "description": "Move objects with the Force",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": "Force Telepathy",
+      "description": "Communicate through the Force",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Unlimited",
+      "limit": "Requires connection"
+    },
+    {
+      "name": "Precognitive Sense",
+      "native_name": "Force Sense",
+      "description": "Sense impending danger",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Cannot predict everything"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": "Form V",
+      "description": "Master of Djem So, powerful offensive style",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires practice"
+    }
+  ],
+  "signature_moves": [
+    "Big GC!",
+    "Toss X-Wing",
+    "Force pull"
+  ],
+  "ultimate_move": "Jedi Mastery",
+  "trump_card": "Force Projection",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "Light side of the Force",
+    "combat_style": [
+      "Djem So",
+      "Shien"
+    ],
+    "weapon": "Green lightsaber, later blue",
+    "equipment": [
+      "Armor"
+    ],
+    "trump_card": "Force Projection",
+    "ultimate_move": "Jedi Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Optimistic",
+      "Determined",
+      "Compassionate"
+    ],
+    "likes": [
+      "Adventure",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Dark side",
+      "Evil"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Become a Jedi and bring peace",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Farm boy who became Jedi Master, redeemed his father, helped restore the Republic",
+    "motivation": "Follow his father's legacy",
+    "affinity": "Force",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Redeemed Darth Vader",
+    "Defeated the Empire",
+    "Rebuilt the Jedi Order",
+    "Became a Jedi Master"
+  ],
+  "titles": [
+    "Jedi Master",
+    "Rebel Hero",
+    "The Chosen One's son"
+  ],
+  "bounty": {
+    "amount": 5000,
+    "currency": "Credits",
+    "details": "Imperial bounty (much higher later)"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 75,
+    "durability": 75,
+    "power": 85,
+    "combat": 90,
+    "total": 475
+  },
+  "weaknesses": {
+    "list": [
+      "Had to learn patience",
+      "Family vulnerabilities"
+    ],
+    "factors": "His emotional attachments were exploited"
+  },
+  "relationships": {
+    "nemesis": "Darth Vader (later redeemed)",
+    "allies": [
+      "Han Solo",
+      "Leia",
+      "Obi-Wan",
+      "Yoda"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Han Solo",
+        "relationship": "Best friend",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Darth Vader",
+      "Emperor Palpatine"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Emperor Palpatine",
+        "relationship": "Sith Lord",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Marila Solo",
+    "best_friend": "Han Solo",
+    "rival": null,
+    "mentor": "Obi-Wan Kenobi, Yoda",
+    "student": "Ben Solo",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Han Solo",
+      "Leia",
+      "Obi-Wan",
+      "Yoda"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Vader (later redeemed)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Ben Solo (nephew)",
+      "Leia Organa"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Ben Solo (nephew)",
+      "Leia Organa"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ben Solo"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Han Solo",
+      "Leia",
+      "Obi-Wan",
+      "Yoda"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Obi-Wan Kenobi, Yoda"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Darth Vader",
+      "result": "Victory",
+      "method": "Refused to fight, appealed to Vader's good side"
+    },
+    {
+      "opponent": "Emperor Palpatine",
+      "result": "Victory",
+      "method": "Redeemed by sacrificing himself"
+    }
+  ],
+  "quotes": [
+    "I am a Jedi, like my father before me.",
+    "The Force will be with you, always."
+  ],
+  "voice_acting": {
+    "native_language": "Mark Hamill",
+    "english": "Mark Hamill",
+    "note": "Portrayed by Mark Hamill",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Became one with the Force",
+    "fate": "Appeared as Force ghost, became one with the Force",
+    "transformation": "N/A",
+    "awakening_potential": "Could have prevented Kylo Ren's fall",
+    "power_evolution": [
+      "Farm boy",
+      "Jedi Knight",
+      "Jedi Master"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "X-Wing"
+    ],
+    "vehicles": [
+      "Millennium Falcon (occasionally)"
+    ],
+    "headquarters": "Yavin 4, later Jedi Temple",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Luke Skywalker is a fictional character in the Star Wars franchise. He was introduced in the original Star Wars film (1977) and its novelization (1976). He is the main protagonist of the original trilogy, and also appears in the sequel trilogy. Raised as a moisture farmer on the desert planet Tatooine, Luke joins the Rebel Alliance and becomes a pivotal figure in its struggle against the Galactic Empire. He trains as a Jedi Knight under the Jedi Masters Obi-Wan Kenobi and Yoda, and eventually confronts his father, the Sith Lord Darth Vader. Years later, Luke trains his nephew Ben Solo and mentors the scavenger Rey. Luke is the twin brother of Leia Organa.",
+  "note": null,
+  "source": "star_wars"
+}

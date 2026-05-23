@@ -1,0 +1,416 @@
+{
+  "id": "77a38a9e9bb411d6571a12be297e4cee",
+  "name": "Data",
+  "native_name": null,
+  "full_name": "Data",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Android",
+    "race": "Soong-type android",
+    "bloodline": "Soong family",
+    "height_cm": 198,
+    "weight_kg": 95,
+    "age": "Created 2226",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": 24.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow (golden)",
+    "hair_color": "Black (scalp)",
+    "skin_color": "Synthetic bronze",
+    "notable_features": [
+      "Positronic brain",
+      "Pale skin",
+      "No emotions"
+    ],
+    "skin": "Synthetic bronze",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Omicron Theta",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise-D, later Enterprise-E",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Operations Officer",
+    "secondary": "Captain",
+    "rank_title": "Lieutenant Commander, later Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Starfleet",
+      "Federation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Dr. Noonian Soong (creator)",
+      "Lore (brother)",
+      "Juliana Tainer (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Trek: The Next Generation (1987)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Can lift enormous weights",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Requires physical contact"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Movement faster than human perception",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": "Cannot break causality"
+    },
+    {
+      "name": "Positronic Processing",
+      "native_name": null,
+      "description": "Supercomputer-level intelligence",
+      "type": "Support",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "N/A",
+      "limit": "N/A"
+    },
+    {
+      "name": "Self-Repair",
+      "native_name": null,
+      "description": "Can repair his own systems",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Requires time"
+    }
+  ],
+  "signature_moves": [
+    "Lift massive objects",
+    "Instant calculations",
+    "Starfleet combat protocols"
+  ],
+  "ultimate_move": "Positronic Nirvana",
+  "trump_card": "Emotion chip",
+  "power_attributes": {
+    "power_type": "N/A",
+    "power_source": "Positronic brain",
+    "combat_style": [
+      "Klingon martial arts",
+      "T'ai chi"
+    ],
+    "weapon": "None (phaser when needed)",
+    "equipment": [
+      "Phaser",
+      "Tricorder"
+    ],
+    "trump_card": "Emotion chip",
+    "ultimate_move": "Positronic Nirvana"
+  },
+  "personality": {
+    "traits": [
+      "Curious",
+      "Logical",
+      "Devoted",
+      "Emerging emotions"
+    ],
+    "likes": [
+      "Learning",
+      "Playing violin",
+      "Discovery"
+    ],
+    "dislikes": [
+      "Inefficiency",
+      "Losing"
+    ],
+    "fear": "Not being able to feel",
+    "dream": "Become fully human",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Superhuman Strength",
+      "Superhuman Speed",
+      "Positronic Processing",
+      "Self-Repair"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Android who sought humanity, gained emotions, became more than machine",
+    "motivation": "Understand humanity and become human",
+    "affinity": "N/A",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Saved Earth from the Borg",
+    "Achieved emotion chip integration",
+    "Became first android Starfleet officer",
+    "Defeated Lore"
+  ],
+  "titles": [
+    "Lieutenant Commander",
+    "The Android"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 90,
+    "speed": 90,
+    "durability": 100,
+    "power": 80,
+    "combat": 75,
+    "total": 535
+  },
+  "weaknesses": {
+    "list": [
+      "Vulnerable to emotion manipulation",
+      "Can be reprogrammed"
+    ],
+    "factors": "His emotion chip was a vulnerability"
+  },
+  "relationships": {
+    "nemesis": "Lore, Borg",
+    "allies": [
+      "Picard",
+      "Geordi",
+      "Riker"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jean-Luc Picard",
+        "relationship": "Captain/Mentor",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Lore",
+      "Borg Queen"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Lore",
+        "relationship": "Brother",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Tasha Yar, others",
+    "best_friend": "Geordi LaForge",
+    "rival": "Lore",
+    "mentor": "Dr. Soong",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Picard",
+      "Geordi",
+      "Riker",
+      "Geordi LaForge"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Lore, Borg",
+      "Lore"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Star Trek"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Star Trek"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Lore"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Picard",
+      "Geordi",
+      "Riker",
+      "Geordi LaForge"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Dr. Soong"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Lore",
+      "result": "Victory",
+      "method": "Disabled brother"
+    },
+    {
+      "opponent": "Borg",
+      "result": "Victory",
+      "method": "Used knowledge to defeat"
+    }
+  ],
+  "quotes": [
+    "I am endeavoring to understand, Captain.",
+    "It is difficult to explain.",
+    "Fascinating."
+  ],
+  "voice_acting": {
+    "native_language": "Brent Spiner",
+    "english": "Brent Spiner",
+    "note": "Portrayed by Brent Spiner",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Assisted in various timelines",
+    "transformation": "Gained emotions through emotion chip",
+    "awakening_potential": "Could have achieved true humanity",
+    "power_evolution": [
+      "Simple android",
+      "Emotion-capable",
+      "Sentient being"
+    ],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Shuttlecraft"
+    ],
+    "vehicles": [
+      "USS Enterprise"
+    ],
+    "headquarters": "USS Enterprise",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Data is a fictional character in the Star Trek franchise. He appears in the television series Star Trek: The Next Generation (TNG), the first and third seasons of Star Trek: Picard, and the fifth season of Star Trek: Lower Decks, and the feature films Star Trek Generations (1994), First Contact (1996), Insurrection (1998), and Nemesis (2002). Data is portrayed by actor Brent Spiner.",
+  "note": null,
+  "source": "star_trek"
+}

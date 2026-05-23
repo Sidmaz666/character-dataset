@@ -1,0 +1,339 @@
+{
+  "id": "204923d84b1699bb4207dc66b196a144",
+  "name": "Pippin",
+  "native_name": "ピピン",
+  "full_name": "Pippin (Berserk)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (former miner)",
+    "height_cm": 200,
+    "weight_kg": 120,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 30,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Not visible",
+    "hair_color": "Black",
+    "skin": "Dark",
+    "notable_features": "Massive build, mace/weapon, intimidating appearance",
+    "skin_color": "Dark",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Midland",
+    "current_location": "Band of the Hawk",
+    "base_of_operations": "Band of the Hawk",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mercenary/Commander",
+    "secondary": "Former miner",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Band of the Hawk"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Berserk (1997)",
+    "manga": "Berserk Chapter",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Raw Strength",
+      "native_name": "",
+      "description": "Enormous physical power rivaling Guts; can shatter armored skulls with one swing",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee"
+    },
+    {
+      "name": "Mace Mastery",
+      "native_name": "",
+      "description": "Wields massive morning star and war hammer",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Melee"
+    },
+    {
+      "name": "Mining Knowledge",
+      "native_name": "",
+      "description": "Former miner; crucial for tunnel/digging operations",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50
+    }
+  ],
+  "signature_moves": [
+    "Mace Smash",
+    "Protective Strike"
+  ],
+  "power_attributes": {
+    "power_type": "Brute strength",
+    "power_source": "Physical power",
+    "combat_style": [
+      "Heavy weapon combat",
+      "Brawler"
+    ],
+    "weapon": "Mace Mastery",
+    "equipment": [
+      "Heavy weapon combat"
+    ],
+    "trump_card": "Mace Mastery",
+    "ultimate_move": "Raw Strength"
+  },
+  "personality": {
+    "traits": [
+      "Quiet",
+      "Gentle",
+      "Loyal",
+      "Protective",
+      "Calm"
+    ],
+    "likes": [
+      "Protecting comrades",
+      "Rickert"
+    ],
+    "dislikes": [
+      "Nothing much"
+    ],
+    "dream": "Stay loyal to Griffith and the Band",
+    "fear": "Unknown",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Quiet protector of the Band",
+    "motivation": "Loyalty to comrades",
+    "affinity": "Earth",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved team during mining rescue",
+    "Protected Casca during Eclipse"
+  ],
+  "titles": [
+    "Band Commander",
+    "Giant of the Band"
+  ],
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 100,
+    "speed": 50,
+    "durability": 90,
+    "power": 90,
+    "combat": 70,
+    "total": 450
+  },
+  "relationships": {
+    "leader": "Griffith",
+    "friend": "Guts",
+    "protects": "Rickert",
+    "comrades": [
+      "Casca",
+      "Judeau",
+      "Corkus"
+    ],
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guts"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Black Dog Knights",
+      "result": "Victory",
+      "method": "Mace smash"
+    },
+    {
+      "opponent": "Apostles (Eclipse)",
+      "result": "Defeat",
+      "method": "Protecting Casca"
+    }
+  ],
+  "quotes": [
+    "Let's go."
+  ],
+  "voice_acting": {
+    "native_language": "Masuo Amada",
+    "note": null,
+    "native_name": null,
+    "english": "Patrick Seitz",
+    "japanese": "Masuo Amada"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed during Eclipse while protecting Casca",
+    "role_in_story": "Supporting",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Raw Strength",
+  "trump_card": "Mace Mastery",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Band of the Hawk",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "Berserk, known in Japan as Kenpū Denki Berserk, is a Japanese anime television series, based on Kentaro Miura's manga series Berserk. The series follows Guts, a skilled mercenary warrior who gets entangled with the Band of the Hawk, a mercenary group, and its ambitious leader, Griffith.\nBerserk was produced by Nippon Television and VAP, animated by Oriental Light and Magic and directed by Naohito Takahashi. It was broadcast for 25 episodes on Nippon TV from October 1997 to April 1998. Berserk was formerly licensed for English release in North America by Media Blasters, and later acquired by Discotek Media.\nThe series has received critical acclaim, with critics praising its storytelling, characters, setting, and soundtrack by Susumu Hirasawa.",
+  "note": null,
+  "source": "anime"
+}

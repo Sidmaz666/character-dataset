@@ -1,0 +1,422 @@
+{
+  "id": "b99a1cb53d4b71a854ff9011e997daa6",
+  "name": "Portgas D. Ace",
+  "native_name": "ポートガス・D・エース",
+  "full_name": "Gol D. Ace (birth name)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Roger Family",
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": "20",
+    "birthday": "January 1",
+    "zodiac": "Capricorn",
+    "blood_type": "S",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Mole under left eye",
+      "X-shaped scar on back",
+      "Flame tattoo on shoulders"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Loguetown",
+    "current_location": "Deceased",
+    "base_of_operations": "Formerly Whitebeard Pirates",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate",
+    "secondary": "2nd Division Commander",
+    "rank_title": "Captain of Spade Pirates (former)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Whitebeard Pirates"
+    ],
+    "previous": [
+      "Spade Pirates"
+    ],
+    "relatives": [
+      "Gol D. Roger (father)",
+      "Portgas D. Rouge (mother)",
+      "Monkey D. Luffy (adoptive brother)",
+      "Sabo (adoptive brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 144",
+    "manga": "One Piece Chapter 157",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mera Mera no Mi",
+      "native_name": "燃燃果實",
+      "description": "Logia Devil Fruit - allows user to create, control, and become fire. Can turn body to fire to avoid attacks.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Sea Stone, magma"
+    },
+    {
+      "name": "Hiken",
+      "native_name": "火拳",
+      "description": "Fire Fist - turns fist into massive column of fire and launches at opponent",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Great Flame Commandment",
+      "native_name": "大火繚亂",
+      "description": "Flame Emperor - creates giant fireball resembling sun to obliterate area",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Requires significant preparation"
+    },
+    {
+      "name": "Haki",
+      "native_name": "霸氣",
+      "description": "Master of all three types of Haki",
+      "type": "Defense",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Hiken (Fire Fist)",
+    "Great Flame Commandment",
+    "Fire control"
+  ],
+  "ultimate_move": "Great Flame Commandment: Flame Emperor",
+  "trump_card": "Full Logia transformation",
+  "power_attributes": {
+    "power_type": "Devil Fruit (Logia)",
+    "power_source": "Mera Mera no Mi",
+    "combat_style": [
+      "Fire-based combat",
+      "Haki"
+    ],
+    "weapon": "Cutlass",
+    "equipment": [
+      "Cutlass",
+      "Ship"
+    ],
+    "trump_card": "Full Logia transformation",
+    "ultimate_move": "Great Flame Commandment: Flame Emperor"
+  },
+  "personality": {
+    "traits": [
+      "Hot-tempered",
+      "Protective",
+      "Honorable",
+      "Impulsive",
+      "Caring"
+    ],
+    "likes": [
+      "Whitebeard",
+      "Luffy",
+      "Sabo",
+      "Crew"
+    ],
+    "dislikes": [
+      "His father's legacy",
+      "Weakness",
+      "Injustice"
+    ],
+    "fear": "Being unable to protect those he cares about",
+    "dream": "Prove his existence matters, find meaningful bonds",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Impulsive"
+    ]
+  },
+  "character": {
+    "arc": "Tragic hero seeking belonging - found family in Whitebeard but died protecting brother",
+    "motivation": "Finding someone who would want him alive",
+    "affinity": "Fire",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "2nd Division Commander of Whitebeard Pirates",
+    "Captain of Spade Pirates",
+    "Defeated 100 pirates in newbie days",
+    "One of strongest in Whitebeard crew"
+  ],
+  "titles": [
+    "Fire Fist",
+    "Demon Lord Pirates (former)"
+  ],
+  "bounty": {
+    "amount": 550000000,
+    "currency": "Berry",
+    "details": "Pre-time skip bounty"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 85,
+    "speed": 85,
+    "durability": 75,
+    "power": 95,
+    "combat": 85,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [
+      "Sea Stone",
+      "Magma (Akainu's fruit)",
+      "Cannot swim"
+    ],
+    "factors": [
+      "impulsive"
+    ]
+  },
+  "relationships": {
+    "nemesis": [
+      "Blackbeard (betrayer)",
+      "Akainu (killer)"
+    ],
+    "allies": [
+      "Whitebeard",
+      "Luffy",
+      "Sabo",
+      "Marco"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Edward Newgate",
+        "relationship": "Father figure/Captain",
+        "trust_level": "High - died for him"
+      },
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Adoptive brother",
+        "trust_level": "High - died for him"
+      }
+    ],
+    "enemies": [
+      "Marines",
+      "World Government",
+      "Blackbeard"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Whitebeard",
+    "rival": null,
+    "mentor": "Monkey D. Garp",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Whitebeard",
+      "Luffy",
+      "Sabo",
+      "Marco"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Blackbeard (betrayer)",
+      "Akainu (killer)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Whitebeard",
+      "Luffy",
+      "Sabo",
+      "Marco"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Monkey D. Garp"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Blackbeard",
+      "result": "Defeat",
+      "method": "Blackbeard's darkness fruit overpowered him"
+    },
+    {
+      "opponent": "Akainu",
+      "result": "Defeat (fatal)",
+      "method": "Shielded Luffy from magma punch"
+    }
+  ],
+  "quotes": [
+    "I want to live!",
+    "I am the son of Gol D. Roger!",
+    "Luffy... thank you for loving me!"
+  ],
+  "voice_acting": {
+    "native_language": "Toshiyuki Morikawa (Japanese)",
+    "note": "Johnny Yong Bosch (young)",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Daisuke Hirakawa"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died at Marineford protecting Luffy",
+    "transformation": "Fire Logia form",
+    "awakening_potential": "Would have been incredible",
+    "power_evolution": [
+      "Spade Captain",
+      "Whitebeard 2nd division",
+      "Fire Fist"
+    ],
+    "role_in_story": "Major Supporting/Legendary",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Manga (former ship)",
+      "Otaner (ship)"
+    ],
+    "vehicles": [
+      "Spade Pirates ship"
+    ],
+    "headquarters": "Whitebeard ship",
+    "story_importance": "Major (iconic sacrifice)",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "One of the most obvious features on Ace is his tattoos. Ace's back tattoo is left intact in the English version of the dub despite 4Kids' previous edits to crosses. At the same time Ace also promotes his tattoo to Luffy, something which is truly considered odd by 4Kids standards. Ace has a tattoo on his back of the Whitebeard symbol; a skull with a white mustache and a manji behind it. To avoid confusion between the two symbols and avoid slander for being a nazi, this was changed to crossbones in the shape of a \"cross\" in the anime, as well as in the most recent chapter of the manga.\n\nAce has another tattoo on his left arm by the shoulder: it reads \"ASCE\" with the \"S\" (apparently a mistake on the part of the tattoo artist, or, alternatively, the symbol that appeared on the flag of his old crew  crossed out. In the English version of the anime, Ace's shoulder tattoo signifying his name is edited out, as he is referred to there as \"Portgaz D. Trace.\" He appears in One Piece Grand Adventure, once again without the tattoo on his arm.\n\nAce travels around the Grand Line on his boat which is constructed so his Mera Mera no Mi fuels the engine on the rear end allowing it to move.\n\nCurrently, Ace is one of the two known pirates to ever escape arrest by the Marine captain Smoker, the other escapee being Ace's younger brother Luffy. Ace and Smoker fought to a standstill in Alabasta.\n\nHe left Fuusha Village three years before Luffy, and he is a loyal crewman and commands the Second Division of Whitebeard, his captain.\n\nIn appearance, the two brothers are obviously related, despite the fact that Ace is more muscular than the rather lanky Luffy. He also sports rather childish freckles. He is apparently narcoleptic (a trait common amongst Ace's family) and therefore falls asleep on random occasions, making people wonder if he has dropped dead. As far as personality goes, Ace is much more intelligent, polite, and generally more bearable than his younger brother, which prompts the Straw Hat crew to question whether he is truly related to their bumbling captain. However, the brothers themselves are very close, Ace portraying typical good-big-brother behaviors such as asking the crew to keep an eye on his little brother.\n\nIt is revealed that Ace had a bounty of 550,000,000 in the One Piece Ten exhibition.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

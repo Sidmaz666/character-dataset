@@ -1,0 +1,427 @@
+{
+  "id": "4d641e4afa3733aafa9979e5e2bcf231",
+  "name": "Ichigo Kurosaki",
+  "native_name": "黒崎 一護",
+  "full_name": "Ichigo Kurosaki",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human/Shinigami",
+    "race": "Hybrid (Human/Shinigami/Quincy/Hollow)",
+    "bloodline": "Kurosaki Family",
+    "height_cm": 174,
+    "weight_kg": 61,
+    "age": "15-17",
+    "birthday": "July 15",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.1,
+    "nationality": "Japanese}}"
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Orange",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Orange hair",
+      "Shinigami robes",
+      "Massive Zanpakuto",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Karakura Town",
+    "base_of_operations": "Kurosaki Clinic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Substitute Shinigami",
+    "secondary": "Student",
+    "rank_title": "Substitute Shinigami",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Karakura Town",
+      "Soul Society allies"
+    ],
+    "previous": [],
+    "relatives": [
+      "Isshin (father)",
+      "Masaki (mother, deceased)",
+      "Yuzu (sister)",
+      "Karin (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Bleach Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zanpakuto",
+      "native_name": "斬月",
+      "description": "Zangetsu - massive black blade. Pure destructive power. No special abilities.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Melee",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Bankai",
+      "native_name": "天鎖斬月",
+      "description": "Tensa Zangetsu - compressed form. Massive speed and power increase.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Time limit"
+    },
+    {
+      "name": "Getsuga Tensho",
+      "native_name": "月牙天衝",
+      "description": "Fires crescent wave from Zanpakuto. Devastating long-range attack.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Long",
+      "limit": "Reiatsu"
+    },
+    {
+      "name": "Hollow Mask",
+      "native_name": "虚の仮面",
+      "description": "Hollow powers manifest. Mask grants immense power boost, regeneration.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 97,
+      "range": "Self",
+      "limit": "Control"
+    }
+  ],
+  "signature_moves": [
+    "Getsuga Tensho",
+    "Bankai release",
+    "Hollow mask"
+  ],
+  "ultimate_move": "Final Getsuga Tensho",
+  "trump_card": "Full Hollow transformation",
+  "power_attributes": {
+    "power_type": "Reiatsu",
+    "power_source": "Shinigami/Hollow/Quincy",
+    "combat_style": [
+      "Zanpakuto",
+      "Getsuga"
+    ],
+    "weapon": "Zangetsu",
+    "equipment": [
+      "Shinigami robes"
+    ],
+    "trump_card": "Full Hollow transformation",
+    "ultimate_move": "Final Getsuga Tensho"
+  },
+  "personality": {
+    "traits": [
+      "Protective",
+      "Stubborn",
+      "Loyal",
+      "Brave",
+      "Hot-headed",
+      "Caring"
+    ],
+    "likes": [
+      "Protecting others",
+      "Family",
+      "Friends",
+      "Justice"
+    ],
+    "dislikes": [
+      "Evil",
+      "Injustice",
+      "Losing friends",
+      "Helplessness"
+    ],
+    "fear": "Losing loved ones",
+    "dream": "Protect everyone",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Ichigo is the substitute Shinigami who protects Karakura Town. Gains powers from Rukia. Fights Aizen, saves Soul Society. Defeats Yhwach, ends Quincy war.",
+    "motivation": "Protect everyone",
+    "affinity": "Orange/Protection",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Defeated Aizen",
+    "Saved Soul Society",
+    "Defeated Yhwach",
+    "Substitute Shinigami"
+  ],
+  "titles": [
+    "Substitute Shinigami",
+    "Strawberry",
+    "Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Student"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 90,
+    "speed": 88,
+    "durability": 92,
+    "power": 98,
+    "combat": 94,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Friends' safety",
+      "Overprotective",
+      "Reckless"
+    ],
+    "factors": [
+      "Rukia",
+      "Orihime",
+      "Family"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Aizen, Yhwach",
+    "allies": [
+      "Rukia",
+      "Orihime",
+      "Uryu",
+      "Renji",
+      "Urahara"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rukia Kuchiki",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Aizen",
+      "Yhwach",
+      "Espada"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Orihime",
+    "best_friend": "Rukia",
+    "rival": "Byakuya",
+    "mentor": "Urahara, Yoruichi",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Rukia",
+      "Orihime",
+      "Uryu",
+      "Renji",
+      "Urahara"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Aizen, Yhwach",
+      "Byakuya"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Byakuya"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Rukia",
+      "Orihime",
+      "Uryu",
+      "Renji",
+      "Urahara"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Urahara, Yoruichi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Byakuya",
+      "result": "Victory",
+      "method": "Bankai"
+    },
+    {
+      "opponent": "Aizen",
+      "result": "Victory",
+      "method": "Final Getsuga"
+    },
+    {
+      "opponent": "Yhwach",
+      "result": "Victory",
+      "method": "Teamwork"
+    }
+  ],
+  "quotes": [
+    "I'm a substitute Shinigami!",
+    "I'll protect everyone!",
+    "Getsuga Tensho!"
+  ],
+  "voice_acting": {
+    "native_language": "Masakazu Morita (Japanese)",
+    "note": "Determined, hot-headed",
+    "native_name": null,
+    "english": "Johnny Yong Bosch",
+    "japanese": "Masakazu Morita"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Orihime, continues protecting",
+    "transformation": "Bankai, Hollow mask",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Human",
+      "Shinigami",
+      "Vizard",
+      "True Bankai"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kurosaki Clinic",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Ichigo Kurosaki (Japanese: 黒崎 一護, Hepburn: Kurosaki Ichigo) is a fictional character and the main protagonist of the Bleach manga series and its adaptations created by author Tite Kubo. He is a teenage boy with ginger hair who receives Soul Reaper powers after meeting Rukia Kuchiki, a Soul Reaper assigned to patrol around the fictional city of Karakura Town. These powers come at the cost of her own, and as a result, he concedes to work as her stand-in, fighting to protect people from evil spirits called Hollows and sending good spirits, wholes, to a dimension known as the Soul Society. Ichigo appears in other media after the manga series, including the anime television series, four anime films, two original video animations, rock musicals, several video games, light novels and the 2018 live-action film.\nIchigo is voiced by Masakazu Morita in the Japanese anime adaptation; Johnny Yong Bosch in the English dubbing; and played by Sota Fukushi in the live-action film.\nIchigo's character has been well received among both readers and reviewers. He featured often in Weekly Shōnen Jump character popularity polls, and was consistently ranked as the most popular character in Bleach. The 2007 Japanese Newtype magazine polls ranked Ichigo as one of the top 100 most-loved anime characters. He is also known as one of the big three anime characters, including Naruto and Luffy. Reviewers of the series have praised his personality, though some consider him to be a stereotypical anti-hero. Critics have expressed dislike, however, for Ichigo's anticlimactic fights in the latter half of the series' due to his lack of memorable scenes at those points. Merchandise based on Ichigo's likeness has also been released, including toys, clothing and action figures.",
+  "note": null,
+  "source": "anime"
+}

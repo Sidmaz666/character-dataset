@@ -1,0 +1,325 @@
+{
+  "id": "ac950673dc43153f0274180a9d8478a9",
+  "name": "Hanami",
+  "native_name": "",
+  "full_name": "Hanami",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Jujutsu High",
+    "base_of_operations": "Jujutsu High",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Jujutsu Kaisen",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Cursed Spirits",
+      "Disaster Curses"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen",
+    "manga": "Jujutsu Kaisen",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cursed Energy Manipulation",
+      "type": "Energy",
+      "description": "Controls cursed energy for combat and defense",
+      "power_level": "High"
+    },
+    {
+      "name": "Hand-to-Hand Combat",
+      "type": "Physical",
+      "description": "Skilled in direct combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Barrier Techniques",
+      "type": "Magic",
+      "description": "Can create barriers using cursed energy",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Cursed Energy Manipulation",
+    "Hand-to-Hand Combat",
+    "Barrier Techniques"
+  ],
+  "ultimate_move": "Cursed Energy Manipulation",
+  "trump_card": "Hand-to-Hand Combat",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Magic",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Hand-to-Hand Combat",
+    "ultimate_move": "Cursed Energy Manipulation"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Calculating",
+      "Determined",
+      "Loyal",
+      "Sharp"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cursed"
+    ]
+  },
+  "character": {
+    "arc": "Jujutsu Kaisen character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Atsuko Tanaka (Japanese)",
+    "Voiced by Marie Westbrook (English)"
+  ],
+  "titles": [
+    "Jujutsu Kaisen"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 70,
+    "speed": 70,
+    "durability": 70,
+    "power": 70,
+    "combat": 70,
+    "total": 420
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Jujutsu High"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Curses"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jujutsu High"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Curses"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jujutsu High"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Marie Westbrook",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Atsuko Tanaka"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 189.2 cm\nWeight: 83 kg\nJersey Number: #10\nPosition: Power Forward\nBirthday: April 1\nHigh School: Shohoku \nShoe Brand: Jordan\nThe protagonist. At the beginning of the series, Sakuragi was a slacker, always trying to ask girls out but getting constantly rejected (the 50th rejection occurring at the start of the series). He then met Akagi Haruko, with whom he fell in love immediately. This passion led to him joining the Shohoku basketball team. However, as a complete beginner, he was not able to keep up with the rest of the team at first despite his physical attributes (great height, athleticism, stamina, speed and leaping ability). He regards himself as a genius though, with self-confidence that borders on arrogance. His most recognizable trait is his red hair, though he shaves his head as reparation for an error that led to the loss against Kainan.\n\nAt first, Sakuragi was known for his poor basketball skills as a beginner; in his first few official matches, he fouled out every game. However, his basketball skills advanced throughout the series. First he developed his basic skills, such as dribbling and layups. Then, trained by Akagi, he became a formidable rebounder; his rebounding became his claim to fame throughout the latter half of the series. He also is seen more than once defining the match for Shohoku in the last seconds, for instance, by dunking a ball that Akagi would have missed in the league round match with Ryonan. His jump shooting was then developed by Coach Anzai, who had him make 20,000 shots in a week. He hit a buzzer-beating jump shot to win the match against Sannoh. However, he also injured his back during the match against Sannoh, and underwent rehabilitation after Shohoku's subsequent loss to Aiwa Academy.\n\nIn spite of the setbacks he has had to face, Sakuragi displays a great deal of tenacity and determination that carry him through and help reciprocate for his other failings, both on and off the court. Although his love for Haruko and rivalry with Rukawa are the main driving forces motivating him to succeed in basketball, his injury during the Sannoh match makes him realize that he has actually come to love the game, leading him to give his all for his team and bring them victory. \n\n(Source: Hoopedia)",
+  "note": null,
+  "source": "anime"
+}

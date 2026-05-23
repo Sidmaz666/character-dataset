@@ -1,0 +1,345 @@
+{
+  "name": "Becca Butcher",
+  "native_name": null,
+  "full_name": "Rebecca Saunders Butcher",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Saunders/Butcher",
+    "height_cm": 168,
+    "weight_kg": 58,
+    "age": "30s (deceased)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Kind face",
+      "Motherly",
+      "Tragic fate"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased",
+    "current_location": "Deceased",
+    "base_of_operations": "Deceased",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Vought executive (formerly)",
+    "secondary": "Mother",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Vought"
+    ],
+    "relatives": [
+      "Billy Butcher (husband)",
+      "Ryan Butcher (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Kindness",
+      "type": "Emotional",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Kindness"
+  ],
+  "ultimate_move": "Mother's Love",
+  "trump_card": "Unconditional Love for Ryan",
+  "power_attributes": {
+    "power_type": "None",
+    "power_source": "None",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Unconditional Love for Ryan",
+    "ultimate_move": "Mother's Love"
+  },
+  "personality": {
+    "traits": [
+      "Kind",
+      "Loving",
+      "Protective",
+      "Tragic",
+      "Strong"
+    ],
+    "likes": [
+      "Her son",
+      "Billy",
+      "Peace"
+    ],
+    "dislikes": [
+      "Homelander",
+      "Violence",
+      "Vought"
+    ],
+    "fear": "Ryan becoming like Homelander",
+    "dream": "Ryan grows up normal and good",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Limited power",
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Billy Butcher's wife who was believed dead. Actually was kept in a Vought compound after giving birth to Homelander's son Ryan. Raised Ryan alone, teaching him to be good. Killed by Stormfront protecting Ryan.",
+    "motivation": "Protect and raise Ryan to be good",
+    "affinity": "Motherhood/Tragedy",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Raised Ryan to be good despite Homelander genes",
+    "Protected him until her death"
+  ],
+  "titles": [
+    "Becca Butcher",
+    "Becks",
+    "Ryan's Mother"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 68,
+    "strength": 40,
+    "speed": 42,
+    "durability": 38,
+    "power": 10,
+    "combat": 20,
+    "total": 218
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Emotionally vulnerable",
+      "Motherly instincts exploited"
+    ],
+    "factors": [
+      "Normal human",
+      "Died protecting her son"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Homelander",
+    "allies": [
+      "Billy Butcher",
+      "Grace Mallory"
+    ],
+    "enemies": [
+      "Homelander",
+      "Stormfront",
+      "Vought"
+    ],
+    "love_interest": "Billy Butcher",
+    "best_friend": null,
+    "mentor": null,
+    "student": "Ryan Butcher",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Billy Butcher",
+      "Grace Mallory"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Homelander"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ryan Butcher"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Billy Butcher",
+      "Grace Mallory"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormfront",
+      "result": "Death (heroic)",
+      "method": "Died protecting Ryan from Stormfront"
+    }
+  ],
+  "quotes": [
+    "I love you, Ryan. Always remember who you are. You are good. You are so good."
+  ],
+  "voice_acting": {
+    "native_language": "Shantel VanSanten",
+    "english": "Shantel VanSanten",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Stormfront protecting her son",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Becca",
+      "Wife",
+      "Mother",
+      "Martyr"
+    ],
+    "role": "Major (Backstory/Deceased)",
+    "role_in_story": null,
+    "awakening_potential": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Vought Compound (formerly)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "355b6ca23656fc7dc077654ea22b9d6c",
+  "publisher": "the_boys",
+  "about": "Shantel VanSanten is an American actress and model. As a model, she has been featured in the magazines Teen Vogue and Seventeen. On television, she played Quinn James in the CW teen drama series One Tree Hill; recurred as Becca Butcher in the Amazon Prime Original The Boys; and starred as Julie Swagger, the wife of lead character Bob Lee Swagger on the USA Network series Shooter. On film, she has appeared in The Final Destination, You and I, and Something Wicked. From 2019 to 2026, VanSanten starred as Karen Baldwin in the Apple TV+ science fiction space drama series For All Mankind.",
+  "note": null,
+  "source": "the_boys"
+}

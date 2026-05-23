@@ -1,0 +1,381 @@
+{
+  "id": "2e62b151274cf078e0f4e2c22aa270c3",
+  "name": "Abe Sapien",
+  "native_name": "Abraham Sapien",
+  "full_name": "Abraham Sapien (Langdon Everett Caul)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Ichthyo Sapien",
+    "race": "Amphibious humanoid",
+    "bloodline": null,
+    "height_cm": 188,
+    "weight_kg": 82,
+    "age": "220+ years",
+    "birthday": "Langdon",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black (glowing in dark)",
+    "hair_color": "None (scalp)",
+    "skin_color": "Blue-green (fish-like)",
+    "notable_features": [
+      "Gills",
+      "Webbed hands",
+      "Aquatic ability"
+    ],
+    "skin": "Blue-green (fish-like)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Civil War era America",
+    "current_location": "Various",
+    "base_of_operations": "B.P.R.D.",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Paranormal Agent",
+    "secondary": "Investigator",
+    "rank_title": "Agent",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "B.P.R.D."
+    ],
+    "previous": [],
+    "relatives": [
+      "Hellboy",
+      "Liz Sherman"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Hellboy: Seed of Destruction (1993)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Amphibious Respiration",
+      "native_name": null,
+      "description": "Can breathe underwater indefinitely",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Needs water access"
+    },
+    {
+      "name": "Genius-Level Intellect",
+      "native_name": null,
+      "description": "Highly intelligent, especially in occult matters",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "N/A"
+    },
+    {
+      "name": "Psychometry",
+      "native_name": null,
+      "description": "Sense history of objects through touch",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Touch",
+      "limit": "Requires contact"
+    },
+    {
+      "name": "Telepathy",
+      "native_name": null,
+      "description": "Sense thoughts and communicate mentally",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Requires focus"
+    }
+  ],
+  "signature_moves": [
+    "Underwater combat",
+    "Occult analysis",
+    "Psychic reading"
+  ],
+  "ultimate_move": "Full Psychic Manifestation",
+  "trump_card": "220 years of knowledge",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "His transformation",
+    "combat_style": [
+      "Hand-to-hand",
+      "Occult expertise"
+    ],
+    "weapon": "None",
+    "equipment": "O.S.P. equipment",
+    "trump_card": "220 years of knowledge",
+    "ultimate_move": "Full Psychic Manifestation"
+  },
+  "personality": {
+    "traits": [
+      "Thoughtful",
+      "Reserved",
+      "Intelligent",
+      "Loyal"
+    ],
+    "likes": [
+      "Knowledge",
+      "Water"
+    ],
+    "dislikes": [
+      "Dry environments",
+      "Violence"
+    ],
+    "fear": "Losing his humanity",
+    "dream": "Understand his origins",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Civil War-era scientist transformed into amphibious being, B.P.R.D. agent",
+    "motivation": "Find his true origins",
+    "affinity": "Water",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "220+ years of life",
+    "B.P.R.D. senior agent",
+    "Leader of team",
+    "Survived multiple transformations"
+  ],
+  "titles": [
+    "The Fish",
+    "Agent Sapien",
+    "Brother Blue"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 60,
+    "speed": 65,
+    "durability": 70,
+    "power": 75,
+    "combat": 65,
+    "total": 430
+  },
+  "weaknesses": {
+    "list": [
+      "Dry environment",
+      "Vulnerability to fire"
+    ],
+    "factors": "Cannot stay dry too long"
+  },
+  "relationships": {
+    "nemesis": "Various",
+    "allies": [
+      "Hellboy",
+      "Liz Sherman",
+      "Johann Kraus"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hellboy",
+        "relationship": "Partner",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "B.P.R.D. antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Hellboy",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hellboy",
+      "Liz Sherman",
+      "Johann Kraus"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hellboy",
+      "Liz Sherman",
+      "Johann Kraus"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various monsters",
+      "result": "Various",
+      "method": "Combined combat and intellect"
+    }
+  ],
+  "quotes": [
+    "I am the fish.",
+    "The ocean is my brother."
+  ],
+  "voice_acting": {
+    "native_language": "Doug Jones",
+    "english": "Doug Jones",
+    "note": "Portrayed by Doug Jones",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to fight",
+    "transformation": "Multiple",
+    "awakening_potential": "Could become more powerful",
+    "power_evolution": [
+      "Human scientist",
+      "Ichthyo sapien",
+      "Matured form"
+    ],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "B.P.R.D.",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "dark_horse",
+  "about": "Abraham Sapien, born Langdon Everett Caul, is a fictional character in the comic book series Hellboy, created by Mike Mignola. He takes his name from \"Ichthyo sapien\", the fanciful species designation chosen for him by his colleagues in the 19th-century Oannes Club, and from Abraham Lincoln, on whose assassination date the Oannes Club abandoned Abe's body in a suspended animation tank beneath a Washington D.C. hospital, leaving only a cryptic note as explanation. He is occasionally referred to as an \"amphibious man.\"\nIn addition to his regular appearances in Hellboy and B.P.R.D., Sapien has also starred in his own comics, with trade paperback collections and omnibus editions including The Drowning, The Devil Does Not Jest and Other Stories, Dark and Terrible and Lost Lives and Other Stories.",
+  "note": null,
+  "source": "dark_horse"
+}

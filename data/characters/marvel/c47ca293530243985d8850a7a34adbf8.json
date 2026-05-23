@@ -1,0 +1,364 @@
+{
+  "name": "Executioner",
+  "native_name": null,
+  "full_name": "Skurge",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Half-Giant",
+    "race": "Half-Giant/Half-Asgardian",
+    "bloodline": null,
+    "height_cm": 218,
+    "weight_kg": 182,
+    "age": "Ancient",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 38.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Massive build",
+      "Bloodaxe"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Jotunheim",
+    "current_location": "Valhalla",
+    "base_of_operations": "Asgard (formerly)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Warrior",
+    "secondary": "Enforcer",
+    "rank_title": "Executioner of Asgard",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Masters of Evil"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Journey into Mystery #103 (1964)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee"
+    },
+    {
+      "name": "Bloodaxe Mastery",
+      "type": "Weapon",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee"
+    },
+    {
+      "name": "Asgardian Durability",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    },
+    {
+      "name": "Warrior's Fury",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Bloodaxe Slash",
+    "Skurge Charge",
+    "Berserker Fury"
+  ],
+  "ultimate_move": "Last Stand of Skurge",
+  "trump_card": "Bloodaxe + Asgardian Fury",
+  "power_attributes": {
+    "power_type": "Asgardian",
+    "power_source": "Half-Giant Heritage",
+    "combat_style": [
+      "Brute Force",
+      "Axe Combat"
+    ],
+    "weapon": "Bloodaxe",
+    "equipment": [
+      "Bloodaxe Mastery",
+      "Armor"
+    ],
+    "trump_card": "Bloodaxe + Asgardian Fury",
+    "ultimate_move": "Last Stand of Skurge"
+  },
+  "personality": {
+    "traits": [
+      "Brutal",
+      "Loyal",
+      "Honorable",
+      "Conflicted"
+    ],
+    "likes": [
+      "Battle",
+      "Amora the Enchantress"
+    ],
+    "dislikes": [
+      "Cowardice",
+      "Being manipulated"
+    ],
+    "fear": "Dying without honor",
+    "dream": "Prove his worth",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Brutal"
+    ]
+  },
+  "character": {
+    "arc": "Brutish enforcer for Enchantress who ultimately sacrificed himself at Gjallerbru bridge to hold off Hela's forces, earning redemption and a place in Valhalla.",
+    "motivation": "Prove himself worthy of honor",
+    "affinity": "Warrior",
+    "alignment": "Neutral Evil (formerly, now honored in Valhalla)"
+  },
+  "achievements": [
+    "Held Gjallerbru bridge alone",
+    "Hero's redemption",
+    "Accepted into Valhalla"
+  ],
+  "titles": [
+    "Executioner",
+    "Skurge",
+    "Hero of Gjallerbru"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 45,
+    "strength": 92,
+    "speed": 68,
+    "durability": 88,
+    "power": 70,
+    "combat": 85,
+    "total": 448
+  },
+  "weaknesses": {
+    "list": [
+      "Love for Enchantress",
+      "Simple-minded"
+    ],
+    "factors": [
+      "Manipulated by Enchantress",
+      "Brute force approach"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thor",
+    "allies": [
+      "Enchantress",
+      "Masters of Evil"
+    ],
+    "enemies": [
+      "Thor",
+      "Asgard"
+    ],
+    "love_interest": "Amora the Enchantress",
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Enchantress",
+      "Masters of Evil"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thor"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Enchantress",
+      "Masters of Evil"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hela's Forces",
+      "result": "Heroic Death",
+      "method": "Held Gjallerbru bridge alone"
+    }
+  ],
+  "quotes": [
+    "They sing no songs in Hel. Nor do they celebrate heroes. For silent is that grim realm and cheerless. But the story of the Gjallerbru is whispered across the nine worlds."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died heroically at Gjallerbru, honored in Valhalla",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Skurge",
+      "Executioner",
+      "Hero of Valhalla"
+    ],
+    "role": "Villain turned Hero",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Skiff"
+    ],
+    "headquarters": "Asgard (formerly)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "c47ca293530243985d8850a7a34adbf8",
+  "publisher": "marvel",
+  "about": "An executioner, also known as a hangman or headsman, is an official who effects a sentence of capital punishment on a condemned person.",
+  "note": null,
+  "source": "marvel"
+}

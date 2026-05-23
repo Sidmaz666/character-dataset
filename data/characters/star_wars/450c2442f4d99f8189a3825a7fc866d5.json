@@ -1,0 +1,437 @@
+{
+  "id": "450c2442f4d99f8189a3825a7fc866d5",
+  "name": "Princess Leia",
+  "native_name": null,
+  "full_name": "Leia Organa",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Skywalker",
+    "bloodline": "Skywalker family",
+    "height_cm": 150,
+    "weight_kg": 51,
+    "age": "Born 19 BBY, Died 35 ABY",
+    "birthday": "September 26",
+    "zodiac": "Libra",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 22.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "White robes",
+      "Braided hair",
+      "Alderaanian dress"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Polis Massa",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Alderaan (destroyed)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Princess",
+    "secondary": "General",
+    "rank_title": "General",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rebel Alliance",
+      "Resistance"
+    ],
+    "previous": [
+      "Alderaan",
+      "New Republic"
+    ],
+    "relatives": [
+      "Luke Skywalker (twin brother)",
+      "Darth Vader (father)",
+      "Padme Amidala (mother)",
+      "Han Solo (husband)",
+      "Ben Solo (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode IV - A New Hope (1977)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Sense",
+      "native_name": null,
+      "description": "Sense presence and emotions",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Wide",
+      "limit": "Requires focus"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects with Force",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Limited training"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Basic lightsaber training",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": "Limited training"
+    },
+    {
+      "name": "Tactics",
+      "native_name": null,
+      "description": "Military strategy",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Diplomacy",
+      "native_name": null,
+      "description": "Negotiation and leadership",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Dodge",
+    "Leadership"
+  ],
+  "ultimate_move": "Inspire Rebellion",
+  "trump_card": "Force connection with Luke",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "The Force",
+    "combat_style": [
+      "Basic",
+      "Form I"
+    ],
+    "weapon": "Blaster pistol",
+    "equipment": [
+      "Blaster",
+      "Lightsaber"
+    ],
+    "trump_card": "Force connection with Luke",
+    "ultimate_move": "Inspire Rebellion"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Determined",
+      "Intelligent",
+      "Strong-willed"
+    ],
+    "likes": [
+      "Freedom",
+      "Her family",
+      "Justice"
+    ],
+    "dislikes": [
+      "The Empire",
+      "Oppression"
+    ],
+    "fear": "Losing her family",
+    "dream": "Free the galaxy",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Strong-willed",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Princess to Resistance leader",
+    "motivation": "Free the galaxy",
+    "affinity": "Light Side",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Led Rebel Alliance",
+    "Destroyed Death Star plans",
+    "Founded Resistance",
+    "Trained as Jedi"
+  ],
+  "titles": [
+    "Princess of Alderaan",
+    "General",
+    "Senator"
+  ],
+  "bounty": {
+    "amount": 5000000,
+    "currency": "Credits",
+    "details": "Wanted by Empire"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 55,
+    "speed": 60,
+    "durability": 70,
+    "power": 75,
+    "combat": 80,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional connection to family"
+    ],
+    "factors": [
+      "Vulnerable when loved ones threatened"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Darth Vader",
+    "allies": [
+      "Han Solo",
+      "Chewbacca",
+      "Luke Skywalker",
+      "C-3PO"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Han Solo",
+        "relationship": "Husband",
+        "trust_level": "High"
+      },
+      {
+        "name": "Luke Skywalker",
+        "relationship": "Twin brother",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Empire",
+      "First Order"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Darth Vader",
+        "relationship": "Father/Enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Han Solo",
+    "best_friend": "Han Solo",
+    "rival": null,
+    "mentor": "Luke Skywalker",
+    "student": "Rey",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Han Solo",
+      "Chewbacca",
+      "Luke Skywalker",
+      "C-3PO"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Darth Vader"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Luke Skywalker"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Luke Skywalker"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Rey"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Han Solo",
+      "Chewbacca",
+      "Luke Skywalker",
+      "C-3PO"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Luke Skywalker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormtroopers",
+      "result": "Victory",
+      "method": "Escaped"
+    },
+    {
+      "opponent": "Jabba's gang",
+      "result": "Victory",
+      "method": "Combat"
+    }
+  ],
+  "quotes": [
+    "Help me, Obi-Wan Kenobi",
+    "You are my hope"
+  ],
+  "voice_acting": {
+    "native_language": "Carrie Fisher",
+    "english": "Carrie Fisher",
+    "note": "Original actress",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Became one with the Force",
+    "transformation": "Jedi knight",
+    "awakening_potential": "Full Jedi training",
+    "power_evolution": [
+      "Princess",
+      "Rebel leader",
+      "General",
+      "Jedi"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Corvette"
+    ],
+    "vehicles": [
+      "Snowspeeder"
+    ],
+    "headquarters": "Rebel Base",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Princess Leia Organa is a fictional character in the Star Wars franchise. Introduced in the original Star Wars film (1977) and its novelization (1976), Leia is a princess of the planet Alderaan, a member of the Imperial Senate, and an agent of the Rebel Alliance. She thwarts the Sith Lord Darth Vader and helps bring about the destruction of the Empire's superweapon, the Death Star. In The Empire Strikes Back (1980), Leia commands a Rebel base and evades Vader as she falls in love with the smuggler Han Solo. In Return of the Jedi (1983), she helps rescue Han from the crime lord Jabba the Hutt, and is revealed to be Vader's daughter and the twin sister of Luke Skywalker. Leia is portrayed by Carrie Fisher in the original film trilogy and the sequel trilogy.",
+  "note": null,
+  "source": "star_wars"
+}

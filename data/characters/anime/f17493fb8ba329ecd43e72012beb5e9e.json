@@ -1,0 +1,428 @@
+{
+  "id": "f17493fb8ba329ecd43e72012beb5e9e",
+  "name": "Ryota Miyagi",
+  "native_name": "宮城リョータ",
+  "full_name": "Ryota Miyagi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 168,
+    "weight_kg": 59,
+    "age": "16",
+    "birthday": "July 31",
+    "zodiac": "Leo",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Short stature",
+      "Punk style",
+      "Earring",
+      "Fast breaks"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Shohoku High School",
+    "base_of_operations": "Shohoku Basketball Team",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Basketball Player",
+    "rank_title": "Point Guard, Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Shohoku High School",
+      "Shohoku Basketball Team"
+    ],
+    "previous": [],
+    "relatives": [
+      "Older brother (deceased)",
+      "Mother",
+      "Sister"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Slam Dunk Episode 1",
+    "manga": "Slam Dunk Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Speed",
+      "native_name": "スピード",
+      "description": "Extremely fast on court, fastest point guard in prefecture.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Height disadvantage"
+    },
+    {
+      "name": "Ball Handling",
+      "native_name": "ボールハンドリング",
+      "description": "Elite dribbling and court vision, excellent playmaker.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Full court",
+      "limit": "None"
+    },
+    {
+      "name": "Steals",
+      "native_name": "スティール",
+      "description": "Quick hands, excellent at intercepting passes and creating turnovers.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Perimeter",
+      "limit": "Size mismatch"
+    },
+    {
+      "name": "Leadership",
+      "native_name": "リーダーシップ",
+      "description": "Team captain, leads by example with speed and tenacity.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Team",
+      "limit": "Emotional at times"
+    }
+  ],
+  "signature_moves": [
+    "Fast break",
+    "Steal",
+    "Three-pointer"
+  ],
+  "ultimate_move": "Clutch three-pointer",
+  "trump_card": "Speed and agility",
+  "power_attributes": {
+    "power_type": "Basketball skill",
+    "power_source": "Training + natural speed",
+    "combat_style": [
+      "Point guard play",
+      "Fast break"
+    ],
+    "weapon": "Basketball",
+    "equipment": [
+      "Basketball shoes"
+    ],
+    "trump_card": "Speed and agility",
+    "ultimate_move": "Clutch three-pointer"
+  },
+  "personality": {
+    "traits": [
+      "Hot-headed",
+      "Loyal",
+      "Determined",
+      "Romantic",
+      "Competitive",
+      "Protective"
+    ],
+    "likes": [
+      "Ayako",
+      "Basketball",
+      "Speed",
+      "His brother's legacy"
+    ],
+    "dislikes": [
+      "Tall guys",
+      "Being short",
+      "Losing",
+      "Threats to team"
+    ],
+    "fear": "Not being good enough",
+    "dream": "Become best point guard, win Ayako's heart",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Miyagi joins basketball to get closer to Ayako. Through the team's journey, he becomes a true leader and captain, honoring his brother's memory.",
+    "motivation": "Honor brother's memory, win Ayako's love",
+    "affinity": "Blue/Speed",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Shohoku captain",
+    "Starting point guard",
+    "Inter-Hampionship participant",
+    "Defeated Ryonan"
+  ],
+  "titles": [
+    "Point Guard",
+    "Speedster",
+    "Captain"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 60,
+    "speed": 92,
+    "durability": 70,
+    "power": 75,
+    "combat": 80,
+    "total": 452
+  },
+  "weaknesses": {
+    "list": [
+      "Short stature",
+      "Shooting consistency",
+      "Emotional about Ayako",
+      "Defense against tall guards"
+    ],
+    "factors": [
+      "Height disadvantage",
+      "Emotional triggers"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Takenori Akagi",
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Hisashi Mitsui",
+      "Ayako"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Ayako",
+        "relationship": "Love interest/manager",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Takenori Akagi",
+        "relationship": "Teammate/predecessor as captain",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Maki (rival PG)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Ayako",
+    "best_friend": "Mitsui",
+    "rival": "Maki (Kainan)",
+    "mentor": "Coach Anzai, Akagi",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Takenori Akagi",
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Hisashi Mitsui",
+      "Ayako",
+      "Mitsui"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None",
+      "Maki (Kainan)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Maki"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Takenori Akagi",
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Hisashi Mitsui",
+      "Ayako",
+      "Mitsui"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Coach Anzai, Akagi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kainan High",
+      "result": "Loss",
+      "method": "Speed, playmaking"
+    },
+    {
+      "opponent": "Ryonan",
+      "result": "Victory",
+      "method": "Fast breaks, leadership"
+    }
+  ],
+  "quotes": [
+    "I'm the fastest in the prefecture!",
+    "Ayako-san!",
+    "Speed is my weapon.",
+    "Leave the point guard to me."
+  ],
+  "voice_acting": {
+    "native_language": "Nobutoshi Canna (Japanese)",
+    "note": "Energetic voice",
+    "native_name": null,
+    "english": "Dave Bridges",
+    "japanese": "Yoku Shioya"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Becomes captain, continues basketball",
+    "transformation": "From delinquent to captain",
+    "awakening_potential": "High - prefecture top PG",
+    "power_evolution": [
+      "Delinquent",
+      "Starter",
+      "Captain",
+      "Leader"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Shohoku gymnasium",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: June 18\nAge: 16\nHeight: 189 cm (6' 2\")\nWeight: 77 kg (170 lbs)\nBlood type: A\nStar-sign: Gemini\nSchool: Teiko (formerly), Kaijō High (currently)\nNumber: #8 (Teiko), #7 (Kaijō)\nPosition: Small Forward\nTalent: Copy, Perfect Copy\nMottō: \"Be honest with yourself\"\nHobbies: Karaoke\n\nNow a freshman at Kaijou High, Kise was the rookie of the \"Generation of Miracles.\" Since he only started playing basketball in his second year of middle school, Kise was his team's least experienced member, and notes himself the weakest of the five. Kise's unique skill is his ability to mimic the moves and plays of other players. The only moves he cannot copy are the special skills of truly exceptional players, like the other members of the \"Generation of Miracles.\" Beyond being a strong player in his own right, Kise respects Kuroko's abilities and wishes to play with him once again. He seems to have a slight obsession with Kuroko, believing that they were the two who got along most in middle school (though Kuroko said they didn't) and often blurting out random facts about him (mentioning that Kuroko was an Aquarius, even though Kasamatsu was talking about Midorima).\n\nAlso, he's a model in his free time, so girls are always mobbing him.\n\nHe has two older sisters who got him into modeling at the first place.",
+  "note": null,
+  "source": "anime"
+}

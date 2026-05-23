@@ -1,0 +1,289 @@
+{
+  "id": "ba63bb7bc7431af8e1e1d8b41b41d547",
+  "name": "Okabe, Rintarou",
+  "native_name": "岡部 倫太郎",
+  "full_name": "Rintarou Okabe",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "18",
+    "birthday": "December 14, 1991",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Sagittarius",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Mad scientist, lab coat",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Akihabara",
+    "base_of_operations": "Akihabara",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Self-proclaimed mad scientist",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Future Gadget Lab"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Steins;Gate",
+    "manga": "Steins;Gate",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Eccentric",
+      "Intelligent",
+      "Caring"
+    ],
+    "likes": [
+      "Learning",
+      "Helping others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Unknown",
+    "dream": "Save friends",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Mad scientist who discovers time travel",
+    "motivation": "Save friends",
+    "alignment": "Chaotic Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 50,
+    "speed": 55,
+    "durability": 55,
+    "power": 60,
+    "combat": 50,
+    "total": 360
+  },
+  "relationships": {
+    "friend": "Mayuri, Kurisu",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains/Antagonists"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "colleague": null,
+    "enemy": [
+      "Villains/Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mayuri, Kurisu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Protagonist",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Technology",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Gadget"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Mamoru Miyano (Japanese)",
+    "Voiced by J. Michael Tatum (English)"
+  ],
+  "titles": [
+    "Student"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "J. Michael Tatum",
+    "note": null,
+    "native_name": null,
+    "japanese": "Mamoru Miyano"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Akihabara",
+    "story_importance": "Protagonist",
+    "note": null
+  },
+  "about": "Age: 18 (Steins;Gate), 19 (Steins;Gate 0)\nBirthdate: December 14, 1991 (Sagittarius)\nBlood Type: A\nHeight: 177 cm (5'10\")\nWeight: 59kg\nAffiliations: Future Gadget Lab\nOccupation: University Student\n\nRintaro Okabe (岡部 倫太郎 Okabe Rintarō?), often nicknamed Okarin (オカリン) or Hououin Kyouma (鳳凰院凶真), is a self-proclaimed mad scientist and the main protagonist of the Steins;Gate series.\n\nOkabe is a theatrical and eccentric individual. He is a self-proclaimed mad scientist, who likes to assume his \"true name\" \"Kyouma Hououin\" (鳳凰院凶真, Hououin Kyouma), and often uses this to introduce himself to others. Usually, people do not care and instead address him by his actual name or by 'Okarin' (his nickname), much to his chagrin.\n\nOkabe is also socially inept; his social skills were so poor that Kurisu considers the childlike Mayuri to be usual by comparison. However, he isn't hesitant to lend a helping hand to people whom he'd never met. Although very intelligent, Okabe is easily deceived by others.\n\nOkabe likes to pose as an agent working against a specific \"Organization,\" which he suggests is always after him, as he believes this kind of image gives him an excellent and mysterious aura. However, this seems to disappear as the story progresses, with SERN likely replacing the \"Organization's\" villainous image. He usually gives off the impression of being delusional and paranoid, displaying eccentric mannerisms such as talking to himself on the phone and engaging in fits of maniacal laughter.\n\n\n\nCharacter Background:\n\nTimeline:\n\n\n\n\n\n\n\n\n\n(Source: Steins;Gate Wiki, Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

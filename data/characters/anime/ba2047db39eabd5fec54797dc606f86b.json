@@ -1,0 +1,413 @@
+{
+  "id": "ba2047db39eabd5fec54797dc606f86b",
+  "name": "Rem",
+  "native_name": "レム",
+  "full_name": "Rem",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Oni",
+    "race": "Oni (Demon)",
+    "bloodline": "Oni",
+    "height_cm": 154,
+    "weight_kg": 48,
+    "age": "17",
+    "birthday": "February 2",
+    "zodiac": "Aquarius",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blue hair",
+      "Blue eyes",
+      "Maid outfit",
+      "Horn (broken)",
+      "Cute"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Oni Village",
+    "current_location": "Roswaal Manor",
+    "base_of_operations": "Roswaal Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Maid",
+    "secondary": "Oni",
+    "rank_title": "Head Maid",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Roswaal Manor",
+      "Emilia Camp"
+    ],
+    "previous": [
+      "Oni Village"
+    ],
+    "relatives": [
+      "Ram (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Re:Zero Episode 3",
+    "manga": "Re:Zero Chapter 3",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Oni Power",
+      "native_name": "鬼のパワー",
+      "description": "Superhuman strength, speed, and durability. Can break bones with ease.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Horn required"
+    },
+    {
+      "name": "Water Magic",
+      "native_name": "水魔法",
+      "description": "Expert in water-based magic. Can heal and attack.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Mana"
+    },
+    {
+      "name": "Healing Magic",
+      "native_name": "回復魔法",
+      "description": "Can heal wounds and cure ailments. Skilled healer.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Touch",
+      "limit": "Mana"
+    },
+    {
+      "name": "Unconditional Love",
+      "native_name": "無条件の愛",
+      "description": "Her love for Subaru gives her incredible determination and strength.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Subaru's safety"
+    }
+  ],
+  "signature_moves": [
+    "Water magic",
+    "Oni strength",
+    "Healing"
+  ],
+  "ultimate_move": "Oni transformation",
+  "trump_card": "Oni horn",
+  "power_attributes": {
+    "power_type": "Magic/Oni",
+    "power_source": "Oni blood",
+    "combat_style": [
+      "Magic",
+      "Melee"
+    ],
+    "weapon": "Mace",
+    "equipment": [
+      "Maid outfit",
+      "Mace"
+    ],
+    "trump_card": "Oni horn",
+    "ultimate_move": "Oni transformation"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Devoted",
+      "Kind",
+      "Protective",
+      "Selfless",
+      "Brave"
+    ],
+    "likes": [
+      "Subaru",
+      "Ram",
+      "Serving",
+      "Peace"
+    ],
+    "dislikes": [
+      "Threats to Subaru",
+      "Betrayal",
+      "Evil"
+    ],
+    "fear": "Losing Subaru",
+    "dream": "See Subaru happy",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Rem is the twin maid who initially distrusts Subaru, but falls in love with him. Her devotion drives her to protect him at all costs. Becomes his emotional anchor.",
+    "motivation": "Protect Subaru, serve Emilia",
+    "affinity": "Blue/Love",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Defeated Witch Cultists",
+    "Protected Subaru",
+    "Saved Emilia Camp"
+  ],
+  "titles": [
+    "Head Maid",
+    "Oni",
+    "Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Maid"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 88,
+    "speed": 82,
+    "durability": 85,
+    "power": 88,
+    "combat": 85,
+    "total": 506
+  },
+  "weaknesses": {
+    "list": [
+      "Subaru's safety",
+      "Self-sacrificing",
+      "Broken horn"
+    ],
+    "factors": [
+      "Subaru",
+      "Ram"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Witch Cult",
+    "allies": [
+      "Subaru",
+      "Ram",
+      "Emilia",
+      "Roswaal"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Subaru Natsuki",
+        "relationship": "Love interest",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Witch Cult",
+      "Elsas"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Subaru",
+    "best_friend": "Ram",
+    "rival": "Emilia (for Subaru)",
+    "mentor": "Roswaal",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Subaru",
+      "Ram",
+      "Emilia",
+      "Roswaal"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Witch Cult",
+      "Emilia (for Subaru)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Emilia"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Subaru",
+      "Ram",
+      "Emilia",
+      "Roswaal"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Roswaal"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Elsa",
+      "result": "Victory",
+      "method": "Oni power"
+    },
+    {
+      "opponent": "Witch Cult",
+      "result": "Victory",
+      "method": "Water magic"
+    }
+  ],
+  "quotes": [
+    "I love you, Subaru.",
+    "Rem will believe in you.",
+    "Subaru-kun is my hero!"
+  ],
+  "voice_acting": {
+    "native_language": "Inori Minase (Japanese)",
+    "note": "Sweet, devoted",
+    "native_name": null,
+    "english": "Brianna Knickerbocker",
+    "japanese": "Inori Minase"
+  },
+  "story": {
+    "status": "Alive (memory lost)",
+    "fate": "Alive but memory erased",
+    "transformation": "Oni form",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Oni",
+      "Maid",
+      "Hero",
+      "Forgotten"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Roswaal Manor",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17→18\nBirthday: February 2\nHeight: 154 cm (5'1'')\n\nRem is one of the twin maids working for Roswaal L Mathers. She tends to speak in a superficially polite manner and sometimes acts without thinking. She holds both worshipping respect and guilt toward her sister for an incident in the past; because of this, Rem tends to think of herself as inferior.\n\n\n\n(Source: Re:Zero Wiki)",
+  "note": null,
+  "source": "anime"
+}

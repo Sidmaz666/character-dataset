@@ -1,0 +1,332 @@
+{
+  "id": "59342e0eadd37b9d32a28f0008135709",
+  "name": "Arisawa, Tatsuki",
+  "native_name": "有沢竜貴",
+  "full_name": "Tatsuki Arisawa",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 155,
+    "weight_kg": 41,
+    "age": "15",
+    "birthday": "July 17",
+    "zodiac": "Cancer",
+    "blood_type": "A",
+    "bloodline": null,
+    "weight_kkg": null,
+    "bmi": 17.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Short spiky hair, tomboy look, karate uniform",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Karakura High School",
+    "base_of_operations": "Karakura High School",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High school student",
+    "secondary": "Karate champion",
+    "rank_title": "Black belt",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Karakura High School",
+      "Karate Club"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 2",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Karate Mastery",
+      "native_name": "空手",
+      "description": "Black belt; won regional tournament",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 75,
+      "range": "Melee"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": "怪力",
+      "description": "Unnaturally strong for human girl",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Melee"
+    },
+    {
+      "name": "Combat Reflexes",
+      "native_name": "反応",
+      "description": "Fast reactions from training",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 65
+    }
+  ],
+  "personality": {
+    "traits": [
+      "Tomboy",
+      "Protective",
+      "Strong-willed",
+      "Competitive",
+      "Loyal"
+    ],
+    "likes": [
+      "Karate",
+      "Orihime (best friend)",
+      "Fighting",
+      "Ichigo (childhood friend)"
+    ],
+    "dislikes": [
+      "Anyone hurting friends",
+      "Bullies"
+    ],
+    "fear": "Losing friends",
+    "dream": "Become karate champion",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strong-willed",
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Protective best friend",
+    "motivation": "Protect Orihime",
+    "affinity": "Fire",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Regional tournament runner-up",
+    "First person to make Ichigo cry"
+  ],
+  "titles": [
+    "Tomboy",
+    "Karate champion"
+  ],
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 75,
+    "speed": 70,
+    "durability": 65,
+    "power": 70,
+    "combat": 75,
+    "total": 400
+  },
+  "relationships": {
+    "best_friend": "Orihime Inoue",
+    "friend": "Ichigo Kurosaki (childhood)",
+    "teammate": "Chizuru",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Ichigo Kurosaki"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hollow",
+      "result": "Victory (assisted by Orihime's power)",
+      "method": "Karate kicks"
+    }
+  ],
+  "quotes": [
+    "I won't forgive anyone who picks on Orihime!",
+    "You think you're tough?"
+  ],
+  "voice_acting": {
+    "native_language": "Junko Noda",
+    "note": null,
+    "native_name": null,
+    "english": "Wendee Lee",
+    "japanese": "Junko Noda"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues karate, supports friends",
+    "role_in_story": "Supporting character",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "signature_moves": [
+    "Karate Mastery",
+    "Superhuman Strength",
+    "Combat Reflexes"
+  ],
+  "ultimate_move": "Karate Mastery",
+  "trump_card": "Superhuman Strength",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Superhuman Strength",
+    "ultimate_move": "Karate Mastery"
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Karakura High School",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "One of the main characters for the series \"Himegoto\", Hime Arikawa is a second-year student at Shimoshina High School and has a large debt due to his irresponsible parents taking out loans in his name. The student council decides to save him from his debt, but in return, he must cross-dress and become the student council's dog for the rest of his high school career.",
+  "note": null,
+  "source": "anime"
+}

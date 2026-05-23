@@ -1,0 +1,348 @@
+{
+  "id": "2b8876140c387b14644df6478b6d091e",
+  "name": "Red Rush",
+  "native_name": null,
+  "full_name": "Josef",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red speed suit",
+      "Lightning bolt"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Russia",
+    "current_location": "Deceased",
+    "base_of_operations": "Guardians HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Guardians of the Globe",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe (deceased)"
+    ],
+    "previous": [],
+    "relatives": [
+      "Olga (wife)"
+    ]
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "Invincible #7",
+    "comics": "Image Comics 2002",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Speed",
+      "native_name": null,
+      "description": "Move faster than thought",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Friction damage"
+    },
+    {
+      "name": "Reflexes",
+      "native_name": null,
+      "description": "React instantly",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Speed Strike",
+    "Instant Apprehension"
+  ],
+  "ultimate_move": "Full Speed Blast",
+  "trump_card": "Time-Distorting Sprint",
+  "power_attributes": {
+    "power_type": "Speed",
+    "power_source": "Unknown",
+    "combat_style": [
+      "Speed combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Speed suit"
+    ],
+    "trump_card": "Time-Distorting Sprint",
+    "ultimate_move": "Full Speed Blast"
+  },
+  "personality": {
+    "traits": [
+      "Impatient",
+      "Charismatic",
+      "Heroic",
+      "Duty-bound"
+    ],
+    "likes": [
+      "Speed",
+      "Helping"
+    ],
+    "dislikes": [
+      "Waiting",
+      "Crime"
+    ],
+    "fear": "Being too slow",
+    "dream": "Protect Russia",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Heroic",
+      "Patient",
+      "Charismatic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Russian speed hero",
+    "motivation": "Protect the innocent",
+    "affinity": "Speed",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Guardians member",
+    "Saved many"
+  ],
+  "titles": [
+    "Red Rush"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 60,
+    "speed": 100,
+    "durability": 55,
+    "power": 80,
+    "combat": 60,
+    "total": 415
+  },
+  "weaknesses": {
+    "list": [
+      "Friction damage",
+      "Limited durability"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Kursk",
+    "allies": [
+      "Guardians"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Villains"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Olga",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Guardians"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kursk"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Green (Green)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Green (Green)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Guardians"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Defeat",
+      "method": "Killed instantly"
+    }
+  ],
+  "quotes": [
+    "I was there in a second."
+  ],
+  "voice_acting": {
+    "native_language": "Michael Cudlitz (English)",
+    "note": "Animated series",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Omni-Man",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Speed hero",
+      "Guardians member"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Running"
+    ],
+    "vehicles": [],
+    "headquarters": "Guardians HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 11 (RGB), 13 (Yellow), 14 (GSC), 16 (FRLG, Emerald)\nBlood Type: O\nBirthday: August 8th\nEye Color: Red\nHair Color: Black\nHometown: Pallet Town\nRegion: Kanto\n\nRed is a main character in the manga series Pokémon Adventures. His first Pokémon was a Poliwag, which evolved into a Poliwhirl when saving him from drowning prior to the beginning of the story, and evolved once more into a Poliwrath in Buzz off, Electabuzz!.\n\nRed's special skill, as described by Professor Oak, is Pokémon battling. As such, he is called the \"Fighter\" (戦う者 Fighter).\nIn later adventures, Red has been viewed as a leader amongst the Pokédex holders, second only to Professor Oak.\n\nRed wears a red jacket, black undershirt, a red and white cap, and blue jeans, along with a black bandana around his knee from the Yellow chapter onwards.\n\nRed is extremely competitive when it comes to his rival, Green. They both swore to become strong trainers and share both a close friendship and a strong rivalry.\n\nRed, Green &amp; Blue chapter\n\nYellow chapter\n\nGold, Silver &amp; Crystal chapter\n\nFireRed &amp; LeafGreen chapter\n\nEmerald chapter\n\nMain Team\n\nIn Pokemon: The Origin\n\nRed get's his design from the remakes of the original games, Fire Red/Leaf Green. He chooses Charmander as his starter, because it coincides with his name. Like the games and manga, his Rival is Green, and because he didn't want to choose a Pokemon for the same reason as Red, he decides to go for Squirtle instead of Bulbasuar.\n\n(Source: Bulbapedia, Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

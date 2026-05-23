@@ -1,0 +1,425 @@
+{
+  "id": "2b667376eb454959b6cc8c7652068eb3",
+  "name": "Kyon",
+  "native_name": "キョン",
+  "full_name": "Unknown (nickname: Kyon)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "N/A",
+    "height_cm": 175,
+    "weight_kg": 60,
+    "age": "15-16",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black (spiky)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Often looks disinterested",
+      "School uniform",
+      "Can appear sarcastic"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "North High, Japan",
+    "current_location": "North High, Japan",
+    "base_of_operations": "SOS Brigade headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "SOS Brigade Member (Fourth Seat)",
+    "rank_title": "Fourth Seat",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "SOS Brigade",
+      "North High"
+    ],
+    "previous": [],
+    "relatives": [
+      "Aunt (gave him the name Kyon)",
+      "Little sister (spread the nickname)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "The Melancholy of Haruhi Suzumiya Episode 1",
+    "manga": "The Melancholy of Haruhi Suzumiya Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Narrative Perspective",
+      "native_name": "語りの視点",
+      "description": "As narrator, he is the audience surrogate and the one who truly understands each member. Can influence events through his choices and words.",
+      "type": "Support/Influence",
+      "tier": "A",
+      "power_level": 85,
+      "range": "N/A",
+      "limit": "No supernatural powers"
+    },
+    {
+      "name": "Social Influence",
+      "native_name": "社会的影响力",
+      "description": "Can calm Haruhi down when others cannot. Often the voice of reason that prevents disaster.",
+      "type": "Support/Utility",
+      "tier": "B",
+      "power_level": 80,
+      "range": "N/A",
+      "limit": "Limited to persuasion"
+    },
+    {
+      "name": "Intelligence",
+      "native_name": "知性",
+      "description": "Self-described average student but displays knowledge of mythology, science, and pop culture.",
+      "type": "Support/Intelligence",
+      "tier": "B",
+      "power_level": 75,
+      "range": "N/A",
+      "limit": "Non-combat ability"
+    },
+    {
+      "name": "Practical Thinking",
+      "native_name": "実践的思考",
+      "description": "Grounded in reality; can see through deceptions and identify solutions to problems.",
+      "type": "Support/Intelligence",
+      "tier": "B",
+      "power_level": 78,
+      "range": "N/A",
+      "limit": "Relies on others for supernatural solutions"
+    }
+  ],
+  "signature_moves": [
+    "Sarcastic commentary",
+    "Social redirection",
+    "Practical solutions"
+  ],
+  "ultimate_move": "Guiding Haruhi away from disaster",
+  "trump_card": "His choices affect the timeline (proven in Endless Eight)",
+  "power_attributes": {
+    "power_type": "Normal Human",
+    "power_source": "N/A",
+    "combat_style": [
+      "N/A"
+    ],
+    "weapon": "N/A",
+    "equipment": [
+      "School uniform",
+      "Camera (for SOS Brigade)"
+    ],
+    "trump_card": "His choices affect the timeline (proven in Endless Eight)",
+    "ultimate_move": "Guiding Haruhi away from disaster"
+  },
+  "personality": {
+    "traits": [
+      "Sarcastic",
+      "Cynical",
+      "Intelligent",
+      "Caring",
+      "Grounded",
+      "Reluctant"
+    ],
+    "likes": [
+      "Normal life",
+      "The SOS Brigade (reluctantly)",
+      "Mikuru",
+      "Solving problems"
+    ],
+    "dislikes": [
+      "Haruhi's schemes",
+      "Boring life",
+      "Being dragged into adventures",
+      "Kunikida's comments"
+    ],
+    "fear": "Living in a world controlled by Haruhi's unconscious",
+    "dream": "Live a normal life while dealing with extraordinary circumstances",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Cynical"
+    ]
+  },
+  "character": {
+    "arc": "Kyon begins as a cynical normal student who wants ordinary life but is dragged into Haruhi's adventures. His journey involves becoming the anchor for the group while gradually accepting and even appreciating his role in the SOS Brigade.",
+    "motivation": "Survive Haruhi's adventures while maintaining some normalcy",
+    "affinity": "Black/Normalcy",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Stopped the Endless Eight by remembering and making the right choice",
+    "Prevents Haruhi from causing world-ending events",
+    "Serves as the humanizing element for the SOS Brigade",
+    "Successfully navigates interactions with aliens, time travelers, and espers"
+  ],
+  "titles": [
+    "The Narrator",
+    "Fourth Seat",
+    "The Only Normal One"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 55,
+    "speed": 60,
+    "durability": 55,
+    "power": 30,
+    "combat": 50,
+    "total": 330
+  },
+  "weaknesses": {
+    "list": [
+      "No supernatural powers",
+      "Reluctant to act",
+      "Sarcasm can cause misunderstandings",
+      "No way to fight threats directly"
+    ],
+    "factors": [
+      "Must rely on others for supernatural matters",
+      "Cannot control Haruhi directly",
+      "Only human in a group of special beings"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Haruhi Suzumiya",
+      "Yuki Nagato",
+      "Mikuru Asahina",
+      "Itsuki Koizumi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Haruhi Suzumiya",
+        "relationship": "Complicated (crush denied)",
+        "trust_level": "High"
+      },
+      {
+        "name": "Yuki Nagato",
+        "relationship": "Close ally",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Mikuru Asahina",
+        "relationship": "Friendly (admits she's cute)",
+        "trust_level": "High"
+      },
+      {
+        "name": "Itsuki Koizumi",
+        "relationship": "Respected ally",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "None"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Mikuru Asahina (admits attraction) / Haruhi Suzumiya (implied)",
+    "best_friend": "Haruhi (despite everything)",
+    "rival": "None",
+    "mentor": "N/A",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Haruhi Suzumiya",
+      "Yuki Nagato",
+      "Mikuru Asahina",
+      "Itsuki Koizumi",
+      "Haruhi (despite everything)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Haruhi Suzumiya",
+      "Yuki Nagato",
+      "Mikuru Asahina",
+      "Itsuki Koizumi",
+      "Haruhi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "The Endless Eight",
+      "result": "Victory",
+      "method": "Remembered the loop and made the choice to break it"
+    }
+  ],
+  "quotes": [
+    "What the hell did you just say to me?",
+    "I'm just an ordinary high school student... that's what I thought anyway.",
+    "God exists, and she's in our class.",
+    "Some day, Haruhi... you'll realize that being special isn't everything."
+  ],
+  "voice_acting": {
+    "native_language": "Tomokazu Sugimoto (Japanese - 2006), Junichi Suwabe (Japanese - 2009)",
+    "note": "Known for deadpan delivery",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues with SOS Brigade",
+    "transformation": "From reluctant member to essential anchor",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Normal student",
+      "SOS Brigade member",
+      "Narrator of extraordinary events"
+    ],
+    "role_in_story": "Protagonist (narrative)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "SOS Brigade headquarters",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16-17\nBirthday: October 11\nBlood Type: A\nHeight: 170 cm (5'7\")\nOccupation: Student (grade 10-11)\n\nKyon is a first year high school student. He is quite cynical and does not believe in anything interesting like aliens or espers (Though it's possible he believed in them before). But his curiosity gets the better of him when he tries to talk to Haruhi Suzumiya. She starts the SOS Brigade, and drags Kyon into it, where he tries his best to stop Haruhi from causing too much trouble.\n\nKyon  is the second person to join the SOS Brigade, and  is the \"fourth seat\" of the group. He is the only member of the group who is \"normal,\" having no special abilities at all. He is enrolled in North High, and his real name is unknown, his nickname Kyon was created for him by his aunt and then spread by his little sister.",
+  "note": null,
+  "source": "anime"
+}

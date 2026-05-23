@@ -1,0 +1,421 @@
+{
+  "id": "0340a81380d0146017150bf01fa768aa",
+  "name": "Franky",
+  "native_name": "フランキー",
+  "full_name": "Cutty Flam (birth name)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Cyborg)",
+    "race": "Human-Cyborg Hybrid",
+    "bloodline": "N/A",
+    "height_cm": 225,
+    "weight_kg": 138,
+    "age": "34-36",
+    "birthday": "March 9",
+    "zodiac": "Pisces",
+    "blood_type": "XF",
+    "weight_kkg": null,
+    "bmi": 27.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue (dyed blond after timeskip)",
+    "skin_color": "Fair (shows cyborg metal parts)",
+    "notable_features": [
+      "Cyborg body with metal plating",
+      "Star tattoos on arms",
+      "Large mohawk-style hair",
+      "Metal legs and torso"
+    ],
+    "skin": "Fair (shows cyborg metal parts)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Water 7",
+    "current_location": "Thousand Sunny",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shipwright",
+    "secondary": "Cyborg Fighter",
+    "rank_title": "Eighth crew member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates",
+      "Franky Family"
+    ],
+    "previous": [
+      "Tom's Workers",
+      "Galley-La Company"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 206",
+    "manga": "One Piece Chapter 329",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cyborg Body",
+      "native_name": "改造人間",
+      "description": "Self-modified cyborg body with incredible strength, built-in weapons including cable-linked fists, compressed air cannons, and various combat gadgets",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee to Long",
+      "limit": "Requires cola to power weapons"
+    },
+    {
+      "name": "Franky Radical Beam",
+      "native_name": "フランキーレイシャルビーム",
+      "description": "Powerful laser beam modeled after Vegapunk's technology",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires significant cola reserves"
+    },
+    {
+      "name": "Strong Right",
+      "native_name": "ストロングライト",
+      "description": "Cable-linked fist that can extend and retract for ranged punch attacks",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Long",
+      "limit": "Cable length limitation"
+    },
+    {
+      "name": "Coupe de Vent",
+      "native_name": "クoupe・ド・ヴァン",
+      "description": "Compressed air cannons built into arms for powerful blasts",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Requires air compression time"
+    }
+  ],
+  "signature_moves": [
+    "Franky Radical Beam",
+    "Strong Right",
+    "Coupe de Vent",
+    "Cyborg body"
+  ],
+  "ultimate_move": "Franky Radical Beam",
+  "trump_card": "Franky Shogun (giant mecha)",
+  "power_attributes": {
+    "power_type": "Cyborg Technology",
+    "power_source": "Self-made modifications + Cola fuel",
+    "combat_style": [
+      "Close combat",
+      "Ranged weapons",
+      "Engineering"
+    ],
+    "weapon": "Various built-in weapons",
+    "equipment": [
+      "Franky Shogun",
+      "Soldier Dock System vehicles"
+    ],
+    "trump_card": "Franky Shogun (giant mecha)",
+    "ultimate_move": "Franky Radical Beam"
+  },
+  "personality": {
+    "traits": [
+      "Exuberant",
+      "Emotional",
+      "Loyal",
+      "Dramatic",
+      "Childish"
+    ],
+    "likes": [
+      "Ships",
+      " cola",
+      "Building things",
+      "Crying at sad stories"
+    ],
+    "dislikes": [
+      "Seeing his ship damaged",
+      "Weakness",
+      "Betrayal"
+    ],
+    "fear": "Not being able to protect his friends",
+    "dream": "Build a ship that can sail around the world (Thousand Sunny)",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Childish"
+    ]
+  },
+  "character": {
+    "arc": "Ex-frenemy turned loyal crew member; became ship's builder and combatant",
+    "motivation": "Protecting crew and building dream ship",
+    "affinity": "Engineering",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Built the Thousand Sunny from Adam wood",
+    "Created Battle Franky series of ships",
+    "Former leader of Franky Family"
+  ],
+  "titles": [
+    "Cyborg",
+    "Super",
+    "Cutty Flam",
+    "Battle Franky 36"
+  ],
+  "bounty": {
+    "amount": 44000000,
+    "currency": "Berry",
+    "details": "Current bounty"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 90,
+    "speed": 60,
+    "durability": 90,
+    "power": 85,
+    "combat": 70,
+    "total": 480
+  },
+  "weaknesses": {
+    "list": [
+      " Cola dependency",
+      "Water/seawater weakness (cyborg parts)",
+      "Overly emotional"
+    ],
+    "factors": [
+      "Running out of cola disables most weapons"
+    ]
+  },
+  "relationships": {
+    "nemesis": "CP9 (formerly)",
+    "allies": [
+      "Straw Hat Pirates",
+      "Tom",
+      "Iceburg"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tom",
+        "relationship": "Mentor",
+        "trust_level": "High - built his dream"
+      },
+      {
+        "name": "Iceburg",
+        "relationship": "Friend/Rival",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "CP9",
+      "World Government"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Straw Hat Pirates (crew family)",
+    "rival": "Iceburg",
+    "mentor": "Tom",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Straw Hat Pirates",
+      "Tom",
+      "Iceburg",
+      "Straw Hat Pirates (crew family)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "CP9 (formerly)",
+      "Iceburg"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Iceburg"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Straw Hat Pirates",
+      "Tom",
+      "Iceburg"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Tom"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "SCP9 - Lucci",
+      "result": "Defeat",
+      "method": "Defeated but survived"
+    },
+    {
+      "opponent": "Pacifista",
+      "result": "Victory",
+      "method": "Used Radical Beam"
+    }
+  ],
+  "quotes": [
+    "SUPER!",
+    "I will build a ship that sails around the world!",
+    "You're not even worth my Radical Beam!"
+  ],
+  "voice_acting": {
+    "native_language": "Kazuki Yao (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Patrick Seitz",
+    "japanese": "Kazuki Yao"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently traveling with Straw Hats",
+    "transformation": "Franky Shogun mecha form",
+    "awakening_potential": "More advanced Vegapunk tech integration",
+    "power_evolution": [
+      "Human",
+      "Cyborg",
+      "Super Cyborg",
+      "Franky Shogun"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Thousand Sunny",
+      "Battle Frankies ships",
+      " Soldier Dock vehicles"
+    ],
+    "vehicles": [
+      "Thousand Sunny"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 34; 36\nBirthdate: March 9\nZodiac Sign: Pisces\nHeight: 225 cm (7'4½\")\nAffiliation: Straw Hat Pirates; Franky Family (former); Tom's Workers (former)\nPosition: Shipwright\nDevil Fruit: none\nBounty: \nFranky is a 34 year old cyborg who is the shipwright of the Straw Hat Pirates and their third most recently recruited member. He first appeared in the Water 7 arc. Franky is one of \"Tom's Workers\", with the original name \"Cutty Flam.\"\n\nFranky's dream is to build a ship that would travel to the end of the Grand Line. This is the ship that the Straw Hats are currently riding, but his dream is not yet achieved until they make it to the end.\n\nFranky usually acts tough and is quickly angered, but he is also very emotional when it comes to sad tales and often bursts into large tears, or on some occasions, plays a song. His most distinguishable personality trait is his flamboyant attitude. He frequently shouts the word 'SUPER' when he's in a positive mood or adds it into his speech. He also has a signature pose which he uses very often.\n\nFranky is quick to defend other people (e.g. Franky Family, Nico Robin) and take action if his friends are harmed. He is also quick in making friends, allies, and comrades with even the most unlikely of individuals. Because of this, he is seen as a 'big brother' figure. Monkey D. Luffy bears similar qualities (with the exception of engaging in unnecessary fights) and because of this, despite the disputes the two had in the past, both grew to respect each other during the events of the Enies Lobby Arc.",
+  "note": null,
+  "source": "anime"
+}

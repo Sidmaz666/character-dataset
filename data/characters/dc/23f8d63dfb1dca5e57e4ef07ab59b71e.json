@@ -1,0 +1,316 @@
+{
+  "id": "23f8d63dfb1dca5e57e4ef07ab59b71e",
+  "name": "Starfire",
+  "native_name": null,
+  "full_name": "Koriand'r",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Tamaranean",
+    "race": "Tamaranean",
+    "bloodline": null,
+    "height_cm": 193,
+    "weight_kg": 71,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Auburn",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tamaran",
+    "current_location": null,
+    "base_of_operations": "Formerly Titans Island, New York City; Titans Tower, San Francisco",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Model",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly R.E.B.E.L.S.",
+      "Justice League of America",
+      "Teen Titans",
+      "Outsiders"
+    ],
+    "previous": [],
+    "relatives": [
+      "King Myand'r (father)",
+      "Queen Luand'r (mother)",
+      "Queen Komand'r (sister",
+      "Blackfire)",
+      "Ryand'r (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "DC Comics Presents #26 (October, 1980)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Tamaranean with superhuman attributes",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 59,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Dishonesty"
+    ],
+    "fear": "Unknown",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Princess Koriand'r"
+  ],
+  "titles": [
+    "Princess Koriand'r",
+    "Kory Anders",
+    "Nova"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 80,
+    "speed": 33,
+    "durability": 85,
+    "power": 59,
+    "combat": 70,
+    "total": 377
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Formerly R.E.B.E.L.S.",
+      "Justice League of America",
+      "Teen Titans"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Formerly R.E.B.E.L.S.",
+      "Justice League of America",
+      "Teen Titans"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Formerly R.E.B.E.L.S.",
+      "Justice League of America",
+      "Teen Titans"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Formerly Titans Island, New York City; Titans Tower, San Francisco",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Starfire is a superheroine created by Marv Wolfman and George Pérez appearing in American comic books created by DC Comics. She debuted in a preview story inserted within DC Comics Presents #26 (October, 1980). Since the character's introduction, Starfire has been a major recurring character in Teen Titans and various other iterations of the team, sometimes depicted as the team's leader, and a significant love interest for Dick Grayson.\nWithin the main continuity of the DC Universe, her origin is revealed to be Princess Koriand'r, an alien princess from the planet Tamaran and heiress to the throne until she was ousted in a coup by her elder sister, Komand'r (also known as Blackfire), who sold her into slavery. Subjected to torture and sexual exploitation, Koriand'r was also subjected to experiments performed by Psion scientists, which gave her additional powers. Escaping her captors, she found herself on Earth and befriended the Teen Titans, becoming a long-lasting member of the team. The character has appeared on several other teams, including the Outsiders, Outlaws, and Justice League Odyssey. While on Earth, the character has been depicted as a model under the alias Kory Anders, occasionally the leader of the Teen Titans, and was the principal of Teen Titans Academy during a period in which the Titans help trained future superheroes of the DC Universe.\nStarfire has been featured in various media outside comic books. Within television, she is notably voiced by Hynden Walch in the animated series Teen Titans and Teen Titans Go!. Kari Wahlgren voices the character in the DC Animated Movie Universe, Injustice 2, and Lego DC Super-Villains.",
+  "note": null,
+  "source": "dc"
+}

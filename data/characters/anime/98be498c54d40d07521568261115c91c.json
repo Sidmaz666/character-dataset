@@ -1,0 +1,402 @@
+{
+  "id": "98be498c54d40d07521568261115c91c",
+  "name": "Armin Arlert",
+  "native_name": "アルミン・アルレルト",
+  "full_name": "Armin Arlert",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Arlert Family",
+    "height_cm": 163,
+    "weight_kg": 55,
+    "age": "15-19",
+    "birthday": "November 3",
+    "zodiac": "Scorpio",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Blue eyes",
+      "Survey Corps uniform",
+      "Thoughtful expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Shiganshina District",
+    "current_location": "Paradis Island",
+    "base_of_operations": "Survey Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Soldier",
+    "secondary": "Strategist",
+    "rank_title": "Private",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Survey Corps",
+      "Special Operations Squad"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grandfather (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Attack on Titan Episode 1",
+    "manga": "Attack on Titan Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Genius Intellect",
+      "native_name": "天才的頭脳",
+      "description": "Brilliant strategist capable of devising complex plans to defeat Titans.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "N/A",
+      "limit": "Physical limits"
+    },
+    {
+      "name": "Strategic Planning",
+      "native_name": "戦略的計画",
+      "description": "Creates battle strategies that turn impossible odds into victories.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Team",
+      "limit": "Information"
+    },
+    {
+      "name": "Colossal Titan",
+      "native_name": "超大型の巨人",
+      "description": "Inherits Colossal Titan form - massive size and explosive power.",
+      "type": "Transformation",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Area",
+      "limit": "Time limit"
+    }
+  ],
+  "signature_moves": [
+    "Strategic planning",
+    "Colossal transformation",
+    "Tactical analysis"
+  ],
+  "ultimate_move": "Colossal Titan form",
+  "trump_card": "Genius strategy",
+  "power_attributes": {
+    "power_type": "Intellect/Titan",
+    "power_source": "Mind + Colossal Titan",
+    "combat_style": [
+      "Strategy",
+      "Support"
+    ],
+    "weapon": "Mind",
+    "equipment": [
+      "ODM gear"
+    ],
+    "trump_card": "Genius strategy",
+    "ultimate_move": "Colossal Titan form"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Timid",
+      "Loyal",
+      "Analytical",
+      "Courageous",
+      "Self-doubting"
+    ],
+    "likes": [
+      "Books",
+      "Strategy",
+      "Friends",
+      "Ocean"
+    ],
+    "dislikes": [
+      "Conflict",
+      "Losing friends",
+      "Cowardice in himself"
+    ],
+    "fear": "Being useless",
+    "dream": "See the outside world, ocean",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Courageous",
+      "Analytical",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Timid"
+    ]
+  },
+  "character": {
+    "arc": "Armin starts as timid but brilliant, becomes key strategist. Inherits Colossal Titan from Bertholdt.",
+    "motivation": "Protect friends, see the world",
+    "affinity": "Blue/Intellect",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Top graduate",
+    "Defeated Bertholdt",
+    "Colossal Titan inheritor"
+  ],
+  "titles": [
+    "Genius Strategist",
+    "Colossal Titan"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Soldier"
+  },
+  "powerstats": {
+    "intelligence": 98,
+    "strength": 40,
+    "speed": 60,
+    "durability": 55,
+    "power": 50,
+    "combat": 65,
+    "total": 368
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Self-doubt",
+      "Hesitant"
+    ],
+    "factors": [
+      "Friends in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Bertholdt (former)",
+    "allies": [
+      "Eren",
+      "Mikasa",
+      "Levi",
+      "Hange"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Eren Yeager",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Titans",
+      "Marley"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Annie (implied)",
+    "best_friend": "Eren/Mikasa",
+    "rival": "None",
+    "mentor": "Erwin, Hange",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Eren",
+      "Mikasa",
+      "Levi",
+      "Hange",
+      "Eren/Mikasa"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Bertholdt (former)",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Eren",
+      "Mikasa",
+      "Levi",
+      "Hange",
+      "Eren/Mikasa"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Erwin, Hange"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Bertholdt",
+      "result": "Victory",
+      "method": "Strategy"
+    },
+    {
+      "opponent": "Titans",
+      "result": "Victory",
+      "method": "Colossal form"
+    }
+  ],
+  "quotes": [
+    "Someone has to be the one to do it.",
+    "I'm not useful for anything else.",
+    "The ocean is..."
+  ],
+  "voice_acting": {
+    "native_language": "Marina Inoue (Japanese)",
+    "note": "Thoughtful voice",
+    "native_name": null,
+    "english": "Jessie James Grelle",
+    "japanese": "Marina Inoue"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "Colossal Titan",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Timid boy",
+      "Strategist",
+      "Titan inheritor",
+      "Hero"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Survey Corps HQ",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 15, \nBirthday: November 3\nHeight: 163 cm (5'4\") -&gt; 169 cm (5'6\")\nWeight: 55 kg (121 lbs) -&gt; 56 kg (123 lbs)\nAffiliations: 104th Trainees Squad, Scouting Legion\nGraduation Rank: Outside the top 10\n\nArmin Arlert is Eren's best friend. He is physically weak, but emotionally strong. Even though he lacks in actual combat skills, Armin is a genius in theoretical courses and can make plans even under extreme pressure. Even so, Armin keeps on thinking that he is weak. He himself does not notice the things he does for Eren and Mikasa and believes himself to be completely incompetent and hates himself for having to rely on Eren and Mikasa.\n\n\n(Source: Wikipedia, edited)\n\nNote: Armin Arlert is the official English translation by Kodansha.",
+  "note": null,
+  "source": "anime"
+}

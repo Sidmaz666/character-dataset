@@ -1,0 +1,373 @@
+{
+  "name": "Julia Cornwall",
+  "native_name": null,
+  "full_name": "Julia Carpenter",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human Mutate",
+    "race": "Human",
+    "bloodline": "Carpenter",
+    "height_cm": 175,
+    "weight_kg": 60,
+    "age": "30s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Athletic build",
+      "Psionic aura"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Denver, Colorado",
+    "current_location": "New York",
+    "base_of_operations": "Spider-Sanctuary",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Clairvoyant",
+    "secondary": "Hero",
+    "rank_title": "Madame Web",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Army"
+    ],
+    "previous": [
+      "Avengers",
+      "Force Works"
+    ],
+    "relatives": [
+      "Rachel Carpenter (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Secret Wars #6 (1984)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Psionic Webbing",
+      "type": "Psychic",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long"
+    },
+    {
+      "name": "Precognition",
+      "type": "Psychic",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Universal"
+    },
+    {
+      "name": "Telepathy",
+      "type": "Psychic",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Long"
+    },
+    {
+      "name": "Spider Agility",
+      "type": "Physical",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Psychic Web",
+    "Precognitive Strike",
+    "Arachnid Assault"
+  ],
+  "ultimate_move": "Madame Web's Judgment",
+  "trump_card": "Full Precognitive Vision",
+  "power_attributes": {
+    "power_type": "Psychic Spider Powers",
+    "power_source": "Government Experiment + Madame Web Mantle",
+    "combat_style": [
+      "Psychic",
+      "Agile",
+      "Strategic"
+    ],
+    "weapon": "Psionic Webbing",
+    "equipment": [
+      "Spider-Woman suit"
+    ],
+    "trump_card": "Full Precognitive Vision",
+    "ultimate_move": "Madame Web's Judgment"
+  },
+  "personality": {
+    "traits": [
+      "Compassionate",
+      "Maternal",
+      "Intuitive",
+      "Wise"
+    ],
+    "likes": [
+      "Guiding heroes",
+      "Her daughter"
+    ],
+    "dislikes": [
+      "Manipulation",
+      "Dishonesty"
+    ],
+    "fear": "Seeing future she cannot prevent",
+    "dream": "Guide the next generation",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From government operative to Spider-Woman to Madame Web. Took on the clairvoyant mantle after Cassandra Webb. Now blind but psychic sight guides the Spider-Verse heroes.",
+    "motivation": "Protect the Web of Destiny",
+    "affinity": "Psychic/Spider",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Avenger (former)",
+    "Madame Web inheritor",
+    "Guided Spider-Army"
+  ],
+  "titles": [
+    "Madame Web",
+    "Julia Carpenter",
+    "Spider-Woman II",
+    "Arachne"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 68,
+    "speed": 78,
+    "durability": 65,
+    "power": 90,
+    "combat": 72,
+    "total": 458
+  },
+  "weaknesses": {
+    "list": [
+      "Blindness",
+      "Precognitive overload"
+    ],
+    "factors": [
+      "Psychic strain",
+      "Maternal instinct exploited"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kraven",
+    "allies": [
+      "Spider-Army",
+      "Spider-Man"
+    ],
+    "enemies": [
+      "Kraven",
+      "Morlun"
+    ],
+    "love_interest": "Larry Carpenter (ex)",
+    "best_friend": "Jessica Drew",
+    "mentor": "Cassandra Webb",
+    "student": "Spider-Army members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Army",
+      "Spider-Man",
+      "Jessica Drew"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kraven"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Spider-Army members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Army",
+      "Spider-Man",
+      "Jessica Drew"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Cassandra Webb"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Morlun",
+      "result": "Victory",
+      "method": "Guided Spider-Army via precognition"
+    }
+  ],
+  "quotes": [
+    "The web connects us all."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Guiding Spider heroes",
+    "transformation": "Madame Web",
+    "awakening": "Gained clairvoyance after Cassandra Webb's passing",
+    "power_evolution": [
+      "Julia",
+      "Spider-Woman",
+      "trueArachne",
+      "trueMadame Web"
+    ],
+    "role": "Major",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Spider-Sanctuary",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "49932391b0d246bdcd22b88fd1be880c",
+  "publisher": "marvel",
+  "about": "Julia Carpenter is a superhero appearing in American comic books published by Marvel Comics. Created by Jim Shooter and Mike Zeck, the character first appeared in Secret Wars #6 (October 1984). Julia Carpenter was known as the second Spider-Woman, later as the second Arachne, and then as the second Madame Web.\nJulia Carpenter as Spider-Woman appears in Spider-Man: Across the Spider-Verse (2023), and the Sony's Spider-Man Universe (SSU) film Madame Web (2024) under her maiden name Julia Cornwall, portrayed by Sydney Sweeney.",
+  "note": null,
+  "source": "marvel"
+}

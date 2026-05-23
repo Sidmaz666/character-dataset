@@ -1,0 +1,423 @@
+{
+  "id": "be59a580f14529f587f38af4b6c40a95",
+  "name": "Kenpachi Zaraki",
+  "native_name": "更木 剣八",
+  "full_name": "Kenpachi Zaraki",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Shinigami",
+    "race": "Shinigami (Captain)",
+    "bloodline": "Zaraki Family",
+    "height_cm": 202,
+    "weight_kg": 90,
+    "age": "Unknown",
+    "birthday": "November 29",
+    "zodiac": "Sagittarius",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spiky black hair",
+      "Eyepatch",
+      "Captain haori",
+      "Bells in hair",
+      "Scarred face"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Zaraki District",
+    "current_location": "Soul Society",
+    "base_of_operations": "11th Division HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinigami Captain",
+    "secondary": "11th Division Captain",
+    "rank_title": "Captain Kenpachi",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gotei 13",
+      "11th Division"
+    ],
+    "previous": [
+      "Zaraki District"
+    ],
+    "relatives": [
+      "Yachiru (adoptive daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 22",
+    "manga": "Bleach Chapter 66",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Immense Reiatsu",
+      "native_name": "霊圧",
+      "description": "Massive spiritual pressure. Can crush weaker opponents. Constantly radiates power.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 96,
+      "range": "Area",
+      "limit": "None"
+    },
+    {
+      "name": "Zanpakuto",
+      "native_name": "斬魄刀",
+      "description": "Nameless Zanpakuto. Pure cutting power. No special abilities, just raw destruction.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Bankai",
+      "native_name": "卍解",
+      "description": "Later awakens Bankai. Unleashes full destructive power. Destroys everything around.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Area",
+      "limit": "Control"
+    },
+    {
+      "name": "Combat Instinct",
+      "native_name": "戦闘本能",
+      "description": "Born fighter. Instinctively knows how to defeat opponents. Loves battle.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 94,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Zanpakuto slash",
+    "Reiatsu crush",
+    "Bankai release"
+  ],
+  "ultimate_move": "Bankai destruction",
+  "trump_card": "Unlimited reiatsu",
+  "power_attributes": {
+    "power_type": "Reiatsu",
+    "power_source": "Shinigami",
+    "combat_style": [
+      "Brute force",
+      "Zanpakuto"
+    ],
+    "weapon": "Zanpakuto",
+    "equipment": [
+      "Eyepatch"
+    ],
+    "trump_card": "Unlimited reiatsu",
+    "ultimate_move": "Bankai destruction"
+  },
+  "personality": {
+    "traits": [
+      "Bloodthirsty",
+      "Honor-bound",
+      "Loyal",
+      "Simple",
+      "Powerful",
+      "Childlike"
+    ],
+    "likes": [
+      "Fighting",
+      "Strong opponents",
+      "Yachiru",
+      "Battle"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Weakness",
+      "Rules",
+      "Tactics"
+    ],
+    "fear": "None",
+    "dream": "Fight strongest opponent",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Powerful",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "Kenpachi is the 11th Division Captain who loves fighting. From Zaraki District, killed previous captain. Wears eyepatch to limit power. Awakens Bankai fighting Lille.",
+    "motivation": "Fight strong opponents",
+    "affinity": "Green/Battle",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "11th Division Captain",
+    "Killed previous Kenpachi",
+    "Awakened Bankai",
+    "Strongest raw power"
+  ],
+  "titles": [
+    "Kenpachi",
+    "Captain",
+    "Zaraki"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "None",
+    "details": "Captain"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 96,
+    "speed": 82,
+    "durability": 94,
+    "power": 98,
+    "combat": 98,
+    "total": 533
+  },
+  "weaknesses": {
+    "list": [
+      "No strategy",
+      "Yachiru's safety",
+      "Overconfidence"
+    ],
+    "factors": [
+      "Yachiru",
+      "Unohana"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Nnoitra, Lille",
+    "allies": [
+      "Yachiru",
+      "Ikkaku",
+      "Yumichika",
+      "Byakuya"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yachiru Kusajishi",
+        "relationship": "Adoptive daughter",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Nnoitra",
+      "Lille",
+      "Espada"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Unohana (implied)",
+    "best_friend": "Yachiru",
+    "rival": "Byakuya",
+    "mentor": "Unohana",
+    "student": "Ikkaku",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Yachiru",
+      "Ikkaku",
+      "Yumichika",
+      "Byakuya"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Nnoitra, Lille",
+      "Byakuya"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Byakuya"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ikkaku"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Yachiru",
+      "Ikkaku",
+      "Yumichika",
+      "Byakuya"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Unohana"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Nnoitra",
+      "result": "Victory",
+      "method": "Brute force"
+    },
+    {
+      "opponent": "Lille",
+      "result": "Victory",
+      "method": "Bankai"
+    },
+    {
+      "opponent": "Ichigo",
+      "result": "Draw",
+      "method": "Mutual respect"
+    }
+  ],
+  "quotes": [
+    "I'm Kenpachi!",
+    "Let's fight!",
+    "This is fun!"
+  ],
+  "voice_acting": {
+    "native_language": "Fumihiko Tachiki (Japanese)",
+    "note": "Deep, booming",
+    "native_name": null,
+    "japanese": "Fumihiko Tachiki",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as captain",
+    "transformation": "Bankai",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Thug",
+      "Captain",
+      "Bankai",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "11th Division HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "11th Division Captain\nBorn: 19th November (Area 80 North)\nHeight: 202 cm\nWeight: 108 kg\nHates: Natto\nHobbies: Fighting strong opponents\nTheme Song: \"Superpredators\" by Massive Attack\n\nNote: The only Captain who didn't take the exam to become a Shinigami.\n\nZaraki's surname comes from the district he once resided in, Zaraki, which is district #80 of the North Alley of Rukongai. District #80 is the worst, most lawless region of Rukongai, full of thieves and murderers (whereas area #1 is the most orderly and law-abiding). While residing in District #80, Kenpachi was nameless. During that time, he became proficient in swordsmanship and killed numerous enemies.\n\nAt some point during his travels outside of District #80, he found a small girl and named her Yachiru (八千流), in remembrance of the only person he ever admired, after she showed no fear of his sword. Yachiru came from area #79, Kusajishi (草鹿), where her parents were murdered. The two events were apparently quite close. On that day, he also took on a name: Kenpachi, the title bestowed upon the strongest swordsman, the one who has killed the most. The two developed a father-daughter-like relationship.\n\nAlso, at some point (before he became a Captain), he fought and defeated Ikkaku Madarame; for this reason, Ikkaku pledged to serve under Kenpachi from there on out (Ikkaku doesn't actually get the chance to do so until he joins the 11th Division), but Ikkaku would still jump at the chance to fight Kenpachi to the death.\n\nAfter some time had passed, Kenpachi found his way to the Seireitei. He defeated and killed the previous Captain of the 11th Division (whose identity is currently unknown) and gained his seat in the Gotei 13 in this manner. In the anime, his assumption of the Captain's seat caused Maki Ichinose to leave the Soul Society. According to the anime, it is also what convinced Ikkaku and Yumichika to join the Shinigami.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

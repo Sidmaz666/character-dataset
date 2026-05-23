@@ -1,0 +1,479 @@
+{
+  "id": "5f94e698b4bafe7fee953629f847b00e",
+  "name": "Makoto Misumi",
+  "native_name": "三角 真人",
+  "full_name": "Misumi Makoto",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kuzunoha",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "17",
+    "birthday": "November 17",
+    "zodiac": "Scorpio",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Considered 'ugly' by goddess",
+      "Overflowing mana aura (desert fog)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan (Earth)",
+    "current_location": "Elysion (Goddess World)",
+    "base_of_operations": "Kuzunoha Trading Company, Asora",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Merchant (Kuzunoha Trading Company)",
+    "secondary": "Hero (Rejected title)",
+    "rank_title": "Raidou Kuzunoha",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Tsukuyomi-no-Mikoto",
+      "Tomoe",
+      "Shiki",
+      "Asora Residents"
+    ],
+    "previous": [
+      "Human World"
+    ],
+    "relatives": [
+      "Parents (from fantasy world)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Tsukimichi: Moonlit Fantasy (2021)",
+    "manga": "Tsukimichi",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "God-Class Magical Energy",
+      "native_name": "女神クラス魔力",
+      "description": "Makoto has immeasurable magical energy at God-class level, exceeding even the Goddess herself.",
+      "type": "Magic",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Overflow causes unstable aura"
+    },
+    {
+      "name": "Elemental Magic Mastery",
+      "native_name": "元素魔法",
+      "description": "Can use five elements: Water > Darkness > Fire > Earth > Thunder. Cannot use Wind or Healing magic.",
+      "type": "Elemental",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Cannot use Wind or Healing"
+    },
+    {
+      "name": "Moon Element Creation",
+      "native_name": "月属性",
+      "description": "Created a completely new element - Moon element. Only user in existence.",
+      "type": "Elemental",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long",
+      "limit": "Unique to Makoto"
+    },
+    {
+      "name": "Multifunctional Magic",
+      "native_name": "多機能魔法",
+      "description": "Blessing from Tsukuyomi. Can increase healing rate, strength, perception, and more on self or others. Can use two properties at once.",
+      "type": "Enhancement",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Domain (Kai)",
+      "native_name": "空間",
+      "description": "Creates sphere-shaped area where Makoto can sense almost anything, boost or hide powers, add special effects.",
+      "type": "Spatial",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium (Sakai territory)",
+      "limit": "Limited to Sakai"
+    },
+    {
+      "name": "Mastery of Words",
+      "native_name": "言葉の理解",
+      "description": "Blessing from Goddess to understand all Magic Languages. Allows instant comprehension and improvement of magic.",
+      "type": "Intelligence",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Does not understand Human language"
+    },
+    {
+      "name": "Perfect Archery",
+      "native_name": "完璧な弓術",
+      "description": "Arrows seem to chase targets by themselves. Perfect accuracy.",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "No-Chant Magic",
+      "native_name": "無詠唱魔法",
+      "description": "With absurd mana pool, can cast magic to fullest potential without needing incantations.",
+      "type": "Magic",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Mana Armor",
+      "native_name": "魔力鎧",
+      "description": "Can use thick magic like armor, covering entire body. Only possible due to massive mana pool.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "None"
+    },
+    {
+      "name": "Object Creation",
+      "native_name": "物体作成",
+      "description": "Can create objects never seen before, such as giant silver gauntlets. Rare even among gods.",
+      "type": "Creation",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "None"
+    },
+    {
+      "name": "Draupnir Rings",
+      "native_name": "ドラプニルの指輪",
+      "description": "Multiple rings that absorb and hide overflowing magic. If too full or broken, can explode.",
+      "type": "Equipment",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Can explode if overloaded"
+    }
+  ],
+  "signature_moves": [
+    "Moon Element Strike",
+    "Mana Armor",
+    "Perfect Arrow"
+  ],
+  "ultimate_move": "Moon Element Mastery",
+  "trump_card": "Remove Rings - Full Mana Release",
+  "power_attributes": {
+    "power_type": "Magic (Multiple Elements + Moon)",
+    "power_source": "God-Class Magical Energy, Tsukuyomi's Blessing",
+    "combat_style": [
+      "Magic Combat",
+      "Archery",
+      "Elemental Attacks"
+    ],
+    "weapon": "Bow and Arrow",
+    "equipment": [
+      "Draupnir Rings",
+      "Sakai (Territory)"
+    ],
+    "trump_card": "Remove Rings - Full Mana Release",
+    "ultimate_move": "Moon Element Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Humble",
+      "Kind",
+      "Detached",
+      "Protective",
+      "Thoughtful"
+    ],
+    "likes": [
+      "Helping outcasts",
+      "Building Asora",
+      "Friends"
+    ],
+    "dislikes": [
+      "Goddess (who rejected him)",
+      "Discrimination"
+    ],
+    "fear": "Hurting friends with power",
+    "dream": "Return home after defeating goddess",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Cannot"
+    ]
+  },
+  "character": {
+    "arc": "Rejected by goddess but becomes powerful leader of outcast races",
+    "motivation": "Live free, help outcasts, eventual revenge on goddess",
+    "affinity": "Moon/Darkness",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Founded Kuzunoha Trading Company",
+    "Created Asora paradise for outcasts",
+    "Stands against the Goddess without flinching",
+    "Only creator of new element (Moon)"
+  ],
+  "titles": [
+    "Raidou Kuzunoha",
+    "Makoto Kuzunoha",
+    "Hero (Rejected)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 85,
+    "speed": 90,
+    "durability": 88,
+    "power": 100,
+    "combat": 90,
+    "total": 548
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot use Wind or Healing magic",
+      "Overflowing mana aura hard to control",
+      "Draupnir rings can explode"
+    ],
+    "factors": [
+      "Goddess is enemy",
+      "Considered 'ugly' by superficial standards"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Goddess (who rejected him)",
+    "allies": [
+      "Tsukuyomi-no-Mikoto",
+      "Tomoe",
+      "Shiki",
+      "Naotatsu"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tsukuyomi-no-Mikoto",
+        "relationship": "Deity/Protector",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Tomoe",
+        "relationship": "Servant/Ally",
+        "trust_level": "High"
+      },
+      {
+        "name": "Shiki",
+        "relationship": "Servant/Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "The Goddess"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tsukuyomi-no-Mikoto",
+      "Tomoe",
+      "Shiki",
+      "Naotatsu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Goddess (who rejected him)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tsukuyomi-no-Mikoto",
+      "Tomoe",
+      "Shiki",
+      "Naotatsu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "The Goddess",
+      "result": "Standoff",
+      "method": "Stands firm against divine presence"
+    }
+  ],
+  "quotes": [
+    "I will live freely.",
+    "Everyone deserves a place to belong.",
+    "Let me introduce myself - I am Kuzunoha."
+  ],
+  "voice_acting": {
+    "native_language": "Nobunaga Shimazaki",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Johnny Yong Bosch",
+    "japanese": "Tatsuhisa Suzuki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Building new civilization, eventual confrontation with goddess",
+    "transformation": "Raidou Kuzunoha Form",
+    "awakening_potential": "Can grow even stronger",
+    "power_evolution": [
+      "Normal Human",
+      "God-Class Mage",
+      "Raidou Kuzunoha"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kuzunoha Trading Company / Asora",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: November 17\nZodiac sign: Scorpio\nHeight: 183 cm (6'0\")\nWeight: 73 kg (161 lbs)\n\nBackstroke swimmer of the Iwatobi High School swimming team.\n\nMakoto Tachibana is Haruka's inseparable best friend in since before kindergarten. He understands Haruka's good points, and is often forced to speak as his spokesman. He is very kind and considerate, but is also very easily scared and weak-hearted.\n\n\n\n(Source: ANN)",
+  "note": null,
+  "source": "anime"
+}

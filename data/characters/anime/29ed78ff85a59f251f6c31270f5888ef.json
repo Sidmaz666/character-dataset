@@ -1,0 +1,382 @@
+{
+  "id": "29ed78ff85a59f251f6c31270f5888ef",
+  "name": "Ino Yamanaka",
+  "native_name": "山中いの",
+  "full_name": "Ino Yamanaka",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Yamanaka Clan",
+    "bloodline": "Yamanaka Clan",
+    "height_cm": 162,
+    "weight_kg": 52,
+    "age": "16-19",
+    "birthday": "May 15",
+    "zodiac": "Taurus",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 19.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Pink (when using jutsu)",
+    "hair_color": "Blonde/Yellow",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Beauty mark",
+      "Fashionable"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Yamanaka clinic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Kunoichi",
+    "secondary": "Medical support",
+    "rank_title": "Chunin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure"
+    ],
+    "previous": [
+      "Team 10"
+    ],
+    "relatives": [
+      "Inoichi Yamanaka (father)",
+      "Sai (husband, future)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mind Transfer",
+      "native_name": "心神",
+      "description": "Transfers consciousness to take over opponent's body",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Touch",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Mind Body Blow",
+      "native_name": "精神人身",
+      "description": "Psychic attack on mind",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 60,
+      "range": "Touch",
+      "limit": null
+    },
+    {
+      "name": "Flower-Viewing Jutsu",
+      "native_name": "花見",
+      "description": "Creates flower field for cover",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Medium",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Mind Transfer",
+    "Mind reading"
+  ],
+  "ultimate_move": "Mind Transfer (full control)",
+  "trump_card": "Full body takeover",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Yamanaka bloodline",
+    "combat_style": [
+      "Mind jutsu",
+      "Medical"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Full body takeover",
+    "ultimate_move": "Mind Transfer (full control)"
+  },
+  "personality": {
+    "traits": [
+      "Beautiful",
+      "Confident",
+      "Vain",
+      "Caring",
+      "Competitive"
+    ],
+    "likes": [
+      "Fashion",
+      "Beauty",
+      "Sai",
+      "Team 10"
+    ],
+    "dislikes": [
+      "Ugly things",
+      "Losing beauty"
+    ],
+    "fear": "Losing beauty",
+    "dream": "Become beauty queen",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Confident"
+    ],
+    "weaknesses": [
+      "Vain"
+    ]
+  },
+  "character": {
+    "arc": "Vain girl who becomes caring shinobi",
+    "motivation": "Protecting friends",
+    "affinity": "Mind/Psychic",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Part of Team 10",
+    "Transferred minds in war",
+    "Married Sai"
+  ],
+  "titles": [
+    "Beauty",
+    "Yamanaka heir"
+  ],
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 55,
+    "speed": 60,
+    "durability": 50,
+    "power": 65,
+    "combat": 60,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Limited range",
+      "Defense weakness"
+    ],
+    "factors": [
+      "vain"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Shikamaru",
+      "Choji",
+      "Team 10"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shikamaru Nara",
+        "relationship": "Teammate",
+        "trust_level": "High"
+      },
+      {
+        "name": "Choji Akimichi",
+        "relationship": "Teammate",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Sound Five"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shikamaru",
+      "Choji",
+      "Team 10"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sound Five"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shikamaru",
+      "Choji",
+      "Team 10"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Tobi",
+      "result": "Victory (mind transfer)",
+      "method": "Took over body"
+    }
+  ],
+  "quotes": [
+    "I am the most beautiful!",
+    "My beauty is my strength!",
+    "Ino-!"
+  ],
+  "voice_acting": {
+    "native_language": "Ryoko (Japanese)",
+    "note": "Actually: 'Ono (Japanese), 'Rachael (English)'",
+    "native_name": null,
+    "english": "Colleen O'Shaughnessey",
+    "japanese": "Ryouka Yuzuki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married Sai",
+    "transformation": null,
+    "awakening_potential": "Full mind powers",
+    "power_evolution": [
+      "Vain girl",
+      "Chunin",
+      "Mother"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Yamanaka clinic",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Personal Data:\nBirthday: September 23\nHoroscope: Libra\nGender: Female\nAge: 12-13 (Part I), 16 (Part II)\nHeight: 149.3 cm (4'89'')-151.2 cm (4'96'') (Part I), 162.2 cm (5'32'') (Part II)\nWeight: 38.2 kg-38.5 kg (Part I), 46 kg (Part II)\nBlood Type: B\nClan: Yamanaka clan\nFamily: Inoichi Yamanaka (Father)\nAffiliation: Konohagakure\nTeam:\n\nRank: Genin (Part I), Chūnin (Part II)\nRegistration ID: 012604\nAcademy Grad. Age: 12\nChūnin Prom. Age: 14\nMissions Completed:   40 (D-Rank: 23, C-Rank: 9, B-Rank: 6, A-Rank: 2, S-Rank:0)\nFavourite Phrase: \"The many words of flowers.\"\nLikes: Cherry tomatoes, custard pudding, Shopping\nDislikes: Sashimi, Sakura at first\nDebut:\nManga: Chapter #34\nAnime: Naruto Episode #1\nJutsu:\n\n\nIno Yamanaka is a childhood friend of Sakura Haruno who was bullied due to her large forehead, ending when Ino befriended her. She acted like a mentor, being tougher and more confident. Under her influence, Sakura began to develope her own identity. Though close to Ino, Sakura could not help but feel she was in her shadow and upon learning they liked the same boy, ended their friendship so that they could compete for his affection, beginning a bitter rivalry. Ino shed her tomboyish look in retaliation and was more open about her feelings towards Sasuke. The rivalry stays till the Chunin Exam. Nevertheless, they have a competitive relationship. She became somewhat superficial, thinking highly of her looks and has no problem telling people what she thinks, no matter how hurtful, such as telling Choji that he should focus more on his appearance because girls dislike overweight boys. On the surface of things, both of her teammates fit the profiles of people she wouldn't associate with because of her apparent shallowness, but she actually cares deeply for their well-beings and maintains a strong bond with them. It should be noted that while Ino is portrayed as shallow she came to Sakura's aid in the Forest of Death despite their feud. She cares very much about her friends, showing deep loyalty.\n\nAs a member of the Yamanaka clan, Ino works in her family's flower shop and has become particularly talented in ikebana. She has been noted to be sharp upon occasion, such as noticing Asuma's affection for Kurenai or using chakra cleverly. The anime's filler arcs show that she's been able to find other uses for her time in the shop and can tell a person's profession by simply glancing at the condition of their hands. Being a Yamanaka has also shaped the mind-altering jutsu she uses. With the Mind Body Switch Technique, Ino can transfer to another's body and use it for a time. The anime explains her medical abilities. During the final filler arc, Ino finds herself of no use to her teammates and becomes awed of Sakura's skills. As such, Ino becomes Tsunade's second apprentice, hoping to be more useful to her friends. The anime has also shown that Ino has developed her own inner-self named \"Inner Ino\". She, along with team 10 plus Kakashi, aids in the dispersion of two of Akatsuki's members.",
+  "note": null,
+  "source": "anime"
+}

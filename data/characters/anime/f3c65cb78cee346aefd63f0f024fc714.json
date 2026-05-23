@@ -1,0 +1,324 @@
+{
+  "id": "f3c65cb78cee346aefd63f0f024fc714",
+  "name": "Till",
+  "native_name": "",
+  "full_name": "Till",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Limitation"
+    ]
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Discovered and retrieved from the river"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Emmett Till (son)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Emmett Till (son)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Emmett Till (son)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Emmett Till"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Unknown",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Emmett Louis Till (July 25, 1941 – August 28, 1955) was an African-American boy who, at 14 years old, was abducted and lynched in Mississippi in 1955 after being accused of offending a white woman, Carolyn Bryant, in her family's grocery store. The brutality of his murder and the acquittal of his killers drew attention to the long history of violent persecution of African Americans in the United States. Till posthumously became an icon of the civil rights movement.\nTill was born and raised in Chicago, Illinois. During summer vacation in August 1955, he was visiting relatives near Money, Mississippi, in the Mississippi Delta region. Till spoke to 21-year-old Carolyn Bryant, the white, married proprietor of a local grocery store. Although what happened at the store is a matter of dispute, Till was accused of flirting with, touching, or whistling at Bryant. Till's interaction with Bryant, perhaps unwittingly, violated the unwritten code of behavior for a black male interacting with a white female in the Jim Crow–era South. Several nights after the encounter, Bryant's husband Roy and his half-brother J. W. Milam went to Till's great-uncle's house armed, and abducted Till, age 14. They beat and mutilated him before shooting him in the head and sinking his body in the Tallahatchie River. Three days later, Till's mutilated and bloated body was discovered and retrieved from the river.\nTill's body was returned to Chicago, where his mother insisted on a public funeral service with an open casket, which was held at Roberts Temple Church of God in Christ. It was later said that \"The open-coffin funeral held by Mamie Till Bradley exposed the world to more than her son Emmett Till's bloated, mutilated body. Her decision focused attention on not only American racism and the barbarism of lynching but also the limitations and vulnerabilities of American democracy.\" Tens of thousands attended his funeral or viewed his open casket, and images of Till's mutilated body were published in black-oriented magazines and newspapers, rallying black support and white sympathy across the United States. Intense scrutiny was brought to bear on the lack of black civil rights in Mississippi, with newspapers around the U.S. critical of the state. Although local newspapers and law enforcement officials initially decried the violence against Till and called for justice, they responded to national criticism by defending Mississippians, ultimately giving support to the killers.\nIn September 1955, an all-white jury acquitted Bryant and Milam of Till's murder. Protected against double jeopardy, the two men publicly admitted in a 1956 interview with Look magazine that they had tortured and murdered Till, selling the story for $4,000 (equivalent to $47,000 in 2025). Till's murder was seen as a catalyst for the next phase of the civil rights movement. In December 1955, the Montgomery bus boycott began in Alabama and lasted more than a year, resulting eventually in a U.S. Supreme Court ruling that segregated buses were unconstitutional.\nAccording to historians, events surrounding Till's life and death continue to resonate. An Emmett Till Memorial Commission was established in  2006 by Tallahatchie County residents, and the county courthouse in Sumner was restored and includes the Emmett Till Interpretive Center. Fifty-one sites in the Mississippi Delta are memorialized as associated with Till. The Emmett Till Antilynching Act, an American law making lynching a federal hate crime, was signed into law on March 29, 2022, by President Joe Biden.",
+  "note": null,
+  "source": "anime"
+}

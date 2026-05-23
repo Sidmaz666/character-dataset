@@ -1,0 +1,325 @@
+{
+  "id": "0082f45e7825644e5b0c7c225139f11b",
+  "name": "Doctor Doom",
+  "native_name": null,
+  "full_name": "Victor von Doom",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 201,
+    "weight_kg": 187,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 46.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Haasenstadt, Latveria",
+    "current_location": null,
+    "base_of_operations": "Castle Doom, Doomstadt, Latveria",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Monarch",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Future Foundation; Formerly Cabal",
+      "Knights of the Atomic Table",
+      "Acts of Vengeance Prime Movers",
+      "partner of Namor",
+      "employer of the Terrible Trio"
+    ],
+    "previous": [],
+    "relatives": [
+      "Werner von Doom (father",
+      "deceased)",
+      "Cynthia von Doom (mother",
+      "deceased); Kang the Conqueror",
+      "his counterparts"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Fantastic Four #5 (July 1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Armor",
+      "Suit",
+      "Mask",
+      "Cloak"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Intelligent"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Slow speed",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Slow speed"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Evil",
+    "alignment": "Evil"
+  },
+  "achievements": [
+    "The Master"
+  ],
+  "titles": [
+    "The Master",
+    "Invincible Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 32,
+    "speed": 20,
+    "durability": 100,
+    "power": 100,
+    "combat": 84,
+    "total": 436
+  },
+  "weaknesses": {
+    "list": [
+      "Slow speed"
+    ],
+    "factors": [
+      "slow speed"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Future Foundation; Formerly Cabal",
+      "Knights of the Atomic Table",
+      "Acts of Vengeance Prime Movers"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Future Foundation; Formerly Cabal",
+      "Knights of the Atomic Table",
+      "Acts of Vengeance Prime Movers"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Future Foundation; Formerly Cabal",
+      "Knights of the Atomic Table",
+      "Acts of Vengeance Prime Movers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Castle Doom, Doomstadt, Latveria",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Doctor Doom is a supervillain appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in The Fantastic Four #5 (1962), and has since endured as the archenemy of the superhero team the Fantastic Four.\nVictor von Doom is the monarch of the fictional eastern European country of Latveria who uses his mastery of both science and sorcery in pursuit of his goals to bring order to humanity through world domination, and prove his intellectual superiority over Mister Fantastic—his old college rival and the leader of the Fantastic Four. Doom blames Mister Fantastic for his disfigurement, and wears a magically-forged suit of armor with a metal mask and green hooded cloak to conceal his facial scars. Regarded as one of the smartest characters and greatest threats in the Marvel Universe, Doom has stolen the abilities of cosmic beings such as the Silver Surfer and the Beyonder in his lust for power, although his pride and arrogance frequently lead to the failures of his schemes of conquest. Despite this, Doom's diplomatic immunity as ruler of Latveria prevents him from being charged for his crimes. While his primary obsession is the Fantastic Four, Doom has also fought other heroes, including Spider-Man, Iron Man, Doctor Strange, Black Panther, the X-Men, and the Avengers.\nThe character has been listed as one of Marvel's most notable villains and among the greatest comic book villains ever created. Doom's likeness has been featured on merchandise such as clothing and collectible items, and he has inspired real-world elements (such as rapper Daniel Dumile's stage persona and theme park attractions) and been adapted in various media incarnations, including films, television series, and video games. Joseph Culp, Julian McMahon, Toby Kebbell, and Robert Downey Jr. have portrayed the character in live-action.",
+  "note": null,
+  "source": "marvel"
+}

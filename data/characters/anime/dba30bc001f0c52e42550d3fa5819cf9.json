@@ -1,0 +1,412 @@
+{
+  "id": "dba30bc001f0c52e42550d3fa5819cf9",
+  "name": "Flamme",
+  "native_name": "フランメ",
+  "full_name": "Flamme",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Deceased (lived over 1000 years ago)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Great Mage appearance",
+      "Known for beauty"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Deceased",
+    "current_location": "Deceased",
+    "base_of_operations": "Imperial Empire",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Great Mage",
+    "secondary": "Founder of Human Magic, Teacher",
+    "rank_title": "The Great Mage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Deceased"
+    ],
+    "previous": [
+      "Apprentice of Serie",
+      "Teacher of Frieren",
+      "Imperial Empire"
+    ],
+    "relatives": [
+      "Parents (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren",
+    "manga": "Sousou no Frieren",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Immense Magical Power",
+      "native_name": null,
+      "description": "Extraordinary magical talent considered among the greatest in history. One of Serie's former apprentices.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Human lifespan"
+    },
+    {
+      "name": "Demon Slayer",
+      "native_name": null,
+      "description": "Powerful demon slayer who taught Frieren combat magic and the skills needed to defeat demons.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Human lifespan"
+    },
+    {
+      "name": "Magic Education",
+      "native_name": null,
+      "description": "Taught Frieren combat magic and helped establish the Imperial Mage division, making magic accessible to all of humanity.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited (legacy)",
+      "limit": "Legacy continues through students"
+    },
+    {
+      "name": "Flower Magic",
+      "native_name": null,
+      "description": "Her cherished spell since childhood was an enchantment to create a field of flowers - a simple, beautiful magic that represented her pure love for magic.",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 40,
+      "range": "Medium",
+      "limit": "Not combat applicable"
+    }
+  ],
+  "signature_moves": [
+    "Demon Slaying Magic",
+    "Imperial Magic Foundation"
+  ],
+  "ultimate_move": "Great Mage's Full Power",
+  "trump_card": "Founding Human Magic",
+  "power_attributes": {
+    "power_type": "Mana/Magic",
+    "power_source": "Natural magical talent, Serie's training",
+    "combat_style": [
+      "Combat Magic",
+      "Demon Slaying",
+      "Magic Education"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Magical artifacts"
+    ],
+    "trump_card": "Founding Human Magic",
+    "ultimate_move": "Great Mage's Full Power"
+  },
+  "personality": {
+    "traits": [
+      "Loving",
+      "Visionary",
+      "Compassionate",
+      "Passionate",
+      "Wise"
+    ],
+    "likes": [
+      "Magic",
+      "Flowers",
+      "Teaching",
+      "Beauty"
+    ],
+    "dislikes": [
+      "Demonic techniques label",
+      "Magic being feared"
+    ],
+    "fear": "Human lifespan",
+    "dream": "To see an era where anyone can use magic",
+    "personality_type": "INFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From a child inspired by a simple flower spell to the founder of humanity's magic, Flamme's vision transformed human society and continues to influence the world a thousand years later.",
+    "motivation": "Making magic accessible and beautiful for all",
+    "affinity": "Mana",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Founder of Human Magic",
+    "Mentored Frieren",
+    "Established Imperial Mage division",
+    "Saved Frieren from elf village massacre",
+    "Made magic acceptable in human society"
+  ],
+  "titles": [
+    "The Great Mage Flamme",
+    "Founder of Human Magic",
+    "Humanity's Magic Pioneer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 40,
+    "speed": 45,
+    "durability": 50,
+    "power": 95,
+    "combat": 85,
+    "total": 410
+  },
+  "weaknesses": {
+    "list": [
+      "Human lifespan",
+      "Cannot defeat Demon King alone"
+    ],
+    "factors": [
+      "Human mortality",
+      "Limited time to teach"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Demon King",
+    "allies": [
+      "Frieren",
+      "Serie",
+      "Imperial Empire"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Frieren",
+        "relationship": "Apprentice/Student",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Serie",
+        "relationship": "Mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Demon King",
+      "Demons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Demon King",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Serie",
+    "rival": null,
+    "mentor": "Serie",
+    "student": "Frieren",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Serie",
+      "Imperial Empire"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demon King"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Frieren"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Serie",
+      "Imperial Empire"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Serie"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Demons",
+      "result": "Victory",
+      "method": "Demon slaying magic"
+    },
+    {
+      "opponent": "Demonic Techniques Label",
+      "result": "Victory",
+      "method": "Convinced Emperor to accept magic"
+    }
+  ],
+  "quotes": [
+    "Magic should be beautiful, not just powerful.",
+    "My dream was for anyone to be able to use magic."
+  ],
+  "voice_acting": {
+    "native_language": "Not specified",
+    "note": "Historical figure, appears in flashbacks",
+    "native_name": null,
+    "english": "Lydia Mackay",
+    "japanese": "Atsuko Tanaka"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died of old age, legacy continues through Frieren and human magic",
+    "transformation": null,
+    "awakening_potential": "Already achieved legendary status",
+    "power_evolution": [
+      "Young Mage",
+      "Great Mage",
+      "Legacy"
+    ],
+    "role_in_story": "Historical (Mentor)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Imperial Empire",
+    "story_importance": "Historical",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Frieren (Japanese: フリーレン, Hepburn: Furīren) is the titular protagonist of the Japanese manga series Frieren: Beyond Journey's End, created by Kanehito Yamada and illustrated by Tsukasa Abe. Frieren is a former member of a party of adventurers led by the hero Himmel, who defeated the Demon King and restored harmony to the world after a ten-year quest. Reuniting with her former party fifty years later, Frieren discovers that her companions have distinctly aged, and Himmel dies of old age after one last adventure to see a meteor shower. During the funeral, Frieren expressed guilt for not attempting to learn more about him. Frieren then pays a visit to her other former comrades, and in the process takes on a human apprentice named Fern. She also receives an invitation to travel to the rumored resting place of souls in the far north, where she aims to see Himmel again, bid the hero a fitting farewell, and express her feelings. To fulfill those requests, Frieren embarks on a journey together with Fern while still pursuing her passion for learning magic.\nWhile initially conceptualized as a comical fighter, Yamada scrapped multiple ideas she had for Frieren until deciding to make her an elf who grows in the story while remembering Himmel. In the anime adaptation, she is voiced by Atsumi Tanezaki in Japanese and Mallorie Rodak in English. Critical response to Frieren's character was mostly positive, due to how the series focuses on Frieren's view of life and how she aims to become a better person. The further exploration of her dark past was also praised for how it changed people's views of her.",
+  "note": null,
+  "source": "anime"
+}

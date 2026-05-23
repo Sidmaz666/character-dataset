@@ -1,0 +1,403 @@
+{
+  "id": "78517464b0e2dc3e7581eca45d993869",
+  "name": "Tom Paris",
+  "native_name": null,
+  "full_name": "Thomas Eugene Paris",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Paris",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "age": "28 when on Voyager",
+    "birthday": "2349",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 23.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Cocky smile",
+      "Athletic build",
+      "Former troublemaker face"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Helmsman",
+    "secondary": "Former Maquis",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Maquis"
+    ],
+    "relatives": [
+      "Admiral Owen Paris (father)",
+      "Various Paris family"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Pilot Excellence",
+      "native_name": null,
+      "description": "Excellent pilot, especially in hazardous conditions",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Requires functional ship"
+    },
+    {
+      "name": "Con Artist Skills",
+      "native_name": null,
+      "description": "Former con man, good at deception",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Not always ethical"
+    },
+    {
+      "name": "Medical Knowledge",
+      "native_name": null,
+      "description": "Field medic training",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Short",
+      "limit": "Limited to field medicine"
+    }
+  ],
+  "signature_moves": [
+    "Precision Flying",
+    "Con Games",
+    "Charm"
+  ],
+  "ultimate_move": "Pavel Chekov Impersonation (in Holodeck)",
+  "trump_card": "Pilot Intuition",
+  "power_attributes": {
+    "power_type": "Pilot",
+    "power_source": "Training/Instinct",
+    "combat_style": [
+      "Starfleet Combat",
+      "Con Games"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Flight Controls"
+    ],
+    "trump_card": "Pilot Intuition",
+    "ultimate_move": "Pavel Chekov Impersonation (in Holodeck)"
+  },
+  "personality": {
+    "traits": [
+      "Cocky",
+      "Charming",
+      "Rebellious",
+      "Loyal When Committed",
+      "Caring"
+    ],
+    "likes": [
+      "Flying",
+      "Women",
+      "Holodeck Adventures",
+      "B'Elanna"
+    ],
+    "dislikes": [
+      "His Father's Expectations",
+      "Bureaucracy",
+      "Being Confined"
+    ],
+    "fear": "Disappointing His Father",
+    "dream": "Being His Own Man",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From disgraced pilot to hero who found redemption and love",
+    "motivation": "Proving himself and belonging",
+    "affinity": "Flight",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Saved Voyager with piloting skills",
+    "Married B'Elanna Torres",
+    "Became respected officer",
+    "Raised daughter Miral",
+    "Reconciled with father"
+  ],
+  "titles": [
+    "Lieutenant Paris",
+    "Helmsman",
+    "The Former Maquis"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 72,
+    "speed": 85,
+    "durability": 70,
+    "power": 68,
+    "combat": 70,
+    "total": 443
+  },
+  "weaknesses": {
+    "list": [
+      "Disgraced Past",
+      "Rebellious Nature",
+      "Father Issues"
+    ],
+    "factors": [
+      "Was a con man",
+      "Made mistakes at Starfleet Academy"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None significant",
+    "allies": [
+      "Kathryn Janeway",
+      "B'Elanna Torres",
+      "Harry Kim"
+    ],
+    "allies_detailed": [
+      {
+        "name": "B'Elanna Torres",
+        "relationship": "Wife and best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Harry Kim",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Cardassians (historical)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "B'Elanna Torres",
+    "best_friend": "Harry Kim",
+    "rival": "None",
+    "mentor": "Kathryn Janeway",
+    "student": "Various ensigns",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kathryn Janeway",
+      "B'Elanna Torres",
+      "Harry Kim"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None significant",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various ensigns"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kathryn Janeway",
+      "B'Elanna Torres",
+      "Harry Kim"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kathryn Janeway"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Piloting and con skills"
+    }
+  ],
+  "quotes": [
+    "I'm not a bad guy, I just made some bad choices.",
+    "Sometimes you have to break the rules to do the right thing.",
+    "Flying isn't like it used to be."
+  ],
+  "voice_acting": {
+    "native_language": "Robert Duncan McNeill",
+    "english": "Robert Duncan McNeill",
+    "note": "Also directed multiple Voyager episodes",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Married, had family, continued Starfleet",
+    "transformation": "Found redemption and purpose",
+    "awakening_potential": "Achieved family and career",
+    "power_evolution": [
+      "Cadet",
+      "Disgraced Officer",
+      "Maquis",
+      "Helmsman",
+      "Father"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Voyager Bridge",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Lieutenant Thomas Eugene \"Tom\" Paris is a fictional character in the American science fiction television series Star Trek: Voyager and is portrayed by Robert Duncan McNeill. Paris is the chief helmsman, as well as a temporary auxiliary medic, of the USS Voyager, a Starfleet ship that was stranded in the Delta Quadrant by an alien entity known as the Caretaker.",
+  "note": null,
+  "source": "star_trek"
+}

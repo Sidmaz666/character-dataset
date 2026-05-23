@@ -1,0 +1,392 @@
+{
+  "id": "921c458f89d88cdd7409a0b2ba3a1c33",
+  "name": "Luke Cage",
+  "native_name": "Carl Lucas",
+  "full_name": "Carl Lucas",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human altered",
+    "bloodline": null,
+    "height_cm": 196,
+    "weight_kg": 136,
+    "age": "Unknown",
+    "birthday": "February 21",
+    "zodiac": "Pisces",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 35.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark brown - unbreakable",
+    "notable_features": "Bulletproof skin, gold teeth",
+    "skin": "Dark brown - unbreakable",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York",
+    "current_location": "New York",
+    "base_of_operations": "Harlem",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hero for Hire",
+    "secondary": "Detective",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Defenders",
+      "New Avengers"
+    ],
+    "previous": [
+      "Thunderbolts",
+      "Power Man"
+    ],
+    "relatives": [
+      "Jessica Jones (wife)",
+      "Danielle (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Luke Cage #1 (June 1972)",
+    "comics": "Luke Cage, Hero for Hire #1",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Unbreakable Skin",
+      "native_name": null,
+      "description": "Steel-like skin - immune to conventional weapons",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Not truly indestructible"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Can lift massive weights - approximately 50 tons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Can withstand extreme damage without injury",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Accelerated Healing",
+      "native_name": null,
+      "description": "Heals 3x faster than normal humans",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": "Limited regeneration"
+    }
+  ],
+  "signature_moves": [
+    "Superpowered punch",
+    "Bulletproof grab"
+  ],
+  "ultimate_move": "Heavenly force",
+  "trump_card": "Full power burst",
+  "power_attributes": {
+    "power_type": "Gamma/electro-biochemical",
+    "power_source": "Experiment",
+    "combat_style": [
+      "Raw strength",
+      "Street fighting"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Unbreakable Skin"
+    ],
+    "trump_card": "Full power burst",
+    "ultimate_move": "Heavenly force"
+  },
+  "personality": {
+    "traits": [
+      "Protective",
+      "Loyal",
+      "Honorable",
+      "Stubborn"
+    ],
+    "likes": [
+      "Helping others",
+      "Family"
+    ],
+    "dislikes": [
+      "Criminals",
+      "Injustice"
+    ],
+    "fear": "Losing family",
+    "dream": "Protecting the innocent",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Stubborn"
+    ]
+  },
+  "character": {
+    "arc": "Former convict turned hero - uses powers to help others",
+    "motivation": "Making up for past",
+    "affinity": "Defensive",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Hero for Hire",
+    "Member of New Avengers",
+    "Became mayor of New York"
+  ],
+  "titles": [
+    "Power Man",
+    "Hero for Hire",
+    "Superhero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 85,
+    "speed": 55,
+    "durability": 90,
+    "power": 70,
+    "combat": 75,
+    "total": 445
+  },
+  "weaknesses": {
+    "list": [
+      "Not truly indestructible",
+      "Vulnerable to magical attacks",
+      "Cannot fly"
+    ],
+    "factors": [
+      "Adamantium",
+      "Magic"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Juggernaut",
+    "allies": [
+      "Iron Fist",
+      "Jessica Jones",
+      "Daredevil"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jessica Jones",
+        "relationship": "Wife",
+        "trust_level": "Extreme"
+      },
+      {
+        "name": "Iron Fist",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Power Man",
+      "Absorbing Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Jessica Jones",
+    "best_friend": "Iron Fist",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Iron Fist",
+      "Jessica Jones",
+      "Daredevil"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Juggernaut"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Iron Fist",
+      "Jessica Jones",
+      "Daredevil"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Juggernaut",
+      "result": "Draw",
+      "method": "Held his own"
+    }
+  ],
+  "quotes": [
+    "That's the hero thing",
+    "You can't break what is unbreakable"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Mike Colter (TV)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero",
+    "transformation": "Experiment in prison",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "Hero for Hire",
+      "New Avenger"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Harlem",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Lucas Cage, born Carl Lucas and also known as Power Man, is a superhero appearing in American comic books published by Marvel Comics. Created by Archie Goodwin, George Tuska, Roy Thomas, and John Romita Sr. in 1972, he was the first African-American superhero by Marvel Comics to be the main character in his own series. Stories featuring Luke Cage often relate to issues of race and class. His origin invokes criticism of police brutality and the prison system in the United States, and his 1970s stories focus on his efforts to support himself as a businessman. His creators were initially inspired by Blaxploitation cinema and subsequently by the Black Power movement. The character was intensely masculine and sexualized in his 20th century appearances, but these aspects were tempered as Cage's focus shifted to his life as a husband and father.",
+  "note": null,
+  "source": "marvel"
+}

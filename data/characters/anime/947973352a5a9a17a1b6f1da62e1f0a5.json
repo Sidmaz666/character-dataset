@@ -1,0 +1,409 @@
+{
+  "id": "947973352a5a9a17a1b6f1da62e1f0a5",
+  "name": "Shigeo Kageyama",
+  "native_name": "影山 茂夫",
+  "full_name": "Shigeo Kageyama",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Esper",
+    "bloodline": "Kageyama Family",
+    "height_cm": 165,
+    "weight_kg": 55,
+    "age": "14",
+    "birthday": "October 14",
+    "zodiac": "Libra",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": "Japanese"
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Bowl cut",
+      "Plain expression",
+      "School uniform",
+      "Glowing eyes when emotional"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Spirits and Such Consultation",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Middle School Student",
+    "secondary": "Exorcist Assistant",
+    "rank_title": "Mob",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Body Improvement Club",
+      "Spirits and Such"
+    ],
+    "previous": [],
+    "relatives": [
+      "Parents",
+      "Ritsu (brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Mob Psycho 100 Episode 1",
+    "manga": "Mob Psycho 100 Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Psychic Powers",
+      "native_name": "超能力",
+      "description": "Immense psychic abilities. Can move objects, exorcise spirits, destroy buildings.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Area",
+      "limit": "Emotional state"
+    },
+    {
+      "name": "100% Mode",
+      "native_name": "100% モード",
+      "description": "When emotions reach 100%, unleashes full power. Devastating destruction.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "City-wide",
+      "limit": "Emotional buildup"
+    },
+    {
+      "name": "Exorcism",
+      "native_name": "除霊",
+      "description": "Can exorcise evil spirits and curses. Highly skilled.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "Spirit resistance"
+    },
+    {
+      "name": "Emotional Suppression",
+      "native_name": "感情抑制",
+      "description": "Suppresses emotions to control power. Rarely loses control.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Emotional buildup"
+    }
+  ],
+  "signature_moves": [
+    "Psychic blast",
+    "100% mode",
+    "Exorcism"
+  ],
+  "ultimate_move": "???% mode",
+  "trump_card": "Unlimited psychic power",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Espers",
+    "combat_style": [
+      "Psychic",
+      "Exorcism"
+    ],
+    "weapon": "None",
+    "equipment": [
+      "Focus crystal"
+    ],
+    "trump_card": "Unlimited psychic power",
+    "ultimate_move": "???% mode"
+  },
+  "personality": {
+    "traits": [
+      "Reserved",
+      "Kind",
+      "Emotionless",
+      "Loyal",
+      "Humble",
+      "Conflicted"
+    ],
+    "likes": [
+      "Reigen",
+      "Body Improvement Club",
+      "Simple life",
+      "Friends"
+    ],
+    "dislikes": [
+      "Being special",
+      "Arrogance",
+      "Evil spirits",
+      "Conflict"
+    ],
+    "fear": "Losing control",
+    "dream": "Normal life, improve body",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Mob is the powerful esper who suppresses emotions. Works for Reigen. Joins Body Improvement Club. Learns that power isn't everything.",
+    "motivation": "Live normal life, improve self",
+    "affinity": "Green/Psychic",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Defeated Claw",
+    "Mastered 100%",
+    "Body Improvement Club member"
+  ],
+  "titles": [
+    "Mob",
+    "Esper",
+    "100%"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Student"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 60,
+    "speed": 80,
+    "durability": 70,
+    "power": 100,
+    "combat": 75,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional suppression",
+      "Naive",
+      "Too humble"
+    ],
+    "factors": [
+      "Ritsu",
+      "Reigen"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Claw organization",
+    "allies": [
+      "Reigen",
+      "Ritsu",
+      "Dimple",
+      "Body Improvement Club"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Reigen Arataka",
+        "relationship": "Mentor/boss",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Claw",
+      "Evil spirits"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Tsubomi",
+    "best_friend": "Ritsu",
+    "rival": "Suzuki",
+    "mentor": "Reigen",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Reigen",
+      "Ritsu",
+      "Dimple",
+      "Body Improvement Club"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Claw organization",
+      "Suzuki"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Suzuki"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Reigen",
+      "Ritsu",
+      "Dimple",
+      "Body Improvement Club"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Reigen"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Suzuki",
+      "result": "Victory",
+      "method": "100% mode"
+    },
+    {
+      "opponent": "Dimple",
+      "result": "Victory",
+      "method": "Exorcism"
+    }
+  ],
+  "quotes": [
+    "I'm not special.",
+    "It's not about being special.",
+    "I want to be normal."
+  ],
+  "voice_acting": {
+    "native_language": "Setsuo Ito (Japanese)",
+    "note": "Reserved, emotional when needed",
+    "native_name": null,
+    "english": "Kyle McCarley",
+    "japanese": "Setsuo Itou"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues growing",
+    "transformation": "100% mode",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Esper",
+      "Student",
+      "100%",
+      "???%"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Spirits and Such",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14\nBirthday: May 12\nZodiac: Taurus\n\nShigeo Kageyama, nicknamed \"Mob\" (モブ), is the protagonist of the Mob Psycho 100 series, as well as assistant and disciple of Arataka Reigen. He is the newest member of the Body Improvement Club.\n\nAs a child, Mob learned that his psychic power was linked to his emotions. Strong negative emotions can cause him to hurt others, something he strongly dislikes and avoids. Therefore, he generally tries to keep his emotions in check.\n\nHe is rather socially awkward. He is incapable of \"reading the atmosphere,\" which has lead to him having a lack of friends.\n\nMob is very compassionate. He is forgiving, kind and helpful. He tries to be kind to others in many instances.\n\nHe is morally opposed towards using psychic ability against other people.\n\nAnother principle of his is that psychic ability does not make him or others inherently better and that his psychic ability is not something that he requires in life. This belief leads to conflict.\n\n(Source: Mob Psycho 100 Wikia)",
+  "note": null,
+  "source": "anime"
+}

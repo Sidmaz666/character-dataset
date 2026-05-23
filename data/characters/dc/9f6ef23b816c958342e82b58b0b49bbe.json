@@ -1,0 +1,323 @@
+{
+  "id": "9f6ef23b816c958342e82b58b0b49bbe",
+  "name": "Aquaman",
+  "native_name": null,
+  "full_name": "Orin",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Atlantean",
+    "race": "Atlantean",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 146,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 42.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Atlantis",
+    "current_location": null,
+    "base_of_operations": "Atlantean Royal Palace; Poseidonis, Atlantis",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Protector of the Seas and Oceans, King of Poseidonis",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice League",
+      "Aquaman Family",
+      "Atlantean Royal Family; formerly Black Lantern Corps",
+      "Justice League International",
+      "Justice League Detroit"
+    ],
+    "previous": [
+      "Black Lantern Corps"
+    ],
+    "relatives": [
+      "Koryak (son)",
+      "Arthur Curry",
+      "Jr. (son)",
+      "A.J. (son)",
+      "Orm Marius (half-brother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "More Fun Comics #73 (November, 1941)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Atlantean with superhuman attributes",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Crown",
+      "Scepter"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Mysterious",
+      "Cunning"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [],
+    "fear": "Failing to protect others",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Protector of the Seas and Oceans, King of Poseidonis"
+  ],
+  "titles": [
+    "Dweller in the Depths",
+    "Swimmer",
+    "Waterbearer",
+    "Mental Man",
+    "Aquaboy"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 85,
+    "speed": 79,
+    "durability": 80,
+    "power": 100,
+    "combat": 80,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Justice League",
+      "Aquaman Family",
+      "Atlantean Royal Family; formerly Black Lantern Corps"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Justice League",
+      "Aquaman Family",
+      "Atlantean Royal Family; formerly Black Lantern Corps"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Justice League",
+      "Aquaman Family",
+      "Atlantean Royal Family; formerly Black Lantern Corps"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Atlantean Royal Palace; Poseidonis, Atlantis",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Aquaman is a superhero appearing in American comic books published by DC Comics. Created by Paul Norris and Mort Weisinger, the character debuted in More Fun Comics #73 (November 1941). Initially a backup feature in DC's anthology titles, Aquaman later starred in several volumes of a solo comic book series. During the late 1950s and 1960s superhero-revival period known as the Silver Age, he was a founding member of the Justice League. In the 1990s Modern Age, writers interpreted Aquaman's character more seriously, with storylines depicting the weight of his role as king of Atlantis.\nThe son of a human lighthouse keeper and the queen of Atlantis, Aquaman is the alias of Arthur Curry, who also goes by the Atlantean name Orin. Others to use the title of Aquaman include a short-lived human successor, Joseph Curry; his protégé Jackson Hyde; and the mysterious Adam Waterman, who was briefly active during World War II. Aquaman's comic books are filled with colorful undersea characters and a rich supporting cast, including his mentor Nuidis Vulko, his powerful wife Mera, and various sidekicks such as Aqualad, Aquagirl, and Dolphin. Aquaman stories tend to blend high fantasy and science fiction. His villains include his archenemy, Black Manta, and his half-brother, Ocean Master.\nAquaman's original 1960s animated appearances left a lasting impression, making him widely recognized in popular culture and one of the world's most recognized superheroes. Jokes about his wholesome, weak portrayal in Super Friends and perceived feeble powers and abilities have been staples of comedy programs and stand-up routines, leading DC writers several times to attempt to make Aquaman edgier or more powerful in the comic books. Modern comic book depictions have tried to reconcile these various aspects of his public perception, with many versions often casting Aquaman as serious and brooding, weighed down by his public reputation, his responsibilities as king, and the complex world of Atlantean politics.\nAquaman has been featured in several adaptations, first appearing in animated form in the 1967 The Superman/Aquaman Hour of Adventure and then in the related Super Friends program. Since then he has appeared in various animated productions, including prominent roles in the 2000s series Justice League and Justice League Unlimited and Batman: The Brave and the Bold, as well as several DC Universe Animated Original Movies. Alan Ritchson also portrayed Aquaman in the live-action television series Smallville, while Jason Momoa portrayed the character in the DC Extended Universe.",
+  "note": null,
+  "source": "dc"
+}

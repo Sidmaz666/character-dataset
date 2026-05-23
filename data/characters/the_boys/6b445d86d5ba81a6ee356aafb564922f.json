@@ -1,0 +1,377 @@
+{
+  "id": "6b445d86d5ba81a6ee356aafb564922f",
+  "name": "Black Noir",
+  "native_name": null,
+  "full_name": "Black Noir (I and II)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced (Supe)",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 90,
+    "age": "30s-40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": "American"
+  },
+  "appearance": {
+    "eye_color": "Hidden by mask",
+    "hair_color": "Hidden",
+    "skin_color": "Dark (mask covers face)",
+    "notable_features": [
+      "Silent body armor",
+      "Samurai sword"
+    ],
+    "skin": "Dark (mask covers face)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City",
+    "current_location": "New York City",
+    "base_of_operations": "Vought Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero/Assassin",
+    "secondary": "The Seven Enforcer",
+    "rank_title": "Team Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "The Seven"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "The Boys #1",
+    "comics": "Dynamite Entertainment 2006",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Enhanced Strength",
+      "native_name": null,
+      "description": "Super strength comparable to top supes",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Stealth",
+      "native_name": null,
+      "description": "Move silently and unseen",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Combat Mastery",
+      "native_name": null,
+      "description": "Expert in multiple martial arts",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and fly",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Unlimited",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Silent Strike",
+    "Sword Slash"
+  ],
+  "ultimate_move": "Full Assassin Mode",
+  "trump_card": "Samurai Execution",
+  "power_attributes": {
+    "power_type": "Enhanced Combat",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Martial arts",
+      "Sword fighting"
+    ],
+    "weapon": "Katana",
+    "equipment": [
+      "Body armor",
+      "Gas grenades"
+    ],
+    "trump_card": "Samurai Execution",
+    "ultimate_move": "Full Assassin Mode"
+  },
+  "personality": {
+    "traits": [
+      "Silent",
+      "Loyal",
+      "Deadly",
+      "Mysterious"
+    ],
+    "likes": [
+      "Completing missions",
+      "Silence"
+    ],
+    "dislikes": [
+      "Failure",
+      "Talking"
+    ],
+    "fear": "None shown",
+    "dream": "Serve Vought",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Mysterious assassin with hidden identity",
+    "motivation": "Completing missions",
+    "affinity": "Shadow",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Top assassin for Vought",
+    "The Seven member",
+    "Killed multiple targets"
+  ],
+  "titles": [
+    "Black Noir",
+    "The Silent One"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Wanted for murder"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 70,
+    "durability": 80,
+    "power": 60,
+    "combat": 90,
+    "total": 460
+  },
+  "weaknesses": {
+    "list": [
+      "Can be detected",
+      "Limited ranged",
+      "No true invulnerability"
+    ],
+    "factors": [
+      "Stealth failure"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Boys",
+    "allies": [
+      "The Seven",
+      "Homelander"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Homelander",
+        "relationship": "Team leader",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "The Boys",
+      "Various targets"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "The Seven",
+      "Homelander"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Boys"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "The Seven",
+      "Homelander"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Butcher team",
+      "result": "Victory",
+      "method": "Killed Grace Mallory's grandchildren"
+    }
+  ],
+  "quotes": [
+    "..."
+  ],
+  "voice_acting": {
+    "native_language": "John D. Hill (English)",
+    "english": "John D. Hill",
+    "note": "Main cast in TV series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased (season 4)",
+    "fate": "Killed by Homelander",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Original Noir",
+      "Replaced by actor"
+    ],
+    "role_in_story": "Supporting Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Vought Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "the_boys",
+  "about": "Black Noir is the name of three characters from the comic book series The Boys, created by Garth Ennis and Darick Robertson, and the television series and franchise of the same name, developed by Eric Kripke. In both the comic and television series, Noir is a member of the hedonistic and reckless Vought-American superhero group the Seven and is depicted as a \"silent ninja\" type parody of Batman, Snake Eyes and Deathstroke.",
+  "note": null,
+  "source": "the_boys"
+}

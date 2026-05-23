@@ -1,0 +1,431 @@
+{
+  "id": "ee21000a823efff09d0de8a15c76c56b",
+  "name": "Hanamichi Sakuragi",
+  "native_name": "桜木花道",
+  "full_name": "Hanamichi Sakuragi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 189,
+    "weight_kg": 83,
+    "age": "16",
+    "birthday": "June 1",
+    "zodiac": "Gemini",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 23.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Red",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Red hair",
+      "Tall stature",
+      "Athletic build",
+      "Intense expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Shohoku High School",
+    "base_of_operations": "Shohoku Basketball Team",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Basketball Player",
+    "rank_title": "Power Forward/Center",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Shohoku High School",
+      "Shohoku Basketball Team"
+    ],
+    "previous": [
+      "The Gentlemen (gang)"
+    ],
+    "relatives": [
+      "Father",
+      "Mother"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Slam Dunk Episode 1",
+    "manga": "Slam Dunk Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Rebounding",
+      "native_name": "リバウンド",
+      "description": "Exceptional rebounding ability due to height, athleticism, and instinct. Known as 'The Rebound King'.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Paint",
+      "limit": "Inexperience shows sometimes"
+    },
+    {
+      "name": "Athleticism",
+      "native_name": "身体能力",
+      "description": "Extraordinary physical abilities - speed, strength, jumping ability far above average.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Raw, untrained"
+    },
+    {
+      "name": "Mid-range Shot",
+      "native_name": "ミドルシュート",
+      "description": "Developed reliable mid-range jump shot through intense training (500 shots practice).",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Mid",
+      "limit": "Not three-point range"
+    },
+    {
+      "name": "Defense",
+      "native_name": "ディフェンス",
+      "description": "Strong one-on-one defense, can guard multiple positions.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Paint",
+      "limit": "Foul trouble sometimes"
+    }
+  ],
+  "signature_moves": [
+    "Rebound King",
+    "Mid-range shot",
+    "Slam dunk"
+  ],
+  "ultimate_move": "Game-winning shot",
+  "trump_card": "Unlimited potential",
+  "power_attributes": {
+    "power_type": "Athleticism",
+    "power_source": "Natural talent + training",
+    "combat_style": [
+      "Power forward play",
+      "Rebounding"
+    ],
+    "weapon": "Basketball",
+    "equipment": [
+      "Basketball shoes"
+    ],
+    "trump_card": "Unlimited potential",
+    "ultimate_move": "Game-winning shot"
+  },
+  "personality": {
+    "traits": [
+      "Hot-headed",
+      "Confident",
+      "Loyal",
+      "Determined",
+      "Comic relief",
+      "Proud"
+    ],
+    "likes": [
+      "Basketball",
+      "Haruko",
+      "Winning",
+      "Being called genius",
+      "Training"
+    ],
+    "dislikes": [
+      "Being called amateur",
+      "Losing",
+      "Rukawa",
+      "Foul trouble"
+    ],
+    "fear": "Letting team down",
+    "dream": "Become great at basketball, win Haruko's heart",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Sakuragi starts as a delinquent who joins basketball to impress Haruko. Through training and rivalry with Rukawa, he becomes a passionate player with incredible potential.",
+    "motivation": "Win Haruko's love, become the best",
+    "affinity": "Red/Passion",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Shohoku starting power forward",
+    "Rebound specialist",
+    "Defeated Ryonan",
+    "500 shots training",
+    "Inter-Hampionship participant"
+  ],
+  "titles": [
+    "Tensai (Genius)",
+    "Rebound King",
+    "Red Hair"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 85,
+    "speed": 80,
+    "durability": 85,
+    "power": 75,
+    "combat": 80,
+    "total": 465
+  },
+  "weaknesses": {
+    "list": [
+      "Inexperienced player",
+      "Foul trouble",
+      "Hot-headed",
+      "Basic skills lacking"
+    ],
+    "factors": [
+      "Emotional play",
+      "5 fouls = disqualification"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Kicchou Fukuda",
+    "allies": [
+      "Takenori Akagi",
+      "Kaede Rukawa",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Haruko"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kaede Rukawa",
+        "relationship": "Teammate/rival",
+        "trust_level": "High"
+      },
+      {
+        "name": "Takenori Akagi",
+        "relationship": "Captain/mentor",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Kiyota (Kainan)"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Haruko Akagi",
+    "best_friend": "Miyagi/Mitsui",
+    "rival": "Kaede Rukawa",
+    "mentor": "Takenori Akagi, Coach Anzai",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Takenori Akagi",
+      "Kaede Rukawa",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Haruko",
+      "Miyagi/Mitsui"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kicchou Fukuda",
+      "Kaede Rukawa"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kaede Rukawa"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Takenori Akagi",
+      "Kaede Rukawa",
+      "Ryota Miyagi",
+      "Hisashi Mitsui",
+      "Haruko",
+      "Miyagi/Mitsui"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Takenori Akagi, Coach Anzai"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kainan High",
+      "result": "Loss (nearly won)",
+      "method": "Rebounding, late rally"
+    },
+    {
+      "opponent": "Ryonan",
+      "result": "Victory",
+      "method": "Rebounding, mid-range shots"
+    }
+  ],
+  "quotes": [
+    "I'm a genius!",
+    "Basketball is life!",
+    "Leave it to me, the rebound king!",
+    "My left hand supports it... of course I'll protect it!"
+  ],
+  "voice_acting": {
+    "native_language": "Takeshi Kusao (Japanese)",
+    "note": "Energetic voice",
+    "native_name": null,
+    "english": "Scott Evans",
+    "japanese": "Takeshi Kusao"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues basketball journey",
+    "transformation": "From delinquent to basketball player",
+    "awakening_potential": "Unlimited - called 'once in a decade talent'",
+    "power_evolution": [
+      "Delinquent",
+      "Beginner",
+      "Starter",
+      "Rebound specialist"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Shohoku gymnasium",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Height: 189.2 cm\nWeight: 83 kg\nJersey Number: #10\nPosition: Power Forward\nBirthday: April 1\nHigh School: Shohoku \nShoe Brand: Jordan\nThe protagonist. At the beginning of the series, Sakuragi was a slacker, always trying to ask girls out but getting constantly rejected (the 50th rejection occurring at the start of the series). He then met Akagi Haruko, with whom he fell in love immediately. This passion led to him joining the Shohoku basketball team. However, as a complete beginner, he was not able to keep up with the rest of the team at first despite his physical attributes (great height, athleticism, stamina, speed and leaping ability). He regards himself as a genius though, with self-confidence that borders on arrogance. His most recognizable trait is his red hair, though he shaves his head as reparation for an error that led to the loss against Kainan.\n\nAt first, Sakuragi was known for his poor basketball skills as a beginner; in his first few official matches, he fouled out every game. However, his basketball skills advanced throughout the series. First he developed his basic skills, such as dribbling and layups. Then, trained by Akagi, he became a formidable rebounder; his rebounding became his claim to fame throughout the latter half of the series. He also is seen more than once defining the match for Shohoku in the last seconds, for instance, by dunking a ball that Akagi would have missed in the league round match with Ryonan. His jump shooting was then developed by Coach Anzai, who had him make 20,000 shots in a week. He hit a buzzer-beating jump shot to win the match against Sannoh. However, he also injured his back during the match against Sannoh, and underwent rehabilitation after Shohoku's subsequent loss to Aiwa Academy.\n\nIn spite of the setbacks he has had to face, Sakuragi displays a great deal of tenacity and determination that carry him through and help reciprocate for his other failings, both on and off the court. Although his love for Haruko and rivalry with Rukawa are the main driving forces motivating him to succeed in basketball, his injury during the Sannoh match makes him realize that he has actually come to love the game, leading him to give his all for his team and bring them victory. \n\n(Source: Hoopedia)",
+  "note": null,
+  "source": "anime"
+}

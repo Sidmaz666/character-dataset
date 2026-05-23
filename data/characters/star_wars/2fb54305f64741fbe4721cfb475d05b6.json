@@ -1,0 +1,402 @@
+{
+  "id": "2fb54305f64741fbe4721cfb475d05b6",
+  "name": "Din Djarin",
+  "native_name": null,
+  "full_name": "Din Djarin",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Mandalorian",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 80,
+    "age": "Born 19 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 24.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Tan",
+    "notable_features": [
+      "Beskar armor",
+      "Helmet",
+      "Jetpack"
+    ],
+    "skin": "Tan",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (aq，维)",
+    "current_location": "Mandalore",
+    "base_of_operations": "Razor Crest",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty hunter",
+    "secondary": "Mandalorian",
+    "rank_title": "Foundling",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Mandalorians"
+    ],
+    "previous": [
+      "Guild"
+    ],
+    "relatives": [
+      "Grogu (adopted son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Mandalorian (2019)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Mandalorian combat",
+      "native_name": null,
+      "description": "Mandalorian fighting style",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Jetpack",
+      "native_name": null,
+      "description": "Rocket propulsion",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Fuel"
+    },
+    {
+      "name": "Tracking",
+      "native_name": null,
+      "description": "Bounty hunting",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Blasters",
+      "native_name": null,
+      "description": "Expert marksman",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Whistling birds",
+    "Jetpack strike"
+  ],
+  "ultimate_move": "Darksaber",
+  "trump_card": "Beskar armor",
+  "power_attributes": {
+    "power_type": "Combat skill",
+    "power_source": "Mandalorian training",
+    "combat_style": [
+      "Mandalorian berserker"
+    ],
+    "weapon": "Amban rifle",
+    "equipment": [
+      "Jetpack",
+      "Whistling birds",
+      "Beskar armor"
+    ],
+    "trump_card": "Beskar armor",
+    "ultimate_move": "Darksaber"
+  },
+  "personality": {
+    "traits": [
+      "Silent",
+      "Honor-bound",
+      " Protective",
+      "Stoic"
+    ],
+    "likes": [
+      "Honor",
+      "His creed",
+      "Grogu"
+    ],
+    "dislikes": [
+      "Removing helmet",
+      "Disgrace"
+    ],
+    "fear": "Disappointing his creed",
+    "dream": "Return Grogu to his kind",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Bounty hunter to Mandalorian",
+    "motivation": "Honor and purpose",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Protected Grogu",
+    "Became Mandalorian",
+    "Unified Mandalore"
+  ],
+  "titles": [
+    "Mandalorian",
+    "The Buyer"
+  ],
+  "bounty": {
+    "amount": 50000,
+    "currency": "Credits",
+    "details": "Wanted by various"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 80,
+    "speed": 85,
+    "durability": 90,
+    "power": 50,
+    "combat": 85,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Creed",
+      "Honor-bound"
+    ],
+    "factors": [
+      "Cannot remove helmet"
+    ]
+  },
+  "relationships": {
+    "nemesis": " Moff Gideon",
+    "allies": [
+      "Grogu",
+      "Bo-Katan"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Grogu",
+        "relationship": "Adopted son",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      " Moff Gideon",
+      "Imperials"
+    ],
+    "enemies_detailed": [
+      {
+        "name": " Moff Gideon",
+        "relationship": "Enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Grogu",
+    "rival": "Boba Fett",
+    "mentor": "The Armorer",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Grogu",
+      "Bo-Katan"
+    ],
+    "colleague": null,
+    "enemy": [
+      " Moff Gideon",
+      "Boba Fett"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Boba Fett"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Grogu",
+      "Bo-Katan"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "The Armorer"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": " Moff Gideon",
+      "result": "Victory",
+      "method": "Darksaber"
+    },
+    {
+      "opponent": "Imperial remnants",
+      "result": "Victory",
+      "method": "Combat"
+    }
+  ],
+  "quotes": [
+    "I have spoken",
+    "This is the way"
+  ],
+  "voice_acting": {
+    "native_language": "Pedro Pascal",
+    "english": "Pedro Pascal",
+    "note": "Original actor",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Mandalorian leader",
+    "transformation": "Mandalorian",
+    "awakening_potential": "潜在的领导者",
+    "power_evolution": [
+      "Bounty hunter",
+      "Mandalorian",
+      "Leader"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Razor Crest"
+    ],
+    "vehicles": [
+      "Jetpack"
+    ],
+    "headquarters": "Mandalore",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Din Djarin, known as The Mandalorian, or Mando for short, is a character in the Star Wars franchise, who appears as the titular protagonist of the Disney+ television series The Mandalorian and also appears in its spin-off The Book of Boba Fett. Orphaned as a young child, The Mandalorian was adopted into the Mandalorian culture and trained as a warrior, later becoming a bounty hunter and taking the title of his people as a sobriquet. The character is rarely seen without his silver beskar helmet, which he is forbidden by creed to remove publicly.",
+  "note": null,
+  "source": "star_wars"
+}

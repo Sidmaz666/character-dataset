@@ -1,0 +1,380 @@
+{
+  "id": "c9888b4f06645ccd681404d335d5ab02",
+  "name": "Terrax",
+  "native_name": null,
+  "full_name": "Tyros",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Alien",
+    "race": "Birj native",
+    "bloodline": null,
+    "height_cm": 206,
+    "weight_kg": 180,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 42.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "None",
+    "skin_color": "Grey",
+    "notable_features": [
+      "Cosmic armor",
+      "Cosmic axe"
+    ],
+    "skin": "Grey",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Planet Birj, Lanlak",
+    "current_location": "Universe",
+    "base_of_operations": "Universe",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Former Herald of Galactus",
+    "secondary": "Conqueror",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [
+      "Galactus",
+      "Masters of Evil",
+      "Offenders"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Fantastic Four #211",
+    "comics": "Fantastic Four #211 (1979)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Earth Manipulation",
+      "native_name": null,
+      "description": "Control over rock, earth, and tectonic plates on planetary scale",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Power Cosmic",
+      "native_name": null,
+      "description": "Cosmic energy granting enhanced physical attributes",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Cosmic Axe",
+      "native_name": null,
+      "description": "Double-bladed cosmic axe as focus for Power Cosmic",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Force Field",
+      "native_name": null,
+      "description": "Can project impervious force shields",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Destructive Wave",
+      "native_name": null,
+      "description": "Can emanate waves of destructive force",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Earthquake",
+    "Cosmic Cleave"
+  ],
+  "ultimate_move": "Planetary Tectonic Slam",
+  "trump_card": "Full Power Cosmic Attack",
+  "power_attributes": {
+    "power_type": "Power Cosmic",
+    "power_source": "Galactus",
+    "combat_style": [
+      "Melee combat",
+      "Earth manipulation"
+    ],
+    "weapon": "Cosmic Axe",
+    "equipment": [
+      "Cosmic Armor"
+    ],
+    "trump_card": "Full Power Cosmic Attack",
+    "ultimate_move": "Planetary Tectonic Slam"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Ambitious",
+      "Rebellious"
+    ],
+    "likes": [
+      "Power",
+      "Conquest"
+    ],
+    "dislikes": [
+      "Being controlled"
+    ],
+    "fear": "Galactus",
+    "dream": "Universal conquest",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Earth Manipulation",
+      "Power Cosmic",
+      "Cosmic Axe",
+      "Force Field"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "Brutal dictator transformed into Galactus' most troublesome Herald",
+    "motivation": "Personal power",
+    "affinity": "Earth",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Herald of Galactus",
+    "Rebelled against Galactus multiple times",
+    "Member of Masters of Evil"
+  ],
+  "titles": [
+    "Terrax the Tamer",
+    "Tyros of Lanlak"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 90,
+    "speed": 75,
+    "durability": 85,
+    "power": 95,
+    "combat": 75,
+    "total": 490
+  },
+  "weaknesses": {
+    "list": [
+      "Power derived from Galactus",
+      "Can be stripped of power"
+    ],
+    "factors": [
+      "Without Power Cosmic, weaker"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Galactus",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Galactus",
+      "Fantastic Four"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Galactus",
+        "relationship": "Master",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Galactus",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Galactus"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Galactus"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Fantastic Four",
+      "result": "Inconclusive",
+      "method": "Battle"
+    }
+  ],
+  "quotes": [
+    "I am Terrax! The Tamer! And I shall conquer all!"
+  ],
+  "voice_acting": {
+    "native_language": "John Vernon (English)",
+    "english": "John Vernon",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Stranded on Earth after losing Power Cosmic",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Cosmic flight"
+    ],
+    "vehicles": [],
+    "headquarters": "Universe",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Firestar is a superhero appearing in media including American comic books published by Marvel Comics. Created by John Romita Sr., Rick Hoberg, and Dennis Marks, the character first appeared in 1981 on the NBC animated television series Spider-Man and His Amazing Friends. Firestar has the ability to generate and manipulate microwave radiation, allowing her to fly and create intense heat and flames. In the comics, she has acted as a solo hero and also as a member of the Hellions, New Warriors, Avengers, and X-Men.",
+  "note": null,
+  "source": "marvel"
+}

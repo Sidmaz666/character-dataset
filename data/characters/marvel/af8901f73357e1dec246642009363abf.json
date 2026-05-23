@@ -1,0 +1,356 @@
+{
+  "name": "Spider-Man Universe",
+  "native_name": null,
+  "full_name": "Miles Morales (Earth-90214)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "age": "Teen",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Dark Brown",
+    "notable_features": [
+      "Multiverse suit",
+      "Cosmic spider emblem"
+    ],
+    "skin": "Dark Brown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City (Earth-90214)",
+    "current_location": "New York City (Earth-90214)",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Superhero",
+    "rank_title": "Spider-Man Universe",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Verse"
+    ],
+    "previous": [],
+    "relatives": [
+      "Noah Kimmel",
+      "Cecilia Reyes"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Amazing Spider-Man #500",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spider Powers",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Melee"
+    },
+    {
+      "name": "Spider-Sense",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self"
+    },
+    {
+      "name": "Multiverse Connection",
+      "type": "Special",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Multiversal"
+    }
+  ],
+  "signature_moves": [
+    "Cosmic Web Strike",
+    "Multiverse Jump"
+  ],
+  "ultimate_move": "Multiverse Unity",
+  "trump_card": "Multiverse Connection",
+  "power_attributes": {
+    "power_type": "Spider Powers+Multiverse",
+    "power_source": "Spider Bite",
+    "combat_style": [
+      "Multiverse combat",
+      "Web-slinging"
+    ],
+    "weapon": "Web-shooters",
+    "equipment": [
+      "Spider-Suit",
+      "Gadgets"
+    ],
+    "trump_card": "Multiverse Connection",
+    "ultimate_move": "Multiverse Unity"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Determined",
+      "Heroic"
+    ],
+    "likes": [
+      "Multiverse",
+      "Parents"
+    ],
+    "dislikes": [
+      "Villains",
+      "Injustice"
+    ],
+    "fear": "Losing parents",
+    "dream": "Protect multiverse",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Miles from Earth-90214",
+    "motivation": "Protect multiverse",
+    "affinity": "Multiverse",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Spider-Verse member",
+    "Multiversal hero"
+  ],
+  "titles": [
+    "Spider-Man Universe",
+    "Miles Morales (Earth-90214)"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 78,
+    "speed": 85,
+    "durability": 75,
+    "power": 88,
+    "combat": 80,
+    "total": 506
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Multiverse limits"
+    ],
+    "factors": [
+      "Overuse of travel"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Multiversal threats",
+    "allies": [
+      "Spider-Verse"
+    ],
+    "enemies": [
+      "Multiversal threats"
+    ],
+    "love_interest": null,
+    "best_friend": "Spider-Verse Heroes",
+    "mentor": "Peter Parker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Verse",
+      "Spider-Verse Heroes"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Multiversal threats"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Verse",
+      "Spider-Verse Heroes"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Peter Parker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Multiversal threats",
+      "result": "Victory",
+      "method": "Multiverse travel"
+    }
+  ],
+  "quotes": [
+    "The multiverse has a Spider-Man now!"
+  ],
+  "voice_acting": {
+    "native_language": "Shameik Moore",
+    "english": "Shameik Moore",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Protecting multiverse",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Miles",
+      "Spider-Man Universe"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Multiverse travel"
+    ],
+    "vehicles": [
+      "Spider-Mobile"
+    ],
+    "headquarters": "Earth-90214",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "af8901f73357e1dec246642009363abf",
+  "publisher": "marvel",
+  "about": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books. Widely regarded as one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays.",
+  "note": null,
+  "source": "marvel"
+}

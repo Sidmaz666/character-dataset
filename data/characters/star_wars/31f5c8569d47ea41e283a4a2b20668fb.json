@@ -1,0 +1,399 @@
+{
+  "id": "31f5c8569d47ea41e283a4a2b20668fb",
+  "name": "Darth Tyranus",
+  "native_name": "Count Dooku",
+  "full_name": "Dooku",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": null,
+    "bloodline": "House Dooku",
+    "height_cm": 196,
+    "weight_kg": 86,
+    "age": "Born 102 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Curved lightsaber hilt",
+      "Aristocratic bearing"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Serenno",
+    "current_location": "Deceased",
+    "base_of_operations": "Serenno",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sith Lord",
+    "secondary": "Count of Serenno, Leader of Separatists",
+    "rank_title": "Darth Tyranus",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sith Order",
+      "Confederacy of Independent Systems"
+    ],
+    "previous": [
+      "Jedi Order"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Star Wars Episode II: Attack of the Clones (2002)",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Lightning",
+      "native_name": "Force Lightning",
+      "description": "Dark side technique to channel electrical discharge through the hands",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires dark side connection"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": "Force Telekinesis",
+      "description": "Move objects and Force grip opponents",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Makashi",
+      "native_name": "Form II Lightsaber Combat",
+      "description": "Precision fencing style, the most elegant form designed for dueling other lightsaber users",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Requires training"
+    },
+    {
+      "name": "Force Choke",
+      "native_name": "Force Choke",
+      "description": "Suffocate opponents with the Force",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": "Requires line of sight"
+    }
+  ],
+  "signature_moves": [
+    "Force Lightning",
+    "Precise lightsaber strikes",
+    "Telekinetic throw"
+  ],
+  "ultimate_move": "Duelist Mastery",
+  "trump_card": "Force Lightning",
+  "power_attributes": {
+    "power_type": "Force",
+    "power_source": "Dark side of the Force",
+    "combat_style": [
+      "Makashi fencing",
+      "Telekinesis"
+    ],
+    "weapon": "Curved-hilt lightsaber (red blade)",
+    "equipment": [
+      "Telekinetic throw"
+    ],
+    "trump_card": "Force Lightning",
+    "ultimate_move": "Duelist Mastery"
+  },
+  "personality": {
+    "traits": [
+      "Aristocratic",
+      "Intelligent",
+      "Manipulative",
+      "Prideful"
+    ],
+    "likes": [
+      "Elegance",
+      "Fine things"
+    ],
+    "dislikes": [
+      "Republic corruption",
+      "Jedi Order"
+    ],
+    "fear": "Losing power",
+    "dream": "Overthrow the Republic",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": [
+      "Prideful",
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "Ex-Jedi who fell to dark side, led Separatist movement, killed by Anakin",
+    "motivation": "Destroy the Republic and reform the galaxy",
+    "affinity": "Force",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Created Confederacy of Independent Systems",
+    "Trained General Grievous",
+    "One of the greatest lightsaber duelists",
+    "Master of Makashi form"
+  ],
+  "titles": [
+    "Count Dooku",
+    "Darth Tyranus",
+    "Leader of Separatists"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "N/A"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 85,
+    "durability": 75,
+    "power": 90,
+    "combat": 95,
+    "total": 510
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Underestimated Anakin"
+    ],
+    "factors": "His arrogance led to his defeat"
+  },
+  "relationships": {
+    "nemesis": "Obi-Wan Kenobi, Anakin Skywalker",
+    "allies": [
+      "Darth Sidious",
+      "General Grievous"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Darth Sidious",
+        "relationship": "Sith Master",
+        "trust_level": "Maximum"
+      }
+    ],
+    "enemies": [
+      "Jedi Order",
+      "Republic"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Anakin Skywalker",
+        "relationship": "Future Sith Lord",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Darth Sidious",
+    "rival": "Yoda",
+    "mentor": "Darth Sidious",
+    "student": "Asajj Ventress",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Darth Sidious",
+      "General Grievous"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Obi-Wan Kenobi, Anakin Skywalker",
+      "Yoda"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Yoda"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Asajj Ventress"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Darth Sidious",
+      "General Grievous"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Darth Sidious"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Yoda",
+      "result": "Draw",
+      "method": "Escaped with Force Lightning"
+    },
+    {
+      "opponent": "Anakin Skywalker",
+      "result": "Defeat",
+      "method": "Killed by Anakin in cold blood"
+    }
+  ],
+  "quotes": [
+    "I find your lack of faith disturbing.",
+    "This is the end of the Republic."
+  ],
+  "voice_acting": {
+    "native_language": "Christopher Lee",
+    "english": "Christopher Lee",
+    "note": "Portrayed by Christopher Lee",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Anakin Skywalker on Geonosis",
+    "transformation": "N/A",
+    "awakening_potential": "Could have become Sith Master",
+    "power_evolution": [
+      "Jedi Master",
+      "Sith Lord"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Serenno",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Count Dooku, also known as Darth Tyranus, is a fictional character in the Star Wars franchise. He was introduced in the prequel film trilogy, first appearing in Attack of the Clones (2002) and then returning in Revenge of the Sith (2005). He is portrayed by Christopher Lee in both films and is voiced by Corey Burton in most of the video games and animated productions in which he appears. The animated productions include the series Clone Wars (2003–2005), The Clone Wars, and Tales of the Jedi (2022). Lee voices Dooku in the 2008 Clone Wars animated film. Dooku also appears in novels and comics.",
+  "note": null,
+  "source": "star_wars"
+}

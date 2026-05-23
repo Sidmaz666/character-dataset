@@ -1,0 +1,339 @@
+{
+  "id": "01d03276ec0a4b81857eafe650e9260a",
+  "name": "Julia",
+  "native_name": "Julia",
+  "full_name": "Julia",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 170,
+    "weight_kg": 55,
+    "age": "Unknown (20s)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Blonde",
+    "skin": "Fair",
+    "notable_features": [
+      "Elegant appearance",
+      "mysterious presence"
+    ],
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": null,
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Singer",
+    "secondary": "Former Syndicate associate",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": [
+      "Unknown"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Cowboy Bebop Episode 12",
+    "manga": "Cowboy Bebop Episode 12",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Singing",
+      "native_name": null,
+      "description": "Beautiful singer, performs at various venues",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Survival Instincts",
+      "native_name": null,
+      "description": "Managed to stay hidden from the Syndicate for years",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Marksmanship",
+      "native_name": null,
+      "description": "Capable with firearms when needed",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Survival Instincts",
+    "Singing",
+    "Marksmanship"
+  ],
+  "ultimate_move": "Survival Instincts",
+  "trump_card": "Singing",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Hand-to-Hand"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Fighting gear"
+    ],
+    "trump_card": "Singing",
+    "ultimate_move": "Survival Instincts"
+  },
+  "personality": {
+    "traits": [
+      "Mysterious",
+      "Tragic",
+      "Resilient",
+      "Loving",
+      "Trapped by circumstance"
+    ],
+    "likes": [
+      "Singing",
+      "Spike"
+    ],
+    "dislikes": [
+      "The Syndicate",
+      "Vicious",
+      "being controlled"
+    ],
+    "fear": "Unknown",
+    "dream": "Freedom from the Syndicate",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Resilient"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Spike's lost love, caught between her feelings for Spike and Vicious's control",
+    "motivation": "Freedom from the Syndicate",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Voiced by Gara Takashima (Japanese)",
+    "Voiced by Mary Elizabeth McGlynn (English)"
+  ],
+  "titles": [
+    "Singer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 35,
+    "speed": 50,
+    "durability": 45,
+    "power": 30,
+    "combat": 40,
+    "total": 270
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Spike Spiegel"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Vicious"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Spike Spiegel",
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spike Spiegel"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Vicious"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spike Spiegel"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Goodbye, Spike."
+  ],
+  "voice_acting": {
+    "native_language": "Yoko Kanno (singing)",
+    "note": null,
+    "native_name": null,
+    "english": "Mary Elizabeth McGlynn",
+    "japanese": "Gara Takashima"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Supporting Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Alternate Spelling: Mintz\nBirthdate: March 26, 782 U.C.\n\nJulian Minci is the son of a soldier who served in the Alliance's army, he lost his mother at a very young age and, some years later, his father was killed in battle leaving him a war-orphan. As such Julian was admitted in the wartime welfare program and, through the mediation of vice admiral Alex Cazellnu, he was made Yang Wenli's ward.\n\nJulian is a very intelligent and responsible boy with a knack for house chores and is the one who takes care of the domestically incompetent Yang, so much so that their friends often wonder who amongst the two is the real guardian and who the ward. Julian loves Yang and deeply respects him, both for his kindness and his well-defined philosophy on life.\n\nYang wants a peaceful life for Julian, but, much to his disappointment, Julian's dream is to follow in his and his father's footsteps and become a soldier.",
+  "note": null,
+  "source": "anime"
+}

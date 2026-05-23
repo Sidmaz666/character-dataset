@@ -1,0 +1,417 @@
+{
+  "id": "b9ef3bb31970dd3c7177fa5d553ae247",
+  "name": "Ryuk",
+  "native_name": "リューク",
+  "full_name": "Ryuk",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Shinigami (God of Death)",
+    "race": "Shinigami",
+    "bloodline": "N/A",
+    "height_cm": 210,
+    "weight_kg": 0,
+    "age": "Unknown (immortal)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow with red/black pupils",
+    "hair_color": "Black (spiky)",
+    "skin_color": "Blueish-gray/purplish",
+    "notable_features": [
+      "Abnormally long limbs",
+      "Retractable wings on back",
+      "Glowing yellow eyes",
+      "Notebook holder at waist"
+    ],
+    "skin": "Blueish-gray/purplish",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Shinigami Realm",
+    "current_location": "Human World (following Light Yagami)",
+    "base_of_operations": "Shinigami Realm (original)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinigami (Death God)",
+    "secondary": "Observer/Entertainment seeker",
+    "rank_title": "N/A",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "N/A (neutral)"
+    ],
+    "previous": [
+      "Shinigami Realm"
+    ],
+    "relatives": [
+      "Sidoh (Death Note owner - original owner)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Death Note Episode 1",
+    "manga": "Death Note Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Death Note Ownership",
+      "native_name": "死のノート所有",
+      "description": "As a Shinigami, Ryuk possesses and can transfer Death Notes. Only he can transfer ownership of the notebook he brought to the human world.",
+      "type": "Utility/Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Cannot directly harm or help humans beyond Death Note rules"
+    },
+    {
+      "name": "Shinigami Eyes",
+      "native_name": "死神の眼",
+      "description": "Ryuk can see the names and remaining lifespans of humans. He can also communicate with and be seen by Death Note users.",
+      "type": "Utility/Detection",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Sight-based",
+      "limit": "Only visible to those who have touched a Death Note"
+    },
+    {
+      "name": "Intangibility",
+      "native_name": "非実体化",
+      "description": "As a supernatural being, Ryuk can become intangible and invisible to normal humans. Only Death Note users can see him.",
+      "type": "Defense/Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Cannot interact physically with normal humans"
+    },
+    {
+      "name": "Life Extension",
+      "native_name": "寿命延長",
+      "description": "Shinigami can extend their lives by using the Death Note to take human lifespans. Ryuk has extended his life significantly.",
+      "type": "Support/Survival",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Requires continued use of Death Note"
+    },
+    {
+      "name": "Psychological Observation",
+      "native_name": "心理観察",
+      "description": "Ryuk has exceptional insight into human psychology, watching and analyzing human behavior for entertainment.",
+      "type": "Support/Intelligence",
+      "tier": "B",
+      "power_level": 75,
+      "range": "N/A",
+      "limit": "Non-combat ability"
+    }
+  ],
+  "signature_moves": [
+    "Death Note transfer",
+    "Apples"
+  ],
+  "ultimate_move": "Writing a name in the Death Note",
+  "trump_card": "Complete control over who holds his Death Note",
+  "power_attributes": {
+    "power_type": "Supernatural/Shinigami",
+    "power_source": "Shinigami realm powers",
+    "combat_style": [
+      "N/A (non-combatant)"
+    ],
+    "weapon": "Death Note",
+    "equipment": [
+      "Death Note",
+      "Apple holder"
+    ],
+    "trump_card": "Complete control over who holds his Death Note",
+    "ultimate_move": "Writing a name in the Death Note"
+  },
+  "personality": {
+    "traits": [
+      "Bored",
+      "Curious",
+      "Neutral",
+      "Amusing",
+      "Observant",
+      "Detached"
+    ],
+    "likes": [
+      "Apples",
+      "Entertainment",
+      "Watching humans",
+      "Amusing situations"
+    ],
+    "dislikes": [
+      "Boredom",
+      "The stagnant Shinigami Realm",
+      "Being controlled"
+    ],
+    "fear": "Returning to the boring Shinigami Realm",
+    "dream": "Find eternal entertainment in the human world",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Observant"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Ryuk serves as the neutral observer narrator who sets the entire story in motion by dropping the Death Note. He neither supports nor opposes Light's plans, viewing everything as entertainment. His final act of writing Light's name demonstrates his complete detachment from human moral concerns.",
+    "motivation": "Relieve boredom and find entertainment",
+    "affinity": "Death/Darkness",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Successfully introduced Death Note to human world",
+    "Observed and documented Light Yagami's rise and fall",
+    "Tricked the Shinigami King to obtain a second Death Note",
+    "Killed Light Yagami when he became boring"
+  ],
+  "titles": [
+    "Shinigami",
+    "God of Death",
+    "The Bored One"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Supernatural entity, not applicable"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 75,
+    "speed": 80,
+    "durability": 90,
+    "power": 95,
+    "combat": 60,
+    "total": 485
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot directly harm humans",
+      "Bound by Shinigami rules",
+      "Cannot be killed by normal means"
+    ],
+    "factors": [
+      "Shinigami rules prevent him from giving active assistance",
+      "Obligated to follow Death Note holder",
+      "Relies on apples for satisfaction"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Light Yagami (Kira) - observer only",
+      "Sidoh",
+      "Rem",
+      "Gell"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Light Yagami",
+        "relationship": "Entertainment source",
+        "trust_level": "None (uses Light for amusement)"
+      }
+    ],
+    "enemies": [
+      "None"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "None",
+    "rival": "None",
+    "mentor": "N/A",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Light Yagami (Kira) - observer only",
+      "Sidoh",
+      "Rem",
+      "Gell",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Light Yagami- observer only",
+      "Sidoh",
+      "Rem",
+      "Gell",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "N/A"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Light Yagami",
+      "result": "Victory (final kill)",
+      "method": "Wrote Light's name in the Death Note when he became boring"
+    }
+  ],
+  "quotes": [
+    "Apples are to Shinigami what cigarettes are to humans.",
+    "These humans are interesting.",
+    "I'm not on anyone's side. I'm just here for the entertainment.",
+    "I wonder how this will end..."
+  ],
+  "voice_acting": {
+    "native_language": "Shido Nakamura (Japanese)",
+    "note": "Shido Nakamura gave a memorable performance",
+    "native_name": null,
+    "english": "Brian Drummond",
+    "japanese": "Shidou Nakamura"
+  },
+  "story": {
+    "status": "Immortal (existing)",
+    "fate": "Returns to the human world after Light's death, continuing to seek entertainment",
+    "transformation": "N/A",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Shinigami in the Shinigami Realm",
+      "Seeking entertainment",
+      "Dropped Death Note to human world",
+      "Observer of Light Yagami"
+    ],
+    "role_in_story": "Narrator/Plot Catalyst",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "N/A",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Likes: apples, the human world, chaos, Misa\nDislikes: being bored, not having apples, relapse\n\nThe original Shinigami who dropped the Death Note in the human world, and also love apples, which Light would pick up. Acting out of pure boredom, Ryuk begins the story of Death Note on a whim. Perhaps neutral by nature, Ryuk often refuses to aid Light and instead enjoys watching him struggle for his goal. The most important facet of Ryuk's character is that he is not Light's friend. He acts for his own interests and entertainment, and often fails to tell Light key details about the Death Note. Ryuk is selfish, however, and will aid Light if it serves his own goals, such as providing amusement or obtaining apples.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

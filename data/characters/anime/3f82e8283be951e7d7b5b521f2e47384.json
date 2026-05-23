@@ -1,0 +1,292 @@
+{
+  "id": "3f82e8283be951e7d7b5b521f2e47384",
+  "name": "Ishida, Ryuuken",
+  "native_name": "石田竜弦",
+  "full_name": "Ryuken Ishida",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Quincy",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin": "Fair",
+    "notable_features": "Uryu's father, doctor",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Karakura Town",
+    "current_location": "Karakura Hospital",
+    "base_of_operations": "Karakura Hospital",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Doctor",
+    "secondary": "Quincy",
+    "rank_title": "Licensed physician",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Karakura Hospital",
+      "Quincy"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bleach Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Distant",
+      "Caring (secretly)",
+      "Serious"
+    ],
+    "likes": [],
+    "dislikes": [
+      "Frivolity"
+    ],
+    "fear": "The unknown",
+    "dream": "Protect son",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "weaknesses": [
+      "Distant"
+    ],
+    "strengths": []
+  },
+  "character": {
+    "arc": "Quincy doctor",
+    "motivation": "Protect son",
+    "alignment": "Lawful Neutral",
+    "affinity": "Neutral"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 50,
+    "speed": 55,
+    "durability": 50,
+    "power": 70,
+    "combat": 50,
+    "total": 355
+  },
+  "relationships": {
+    "son": "Uryu Ishida",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Uryu Ishida (son)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Uryu Ishida (son)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Uryu Ishida (son)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Uryu Ishida"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Alive",
+    "role_in_story": "Supporting",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [
+      "Medical equipment"
+    ],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Earned sign language specifically so he could apologize to her and i"
+  ],
+  "titles": [
+    "Doctor"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Distant"
+    ],
+    "factors": [
+      "distant"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Karakura Hospital",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "Age: 18\nGender: Male\nBirthday: June 6th\n\nThe main character and narrator. Ishida bullied Nishimiya Shouko in elementary school and when she transferred away, he was ostracized and bullied by his former friends. He started to ignore those around him (imagining them with a large X across their face) and was driven to the point of suicide. He changed his mind after he apologized to Nishimiya and began to spend time with her. He learned sign language specifically so he could apologize to her and is shown to be very talented in it. He feels like he hasn't been punished enough for bullying Nishimiya and often wishes he could kill his younger self. He seems resigned to the fact that he will never be able to have friends again.",
+  "note": null,
+  "source": "anime"
+}

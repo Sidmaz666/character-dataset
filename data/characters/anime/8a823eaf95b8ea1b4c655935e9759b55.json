@@ -1,0 +1,403 @@
+{
+  "id": "8a823eaf95b8ea1b4c655935e9759b55",
+  "name": "Tsuruya",
+  "native_name": "鶴屋",
+  "full_name": "Tsuruya",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Tsuruya Family",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "age": "16-17",
+    "birthday": "December 6",
+    "zodiac": "Sagittarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "Dark Green",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long green hair",
+      "Prominent upper canine tooth",
+      "Loud voice",
+      "Always laughing"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "North High, Japan",
+    "current_location": "North High, Japan",
+    "base_of_operations": "Tsuruya family mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "SOS Brigade Honorary Consultant",
+    "rank_title": "Honorary Consultant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "SOS Brigade (Honorary Consultant)",
+      "Tsuruya Family",
+      "The Agency (affiliate)"
+    ],
+    "previous": [],
+    "relatives": [
+      "Tsuruya family (wealthy)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "The Melancholy of Haruhi Suzumiya Episode 2",
+    "manga": "The Melancholy of Haruhi Suzumiya Chapter 2",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Baseball",
+      "native_name": "野球",
+      "description": "Athletic ability demonstrated in SOS Brigade baseball games.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Sport",
+      "limit": "Not combat"
+    },
+    {
+      "name": "Physical Combat",
+      "native_name": "格闘技",
+      "description": "Shown strength and hand-to-hand combat abilities in alternate scenarios.",
+      "type": "Attack",
+      "tier": "C",
+      "power_level": 50,
+      "range": "Melee",
+      "limit": "Rarely shown"
+    },
+    {
+      "name": "Wealth Resources",
+      "native_name": "富豪力",
+      "description": "Access to family wealth and resources, supports Agency activities.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 70,
+      "range": "N/A",
+      "limit": "Not combat"
+    }
+  ],
+  "signature_moves": [
+    "Baseball pitching",
+    "Loud laughter"
+  ],
+  "ultimate_move": "Family connections",
+  "trump_card": "Wealth and influence",
+  "power_attributes": {
+    "power_type": "Normal Human",
+    "power_source": "Wealthy family background",
+    "combat_style": [
+      "Athletics"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Baseball pitching"
+    ],
+    "trump_card": "Wealth and influence",
+    "ultimate_move": "Family connections"
+  },
+  "personality": {
+    "traits": [
+      "Hyperactive",
+      "Loud",
+      "Cheerful",
+      "Friendly",
+      "Energetic",
+      "Carefree"
+    ],
+    "likes": [
+      "Mikuru Asahina",
+      "Fun activities",
+      "Laughing",
+      "Haruhi",
+      "Baseball"
+    ],
+    "dislikes": [
+      "Anyone hurting Mikuru",
+      "Boredom"
+    ],
+    "fear": "Losing friends",
+    "dream": "Have fun with friends",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Baseball",
+      "Physical Combat",
+      "Wealth Resources"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Tsuruya is the energetic best friend of Mikuru who supports the SOS Brigade while being aware of the supernatural elements surrounding it.",
+    "motivation": "Have fun and help friends",
+    "affinity": "Green/Energy",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "SOS Brigade Honorary Consultant",
+    "Best friend of Mikuru Asahina",
+    "Agency affiliate"
+  ],
+  "titles": [
+    "Honorary Consultant",
+    "Best Friend",
+    "Wealthy Heiress"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 55,
+    "speed": 60,
+    "durability": 50,
+    "power": 30,
+    "combat": 45,
+    "total": 305
+  },
+  "weaknesses": {
+    "list": [
+      "Not a fighter",
+      "Too carefree",
+      "Doesn't take things seriously"
+    ],
+    "factors": [
+      "May miss important details"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Mikuru Asahina",
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Itsuki Koizumi",
+      "The Agency"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Mikuru Asahina",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      },
+      {
+        "name": "Haruhi Suzumiya",
+        "relationship": "Friend (calls her Haru-nyan)",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kyon",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "None"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Mikuru Asahina",
+    "rival": "None",
+    "mentor": "None",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Mikuru Asahina",
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Itsuki Koizumi",
+      "The Agency"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Mikuru Asahina",
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Itsuki Koizumi",
+      "The Agency"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "SOS Brigade Baseball team",
+      "result": "Played",
+      "method": "Athletic ability"
+    }
+  ],
+  "quotes": [
+    "Megas!",
+    "Nyoro~n!",
+    "Haru-nyan!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuki Matsuoka (Japanese)",
+    "note": "Known for energetic voice",
+    "native_name": null,
+    "english": "Kari Wahlgren",
+    "japanese": "Yuki Matsuoka"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues being supportive friend",
+    "transformation": "N/A",
+    "awakening_potential": "Could potentially reveal more about Agency connections",
+    "power_evolution": [
+      "Normal student",
+      "Honorary consultant"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tsuruya family mansion",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 20-21\nBirthday: February 10 (Aquarius)\nHeight: 190 cm\nBlood type: A\n\nRen is, in outward appearances, an extremely nice and polite star; however, he shows his true self whenever he is around Kyouko. At the age of twenty, Ren has lived a large portion of his life in America. After Ren's encounter with Reino (from Vie Ghoul), it is revealed that \"Tsuruga Ren\" is only a stage name with his real name being Kuon Hizuri.",
+  "note": null,
+  "source": "anime"
+}

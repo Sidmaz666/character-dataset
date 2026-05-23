@@ -1,0 +1,382 @@
+{
+  "id": "e4c60a6da3ab4b569c64ca25d4360b0a",
+  "name": "Whis",
+  "native_name": "Uisu",
+  "full_name": "Whis",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Angel",
+    "race": "Angel",
+    "height_cm": 340,
+    "weight_kg": 0,
+    "age": "Unknown (millennia old)",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Taurus",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White",
+    "skin": "Pale blue",
+    "notable_features": [
+      "Tall figure with halo",
+      "white uniform",
+      "staff of office",
+      "ball of light on staff"
+    ],
+    "skin_color": "Pale blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Null",
+    "current_location": "Planet Beerus",
+    "base_of_operations": "Planet Beerus",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Martial Arts Teacher",
+    "secondary": "Attendant to Beerus",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Angels",
+      "Gods of Destruction"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grand Priest (father)",
+      "Merus (brother)",
+      "all angels are siblings"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball Super Episode 1",
+    "manga": "Dragon Ball Super Episode 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ultra Instinct",
+      "native_name": "身勝手の極意",
+      "description": "The ultimate martial arts technique - body moves before conscious thought",
+      "type": "Ultimate",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Time Rewind",
+      "native_name": null,
+      "description": "Can rewind time up to 3 minutes",
+      "type": "Cosmic",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Global",
+      "limit": "3 minutes only"
+    },
+    {
+      "name": "Reality Manipulation",
+      "native_name": null,
+      "description": "Can manipulate existence at a fundamental level",
+      "type": "Cosmic",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Universal",
+      "limit": "Subject to Angel laws"
+    },
+    {
+      "name": "Healing",
+      "native_name": null,
+      "description": "Can heal any wound instantly",
+      "type": "Support",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Staff Combat",
+      "native_name": null,
+      "description": "Master combatant with his staff of office",
+      "type": "Offensive",
+      "tier": "S+",
+      "power_level": 100,
+      "range": "Medium",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Ultra Instinct",
+    "Time Rewind",
+    "Healing wave"
+  ],
+  "ultimate_move": "Angelic staff of destruction",
+  "trump_card": "Reality manipulation",
+  "power_attributes": {
+    "power_type": "Angelic",
+    "power_source": "Angel lineage",
+    "combat_style": [
+      "Ultra Instinct",
+      "Staff combat"
+    ],
+    "weapon": "Staff Combat",
+    "equipment": [
+      "Staff Combat"
+    ],
+    "trump_card": "Reality manipulation",
+    "ultimate_move": "Angelic staff of destruction"
+  },
+  "personality": {
+    "traits": [
+      "Playful",
+      "Gourmet",
+      "Patient teacher",
+      "Enigmatic",
+      "Lazy"
+    ],
+    "likes": [
+      "Fine food",
+      "desserts",
+      "training Goku and Vegeta",
+      "napping"
+    ],
+    "dislikes": [
+      "Disrespect",
+      "bad food",
+      "Beerus's tantrums"
+    ],
+    "fear": "Lazy",
+    "dream": "Guide mortals to reach higher power levels",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Lazy"
+    ]
+  },
+  "character": {
+    "arc": "Angel attendant to Beerus and martial arts teacher to Goku and Vegeta",
+    "motivation": "Guide mortals to reach higher power levels",
+    "affinity": "Good",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Taught Ultra Instinct to Goku",
+    "Trained Vegeta"
+  ],
+  "titles": [
+    "Angel of Universe 7",
+    "Martial Arts Teacher"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 100,
+    "total": 600
+  },
+  "weaknesses": {
+    "list": [
+      "Lazy"
+    ],
+    "factors": [
+      "lazy"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Beerus",
+      "Goku",
+      "Vegeta",
+      "Grand Priest"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Beerus",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Beerus",
+      "Goku",
+      "Vegeta",
+      "Grand Priest"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Beerus",
+      "Goku",
+      "Vegeta",
+      "Grand Priest"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Hehe, interesting!",
+    "My, my..."
+  ],
+  "voice_acting": {
+    "native_language": "Masaya Onosaka",
+    "note": null,
+    "native_name": null,
+    "english": "Ian Sinclair",
+    "japanese": "Masakazu Morita"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "role_in_story": "Supporting / Mentor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Supporting / Mentor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 16\nBirthday: April 20\nSign: Taurus\nWeight: 40 kg\nHeight: 144 cm\nBWH: 74-58-80\n\nAn angel who was the top of her class but turned into a slob after becoming addicted to video games. She is often lazy and unmotivated and has a rather bossy attitude.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

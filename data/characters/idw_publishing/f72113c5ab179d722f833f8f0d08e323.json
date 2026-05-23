@@ -1,0 +1,389 @@
+{
+  "id": "f72113c5ab179d722f833f8f0d08e323",
+  "name": "Megatron",
+  "native_name": null,
+  "full_name": "Megatron",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cybertronian",
+    "race": "Transformer",
+    "bloodline": "Decepticon",
+    "height_cm": 900,
+    "weight_kg": 4500,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 55.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "None",
+    "skin_color": "Gray/Metallic",
+    "notable_features": [
+      "Massive size",
+      "Fusion cannon arm",
+      "Red optics"
+    ],
+    "skin": "Gray/Metallic",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cybertron (Kaon)",
+    "current_location": "Earth",
+    "base_of_operations": "Nemesis warship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Decepticon Leader",
+    "secondary": "Warlord",
+    "rank_title": "Lord Megatron",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Decepticons"
+    ],
+    "previous": [
+      "Gladiator (Kaon pits)"
+    ],
+    "relatives": [
+      "Soundwave (lieutenant)",
+      "Starscream (treacherous second)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Transformers (IDW Comics 2005)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Fusion Cannon",
+      "native_name": null,
+      "description": "Arm-mounted fusion cannon destroying buildings and Cybertronians",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Energy intensive"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "One of strongest Cybertronians, lifts 100+ tons",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Vehicle Alt-Mode",
+      "native_name": null,
+      "description": "Transforms into Cybertronian jet or tank",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Extremely durable armor",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Brilliant Tactician",
+      "native_name": null,
+      "description": "Master strategist leading Decepticons for millions of years",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 95,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Fusion Cannon Blast",
+    "Devastating Charge"
+  ],
+  "ultimate_move": "Decepticon Onslaught",
+  "trump_card": "Fusion Cannon",
+  "power_attributes": {
+    "power_type": "Cybertronian",
+    "power_source": "Spark/Energon",
+    "combat_style": [
+      "Brute force",
+      "Ranged",
+      "Tactical"
+    ],
+    "weapon": "Fusion Cannon",
+    "equipment": [
+      "Nemesis warship"
+    ],
+    "trump_card": "Fusion Cannon",
+    "ultimate_move": "Decepticon Onslaught"
+  },
+  "personality": {
+    "traits": [
+      "Ruthless",
+      "Charismatic",
+      "Intelligent",
+      "Power-hungry",
+      "Tyrannical"
+    ],
+    "likes": [
+      "Power",
+      "Conquest",
+      "Order"
+    ],
+    "dislikes": [
+      "Optimus Prime",
+      "Autobots",
+      "Disloyalty"
+    ],
+    "fear": "Weakness",
+    "dream": "Rule the universe",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Ruthless"
+    ]
+  },
+  "character": {
+    "arc": "From gladiator slave to leader of the Decepticon revolution, waging millenia-long war",
+    "motivation": "Absolute power and control",
+    "affinity": "Power/Revolution",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Founded Decepticons",
+    "Waged war for millions of years"
+  ],
+  "titles": [
+    "Lord Megatron",
+    "Decepticon Leader"
+  ],
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 95,
+    "speed": 70,
+    "durability": 95,
+    "power": 90,
+    "combat": 95,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Ego",
+      "Betrayed often",
+      "Energon dependency"
+    ],
+    "factors": "Cybertronian weaknesses"
+  },
+  "relationships": {
+    "nemesis": "Optimus Prime",
+    "allies": [
+      "Soundwave",
+      "Decepticons"
+    ],
+    "enemies": [
+      "Optimus Prime",
+      "Autobots",
+      "Starscream"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Optimus Prime",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Soundwave",
+      "Decepticons"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Optimus Prime"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Optimus Prime"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Soundwave",
+      "Decepticons"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Optimus Prime",
+      "result": "Stalemate",
+      "method": "Equal combatants"
+    }
+  ],
+  "quotes": [
+    "Peace through tyranny!",
+    "Freedom is the right of all sentient beings to choose their own destruction!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues war",
+    "transformation": "N/A",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "idw_publishing",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Nemesis warship",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Megatron is a fictional character and the main antagonist of the Transformers media franchise produced by the American toy company Hasbro and the Japanese toy company Takara Tomy. He is the tyrannical leader of the Decepticons, a villainous faction of alien robots that seeks to conquer their home planet of Cybertron and the rest of the known universe, and serves as the archenemy of Optimus Prime, the leader of the enemy Autobot faction. As with all Cybertronians, Megatron can disguise himself by transforming into vehicles or weapons. His alternate modes have included a Walther P38 handgun, a particle-beam weapon, a telescopic laser cannon, a Cybertronian jet,various tanks and a rusty,beat-up Mack Granite tanker truck  depending on which continuity he is depicted in. His original designation, in some continuities, is D-16.\nMegatron's most consistent origin portrays him as having risen up from being an oppressed worker to a gladiatorial champion who took the legendary name of one of the original Thirteen Primes—Megatronus—as his own. He shortened his name when he became a political revolutionary who attempted to reform Cybertron's corrupt governing body and called for an end to its decrepit caste system. As the mentor of the young Orion Pax, Megatron preached that freedom of self-determination was the right of all sentient beings. When Megatron grew corrupted by his power, Orion would utilize his teachings against him as Optimus Prime. In most incarnations, Megatron would eventually meet his demise at Optimus' hands, only to later be resurrected as Galvatron. Some continuities have Galvatron as a separate entity from Megatron, however.\nMegatron has become one of the franchise's most iconic characters and a widely recognized villain in popular culture. The character's popularity has seen him appear on a variety of merchandise, such as toys, clothing and collectible items, theme park attractions, and be referenced in a number of media. He has been adapted in live-action, animated, and video game incarnations, having been voiced by actors including Frank Welker, Corey Burton, Hugo Weaving, and Brian Tyree Henry.",
+  "note": null,
+  "source": "idw_publishing"
+}

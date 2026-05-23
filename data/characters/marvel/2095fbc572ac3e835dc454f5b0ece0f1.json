@@ -1,0 +1,330 @@
+{
+  "id": "2095fbc572ac3e835dc454f5b0ece0f1",
+  "name": "Scream",
+  "native_name": null,
+  "full_name": "Scream",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Symbiote",
+    "race": "Symbiote",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White",
+    "hair_color": "None",
+    "skin_color": "Black/Pink",
+    "notable_features": [
+      "Hair-like tendrils"
+    ],
+    "skin": "Black/Pink",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Research facility",
+    "current_location": "Unknown",
+    "base_of_operations": "Research facility",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Symbiote",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Life Foundation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Other symbiotes"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Web of Spider-Man #180",
+    "comics": "Web of Spider-Man #180 (1989)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sonic Scream",
+      "native_name": null,
+      "description": "Can emit sonic vibrations",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Tendrils",
+      "native_name": null,
+      "description": "Hair-like tendrils for combat",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Short",
+      "limit": null
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Can adhere to surfaces",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 45,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Sonic Shriek",
+    "Hair Whip"
+  ],
+  "ultimate_move": "Sonic Blast",
+  "trump_card": "Sonic Scream",
+  "power_attributes": {
+    "power_type": "Symbiote",
+    "power_source": "Knull",
+    "combat_style": "Melee/Ranged",
+    "weapon": "Unknown",
+    "equipment": [
+      "Hair Whip"
+    ],
+    "trump_card": "Sonic Scream",
+    "ultimate_move": "Sonic Blast"
+  },
+  "personality": {
+    "traits": [
+      "Volatile",
+      "Cooperative",
+      "Cooperative"
+    ],
+    "likes": [
+      "Chaos"
+    ],
+    "dislikes": [
+      "Light"
+    ],
+    "fear": "Sonic weapons",
+    "dream": "Chaos",
+    "personality_type": null,
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Sonic Scream",
+      "Tendrils",
+      "Wall-Crawling"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Life Foundation symbiote",
+    "motivation": "Chaos",
+    "affinity": "Sound",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Scream"
+  ],
+  "titles": [
+    "Scream"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 35,
+    "strength": 50,
+    "speed": 55,
+    "durability": 50,
+    "power": 55,
+    "combat": 45,
+    "total": 290
+  },
+  "weaknesses": {
+    "list": [
+      "Vulnerable to her own sonic screams",
+      "Fire"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Spider-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Life Foundation"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Research facility",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Scream may refer to:\n\nScreaming, a loud vocalization",
+  "note": null,
+  "source": "marvel"
+}

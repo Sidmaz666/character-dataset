@@ -1,0 +1,407 @@
+{
+  "name": "Spectre",
+  "native_name": null,
+  "full_name": "James Brendan Corrigan",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cosmic Spirit",
+    "race": "Spirit/Human",
+    "bloodline": "Corrigan/Divine",
+    "height_cm": "Variable",
+    "weight_kg": "Variable",
+    "age": "Timeless",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "White/Glowing",
+    "hair_color": "None (hooded)",
+    "skin_color": "Translucent/Green",
+    "notable_features": [
+      "Green hooded cloak",
+      "Glowing white eyes",
+      "Intangible form",
+      "Terrifying presence"
+    ],
+    "skin": "Translucent/Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (Earth)",
+    "current_location": "Heaven/Dimension of Vengeance",
+    "base_of_operations": "Mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Spirit of Vengeance",
+    "secondary": "Detective (formerly)",
+    "rank_title": "The Spectre",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Justice Society of America",
+      "Justice League Dark"
+    ],
+    "previous": [
+      "Gotham City Police Department"
+    ],
+    "relatives": [
+      "The Presence (God, source of power)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "More Fun Comics #52 (1940)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Cosmic Power",
+      "type": "Cosmic",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Universal"
+    },
+    {
+      "name": "Reality Warping",
+      "type": "Reality",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Universal"
+    },
+    {
+      "name": "Immortality",
+      "type": "Cosmic",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self"
+    },
+    {
+      "name": "Divine Judgment",
+      "type": "Cosmic",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Universal"
+    },
+    {
+      "name": "Omniscience",
+      "type": "Cosmic",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Omniversal"
+    }
+  ],
+  "signature_moves": [
+    "Divine Judgment",
+    "Reality Warp",
+    "Vengeance Manifest",
+    "Soul Rend"
+  ],
+  "ultimate_move": "Wrath of God",
+  "trump_card": "Divine Authority from The Presence",
+  "power_attributes": {
+    "power_type": "Divine/Cosmic",
+    "power_source": "The Presence (God)",
+    "combat_style": [
+      "Omnipotent",
+      "Reality-Based",
+      "Judgment"
+    ],
+    "weapon": "Divine Power",
+    "equipment": [
+      "Green cloak (manifestation of divine authority)"
+    ],
+    "trump_card": "Divine Authority from The Presence",
+    "ultimate_move": "Wrath of God"
+  },
+  "personality": {
+    "traits": [
+      "Wrathful",
+      "Righteous",
+      "Unforgiving",
+      "Just",
+      "Omniscient",
+      "Merciless"
+    ],
+    "likes": [
+      "Justice",
+      "Vengeance",
+      "Punishing sinners"
+    ],
+    "dislikes": [
+      "Sin",
+      "Evil",
+      "Injustice"
+    ],
+    "fear": "Nothing / Failing the Presence",
+    "dream": "Cleanse the universe of evil",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Cosmic Power",
+      "Reality Warping",
+      "Immortality",
+      "Divine Judgment"
+    ],
+    "weaknesses": [
+      "Merciless"
+    ]
+  },
+  "character": {
+    "arc": "Police detective murdered by criminals who was bonded with the Spectre Entity, the embodiment of God's vengeance. Now serves as the Spirit of Vengeance, meting out divine punishment to sinners. His punishments are often ironic and horrifying, reflecting the sins committed. One of the most powerful beings in the DC Universe, bound only by the Presence himself.",
+    "motivation": "Administer divine vengeance upon sinners",
+    "affinity": "Divine/Vengeance",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Ended the Crime Syndicate",
+    "Stopped universal threats",
+    "Spirit of Vengeance for millennia",
+    "Judge of the living and dead"
+  ],
+  "titles": [
+    "The Spectre",
+    "Spirit of Vengeance",
+    "Wrath of God",
+    "Jim Corrigan",
+    "Angel of Death"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 95,
+    "total": 590
+  },
+  "weaknesses": {
+    "list": [
+      "Bound by divine law",
+      "Human host anchors",
+      "Magic-based attacks"
+    ],
+    "factors": [
+      "Cannot act against divine will",
+      "Human host morality can influence",
+      "Certain magics disrupt connection to Presence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Eclipso (former Spirit of Vengeance)",
+    "allies": [
+      "Justice Society",
+      "Justice League Dark",
+      "The Presence"
+    ],
+    "enemies": [
+      "Eclipso",
+      "Demons",
+      "The Anti-Monitor"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": "The Presence",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": "Phantom Stranger",
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Justice Society",
+      "Justice League Dark",
+      "The Presence"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Eclipso (former Spirit of Vengeance)",
+      "Phantom Stranger"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Phantom Stranger"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Justice Society",
+      "Justice League Dark",
+      "The Presence"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "The Presence"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Anti-Monitor",
+      "result": "Victory",
+      "method": "Cosmic divine power"
+    },
+    {
+      "opponent": "Eclipso",
+      "result": "Victory",
+      "method": "Superior divine authority"
+    }
+  ],
+  "quotes": [
+    "I am the Wrath of God. Look upon me and despair.",
+    "The guilty shall not go unpunished. I am their judgment."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active (Immortal)",
+    "fate": "Eternally serving as Spirit of Vengeance",
+    "transformation": "Death and divine bonding",
+    "awakening": null,
+    "power_evolution": [
+      "Jim Corrigan",
+      "Murdered Detective",
+      "Spectre"
+    ],
+    "role": "Major Cosmic Being",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Omnipresence",
+      "Teleportation"
+    ],
+    "vehicles": [],
+    "headquarters": "Mobile / Heaven",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "dc3a924495c3932dd8945a833417d152",
+  "publisher": "dc",
+  "about": "The Spectre is the name of several antiheroes who appear in American comic books published by DC Comics. The original version first appeared in More Fun Comics #52. The character was created by Jerry Siegel and Bernard Baily although some sources attribute creator credit solely to Siegel, limiting Baily to the artist assigned to the feature.",
+  "note": null,
+  "source": "dc"
+}

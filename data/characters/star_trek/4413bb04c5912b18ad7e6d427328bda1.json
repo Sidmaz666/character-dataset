@@ -1,0 +1,396 @@
+{
+  "id": "4413bb04c5912b18ad7e6d427328bda1",
+  "name": "Harry Kim",
+  "native_name": null,
+  "full_name": "Hikaru Kim (Harry is nickname)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kim",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": "24 when on Voyager",
+    "birthday": "2351",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Young face",
+      "Eager expression",
+      "East Asian features"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Voyager",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Operations Officer",
+    "secondary": "Science Officer",
+    "rank_title": "Ensign (never promoted on screen)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [],
+    "relatives": [
+      "Parents (both deceased in alternate timeline)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: Voyager (1995) - \"Caretaker\"",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Operations Mastery",
+      "native_name": null,
+      "description": "Excellent operations and systems management",
+      "type": "Tech",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Limited by ship systems"
+    },
+    {
+      "name": "Science Knowledge",
+      "native_name": null,
+      "description": "Strong science background",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 78,
+      "range": "Long",
+      "limit": "Generalist"
+    },
+    {
+      "name": "Music",
+      "native_name": null,
+      "description": "Plays clarinet and saxophone",
+      "type": "Support",
+      "tier": "C",
+      "power_level": 65,
+      "range": "Short",
+      "limit": "Entertainment only"
+    }
+  ],
+  "signature_moves": [
+    "Operations Efficiency",
+    "Science Solutions",
+    "Music Playing"
+  ],
+  "ultimate_move": "Operations Perfection",
+  "trump_card": "Never Promoted (ironic joke)",
+  "power_attributes": {
+    "power_type": "Technical",
+    "power_source": "Training",
+    "combat_style": [
+      "Basic Starfleet"
+    ],
+    "weapon": "Phaser",
+    "equipment": [
+      "Operations Console"
+    ],
+    "trump_card": "Never Promoted (ironic joke)",
+    "ultimate_move": "Operations Perfection"
+  },
+  "personality": {
+    "traits": [
+      "Eager",
+      "Innocent",
+      "Optimistic",
+      "Dedicated",
+      "Unlucky"
+    ],
+    "likes": [
+      "Science",
+      "Music",
+      "Starfleet",
+      "Adventure"
+    ],
+    "dislikes": [
+      "Never Being Promoted",
+      "Danger",
+      "Bad Luck"
+    ],
+    "fear": "Never Returning Home",
+    "dream": "Being a Real Starfleet Officer",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Young officer who remained an ensign throughout, but matured into capable officer",
+    "motivation": "Being the best officer he can be",
+    "affinity": "Operations",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Maintained operations for 7 years",
+    "Never gave up hope of returning home",
+    "Played key role in many missions",
+    "Stayed loyal despite hardships",
+    "Eventually achieved rank"
+  ],
+  "titles": [
+    "Ensign Kim",
+    "Operations Officer",
+    "The Eternal Ensign"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 60,
+    "speed": 65,
+    "durability": 60,
+    "power": 62,
+    "combat": 58,
+    "total": 387
+  },
+  "weaknesses": {
+    "list": [
+      "Never Promoted (running joke)",
+      "Too Eager",
+      "Unlucky"
+    ],
+    "factors": [
+      "Young age",
+      "Lack of experience"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Tom Paris (best friend)",
+      "B'Elanna Torres",
+      "Tuvok"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tom Paris",
+        "relationship": "Best friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Seven of Nine",
+        "relationship": "Close friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various threats"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Various women (many dead or lost)",
+    "best_friend": "Tom Paris",
+    "rival": "None",
+    "mentor": "Tuvok",
+    "student": "Various crew members",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Tom Paris (best friend)",
+      "B'Elanna Torres",
+      "Tuvok",
+      "Tom Paris"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various crew members"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Tom Paris",
+      "B'Elanna Torres",
+      "Tuvok"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Tuvok"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various",
+      "result": "Various",
+      "method": "Operations support"
+    }
+  ],
+  "quotes": [
+    "It's not like this on the original timeline, but...",
+    "I'm an ensign, Captain.",
+    "It's never easy."
+  ],
+  "voice_acting": {
+    "native_language": "Garrett Wang",
+    "english": "Garrett Wang",
+    "note": "Character famously never got promoted on screen",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Returned home, eventually promoted",
+    "transformation": "Matured from eager ensign to seasoned officer",
+    "awakening_potential": "Achieved career goals",
+    "power_evolution": [
+      "Eager Ensign",
+      "Experienced Officer"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Voyager"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Voyager Operations",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Lieutenant Harry S. L. Kim is a fictional character who appeared in each of the seven seasons of the American television series Star Trek: Voyager. Portrayed by Garrett Wang, he is the Operations Officer aboard the Starfleet starship USS Voyager.",
+  "note": null,
+  "source": "star_trek"
+}

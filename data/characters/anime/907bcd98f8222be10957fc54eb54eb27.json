@@ -1,0 +1,359 @@
+{
+  "id": "907bcd98f8222be10957fc54eb54eb27",
+  "name": "Kita, Ikuyo",
+  "native_name": "喜多郁代",
+  "full_name": "Ikuyo Kita",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kita",
+    "height_cm": 158,
+    "weight_kg": 50,
+    "age": "16-17",
+    "birthday": "April 12",
+    "zodiac": "Aries",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Orange",
+    "hair_color": "Orange",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Orange hair",
+      "Energetic smile",
+      "Guitar"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo",
+    "base_of_operations": "Tokyo",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Guitarist/Vocalist",
+    "secondary": "High school student",
+    "rank_title": "Guitarist",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Kessoku Band"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Bocchi the Rock Episode 1",
+    "manga": "Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Guitar Playing",
+      "native_name": "ギター演奏",
+      "description": "Skilled guitarist",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Singing",
+      "native_name": "歌唱",
+      "description": "Vocal performance",
+      "type": "Skill",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Stage",
+      "limit": "None"
+    },
+    {
+      "name": "Social Skills",
+      "native_name": "社交性",
+      "description": "Very outgoing and friendly",
+      "type": "Social",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Guitar Solo",
+    "Vocal Performance"
+  ],
+  "ultimate_move": "Stage Performance",
+  "trump_card": "Energetic Charm",
+  "power_attributes": {
+    "power_type": "Music",
+    "power_source": "Practice",
+    "combat_style": [],
+    "weapon": "Guitar",
+    "equipment": [
+      "Guitar"
+    ],
+    "trump_card": "Energetic Charm",
+    "ultimate_move": "Stage Performance"
+  },
+  "personality": {
+    "traits": [
+      "Energetic",
+      "Friendly",
+      "Optimistic",
+      "Determined",
+      "Social"
+    ],
+    "likes": [
+      "Hitori",
+      "Music",
+      "Band"
+    ],
+    "dislikes": [
+      "Loneliness",
+      "Exclusion"
+    ],
+    "fear": "Being left out",
+    "dream": "Play music with friends",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Poor combat skills"
+    ]
+  },
+  "character": {
+    "arc": "Energetic guitarist joining band",
+    "motivation": "Play with Hitori",
+    "affinity": "Music",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Joined Kessoku Band",
+    "Learned guitar",
+    "Befriended Hitori"
+  ],
+  "titles": [
+    "Guitarist",
+    "Vocalist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 68,
+    "strength": 48,
+    "speed": 65,
+    "durability": 60,
+    "power": 65,
+    "combat": 28,
+    "total": 334
+  },
+  "weaknesses": {
+    "list": [
+      "Too eager",
+      "Can be overwhelming",
+      "Insecure about skills"
+    ],
+    "factors": [
+      "Rejection"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Hitori",
+      "Nijika",
+      "Ryou"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hitori",
+        "relationship": "Bandmate/Crush",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": "Hitori",
+    "best_friend": "Hitori",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Hitori",
+      "Nijika",
+      "Ryou"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Hitori",
+      "Nijika",
+      "Ryou"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Let's play together!",
+    "Hitori-chan!"
+  ],
+  "voice_acting": {
+    "native_language": "Manaka Iwami",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Ikumi Hasegawa"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues in band",
+    "transformation": null,
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Beginner",
+      "Performer"
+    ],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: April 21\nAge: 16\nBlood type: A\nAffiliation: Shuka High School, Kessoku Band\n\nA bright and popular first year of high school. She is in charge of the guitar and vocals of Kessoku Band. She is a cheerful character who likes to interact with people and can talk with an immediate smile, even when meeting for the first time. She longs for Ryo, and her feelings can go too far. She often takes photos and uploads to Issta.\n\n(Source: Bocchi the Rock! Wiki)",
+  "note": null,
+  "source": "anime"
+}

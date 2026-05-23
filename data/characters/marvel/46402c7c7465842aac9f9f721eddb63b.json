@@ -1,0 +1,336 @@
+{
+  "id": "46402c7c7465842aac9f9f721eddb63b",
+  "name": "Bullseye",
+  "native_name": null,
+  "full_name": "Lester",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 90,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "blue",
+    "hair_color": "blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Formerly Avengers Tower; Thunderbolts Mountain",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Assassin, professional criminal, former mercenary",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly Dark Avengers",
+      "Thunderbolts",
+      "employee of Kingpin",
+      "Purple Man",
+      "Eric Slaughter"
+    ],
+    "previous": [
+      "US Army"
+    ],
+    "relatives": [
+      "Kingmaker (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Daredevil #131 (March, 1976)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "C",
+      "power_level": 20,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Dagger",
+      "Poison"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Ambitious"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Failure",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Slow speed",
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Evil",
+    "alignment": "Evil"
+  },
+  "achievements": [
+    "Created by writer Marv Wolfman and artist John Romita Sr"
+  ],
+  "titles": [
+    "Benjamin Poindexter",
+    "Daredevil",
+    "Punisher",
+    "Bullseye",
+    "Hawkeye"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 11,
+    "speed": 25,
+    "durability": 70,
+    "power": 20,
+    "combat": 70,
+    "total": 246
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Slow speed",
+      "Limited power"
+    ],
+    "factors": [
+      "physically weak",
+      "slow speed",
+      "limited power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Formerly Dark Avengers",
+      "Thunderbolts",
+      "employee of Kingpin"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Hawkeye"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Hawkeye",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Formerly Dark Avengers",
+      "Thunderbolts",
+      "employee of Kingpin"
+    ],
+    "colleague": null,
+    "enemy": "Hawkeye",
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Hawkeye"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Formerly Dark Avengers",
+      "Thunderbolts",
+      "employee of Kingpin"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Formerly Avengers Tower; Thunderbolts Mountain",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Bullseye is a supervillain appearing in American comic books published by Marvel Comics. Created by writer Marv Wolfman and artist John Romita Sr., the character first appeared in Daredevil #131 (1976), and has been one of the superhero Daredevil's two archenemies, alongside the Kingpin. Bullseye has appeared consistently in Marvel Comics since his creation, featuring in solo limited series, series focused on Daredevil, and company-wide storylines.\nBullseye is an assassin and marksman with the ability to use almost any object as a lethal projectile with exceptional accuracy. His real name has been given only as Lester, with his surname unrevealed, however he has used the alias Benjamin Poindexter on several occasions. Introduced as a gimmick villain, the character was redefined during writer-artist Frank Miller's tenure on Daredevil in the early 1980s, which critics and historians have credited with making Bullseye a menacing and psychologically complex figure whose sadism drives his crimes as much as his profession does. The character's bones were later reinforced with adamantium following a severe injury, increasing his physical resilience.\nBullseye's most consequential stories focus on his rivalry with Daredevil, including Frank Miller's Daredevil #181 (1982), in which he kills Daredevil's love interest Elektra, and Kevin Smith's Daredevil vol. 2 #5 (1999), in which he kills Karen Page. He also plays a prominent role in the company-wide storylines Civil War (2006–2007), when he serves on the Thunderbolts, and Dark Reign (2008–2009), when he joins Norman Osborn's Dark Avengers under the alias of Hawkeye. Bullseye's obsession against Daredevil has driven the majority of his appearances, however he has also clashed with the Punisher, Black Widow, and Hawkeye.\nThe character has been adapted in various media incarnations, having been portrayed in live-action by Colin Farrell in the film Daredevil (2003), and by Wilson Bethel in the third season of the Marvel Cinematic Universe television series Daredevil (2018) and its revival Daredevil: Born Again (2025–present).",
+  "note": null,
+  "source": "marvel"
+}

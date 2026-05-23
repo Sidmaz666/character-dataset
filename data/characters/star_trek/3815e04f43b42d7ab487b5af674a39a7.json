@@ -1,0 +1,405 @@
+{
+  "id": "3815e04f43b42d7ab487b5af674a39a7",
+  "name": "Leonard McCoy",
+  "native_name": null,
+  "full_name": "Leonard H. McCoy",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "McCoy",
+    "height_cm": 180,
+    "weight_kg": 82,
+    "age": "42 at start of TOS",
+    "birthday": "2327",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Gray/White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Weathered face",
+      "Southern gentleman demeanor",
+      "Medical authority"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Georgia, Earth",
+    "current_location": "Various",
+    "base_of_operations": "USS Enterprise (NCC-1701), USS Enterprise-A",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Chief Medical Officer",
+    "secondary": "Physician, Surgeon",
+    "rank_title": "Commander (Medical Corps)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "United Federation of Planets",
+      "Starfleet"
+    ],
+    "previous": [
+      "Medical Corps"
+    ],
+    "relatives": [
+      "David Marcus (son-in-law)",
+      "Joanna McCoy (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Trek: The Original Series (1966) - \"The Cage\" (pilot)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Medical Mastery",
+      "native_name": null,
+      "description": "Exceptional medical knowledge and surgical skills",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Short (medical)",
+      "limit": "Requires proper equipment"
+    },
+    {
+      "name": "Medical Intuition",
+      "native_name": null,
+      "description": "Can diagnose conditions through examination and intuition",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Short",
+      "limit": "Complex cases may require more time"
+    }
+  ],
+  "signature_moves": [
+    "He's Dead, Jim",
+    "Bones McCoy's Diagnoses",
+    "Phaser as Surgical Tool"
+  ],
+  "ultimate_move": "Medical Miracle",
+  "trump_card": "Tri-ox Compound Injections",
+  "power_attributes": {
+    "power_type": "Medical/Support",
+    "power_source": "Medical Training",
+    "combat_style": [
+      "Basic Starfleet",
+      "Debate with Spock"
+    ],
+    "weapon": "Medical Tricorder/Phaser",
+    "equipment": [
+      "Medical Kit",
+      "Tricorder",
+      "Hypospray"
+    ],
+    "trump_card": "Tri-ox Compound Injections",
+    "ultimate_move": "Medical Miracle"
+  },
+  "personality": {
+    "traits": [
+      "Compassionate",
+      "Gruff",
+      "Sarcastic",
+      "Protective",
+      "Old-Fashioned"
+    ],
+    "likes": [
+      "Medicine",
+      "His Daughter",
+      "Arkarian Nectar",
+      "Complaining About Spock"
+    ],
+    "dislikes": [
+      "Spock's Logic",
+      "Space Medicine",
+      "Death",
+      "Losing Patients"
+    ],
+    "fear": "Losing Patients",
+    "dream": "Being a Doctor, Not a Butcher",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From emotionally wounded divorcee to trusted ship's doctor, balancing medicine with philosophy",
+    "motivation": "Saving lives and proving medicine isn't just killing by degrees",
+    "affinity": "Medicine",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Saved countless Enterprise crew members",
+    "Developed techniques for alien physiology",
+    "Cured various plague diseases",
+    "Pioneered neural surgery techniques",
+    "Served through five-year mission"
+  ],
+  "titles": [
+    "Bones",
+    "Doctor",
+    "Chief Medical Officer"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 60,
+    "speed": 55,
+    "durability": 65,
+    "power": 50,
+    "combat": 55,
+    "total": 370
+  },
+  "weaknesses": {
+    "list": [
+      "Occasional Bar Drinking",
+      "Emotional Attachment",
+      "Fear of Space"
+    ],
+    "factors": [
+      "Divorce affected him",
+      "Hates transporters"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Death itself",
+    "allies": [
+      "James T. Kirk",
+      "Spock",
+      "Montgomery Scott"
+    ],
+    "allies_detailed": [
+      {
+        "name": "James T. Kirk",
+        "relationship": "Captain and best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Spock",
+        "relationship": "Friendly rival, deep friendship",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Khan"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Several women over series",
+    "best_friend": "James T. Kirk",
+    "rival": "Spock (friendly)",
+    "mentor": "Various medical instructors",
+    "student": "Various medical students",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "James T. Kirk",
+      "Spock",
+      "Montgomery Scott"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Death itself",
+      "Spock (friendly)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Star Trek"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Star Trek"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Spock"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various medical students"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "James T. Kirk",
+      "Spock",
+      "Montgomery Scott"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Various medical instructors"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Khan",
+      "result": "Victory",
+      "method": "Leola root caused Khan's irrationality"
+    },
+    {
+      "opponent": "Various Diseases",
+      "result": "Victory",
+      "method": "Medical expertise"
+    }
+  ],
+  "quotes": [
+    "I'm a doctor, not a physicist.",
+    "He's dead, Jim.",
+    "Space is disease and danger wrapped in darkness and silence.",
+    "Dammit, Jim, I'm a doctor, not a miracle worker!"
+  ],
+  "voice_acting": {
+    "native_language": "DeForest Kelley",
+    "english": "DeForest Kelley",
+    "note": "Iconic role in Star Trek history",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Retired, lived to see grandchildren",
+    "transformation": "Aged with dignity through career",
+    "awakening_potential": "Became legendary physician in Federation",
+    "power_evolution": [
+      "Doctor",
+      "Medical Officer",
+      "Commander"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "USS Enterprise (NCC-1701)",
+      "USS Enterprise-A"
+    ],
+    "vehicles": [
+      "Shuttlecraft"
+    ],
+    "headquarters": "USS Enterprise Sickbay",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_trek",
+  "about": "Dr. Leonard H. McCoy, known as \"Bones\", is a character in the American science-fiction franchise Star Trek. McCoy was played by actor DeForest Kelley in the original Star Trek series from 1966 to 1969, and he also appears in the animated Star Trek series, in six Star Trek films, in the pilot episode of Star Trek: The Next Generation, and in numerous books, comics, and video games. A decade after Kelley's death, Karl Urban assumed the role of McCoy in the Star Trek reboot film in 2009. Thomas Jane will portray McCoy in the 5th season of Star Trek: Strange New Worlds",
+  "note": null,
+  "source": "star_trek"
+}

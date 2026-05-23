@@ -1,0 +1,433 @@
+{
+  "id": "ed13f71ed8e89bd37a80e9bc32ee2a12",
+  "name": "Gluttony",
+  "native_name": "グラトニー",
+  "full_name": "Gluttony",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Homunculus",
+    "race": "Homunculus",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "Over 160 years",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "None",
+    "skin_color": "Green",
+    "notable_features": [
+      "Overweight build",
+      "Childish demeanor",
+      "Green coloring"
+    ],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Various",
+    "base_of_operations": "Central City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Father's Agent",
+    "secondary": "Evidence Eraser, Tracker",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Father",
+      "Homunculi",
+      "Lust"
+    ],
+    "previous": [],
+    "relatives": [
+      "Father (creator)",
+      "Pride, Wrath, Lust, Envy, Sloth, Greed (siblings)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "manga": "Fullmetal Alchemist",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powerful Jaws",
+      "native_name": null,
+      "description": "Exceptionally strong jaws able to masticate wood, steel, and even Greed's diamond-hard carbon structure. Can consume virtually any known material.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Melee",
+      "limit": "Requires close contact"
+    },
+    {
+      "name": "Digestive Enzymes",
+      "native_name": null,
+      "description": "Produces digestive enzymes that act on specific substances, making them easier to chew and digest. Can eat hard objects like steel.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Requires consumption"
+    },
+    {
+      "name": "Enhanced Senses",
+      "native_name": null,
+      "description": "Exceptional sense of smell can detect specific persons, objects, and track targets from far away. Can sense ethnicity and blood from scents.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Requires scent trails"
+    },
+    {
+      "name": "Enhanced Physiology",
+      "native_name": null,
+      "description": "Superhuman strength, speed, reflexes, stamina, durability, agility, and willpower. Despite size, highly agile.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Limited fighting skills"
+    },
+    {
+      "name": "False Gate of Truth",
+      "native_name": null,
+      "description": "When angered, opens huge mouth from lower jaw to belly revealing fang-like ribs. Sucks anything in range into dimensional void inside him.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": "Requires anger to activate"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Can regenerate from wounds as long as Philosopher's Stone has power. Unfazed by bullet wounds.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Stone depletion is permanent"
+    }
+  ],
+  "signature_moves": [
+    "Consume",
+    "Gate Devour",
+    "Rib Fang Attack"
+  ],
+  "ultimate_move": "False Gate Absorption",
+  "trump_card": "Incomplete Gate of Truth",
+  "power_attributes": {
+    "power_type": "Homunculus",
+    "power_source": "Father's power, Philosopher's Stone",
+    "combat_style": [
+      "Consumption Combat",
+      "Physical Combat",
+      "Dimensional Attack"
+    ],
+    "weapon": "Powerful jaws",
+    "equipment": [],
+    "trump_card": "Incomplete Gate of Truth",
+    "ultimate_move": "False Gate Absorption"
+  },
+  "personality": {
+    "traits": [
+      "Childish",
+      "Voracious",
+      "Simple-minded",
+      "Loyal to Lust",
+      "Obsessive"
+    ],
+    "likes": [
+      "Eating",
+      "Lust",
+      "Hunting prey"
+    ],
+    "dislikes": [
+      "Being hungry",
+      "Not being able to eat",
+      "Lust being hurt"
+    ],
+    "fear": "Simple-minded",
+    "dream": "To eat everything",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Childish",
+      "Obsessive"
+    ]
+  },
+  "character": {
+    "arc": "A simple-minded homunculus only interested in eating, Gluttony serves as one of Father's field agents alongside Lust. Despite his childish demeanor, he is incredibly dangerous with his ability to consume anything and his false gate.",
+    "motivation": "Eating, serving Father",
+    "affinity": "Consumption",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Ate entire buildings of Xerxes",
+    "Tracked Scar across Amestris",
+    "Created false Gate of Truth",
+    "Survived over 160 years"
+  ],
+  "titles": [
+    "The Voracious",
+    "Gluttony the Hound"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 40,
+    "strength": 90,
+    "speed": 75,
+    "durability": 88,
+    "power": 90,
+    "combat": 65,
+    "total": 448
+  },
+  "weaknesses": {
+    "list": [
+      "Simple-minded",
+      "No fighting skills",
+      "Obsessive about eating",
+      "Childish temperament"
+    ],
+    "factors": [
+      "Easily manipulated",
+      "Lacks strategy"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Lust",
+      "Father",
+      "Other Homunculi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Lust",
+        "relationship": "Partner/Sibling",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Father",
+        "relationship": "Creator/Master",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Scar",
+      "Alphonse Elric"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Scar",
+        "relationship": "Target",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": "Lust",
+    "rival": null,
+    "mentor": "Father",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Lust",
+      "Father",
+      "Other Homunculi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Scar",
+      "Alphonse Elric"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Lust",
+      "Father",
+      "Other Homunculi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Scar",
+      "result": "Draw",
+      "method": "Gave some trouble but ultimately fought to a draw"
+    },
+    {
+      "opponent": "Alphonse Elric",
+      "result": "Victory",
+      "method": "Disarmed him using strength"
+    }
+  ],
+  "quotes": [
+    "Can I eat him?",
+    "Lust... can I eat him?"
+  ],
+  "voice_acting": {
+    "native_language": "Kiyoshi Kobayashi (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed during the series",
+    "transformation": null,
+    "awakening_potential": "Already mastered consumption",
+    "power_evolution": [
+      "Young Homunculus",
+      "Field Agent",
+      "Destroyed"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Central City",
+    "story_importance": "Supporting Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Gluttony is the second homunculus to appear in the series, typically being in the company of Lust. He is a large, simple-minded homunculus whose thoughts rarely stray far from eating. He has powerful jaws, acidic saliva, and can and will eat almost anything. He particularly likes eating people, and the only way he can find enjoyment in a battle is if he believes he can eat his opponent afterwards. A running gag in the manga and anime is asking Lust (or any other Homunculi) if he can eat someone. He apparently prefers girls (as in to eat) and also seems to share a bond with his partner Lust.\n\nThere is no significant information pertaining to his role in the 2003 anime series.\n\nIn the manga and 2009 anime series\nGluttony is the sixth Homunculus created by Father...\n\n(Source: Fullmetal Alchemist Wikia)",
+  "note": null,
+  "source": "anime"
+}

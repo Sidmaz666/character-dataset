@@ -1,0 +1,311 @@
+{
+  "id": "7d3b097a2b71ddf36d75a59d25848b9f",
+  "name": "Lunch",
+  "native_name": "ランチ",
+  "full_name": "Lunch",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 155,
+    "weight_kg": 45,
+    "age": "Adult",
+    "birthday": "Unknown",
+    "blood_type": "Unknown",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 18.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde (time-travel)/Black (villain)",
+    "skin": "Fair",
+    "notable_features": "Personality switch based on hair color",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Earth",
+    "current_location": "Earth",
+    "base_of_operations": "Kami's Lookout",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Assassin",
+    "secondary": "Bounty hunter",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Dragon Ball",
+    "manga": "Dragon Ball",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": "Kind (blonde)/Aggressive (black)",
+    "alignment": "Neutral",
+    "likes": [
+      "Fighting",
+      "Energy manipulation"
+    ],
+    "dislikes": [
+      "Death"
+    ],
+    "fear": "Failure",
+    "dream": "Unknown",
+    "personality_type": null,
+    "Dream": null,
+    "strengths": [
+      "Ki Manipulation",
+      "Martial Arts",
+      "Flight"
+    ],
+    "weaknesses": []
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 55,
+    "speed": 60,
+    "durability": 50,
+    "power": 55,
+    "combat": 60,
+    "total": 340
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "character": {
+    "arc": "Dragon Ball character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "publisher": "anime",
+  "abilities": [
+    {
+      "name": "Ki Manipulation",
+      "type": "Energy",
+      "description": "Skilled in controlling and projecting ki energy",
+      "power_level": "High"
+    },
+    {
+      "name": "Martial Arts",
+      "type": "Combat",
+      "description": "Highly trained in martial arts combat",
+      "power_level": "High"
+    },
+    {
+      "name": "Flight",
+      "type": "Movement",
+      "description": "Ability to fly using ki",
+      "power_level": "Medium"
+    }
+  ],
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Z Fighters"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Z Fighters"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Z Fighters"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "signature_moves": [
+    "Ki Manipulation",
+    "Martial Arts",
+    "Flight"
+  ],
+  "ultimate_move": "Ki Manipulation",
+  "trump_card": "Martial Arts",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Cosmic",
+    "combat_style": [
+      "Stealth",
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Stealth gear"
+    ],
+    "trump_card": "Martial Arts",
+    "ultimate_move": "Ki Manipulation"
+  },
+  "achievements": [
+    "Voiced by Mami Koyama (Japanese)",
+    "Voiced by Meredith McCoy (English)"
+  ],
+  "titles": [
+    "Assassin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Meredith McCoy",
+    "note": null,
+    "native_name": null,
+    "japanese": "Mami Koyama"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Kami's Lookout",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "about": "Height: 148 cm\n\nJoining the 501st from the Duchy of Romagna, Francesca is the youngest soldier of the unit at a mere twelve years. Her rank is that of a Warrant officer and her unit affiliation was with Romagna's Regia Aeronautica 4th Air Unit. Francesca is often childish and self-indulgent, shirking training and other duties in order to have fun around the base or nap. However, in battle she displays a true talent and passion for flying. Also displayed are the ears and tail of a black leopard. Good friends with the similarly casual Charlotte. During battles she carries a M1919 A6, Breda-SAFAT 12.7 mm machine gun, or Beretta Model 1938A. Her Striker Unit is based on the G.55 Centauro, and her ace archetype is Franco Lucchini.\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,352 @@
+{
+  "id": "97e040d1c4ec79bc65cce85ccf6736f5",
+  "name": "Urameshi, Yuusuke",
+  "native_name": "浦明星,幽雪",
+  "full_name": "Yusuke Urameshi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Demon/Human",
+    "race": "Human turned Demon Detective",
+    "bloodline": null,
+    "height_cm": 165,
+    "weight_kg": 60,
+    "age": "14-16",
+    "birthday": "April 3",
+    "zodiac": "Aries",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 22,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown (Red when demon)",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Spirit detective badge",
+      "Determined look"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Sarukashi",
+    "current_location": "Demon World / Human World",
+    "base_of_operations": "Spirit Detective HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Spirit Detective",
+    "secondary": "Former teenager",
+    "rank-title": "Spirit Detective",
+    "rank_title": "Spirit Detective",
+    "rank": null
+  },
+  "affiliations": {
+    "current": [
+      "Spirit Detective Agency"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Yu Yu Hakusho Episode 1",
+    "manga": "Yu Yu Hakusho Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spirit Gun",
+      "native_name": "霊丸",
+      "description": "Ultimate spirit attack - strong energy beam",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Demon Transform",
+      "native_name": " демон",
+      "description": "Turn into demon for massive power boost",
+      "type": "Attack",
+      "tier": "S+",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Loses humanity"
+    },
+    {
+      "name": "Aura Shield",
+      "native_name": "気ernet",
+      "description": "Defensive aura barrier",
+      "type": "Defense",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Sensing",
+      "native_name": "感知",
+      "description": "Can see and sense spiritual beings",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Wide",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Spirit Gun",
+    " Demon Transformation"
+  ],
+  "ultimate_move": "Full Power Spirit Gun",
+  "trump_card": " Demon King Form",
+  "power_attributes": {
+    "power_type": "Spirit Energy",
+    "power_source": "Training + Demon blood",
+    "combat_style": [
+      "Spirit combat",
+      "Martial arts"
+    ],
+    "weapon": "Spirit Gun",
+    "equipment": [
+      "Spirit Detective badge"
+    ],
+    "trump_card": " Demon King Form",
+    "ultimate_move": "Full Power Spirit Gun"
+  },
+  "personality": {
+    "traits": [
+      "Rebellious",
+      "Brave",
+      "Caring",
+      "Determined",
+      "Hot-headed"
+    ],
+    "likes": [
+      "Fighting",
+      "Friends",
+      "Girls"
+    ],
+    "dislikes": [
+      "Bullies",
+      "Injustice"
+    ],
+    "fear": "Losing friends",
+    "dream": "Protect everyone",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": [
+      "Hot-headed"
+    ]
+  },
+  "character": {
+    "arc": "Re:Zero character journey",
+    "motivation": "Unknown",
+    "alignment": "Neutral",
+    "affinity": "Neutral"
+  },
+  "achievements": [
+    "Saved Spirit World",
+    "Defeated Sensui",
+    "Became Spirit Detective"
+  ],
+  "titles": [
+    "Spirit Detective",
+    "Demon King"
+  ],
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 60,
+    "speed": 60,
+    "durability": 55,
+    "power": 60,
+    "combat": 60,
+    "total": 360
+  },
+  "publisher": "anime",
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting character",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Roswaal Mansion"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Roswaal Mansion"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Roswaal Mansion"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Hot-headed"
+    ],
+    "factors": [
+      "hot-headed"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Justin Cook",
+    "note": null,
+    "native_name": null,
+    "japanese": "Nozomu Sasaki"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Spirit Detective HQ",
+    "story_importance": "Supporting character",
+    "note": null
+  },
+  "about": "Age: 14 (in the beginning), 18 (at the end of the series)\n\nYuusuke has brown eyes and short black hair, which he usually keeps slightly-spiked with hair gel. He has around half a dozen small bangs which he doesn't keep spiked. Instead of wearing the school-issued blue uniform of Sarayashiki Junior High, he wears a identically-designed green uniform. He does this in direct rebellion of the school's strict dress code. Throughout the series, Yuusuke's clothing changes, but he usually wears some type of fighter's garb. Yuusuke looks rather-skinny, a stark contrast to his unusual strength. At the beginning of the series, he was also quite short as seen when Keiko points out he was shorter than she was.\n\nHaving no father and with his mother always off somewhere else, getting drunk or partying, Yuusuke has grown up in a very neglectful environment. He's short tempered, impulsive, and likes to intimidate those who are afraid of him. One of his most notable traits is his desire to fight, which becomes more noticeable as the series progresses. Yuusuke has been noted on many occasions to being rather unintelligent and, at times, just plain stupid. Yuusuke's desire to fight is more out of enjoyment of a good brawl, and surprisingly Yuusuke doesn't like killing if he can avoid it.\n\nEven though Yuusuke is feared by most students; and severely disliked by almost all of the teachers, he is generally misunderstood. Keiko Yukimura is one of the very few who knows Yuusuke is actually very kind, and she sympathizes with his problems in life. Yuusuke and Keiko quickly develop strong feelings for each other; and he is fiercely protective of her, almost always worrying about her well-being. Yuusuke initially didn't like Kuwabara, but as the series progresses, the two develop a mutual bond and respect for each other, with Kuwabara being the only person who truly understands him. Yuusuke and Hiei have a serious rivalry and, at times, Yuusuke seems almost intimidated by Hiei's remarkable skills. Yet, each of them has respect for the other, and will put their lives on the line to help one another. Yuusuke is very close to Kurama and has a great amount of confidence in him. Yuusuke respects Kurama's wisdom, sometimes looking to him for leadership advice when he's not sure what to do.",
+  "note": null,
+  "source": "anime"
+}

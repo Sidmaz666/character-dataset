@@ -1,0 +1,351 @@
+{
+  "id": "91f1c427376d9bc11864dd5ae7e7f264",
+  "name": "Eagle the Archer",
+  "native_name": null,
+  "full_name": "Bill Hohman",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Compound V Enhanced",
+    "bloodline": "Hohman",
+    "height_cm": 180,
+    "weight_kg": 78,
+    "age": "30s-40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Eagle-themed costume",
+      "Bow and arrows"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Payback HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Archer Superhero",
+    "secondary": "Payback Member",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Payback"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": null,
+    "manga": "The Boys",
+    "comics": "Dynamite Entertainment",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Perfect Aim",
+      "native_name": null,
+      "description": "Never miss a shot",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Requires line of sight"
+    },
+    {
+      "name": "Enhanced Vision",
+      "native_name": null,
+      "description": "See at great distances",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Archery Mastery",
+      "native_name": null,
+      "description": "Expert bow skills",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Requires equipment"
+    }
+  ],
+  "signature_moves": [
+    "Arrow Strike",
+    "Eagle Dive"
+  ],
+  "ultimate_move": "Perfect Shot",
+  "trump_card": "Impossible Shot",
+  "power_attributes": {
+    "power_type": "Archery",
+    "power_source": "Compound V",
+    "combat_style": [
+      "Archery"
+    ],
+    "weapon": "Bow and arrows",
+    "equipment": [
+      "Eagle suit"
+    ],
+    "trump_card": "Impossible Shot",
+    "ultimate_move": "Perfect Shot"
+  },
+  "personality": {
+    "traits": [
+      "Proud",
+      "Confident",
+      "Arrogant",
+      "Loyal"
+    ],
+    "likes": [
+      "Archery",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Being upstaged",
+      "Failure"
+    ],
+    "fear": "Losing aim",
+    "dream": "Be legendary",
+    "personality_type": "ESTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Arrogant archer seeking glory",
+    "motivation": "Fame and recognition",
+    "affinity": "Precision",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Payback member",
+    "Perfect aim record"
+  ],
+  "titles": [
+    "Eagle the Archer",
+    "Perfect Shot"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Active"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 50,
+    "speed": 45,
+    "durability": 45,
+    "power": 75,
+    "combat": 60,
+    "total": 335
+  },
+  "weaknesses": {
+    "list": [
+      "Equipment dependent",
+      "Line of sight needed",
+      "Limited melee"
+    ],
+    "factors": [
+      "Close combat"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Payback"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Arch-nemesis"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Payback"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Arch-nemesis"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Payback"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I never miss."
+  ],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Liam O'Brien",
+    "note": "Comic character",
+    "native_name": null,
+    "japanese": "Junichi Suwabe"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues with Payback",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [
+      "Archer",
+      "Supe archer"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Foot"
+    ],
+    "vehicles": [],
+    "headquarters": "Payback HQ",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Master: Rin Toosaka\nHeight: 187 cm\nWeight: 78 kg\nAffiliation: Rin Toosaka's Servant, Counter Guardians\nArmament: Mantle\nLikes: all kinds of housework (he denies it)\nDislikes: a hero of justice\nTalents: fiddle with junks, all kinds of housework\n\nHe is the Servant of one of the series' main heroines, Rin Toosaka. Due to an incomplete summon, he apparently has no memory of his previous life or identity. Archer is sarcastic and cynical—but under his hardened exterior lies a complex and dark personality that unfolds throughout the story. Though skilled with ranged weapons, he can hold his own in melee combat. Archer considers Shirou Emiya's idealism to be weak and delusional, recognizing Shirou's mentality of \"wanting to save everyone\" as naive and impossible.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

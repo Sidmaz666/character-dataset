@@ -1,0 +1,420 @@
+{
+  "id": "2c79e05bee8ce00adbba6ee508887b48",
+  "name": "Tsunade",
+  "native_name": "綱手",
+  "full_name": "Tsunade",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Senju + Uzumaki Clan",
+    "bloodline": "Senju Clan",
+    "height_cm": 163,
+    "weight_kg": 56,
+    "age": "55+ (appears 20s due to seal)",
+    "birthday": "August 2",
+    "zodiac": "Leo",
+    "blood_type": "B",
+    "weight_kkg": null,
+    "bmi": 21.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Blonde (pinkish in anime)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Beautiful appearance (youth sealed)",
+      "Large breasts",
+      "Strong physique despite slender build",
+      "Forehead mark (seal)"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Hokage Tower",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hokage (Fifth)",
+    "secondary": "Medical Ninja",
+    "rank_title": "Fifth Hokage / Legendary Sannin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure"
+    ],
+    "previous": [
+      "Team Hiruzen (with Jiraiya, Orochimaru)"
+    ],
+    "relatives": [
+      "Hashirama Senju (grandfather)",
+      "Nawaki (brother, deceased)",
+      "Deku (nephew, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 95",
+    "manga": "Naruto Chapter 90",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Medical Ninjutsu",
+      "native_name": "醫療忍術",
+      "description": "World's greatest medical ninja - can heal any wound, reverse death, and create healing networks. Created numerous medical jutsu.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Long (with Katsuyu)",
+      "limit": "Requires significant chakra"
+    },
+    {
+      "name": "Strength of a Hundred Seal",
+      "native_name": "百忍封印術",
+      "description": "Stores chakra in forehead seal - provides 100x chakra when released, includes super strength",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Drains life force, limited duration"
+    },
+    {
+      "name": "Monstrous Strength",
+      "native_name": "怪物般的力量",
+      "description": "Inhuman physical strength - can split ground with finger strike, throw massive objects. Said strongest kunoichi in taijutsu.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Katsuyu Summoning",
+      "native_name": "通靈蝸牛",
+      "description": "Summons giant slug Katsuyu for healing, communication, and combat support. Can split into hundreds.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Requires chakra link"
+    }
+  ],
+  "signature_moves": [
+    "Medical Ninjutsu",
+    "Strength of Hundred Seal",
+    "Katsuyu Summoning",
+    "Physical strength"
+  ],
+  "ultimate_move": "Creation Rebirth - All Things Ignored",
+  "trump_card": "Immense Healing Network via Katsuyu",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Senju ancestry + Uzumaki + Hundred Seal",
+    "combat_style": [
+      "Medical ninjutsu",
+      "Taijutsu",
+      "Summoning"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Summoning tools"
+    ],
+    "trump_card": "Immense Healing Network via Katsuyu",
+    "ultimate_move": "Creation Rebirth - All Things Ignored"
+  },
+  "personality": {
+    "traits": [
+      "Gambler",
+      "Alcoholic",
+      "Caring",
+      "Determined",
+      "Vain about appearance"
+    ],
+    "likes": [
+      "Gambling",
+      "Alcohol",
+      "Sweets",
+      "Protecting villagers"
+    ],
+    "dislikes": [
+      "Losing money",
+      "Weakness",
+      "Orochimaru"
+    ],
+    "fear": "Losing loved ones again",
+    "dream": "Protect the village as Hokage",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Vain"
+    ]
+  },
+  "character": {
+    "arc": "Overcame depression from tragedies to become Fifth Hokage",
+    "motivation": "Protecting village and loved ones",
+    "affinity": "Earth/Healing",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Fifth Hokage of Konoha",
+    "World's strongest kunoichi",
+    "Greatest medical ninja ever",
+    "Legendary Sannin member",
+    "Saved village during Pain's attack"
+  ],
+  "titles": [
+    "Fifth Hokage",
+    "Slug Princess",
+    "Legendary Sannin",
+    "Strongest Kunoichi"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hokage - no bounty"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 95,
+    "speed": 70,
+    "durability": 90,
+    "power": 95,
+    "combat": 85,
+    "total": 530
+  },
+  "weaknesses": {
+    "list": [
+      "Terrible luck (gambling)",
+      "Chakra drain from healing",
+      "Overwhelming emotions cause seal to break"
+    ],
+    "factors": [
+      "vain"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Orochimaru",
+    "allies": [
+      "Naruto",
+      "Shizune",
+      "Kakashi",
+      "Jiraiya"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Student/Protégé",
+        "trust_level": "High - believes in him"
+      },
+      {
+        "name": "Shizune",
+        "relationship": "Student/Assistant",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Orochimaru",
+      "Madara",
+      "Pain"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Jiraiya (from youth)",
+    "best_friend": "Jiraiya (Sannin bond)",
+    "rival": null,
+    "mentor": "Hiruzen Sarutobi",
+    "student": "Naruto, Shizune",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Naruto",
+      "Shizune",
+      "Kakashi",
+      "Jiraiya",
+      "Jiraiya (Sannin bond)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Orochimaru"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Naruto, Shizune"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Naruto",
+      "Shizune",
+      "Kakashi",
+      "Jiraiya"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Hiruzen Sarutobi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Orochimaru",
+      "result": "Victory",
+      "method": "Strength and medical jutsu"
+    },
+    {
+      "opponent": "Pain",
+      "result": "Victory (saved village)",
+      "method": "Immense Healing Network via Katsuyu"
+    }
+  ],
+  "quotes": [
+    "I am the Fifth Hokage!",
+    "I will protect this village no matter what!",
+    "Believe it!"
+  ],
+  "voice_acting": {
+    "native_language": "Masako Katsuki (Japanese)",
+    "note": "Actually: English deb: Pretty Little Monster look:)",
+    "native_name": null,
+    "english": "Debi Mae West",
+    "japanese": "Masako Katsuki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Serving as Hokage",
+    "transformation": "Young appearance via seal (reversible)",
+    "awakening_potential": "Full Hundred Seal mastery",
+    "power_evolution": [
+      "Sannin student",
+      "Hokage",
+      "Medical master"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hokage Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Tsuna is set to become the tenth generation boss of the Vongola family.\n\nIn school, Tsuna has been given the harsh nickname of \"No Good Tsuna,\" as he is very clumsy, gets low marks in school and is somewhat of a pushover.\n\nAlthough he is the tenth generation Vongola boss, Tsuna is unwilling to take part in anything that has to do with the Mafia. He always denies the fact that he is a future Mafia boss and tries to avoid anyone involved with the Mafia. In the Future arc he states that he would rather destroy the Vongola family than accept its bloody history. Tsuna is often surprised and horrified (for a comedic effect) at Reborn's and other mafiosos' actions. Later, even though he still wants nothing to do with the Mafia, he is grateful for the friends he has made since meeting Reborn. He cares a lot for his new \"family\" and would put himself in the way of danger in order to protect them.\n\nThere have been many parallels that link Tsuna with the first boss and founder of the Vongola family, Giotto. Both of their personalities are likely to be very similar as it has been shown that they have similar goals and ways of standards.",
+  "note": null,
+  "source": "anime"
+}

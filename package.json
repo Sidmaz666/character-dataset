@@ -1,0 +1,30 @@
+{
+  "name": "character-dataset",
+  "version": "1.0.0",
+  "description": "Comprehensive dataset of characters from Marvel, DC, Anime, Star Wars, Star Trek, Dark Horse, NBC Heroes, Image Comics, and IDW Publishing.",
+  "scripts": {
+    "normalize": "node scripts/normalize.js",
+    "enrich": "node scripts/enrich.js",
+    "compile": "npm run normalize && npm run enrich && node scripts/compile.js",
+    "get-image": "node scripts/getImage.js",
+    "optimize-images": "node scripts/optimize_images.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidmaz666/character-dataset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidmaz666/character-dataset/issues"
+  },
+  "homepage": "https://github.com/Sidmaz666/character-dataset#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "p-limit": "^7.3.0",
+    "parquetjs": "^0.11.0",
+    "sharp": "^0.34.5"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "name": "Malekith",
+  "native_name": null,
+  "full_name": "Malekith the Accursed",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Dark Elf",
+    "race": "Dark Elf",
+    "bloodline": null,
+    "height_cm": 185,
+    "weight_kg": 82,
+    "age": "Ancient",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow",
+    "hair_color": "White",
+    "skin_color": "Pale Blue",
+    "notable_features": [
+      "Pointed ears",
+      "Dark armor"
+    ],
+    "skin": "Pale Blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Svartalfheim",
+    "current_location": "Svartalfheim",
+    "base_of_operations": "Svartalfheim",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "King of the Dark Elves",
+    "secondary": "Conqueror",
+    "rank_title": "The Accursed",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Thor #344 (1984)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Dark Magic",
+      "type": "Mystical",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long"
+    },
+    {
+      "name": "Illusion Casting",
+      "type": "Mystical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long"
+    },
+    {
+      "name": "Wild Hunt",
+      "type": "Mystical",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Planetary"
+    },
+    {
+      "name": "Immortality",
+      "type": "Racial",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Dark Blade Slash",
+    "Shadow Trap",
+    "Wild Hunt Charge"
+  ],
+  "ultimate_move": "Eternal Winter",
+  "trump_card": "Dark Elven Sorcery",
+  "power_attributes": {
+    "power_type": "Dark Magic",
+    "power_source": "Ancient Dark Elf Sorcery",
+    "combat_style": [
+      "Magic",
+      "Swordsmanship"
+    ],
+    "weapon": "Enchanted Dark Blade",
+    "equipment": [
+      "Casket of Ancient Winters"
+    ],
+    "trump_card": "Dark Elven Sorcery",
+    "ultimate_move": "Eternal Winter"
+  },
+  "personality": {
+    "traits": [
+      "Cruel",
+      "Cunning",
+      "Vengeful",
+      "Patient"
+    ],
+    "likes": [
+      "Darkness",
+      "Power"
+    ],
+    "dislikes": [
+      "Asgardians",
+      "Light"
+    ],
+    "fear": "Being forgotten",
+    "dream": "Eternal darkness",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Patient"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Cruel"
+    ]
+  },
+  "character": {
+    "arc": "Ancient ruler of Dark Elves waging war against Asgard for millennia. Unleashed the War of the Realms.",
+    "motivation": "Destroy Asgard and bring eternal darkness",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Unleashed War of the Realms",
+    "Conquered multiple realms"
+  ],
+  "titles": [
+    "Malekith the Accursed",
+    "King of Dark Elves"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 82,
+    "strength": 72,
+    "speed": 75,
+    "durability": 80,
+    "power": 92,
+    "combat": 78,
+    "total": 479
+  },
+  "weaknesses": {
+    "list": [
+      "Iron",
+      "Light-based weapons"
+    ],
+    "factors": [
+      "Allergic to iron",
+      "Light disrupts dark magic"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thor",
+    "allies": [
+      "Dark Elves"
+    ],
+    "enemies": [
+      "Thor",
+      "Asgard",
+      "Avengers"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Dark Elves"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thor"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Dark Elves"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Thor",
+      "result": "Draw",
+      "method": "Dark magic"
+    }
+  ],
+  "quotes": [
+    "Let there be night."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Ruler of Svartalfheim",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Malekith",
+      "King of Dark Elves"
+    ],
+    "role": "Major Villain",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Dark Elf ships"
+    ],
+    "vehicles": [],
+    "headquarters": "Svartalfheim",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "bde5bc72fc8c43286bb710cfc8ffe03b",
+  "publisher": "marvel",
+  "about": "Malekith the Accursed is a fictional character appearing in American comic books published by Marvel Comics. He is the ruler of the Dark Elves of Svartalfheim and has come into conflict with Thor. Malekith has often wielded the Casket of Ancient Winters, which enables him to generate endless amounts of ice.",
+  "note": null,
+  "source": "marvel"
+}

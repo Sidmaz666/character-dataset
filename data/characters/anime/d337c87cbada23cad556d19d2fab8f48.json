@@ -1,0 +1,415 @@
+{
+  "id": "d337c87cbada23cad556d19d2fab8f48",
+  "name": "Kurapika",
+  "native_name": "クラピカ",
+  "full_name": "Kurapika",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Kurta Clan)",
+    "bloodline": "Kurta Clan",
+    "height_cm": 169,
+    "weight_kg": 59,
+    "age": "17",
+    "birthday": "April 4",
+    "zodiac": "Aries",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 20.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue (Red when emotional)",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Blonde hair",
+      "Blue eyes (red when angry)",
+      "Chain weapons",
+      "Serious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Kurta Village",
+    "current_location": "Yorknew City",
+    "base_of_operations": "None (traveler)",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hunter",
+    "secondary": "Bodyguard",
+    "rank_title": "Rookie Hunter",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hunter Association"
+    ],
+    "previous": [
+      "Kurta Clan"
+    ],
+    "relatives": [
+      "Kurta Clan (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Hunter x Hunter Episode 1",
+    "manga": "Hunter x Hunter Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Scarlet Eyes",
+      "native_name": "火打眼",
+      "description": "Eyes turn scarlet when emotional. Activates Emperor Time for all abilities.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Lifespan drain"
+    },
+    {
+      "name": "Chain Jail",
+      "native_name": "鎖の牢獄",
+      "description": "Chain that binds and forces Nen users into Zetsu (power nullification).",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "Only Spider"
+    },
+    {
+      "name": "Judgment Chain",
+      "native_name": "審判の鎖",
+      "description": "Chain that pierces heart to enforce rules or extract information.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Must touch"
+    },
+    {
+      "name": "Emperor Time",
+      "native_name": "皇帝の時間",
+      "description": "Scarlet eyes activate, allowing 100% efficiency in all Nen categories.",
+      "type": "Buff",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "Lifespan drain"
+    }
+  ],
+  "signature_moves": [
+    "Chain Jail",
+    "Judgment Chain",
+    "Scarlet Eyes"
+  ],
+  "ultimate_move": "Emperor Time",
+  "trump_card": "Scarlet eyes activation",
+  "power_attributes": {
+    "power_type": "Nen",
+    "power_source": "Specialization",
+    "combat_style": [
+      "Chain fighting",
+      "Nen"
+    ],
+    "weapon": "Chains",
+    "equipment": [
+      "Five chains"
+    ],
+    "trump_card": "Scarlet eyes activation",
+    "ultimate_move": "Emperor Time"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Calm",
+      "Vengeful",
+      "Loyal",
+      "Serious",
+      "Determined"
+    ],
+    "likes": [
+      "Gon",
+      "Killua",
+      "Justice",
+      "Revenge"
+    ],
+    "dislikes": [
+      "Spider",
+      "Injustice",
+      "Betrayal"
+    ],
+    "fear": "Losing friends",
+    "dream": "Kill Spider, restore clan honor",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Vengeful"
+    ]
+  },
+  "character": {
+    "arc": "Kurapika is last survivor of Kurta clan. Seeks revenge against Phantom Troupe who massacred his people.",
+    "motivation": "Revenge on Spider, recover eyes",
+    "affinity": "Scarlet/Chains",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Hunter Exam pass",
+    "Defeated Spider members",
+    "Specialization master"
+  ],
+  "titles": [
+    "Last Kurta",
+    "Chain User"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hunter"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 75,
+    "speed": 82,
+    "durability": 78,
+    "power": 90,
+    "combat": 88,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessed with revenge",
+      "Lifespan drain",
+      "Emotional about clan"
+    ],
+    "factors": [
+      "Spider presence"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Phantom Troupe, Chrollo",
+    "allies": [
+      "Gon",
+      "Killua",
+      "Leorio"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Gon Freecss",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Phantom Troupe",
+      "Chrollo"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Chrollo Lucilfer",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "None",
+    "best_friend": "Gon/Killua/Leorio",
+    "rival": "Chrollo",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Gon",
+      "Killua",
+      "Leorio",
+      "Gon/Killua/Leorio"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Phantom Troupe, Chrollo",
+      "Chrollo"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Chrollo"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Gon",
+      "Killua",
+      "Leorio",
+      "Gon/Killua/Leorio"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Chrollo",
+      "result": "Victory",
+      "method": "Chain Jail"
+    },
+    {
+      "opponent": "Uvogin",
+      "result": "Victory",
+      "method": "Judgment Chain"
+    }
+  ],
+  "quotes": [
+    "I don't care if I go to hell.",
+    "My eyes are scarlet when I'm angry.",
+    "Spider..."
+  ],
+  "voice_acting": {
+    "native_language": "Miyuki Sawashiro (Japanese)",
+    "note": "Calm, intense",
+    "native_name": null,
+    "english": "Cheryl McMaster",
+    "japanese": "Yuki Kaida"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing revenge",
+    "transformation": "Scarlet eyes",
+    "awakening_potential": "Very high",
+    "power_evolution": [
+      "Survivor",
+      "Hunter",
+      "Avenger",
+      "Master"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Traveling",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Gender: Male\nAge: 17 (beginning); 19 (current)\nHeight: 171 cm\nWeight: 59 kg\nBirthday: April 4\nZodiac: Aries\nHair color: blonde\nEye color: blue (1999); brown (manga &amp; 2011); scarlet (when angered)\nBlood type: AB\nNen type: Conjuration; Specialization (when his eyes are Scarlet)\nAbilities: Holy Chain, Dowsing Chain, Chain Jail, Judgment Chain\n\nKurapika is a member of the Kurta tribe who were massacred by the Phantom Troupe (The Spiders) 4 years prior the Hunter exam. The Kurta tribe was an isolated group of people whose eyes would turn scarlet when angered or excited. These scarlet eyes were known to be beautiful, being one of the seven most beautiful in the world. Because of this, the Kurta tribe was constantly pursued and eventually massacred. The eyes of the tribe members were all taken away during the massacre. Kurapika is so far the only known survivor with a heart bent on revenge. He strives to have his revenge against the Phantom Troupe as well as recover the eyes of his tribe members.\n\nDespite having a heart full of hatred, Kurapika is very kind and loyal towards his friends. He is an extremely intelligent person but at the same time reckless. Kurapika is from the materialization nen group and from determination, increased the power of his nen ability to the point that it was formidable against the Phantom Troupe.\n\nKurapika can conjure a unique weapon — five chains that extend from each finger on his right hand. Some of the fingers were specially designed to deal vengeance on the Phantom Troupe. To increase his effectiveness against the formidable Phantom Troupe, Kurapika places strict Limitations on the usage of his chains. The purpose of the chain on Kurapika's index finger has yet to be revealed.\n\nKurapika's Techniques\n\nHoly Chain (癒す親指の鎖 ホーリーチェーン The Healing Thumb Chain): Type Conjuration and Enhancement \nChain Jail (束縛する中指の鎖 チェーンジェイル The Restraining Middle Finger Chain): Type Conjuration, Emission, and Manipulation \nDowsing Chain (導く薬指の鎖 ダウジングチェーン The Guiding Ring Finger Chain): Type Conjuration \nJudgment Chain (律する小指の鎖 ジャッジメントチェーン The Arbiter Little Finger Chain): Type Conjuration, Emission, and Manipulation \nEmperor Time (絶対時間 エンペラータイム Absolute Mastery): Type Specialization",
+  "note": null,
+  "source": "anime"
+}

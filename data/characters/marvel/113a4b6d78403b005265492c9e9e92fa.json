@@ -1,0 +1,335 @@
+{
+  "id": "113a4b6d78403b005265492c9e9e92fa",
+  "name": "Riot",
+  "native_name": null,
+  "full_name": "Riot",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Symbiote",
+    "race": "Symbiote",
+    "bloodline": null,
+    "height_cm": 213,
+    "weight_kg": 100,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "None",
+    "skin_color": "Black/Blue",
+    "notable_features": [
+      "Massivebuild",
+      "Armor-like exoskeleton"
+    ],
+    "skin": "Black/Blue",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Research facility",
+    "current_location": "Unknown",
+    "base_of_operations": "Research facility",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Symbiote",
+    "secondary": "Soldier",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Life Foundation"
+    ],
+    "previous": [],
+    "relatives": [
+      "Other symbiotes"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Web of Spider-Man #180",
+    "comics": "Web of Spider-Man #180 (1989)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced strength, strongest of the symbiote siblings",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Durability",
+      "native_name": null,
+      "description": "Armor-like hide",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Can adhere to surfaces",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Power Smash",
+    "Body Slam"
+  ],
+  "ultimate_move": "Symbiote Barrage",
+  "trump_card": "Superhuman Strength",
+  "power_attributes": {
+    "power_type": "Symbiote",
+    "power_source": "Knull",
+    "combat_style": "Melee",
+    "weapon": "Unknown",
+    "equipment": [
+      "Durability"
+    ],
+    "trump_card": "Superhuman Strength",
+    "ultimate_move": "Symbiote Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Aggressive",
+      "Powerful",
+      "Protective",
+      "Cooperative"
+    ],
+    "likes": [
+      "Combat"
+    ],
+    "dislikes": [
+      "Light"
+    ],
+    "fear": "Sonic weapons",
+    "dream": "Power",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Powerful"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Life Foundation symbiote",
+    "motivation": "Power",
+    "affinity": "Darkness",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Riot"
+  ],
+  "titles": [
+    "Riot"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 40,
+    "strength": 70,
+    "speed": 55,
+    "durability": 60,
+    "power": 55,
+    "combat": 55,
+    "total": 335
+  },
+  "weaknesses": {
+    "list": [
+      "Sonic vibrations",
+      "Fire"
+    ],
+    "factors": [
+      "aggressive"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Spider-Man",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Spider-Man"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Spider-Man"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Life Foundation"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Research facility",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "A riot or mob violence is a form of civil disorder commonly characterized by some people committing public violence against government or other authority figures and property. Riots typically involve destruction of property, public or private. The property targeted varies depending on the riot and the inclinations of those involved. Targets can include shops, cars, restaurants, state-owned institutions, and religious buildings or other symbol of a targeted sector of the population. Although a riot may be produced by political grievances, government offices themselves are not often targeted due to their strong protection.\nRiots often occur in reaction to a grievance or out of dissent. Historically, riots have occurred due to poverty, unemployment, poor living conditions, governmental oppression, taxation or conscription, conflicts between ethnic groups (race riot) or religions (e.g., sectarian violence, pogrom), the outcome of a sporting event (e.g., sports riot, football hooliganism) or frustration with legal channels through which to air grievances.\nIndividuals may attempt to lead or control a riot, but riots typically are conducted by disorganized gatherings of people. Mob actions are frequently \"chaotic and exhibit herd behavior\". A body of evidence suggests that riots do not exhibit irrational, herd-like behavior (sometimes called mob mentality), but actually follow inverted social norms.\nPolice forces often have difficulty dealing with a riot. They may use tear gas or CS gas to control rioters. Riot police may use less-than-lethal methods of control, such as shotguns that fire flexible baton rounds or rubber bullets to injure or otherwise incapacitate rioters, thus breaking up a riot or allowing easier arrest.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,352 @@
+{
+  "id": "5eb7fa595ba68ba44c7ac1781f856c31",
+  "name": "Kaine Parker",
+  "native_name": null,
+  "full_name": "Kaine",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human with Spider DNA",
+    "bloodline": null,
+    "height_cm": 183,
+    "weight_kg": 82,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 24.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Scorpion-like tail",
+      "Venom stingers"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York",
+    "current_location": "Unknown",
+    "base_of_operations": "New York",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Bounty Hunter",
+    "secondary": "Superhero",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider Society"
+    ],
+    "previous": [],
+    "relatives": [
+      "Peter Parker (clone)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Web of Spider-Man #104",
+    "comics": "Web of Spider-Man #104 (1994)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced strength from spider DNA",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Wall-Crawling",
+      "native_name": null,
+      "description": "Ability to cling to surfaces",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Stinger",
+      "native_name": null,
+      "description": "Venom-tipped scorpion tail",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Spider-Sense",
+      "native_name": null,
+      "description": "Danger warning ability",
+      "type": "Defense",
+      "tier": "C",
+      "power_level": 45,
+      "range": "Short",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Stinger Strike",
+    "Web Blast"
+  ],
+  "ultimate_move": "Deadly Sting",
+  "trump_card": "Full Power Sting",
+  "power_attributes": {
+    "power_type": "Spider DNA",
+    "power_source": "Clone of Spider-Man",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": "Full Power Sting",
+    "ultimate_move": "Deadly Sting"
+  },
+  "personality": {
+    "traits": [
+      "Brooding",
+      "Violent",
+      "Protective"
+    ],
+    "likes": [
+      "Money",
+      "Hunting"
+    ],
+    "dislikes": [
+      "Spider-Man"
+    ],
+    "fear": "Degenerative condition",
+    "dream": "Money and survival",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective"
+    ],
+    "weaknesses": [
+      "Violent",
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Failed clone who became a bounty hunter",
+    "motivation": "Money and survival",
+    "affinity": "Poison",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Became Scarlet Spider"
+  ],
+  "titles": [
+    "Kaine",
+    "Scarlet Spider"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 60,
+    "speed": 60,
+    "durability": 55,
+    "power": 50,
+    "combat": 55,
+    "total": 335
+  },
+  "weaknesses": {
+    "list": [
+      "Degenerative condition"
+    ],
+    "factors": [
+      "violent",
+      "brooding"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Peter Parker",
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Peter Parker",
+      "Ben Reilly"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Ben Reilly",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Peter Parker",
+      "Ben Reilly"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Ben Reilly"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider Society"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Brian Bloom (English)",
+    "english": "Brian Bloom",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "New York",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "source": "bing_images",
+  "publisher": "marvel",
+  "about": "Kaine Parker is a character appearing in American comic books published by Marvel Comics. The character has been depicted as a superhero and former supervillain who serves as an ally, an enemy, and foil to Peter Parker/Spider-Man and Ben Reilly. Created by Terry Kavanagh and Steven Butler, the character first appeared in Web of Spider-Man #119 (December 1994) as the Jackal's first failed attempt of a clone of Spider-Man. He later appeared as the new Scarlet Spider in the Marvel Point One one-shot in November 2011 before starring in his own series.\nKaine Parker/Scarlet Spider made his cinematic debut in the 2023 feature film Spider-Man: Across the Spider-Verse.",
+  "note": null
+}

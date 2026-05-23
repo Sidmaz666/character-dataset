@@ -1,0 +1,458 @@
+{
+  "id": "c76edd14c245b9a7ac8016abfbcb5ea8",
+  "name": "Invincible",
+  "native_name": null,
+  "full_name": "Markus Sebastian 'Mark' Grayson",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Viltrumite-Human Hybrid",
+    "race": "Viltrumite",
+    "bloodline": "Grayson",
+    "height_cm": 185,
+    "weight_kg": 90,
+    "age": "17-18 (born 2005)",
+    "birthday": "October 10",
+    "zodiac": "Libra",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 26.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Viltrumite red eyes",
+      "Heroic build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Chicago, Illinois",
+    "current_location": "Earth/Viltrum",
+    "base_of_operations": "Guardian Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "High school student",
+    "rank_title": "Team leader",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Guardians of the Globe",
+      "Teen Team"
+    ],
+    "previous": [],
+    "relatives": [
+      "Nolan Grayson (Omni-Man, father)",
+      "Debbie Grayson (mother)",
+      "Oliver Grayson (half-brother)",
+      "Atom Eve (girlfriend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Invincible #1",
+    "comics": "Image Comics 2002",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Strength",
+      "native_name": null,
+      "description": "Incredible physical strength rivaling Viltrumites",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "None known"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitate and travel at extreme velocities",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "None"
+    },
+    {
+      "name": "Nigh-Invulnerability",
+      "native_name": null,
+      "description": "Nearly indestructible to most attacks",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Certain Viltrumites"
+    },
+    {
+      "name": "Super Speed",
+      "native_name": null,
+      "description": "Move at incredible speeds",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": null
+    },
+    {
+      "name": "Healing Factor",
+      "native_name": null,
+      "description": "Rapid healing from injuries",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Severe damage takes time"
+    },
+    {
+      "name": "Sonic Clap",
+      "native_name": null,
+      "description": "Powerful sonic shockwave",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Omni-Punch",
+    "Flight Strike",
+    "Sonic Clap"
+  ],
+  "ultimate_move": "Full Viltrumite Power",
+  "trump_card": "Viltrumite Wrath",
+  "power_attributes": {
+    "power_type": "Viltrumite Physiology",
+    "power_source": "Viltrumite Genetics",
+    "combat_style": [
+      "Flight combat",
+      "Martial arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Hero suit"
+    ],
+    "trump_card": "Viltrumite Wrath",
+    "ultimate_move": "Full Viltrumite Power"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Honorbound",
+      "Compassionate",
+      "Reluctant"
+    ],
+    "likes": [
+      "Helping others",
+      "Justice"
+    ],
+    "dislikes": [
+      "Killing",
+      "Losing control"
+    ],
+    "fear": "Becoming like Omni-Man",
+    "dream": "Protect Earth",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Vulnerab"
+    ]
+  },
+  "character": {
+    "arc": "Teen hero learning to balance life and power",
+    "motivation": "Protect the innocent",
+    "affinity": "Protection",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved Earth from Viltrumites",
+    "Defeated Thragg",
+    "Became ruler of Viltrum",
+    "Joined Teen Team"
+  ],
+  "titles": [
+    "Invincible",
+    "Mark",
+    "Young Omni-Man"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 100,
+    "speed": 95,
+    "durability": 95,
+    "power": 90,
+    "combat": 85,
+    "total": 545
+  },
+  "weaknesses": {
+    "list": [
+      "Certain Viltrumites",
+      "Kryptonite-like weakness",
+      "Magic"
+    ],
+    "factors": [
+      "Viltrumite DNA vulnerability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Thragg",
+    "allies": [
+      "Atom Eve",
+      "Omni-Man",
+      "Cecil Stedman",
+      "Teen Team"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Atom Eve",
+        "relationship": "Girlfriend",
+        "trust_level": "Maximum"
+      },
+      {
+        "name": "Omni-Man",
+        "relationship": "Father",
+        "trust_level": "Medium"
+      },
+      {
+        "name": "Cecil Stedman",
+        "relationship": "Mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Thragg",
+      "Conquest",
+      "Viltrum Empire"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Thragg",
+        "relationship": "Arch-enemy",
+        "threat_level": "Maximum"
+      },
+      {
+        "name": "Conquest",
+        "relationship": "Rival",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Atom Eve",
+    "best_friend": "Atom Eve",
+    "rival": "Conquest",
+    "mentor": "Cecil Stedman",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Atom Eve",
+      "Omni-Man",
+      "Cecil Stedman",
+      "Teen Team"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Thragg",
+      "Conquest"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Omni"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Omni"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Conquest"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Atom Eve",
+      "Omni-Man",
+      "Cecil Stedman",
+      "Teen Team"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Cecil Stedman"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Omni-Man",
+      "result": "Victory",
+      "method": "Refused to kill"
+    },
+    {
+      "opponent": "Thragg",
+      "result": "Victory",
+      "method": "Killed him"
+    },
+    {
+      "opponent": "Conquest",
+      "result": "Victory",
+      "method": "Killed him"
+    }
+  ],
+  "quotes": [
+    "I'm not like Dad. I'll never be like Dad.",
+    "It's not about where you're from. It's about what you choose to do."
+  ],
+  "voice_acting": {
+    "native_language": "J.K. Simmons / Steven Yeun (English)",
+    "english": "Steven Yeun",
+    "note": "Main lead in animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Becomes ruler of Viltrum",
+    "transformation": "Viltrumite power awakening",
+    "awakening_potential": "Full Viltrumite power",
+    "power_evolution": [
+      "Teen hero",
+      "Experienced warrior",
+      "Emperor"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [
+      "Guardian jet"
+    ],
+    "headquarters": "Guardian HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "image_comics",
+  "about": "Invincible is an American comic book series written by Robert Kirkman and illustrated by Cory Walker and Ryan Ottley, and published by Image Comics. Set in the Image Universe, Invincible follows the coming of age of superhero Mark Grayson / Invincible, a half-Viltrumite and first-born son of Omni-Man, the most powerful superhero on Earth. The series began publication on January 22, 2003, before coming to a close on February 14, 2018, with 144 issues. Several spin-off series were released over its run: Brit, The Pact, Invincible Presents: Atom Eve & Rex Splode, and Guarding the Globe. An animated television adaptation began streaming on Amazon Prime Video on March 25, 2021, while an additional spin-off interquel, Invincible Universe: Battle Beast, began publication in 2025.",
+  "note": null,
+  "source": "image_comics"
+}

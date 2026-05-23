@@ -1,0 +1,322 @@
+{
+  "id": "6065d81204c1b2406655f072d4a2515a",
+  "name": "Solf",
+  "native_name": "",
+  "full_name": "Solf",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Amestris",
+    "current_location": "Amestris",
+    "base_of_operations": "Central City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Fullmetal Alchemist",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fullmetal Alchemist",
+    "manga": "Fullmetal Alchemist",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Alchemy",
+      "type": "Transmutation",
+      "description": "Skilled in the art of alchemical transmutation",
+      "power_level": "High"
+    },
+    {
+      "name": "Combat Alchemy",
+      "type": "Combat",
+      "description": "Applies alchemy in combat situations",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Analytical Mind",
+      "type": "Mental",
+      "description": "Sharp problem-solving and analytical abilities",
+      "power_level": "High"
+    }
+  ],
+  "signature_moves": [
+    "Alchemy",
+    "Combat Alchemy",
+    "Analytical Mind"
+  ],
+  "ultimate_move": "Alchemy",
+  "trump_card": "Combat Alchemy",
+  "power_attributes": {
+    "power_type": "Elemental",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Psychic combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Psychic focus"
+    ],
+    "trump_card": "Combat Alchemy",
+    "ultimate_move": "Alchemy"
+  },
+  "personality": {
+    "traits": [
+      "Intelligent",
+      "Determined",
+      "Compassionate",
+      "Brave",
+      "Principled"
+    ],
+    "likes": [
+      "Learning",
+      "Helping others",
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Death",
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Fullmetal Alchemist character journey",
+    "motivation": "Unknown",
+    "affinity": "Unknown",
+    "alignment": "Unknown"
+  },
+  "achievements": [
+    "Voiced by Yuuji Ueda (Japanese)",
+    "Voiced by Eric Vale (English)"
+  ],
+  "titles": [
+    "Fullmetal Alchemist"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 60,
+    "speed": 60,
+    "durability": 60,
+    "power": 60,
+    "combat": 60,
+    "total": 360
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "State Military"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "State Military"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "State Military"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Eric Vale",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Yuuji Ueda"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Unknown",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Fullmetal Alchemist (Japanese: 鋼の錬金術師, Hepburn: Hagane no Renkinjutsushi; lit. 'Alchemist of Steel') is a Japanese manga series written and illustrated by Hiromu Arakawa. It was serialized in Square Enix's shōnen manga anthology magazine Monthly Shōnen Gangan between July 2001 and June 2010; the publisher later collected the individual chapters in 27 tankōbon volumes.  Set in a fictional universe in which alchemy is a widely practiced science, the series follows the journey of two alchemist brothers, Edward and Alphonse Elric, as they search for the philosopher's stone to restore their bodies after a failed attempt to bring their mother back to life via alchemy. The steampunk world of Fullmetal Alchemist is primarily styled after the European Industrial Revolution.\nFullmetal Alchemist has been adapted into various anime—two television series, released in 2003 and 2009, and two films, released in 2005 and 2011, all animated by Bones—as well as light novels. The series also includes original video animations (OVAs), video games, supplementary books, a collectible card game, and a variety of action figures and other merchandise. A live-action film based on the series was released in 2017, with two sequels in 2022. In North America, the manga was localized and published in English by Viz Media. Yen Press has owned the rights for the digital release of the volumes since 2014.\nFullmetal Alchemist has received widespread acclaim from critics and audiences alike and is considered one of the greatest manga series of all time. It has sold over 80 million copies worldwide, making it one of the best-selling manga series of all time. It received the 49th Shogakukan Manga Award for the shōnen category in 2004, the UK's Eagle Award for favorite manga in 2010 and 2011, and the Seiun Award for best science fiction comic in 2011.",
+  "note": null,
+  "source": "anime"
+}

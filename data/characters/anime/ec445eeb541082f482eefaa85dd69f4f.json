@@ -1,0 +1,316 @@
+{
+  "id": "ec445eeb541082f482eefaa85dd69f4f",
+  "name": "Kit Church",
+  "native_name": "キット・チャーチ",
+  "full_name": "Christopher Kit Church",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Nobility (younger son of a duke)",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "Student age",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Eccentric personality",
+      "Scruffy appearance",
+      "Ranked first in assignments"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown (noble family)",
+    "current_location": "School",
+    "base_of_operations": "Prism Rondo setting",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Mysterious student",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Prism Rondo"
+    ],
+    "previous": [],
+    "relatives": [
+      "Duke Church (father)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Prism Rondo Episode 1",
+    "manga": "Prism Rondo Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Academics",
+      "native_name": "学業",
+      "description": "Consistently ranks first in assignments",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Mysterious Powers",
+      "native_name": "謎の力",
+      "description": "Implied unique abilities in Prism Rondo world",
+      "type": "Attack",
+      "tier": "B+",
+      "power_level": 70,
+      "range": "Unknown",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Academics",
+    "Mysterious Powers"
+  ],
+  "ultimate_move": "Academics",
+  "trump_card": "Unknown true power",
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Noble heritage",
+    "combat_style": [
+      "Unknown"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Unknown true power",
+    "ultimate_move": "Academics"
+  },
+  "personality": {
+    "traits": [
+      "Eccentric",
+      "Intelligent",
+      "Mysterious"
+    ],
+    "likes": [
+      "Academics"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Mysterious nature",
+    "dream": "Unknown",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Mysterious top student with noble background",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Consistently ranked first in assignments"
+  ],
+  "titles": [
+    "Top student",
+    "Duke's son"
+  ],
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 50,
+    "speed": 55,
+    "durability": 50,
+    "power": 60,
+    "combat": 50,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Mysterious nature"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Prism Rondo"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Uchiyama Kouki (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Christopher Bonwell",
+    "japanese": "Kouki Uchiyama"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Main Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Prism Rondo setting",
+    "story_importance": "Main",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Love Through a Prism (Japanese: プリズム輪舞曲, Hepburn: Purizumu Rondo) is a Japanese original net animation (ONA) series created by Yoko Kamio and produced by Wit Studio. The 20-episode series was released on Netflix in January 2026. A manga adaptation illustrated by Maki Minami began serialization on Shueisha's Shōnen Jump+ and Manga Mee manga websites in the same month.",
+  "note": null,
+  "source": "anime"
+}

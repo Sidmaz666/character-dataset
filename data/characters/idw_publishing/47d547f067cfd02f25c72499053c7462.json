@@ -1,0 +1,388 @@
+{
+  "id": "47d547f067cfd02f25c72499053c7462",
+  "name": "Soundwave",
+  "native_name": null,
+  "full_name": "Soundwave",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cybertronian",
+    "race": "Transformer",
+    "bloodline": "Decepticon",
+    "height_cm": 800,
+    "weight_kg": 3500,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 54.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "None",
+    "skin_color": "Blue/Metallic",
+    "notable_features": [
+      "Blue color scheme",
+      "Tape deck chest",
+      "Visored faceplate"
+    ],
+    "skin": "Blue/Metallic",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cybertron",
+    "current_location": "Earth",
+    "base_of_operations": "Nemesis warship",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Decepticon Communications Officer",
+    "secondary": "Spymaster",
+    "rank_title": "Lieutenant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Decepticons"
+    ],
+    "previous": [],
+    "relatives": [
+      "Megatron (master)",
+      "Decepticon High Command"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Transformers (IDW Comics 2005)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Sonic Blaster",
+      "native_name": null,
+      "description": "Hand-held sonic weapon firing devastating sound waves",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Energy dependent"
+    },
+    {
+      "name": "Sound Manipulation",
+      "native_name": null,
+      "description": "Weaponizes sound for attack and defense",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Communications Mastery",
+      "native_name": null,
+      "description": "Intercepts, jams, and manipulates communications worldwide",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Planetary",
+      "limit": null
+    },
+    {
+      "name": "Cassette Minions",
+      "native_name": null,
+      "description": "Deploys Ravage, Laserbeak, Rumble, Frenzy",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Limited cassettes"
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Strong Cybertronian armor",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Sonic Wave Blast",
+    "Ravage Strike",
+    "Laserbeak Recon"
+  ],
+  "ultimate_move": "Deafening Silence",
+  "trump_card": "Loyalty to Megatron",
+  "power_attributes": {
+    "power_type": "Cybertronian",
+    "power_source": "Spark/Energon",
+    "combat_style": [
+      "Sound-based",
+      "Espionage",
+      "Electronic warfare"
+    ],
+    "weapon": "Sonic Blaster",
+    "equipment": [
+      "Cassette minions",
+      "Communication array"
+    ],
+    "trump_card": "Loyalty to Megatron",
+    "ultimate_move": "Deafening Silence"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Cold",
+      "Efficient",
+      "Calculating",
+      "Inscrutable"
+    ],
+    "likes": [
+      "Order",
+      "Efficiency",
+      "Serving Megatron"
+    ],
+    "dislikes": [
+      "Starscream's treachery",
+      "Inefficiency",
+      "Autobots"
+    ],
+    "fear": "Betraying Megatron",
+    "dream": "Decepticon victory",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal",
+      "Efficient"
+    ],
+    "weaknesses": [
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "The most loyal Decepticon, communications officer and spymaster deploying cassette minions",
+    "motivation": "Loyalty to Megatron and the Decepticon cause",
+    "affinity": "Loyalty/Order",
+    "alignment": "Lawful Evil"
+  },
+  "achievements": [
+    "Most loyal Decepticon",
+    "Master spy"
+  ],
+  "titles": [
+    "Decepticon Communications Officer"
+  ],
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 70,
+    "speed": 65,
+    "durability": 75,
+    "power": 80,
+    "combat": 70,
+    "total": 450
+  },
+  "weaknesses": {
+    "list": [
+      "Sound nullified in vacuum",
+      "Minions destroyed",
+      "Energon dependency"
+    ],
+    "factors": "Cybertronian weaknesses"
+  },
+  "relationships": {
+    "nemesis": "Autobot communications",
+    "allies": [
+      "Megatron",
+      "Decepticons"
+    ],
+    "enemies": [
+      "Autobots",
+      "Starscream"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Starscream",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Megatron",
+      "Decepticons"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Autobot communications",
+      "Starscream"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Starscream"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Megatron",
+      "Decepticons"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Autobots",
+      "result": "Mixed",
+      "method": "Electronic warfare"
+    }
+  ],
+  "quotes": [
+    "Soundwave: Superior. Autobots: Inferior.",
+    "Ravage, eject. Operation: Reconnaissance."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues serving Megatron",
+    "transformation": "N/A",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "idw_publishing",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Nemesis warship",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Soundwave or Sound Wave may refer to: \n\nSound, a vibration that propagates as an acoustic wave\nAcoustic wave, the wave which carries sound",
+  "note": null,
+  "source": "idw_publishing"
+}

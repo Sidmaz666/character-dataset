@@ -1,0 +1,389 @@
+{
+  "id": "c0262549f37cbc09501b5068e375182b",
+  "name": "Harley Quinn",
+  "native_name": null,
+  "full_name": "Harleen Frances Quinzel",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Quinzel Family",
+    "height_cm": 170,
+    "weight_kg": 63,
+    "age": "32",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Psychiatrist",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Formerly The Quintets",
+      "The Joker",
+      "Poison Ivy",
+      "Secret Six"
+    ],
+    "previous": [],
+    "relatives": [
+      "Barry Quinzel (brother)",
+      "Sharon Quinzel (mother)",
+      "Nick Quinzel (father)",
+      "Jenny Quinzel (niece)",
+      "Nicky Quinzel (nephew)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman: Harley Quinn (October, 1999)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Expert Gymnast",
+      "native_name": null,
+      "description": "Former college gymnast with incredible agility",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Weaponized Mallet",
+      "native_name": null,
+      "description": "Expert with giant mallet and various trick weapons",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Toxin Resistance",
+      "native_name": null,
+      "description": "Developed immunity to most poisons through exposure",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Acrobatic Combat",
+      "native_name": null,
+      "description": "Unpredictable acrobatic fighting style",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Close",
+      "limit": null
+    },
+    {
+      "name": "Psychological Instability",
+      "native_name": null,
+      "description": "Unpredictable nature makes her dangerous",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Mallet Smash",
+    "Acrobatic Evasion",
+    "Pop Gun Surprise"
+  ],
+  "ultimate_move": "Harley's Havoc",
+  "trump_card": "Unpredictability",
+  "power_attributes": {
+    "power_type": "Peak Human",
+    "power_source": "Training",
+    "combat_style": [
+      "Acrobatics",
+      "Weaponized comedy"
+    ],
+    "weapon": "Giant Mallet",
+    "equipment": [
+      "Pop gun",
+      "Bang flag bombs",
+      "Jester costume"
+    ],
+    "trump_card": "Unpredictability",
+    "ultimate_move": "Harley's Havoc"
+  },
+  "personality": {
+    "traits": [
+      "Unpredictable",
+      "Chaotic",
+      "Playful",
+      "Loyal",
+      "Manipulative"
+    ],
+    "likes": [
+      "Joker",
+      "Mayhem",
+      "Fun",
+      "Her hyenas"
+    ],
+    "dislikes": [
+      "Being ignored",
+      "Batman",
+      "Boredom"
+    ],
+    "fear": "Being abandoned",
+    "dream": "To be free to be herself",
+    "personality_type": "ESFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Manipulative"
+    ]
+  },
+  "character": {
+    "arc": "From psychiatrist to Joker's obsessed girlfriend Harley Quinn, later breaking free to become her own anti-hero",
+    "motivation": "Love for Joker and desire for chaos",
+    "affinity": "Chaos/Love",
+    "alignment": "Chaotic Neutral"
+  },
+  "achievements": [
+    "Broke out of Arkham multiple times",
+    "Became a prominent Gotham villain"
+  ],
+  "titles": [
+    "Harlequin of Hate",
+    "Joker's Girl"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 70,
+    "durability": 60,
+    "power": 50,
+    "combat": 75,
+    "total": 385
+  },
+  "weaknesses": {
+    "list": [
+      "Obsessive love for Joker",
+      "Impulsive"
+    ],
+    "factors": "Human limitations"
+  },
+  "relationships": {
+    "nemesis": "Batman",
+    "allies": [
+      "Poison Ivy",
+      "Catwoman"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Batman",
+      "Joker"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Joker",
+    "best_friend": "Poison Ivy",
+    "rival": null,
+    "mentor": "Joker",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Poison Ivy",
+      "Catwoman"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Batman"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Poison Ivy",
+      "Catwoman"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Joker"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Batman",
+      "result": "Defeat",
+      "method": "Outmatched"
+    }
+  ],
+  "quotes": [
+    "Why so serious?",
+    "We're bad guys, it's what we do!"
+  ],
+  "voice_acting": {
+    "native_language": "Arleen Sorkin",
+    "english": "Arleen Sorkin",
+    "note": "Original voice in Batman: The Animated Series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues chaotic life in Gotham",
+    "transformation": "From doctor to villain",
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gotham City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Harley Quinn (Dr. Harleen Frances Quinzel, MD) is a fictional character appearing in American comic books published by DC Comics. She was created by Paul Dini and Bruce Timm for Batman: The Animated Series as a henchwoman for the Joker, and debuted in the series' 22nd episode, \"Joker's Favor\", on September 11, 1992. Although originally intended to appear in only one episode, Quinn became a recurring character within the DC Animated Universe (DCAU) as the Joker's sidekick and love interest, and was adapted into DC Comics' canon seven years later, beginning with the one-shot Batman: Harley Quinn #1 (October 1999). Quinn's origin story portrays her as a former psychiatrist at Arkham Asylum in Gotham City manipulated by the Joker, her patient, eventually becoming his accomplice and lover. The character's alias is a play on the stock character Harlequin from the 16th-century Italian theatre commedia dell'arte.\nFollowing her introduction into comics in 1999, Harley Quinn was depicted as a former doctor turned sidekick and lover of the Joker, as well as the criminal associate and best friend of Poison Ivy. Later stories portrayed Quinn as an independent supervillain who had left her codependent relationship with the Joker behind, beginning with the publication of her ongoing series, Harley Quinn. After years of relatively scarce appearances in comics, Quinn returned to a leading role in 2009 with the Gotham City Sirens series, as part of an unstable alliance with Poison Ivy and Catwoman. The character was redesigned in 2011 for DC's line-wide \"The New 52\" relaunch, and has since regularly appeared as an antihero in the Suicide Squad and Birds of Prey team titles. Other developments included headlining her own light-hearted Harley Quinn comic book series and being established in a new romantic relationship with Poison Ivy. In 2021, DC's line-wide Infinite Frontier relaunch brought Quinn back to Gotham City and reestablished her as a superhero seeking redemption for her past actions; she currently operates as an antihero.\nHarley Quinn's abilities include expert gymnastic skills, proficiency with weapons and hand-to-hand combat, complete unpredictability, immunity to toxins, and enhanced strength, agility, and durability. She often wields clown-themed gag weapons, with an oversized mallet serving as her signature weapon. Additionally, she has a pair of pet hyenas, Bud and Lou, who sometimes act as her attack dogs. Quinn has become one of DC Comics' most popular and commercially successful characters, appearing in numerous comic book titles and being adapted into various other media and merchandise. DC Comics publisher Jim Lee has described Harley Quinn as the fourth pillar of DC Comics' publishing line, after Superman, Batman, and Wonder Woman.\nThe character has been adapted into various media incarnations. In film, she has been portrayed by Margot Robbie in the DC Extended Universe (DCEU) films Suicide Squad (2016), Birds of Prey (2020), and The Suicide Squad (2021), and by Lady Gaga in Joker: Folie à Deux (2024). In television, she was portrayed by Mia Sara in Birds of Prey (2002–2003) and had a voice cameo by Tara Strong in Arrow. Arleen Sorkin, the character's original voice and inspiration, along with Tara Strong, Hynden Walch, and Kaley Cuoco (in the eponymous Harley Quinn), are among the many performers who have voiced the character in animation and video games.",
+  "note": null,
+  "source": "dc"
+}

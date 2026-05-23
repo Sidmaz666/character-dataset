@@ -1,0 +1,496 @@
+{
+  "id": "6013e7c0e9d4e9e8362d223204f86dd5",
+  "name": "She-Hulk",
+  "native_name": null,
+  "full_name": "Jennifer Susan Walters",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Banner family",
+    "height_cm": 188,
+    "weight_kg": 180,
+    "age": "30-40 (varies by continuity)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 50.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Green",
+    "skin_color": "Green",
+    "notable_features": [
+      "Muscular build",
+      "Green skin",
+      "Professional attire",
+      "Confident demeanor"
+    ],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Los Angeles, California",
+    "current_location": "New York City",
+    "base_of_operations": "New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Lawyer",
+    "rank_title": "Avenger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "Heroes for Hire"
+    ],
+    "previous": [
+      "Lady Liberators",
+      "FF"
+    ],
+    "relatives": [
+      "Bruce Banner (cousin)",
+      "Morris Walters (father)",
+      "Elaine Walters (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Savage She-Hulk #1 (February 1980)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Vast superhuman strength rivaling Hulk",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Melee",
+      "limit": "Transformation control"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Extremely durable body resistant to most harm",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Extreme force"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Enhanced speed and reflexes",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Transformation control"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Rapid healing abilities",
+      "type": "Biological",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Severe damage"
+    },
+    {
+      "name": "Intelligence Retention",
+      "native_name": null,
+      "description": "Retains full intelligence in Hulk form",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Legal Expertise",
+      "native_name": null,
+      "description": "Brilliant lawyer with expertise in superhero law",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Legal system"
+    },
+    {
+      "name": "Combat Training",
+      "native_name": null,
+      "description": "Trained in various forms of combat",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Transformation Control",
+      "native_name": null,
+      "description": "Can control transformation between forms",
+      "type": "Biological",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Emotional state"
+    }
+  ],
+  "signature_moves": [
+    "Hulk smash",
+    "Legal combat",
+    "Strength-based attacks"
+  ],
+  "ultimate_move": "Full She-Hulk power",
+  "trump_card": "Intelligence and strength combination",
+  "power_attributes": {
+    "power_type": "Gamma Radiation",
+    "power_source": "Gamma radiation blood transfusion from Bruce Banner",
+    "combat_style": [
+      "Strength-based",
+      "Intelligent",
+      "Versatile"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Professional attire",
+      "Legal documents",
+      "Various gadgets"
+    ],
+    "trump_card": "Intelligence and strength combination",
+    "ultimate_move": "Full She-Hulk power"
+  },
+  "personality": {
+    "traits": [
+      "Confident",
+      "Intelligent",
+      "Empowered",
+      "Professional",
+      "Fun-loving"
+    ],
+    "likes": [
+      "Being She-Hulk",
+      "Law",
+      "Helping others",
+      "Bruce Banner",
+      "Being a hero"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Injustice",
+      "Losing cases",
+      "Being underestimated",
+      "Transformation issues"
+    ],
+    "fear": "Losing control, Failing to protect others, Legal consequences",
+    "dream": "To balance being a hero and lawyer",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent",
+      "Confident"
+    ],
+    "weaknesses": [
+      "Susceptible"
+    ]
+  },
+  "character": {
+    "arc": "Shy lawyer becoming confident hero through gamma radiation",
+    "motivation": "To use her powers for good and help others",
+    "affinity": "Empowerment",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world countless times",
+    "Avengers member",
+    "Became successful lawyer",
+    "Defeated major threats",
+    "Became symbol of female empowerment"
+  ],
+  "titles": [
+    "She-Hulk",
+    "Jennifer Walters",
+    "Jen",
+    "Shulkie",
+    "Lady Hulk"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 90,
+    "speed": 80,
+    "durability": 90,
+    "power": 85,
+    "combat": 85,
+    "total": 525
+  },
+  "weaknesses": {
+    "list": [
+      "Transformation control",
+      "Emotional state",
+      "Legal constraints",
+      "Human vulnerabilities"
+    ],
+    "factors": [
+      "Stress",
+      "Anger",
+      "Legal complications"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Avengers",
+      "Bruce Banner",
+      "Heroes for Hire"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bruce Banner",
+        "relationship": "Cousin and mentor",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Avengers",
+        "relationship": "Team",
+        "trust_level": "High"
+      },
+      {
+        "name": "Heroes for Hire",
+        "relationship": "Team",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Various villains",
+      "Legal opponents"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Various villains",
+        "relationship": "Enemies",
+        "threat_level": "Variable"
+      },
+      {
+        "name": "Legal opponents",
+        "relationship": "Professional rivals",
+        "threat_level": "Low"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": "Bruce Banner",
+    "student": "Various young heroes",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Bruce Banner",
+      "Heroes for Hire"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Various villains",
+      "Legal opponents"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Various young heroes"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Bruce Banner",
+      "Heroes for Hire"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Bruce Banner"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various villains",
+      "result": "Victory",
+      "method": "Strength and intelligence"
+    },
+    {
+      "opponent": "Legal opponents",
+      "result": "Victory",
+      "method": "Legal expertise"
+    },
+    {
+      "opponent": "Major threats",
+      "result": "Victory",
+      "method": "Teamwork and power"
+    }
+  ],
+  "quotes": [
+    "I'm She-Hulk, and I'm here to help",
+    "Law and justice",
+    "Being a hero is my job",
+    "I'm not just a lawyer, I'm a hero"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Tatiana Maslany (She-Hulk: Attorney at Law), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as hero and lawyer",
+    "transformation": [
+      "Gamma radiation",
+      "Various power enhancements"
+    ],
+    "awakening_potential": "Full potential",
+    "power_evolution": [
+      "Lawyer",
+      "She-Hulk",
+      "Avenger"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Various vehicles"
+    ],
+    "headquarters": "New York City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "She-Hulk (Jennifer Susan Walters) is a  character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist John Buscema, she first appeared in The Savage She-Hulk #1 (November 1979). Walters is a lawyer who, after an assassination attempt, received an emergency blood transfusion from her cousin, Bruce Banner, and acquired a milder version of his Hulk condition: Walters becomes a large, powerful, green-hued version of herself. Unlike Banner in his Hulk form, Walters largely retains her normal personality in her She-Hulk form, in particular most of her intelligence and emotional control. Furthermore, though she is much taller in her She-Hulk form, Walters's body mass is just as dense as that of her normal human self. In any case, like Hulk, She-Hulk is still susceptible to outbursts of anger and becomes much stronger when enraged. In later series, her transformation is permanent, and she often breaks the fourth wall for humorous effect and running gags, as the first major Marvel character to do so frequently, ahead of the more famous fourth wall breaker Deadpool.\nShe-Hulk has been a member of the Avengers, S.H.I.E.L.D., Defenders, Fantastic Four, Heroes for Hire, and Fantastic Force at various points in her history. As a highly skilled lawyer who became a superhero by accident, she frequently leverages her legal and personal experience to serve as legal counsel to various superheroes and other superhumans.\nShe-Hulk has been described as one of Marvel's most notable and powerful female heroes. Since her original introduction in comics, the character has been featured in various other Marvel-licensed products, including video games, animated television series, and merchandise. Walters made her live-action debut in the Marvel Cinematic Universe (MCU) with the Disney+ original series She-Hulk: Attorney at Law (2022), portrayed by Tatiana Maslany.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,396 @@
+{
+  "id": "63f5b6a4a0c4f29ab26d61643c87a2cd",
+  "name": "Genos",
+  "native_name": "ジェノス",
+  "full_name": "Genos",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cyborg",
+    "race": "Cyborg",
+    "bloodline": "None",
+    "height_cm": 178,
+    "weight_kg": 0,
+    "age": "19",
+    "birthday": "August 7",
+    "zodiac": "Leo",
+    "blood_type": "N/A",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gold",
+    "hair_color": "Blonde",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Cyborg body",
+      "Blonde hair",
+      "Hero suit",
+      "Serious expression"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "City Z",
+    "current_location": "City Z",
+    "base_of_operations": "Saitama's apartment",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hero",
+    "secondary": "Cyborg",
+    "rank_title": "S-Class Hero",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Hero Association",
+      "S-Class"
+    ],
+    "previous": [],
+    "relatives": [
+      "Dr. Kuseno (creator)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Punch Man Episode 1",
+    "manga": "One Punch Man Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Incineration Cannon",
+      "native_name": "火炎放射",
+      "description": "Fires powerful energy beams from arms capable of massive destruction.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Energy consumption"
+    },
+    {
+      "name": "Cyborg Strength",
+      "native_name": "サイボーグの力",
+      "description": "Superhuman strength and durability from mechanical body.",
+      "type": "Buff",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Self",
+      "limit": "Damage to body"
+    },
+    {
+      "name": "Speed Mode",
+      "native_name": "スピードモード",
+      "description": "Enhanced speed and agility for combat situations.",
+      "type": "Buff",
+      "tier": "B",
+      "power_level": 78,
+      "range": "Self",
+      "limit": "Battery"
+    }
+  ],
+  "signature_moves": [
+    "Incineration Cannon",
+    "Cyborg punch",
+    "Full burn"
+  ],
+  "ultimate_move": "100% Output",
+  "trump_card": "Full power mode",
+  "power_attributes": {
+    "power_type": "Cyborg",
+    "power_source": "Mechanical enhancements",
+    "combat_style": [
+      "Ranged",
+      "Melee"
+    ],
+    "weapon": "Built-in cannons",
+    "equipment": [
+      "Cyborg body"
+    ],
+    "trump_card": "Full power mode",
+    "ultimate_move": "100% Output"
+  },
+  "personality": {
+    "traits": [
+      "Serious",
+      "Dedicated",
+      "Loyal",
+      "Intense",
+      "Respectful",
+      "Determined"
+    ],
+    "likes": [
+      "Saitama",
+      "Justice",
+      "Training",
+      "Upgrades"
+    ],
+    "dislikes": [
+      "Evil",
+      "Injustice",
+      "Weakness"
+    ],
+    "fear": "Failing master",
+    "dream": "Become stronger like Saitama",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Loyal",
+      "Dedicated"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Genos seeks revenge on the mad scientist who destroyed his hometown. Becomes Saitama's disciple.",
+    "motivation": "Become stronger, defeat evil",
+    "affinity": "Orange/Fire",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "S-Class Hero",
+    "Saitama's disciple",
+    "Defeated multiple monsters"
+  ],
+  "titles": [
+    "Demon Cyborg",
+    "S-Class Hero"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Hero"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 82,
+    "speed": 78,
+    "durability": 85,
+    "power": 85,
+    "combat": 80,
+    "total": 485
+  },
+  "weaknesses": {
+    "list": [
+      "Energy depletion",
+      "Overheating",
+      "Damage to core"
+    ],
+    "factors": [
+      "Battery life"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Mad Scientist",
+    "allies": [
+      "Saitama",
+      "Fubuki",
+      "King"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Saitama",
+        "relationship": "Master",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Mad Scientist",
+      "Monsters"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Saitama",
+    "rival": "None",
+    "mentor": "Saitama",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Saitama",
+      "Fubuki",
+      "King"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Mad Scientist",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Saitama",
+      "Fubuki",
+      "King"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Saitama"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Deep Sea King",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Monsters",
+      "result": "Victory",
+      "method": "Cannons"
+    }
+  ],
+  "quotes": [
+    "I will become your disciple!",
+    "Master!",
+    "Incineration Cannon!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuki Kaji (Japanese)",
+    "note": "Serious, intense",
+    "native_name": null,
+    "english": "Zach Aguilar",
+    "japanese": "Kaito Ishikawa"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Ongoing",
+    "transformation": "Upgrades",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Human",
+      "Cyborg",
+      "S-Class",
+      "Disciple"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Saitama's apartment",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Race: Human (Cyborg)\nAge: 19\nHeight: 178 cm (5'10\")\nLocation: Z-City\nAbilities: Cyborg Body\nOccupation: Superhero\nLevel: S-Class; Rank: 14\nAffiliation: Hero Association\nPartner(s): Saitama\n\nGenos is a 19-year-old cyborg and disciple of Saitama. He is always aiming to become stronger and fights for justice. As a registered Superhero, he is in the S-Class ranking at 14.\n\nGenos has a mechanical body of a teenage young man, a pale looking face, blond eyebrows, black sclera and yellow piercing eyes and has blond spiky hair. Over his mechanical limbs, he wears black pants and black shoes. Genos sometimes sports new black mechanical arms, during the time when he sparred with Saitama, and during the time on preparing to stop a giant meteor, he equipped more block-shaped, black mechanical arms along with a small headgear.\n\nGenos is an extremely serious character. He has a strong drive to get stronger than he is, and pesters Saitama to train him frequently.\n\n(Source: One Punch-Man Wiki)",
+  "note": null,
+  "source": "anime"
+}

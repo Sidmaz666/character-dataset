@@ -1,0 +1,312 @@
+{
+  "id": "0aa7a83883e67f452811317edbbdee1d",
+  "name": "Sabretooth",
+  "native_name": null,
+  "full_name": "Victor Creed",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Mutant",
+    "bloodline": null,
+    "height_cm": 198,
+    "weight_kg": 171,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 43.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Amber",
+    "hair_color": "Blond",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "mobile",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "mercenary, professional criminal, assassin, serial killer",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Weapon X",
+      "Marauders",
+      "Brotherhood of Evil Mutants"
+    ],
+    "previous": [],
+    "relatives": [
+      "Grayden Creed (son; deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Iron Fist #14 (August, 1977)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Mutant with superhuman attributes",
+      "type": "Offensive",
+      "tier": "B",
+      "power_level": 50,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Dagger",
+      "Poison"
+    ],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Failure",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Evil",
+    "alignment": "Evil"
+  },
+  "achievements": [
+    "Created by Chris Claremont and John Byrne"
+  ],
+  "titles": [
+    "Slasher",
+    "El Tigre"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 48,
+    "speed": 38,
+    "durability": 90,
+    "power": 50,
+    "combat": 100,
+    "total": 382
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Weapon X",
+      "Marauders",
+      "Brotherhood of Evil Mutants"
+    ],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Weapon X",
+      "Marauders",
+      "Brotherhood of Evil Mutants"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Weapon X",
+      "Marauders",
+      "Brotherhood of Evil Mutants"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "mobile",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Sabretooth is a character appearing in American comic books published by Marvel Comics. Created by Chris Claremont and John Byrne, he first appeared in Iron Fist #14 (August 1977) and was initially depicted as a serial killer known as \"the Slasher\", before being developed into a villain associated with the X-Men during the \"Mutant Massacre\" crossover in 1986. This portrayal of Sabretooth has endured as the archenemy of the superhero Wolverine.\nIn his comic book appearances, Sabretooth is the alias of Victor Creed, a psychopathic mutant with enhanced senses, razor-sharp claws, superhuman strength and reflexes, and regenerative healing abilities. There have been various possible accounts of the origin of Sabretooth's feud with Wolverine. The most common story involves both of them being participants of the Weapon X super-soldier program. After Wolverine escapes and attempts to suppress his animalistic qualities, Sabretooth becomes obsessed with forcing Wolverine to embrace his feral instincts by tormenting him and ruining his life.\nIn the X-Men film series, Sabretooth is depicted as being Wolverine's brother, portrayed by Tyler Mane in X-Men (2000) and Deadpool & Wolverine (2024) and by Liev Schreiber in X-Men Origins: Wolverine (2009). In May 2008, Wizard magazine ranked Sabretooth #193 of the 200 best comic book characters of all time. In 2009, Sabretooth was ranked as IGN's 44th Greatest Comic Book Villain of All Time.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,461 @@
+{
+  "id": "7baf9ab1396b3721353015ecf5caec35",
+  "name": "Darth Vader",
+  "native_name": null,
+  "full_name": "Anakin Skywalker (formerly)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Skywalker",
+    "bloodline": "Skywalker family",
+    "height_cm": 203,
+    "weight_kg": 120,
+    "age": "Born 41 BBY, Died 4 ABY",
+    "birthday": "April 26",
+    "zodiac": "Taurus",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 29.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Yellow (red when using dark side)",
+    "hair_color": "Black (hidden by helmet)",
+    "skin_color": "Pale (visible when mask removed)",
+    "notable_features": [
+      "Black armor suit",
+      "Red lightsaber",
+      "Cybernetic limbs",
+      "Mechanical breathing"
+    ],
+    "skin": "Pale (visible when mask removed)",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tatooine",
+    "current_location": "null (deceased)",
+    "base_of_operations": "Imperial Star Destroyer",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Sith Lord",
+    "secondary": "Jedi Knight (formerly)",
+    "rank_title": "Dark Lord of the Sith",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Galactic Empire",
+      "Sith Order"
+    ],
+    "previous": [
+      "Jedi Order",
+      "Galactic Republic"
+    ],
+    "relatives": [
+      "Luke Skywalker (son)",
+      "Leia Organa (daughter)",
+      "Padme Amidala (wife)",
+      "Shmi Skywalker (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode IV - A New Hope (1977)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Force Choke",
+      "native_name": null,
+      "description": "Strangle victims with the Force",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Requires line of sight"
+    },
+    {
+      "name": "Force Grip",
+      "native_name": null,
+      "description": "Lift and immobilize opponents",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 93,
+      "range": "Medium",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Force Lightning Reflection",
+      "native_name": null,
+      "description": "Reflect Force lightning back at attackers",
+      "type": "Defensive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short",
+      "limit": "Requires suit armor"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects with the Force",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Long",
+      "limit": "None significant"
+    },
+    {
+      "name": "Lightsaber Combat",
+      "native_name": null,
+      "description": "Master of Form V, extremely aggressive style",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Force Sense",
+      "native_name": null,
+      "description": "Sense thoughts and presence of others",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Wide",
+      "limit": "Cannot sense future"
+    }
+  ],
+  "signature_moves": [
+    "Force Choke",
+    "Saber Throw",
+    "Squeeze"
+  ],
+  "ultimate_move": "Unlimited Power (dark side rampage)",
+  "trump_card": "Force Drain",
+  "power_attributes": {
+    "power_type": "Force (Dark Side)",
+    "power_source": "The Force (corrupted)",
+    "combat_style": [
+      "Form V (Djem So)",
+      "Form VI",
+      "Jar'Kai"
+    ],
+    "weapon": "Lightsaber",
+    "equipment": [
+      "Red lightsaber",
+      "Armor suit",
+      "Cybernetic limbs"
+    ],
+    "trump_card": "Force Drain",
+    "ultimate_move": "Unlimited Power (dark side rampage)"
+  },
+  "personality": {
+    "traits": [
+      "Angry",
+      "Ruthless",
+      "Complex",
+      "Brooding",
+      "Loyal"
+    ],
+    "likes": [
+      "Power",
+      "Order",
+      "His children (secretly)"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Jedi Order",
+      "Failure"
+    ],
+    "fear": "Losing those he loves",
+    "dream": "Save his family",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Ruthless",
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "From Jedi hero to Sith villain to redeemed",
+    "motivation": "Power to protect those he loves",
+    "affinity": "Dark Side",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Conquered the Galaxy",
+    "Hunted down Jedi",
+    "Built Imperial forces",
+    "Defeated Obi-Wan",
+    "Redeemed himself"
+  ],
+  "titles": [
+    "Dark Lord of the Sith",
+    "Lord of the Sith",
+    "The Chosen One"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Feared throughout the galaxy"
+  },
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 95,
+    "speed": 85,
+    "durability": 95,
+    "power": 98,
+    "combat": 98,
+    "total": 561
+  },
+  "weaknesses": {
+    "list": [
+      "Suit vulnerability",
+      "Emotional attachment"
+    ],
+    "factors": [
+      "Cannot use Force onExecutor without suit",
+      "Vulnerable to Force lightning"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Obi-Wan Kenobi",
+    "allies": [
+      "Emperor Palpatine",
+      "Imperial officers"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Emperor Palpatine",
+        "relationship": "Master",
+        "trust_level": "Low"
+      }
+    ],
+    "enemies": [
+      "Jedi Order",
+      "Rebel Alliance"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Obi-Wan Kenobi",
+        "relationship": "Former master/Enemy",
+        "threat_level": "Maximum"
+      }
+    ],
+    "love_interest": "Padme Amidala",
+    "best_friend": "Obi-Wan Kenobi (formerly)",
+    "rival": "Count Dooku",
+    "mentor": "Obi-Wan Kenobi",
+    "student": "Ahsoka Tano (formerly)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Emperor Palpatine",
+      "Imperial officers",
+      "Obi-Wan Kenobi (formerly)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Obi-Wan Kenobi",
+      "Count Dooku"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Leia Organa (sister)",
+      "Luke",
+      "Ben Solo"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Leia Organa (sister)",
+      "Luke",
+      "Ben Solo"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Count Dooku"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Ahsoka Tano"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Emperor Palpatine",
+      "Imperial officers",
+      "Obi-Wan Kenobi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Obi-Wan Kenobi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Obi-Wan Kenobi",
+      "result": "Defeat",
+      "method": "Lost on Mustafar"
+    },
+    {
+      "opponent": "Luke Skywalker",
+      "result": "Defeat",
+      "method": "Refused to strike down son"
+    },
+    {
+      "opponent": "Emperor Palpatine",
+      "result": "Defeat",
+      "method": "Saved Luke"
+    }
+  ],
+  "quotes": [
+    "I am your father",
+    "Power is everything",
+    "Join the dark side"
+  ],
+  "voice_acting": {
+    "native_language": "James Earl Jones",
+    "english": "James Earl Jones",
+    "note": "Voice, body performed by David Prowse",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Redeemed by Luke, died as Anakin Skywalker",
+    "transformation": "Sith Lord",
+    "awakening_potential": "Most powerful Force user ever",
+    "power_evolution": [
+      "Slave boy",
+      "Jedi Padawan",
+      "Jedi Knight",
+      "Sith Lord",
+      "Redeemed"
+    ],
+    "role_in_story": "Antagonist/Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "TIE Fighter",
+      "Lambda Shuttle"
+    ],
+    "vehicles": [
+      "Imperial Walker"
+    ],
+    "headquarters": "Mustafar (Fortress)",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Darth Vader is a fictional character in the Star Wars franchise. He first appeared in the original Star Wars film (1977) and its novelization (1976). He is a leader of the Galactic Empire, and is one of the two major villains in the original film trilogy. In the prequel trilogy, he transforms from the Jedi Knight Anakin Skywalker into the Sith Lord Darth Vader. His metamorphosis begins when he is lured to the dark side of the Force by Chancellor Palpatine, who later becomes the Galactic Emperor. After a lightsaber battle with his former mentor Obi-Wan Kenobi, Vader is severely injured and is transformed into a cyborg. He serves Palpatine for over two decades, hunting down the remaining Jedi and attempting to crush the Rebel Alliance. When Palpatine tries to kill Vader's son, Luke Skywalker, Vader turns against Palpatine and kills him. Vader is the husband of Padmé Amidala, the father of Luke and his twin sister Leia Organa, and the maternal grandfather of Ben Solo.",
+  "note": null,
+  "source": "star_wars"
+}

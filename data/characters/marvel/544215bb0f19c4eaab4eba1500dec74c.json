@@ -1,0 +1,359 @@
+{
+  "id": "544215bb0f19c4eaab4eba1500dec74c",
+  "name": "Archangel",
+  "native_name": null,
+  "full_name": "Warren Kenneth Worthington III",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Mutant",
+    "race": "Mutant-Human",
+    "bloodline": "Worthington",
+    "height_cm": 191,
+    "weight_kg": 85,
+    "age": "Unknown",
+    "birthday": "December 13",
+    "zodiac": "Sagittarius",
+    "blood_type": "AB",
+    "weight_kkg": null,
+    "bmi": 23.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde (originally) / Dark Blue (as Archangel)",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Wings",
+      "Blue feathered wings when transformed"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Center for Near Space",
+    "current_location": "Unknown",
+    "base_of_operations": "X-Men HQ",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mutant",
+    "secondary": "X-Man, Heir",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "X-Men",
+      "Apocalypse's Four Horsemen"
+    ],
+    "previous": [
+      "Champions"
+    ],
+    "relatives": [
+      "Warren Worthington Sr. (father)",
+      "Warren Worthington Jr. (brother, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "X-Men #1",
+    "comics": "X-Men #1 (1963)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Can fly using feathered wings",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced strength from wings",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Durability",
+      "native_name": null,
+      "description": "Body more resistant to damage",
+      "type": "Defense",
+      "tier": "C",
+      "power_level": 50,
+      "range": "Self",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Wing Slash",
+    "Feather Storm"
+  ],
+  "ultimate_move": "Angelic Fury",
+  "trump_card": "Transformation into Dark Archangel",
+  "power_attributes": {
+    "power_type": "Mutant",
+    "power_source": "Genetic mutation",
+    "combat_style": [
+      "Aerial combat"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Transformation into Dark Archangel",
+    "ultimate_move": "Angelic Fury"
+  },
+  "personality": {
+    "traits": [
+      "Charismatic",
+      "Rebellious",
+      "Brooding"
+    ],
+    "likes": [
+      "Freedom",
+      "Adventure"
+    ],
+    "dislikes": [
+      "Restraint"
+    ],
+    "fear": "Losing his wings",
+    "dream": "Freedom",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Brooding"
+    ]
+  },
+  "character": {
+    "arc": "Wealthy mutant who became X-Men member",
+    "motivation": "Protecting mutants",
+    "affinity": "Light",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "X-Men member",
+    "Apocalypse's Horseman"
+  ],
+  "titles": [
+    "Angel",
+    "Archangel"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 70,
+    "durability": 50,
+    "power": 45,
+    "combat": 55,
+    "total": 350
+  },
+  "weaknesses": {
+    "list": [
+      "Wings can be damaged"
+    ],
+    "factors": [
+      "brooding"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Apocalypse",
+    "allies": [
+      "X-Men"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Hank McCoy",
+        "relationship": "Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Apocalypse"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Apocalypse",
+        "relationship": "Former master",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Candy Southern",
+    "best_friend": "Boomer",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "X-Men",
+      "Boomer"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Apocalypse"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "X-Men",
+      "Boomer"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Justin Slater (English)",
+    "english": "Justin Slater",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": "Can transform into Dark Archangel with metal wings",
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Flight"
+    ],
+    "vehicles": [],
+    "headquarters": "X-Men HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Archangels () are the second-lowest rank of angel in the hierarchy of angels, based on and put forward by Pseudo-Dionysius the Areopagite in the 5th or 6th century in his book De Coelesti Hierarchia (On the Celestial Hierarchy). \nThe Bible itself uses the term \"archangel\" two times referring to the angel Michael only in the New Testament. The Bible does not mention a particular hierarchy of angels in any detail aside from this. The word is usually associated with the Abrahamic religions and many offshoots they are historically associated with.\nArchangel is derived from Greek archángelos (ἀρχάγγελος), with the Greek prefix arch- meaning 'chief'. In Catholic theology, archangels constitute the second-lowest rank of angel; much of modernized imaging of Archangels as we have today likely stems from the etymology of their name, as well as their presentation in John Milton's Paradise Lost.\nIn many offshoots of Judaism, with the oldest text coming from Enoch 1, the highest ranking angels such as Michael, Raphael, Gabriel and Uriel, who are usually referred to as archangels in English, are given the title of śārīm (Hebrew: שָׂרִים 'princes'; sing. שָׂר śār), to show their superior rank and status. Two examples of this can be seen in Daniel 10:13 and 12:1, where Michael, Chief of the Heavenly Host, is referred to as ʾaḥaḏ haśśārīm hārišōnīm (אַחַד הַשָּׂרִים הָרִאשֹׁנִים 'one of the chief princes') in the former, and haśśar haggāḏōl (הַשַּׂר הַגָּדוֹל 'the great prince') in the latter. Other listings of archangels include Jophiel who is an archangel of beauty and art.",
+  "note": null,
+  "source": "marvel"
+}

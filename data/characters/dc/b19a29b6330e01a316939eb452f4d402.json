@@ -1,0 +1,340 @@
+{
+  "id": "b19a29b6330e01a316939eb452f4d402",
+  "name": "Robin V",
+  "native_name": null,
+  "full_name": "Damian Wayne",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 137,
+    "weight_kg": 38,
+    "age": null,
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Black",
+    "skin_color": "Unknown",
+    "notable_features": [],
+    "skin": "Unknown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "-",
+    "current_location": null,
+    "base_of_operations": "Gotham City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": null,
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Batman Family",
+      "Batman Inc.",
+      "Wayne Enterprises; formerly Teen Titans",
+      "League of Assassins"
+    ],
+    "previous": [
+      "Teen Titans"
+    ],
+    "relatives": [
+      "Talia al Ghul (mother)",
+      "Bruce Wayne (Batman",
+      "father)",
+      "Ra's Al Ghul (maternal grandfather)",
+      "Melisande (maternal grandmother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Batman: Son of the Demon",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Powers and Abilities",
+      "native_name": null,
+      "description": "A powerful Human with superhuman attributes",
+      "type": "Offensive",
+      "tier": "C",
+      "power_level": 29,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Powers and Abilities"
+  ],
+  "ultimate_move": "Powers and Abilities",
+  "trump_card": "Powers and Abilities",
+  "power_attributes": {
+    "power_type": "Superhuman",
+    "power_source": "Various",
+    "combat_style": [
+      "Martial Arts"
+    ],
+    "weapon": "Fists",
+    "equipment": [],
+    "trump_card": "Powers and Abilities",
+    "ultimate_move": "Powers and Abilities"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Cheerful",
+      "Cunning"
+    ],
+    "likes": [
+      "Protecting others"
+    ],
+    "dislikes": [
+      "Dishonesty"
+    ],
+    "fear": "Physically weak",
+    "dream": "Various",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave"
+    ],
+    "weaknesses": [
+      "Physically weak",
+      "Low durability",
+      "Limited power"
+    ]
+  },
+  "character": {
+    "arc": "Character arc summary",
+    "motivation": "Various",
+    "affinity": "Good",
+    "alignment": "Good"
+  },
+  "achievements": [
+    "Regarded as one of the greatest comedians of all time",
+    "Created spontaneously and portrayed in drama and comedy films",
+    "Won the Academy Award for Best Supporting Actor for Good Will Hun"
+  ],
+  "titles": [
+    "Batman",
+    "Damian al Ghul",
+    "Ibn al Xu'ffasch",
+    "Redbird"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 8,
+    "speed": 33,
+    "durability": 16,
+    "power": 29,
+    "combat": 65,
+    "total": 220
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Low durability",
+      "Limited power"
+    ],
+    "factors": [
+      "physically weak",
+      "low durability",
+      "limited power"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [
+      "Batman Family",
+      "Batman Inc.",
+      "Wayne Enterprises; formerly Teen Titans"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Tim Drake"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Tim Drake",
+    "mentor": "Talia al Ghul",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Batman Family",
+      "Batman Inc.",
+      "Wayne Enterprises; formerly Teen Titans"
+    ],
+    "colleague": null,
+    "enemy": "Tim Drake",
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Tim Drake"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Batman Family",
+      "Batman Inc.",
+      "Wayne Enterprises; formerly Teen Titans"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Talia al Ghul"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": "From comics",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": null,
+    "power_evolution": [],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gotham City",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "Robin McLaurin Williams (July 21, 1951 – August 11, 2014) was an American actor and comedian. Known for his improvisational skills and the wide variety of characters he created spontaneously and portrayed in drama and comedy films, he is regarded as one of the greatest comedians of all time. Williams received numerous accolades including an Academy Award, two Primetime Emmy Awards, and six Golden Globe Awards, as well as five Grammy Awards and two Screen Actors Guild Awards. He was awarded the Cecil B. DeMille Award in 2005.\nBorn in Chicago, Williams began performing stand-up comedy in San Francisco and Los Angeles during the mid-1970s, and released several comedy albums including Reality ... What a Concept in 1980. He rose to fame playing the alien Mork in the ABC sitcom Mork & Mindy (1978–1982). Williams received his first leading film role in Popeye (1980). He won the Academy Award for Best Supporting Actor for Good Will Hunting (1997). His other Oscar-nominated roles were for Good Morning, Vietnam (1987), Dead Poets Society (1989), and The Fisher King (1991).\nWilliams starred in the critically acclaimed dramas The World According to Garp (1982), Moscow on the Hudson (1984), Awakenings (1990), and World's Greatest Dad (2009), as well as the psychological thrillers Insomnia (2002) and One Hour Photo (2002). His feature film comedies and family films included Hook (1991), Toys (1992), Mrs. Doubtfire (1993), Jumanji (1995), The Birdcage, Jack (both 1996), Flubber (1997), Patch Adams (1998), RV (2006), and the Night at the Museum series (2006–2014). He provided voice work in the animated films Aladdin (1992), Robots (2005), Happy Feet (2006), and Happy Feet Two (2011).\nDuring his final years, Williams struggled with severe depression before his 2014 suicide at age 63. According to his widow, Williams had been diagnosed with Parkinson's disease, and had been experiencing depression, anxiety, and increasing paranoia. His autopsy found \"diffuse Lewy body disease\" whose symptoms professionals said were consistent with dementia with Lewy bodies. In the weeks following his suicide, Williams was celebrated in a wave of tributes.",
+  "note": null,
+  "source": "dc"
+}

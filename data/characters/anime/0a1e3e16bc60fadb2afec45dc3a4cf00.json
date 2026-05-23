@@ -1,0 +1,291 @@
+{
+  "id": "0a1e3e16bc60fadb2afec45dc3a4cf00",
+  "name": "Suzuhara, Touji",
+  "native_name": "鈴原トウジ",
+  "full_name": "Touji Suzuhara",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "14",
+    "birthday": "December 26",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Capricorn",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin": "Fair",
+    "notable_features": "Athletic, confident",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "Tokyo-3",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pilot",
+    "rank_title": "Third Child",
+    "secondary": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Neon Genesis Evangelion",
+    "manga": "Neon Genesis Evangelion",
+    "comics": null,
+    "game": null
+  },
+  "personality": {
+    "traits": [
+      "Confident",
+      "Protective",
+      "Competitive"
+    ],
+    "likes": [
+      "Competition",
+      "Recognition"
+    ],
+    "dislikes": [
+      "Losing",
+      "Threats to loved ones"
+    ],
+    "fear": "Unknown",
+    "dream": "Protect sister",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Angry pilot",
+    "motivation": "Protect sister",
+    "alignment": "Neutral Good",
+    "affinity": "Good"
+  },
+  "powerstats": {
+    "intelligence": 60,
+    "strength": 65,
+    "speed": 70,
+    "durability": 65,
+    "power": 70,
+    "combat": 70,
+    "total": 400
+  },
+  "relationships": {
+    "sister": "Kobashi",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kobashi (sister)"
+    ],
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Kobashi (sister)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Kobashi (sister)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kobashi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "story": {
+    "status": "Active",
+    "role_in_story": "Supporting pilot",
+    "fate": "Alive",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "abilities": [],
+  "signature_moves": [],
+  "ultimate_move": null,
+  "trump_card": null,
+  "power_attributes": {
+    "power_type": "Spiritual Energy",
+    "power_source": "Unknown",
+    "combat_style": [],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": null,
+    "ultimate_move": null
+  },
+  "achievements": [
+    "Voiced by Tomokazu Seki (Japanese)",
+    "Voiced by Justin Cook (English)"
+  ],
+  "titles": [
+    "Pilot"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Justin Cook",
+    "note": null,
+    "native_name": null,
+    "japanese": "Tomokazu Seki"
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Tokyo-3",
+    "story_importance": "Supporting pilot",
+    "note": null
+  },
+  "about": "Age: 14\nBirthday: December 26, 2001\nKnown relatives: Sakura Suzuhara (sister)\n\nTouji is a tough boy, the stereotypical \"jock,\" and is in constant conflict with Asuka. His younger sister was injured in the battle between the third Angel, Sachiel, and Unit 01, and he beats Shinji up soon after for being indirectly responsible. However, after witnessing firsthand the suffering Shinji experiences piloting Unit 01 in the battle against Shamshel, Touji comes to respect Shinji and the two eventually become friends.\n\nTouji is named after one of the main characters in the novel Ai to Gensou no Fascism (The Fascism of Love and Fantasy) by Ryuu Murakami.",
+  "note": null,
+  "source": "anime"
+}

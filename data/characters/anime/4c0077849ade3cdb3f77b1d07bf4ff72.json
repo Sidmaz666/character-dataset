@@ -1,0 +1,427 @@
+{
+  "id": "4c0077849ade3cdb3f77b1d07bf4ff72",
+  "name": "Fern",
+  "native_name": "フェルン",
+  "full_name": "Fern",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": null,
+    "weight_kg": null,
+    "age": "18",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": null,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Long black hair",
+      "Mature appearance for her age",
+      "Purple eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Southern Country (war refugee)",
+    "current_location": "Traveling with Frieren",
+    "base_of_operations": "Various locations across the continent",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Mage",
+    "secondary": "Apprentice to Frieren",
+    "rank_title": "Second-Class Mage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Frieren's Party"
+    ],
+    "previous": [
+      "Heiter's household"
+    ],
+    "relatives": [
+      "Heiter (adoptive father, deceased)",
+      "Parents (deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Sousou no Frieren Episode 1",
+    "manga": "Sousou no Frieren Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Zoltraak",
+      "native_name": null,
+      "description": "A powerful anti-demon spell that shoots concentrated mana blasts. Originally a demon spell, Fern has perfected it to fire rapid successive blasts that can overwhelm opponents before they can react.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Less powerful than Frieren's version"
+    },
+    {
+      "name": "Mana Concealing",
+      "native_name": null,
+      "description": "Can completely conceal her mana flow, making her undetectable by demons and other mages. Even Frieren struggles to detect her when hidden. Can conceal mana while moving, unlike Frieren.",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Mana Detection",
+      "native_name": null,
+      "description": "Exceptional ability to sense and detect mana flows. Can detect even the slightest fluctuations in an opponent's mana, including identifying weaknesses. The most impressive among humans in the series.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long",
+      "limit": "Cannot detect those who can fully conceal their mana"
+    },
+    {
+      "name": "High-Speed Spell Casting",
+      "native_name": null,
+      "description": "Can cast spells in rapid succession, layering attacks so fast opponents cannot register one before the next arrives. Her specialty is overwhelming speed over raw power.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Medium",
+      "limit": "Less destructive power than Frieren"
+    },
+    {
+      "name": "Defensive Magic",
+      "native_name": null,
+      "description": "Skilled in high defensive magic, creating barriers and shields to protect herself and allies.",
+      "type": "Defense",
+      "tier": "B",
+      "power_level": 70,
+      "range": "Short",
+      "limit": "Less impressive than her offensive abilities"
+    },
+    {
+      "name": "Staff Combat",
+      "native_name": null,
+      "description": "Wields a wooden staff adorned with iron wires and purple strings. Can make it appear and disappear as needed. Uses it to channel and direct her magic.",
+      "type": "Support",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Short",
+      "limit": "Standard equipment"
+    }
+  ],
+  "signature_moves": [
+    "Rapid Zoltraak",
+    "Concealed Approach",
+    "Mana Sensing"
+  ],
+  "ultimate_move": "Multi-Strike Zoltraak Barrage",
+  "trump_card": "Complete Mana Concealment",
+  "power_attributes": {
+    "power_type": "Mana/Magic",
+    "power_source": "Innate magical talent and Frieren's training",
+    "combat_style": [
+      "Rapid-Fire Magic",
+      "Ranged Combat",
+      "Mana Detection"
+    ],
+    "weapon": "Wooden Staff",
+    "equipment": [
+      "Purple-cloaked robes"
+    ],
+    "trump_card": "Complete Mana Concealment",
+    "ultimate_move": "Multi-Strike Zoltraak Barrage"
+  },
+  "personality": {
+    "traits": [
+      "Mature",
+      "Responsible",
+      "Stoic",
+      "Devoted",
+      "Caring"
+    ],
+    "likes": [
+      "Magic practice",
+      "Frieren",
+      "Stark",
+      "Order"
+    ],
+    "dislikes": [
+      "Laziness",
+      "Wasted time",
+      "War"
+    ],
+    "fear": "Being unable to protect her loved ones",
+    "dream": "To become a full-fledged mage worthy of being Frieren's apprentice",
+    "personality_type": "INFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Responsible"
+    ],
+    "weaknesses": [
+      "Weak"
+    ]
+  },
+  "character": {
+    "arc": "From a traumatized war orphan to a powerful mage who serves as the maternal figure of Frieren's party, Fern's journey is one of healing and growth as she learns to balance her maturity with her youth.",
+    "motivation": "Mastering magic to honor Heiter's sacrifice and protect her new family",
+    "affinity": "Mana",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Became Frieren's apprentice",
+    "Passed the Second-Class Mage Exam",
+    "Developed advanced mana concealment skills",
+    "Became primary caretaker of Frieren's party"
+  ],
+  "titles": [
+    "Frieren's Apprentice",
+    "The Second-Class Mage"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 25,
+    "speed": 45,
+    "durability": 35,
+    "power": 82,
+    "combat": 40,
+    "total": 307
+  },
+  "weaknesses": {
+    "list": [
+      "Physical frailty compared to combat-oriented characters",
+      "Emotional vulnerability beneath stoic exterior",
+      "Limited raw power compared to elite mages"
+    ],
+    "factors": [
+      "Youth and inexperience",
+      "Human lifespan limitation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Demon King (deceased)",
+    "allies": [
+      "Frieren",
+      "Stark",
+      "Heiter (deceased)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Frieren",
+        "relationship": "Master/Teacher",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Stark",
+        "relationship": "Partner/Friend",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Demons"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Demons",
+        "relationship": "Enemy race",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Stark",
+    "best_friend": "Stark",
+    "rival": null,
+    "mentor": "Frieren, Heiter",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Frieren",
+      "Stark",
+      "Heiter (deceased)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Demon King (deceased)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Frieren",
+      "Stark",
+      "Heiter"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Frieren, Heiter"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Various demon candidates",
+      "result": "Victory",
+      "method": "Superior mana control and rapid-fire magic"
+    }
+  ],
+  "quotes": [
+    "I won't let anyone's hard work go to waste.",
+    "Even if it's slow, I want to walk at a pace where we can talk."
+  ],
+  "voice_acting": {
+    "native_language": "Kouichi Hashimoto (Japanese)",
+    "note": null,
+    "native_name": null,
+    "english": "Jill Harris",
+    "japanese": "Kana Ichinose"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently traveling with Frieren, continuing her journey to become a great mage",
+    "transformation": null,
+    "awakening_potential": "Has shown potential to rival top-class mages like Serie",
+    "power_evolution": [
+      "Basic Training (Heiter)",
+      "Apprentice Mage",
+      "Second-Class Mage Candidate"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Mobile with Frieren's party",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "This character is named differently depending on the translator. Jellal is a literal romanization; Gerard is an alternate romanization, completing the sounds that the Japanese language can't phonetically sound.\n\nJellal is introduced under the alias of Siegrain, a young member of the Magic Council and can be considered the main antagonist of the series. His design is the same as that of Rave Master's Sieg Hart, Hiro Mashima's previous work, as a form of fan service. With his \"underling\" Ultear he typically disagrees with the rest of the Council, typically by showing leniency to Fairy Tail.",
+  "note": null,
+  "source": "anime"
+}

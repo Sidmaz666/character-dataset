@@ -1,0 +1,340 @@
+{
+  "id": "7ab2ec6a0dce2ccbc09e8df1b4c16092",
+  "name": "Keehl, Mihael",
+  "native_name": "ミハエル・ケール",
+  "full_name": "Mihael Keehl (Mello)",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "height_cm": 175,
+    "weight_kg": 58,
+    "age": "22",
+    "birthday": "December 13",
+    "blood_type": "O",
+    "bloodline": null,
+    "zodiac": "Sagittarius",
+    "weight_kkg": null,
+    "bmi": 18.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin": "Fair",
+    "notable_features": "Scar on chin, confident demeanor",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": null,
+    "base_of_operations": null,
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Successor to L",
+    "secondary": "Head of SPK",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Wammy's House",
+      "SPK"
+    ],
+    "previous": [
+      "Kira Investigation Team"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Death Note Episode 25",
+    "manga": "Death Note Chapter 57",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Deductive Reasoning",
+      "native_name": "",
+      "description": "Second only to Near in analytical ability",
+      "type": "Support",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Tactical Manipulation",
+      "native_name": "",
+      "description": "Uses Mafia and Yagami family to gather intelligence",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 80
+    },
+    {
+      "name": "Negotiation",
+      "native_name": "",
+      "description": "Skilled at extorting and manipulating people",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75
+    }
+  ],
+  "signature_moves": [
+    "Direct Confrontation",
+    "Hostage Taking",
+    "Information Extraction"
+  ],
+  "power_attributes": {
+    "power_type": "Intellect",
+    "power_source": "Wammy's House training",
+    "combat_style": [
+      "Strategy",
+      "Manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Tactical Manipulation",
+    "ultimate_move": "Deductive Reasoning"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Competitive",
+      "Aggressive",
+      "Determined"
+    ],
+    "likes": [
+      "Being Number One",
+      "Proving worth"
+    ],
+    "dislikes": [
+      "Being second to Near",
+      "Losing"
+    ],
+    "fear": "Losing power",
+    "dream": "Become Number One",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": [
+      "Aggressive"
+    ]
+  },
+  "character": {
+    "arc": "Rivals with Near to catch Kira",
+    "motivation": "Become Number One",
+    "affinity": "Intelligence",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Led SPK",
+    "Obtained Death Note",
+    "Narrowed down Shinigami rules"
+  ],
+  "titles": [
+    "Mello",
+    "Second in Line to L"
+  ],
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 60,
+    "speed": 65,
+    "durability": 55,
+    "power": 70,
+    "combat": 70,
+    "total": 415
+  },
+  "relationships": {
+    "rival": "Near",
+    "mentor": "Roger L",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [
+      "Near"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Near"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Near"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Wammy's House",
+      "SPK"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Roger L"
+    ]
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I will become Number One!"
+  ],
+  "voice_acting": {
+    "native_language": "Miyu Irino",
+    "note": null,
+    "native_name": null,
+    "english": "David Hurwitz",
+    "japanese": "Nozomu Sasaki"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Dies in confrontation with Kira followers",
+    "role_in_story": "Supporting Antagonist",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "ultimate_move": "Deductive Reasoning",
+  "trump_card": "Tactical Manipulation",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [
+      "Aggressive"
+    ],
+    "factors": [
+      "aggressive"
+    ]
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": null,
+    "story_importance": "Supporting Antagonist",
+    "note": null
+  },
+  "about": "Age: 16-17\nBirthday: May 1\nHeight: 173 cm (5'8\")\nWeight: 57 kg (126 lb)\nBlood type: O\n\nMikaela is kind and upbeat in spite of the harsh events in his childhood, when he was abused by his parents and then dropped out of a car. He was then taken in by the Hyakuya orphanage. He was able to keep smiling and be happy because of his adopted family at the orphanage and even managed to befriend the extremely stubborn Yu. Mikaela was shown to be cunning. He allowed Ferid Bathory to drink his blood in exchange for good food, but Mikaela's true purpose was to steal a map in order to escape with the other children.\n\n\n\n\n(Source: Owari no Seraph Wikia)",
+  "note": null,
+  "source": "anime"
+}

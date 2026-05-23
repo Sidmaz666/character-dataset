@@ -1,0 +1,507 @@
+{
+  "id": "5b7a0a1f34cc7e5eb1480c72a3812a71",
+  "name": "Hulk",
+  "native_name": null,
+  "full_name": "Robert Bruce Banner",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Banner family",
+    "height_cm": 244,
+    "weight_kg": 635,
+    "age": "40-50 (varies by continuity)",
+    "birthday": "December 18",
+    "zodiac": "Sagittarius",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 106.7,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Green",
+    "skin_color": "Green",
+    "notable_features": [
+      "Massive muscular build",
+      "Green skin",
+      "Purple pants",
+      "Angry expression"
+    ],
+    "skin": "Green",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Dayton, Ohio",
+    "current_location": "Various",
+    "base_of_operations": "Various locations",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Scientist",
+    "rank_title": "Avenger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers"
+    ],
+    "previous": [
+      "S.H.I.E.L.D.",
+      "Defenders",
+      "Illuminati"
+    ],
+    "relatives": [
+      "Brian Banner (father, deceased)",
+      "Rebecca Banner (mother, deceased)",
+      "Jennifer Walters (cousin)",
+      "Betty Ross (love interest)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Incredible Hulk #1 (May 1962)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Vast superhuman strength that increases with anger",
+      "type": "Physical",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Melee",
+      "limit": "Anger management"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Nearly indestructible body resistant to most harm",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Sheer",
+      "limit": "Extreme force"
+    },
+    {
+      "name": "Regeneration",
+      "native_name": null,
+      "description": "Rapid healing abilities",
+      "type": "Biological",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Severe damage"
+    },
+    {
+      "name": "Anger Empowerment",
+      "native_name": null,
+      "description": "Strength and power increase with anger",
+      "type": "Power Enhancement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Self",
+      "limit": "Loss of control"
+    },
+    {
+      "name": "Leaping",
+      "native_name": null,
+      "description": "Can leap great distances",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Landing"
+    },
+    {
+      "name": "Genius Intelligence",
+      "native_name": null,
+      "description": "Brilliant scientist in Banner form",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Hulk form limitations"
+    },
+    {
+      "name": "Radiation Resistance",
+      "native_name": null,
+      "description": "Resistant to most forms of radiation",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Extreme radiation"
+    },
+    {
+      "name": "Adaptability",
+      "native_name": null,
+      "description": "Can adapt to various environments",
+      "type": "Biological",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Extreme conditions"
+    }
+  ],
+  "signature_moves": [
+    "Hulk smash",
+    "Thunder clap",
+    "Ground pound"
+  ],
+  "ultimate_move": "Worldbreaker Hulk (cosmic level power)",
+  "trump_card": "Unlimited rage",
+  "power_attributes": {
+    "power_type": "Gamma Radiation",
+    "power_source": "Gamma radiation accident",
+    "combat_style": [
+      "Brute force",
+      "Rage-based",
+      "Destructive"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Purple pants",
+      "Various destroyed clothing"
+    ],
+    "trump_card": "Unlimited rage",
+    "ultimate_move": "Worldbreaker Hulk (cosmic level power)"
+  },
+  "personality": {
+    "traits": [
+      "Angry",
+      "Destructive",
+      "Protective",
+      "Childlike",
+      "Powerful"
+    ],
+    "likes": [
+      "Being left alone",
+      "Smashing",
+      "Betty Ross",
+      "Peace (sometimes)"
+    ],
+    "dislikes": [
+      "Being controlled",
+      "Loud noises",
+      "Betrayal",
+      "Being called monster"
+    ],
+    "fear": "Losing control, Being trapped, Hurting innocents",
+    "dream": "To be left alone and find peace",
+    "personality_type": "ISFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Powerful"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Brilliant scientist becoming monster through gamma radiation accident",
+    "motivation": "To control the Hulk and find a cure",
+    "affinity": "Rage",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Saved the world countless times",
+    "Avengers founding member",
+    "Defeated major threats like Abomination, Leader, Thanos",
+    "Became one of the strongest beings",
+    "Gained control over Hulk"
+  ],
+  "titles": [
+    "Hulk",
+    "The Incredible Hulk",
+    "Green Goliath",
+    "Bruce Banner",
+    "Worldbreaker"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 100,
+    "speed": 70,
+    "durability": 100,
+    "power": 100,
+    "combat": 85,
+    "total": 540
+  },
+  "weaknesses": {
+    "list": [
+      "Loss of control",
+      "Intelligence reduction",
+      "Emotional triggers",
+      "Banner vulnerability"
+    ],
+    "factors": [
+      "Anger",
+      "Betrayal",
+      "Loud noises",
+      "Being controlled"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Abomination",
+    "allies": [
+      "Avengers",
+      "Betty Ross",
+      "Rick Jones"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Betty Ross",
+        "relationship": "Love interest",
+        "trust_level": "High"
+      },
+      {
+        "name": "Rick Jones",
+        "relationship": "Friend and sidekick",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Iron Man",
+        "relationship": "Close ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Abomination",
+      "Leader",
+      "General Ross",
+      "Thanos"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Abomination",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Leader",
+        "relationship": "Major villain",
+        "threat_level": "High"
+      },
+      {
+        "name": "General Ross",
+        "relationship": "Personal enemy",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": "Betty Ross",
+    "best_friend": "Rick Jones",
+    "rival": "Red Hulk",
+    "mentor": null,
+    "student": "Jennifer Walters (She-Hulk)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Betty Ross",
+      "Rick Jones"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Abomination",
+      "Red Hulk"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "She (cousin)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "She (cousin)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Red Hulk"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Jennifer Walters"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Betty Ross",
+      "Rick Jones"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Abomination",
+      "result": "Victory",
+      "method": "Superior strength and rage"
+    },
+    {
+      "opponent": "Leader",
+      "result": "Victory",
+      "method": "Brute force and intelligence"
+    },
+    {
+      "opponent": "Thanos",
+      "result": "Victory",
+      "method": "Teamwork and power"
+    }
+  ],
+  "quotes": [
+    "Hulk smash!",
+    "Hulk is strongest one there is",
+    "Don't make me angry",
+    "You wouldn't like me when I'm angry"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Mark Ruffalo (MCU), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect the world",
+    "transformation": [
+      "Various Hulk forms",
+      "Intelligent Hulk",
+      "Worldbreaker"
+    ],
+    "awakening_potential": "Full control and Worldbreaker potential",
+    "power_evolution": [
+      "Savage Hulk",
+      "Intelligent Hulk",
+      "Professor Hulk",
+      "Worldbreaker"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Leaping",
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "None needed"
+    ],
+    "headquarters": "Various locations",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "The Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, an immense, green-skinned, hulking brute, possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other. Lee stated that the Hulk's creation was inspired by a combination of Frankenstein and Dr. Jekyll and Mr. Hyde. \nFollowing his accidental exposure to gamma rays while saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will. This transformation often leads to destructive rampages and conflicts that complicate Banner's civilian life. The Hulk's level of strength is usually conveyed proportionate to his anger level. Commonly portrayed as a raging savage, the Hulk has been represented with other alter egos like a gangster (Joe Fixit), a merged personality (Merged Hulk), a mindless, destructive force (War), a brilliant warrior (World-Breaker), a self-hating protector (Devil Hulk), a genius scientist in his own right (Doc Green), and several minor alter egos.\nDespite Hulk and Banner's desire for solitude, the character has a large supporting cast. This includes Banner's love interest Betty Ross, his best friend, Rick Jones, his cousin She-Hulk, and therapist and ally Doc Samson. In addition, the Hulk alter ego has many key supporting characters, like his co-founders of the superhero team the Avengers, his queen Caiera, fellow warriors Korg and Miek, and sons Skaar and Hiro-Kala. However, his uncontrollable power has brought him into conflict with his fellow heroes and others such as General Thunderbolt Ross, Betty's father. Despite this, he tries his best to do what's right while battling villains such as the Leader, the Abomination, the Absorbing Man, and more.\nOne of the most iconic characters in popular culture, the character has appeared on a variety of merchandise, such as clothing and collectable items that was inspired by real-world structures (such as theme park attractions), and been referenced in several media. Banner and the Hulk have been adapted into live-action, animated, and video game incarnations. The character was first played in live-action by Bill Bixby and Lou Ferrigno in the 1978 television series The Incredible Hulk and its subsequent television films The Incredible Hulk Returns (1988), The Trial of the Incredible Hulk (1989), and The Death of the Incredible Hulk (1990). In the 2003 film Hulk, the character was played by Eric Bana. In the Marvel Cinematic Universe (MCU), the character was first portrayed by Edward Norton in the film The Incredible Hulk (2008) and then by Mark Ruffalo in later appearances in the franchise.",
+  "note": null,
+  "source": "marvel"
+}

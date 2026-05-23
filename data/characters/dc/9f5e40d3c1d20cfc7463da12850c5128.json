@@ -1,0 +1,469 @@
+{
+  "id": "9f5e40d3c1d20cfc7463da12850c5128",
+  "name": "Black Flash",
+  "native_name": null,
+  "full_name": "Unknown",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Speed Force Entity",
+    "race": "Speed Force",
+    "bloodline": "None",
+    "height_cm": 188,
+    "weight_kg": 79,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "None",
+    "hair_color": "None",
+    "skin_color": "Black",
+    "notable_features": [
+      "Black body",
+      "Lightning bolt symbol",
+      "Speed Force aura",
+      "No face"
+    ],
+    "skin": "Black",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Speed Force",
+    "current_location": "Speed Force",
+    "base_of_operations": "Speed Force",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Speed Force enforcer",
+    "secondary": "Harbinger",
+    "rank_title": "Speed Force entity",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Speed Force"
+    ],
+    "previous": [
+      "None"
+    ],
+    "relatives": [
+      "None"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Flash: Rebirth #3 (2016)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Can move at speeds exceeding light, faster than any speedster",
+      "type": "Movement",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Speed Force",
+      "native_name": null,
+      "description": "Draws power from the Speed Force, granting various speed-based abilities",
+      "type": "Power Source",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Time Travel",
+      "native_name": null,
+      "description": "Can travel through time using super speed",
+      "type": "Temporal",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Time paradoxes"
+    },
+    {
+      "name": "Phasing",
+      "native_name": null,
+      "description": "Can vibrate molecules to pass through solid objects",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Contact",
+      "limit": "Requires concentration"
+    },
+    {
+      "name": "Speed Stealing",
+      "native_name": null,
+      "description": "Can steal speed from other speedsters",
+      "type": "Power Theft",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Contact",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Intangibility",
+      "native_name": null,
+      "description": "Can become intangible to avoid attacks",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Speed Sense",
+      "native_name": null,
+      "description": "Can sense speedsters and speed-related phenomena",
+      "type": "Sensory",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    },
+    {
+      "name": "Time Manipulation",
+      "native_name": null,
+      "description": "Can manipulate time to some extent",
+      "type": "Temporal",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Unlimited",
+      "limit": "Speed Force exhaustion"
+    }
+  ],
+  "signature_moves": [
+    "Speed steal",
+    "Time manipulation",
+    "Intangibility"
+  ],
+  "ultimate_move": "Full Speed Force power",
+  "trump_card": "Speed and intangibility",
+  "power_attributes": {
+    "power_type": "Speed Force",
+    "power_source": "Speed Force",
+    "combat_style": [
+      "Speed-based",
+      "Intangible",
+      "Time manipulation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "None"
+    ],
+    "trump_card": "Speed and intangibility",
+    "ultimate_move": "Full Speed Force power"
+  },
+  "personality": {
+    "traits": [
+      "Relentless",
+      "Inevitable",
+      "Mysterious",
+      "Determined",
+      "Unstoppable"
+    ],
+    "likes": [
+      "Speed",
+      "Hunting speedsters",
+      "Speed Force",
+      "Being inevitable"
+    ],
+    "dislikes": [
+      "Being stopped",
+      "Speedsters escaping",
+      "Time paradoxes",
+      "Being delayed"
+    ],
+    "fear": "None (inevitable)",
+    "dream": "To fulfill his purpose",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Speed Force entity hunting speedsters who disrupt time",
+    "motivation": "To maintain the Speed Force and hunt those who abuse it",
+    "affinity": "Speed",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Hunted multiple speedsters",
+    "Maintained Speed Force balance",
+    "Killed speedsters who abused time",
+    "Became feared by speedsters",
+    "Fulfilled his purpose"
+  ],
+  "titles": [
+    "Black Flash",
+    "Speed Force enforcer",
+    "Harbinger",
+    "Dark Flash"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - Speed Force entity"
+  },
+  "powerstats": {
+    "intelligence": 70,
+    "strength": 50,
+    "speed": 100,
+    "durability": 80,
+    "power": 100,
+    "combat": 70,
+    "total": 470
+  },
+  "weaknesses": {
+    "list": [
+      "Speed Force exhaustion",
+      "Time paradoxes",
+      "Speedsters with greater power",
+      "Cosmic entities"
+    ],
+    "factors": [
+      "Speed Force balance",
+      "Time manipulation",
+      "Power levels"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Barry Allen",
+    "allies": [
+      "Speed Force"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Speed Force",
+        "relationship": "Source of power",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Barry Allen",
+      "Wally West",
+      "Various speedsters"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Barry Allen",
+        "relationship": "Primary target",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Wally West",
+        "relationship": "Target",
+        "threat_level": "High"
+      },
+      {
+        "name": "Various speedsters",
+        "relationship": "Targets",
+        "threat_level": "Variable"
+      }
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Speed Force"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Barry Allen"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Speed Force"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Barry Allen",
+      "result": "Various",
+      "method": "Speed and intangibility"
+    },
+    {
+      "opponent": "Wally West",
+      "result": "Various",
+      "method": "Speed steal and time manipulation"
+    },
+    {
+      "opponent": "Various speedsters",
+      "result": "Victory",
+      "method": "Speed and inevitability"
+    }
+  ],
+  "quotes": [
+    "I am inevitable",
+    "Speed Force demands balance",
+    "You cannot escape",
+    "Time is my domain"
+  ],
+  "voice_acting": {
+    "native_language": "None",
+    "english": "None",
+    "note": "Speed Force entity",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Continues to hunt speedsters",
+    "transformation": [
+      "Various forms",
+      "Different targets"
+    ],
+    "awakening_potential": "Full Speed Force potential",
+    "power_evolution": [
+      "Speed Force entity",
+      "Black Flash"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Super speed",
+      "Time travel"
+    ],
+    "vehicles": [
+      "None needed"
+    ],
+    "headquarters": "Speed Force",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "dc",
+  "about": "The Black Flash is a comic book character from DC Comics. Created by writers Grant Morrison and Mark Millar, and artist Ron Wagner, the character had cameos in The Flash vol. 2 #138 (June 1998), before appearing in full in The Flash vol. 2 #141 (September 1998).",
+  "note": null,
+  "source": "dc"
+}

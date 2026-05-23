@@ -1,0 +1,367 @@
+{
+  "id": "2e0585130b8b8caab1279b0cf89a2db8",
+  "name": "Toosaka, Rin",
+  "native_name": "遠坂凛",
+  "full_name": "Rin Tohsaka",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Magus",
+    "height_cm": 158,
+    "weight_kg": 48,
+    "age": "17",
+    "birthday": "Unknown",
+    "blood_type": "A",
+    "bloodline": null,
+    "zodiac": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Dark Brown/Black",
+    "skin": "Fair",
+    "notable_features": "Short dark hair, red eyes, fashionable",
+    "skin_color": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Fuyuki City",
+    "current_location": "Fuyuki City",
+    "base_of_operations": "Fuyuki City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Master of Archer",
+    "secondary": "Magus, Homurahara Academy Student",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Tohsaka Clan",
+      "Homurahara Academy"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Fate/stay night (2006)",
+    "game": "Fate/stay night (2004)",
+    "manga": "Fate/stay night (2006)",
+    "comics": null
+  },
+  "abilities": [
+    {
+      "name": "Jewel Magecraft",
+      "native_name": "宝石魔術",
+      "description": "Store Mana in jewels, detonate on contact for A-rank attacks",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long"
+    },
+    {
+      "name": "Gandr Shot",
+      "native_name": " Gandr",
+      "description": "Fire concentrated Mana as black orb from finger; amplifies physical conditions",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Medium"
+    },
+    {
+      "name": "Reinforcement Sorcery",
+      "native_name": "強化魔術",
+      "description": "Enhance physical attributes; leg speed, striking power",
+      "type": "Support",
+      "tier": "B+",
+      "power_level": 60,
+      "range": "Self"
+    },
+    {
+      "name": "Elemental Mastery",
+      "native_name": "五属性",
+      "description": "Proficient in all five elements: Fire, Water, Earth, Wind, Ether - Average One",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Jewel Burst",
+    "Gandr Shot",
+    "Reinforced Strike"
+  ],
+  "ultimate_move": "Jewel Meteor Shower",
+  "power_attributes": {
+    "power_type": "Magecraft",
+    "power_source": "Tohsaka Magic Crest",
+    "combat_style": [
+      "Bajiquan (karate)",
+      "Jewel Magecraft"
+    ],
+    "weapon": "Saber",
+    "equipment": [
+      "Bow"
+    ],
+    "trump_card": "Jewel Magecraft",
+    "ultimate_move": "Jewel Meteor Shower"
+  },
+  "personality": {
+    "traits": [
+      "Tsundere",
+      "Competitive",
+      "Intelligent",
+      "Proud",
+      "Kindhearted"
+    ],
+    "likes": [
+      "Shopping",
+      "Luxury",
+      "Winning",
+      "Archer"
+    ],
+    "dislikes": [
+      "Losing",
+      "Her sister Sakura being hurt"
+    ],
+    "fear": "Being unable to protect loved ones",
+    "dream": "Master magecraft, protect family legacy",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From spoiled rival to caring ally in Holy Grail War",
+    "motivation": "Win Grail War, protect those she cares about",
+    "affinity": "Fire/Water/Earth/Wind/Ether",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Summoned Archer",
+    "Won Grail War (Fate route)",
+    "Unified with sister Sakura",
+    "Defeated many Servants"
+  ],
+  "titles": [
+    "Average One",
+    "Tohsaka Heir"
+  ],
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 55,
+    "speed": 70,
+    "durability": 50,
+    "power": 85,
+    "combat": 65,
+    "total": 415
+  },
+  "relationships": {
+    "nemesis": "Kotomine Kirei (guardian/former enemy)",
+    "allies": [
+      "Archer",
+      "Shirou Emiya",
+      "Saber"
+    ],
+    "love_interest": "Shirou Emiya",
+    "best_friend": "Sakura Matou (sister)",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies": [
+      "Kotomine Kirei"
+    ],
+    "enemies_detailed": [],
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Archer",
+      "Shirou Emiya",
+      "Saber",
+      "Sakura Matou (sister)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Kotomine Kirei (guardian/former enemy)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [
+      "Tokiomi Toosaka (father)"
+    ],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [
+      "Tokiomi Toosaka (father)"
+    ],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Archer",
+      "Shirou Emiya",
+      "Saber",
+      "Sakura Matou"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Berserker",
+      "result": "Victory",
+      "method": "Used jewels to take lives"
+    }
+  ],
+  "quotes": [
+    "I'm not a monster. I'm a magus.",
+    "This is my Path. I won't let you take it."
+  ],
+  "voice_acting": {
+    "native_language": "Miyu Matsuki",
+    "note": null,
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues as magus, reconnects with Sakura",
+    "role_in_story": "Main Heroine",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "anime",
+  "trump_card": "Jewel Magecraft",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Fuyuki City",
+    "story_importance": "Main Heroine",
+    "note": null
+  },
+  "about": "Birthday: February 3\nClassification: Human, Mage\nHeight: 159 cm (Fate/stay night), 124 cm (Fate/Zero)\nWeight: 47 kg (Fate/stay night), 29 kg (Fate/Zero)\nThree sizes: B77-W57-H80 (Fate/stay night)\nBlood type: O\nServant: Archer\nLikes: praise of her father, polishing jewelry, messing around with Shirou\nDislikes: electronics\nAffiliation: Homurahara Academy, Year 2 class A\nFamous quote: \"The world is just another word for the things you value around you, right? That's something I've had since I was born. If you tell me to rule such a world, I already rule it.\"\n\nRin is a model student and idol of Shirou's school. She barely talks to other students in her school and exhibits a desire to be left alone as exemplified by her tendency to stay on the school's rooftop, away from the rest of the students. She is secretly a Magus and a Master in the Fifth Holy Grail War. In the beginning of the anime, she summons Archer for her Servant, although she originally wanted to summon Saber. Rin is reared as the successor to her family's magecraft, instructed by her father Tokiomi Toosaka to prioritize sorcery over her own interests.\n\nTwo centuries ago, the Toosaka House, in collaboration with the estates of Makiri and Einzbern, helped found the Fuyuki Holy Grail Wars. The land of Fuyuki City, which possessed the second greatest spiritual power in all Japan, was owned by Rin's ancestor, Nagato Toosaka; at the behest of the Einzberns, he provided his property as battleground for present and future wars. Nagato was a kirishitan, as well as a pupil of Zelretch; these titles gave him considerable influence in both the Mage's Association and the Church, allowing the Toosaka family to participate in the Holy Grail Wars, free from harassment by either organization.\n\nRin was brought up as the successor to her family's magecraft, and was instructed by her father to prioritize magecraft over her own interests. Ten years ago, Tokiomi Toosaka was selected as a Master in the 4th Holy Grail War, and Rin was entrusted to take care of the Toosaka estate until his return. Her mother, Aoi Toosaka, was left in a debilitated state from the war, so her care was left to her guardian, Kirei Kotomine. After her father was killed, Rin continued to improve her sorcery with some guidance from Kirei Kotomine. To divert attention from her private life, Rin has diligently strived to earn the admiration of her peers, even though she is secretly stingy, tomboyish, and a slacker.\n\nThe rights to the Toosaka lands were inherited by Aoi after Tokiomi's death, and subsequently inherited by Rin after Aoi's death. Kirei managed them as Rin's guardian, and because of his foolhardy and coarse management, the majority of profitable properties ended up in the hands of others. It is possible that he believed the wealth was bad for her upbringing due to following the principles of humility and poverty.\n\nAlthough Rin resents the sacrifices she has endured for the sake of tradition, she is fiercely competitive and eager to prove herself as a skilled and capable magus. She was immensely disappointed at summoning Archer and ended up in a quarrel with him; however, the duo soon reconciled, set aside their differences and quickly got along.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

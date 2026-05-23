@@ -1,0 +1,342 @@
+{
+  "name": "Multi-Paul",
+  "native_name": null,
+  "full_name": "Paul",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 70,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.9,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Identical duplicates",
+      "Criminal demeanor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Nomadic",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Criminal",
+    "secondary": null,
+    "rank_title": "Multi-Paul",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Criminal Underworld"
+    ],
+    "previous": [],
+    "relatives": [
+      "Dupli-Kate (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible (Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Self-Duplication",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self"
+    },
+    {
+      "name": "Duplicate Coordination",
+      "type": "Mental",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Duplicate Swarm",
+    "Clone Overwhelm"
+  ],
+  "ultimate_move": "Infinite Duplicates",
+  "trump_card": "Self-Duplication",
+  "power_attributes": {
+    "power_type": "Duplication",
+    "power_source": "Mutation/Power",
+    "combat_style": [
+      "Swarm",
+      "Overwhelming numbers"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      null
+    ],
+    "trump_card": "Self-Duplication",
+    "ultimate_move": "Infinite Duplicates"
+  },
+  "personality": {
+    "traits": [
+      "Criminal",
+      "Ambitious",
+      "Jealous",
+      "Vengeful"
+    ],
+    "likes": [
+      "Power",
+      "Numbers"
+    ],
+    "dislikes": [
+      "His sister",
+      "Heroes"
+    ],
+    "fear": "Being alone",
+    "dream": "Outdo his sister Dupli-Kate",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Self-Duplication",
+      "Duplicate Coordination"
+    ],
+    "weaknesses": [
+      "Vengeful",
+      "Jealous"
+    ]
+  },
+  "character": {
+    "arc": "Brother of Dupli-Kate (Guardian of the Globe member) with the same duplication powers. Chose a life of crime instead of heroism, becoming a recurring rival to his sister.",
+    "motivation": "Prove he is better than his sister",
+    "affinity": "Duplication/Crime",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Crime rival to Dupli-Kate"
+  ],
+  "titles": [
+    "Multi-Paul",
+    "Dupli-Paul"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 50,
+    "speed": 55,
+    "durability": 50,
+    "power": 78,
+    "combat": 50,
+    "total": 338
+  },
+  "weaknesses": {
+    "list": [
+      "Individual clones are weak",
+      "Can be outsmarted"
+    ],
+    "factors": [
+      "Each clone has human limits"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Dupli-Kate (sister)",
+    "allies": [
+      "Criminal underworld"
+    ],
+    "enemies": [
+      "Dupli-Kate",
+      "Guardians"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Criminal underworld"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Dupli-Kate (sister)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Criminal underworld"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Dupli-Kate",
+      "result": "Draw",
+      "method": "Duplicate vs duplicate combat"
+    }
+  ],
+  "quotes": [
+    "I am always more than you, sister."
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Recurring criminal",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Paul",
+      "Multi-Paul"
+    ],
+    "role": "Recurring Villain",
+    "role_in_story": null,
+    "awakening_potential": "Potential exists",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Nomadic",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "01995b78a4c37d6d9dae9b28cf7fcdb3",
+  "publisher": "image_comics",
+  "about": "Invincible is an American adult animated superhero television series created by Robert Kirkman for the streaming service Amazon Prime Video, based on the Image Comics comic book series of the same name he co-created with Cory Walker and Ryan Ottley. It is produced by Skybound Entertainment, Wind Sun Sky Entertainment, Point Grey Pictures, and Amazon MGM Studios. The series follows teenager Mark Grayson, a human-alien hybrid, who becomes a crime-fighting superhero known as \"Invincible\" under the guidance of his father, Nolan / Omni-Man, the most powerful superhero on the planet. As he adjusts to his new powers, Mark struggles to balance his personal life with his superhero duties and is forced to prove that he can live up to his father, unaware of a conspiracy that threatens the world and leading him to question the true nature of his role. Steven Yeun stars in the series as Mark, alongside J. K. Simmons and Sandra Oh as Mark's father and mother, Nolan and Debbie Grayson, respectively, while the remaining cast members have recurring roles.\nInvincible premiered its eight-episode first season across March and April 2021, after which Amazon renewed the series for a second and third season. A prequel special, \"Invincible: Atom Eve\", was released in July 2023. The eight-episode second season was divided into two parts, first released in November 2023, then across March and April 2024. The eight-episode third season was released between February and March 2025. The eight-episode fourth season was released between March and April 2026. A fifth season has been announced ahead of its release.\nThe series has received widespread critical acclaim, with praise for its action sequences, story, voice performances (particularly Yeun, Oh, and Simmons), faithfulness to the comics, and emotional weight. It has been nominated for two Primetime Emmy Awards, two Annie Awards and the Critics' Choice Television Award for Best Animated Series.",
+  "note": null,
+  "source": "image_comics"
+}

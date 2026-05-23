@@ -1,0 +1,383 @@
+{
+  "name": "Spider-Man India",
+  "native_name": null,
+  "full_name": "Pavitr Prabhakar",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (enhanced)",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": "Teen",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 22.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Brown",
+    "notable_features": [
+      "Indian attire Spider-suit",
+      "Dhoti style costume",
+      "Young appearance"
+    ],
+    "skin": "Brown",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Mumbai, India",
+    "current_location": "Mumbai, India",
+    "base_of_operations": "Mumbai",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Superhero",
+    "rank_title": "Spider-Man",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Spider-Army",
+      "Web-Warriors"
+    ],
+    "previous": [],
+    "relatives": [
+      "Aunt Maya (guardian)",
+      "Uncle Bhim (uncle)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Spider-Man: India #1 (November 2004)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Spider Powers",
+      "native_name": null,
+      "description": "Superhuman strength, agility, wall-crawling via mystical spider bite from an ancient artifact.",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee",
+      "limit": null
+    },
+    {
+      "name": "Enhanced Reflexes",
+      "native_name": null,
+      "description": "Spider-sense that warns of danger. Enhanced reflexes for combat and evasion.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 78,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Indian Martial Arts",
+      "native_name": null,
+      "description": "Trained in Kalaripayattu, ancient Indian martial arts. Combines with spider powers for unique combat style.",
+      "type": "Combat",
+      "tier": "B",
+      "power_level": 72,
+      "range": "Melee",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Mumbai Web Strike",
+    "Kalaripayattu Combo",
+    "Dhoti Swing"
+  ],
+  "ultimate_move": "Mumbai Wrath",
+  "trump_card": "Spider Powers + Kalaripayattu",
+  "power_attributes": {
+    "power_type": "Spider Powers",
+    "power_source": "Mystical Spider Bite",
+    "combat_style": [
+      "Kalaripayattu",
+      "Web-slinging",
+      "Martial Arts"
+    ],
+    "weapon": "Web-shooters",
+    "equipment": [
+      "Spider-Suit",
+      "Web-shooters"
+    ],
+    "trump_card": "Spider Powers + Kalaripayattu",
+    "ultimate_move": "Mumbai Wrath"
+  },
+  "personality": {
+    "traits": [
+      "Optimistic",
+      "Determined",
+      "Loyal",
+      "Resourceful",
+      "Friendly"
+    ],
+    "likes": [
+      "Mumbai",
+      "Helping others",
+      "His community",
+      "Aunt Maya"
+    ],
+    "dislikes": [
+      "Injustice",
+      "Corruption",
+      "Demons",
+      "Crime"
+    ],
+    "fear": "Losing Aunt Maya",
+    "dream": "Protect Mumbai and make India proud",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Resourceful",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Pavitr Prabhakar from Mumbai gains spider powers from a mystical artifact. Fights demons and supervillains threatening India. Joins Spider-Army in multiversal events.",
+    "motivation": "Protect Mumbai and honor his uncle memory",
+    "affinity": "Mystical",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Protected Mumbai from demons",
+    "Spider-Army member",
+    "Fought in Spider-Verse"
+  ],
+  "titles": [
+    "Spider-Man India",
+    "Pavitr Prabhakar",
+    "Mumbai Spider"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Rupee",
+    "details": "Wanted by Indian crime syndicates"
+  },
+  "powerstats": {
+    "intelligence": 72,
+    "strength": 75,
+    "speed": 82,
+    "durability": 70,
+    "power": 68,
+    "combat": 78,
+    "total": 445
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability",
+      "Inexperience",
+      "Youth"
+    ],
+    "factors": [
+      "Naivety"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Nalin Oberoi (Demon Lord)",
+    "allies": [
+      "Spider-Army",
+      "Spider-Gwen",
+      "Meera Jain"
+    ],
+    "allies_detailed": [],
+    "enemies": [
+      "Nalin Oberoi",
+      "Demons",
+      "Crime lords"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Meera Jain",
+    "best_friend": "Spider-Gwen",
+    "rival": null,
+    "mentor": "Aunt Maya",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Spider-Army",
+      "Spider-Gwen",
+      "Meera Jain"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Nalin Oberoi (Demon Lord)"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Spider-Army",
+      "Spider-Gwen",
+      "Meera Jain"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Aunt Maya"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Nalin Oberoi",
+      "result": "Victory",
+      "method": "Spider powers and Kalaripayattu"
+    }
+  ],
+  "quotes": [
+    "With great power comes great responsibility... even in Mumbai.",
+    "India has a Spider-Man now!"
+  ],
+  "voice_acting": {
+    "native_language": "Karan Soni",
+    "english": "Karan Soni",
+    "note": "Voice in Spider-Verse films",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "Protecting Mumbai",
+    "transformation": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [
+      "Pavitr",
+      "Spider-Man India"
+    ],
+    "role_in_story": "Main Character (alternate universe)",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Web-slinging"
+    ],
+    "vehicles": [],
+    "headquarters": "Mumbai",
+    "story_importance": "Major",
+    "note": null
+  },
+  "id": "1cd81432a92b0bfd103663abed1f2470",
+  "publisher": "marvel",
+  "about": "Spider-Man: India is a superhero comic book series published in India by Gotham Entertainment Group in 2004, retelling the story of Marvel Comics' Spider-Man in an Indian setting. It ran for four issues, which were later also published in the United States in 2005 and collected into a trade paperback (ISBN 0-7851-1640-0). The series was created by Sharad Devarajan, Suresh Seetharaman, and Jeevan J. Kang with Marvel Comics.\nThe titular character of Pavitr Prabhakar / Spider-Man made his cinematic debut in the 2023 feature film Spider-Man: Across the Spider-Verse voiced by Karan Soni, depicted as a member of Miguel O'Hara's Spider-Society.",
+  "note": null,
+  "source": "marvel"
+}

@@ -1,0 +1,405 @@
+{
+  "id": "7cee779b3dff4782789020aca1e28ded",
+  "name": "Tenten",
+  "native_name": "テンテン",
+  "full_name": "Tenten",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "None",
+    "height_cm": 164,
+    "weight_kg": 50,
+    "age": "13-14 (Part I), 16-17 (Part II)",
+    "birthday": "May 2",
+    "zodiac": "Taurus",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown hair in buns",
+      "Chinese outfit",
+      "Weapon scrolls",
+      "Determined expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Team Guy",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Weapons specialist",
+    "rank_title": "Chunin (Part II)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team Guy"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 21",
+    "manga": "Naruto Chapter 78",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Weapon Mastery",
+      "native_name": "武器の達人",
+      "description": "Master of all ninja weapons. Can use any weapon with perfect accuracy.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "All",
+      "limit": "Weapon supply"
+    },
+    {
+      "name": "Scroll Summoning",
+      "native_name": "巻物召喚",
+      "description": "Summons hundreds of weapons from scrolls instantly.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Heavenly Chain of Weapons",
+      "native_name": "武器天昇",
+      "description": "Summons massive arsenal of weapons raining from sky.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Area",
+      "limit": "Chakra cost"
+    },
+    {
+      "name": "Twin Rising Dragons",
+      "native_name": "双龍昇天",
+      "description": "Uses two scrolls to summon dragon-shaped weapon barrages.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Scrolls required"
+    }
+  ],
+  "signature_moves": [
+    "Heavenly Chain of Weapons",
+    "Twin Rising Dragons",
+    "Weapon summoning"
+  ],
+  "ultimate_move": "Thousand Weapons Rain",
+  "trump_card": "Infinite weapon supply",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Training",
+    "combat_style": [
+      "Weapons",
+      "Ninjutsu"
+    ],
+    "weapon": "All weapons",
+    "equipment": [
+      "Weapon scrolls",
+      "Kunai",
+      "Shuriken"
+    ],
+    "trump_card": "Infinite weapon supply",
+    "ultimate_move": "Thousand Weapons Rain"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Practical",
+      "Loyal",
+      "Competitive",
+      "Hardworking",
+      "Caring"
+    ],
+    "likes": [
+      "Weapons",
+      "Training",
+      "Team Guy",
+      "Chinese food"
+    ],
+    "dislikes": [
+      "Being underestimated",
+      "Weakness",
+      "Losing"
+    ],
+    "fear": "Being useless",
+    "dream": "Become greatest weapons master",
+    "personality_type": "ISTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Practical",
+      "Loyal",
+      "Hardworking"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Tenten is the weapons expert of Team Guy. Often overlooked but highly skilled. Dreams of proving her worth.",
+    "motivation": "Become greatest weapons master, prove worth",
+    "affinity": "Brown/Weapons",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Chunin",
+    "Weapons master",
+    "Team Guy member"
+  ],
+  "titles": [
+    "Weapons Mistress",
+    "Chunin"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 78,
+    "strength": 70,
+    "speed": 78,
+    "durability": 72,
+    "power": 80,
+    "combat": 88,
+    "total": 466
+  },
+  "weaknesses": {
+    "list": [
+      "No bloodline",
+      "Dependent on weapons",
+      "Less recognition"
+    ],
+    "factors": [
+      "Running out of weapons"
+    ]
+  },
+  "relationships": {
+    "nemesis": "None",
+    "allies": [
+      "Lee",
+      "Neji",
+      "Guy"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Rock Lee",
+        "relationship": "Best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Neji (implied)",
+    "best_friend": "Lee/Neji",
+    "rival": "None",
+    "mentor": "Guy",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Lee",
+      "Neji",
+      "Guy",
+      "Lee/Neji"
+    ],
+    "colleague": null,
+    "enemy": [
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Lee",
+      "Neji",
+      "Guy",
+      "Lee/Neji"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Guy"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Temari",
+      "result": "Loss",
+      "method": "Outmatched"
+    },
+    {
+      "opponent": "Akatsuki",
+      "result": "Victory",
+      "method": "Weapons"
+    }
+  ],
+  "quotes": [
+    "I'll show you my weapons!",
+    "Don't underestimate me!",
+    "Team Guy forever."
+  ],
+  "voice_acting": {
+    "native_language": "Yukari Tamura (Japanese)",
+    "note": "Energetic, determined",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues service",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Master",
+      "Weapons expert"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Team Guy base",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 23\nBirthday: October 31\nHeight: 198 cm (6'6\")\nWeight: 95 kg (209 lbs)\nAffiliation: Demon Slayer Corps\nCombat Style: Sound Breathing\n\n\n\nUzui Tengen is a Demon Hunter and the Sound Pillar of the Demon Killing Corps.\n\n(Source: Kimetsu no Yaiba Wiki)",
+  "note": null,
+  "source": "anime"
+}

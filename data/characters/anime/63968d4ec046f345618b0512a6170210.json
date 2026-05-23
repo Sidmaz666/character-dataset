@@ -1,0 +1,413 @@
+{
+  "id": "63968d4ec046f345618b0512a6170210",
+  "name": "Ryoko Asakura",
+  "native_name": "朝倉涼子",
+  "full_name": "Ryoko Asakura",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Humanoid Interface (Artificial being)",
+    "race": "Data Overmind entity",
+    "bloodline": "N/A",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "age": "Appears 17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blue",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Very popular student",
+      "Class president",
+      "Cheerful smile",
+      "Athletic build"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Artificial (Data Overmind)",
+    "current_location": "North High (formerly)",
+    "base_of_operations": "Data Overmind",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Humanoid Interface",
+    "secondary": "Class President",
+    "rank_title": "Yuki Nagato's backup",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Data Overmind",
+      "Humanoid Interfaces"
+    ],
+    "previous": [
+      "North High School"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "The Melancholy of Haruhi Suzumiya Episode 1",
+    "manga": "The Melancholy of Haruhi Suzumiya Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Data Manipulation",
+      "native_name": "データ操作",
+      "description": "Create and manipulate data. Can materialize weapons from thin air.",
+      "type": "Attack/Utility",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Varies",
+      "limit": "Limited to object creation"
+    },
+    {
+      "name": "Knife Mastery",
+      "native_name": "ナイフ熟練",
+      "description": "Expert with knives. Can throw with extreme force and redirect in flight.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 65,
+      "range": "Short/Long",
+      "limit": "Requires materialized knife"
+    },
+    {
+      "name": "Superhuman Physicals",
+      "native_name": "超人的肉体",
+      "description": "Above human strength, reflexes, and agility.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Melee",
+      "limit": "Not as strong as fighters"
+    },
+    {
+      "name": "Personal Dimension",
+      "native_name": "個人空間",
+      "description": "Create a private space to carry out actions without interference.",
+      "type": "Utility",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Spatial",
+      "limit": "Limited duration"
+    }
+  ],
+  "signature_moves": [
+    "Knife throw",
+    "Materialize knife",
+    "Stab attack"
+  ],
+  "ultimate_move": "Knife assassination",
+  "trump_card": "Personal dimension creation",
+  "power_attributes": {
+    "power_type": "Data manipulation",
+    "power_source": "Data Overmind",
+    "combat_style": [
+      "Knife combat",
+      "Assassination"
+    ],
+    "weapon": "Combat knife",
+    "equipment": [
+      "Data Manipulation"
+    ],
+    "trump_card": "Personal dimension creation",
+    "ultimate_move": "Knife assassination"
+  },
+  "personality": {
+    "traits": [
+      "Cheerful",
+      "Popular",
+      "Sociable",
+      "Apathetic",
+      "Cold",
+      "Logical"
+    ],
+    "likes": [
+      "Social interactions",
+      "Observing Haruhi",
+      "Yuki Nagato"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Inefficiency",
+      "Humans (emotions)"
+    ],
+    "fear": "Being deleted for failure",
+    "Dream": "Serve Data Overmind efficiently",
+    "personality_type": "INTJ",
+    "dream": "Observe Haruhi for Data Overmind",
+    "alignment": null,
+    "strengths": [
+      "Data Manipulation",
+      "Knife Mastery",
+      "Superhuman Physicals",
+      "Personal Dimension"
+    ],
+    "weaknesses": [
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Ryoko is a humanoid interface disguised as a popular student. She becomes bored observing Haruhi and tries to kill Kyon to trigger a reaction. She is defeated by Yuki and deleted.",
+    "motivation": "Observe Haruhi for Data Overmind",
+    "affinity": "Blue/Data",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Class president",
+    "Popular student persona",
+    "Attempted to kill Kyon"
+  ],
+  "titles": [
+    "Class President",
+    "Humanoid Interface",
+    "Yuki's backup"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 55,
+    "speed": 65,
+    "durability": 50,
+    "power": 65,
+    "combat": 60,
+    "total": 375
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot empathize with humans",
+      "Cannot understand emotional reactions",
+      "Defeated by Yuki"
+    ],
+    "factors": [
+      "Logical blind spots",
+      "Predictable motives"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Yuki Nagato (defeated her)",
+    "allies": [
+      "Data Overmind",
+      "Yuki Nagato (former backup relation)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Yuki Nagato",
+        "relationship": "Backup unit",
+        "trust_level": "Complicated"
+      }
+    ],
+    "enemies": [
+      "Kyon (attempted to kill)",
+      "Haruhi Suzumiya"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Kyon",
+        "relationship": "Target for assassination",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "None",
+    "best_friend": "None",
+    "rival": "Yuki Nagato",
+    "mentor": "Data Overmind",
+    "student": "None",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Data Overmind",
+      "Yuki Nagato (former backup relation)",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Yuki Nagato (defeated her)",
+      "Yuki Nagato"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Yuki Nagato"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "None"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Data Overmind",
+      "Yuki Nagato",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Data Overmind"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Kyon",
+      "result": "Failure",
+      "method": "Attempted knife assassination"
+    },
+    {
+      "opponent": "Yuki Nagato",
+      "result": "Defeat/Deletion",
+      "method": "Yuki intervened and deleted her"
+    }
+  ],
+  "quotes": [
+    "Does it hurt? Relish the taste, because it's going to be the last sensation you feel.",
+    "I'll eliminate anything that threatens Nagato-san."
+  ],
+  "voice_acting": {
+    "native_language": "Natsuko Kuwatani (Japanese)",
+    "note": "Known for dual personality voice",
+    "native_name": null,
+    "english": "Bridget Hoffman",
+    "japanese": "Natsuko Kuwatani"
+  },
+  "story": {
+    "status": "Deleted/Deceased",
+    "fate": "Deleted by Yuki Nagato",
+    "transformation": "N/A",
+    "awakening_potential": "Could have been more powerful interface",
+    "power_evolution": [
+      "Observer unit",
+      "Backup unit",
+      "Deleted"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Data Overmind",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "At first, Ryouko appears to be a compassionate and hard-working high school girl. One of Kyon's friends, Taniguchi, places her in the top three first-year girls in the school with a grade of AA+: indicative of her pleasant personality, beauty, and athleticism. Her enormous popularity made her the unanimous choice for class president of Kyon's homeroom class. She also showed particular concern about how Haruhi had distanced herself from the rest of the class.\n\n\n\nA small or \"chibi\" version of Ryouko Asakura called Achakura-san is present in the Suzumiya Haruhi-chan no Yuuutsu 4-komas.\n\nIn her form, she is sometimes chased by cats and would eat her, that is why Yuki took her in. At first, Achakura refused but later adapted to Yuki and became a maid-like chibi person working in Yuki's home.\n\nShe is sometimes tortured and frightened by Yuki.",
+  "note": null,
+  "source": "anime"
+}

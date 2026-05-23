@@ -1,0 +1,441 @@
+{
+  "id": "c5b9a4f796d07a79e00661f52ff10630",
+  "name": "Mimori Touka",
+  "native_name": "美森 桃花",
+  "full_name": "Mimori Touka",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Mimori",
+    "height_cm": 168,
+    "weight_kg": 58,
+    "age": "17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Often hides identity with Belzegea Mask",
+      "Calm demeanor"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan (Earth)",
+    "current_location": "Fantasy World",
+    "base_of_operations": "Wandering",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "E-Class Hero (Failure Frame)",
+    "secondary": "Revenge Seeker",
+    "rank_title": "E-Rank Hero",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Sera Ashrain (ally)",
+      "Angrin"
+    ],
+    "previous": [
+      "Class 2-D"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells (2024)",
+    "manga": "Failure Frame",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Abnormal State Endowment",
+      "native_name": "異常状態付与",
+      "description": "Touka's unique skill that inflicts abnormal states/debuffs on targets with 100% success rate. Effects cannot be resisted regardless of target level. Same debuff cannot be stacked consecutively.",
+      "type": "Debuff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium (requires line of sight)",
+      "limit": "Must see target and point arms; cannot spam same debuff"
+    },
+    {
+      "name": "Paralyze",
+      "native_name": "麻痺",
+      "description": "Inflicts paralysis on enemies, immobilizing them. Causes injury if targets force their bodies to move.",
+      "type": "Debuff",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Medium",
+      "limit": "Cannot stack same debuff; 10 MP cost"
+    },
+    {
+      "name": "Poison",
+      "native_name": "毒",
+      "description": "Inflicts painful purple poison pustules. Can kill enemies over time. Has non-lethal variant.",
+      "type": "Debuff/Damage",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "Same debuff cannot stack; 10 MP cost"
+    },
+    {
+      "name": "Sleep",
+      "native_name": "睡眠",
+      "description": "Puts enemies to sleep, useful for immobilization.",
+      "type": "Debuff",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Medium",
+      "limit": "Cannot stack same debuff; 10 MP cost"
+    },
+    {
+      "name": "Freezing",
+      "native_name": "凍結",
+      "description": "Freezes enemies.",
+      "type": "Debuff",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Cannot stack same debuff"
+    },
+    {
+      "name": "Obscuring Vision",
+      "native_name": "視界遮断",
+      "description": "Blocks enemy vision.",
+      "type": "Debuff",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": "Cannot stack same debuff"
+    },
+    {
+      "name": "Irakinesis",
+      "native_name": "意志操作",
+      "description": "Controls the will of others.",
+      "type": "Mind Control",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Short",
+      "limit": "Requires line of sight"
+    },
+    {
+      "name": "Scrolls of Forbidden Magic",
+      "native_name": "禁呪の巻物",
+      "description": "Three powerful scrolls containing curses against the Goddess. Language unknown, potentially god-killing.",
+      "type": "Curses",
+      "tier": "S",
+      "power_level": 100,
+      "range": "Unknown",
+      "limit": "Cannot decipher yet"
+    }
+  ],
+  "signature_moves": [
+    "Paralyze!",
+    "Poison!",
+    "Sleep!"
+  ],
+  "ultimate_move": "Mass Status Infliction (Multiple Targets)",
+  "trump_card": "Scrolls of Forbidden Magic (God-Killing)",
+  "power_attributes": {
+    "power_type": "Abnormal State Magic",
+    "power_source": "Inherent Skill",
+    "combat_style": [
+      "Ranged Debuff",
+      "Status Effect Stacking"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Belzegea Mask",
+      "Leather Pouch (world items)",
+      "Scrolls of Forbidden Magic"
+    ],
+    "trump_card": "Scrolls of Forbidden Magic (God-Killing)",
+    "ultimate_move": "Mass Status Infliction (Multiple Targets)"
+  },
+  "personality": {
+    "traits": [
+      "Calculating",
+      "Strategic",
+      "Deceptive",
+      "Compassionate",
+      "Patient"
+    ],
+    "likes": [
+      "Leveling up",
+      "Revenge",
+      "Caring for the deceased"
+    ],
+    "dislikes": [
+      "Goddess Vicius",
+      "Soul Eater"
+    ],
+    "fear": "None shown",
+    "dream": "Kill Goddess Vicius",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Cannot"
+    ]
+  },
+  "character": {
+    "arc": "From abandoned E-class hero to overpowered revenge seeker",
+    "motivation": "Kill the goddess who betrayed him",
+    "affinity": "Abnormal States",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Survived Ruins of Disposal (impossible)",
+    "Reached level 500+ in days",
+    "Killed Soul Eater",
+    "Gained Scrolls of Forbidden Magic"
+  ],
+  "titles": [
+    "Hati Skoll",
+    "Sir Hati",
+    "Trash Hero",
+    "E-Class Loser"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Unknown"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 70,
+    "speed": 75,
+    "durability": 80,
+    "power": 95,
+    "combat": 85,
+    "total": 497
+  },
+  "weaknesses": {
+    "list": [
+      "Cannot spam same debuff",
+      "Requires line of sight",
+      "Must be in attack range"
+    ],
+    "factors": [
+      "Close range for abilities"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Goddess Vicius",
+    "allies": [
+      "Sera Ashrain",
+      "Angrin"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Sera Ashrain",
+        "relationship": "Friend",
+        "trust_level": "High"
+      },
+      {
+        "name": "Angrin",
+        "relationship": "Ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Goddess Vicius",
+      "Soul Eater"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Sera Ashrain",
+      "Angrin"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Goddess Vicius"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Sera Ashrain",
+      "Angrin"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Soul Eater",
+      "result": "Victory",
+      "method": "Poison after fake breakdown"
+    },
+    {
+      "opponent": "Goddess Vicius",
+      "result": "Pending",
+      "method": "Seeking revenge"
+    }
+  ],
+  "quotes": [
+    "Paralyze!",
+    "I will kill that goddess.",
+    "Even E-rank can become the strongest."
+  ],
+  "voice_acting": {
+    "native_language": "Yoshitaka Yamaya",
+    "note": "Japanese and English dub",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Seeking revenge on goddess",
+    "transformation": "None (but massive level growth)",
+    "awakening_potential": "Can become god-tier with Scrolls",
+    "power_evolution": [
+      "E-Class (Weak)",
+      "Level 500+ (Strong)",
+      "Future God-Killer"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Wandering",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Yuuna's best friend and fellow classmate and club member who lives next door to her and often prefers to be called by her family name. Mimori takes pride in her national heritage and is always ready to defend her country and protect its people. She had lost the use of her legs, along with some of her memories, allegedly due to a car accident.\n\n\nSumi Washio",
+  "note": null,
+  "source": "anime"
+}

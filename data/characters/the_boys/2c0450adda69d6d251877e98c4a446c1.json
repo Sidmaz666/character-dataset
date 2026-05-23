@@ -1,0 +1,366 @@
+{
+  "name": "Gunpowder",
+  "native_name": null,
+  "full_name": "Gunpowder",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Supe",
+    "race": "Human",
+    "bloodline": null,
+    "height_cm": 180,
+    "weight_kg": 82,
+    "age": "40s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 25.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Gray",
+    "skin_color": "Fair",
+    "notable_features": [
+      "NRA-loving",
+      "Gun expert",
+      "Payback member"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "USA",
+    "current_location": "USA",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Supe (Payback)",
+    "secondary": "NRA advocate",
+    "rank_title": "Gunpowder",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Payback (formerly)"
+    ],
+    "previous": [
+      "Payback"
+    ],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "The Boys (TV/Comics)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Expert Marksmanship",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long"
+    },
+    {
+      "name": "Weapon Mastery",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long"
+    },
+    {
+      "name": "Gun Combat",
+      "type": "Combat",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Long"
+    }
+  ],
+  "signature_moves": [
+    "Gun Barrage",
+    "Trick Shot",
+    "Headshot"
+  ],
+  "ultimate_move": "Gunpowder Execution",
+  "trump_card": "Perfect Aim (Compound V enhanced)",
+  "power_attributes": {
+    "power_type": "Firearms Mastery",
+    "power_source": "Compound V + NRA Training",
+    "combat_style": [
+      "Firearms",
+      "Ranged",
+      "Expert"
+    ],
+    "weapon": "Various Firearms",
+    "equipment": [
+      "Guns",
+      "Ammunition"
+    ],
+    "trump_card": "Perfect Aim (Compound V enhanced)",
+    "ultimate_move": "Gunpowder Execution"
+  },
+  "personality": {
+    "traits": [
+      "Patriotic",
+      "Gun nut",
+      "Conservative",
+      "Arrogant"
+    ],
+    "likes": [
+      "Guns",
+      "Second Amendment",
+      "America"
+    ],
+    "dislikes": [
+      "Government",
+      "Regulation",
+      "Butcher"
+    ],
+    "fear": "Gun confiscation",
+    "dream": "Armed America",
+    "personality_type": "ESTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Expert Marksmanship",
+      "Weapon Mastery",
+      "Gun Combat"
+    ],
+    "weaknesses": [
+      "Arrogant"
+    ]
+  },
+  "character": {
+    "arc": "Conservative supe and former Payback member. Expert marksman with supe-enhanced aim. Represents NRA/gun culture archetype. Was involved in the Payback betrayal of Soldier Boy.",
+    "motivation": "Defend gun rights and serve Payback",
+    "affinity": "Firearms",
+    "alignment": "Neutral Evil"
+  },
+  "achievements": [
+    "Payback member",
+    "Expert marksman",
+    "Survived Soldier Boy incident"
+  ],
+  "titles": [
+    "Gunpowder",
+    "The Marksman"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 55,
+    "strength": 58,
+    "speed": 68,
+    "durability": 62,
+    "power": 78,
+    "combat": 85,
+    "total": 406
+  },
+  "weaknesses": {
+    "list": [
+      "Human durability",
+      "No super strength",
+      "Reliant on weapons"
+    ],
+    "factors": [
+      "Without guns vulnerable",
+      "Normal human durability"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Butcher",
+    "allies": [
+      "Payback (former)",
+      "NRA"
+    ],
+    "enemies": [
+      "Butcher",
+      "The Boys"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Payback (former)",
+      "NRA"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Butcher"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Payback",
+      "NRA"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Butcher",
+      "result": "Death",
+      "method": "Outwitted and killed by Butcher"
+    }
+  ],
+  "quotes": [
+    "You will take my guns from my cold dead hands.",
+    "America!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Billy Butcher",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "Human",
+      "Gunpowder",
+      "Payback Mark"
+    ],
+    "role": "Minor Antagonist",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Pickup truck"
+    ],
+    "headquarters": "USA",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "id": "2c0450adda69d6d251877e98c4a446c1",
+  "publisher": "the_boys",
+  "about": "Gunpowder, commonly referred to as black powder to distinguish it from modern smokeless powder, is the earliest known chemical explosive. It consists of a mixture of sulfur, charcoal, and potassium nitrate (saltpeter). The sulfur and charcoal act as fuels, while the saltpeter is an oxidizer. Gunpowder has been widely used as a propellant in firearms, artillery, rocketry, and pyrotechnics, including use as a blasting agent for explosives in quarrying, mining, building pipelines, tunnels, and roads.",
+  "note": null,
+  "source": "the_boys"
+}

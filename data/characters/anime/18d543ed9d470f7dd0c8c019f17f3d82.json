@@ -1,0 +1,440 @@
+{
+  "id": "18d543ed9d470f7dd0c8c019f17f3d82",
+  "name": "Mitsuri Kanroji",
+  "native_name": "甘露寺蜜璃",
+  "full_name": "Mitsuri Kanroji",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Kanroji Clan",
+    "height_cm": 164,
+    "weight_kg": 56,
+    "age": "19",
+    "birthday": "February 14",
+    "zodiac": "Aquarius",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Purple/Pink gradient",
+    "hair_color": "Pink with green roots",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Flexible body",
+      "Green gradient hair",
+      "Muscular build for female",
+      "Whip-like sword"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Demon Slayer Corps",
+    "current_location": "Demon Slayer Corps",
+    "base_of_operations": "Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Hashira (Pillar)",
+    "secondary": "Demon Slayer",
+    "rank_title": "Love Hashira",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Demon Slayer Corps"
+    ],
+    "previous": [
+      "Flame Breathing training (Rengoku)"
+    ],
+    "relatives": [
+      "Married to Kanroji"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Demon Slayer Episode 1",
+    "manga": "Kimetsu no Yaiba Chapter 1",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Love Breathing",
+      "native_name": "恋の呼吸",
+      "description": "Personal breathing style derived from Flame Breathing - uses flexible whip-like attacks",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long (whip range)",
+      "limit": "Requires flexible body"
+    },
+    {
+      "name": "Enhanced Flexibility",
+      "native_name": "超人的柔軟",
+      "description": "Super flexible body - can achieve wide range of motion, only she can use her sword style",
+      "type": "Support",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Only she can use it safely"
+    },
+    {
+      "name": "Whip-like Nichirin Sword",
+      "native_name": "鞭刀",
+      "description": "Flexible sword that bends like whip - very long range attacks",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 85,
+      "range": "Long",
+      "limit": "Only she can wield it"
+    },
+    {
+      "name": "First Form - Love Slice",
+      "native_name": "一の形 - 恋切り",
+      "description": "Single powerful whip slash",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Second Form - Love Pangs",
+      "native_name": "二の形 - 恋しお",
+      "description": "Circumferential whip attack - protects all around",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Third Form - Catlove Shower",
+      "native_name": "三の形 - 猫叉愛の湯",
+      "description": "Aerial upward whip attack - consecutive strikes while jumping",
+      "type": "Attack",
+      "tier": "A+",
+      "power_level": 80,
+      "range": "Medium to Long",
+      "limit": null
+    },
+    {
+      "name": "Fifth Form - Love Fantasia",
+      "native_name": "五の形 - 恋幻想",
+      "description": "Continuous whip attacks from all angles - her ultimate",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Requires full concentration"
+    },
+    {
+      "name": "Demon Slayer Mark",
+      "native_name": "痣",
+      "description": "Activated mark during battle - enhances abilities dramatically",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Temporary"
+    }
+  ],
+  "signature_moves": [
+    "Love Breathing forms",
+    "Whip sword",
+    "Flexibility attacks"
+  ],
+  "ultimate_move": "Fifth Form - Love Fantasia",
+  "trump_card": "Full Love Breathing with Mark",
+  "power_attributes": {
+    "power_type": "Breathing / Flexibility",
+    "power_source": "Flame Breathing + personal creation",
+    "combat_style": [
+      "Love Breathing",
+      "Whip sword"
+    ],
+    "weapon": "Flexible Nichirin sword",
+    "equipment": [
+      "Enhanced Flexibility",
+      "Whip-like Nichirin Sword"
+    ],
+    "trump_card": "Full Love Breathing with Mark",
+    "ultimate_move": "Fifth Form - Love Fantasia"
+  },
+  "personality": {
+    "traits": [
+      "Cheerful",
+      "Kind",
+      "Strong",
+      "Flexible",
+      "Shy about strength"
+    ],
+    "likes": [
+      "People",
+      "Food",
+      "Animals",
+      "Being useful"
+    ],
+    "dislikes": [
+      "Her own strength",
+      "Making others uncomfortable"
+    ],
+    "fear": "Not being needed",
+    "dream": "Find loving husband",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Love Breathing",
+      "Enhanced Flexibility",
+      "Whip-like Nichirin Sword",
+      "First Form - Love Slice"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Shy but powerful Hashira who creates love-based technique",
+    "motivation": "Protecting others, finding love",
+    "affinity": "Love/Whips",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Love Hashira",
+    "Created Love Breathing",
+    "Trained under Flame Hashira",
+    "Defeated Upper Rank demons"
+  ],
+  "titles": [
+    "Love Hashira",
+    "Whip user",
+    "Flexibility master"
+  ],
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 90,
+    "durability": 75,
+    "power": 90,
+    "combat": 90,
+    "total": 505
+  },
+  "weaknesses": {
+    "list": [
+      "Shy about strength",
+      "Limited stamina"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Upper Moons",
+    "allies": [
+      "Demon Slayer Corps",
+      "Kyojuro Rengoku (teacher)"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Tanjiro Kamado",
+        "relationship": "Allied demon slayer",
+        "trust_level": "High"
+      },
+      {
+        "name": "Kyojuro Rengoku",
+        "relationship": "Teacher/Mentor",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Demons",
+      "Upper Moons"
+    ],
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Demon Slayer Corps",
+      "Kyojuro Rengoku (teacher)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Upper Moons"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Demon Slayer Corps",
+      "Kyojuro Rengoku"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Gyokko (Upper 5)",
+      "result": "Victory",
+      "method": "Love Breathing"
+    },
+    {
+      "opponent": "Hantengu (Upper 4)",
+      "result": "Victory (with others)",
+      "method": "Mark + combined attack"
+    }
+  ],
+  "quotes": [
+    "I will protect everyone!",
+    "My love breathing!",
+    "Even if I am strong, I want to be loved!"
+  ],
+  "voice_acting": {
+    "native_language": "Inoue (Japanese)",
+    "note": "Actually: 'Inoue (Japanese), 'English: 'LAnna (Englsh)'",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Survived final battle",
+    "transformation": "Demon Slayer Mark",
+    "awakening_potential": "Full Love Breathing mastery",
+    "power_evolution": [
+      "Trainee",
+      "Demon Slayer",
+      "Hashira"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Demon Slayer HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "about": "Demon Slayer: Kimetsu no Yaiba – To the Swordsmith Village (Japanese: 鬼滅の刃 刀鍛冶の里編, Hepburn: Kimetsu no Yaiba Katanakaji no Sato-hen), also known simply as Demon Slayer: To the Swordsmith Village is a 2023 Japanese animated dark fantasy action feature-length compilation of the \"Entertainment District\" and \"Swordsmith Village\" arcs from the 2016–20 manga series Demon Slayer: Kimetsu no Yaiba by Koyoharu Gotouge. It is a direct sequel to the second season of the anime television series as well as its first compilation of episodes released in theaters, following Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train (2020). The episodes in the compilation were directed by Haruo Sotozaki and written by Ufotable staff members.\nUnlike the previous film, which was produced specifically for a theatrical release, To the Swordsmith Village acts as a compilation film to the anime television series, incorporating footage from the last two episodes of the second season and the first episode of the third season, which was yet to broadcast at the time of the film's release.\nDemon Slayer: Kimetsu no Yaiba – To the Swordsmith Village was released in Japan on February 3, 2023, by Toho and Aniplex. It received generally positive reviews and grossed over $59 million worldwide. A sequel set after the previous events of the third season, Demon Slayer: Kimetsu no Yaiba – To the Hashira Training, was released on February 2, 2024. A film trilogy set after the events of the fourth season has been confirmed, with the first installment, Part 1: Akaza Returns, premiered on July 18, 2025.",
+  "note": null,
+  "source": "anime"
+}

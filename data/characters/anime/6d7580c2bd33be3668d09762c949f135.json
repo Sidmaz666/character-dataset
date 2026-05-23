@@ -1,0 +1,326 @@
+{
+  "name": "Yuguri Taktou",
+  "native_name": null,
+  "full_name": "Yuguri Taktou",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Japanese",
+    "bloodline": null,
+    "height_cm": 175,
+    "weight_kg": 68,
+    "age": "Teens",
+    "birthday": "Unknown",
+    "zodiac": "Sagittarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 22.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Anime protagonist",
+      "School uniform",
+      "Determined look"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Japan",
+    "current_location": "Japan",
+    "base_of_operations": "Japan",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Student",
+    "secondary": "Hero",
+    "rank_title": null,
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Anime Series",
+    "manga": "Manga",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Anime Protagonist Powers",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self"
+    },
+    {
+      "name": "Determination",
+      "type": "Mental",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self"
+    }
+  ],
+  "signature_moves": [
+    "Heroic Strike",
+    "Determination Punch"
+  ],
+  "ultimate_move": "True Potential Unleashed",
+  "trump_card": "Protagonist Willpower",
+  "power_attributes": {
+    "power_type": "Anime Protagonist",
+    "power_source": "Training/Inherited",
+    "combat_style": [
+      "Martial Arts",
+      "Heroic"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "School uniform"
+    ],
+    "trump_card": "Protagonist Willpower",
+    "ultimate_move": "True Potential Unleashed"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Heroic",
+      "Shonen protagonist",
+      "Kind",
+      "Never gives up"
+    ],
+    "likes": [
+      "Friends",
+      "Training",
+      "Justice"
+    ],
+    "dislikes": [
+      "Evil",
+      "Giving up",
+      "Bullies"
+    ],
+    "fear": "Losing friends",
+    "dream": "Protect everyone",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Determined",
+      "Heroic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "An anime protagonist character on their journey to become stronger and protect their world.",
+    "motivation": "Protect friends and grow stronger",
+    "affinity": "Hero",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Yuguri Taktou"
+  ],
+  "titles": [
+    "Yuguri Taktou"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "USD",
+    "details": null
+  },
+  "powerstats": {
+    "intelligence": 65,
+    "strength": 75,
+    "speed": 72,
+    "durability": 68,
+    "power": 78,
+    "combat": 72,
+    "total": 430
+  },
+  "weaknesses": {
+    "list": [
+      "Human",
+      "Emotional",
+      "Inexperienced"
+    ],
+    "factors": [
+      "Can be reckless"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "enemies": [
+      "Antagonists"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "rival": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": [
+      "Antagonists"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I will never give up!"
+  ],
+  "voice_acting": {
+    "native_language": "Japanese",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Active",
+    "fate": "On their journey",
+    "transformation": null,
+    "awakening": null,
+    "power_evolution": [
+      "",
+      "Yuguri Taktou"
+    ],
+    "role": "Main Character",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Japan",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "id": "6d7580c2bd33be3668d09762c949f135",
+  "publisher": "anime",
+  "about": "Age: 23\nBirthday: November 29\nZodiac Sign: Sagittarius\nBlood Type: A\nHeight: 173 cm\n\nA figure skater who is faint-hearted and gains weight easily. He's the \"figure skater with the world's biggest glass heart.\" His favorite dish is a 900kcal breaded pork cutlet bowl. His greatest skating assets are his peculiar sense of rhythm and unique step. However, he is weak to pressure and messes up at crucial moments. He's at a crucial point in his career, and he bets everything on one last skating season.",
+  "note": null,
+  "source": "anime"
+}

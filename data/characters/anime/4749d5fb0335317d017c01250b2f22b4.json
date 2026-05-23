@@ -1,0 +1,456 @@
+{
+  "id": "4749d5fb0335317d017c01250b2f22b4",
+  "name": "Itsuki Koizumi",
+  "native_name": "古泉一樹",
+  "full_name": "Itsuki Koizumi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human (Esper)",
+    "race": "Human",
+    "bloodline": "N/A",
+    "height_cm": 178,
+    "weight_kg": 65,
+    "age": "16-17",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 20.5,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Always smiling",
+      "Formal polite mannerisms",
+      "Expressive hand gestures"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "North High, Japan",
+    "current_location": "North High, Japan",
+    "base_of_operations": "SOS Brigade headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "High School Student",
+    "secondary": "Esper, Deputy Chief of SOS Brigade",
+    "rank_title": "Deputy Chief",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "SOS Brigade",
+      "The Agency"
+    ],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "The Melancholy of Haruhi Suzumiya Episode 1",
+    "manga": "The Melancholy of Haruhi Suzumiya Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "ESP",
+      "native_name": "超能力",
+      "description": "Psychic powers acquired 3 years ago when Haruhi created a time-quake. Can sense supernatural phenomena.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Sensing (wide)",
+      "limit": "Only fully functional in closed space"
+    },
+    {
+      "name": "Closed Space Entry",
+      "native_name": "閉鎖空間進入",
+      "description": "Ability to enter closed spaces - alternate dimensions created by Haruhi's emotional instability.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 70,
+      "range": "Spatial",
+      "limit": "Only accessible in closed spaces"
+    },
+    {
+      "name": "Celestial Combat",
+      "native_name": "。神人戦法",
+      "description": "Fight giant celestial beings (Shinjin) within closed space using energy-based techniques.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Melee/Short",
+      "limit": "Only effective in closed space"
+    },
+    {
+      "name": "Energy Sphere",
+      "native_name": "エネルギー球",
+      "description": "Create powerful balls of energy as projectiles. Can be used without transforming.",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Limited power without transformation"
+    },
+    {
+      "name": "Fumoffu",
+      "native_name": " Fumoffu",
+      "description": "Energy attack technique named after Full Metal Panic! series.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Short",
+      "limit": "Requires closed space entry"
+    },
+    {
+      "name": "Second Raid",
+      "native_name": "Second Raid",
+      "description": "Powerful energy attack technique.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Medium",
+      "limit": "Requires closed space"
+    },
+    {
+      "name": "Red Force Field",
+      "native_name": "赤力場",
+      "description": "Create red protective energy field to destroy celestials.",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Personal",
+      "limit": "Only in closed space"
+    }
+  ],
+  "signature_moves": [
+    "Fumoffu",
+    "Second Raid",
+    "Energy Sphere"
+  ],
+  "ultimate_move": "Second Raid",
+  "trump_card": "Full power esper transformation in closed space",
+  "power_attributes": {
+    "power_type": "ESP/Psychic",
+    "power_source": "Acquired from Haruhi's time-quake 3 years ago",
+    "combat_style": [
+      "Energy manipulation",
+      "Close combat in closed space"
+    ],
+    "weapon": "Unknown",
+    "equipment": [],
+    "trump_card": "Full power esper transformation in closed space",
+    "ultimate_move": "Second Raid"
+  },
+  "personality": {
+    "traits": [
+      "Always smiling",
+      "Polite",
+      "Formal",
+      "Carefree",
+      "Helpful",
+      "Mysterious"
+    ],
+    "likes": [
+      "Helping others",
+      "Haruhi's stability",
+      "Explaining theories"
+    ],
+    "dislikes": [
+      "Haruhi's mood swings",
+      "Celestials destroying reality"
+    ],
+    "fear": "Haruhi creating closed space that consumes Earth",
+    "dream": "Keep Haruhi emotionally stable to protect humanity",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "ESP",
+      "Closed Space Entry",
+      "Celestial Combat",
+      "Energy Sphere"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Itsuki is the mysterious transfer student who is actually an esper sent by The Agency to monitor Haruhi. He maintains a cheerful facade while secretly fighting celestials to protect reality.",
+    "motivation": "Protect humanity from Haruhi's closed spaces",
+    "affinity": "Brown/Psychic",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Esper power acquisition",
+    "Founded The Agency",
+    "SOS Brigade Deputy Chief",
+    "Multiple celestial battles"
+  ],
+  "titles": [
+    "Mysterious Transfer Student",
+    "Deputy Chief",
+    "Esper",
+    "The Agency Member"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Not applicable"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 60,
+    "speed": 70,
+    "durability": 65,
+    "power": 80,
+    "combat": 75,
+    "total": 435
+  },
+  "weaknesses": {
+    "list": [
+      "Limited powers outside closed space",
+      "Always smiling hides true feelings"
+    ],
+    "factors": [
+      "Haruhi's unstable emotions create danger",
+      "Must maintain cover identity"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Celestials/Shinjin",
+    "allies": [
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Yuki Nagato",
+      "Mikuru Asahina",
+      "The Agency espers"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Kyon",
+        "relationship": "Friend/rival",
+        "trust_level": "High"
+      },
+      {
+        "name": "Haruhi Suzumiya",
+        "relationship": "Subject of protection",
+        "trust_level": "Duty"
+      },
+      {
+        "name": "Yuki Nagato",
+        "relationship": "Ally (different faction)",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Celestials",
+      "Other rival esper factions"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Shinjin (Celestials)",
+        "relationship": "Enemy",
+        "threat_level": "Very High"
+      },
+      {
+        "name": "K Kyoko Tachibana",
+        "relationship": "Rival esper",
+        "threat_level": "Medium"
+      }
+    ],
+    "love_interest": "None (focused on mission)",
+    "best_friend": "Kyon (awkward friendship)",
+    "rival": "Kyon",
+    "mentor": "The Agency",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Yuki Nagato",
+      "Mikuru Asahina",
+      "The Agency espers",
+      "Kyon (awkward friendship)"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Celestials/Shinjin",
+      "Kyon"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Kyon"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kyon",
+      "Haruhi Suzumiya",
+      "Yuki Nagato",
+      "Mikuru Asahina",
+      "The Agency espers"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "The Agency"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Celestials in closed space",
+      "result": "Victory",
+      "method": "Energy sphere attacks"
+    }
+  ],
+  "quotes": [
+    "I'm always smiling because there's nothing to cry about.",
+    "Haruhi is like a god who doesn't know she's a god.",
+    "Kyon, I'm counting on you to keep Haruhi stable.",
+    "That's... one of the theories."
+  ],
+  "voice_acting": {
+    "native_language": "Daisuke Ono (Japanese)",
+    "note": "Known for warm, smooth voice",
+    "native_name": null,
+    "english": "Johnny Yong Bosch",
+    "japanese": "Daisuke Ono"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues monitoring Haruhi",
+    "transformation": "Energy-based form for combat in closed space",
+    "awakening_potential": "Could become more powerful esper",
+    "power_evolution": [
+      "Normal student",
+      "Newly awakened esper",
+      "Agency operative"
+    ],
+    "role_in_story": "Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "SOS Brigade headquarters",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: May 5, 2000\nAge: 17 (Chapters 1-79), 18 (from Chapter 79), 19-22 (Movie)\nGender: Female\nHeight: 159 cm (5'2\"), 165 cm (5'5\")\nWeight: 55.6 kg\nHair Color: Reddish Orange (Anime), Pearl Pink (Real Color)\nEye Color: Blue\nBlood Type: A\nOccupation: Student, Food critic\nAffiliation: Kurobara Girls High School (Formerly), Asahiyama High School\n\nItsuki Nakano is the fifth sister of the Nakano Quintuplets. She is attributed as the \"first girl\" of the series. Itsuki is serious and diligent, yet she's also a glutton and crybaby.\n\nItsuki is a serious girl, usually getting up early compared to her sisters. She also has good manners, to the point where she cares a lot about manners. She has never been late or skipped a class, and always speaks polite language.\n\nItsuki has been seen to be a girl who holds a grudge, this is shown when she rejects Fuutarou Uesugi's teaching, in part, due to their earlier dispute. She is also someone who cannot be honest with herself and has a hard time being more direct. Both of these qualities often make her fight alone. Itsuki is often too precise in the timing of food cooking.\n\nItsuki sometimes tends to be a crybaby, whether it's due to unfavorable situations, scary things, or her stubborn self.\n\nItsuki has a large appetite and is mainly seen eating throughout the series. It seems like she doesn't mind treating her sisters unfairly when it comes to things related to food. When Itsuki proposes to share their cakes, Ichika suspects that his real goal is to try all the flavors. Itsuki worries about Fuutarou, but it's really because he's hungry.\n\nAccording to Ichika, Fuutarou has to be firm to deal with Nino and kind to deal with Itsuki.\n\n(Source: 5Ttoubun no Hanayome Wiki)",
+  "note": null,
+  "source": "anime"
+}

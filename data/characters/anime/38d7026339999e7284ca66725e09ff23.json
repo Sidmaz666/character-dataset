@@ -1,0 +1,402 @@
+{
+  "id": "38d7026339999e7284ca66725e09ff23",
+  "name": "Mari Illustrious Makinami",
+  "native_name": "真希波・マリ・イラストリアス",
+  "full_name": "Mari Illustrious Makinami",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human (Pilot)",
+    "bloodline": "Makinami Family",
+    "height_cm": 165,
+    "weight_kg": 52,
+    "age": "Unknown (appears 17)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Rh-O",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Brown hair",
+      "Glasses",
+      "Plug suit",
+      "Playful expression",
+      "Twin tails"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo-3",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "NERV Branch",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Evangelion Pilot",
+    "secondary": "Student",
+    "rank_title": "Temporary Pilot",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV",
+      "WILLE"
+    ],
+    "previous": [
+      "British NERV Branch"
+    ],
+    "relatives": [
+      "Unknown"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Evangelion: 2.0 You Can (Not) Advance",
+    "manga": "Evangelion Chapter 2",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "AT Field",
+      "native_name": "A.T.フィールド",
+      "description": "Absolute Terror Field - physical barrier that protects Eva from attacks.",
+      "type": "Defense",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Synchronization"
+    },
+    {
+      "name": "Synchronization",
+      "native_name": "同期",
+      "description": "High sync rate with Unit-02 and Unit-08. Natural pilot talent.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Mental state"
+    },
+    {
+      "name": "Beast Mode",
+      "native_name": "獣化",
+      "description": "Unit-02 unleashed, aggressive combat form with enhanced power.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 89,
+      "range": "Self",
+      "limit": "Mental control"
+    }
+  ],
+  "signature_moves": [
+    "AT Field",
+    "Beast Mode",
+    "Progressive Knife"
+  ],
+  "ultimate_move": "Beast Mode assault",
+  "trump_card": "Pilot versatility",
+  "power_attributes": {
+    "power_type": "AT Field",
+    "power_source": "Soul",
+    "combat_style": [
+      "Mecha",
+      "Aggressive"
+    ],
+    "weapon": "Progressive Knife",
+    "equipment": [
+      "Evangelion Unit-02",
+      "Unit-08"
+    ],
+    "trump_card": "Pilot versatility",
+    "ultimate_move": "Beast Mode assault"
+  },
+  "personality": {
+    "traits": [
+      "Playful",
+      "Confident",
+      "Mysterious",
+      "Flirtatious",
+      "Brave",
+      "Carefree"
+    ],
+    "likes": [
+      "Piloting",
+      "Shinji",
+      "Adventure",
+      "Teasing"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Restrictions",
+      "Gloomy atmosphere"
+    ],
+    "fear": "None apparent",
+    "dream": "Enjoy life, pilot Eva",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Confident"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Mari is the mysterious transfer pilot from Britain. Playful and carefree, she contrasts with Rei and Asuka. Knows Shinji's mother. Key to WILLE.",
+    "motivation": "Pilot Eva, enjoy life",
+    "affinity": "Pink/Freedom",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Temporary pilot",
+    "Defeated Angels",
+    "WILLE member"
+  ],
+  "titles": [
+    "Temporary Pilot",
+    "Illustrious"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Pilot"
+  },
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 78,
+    "durability": 76,
+    "power": 88,
+    "combat": 75,
+    "total": 467
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfident",
+      "Mysterious past",
+      "Careless"
+    ],
+    "factors": [
+      "Unknown origins"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Angels, SEELE",
+    "allies": [
+      "Shinji",
+      "Asuka",
+      "Misato",
+      "Rei"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shinji Ikari",
+        "relationship": "Fellow pilot",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Angels",
+      "SEELE"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Shinji (implied)",
+    "best_friend": "Asuka",
+    "rival": "Asuka",
+    "mentor": "Misato",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shinji",
+      "Asuka",
+      "Misato",
+      "Rei"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Angels, SEELE",
+      "Asuka"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Asuka"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shinji",
+      "Asuka",
+      "Misato",
+      "Rei"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Misato"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Zeruel",
+      "result": "Victory",
+      "method": "Beast Mode"
+    },
+    {
+      "opponent": "Mark.09",
+      "result": "Victory",
+      "method": "Unit-08"
+    }
+  ],
+  "quotes": [
+    "Happy happy!",
+    "Let's have some fun!",
+    "I'll save you, Shinji!"
+  ],
+  "voice_acting": {
+    "native_language": "Maaya Sakamoto (Japanese)",
+    "note": "Playful, energetic",
+    "native_name": null,
+    "english": "Trina Nishimura",
+    "japanese": "Maaya Sakamoto"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "WILLE member",
+    "transformation": "Beast Mode",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Pilot",
+      "WILLE",
+      "Reboot"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Evangelion Unit-02",
+      "Unit-08"
+    ],
+    "headquarters": "WILLE HQ",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Mari Illustrious Makinami is an Evangelion pilot introduced into the franchise during the second installment of the four part theatrical remake series, Rebuild of Evangelion. Little is known about her as of yet except that she is the pilot of the Provisional Evangelion Unit-05 which differs from previous incarnations drastically featuring four mechanical \"legs\" that end in wheels and a lack of hands which have been replaced with a jousting lance and \"claw.\" Because of its unique design, Mari pilots her Eva wearing a helmet-like contraption and her plugsuit is equipped with several attachments that connect to tubing that apparently help her in moving the Evangelion.\n\nMari is probably the most content with being an Eva pilot. She is also shown to be more informed than the other pilots, knowing various backdoors into both Nerv and the Eva operational programs and access Eva abilities known to only the higher-up staff of Nerv. Mari also revels in piloting Eva, usually singing over the comm-radio before excitedly engaging an Angel in combat.\n\n\n(Source: Wikipedia)",
+  "note": null,
+  "source": "anime"
+}

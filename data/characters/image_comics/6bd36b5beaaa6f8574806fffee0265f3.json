@@ -1,0 +1,355 @@
+{
+  "id": "6bd36b5beaaa6f8574806fffee0265f3",
+  "name": "Atom Eve",
+  "native_name": null,
+  "full_name": "Eve Wilkins",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human/Evolved",
+    "race": "Evolved Human",
+    "bloodline": "Wilkins family",
+    "height_cm": 168,
+    "weight_kg": 54,
+    "age": "20s",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.1,
+    "nationality": "Americans"
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blonde",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Power controller suit"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "USA",
+    "current_location": "Earth",
+    "base_of_operations": "Gardens of the Guardians",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Teacher",
+    "rank_title": "Member",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Gardens of the Guardians",
+      "Teen Team"
+    ],
+    "previous": [
+      "Matriarch"
+    ],
+    "relatives": [
+      "Eve (mother)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Invincible #2",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Atomic Manipulation",
+      "native_name": null,
+      "description": "Manipulate atomic structure of matter",
+      "type": "Creation",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Wide",
+      "limit": "Energy"
+    },
+    {
+      "name": "Flight",
+      "native_name": null,
+      "description": "Levitation and flight",
+      "type": "Movement",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Medium",
+      "limit": null
+    },
+    {
+      "name": "Shape Shifting",
+      "native_name": null,
+      "description": "Change atomic structure to shapeshift",
+      "type": "Transformation",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Energy drain"
+    }
+  ],
+  "signature_moves": [
+    "Atom Bomb",
+    "Matter Create"
+  ],
+  "ultimate_move": "Atomic Explosion",
+  "trump_card": "Matter Manipulation",
+  "power_attributes": {
+    "power_type": "Atomic",
+    "power_source": "Evolved genetics",
+    "combat_style": [
+      "Energy",
+      "Creation"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Suit"
+    ],
+    "trump_card": "Matter Manipulation",
+    "ultimate_move": "Atomic Explosion"
+  },
+  "personality": {
+    "traits": [
+      "Brave",
+      "Compassionate",
+      "Protective"
+    ],
+    "likes": [
+      "Teaching",
+      "Helping"
+    ],
+    "dislikes": [
+      "Evil"
+    ],
+    "fear": "Losing control",
+    "dream": "Protect the innocent",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Powerful hero turned teacher",
+    "motivation": "Protect and teach",
+    "alignment": "Good",
+    "affinity": "Good"
+  },
+  "achievements": [
+    "Saved Earth multiple times",
+    "Led Teen Team"
+  ],
+  "titles": [
+    "Atom Eve",
+    "Matriarch"
+  ],
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 70,
+    "speed": 80,
+    "durability": 75,
+    "power": 95,
+    "combat": 70,
+    "total": 465
+  },
+  "weaknesses": {
+    "list": [
+      "Energy depletion",
+      "Organic matter exposure"
+    ],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": [
+      "Angstrom Levy"
+    ],
+    "allies": [
+      "Invincible",
+      "Teen Team",
+      "Omni-Man"
+    ],
+    "enemies": [
+      "Angstrom Levy"
+    ],
+    "love_interest": "Invincible",
+    "best_friend": "Dupli-Kate",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Invincible",
+      "Teen Team",
+      "Omni-Man",
+      "Dupli-Kate"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Angstrom Levy"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Invincible",
+      "Teen Team",
+      "Omni-Man",
+      "Dupli-Kate"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "Ready for battle",
+    "I will protect you"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Jennifer Hale",
+    "note": "Animated series",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Alive",
+    "transformation": false,
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "image_comics",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Gardens of the Guardians",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Atom Eve (Samantha Eve Wilkins) is a superheroine in the Image Universe, first appearing in Invincible #2 (February 2003) by writer Robert Kirkman and artist Cory Walker. Originally dating Rex Splode before marrying Mark Grayson, Atom Eve possesses the ability to manipulate matter at a subatomic level, allowing her to alter the molecular structure of objects, including her own body. She has been featured in comic books, television series, video games, and novels.\nAtom Eve's secret identity is Samantha Eve Wilkins. Initially, she was depicted as a teenage high school student at Reginald Vel Johnson High School and was raised in Chicago, Illinois, by her adoptive parents, Betsy and Adam Wilkins. She was placed in their care after her biological mother, Polly, died during childbirth, and her creator, Dr. Elias Brandyworth, was murdered.\nEve was born with superhuman powers due to an experiment conducted on her biological mother during pregnancy, granting her an innate understanding of biological and chemical sciences. Her abilities include superhuman strength, speed, agility, stamina, durability, and balance, as well as the power to manipulate matter. She can use her abilities to create shields, weapons, and objects during combat. Additionally, she constructs and repairs materials using artificial matter of her own design, which she utilizes both for fighting and travel across the city.",
+  "note": null,
+  "source": "image_comics"
+}

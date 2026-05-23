@@ -1,0 +1,427 @@
+{
+  "id": "38a9a590079034bf54ae013c11975978",
+  "name": "Nami",
+  "native_name": "ナミ",
+  "full_name": "Nami",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Nami Family",
+    "height_cm": 170,
+    "weight_kg": 52,
+    "age": "18-20",
+    "birthday": "July 3",
+    "zodiac": "Cancer",
+    "blood_type": "X",
+    "weight_kkg": null,
+    "bmi": 18,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Brown",
+    "hair_color": "Orange",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Orange hair",
+      "Tattoo on shoulder",
+      "Navigator outfit",
+      "Curvy",
+      "Determined eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Oykot Kingdom",
+    "current_location": "Grand Line",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Pirate",
+    "secondary": "Navigator",
+    "rank_title": "Straw Hat Navigator",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates"
+    ],
+    "previous": [
+      "Arlong Pirates (forced)"
+    ],
+    "relatives": [
+      "Bellemere (adoptive mother, deceased)",
+      "Nojiko (adoptive sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 1",
+    "manga": "One Piece Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Weather Manipulation",
+      "native_name": "天気操作",
+      "description": "Uses Clima-Tact to control weather. Creates rain, wind, lightning, mirages.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Area",
+      "limit": "Clima-Tect"
+    },
+    {
+      "name": "Navigation",
+      "native_name": "航海術",
+      "description": "Best navigator in the world. Can read weather, sea currents, navigate any storm.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 95,
+      "range": "Global",
+      "limit": "None"
+    },
+    {
+      "name": "Thunderbolt Tempo",
+      "native_name": "サンダーボルトテンポ",
+      "description": "Creates massive lightning strike from clouds. Devastating area attack.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "Weather conditions"
+    },
+    {
+      "name": "Sorcery Clima-Tact",
+      "native_name": "天候の棒",
+      "description": "Magical staff that manipulates weather. Can create illusions, storms.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 86,
+      "range": "Medium",
+      "limit": "Charges"
+    }
+  ],
+  "signature_moves": [
+    "Thunderbolt Tempo",
+    "Rain Tempo",
+    "Mirage Tempo"
+  ],
+  "ultimate_move": "Thunderbolt Tempo",
+  "trump_card": "Weather control",
+  "power_attributes": {
+    "power_type": "Weather",
+    "power_source": "Clima-Tact",
+    "combat_style": [
+      "Weather manipulation",
+      "Trickery"
+    ],
+    "weapon": "Clima-Tact",
+    "equipment": [
+      "Clima-Tact"
+    ],
+    "trump_card": "Weather control",
+    "ultimate_move": "Thunderbolt Tempo"
+  },
+  "personality": {
+    "traits": [
+      "Caring",
+      "Greedy",
+      "Loyal",
+      "Intelligent",
+      "Brave",
+      "Protective"
+    ],
+    "likes": [
+      "Money",
+      "Tangerines",
+      "Luffy",
+      "Crew",
+      "Shopping"
+    ],
+    "dislikes": [
+      "Arlong",
+      "Pirates hurting friends",
+      "Poverty"
+    ],
+    "fear": "Losing crew",
+    "dream": "Draw world map",
+    "personality_type": "ESFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Protective",
+      "Intelligent",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Greedy"
+    ]
+  },
+  "character": {
+    "arc": "Nami is the Straw Hats' navigator. Forced to work for Arlong, saved by Luffy. Dreams of drawing complete world map. Will do anything for money and crew.",
+    "motivation": "Draw world map, protect crew",
+    "affinity": "Orange/Navigation",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Navigated Grand Line",
+    "Defeated Arlong",
+    "Straw Hat Navigator",
+    "World's best"
+  ],
+  "titles": [
+    "Navigator",
+    "Cat Burglar"
+  ],
+  "bounty": {
+    "amount": 366000000,
+    "currency": "Berries",
+    "details": "Straw Hat Pirates"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 65,
+    "speed": 75,
+    "durability": 72,
+    "power": 86,
+    "combat": 80,
+    "total": 466
+  },
+  "weaknesses": {
+    "list": [
+      "Crew's safety",
+      "Money obsession",
+      "Physical limits"
+    ],
+    "factors": [
+      "Luffy",
+      "Crew",
+      "Bellemere"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Arlong",
+    "allies": [
+      "Luffy",
+      "Zoro",
+      "Sanji",
+      "Usopp",
+      "Chopper"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain/best friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Arlong",
+      "World Government"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Luffy",
+    "rival": "None",
+    "mentor": "Bellemere",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Luffy",
+      "Zoro",
+      "Sanji",
+      "Usopp",
+      "Chopper"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Arlong",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Luffy",
+      "Zoro",
+      "Sanji",
+      "Usopp",
+      "Chopper"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Bellemere"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Arlong",
+      "result": "Victory",
+      "method": "Luffy's help"
+    },
+    {
+      "opponent": "Enel",
+      "result": "Loss",
+      "method": "Overpowered"
+    },
+    {
+      "opponent": "Big Mom",
+      "result": "Victory",
+      "method": "Weather manipulation"
+    }
+  ],
+  "quotes": [
+    "I want to draw a map of the world!",
+    "Money is life!",
+    "Luffy, do something!"
+  ],
+  "voice_acting": {
+    "native_language": "Akemi Okamura (Japanese)",
+    "note": "Caring, determined",
+    "native_name": null,
+    "english": "Luci Christian",
+    "japanese": "Akemi Okamura"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues journey with crew",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Thief",
+      "Navigator",
+      "Pirate",
+      "Legend"
+    ],
+    "role_in_story": "Deuteragonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [
+      "Thousand Sunny"
+    ],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 18→20\nBirthdate: July 3, Cancer\nHeight: 169 cm (5' 6½\") → 170 cm (5' 7\")\nSizes: 95-55-85 → 98-58-88\nAffiliation: Straw Hat Pirates; Arlong Pirates (former)\nPosition: Navigator\nDevil fruit: none\nBounty: \nShe is the first member of the Straw Hat Pirates to appear (in the anime), but the third to align herself with the crew, and the fifth to actually join. Possibly one of the best (or even the best) navigators currently sailing the Grand Line, she has the ability to recognize and analyze even the slightest changes in the weather through sheer intuition, thus saving the ship and the crew from the very unstable Grand Line weather on multiple occasions.\n\nNami has a tattoo on her left shoulder (a homage to her past), where she used to have a shark tattoo for being a member of Arlong's Crew. The new tattoo represents mikan (a fruit commonly know as tangerine) and pinwheels.\n\nShe respects Luffy's qualities as a leader, but often gets angry of his irrational thinking and short attention span, even so she trusts him with her life. Despite the fact that Nami has deceived the crew, Luffy still trusts her enough to allow her to safe-keep his precious straw hat. She is almost always the one who gives orders on the ship (much to the Zoro's resentment) because of Luffy's usual lack of common sense. She often comically beats or hits her other crewmates for their nonsense, which occurs quite often. Robin is actually the only person Nami doesn't try to boss, and she referred to her as the only person who understands her, though in a comical fashion. She is very manipulative as well and can even turn an entire conversation in her favor when necessary, often putting on disguises and tricking the enemy. Acting as the \"mother\" of the crew, Nami doesn't understand or approve of the boys' often macho attitudes and principles. These are the only situations where Nami doesn't get the final word.\n\nNami's two favorite things are money and tangerines. She is greedy and will do anything, aside from abandoning or killing her friends, for money. Due to her past - After having gathered money for 8 years (and even before that often stole things), Nami is naturally accustomed to it, but thinks of her friends as more important. She is very manipulative, and often takes advantage of Sanji for his devotion to her and Usopp to maintain her weapons. Roronoa Zoro tries not to fall for her schemes, but ends up a victim like the rest, usually due to debt and blackmail. Nami also tries to avoid fights, and is one of the less adventurous and brave members of the crew. However, since the invention of her Clima Tact (A weapon that forms weather patterns), she is now seen fighting her own battles instead of becoming the 'easy target,' as she doesn't want to be the one being saved anymore.",
+  "note": null,
+  "source": "anime"
+}

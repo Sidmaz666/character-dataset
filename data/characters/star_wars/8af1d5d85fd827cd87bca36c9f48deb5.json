@@ -1,0 +1,404 @@
+{
+  "id": "8af1d5d85fd827cd87bca36c9f48deb5",
+  "name": "Chewbacca",
+  "native_name": null,
+  "full_name": "Chewbacca",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Wookiee",
+    "race": null,
+    "bloodline": null,
+    "height_cm": 228,
+    "weight_kg": 110,
+    "age": "Born 200 BBY",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Brown",
+    "skin_color": "Brown fur",
+    "notable_features": [
+      "Bandolier",
+      "Bowcaster",
+      "Immense height"
+    ],
+    "skin": "Brown fur",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Kashyyyk",
+    "current_location": "Unknown",
+    "base_of_operations": "Millennium Falcon",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Co-pilot",
+    "secondary": "Warrior",
+    "rank_title": "War chief",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Rebel Alliance"
+    ],
+    "previous": [
+      "Republic"
+    ],
+    "relatives": [
+      "Attichitcuk (father)",
+      "Mallatobuck (wife)",
+      "Lumpawaroo (son)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Star Wars: Episode IV - A New Hope (1977)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Bowcaster",
+      "native_name": null,
+      "description": "Wookiee crossbow",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Strength",
+      "native_name": null,
+      "description": "Immense physical strength",
+      "type": "Offensive",
+      "tier": "S",
+      "power_level": 98,
+      "range": "Melee",
+      "limit": "None"
+    },
+    {
+      "name": "Piloting",
+      "native_name": null,
+      "description": "Expert pilot",
+      "type": "Offensive",
+      "tier": "A",
+      "power_level": 90,
+      "range": "Long",
+      "limit": "None"
+    },
+    {
+      "name": "Mechanics",
+      "native_name": null,
+      "description": "Expert mechanic",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Touch",
+      "limit": "None"
+    }
+  ],
+  "signature_moves": [
+    "Ricochet shot",
+    "Charge"
+  ],
+  "ultimate_move": "Wookiee rage",
+  "trump_card": "Bowcaster master",
+  "power_attributes": {
+    "power_type": "Physical",
+    "power_source": "Wookiee physiology",
+    "combat_style": [
+      "Wookiee wrestling"
+    ],
+    "weapon": "Bowcaster",
+    "equipment": [
+      "Bandolier",
+      "Melee weapons"
+    ],
+    "trump_card": "Bowcaster master",
+    "ultimate_move": "Wookiee rage"
+  },
+  "personality": {
+    "traits": [
+      "Loyal",
+      "Fierce",
+      "Gentle",
+      "Protective"
+    ],
+    "likes": [
+      "Honor",
+      "Family",
+      "Friends"
+    ],
+    "dislikes": [
+      " Slavery",
+      "Imperial",
+      "Cowards"
+    ],
+    "fear": "Losing his family",
+    "dream": "Free Kashyyyk",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal",
+      "Fierce"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Wookiee warrior to rebel hero",
+    "motivation": "Honor and loyalty",
+    "affinity": "Light Side",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Helped destroy Death Star",
+    "Served in Clone Wars",
+    "Defended Kashyyyk"
+  ],
+  "titles": [
+    "War chief",
+    "First mate"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Wanted by Empire"
+  },
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 98,
+    "speed": 70,
+    "durability": 95,
+    "power": 50,
+    "combat": 90,
+    "total": 478
+  },
+  "weaknesses": {
+    "list": [
+      "Vulnerability to_slug_s_",
+      "No weakness"
+    ],
+    "factors": [
+      "Limited by honor code"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Empire",
+    "allies": [
+      "Han Solo",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Han Solo",
+        "relationship": "Best friend",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Empire",
+      "Trandoshans"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Imperial Stormtroopers",
+        "relationship": "Enemies",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Mallatobuck",
+    "best_friend": "Han Solo",
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Han Solo",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Empire"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Han Solo",
+      "Luke Skywalker",
+      "Leia Organa"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Stormtroopers",
+      "result": "Victory",
+      "method": "Combat"
+    },
+    {
+      "opponent": "AT-AT",
+      "result": "Victory",
+      "method": "Bowcaster"
+    }
+  ],
+  "quotes": [
+    "RRRAAAHHRR",
+    "Wookiee roar"
+  ],
+  "voice_acting": {
+    "native_language": "Peter Mayhew (original)",
+    "english": "Peter Mayhew",
+    "note": "Performed by various actors",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Active in Resistance",
+    "transformation": "War chief",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Youngling",
+      "Warrior",
+      "War chief"
+    ],
+    "role_in_story": "Supporting protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Millennium Falcon"
+    ],
+    "vehicles": [
+      "Speeders"
+    ],
+    "headquarters": "Kashyyyk",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "star_wars",
+  "about": "Chewbacca, nicknamed \"Chewie\", is a fictional character in the Star Wars franchise. He is a Wookiee—a tall, hairy, highly intelligent species originating from the planet Kashyyyk. He is 7.5 feet (2.3 m) tall, and typically wears only a bandolier and a tool pouch. He carries a bowcaster, a traditional Wookiee weapon, and he speaks the Wookiee language Shyriiwook. He first appeared in the original Star Wars film (1977) and its novelization (1976) as the loyal friend of the smuggler Han Solo. Chewbacca is also the co-pilot of Han's starship, the Millennium Falcon.",
+  "note": null,
+  "source": "star_wars"
+}

@@ -1,0 +1,503 @@
+{
+  "id": "07b27ecea586a26594dd4b070a2bea64",
+  "name": "Captain America",
+  "native_name": null,
+  "full_name": "Steven Grant Rogers",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Caucasian",
+    "bloodline": "Rogers family",
+    "height_cm": 188,
+    "weight_kg": 100,
+    "age": "Physically 30s, chronologically 100+",
+    "birthday": "July 4",
+    "zodiac": "Cancer",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 28.3,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "Blond",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Vibranium shield",
+      "Muscular build",
+      "Blond hair",
+      "Star-spangled costume"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "New York City, New York",
+    "current_location": "New York City",
+    "base_of_operations": "Avengers Tower, New York City",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Superhero",
+    "secondary": "Soldier",
+    "rank_title": "Avenger",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Avengers",
+      "S.H.I.E.L.D."
+    ],
+    "previous": [
+      "Howling Commandos",
+      "Invaders"
+    ],
+    "relatives": [
+      "Joseph Rogers (father, deceased)",
+      "Sarah Rogers (mother, deceased)",
+      "Bucky Barnes (best friend)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Captain America Comics #1 (March 1941)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Super Soldier Serum",
+      "native_name": null,
+      "description": "Enhanced physical abilities from Super Soldier Serum",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Superhuman Strength",
+      "native_name": null,
+      "description": "Enhanced strength capable of lifting 800 pounds",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Superhuman Speed",
+      "native_name": null,
+      "description": "Enhanced speed and reflexes",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Superhuman Durability",
+      "native_name": null,
+      "description": "Enhanced durability and healing",
+      "type": "Physical",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Master Combatant",
+      "native_name": null,
+      "description": "Expert in various forms of combat including martial arts",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Melee",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Shield Mastery",
+      "native_name": null,
+      "description": "Expert at using vibranium shield for offense and defense",
+      "type": "Combat",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Long",
+      "limit": "Shield damage"
+    },
+    {
+      "name": "Tactical Genius",
+      "native_name": null,
+      "description": "Brilliant tactician and strategist",
+      "type": "Intellectual",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    },
+    {
+      "name": "Leadership",
+      "native_name": null,
+      "description": "Natural leader capable of inspiring and commanding others",
+      "type": "Social",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unlimited",
+      "limit": "Human limitations"
+    }
+  ],
+  "signature_moves": [
+    "Shield throw",
+    "Shield bash",
+    "Tactical combat"
+  ],
+  "ultimate_move": "Full combat capabilities with shield",
+  "trump_card": "Leadership and tactical genius",
+  "power_attributes": {
+    "power_type": "Enhanced Human",
+    "power_source": "Super Soldier Serum",
+    "combat_style": [
+      "Tactical",
+      "Shield-based",
+      "Versatile"
+    ],
+    "weapon": "Vibranium shield",
+    "equipment": [
+      "Vibranium shield",
+      "Uniform",
+      "Various gadgets"
+    ],
+    "trump_card": "Leadership and tactical genius",
+    "ultimate_move": "Full combat capabilities with shield"
+  },
+  "personality": {
+    "traits": [
+      "Noble",
+      "Brave",
+      "Selfless",
+      "Determined",
+      "Compassionate"
+    ],
+    "likes": [
+      "Justice",
+      "Freedom",
+      "America",
+      "Helping others",
+      "Bucky Barnes"
+    ],
+    "dislikes": [
+      "Bullies",
+      "Injustice",
+      "Tyranny",
+      "Losing friends",
+      "Compromising values"
+    ],
+    "fear": "Failing to protect others, Losing his way, Being unable to save everyone",
+    "dream": "To protect freedom and justice",
+    "personality_type": "ISFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Weak soldier becoming symbol of hope and freedom through Super Soldier Serum",
+    "motivation": "To protect the innocent and uphold American values",
+    "affinity": "Freedom",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Saved the world countless times",
+    "Avengers founding member",
+    "Defeated major threats like Red Skull, Hydra, Thanos",
+    "Became symbol of freedom and justice",
+    "Led the Avengers"
+  ],
+  "titles": [
+    "Captain America",
+    "Cap",
+    "The First Avenger",
+    "Steve Rogers",
+    "Sentinel of Liberty"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "No bounty - hero"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 85,
+    "speed": 80,
+    "durability": 85,
+    "power": 70,
+    "combat": 95,
+    "total": 500
+  },
+  "weaknesses": {
+    "list": [
+      "Human limitations",
+      "Moral constraints",
+      "Overprotectiveness",
+      "Past trauma"
+    ],
+    "factors": [
+      "Emotional attachments",
+      "Rigidity",
+      "Self-sacrifice"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Red Skull",
+    "allies": [
+      "Avengers",
+      "Bucky Barnes",
+      "Nick Fury",
+      "S.H.I.E.L.D."
+    ],
+    "allies_detailed": [
+      {
+        "name": "Bucky Barnes",
+        "relationship": "Best friend",
+        "trust_level": "Absolute"
+      },
+      {
+        "name": "Nick Fury",
+        "relationship": "Commander and ally",
+        "trust_level": "High"
+      },
+      {
+        "name": "Iron Man",
+        "relationship": "Close ally and friend",
+        "trust_level": "Absolute"
+      }
+    ],
+    "enemies": [
+      "Red Skull",
+      "Hydra",
+      "Baron Zemo",
+      "Thanos"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Red Skull",
+        "relationship": "Arch-nemesis",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Hydra",
+        "relationship": "Sworn enemy",
+        "threat_level": "Extreme"
+      },
+      {
+        "name": "Baron Zemo",
+        "relationship": "Personal enemy",
+        "threat_level": "High"
+      }
+    ],
+    "love_interest": "Peggy Carter (past), Sharon Carter (varies)",
+    "best_friend": "Bucky Barnes",
+    "rival": null,
+    "mentor": null,
+    "student": "Sam Wilson (Falcon), Various heroes",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Avengers",
+      "Bucky Barnes",
+      "Nick Fury",
+      "S.H.I.E.L.D."
+    ],
+    "colleague": null,
+    "enemy": [
+      "Red Skull"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Sam Wilson, Various heroes"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Avengers",
+      "Bucky Barnes",
+      "Nick Fury",
+      "S.H.I.E.L.D."
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Red Skull",
+      "result": "Victory",
+      "method": "Combat and strategy"
+    },
+    {
+      "opponent": "Hydra",
+      "result": "Victory",
+      "method": "Leadership and combat"
+    },
+    {
+      "opponent": "Thanos",
+      "result": "Victory",
+      "method": "Teamwork and sacrifice"
+    }
+  ],
+  "quotes": [
+    "I can do this all day",
+    "Avengers assemble",
+    "Freedom isn't free",
+    "I don't like bullies, I don't care where they're from"
+  ],
+  "voice_acting": {
+    "native_language": "Various Japanese voice actors",
+    "english": "Chris Evans (MCU), Various animated voice actors",
+    "note": "Multiple iconic portrayals",
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues to protect freedom",
+    "transformation": [
+      "Super Soldier Serum",
+      "Various power enhancements"
+    ],
+    "awakening_potential": "Full leadership potential",
+    "power_evolution": [
+      "Weak soldier",
+      "Super Soldier",
+      "Avengers leader"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Motorcycle",
+      "Various vehicles"
+    ],
+    "vehicles": [
+      "Motorcycle",
+      "Quinjet"
+    ],
+    "headquarters": "Avengers Tower",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Captain America is a superhero created by Joe Simon and Jack Kirby who appears in American comic books published by Marvel Comics. The character first appeared in Captain America Comics #1, published on December 20, 1940, by Timely Publications, a corporate predecessor to Marvel. Captain America's civilian identity is Steven \"Steve\" Rogers, a frail man rejected by the United States Army for physical unfitness who is enhanced to the peak of human physical perfection by an experimental \"super-soldier serum\". Equipped with an American flag–inspired costume and a virtually indestructible shield, Captain America and his sidekick Bucky Barnes clashed frequently with the villainous Red Skull and other agents of the Axis powers amid World War II. In the war's final days, an accident left Captain America frozen in a state of suspended animation until he was revived in modern times. He resumes his exploits as a costumed hero and becomes a leader of the superhero team the Avengers, while frequently struggling as a \"man out of time\" to adjust to the new era.\nThe character quickly emerged as Timely's most popular and commercially successful creation of the Golden Age of Comic Books, though the popularity of superheroes declined in the post-war period and Captain America Comics was discontinued in 1950. The character saw a short-lived revival in 1953 before returning to comics in 1964 and has since remained in continuous publication. Captain America's creation as an explicitly anti-Nazi figure was a deliberately political undertaking, inspired by Simon and Kirby's strong opposition to Nazi Germany and its supporters in the United States. Political messages have subsequently remained a defining feature of Captain America stories, with writers regularly using the character to comment on the state of American society and government.\nHaving appeared in more than ten thousand stories, Captain America is one of the most popular and recognized Marvel Comics characters, and has been described as an icon of American popular culture. Though Captain America was not the first United States–themed superhero, he would become the most popular and enduring of the many patriotic American superheroes created during World War II. Captain America was the first Marvel character to appear in a medium outside of comic books, in the 1944 movie serial Captain America; the character has subsequently appeared in a variety of films and other media, including the Marvel Cinematic Universe, where he is portrayed by actor Chris Evans.",
+  "note": null,
+  "source": "marvel"
+}

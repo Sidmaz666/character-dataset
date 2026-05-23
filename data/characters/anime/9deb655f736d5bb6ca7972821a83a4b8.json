@@ -1,0 +1,403 @@
+{
+  "id": "9deb655f736d5bb6ca7972821a83a4b8",
+  "name": "Levi Ackerman",
+  "native_name": "リヴァイ・アッカーマン",
+  "full_name": "Levi Ackerman",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Ackerman)",
+    "bloodline": "Ackerman Clan",
+    "height_cm": 160,
+    "weight_kg": 65,
+    "age": "30s",
+    "birthday": "December 25",
+    "zodiac": "Capricorn",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 25.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Gray",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Short stature",
+      "Deadpan expression",
+      "Survey Corps uniform",
+      "Clean freak"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Underground City",
+    "current_location": "Paradis Island",
+    "base_of_operations": "Survey Corps",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Soldier",
+    "secondary": "Captain",
+    "rank_title": "Captain",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Survey Corps",
+      "Special Operations Squad"
+    ],
+    "previous": [
+      "Underground thugs"
+    ],
+    "relatives": [
+      "Kenny Ackerman (uncle)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Attack on Titan Episode 1",
+    "manga": "Attack on Titan Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Ackerman Power",
+      "native_name": "アッカーマンの力",
+      "description": "Awakened power grants superhuman strength, speed, and combat instincts.",
+      "type": "Buff",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Self",
+      "limit": "Awakening required"
+    },
+    {
+      "name": "ODM Mastery",
+      "native_name": "立体機動装置",
+      "description": "Unmatched skill with vertical maneuvering equipment. Fastest soldier.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 98,
+      "range": "3D movement",
+      "limit": "Gas/fuel"
+    },
+    {
+      "name": "Combat Mastery",
+      "native_name": "戦闘技術",
+      "description": "Humanity's strongest soldier. Defeated countless Titans.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 96,
+      "range": "Melee",
+      "limit": "Human limits"
+    }
+  ],
+  "signature_moves": [
+    "Spinning slash",
+    "ODM blitz",
+    "Thunder spear"
+  ],
+  "ultimate_move": "Ackerman awakening",
+  "trump_card": "Full power",
+  "power_attributes": {
+    "power_type": "Ackerman bloodline",
+    "power_source": "Genetic",
+    "combat_style": [
+      "ODM",
+      "Swordsmanship"
+    ],
+    "weapon": "ODM blades",
+    "equipment": [
+      "Vertical maneuvering gear"
+    ],
+    "trump_card": "Full power",
+    "ultimate_move": "Ackerman awakening"
+  },
+  "personality": {
+    "traits": [
+      "Cold",
+      "Professional",
+      "Clean freak",
+      "Loyal",
+      "Stoic",
+      "Protective"
+    ],
+    "likes": [
+      "Cleanliness",
+      "Tea",
+      "Efficiency",
+      "Humanity"
+    ],
+    "dislikes": [
+      "Mess",
+      "Inefficiency",
+      "Titans",
+      "Waste"
+    ],
+    "fear": "Losing comrades",
+    "dream": "Protect humanity",
+    "personality_type": "ISTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Loyal"
+    ],
+    "weaknesses": [
+      "Cold"
+    ]
+  },
+  "character": {
+    "arc": "Levi rose from Underground City to become humanity's strongest soldier. Leads Special Operations Squad against Titans.",
+    "motivation": "Protect humanity, honor fallen",
+    "affinity": "Gray/Strength",
+    "alignment": "Lawful Neutral"
+  },
+  "achievements": [
+    "Captain of Survey Corps",
+    "Defeated Beast Titan",
+    "Humanity's strongest"
+  ],
+  "titles": [
+    "Captain",
+    "Humanity's Strongest"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Soldier"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 85,
+    "speed": 98,
+    "durability": 85,
+    "power": 92,
+    "combat": 99,
+    "total": 547
+  },
+  "weaknesses": {
+    "list": [
+      "Short stature",
+      "Emotional attachment to squad",
+      "Obsessive cleaning"
+    ],
+    "factors": [
+      "Losing comrades"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Zeke, Beast Titan",
+    "allies": [
+      "Erwin",
+      "Eren",
+      "Mikasa",
+      "Hange"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Erwin Smith",
+        "relationship": "Commander/friend",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Titans",
+      "Zeke"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "Erwin",
+    "rival": "None",
+    "mentor": "Kenny",
+    "student": "Eren, Squad",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Erwin",
+      "Eren",
+      "Mikasa",
+      "Hange"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Zeke, Beast Titan",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Eren, Squad"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Erwin",
+      "Eren",
+      "Mikasa",
+      "Hange"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Kenny"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Beast Titan",
+      "result": "Victory",
+      "method": "ODM blitz"
+    },
+    {
+      "opponent": "Female Titan",
+      "result": "Victory",
+      "method": "Overwhelming force"
+    }
+  ],
+  "quotes": [
+    "Give up on your dreams and die.",
+    "I don't know which choice is right.",
+    "The only thing we can do is live..."
+  ],
+  "voice_acting": {
+    "native_language": "Hiroshi Kamiya (Japanese)",
+    "note": "Calm, cold voice",
+    "native_name": null,
+    "english": "Matthew Mercer",
+    "japanese": "Hiroshi Kamiya"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Ongoing",
+    "transformation": "None",
+    "awakening_potential": "Acknowledged",
+    "power_evolution": [
+      "Thug",
+      "Soldier",
+      "Captain",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Survey Corps HQ",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: December 25\nHeight: 160 cm (5'3\")\nWeight: 65 kg (143 lbs)\nAffiliations: Scouting Legion, Special Operations Squad\n\nLevi is known as humanity's most powerful soldier. He's ranked as Captain of the Scouting Legion division. Levi is also the leader of the Special Operations Squad, an elite team that he hand-picked in order to protect Eren Yeager. While it is said that he is blunt and unapproachable, it is noted that he has a strong respect for structure and discipline. There are rumors that he was originally part of underground crime before he became a soldier. Although he often appears to be unfriendly, he cares deeply for his team and has never undervalued human life. He is also a notorious clean-freak.\n\n\nNote: Levi is the official English translation by Kodansha.",
+  "note": null,
+  "source": "anime"
+}

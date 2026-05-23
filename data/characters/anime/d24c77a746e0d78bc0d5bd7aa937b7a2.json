@@ -1,0 +1,399 @@
+{
+  "id": "d24c77a746e0d78bc0d5bd7aa937b7a2",
+  "name": "Maomao",
+  "native_name": "猫猫",
+  "full_name": "Maomao",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Luo Family",
+    "height_cm": 158,
+    "weight_kg": 50,
+    "age": "17-18",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 20,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Green",
+    "hair_color": "Dark brown",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Green eyes",
+      "Dark hair",
+      "Simple robes",
+      "Scar on arm",
+      "Curious expression"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Brothel district",
+    "current_location": "Imperial Palace",
+    "base_of_operations": "Rear Palace",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Lady-in-waiting",
+    "secondary": "Apothecary",
+    "rank_title": "Servant",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Imperial Palace",
+      "Rear Palace"
+    ],
+    "previous": [
+      "Brothel"
+    ],
+    "relatives": [
+      "Luo Yue (father)",
+      "Unnamed mother"
+    ]
+  },
+  "first_appearance": {
+    "anime": "The Apothecary Diaries Episode 1",
+    "manga": "The Apothecary Diaries Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Toxicology",
+      "native_name": "毒物学",
+      "description": "Expert knowledge of poisons, medicines, and antidotes. Can identify by taste.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Self",
+      "limit": "Must sample"
+    },
+    {
+      "name": "Medical Knowledge",
+      "native_name": "医学知識",
+      "description": "Extensive knowledge of herbs, medicines, and treatments.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Available resources"
+    },
+    {
+      "name": "Deduction",
+      "native_name": "推論",
+      "description": "Brilliant deductive reasoning. Solves mysteries through observation.",
+      "type": "Utility",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Self",
+      "limit": "Information"
+    }
+  ],
+  "signature_moves": [
+    "Poison testing",
+    "Medical diagnosis",
+    "Mystery solving"
+  ],
+  "ultimate_move": "Poison identification",
+  "trump_card": "Toxicology expertise",
+  "power_attributes": {
+    "power_type": "Knowledge",
+    "power_source": "Training",
+    "combat_style": [
+      "Intellect",
+      "Poison"
+    ],
+    "weapon": "Poisons",
+    "equipment": [
+      "Herbs",
+      "Medicine kit"
+    ],
+    "trump_card": "Toxicology expertise",
+    "ultimate_move": "Poison identification"
+  },
+  "personality": {
+    "traits": [
+      "Curious",
+      "Intelligent",
+      "Pragmatic",
+      "Indifferent",
+      "Analytical",
+      "Reserved"
+    ],
+    "likes": [
+      "Poisons",
+      "Medicine",
+      "Mystery",
+      "Solitude"
+    ],
+    "dislikes": [
+      "Trouble",
+      "Attention",
+      "Waste",
+      "Incompetence"
+    ],
+    "fear": "Losing freedom",
+    "dream": "Return to brothel as apothecary",
+    "personality_type": "INTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Analytical",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Maomao is a brilliant apothecary forced into palace service. Uses toxicology knowledge to solve mysteries. Reluctantly becomes Jinshi's advisor.",
+    "motivation": "Avoid trouble, study poisons",
+    "affinity": "Green/Poison",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Solved palace mysteries",
+    "Saved imperial heirs",
+    "Jinshi's advisor"
+  ],
+  "titles": [
+    "Apothecary",
+    "Lady-in-waiting"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Liang",
+    "details": "Servant"
+  },
+  "powerstats": {
+    "intelligence": 92,
+    "strength": 45,
+    "speed": 55,
+    "durability": 60,
+    "power": 70,
+    "combat": 50,
+    "total": 372
+  },
+  "weaknesses": {
+    "list": [
+      "Physically weak",
+      "Indifferent",
+      "Avoids attention"
+    ],
+    "factors": [
+      "Jinshi",
+      "Palace politics"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Palace conspirators",
+    "allies": [
+      "Jinshi",
+      "Lihua",
+      "Xiaolan"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jinshi",
+        "relationship": "Master/admirer",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Conspirators"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Jinshi (reluctant)",
+    "best_friend": "Xiaolan",
+    "rival": "None",
+    "mentor": "Father",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jinshi",
+      "Lihua",
+      "Xiaolan"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Palace conspirators",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jinshi",
+      "Lihua",
+      "Xiaolan"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Father"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Palace intrigue",
+      "result": "Victory",
+      "method": "Deduction"
+    },
+    {
+      "opponent": "Poisonings",
+      "result": "Solved",
+      "method": "Toxicology"
+    }
+  ],
+  "quotes": [
+    "How troublesome.",
+    "I just want to study poisons.",
+    "This is all so bothersome."
+  ],
+  "voice_acting": {
+    "native_language": "Aoi Yuki (Japanese)",
+    "note": "Calm, analytical",
+    "native_name": null,
+    "english": "Emi Lo",
+    "japanese": "Aoi Yuuki"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues palace service",
+    "transformation": "None",
+    "awakening_potential": "High",
+    "power_evolution": [
+      "Apothecary",
+      "Servant",
+      "Advisor",
+      "Detective"
+    ],
+    "role_in_story": "Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Imperial Palace",
+    "story_importance": "Main Character",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 17\nBirth place: Rokushoukan\nHair color: Black (WN), Dark Green (LN)\nEye color: (Black (WN), Purple (LN)\nHeight: 153 cm (5'0\")\n\nMaomao became a maidservant to the Emperor's harem after being kidnapped and sold. She used to live with her father as a pharmacist in the red light district and is very knowledgeable about medicine and poisons but isn't very interested in other humans.\n\nShe is skinny and short, and her plain face is covered with freckles.\n\nAbilitiesMaomao's name is derived from 猫 (māo), the Chinese word for cat. This reinforces the fact that she is often described as a cat or cat-like.\n\n\n(Source: The Apothecary Diaries Wiki, edited)",
+  "note": null,
+  "source": "anime"
+}

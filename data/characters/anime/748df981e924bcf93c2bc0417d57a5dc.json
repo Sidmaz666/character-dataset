@@ -1,0 +1,395 @@
+{
+  "id": "748df981e924bcf93c2bc0417d57a5dc",
+  "name": "Nico Robin",
+  "native_name": "ニコ・ロビン",
+  "full_name": "Nico Robin",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Nico Family",
+    "height_cm": 191,
+    "weight_kg": 56,
+    "age": "28-30",
+    "birthday": "February 6",
+    "zodiac": "Aquarius",
+    "blood_type": "S",
+    "weight_kkg": null,
+    "bmi": 15.4,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Dark brown (manga), Blue (anime)",
+    "hair_color": "Black",
+    "skin_color": "Fair to moderate",
+    "notable_features": [
+      "Long limbs",
+      "Hime cut hairstyle",
+      "Long defined nose",
+      "Tall and slender build"
+    ],
+    "skin": "Fair to moderate",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Ohara Island, West Blue",
+    "current_location": "Moby Dick / Thousand Sunny",
+    "base_of_operations": "Thousand Sunny",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Archaeologist",
+    "secondary": "Straw Hat Pirates Crew Member",
+    "rank_title": "Sixth Officer (Sanji after)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet"
+    ],
+    "previous": [
+      "Baroque Works"
+    ],
+    "relatives": [
+      "Nico Olvia (mother)",
+      "Nico ClClay (uncle)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "One Piece Episode 72",
+    "manga": "One Piece Chapter 114",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Hana Hana no Mi",
+      "native_name": "花花果實",
+      "description": "Paramecia Devil Fruit that allows Robin to sprout duplicates of any body part from any surface within her line of sight. She can create clone-like limbs from her own body, inanimate surfaces, or even from other people's bodies.",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 75,
+      "range": "Long",
+      "limit": "Weakness to Sea Stone and water; feels pain in manifested limbs"
+    },
+    {
+      "name": "Kuro: Phoenix",
+      "native_name": "黒芋:凤凰",
+      "description": "Creates multiple arms from the ground to grab and constrict opponents",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 60,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Karin: Cross",
+      "native_name": "花林:十字",
+      "description": "Creates multiple arms to bind opponents and crush their bones",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 55,
+      "range": "Long",
+      "limit": null
+    }
+  ],
+  "signature_moves": [
+    "Hana Hana no Mi",
+    "Kuro: Phoenix",
+    "Karin: Cross"
+  ],
+  "ultimate_move": "Hana Hana no Mi: Gigante Fleur",
+  "trump_card": "Devil Child: K衰竭 (creates giant arm barrage)",
+  "power_attributes": {
+    "power_type": "Devil Fruit (Paramecia)",
+    "power_source": "Hana Hana no Mi",
+    "combat_style": [
+      "Hybrid close-combat using ranged abilities"
+    ],
+    "weapon": "Unknown",
+    "equipment": [
+      "Straw Hat Jacket"
+    ],
+    "trump_card": "Devil Child: K衰竭 (creates giant arm barrage)",
+    "ultimate_move": "Hana Hana no Mi: Gigante Fleur"
+  },
+  "personality": {
+    "traits": [
+      "Stoic",
+      "Intelligent",
+      "Reserved",
+      "Cunning",
+      "Protective"
+    ],
+    "likes": [
+      "Research",
+      "History",
+      "Books",
+      "Quiet"
+    ],
+    "dislikes": [
+      "World Government",
+      "Inquiry about her past",
+      "Being useless"
+    ],
+    "fear": "Losing companions",
+    "dream": "Discover the true history of the world and find the Rio Poneglyph",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Intelligent"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Overcame trauma and learned to trust others; became the crew's team mom",
+    "motivation": "Finding the truth about the Void Century",
+    "affinity": "Knowledge",
+    "alignment": "Chaotic Good"
+  },
+  "achievements": [
+    "Only person who can read Poneglyphs besides Sukiyaki",
+    "First crew member to receive bounty as a child",
+    "Joined the Straw Hat Grand Fleet as Senior Officer"
+  ],
+  "titles": [
+    "Devil Child",
+    "Light of the Revolution"
+  ],
+  "bounty": {
+    "amount": 80000000,
+    "currency": "Berry",
+    "details": "Original at age 8 for ability to read Poneglyphs"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 45,
+    "speed": 55,
+    "durability": 50,
+    "power": 70,
+    "combat": 60,
+    "total": 375
+  },
+  "weaknesses": {
+    "list": [
+      "Sea Stone",
+      "Water/sea",
+      "Limited combat strength"
+    ],
+    "factors": [
+      "Cannot fight effectively without Devil Fruit"
+    ]
+  },
+  "relationships": {
+    "nemesis": "World Government",
+    "allies": [
+      "Monkey D. Luffy",
+      "Straw Hat Pirates"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Monkey D. Luffy",
+        "relationship": "Captain",
+        "trust_level": "High - sacrificed herself for crew"
+      },
+      {
+        "name": "Nico Olvia",
+        "relationship": "Mother",
+        "trust_level": "N/A - deceased"
+      }
+    ],
+    "enemies": [
+      "Crocodile",
+      "World Government",
+      "CP9"
+    ],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": "Monkey D. Luffy",
+    "rival": null,
+    "mentor": "Nico Olvia",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Monkey D. Luffy",
+      "Straw Hat Pirates"
+    ],
+    "colleague": null,
+    "enemy": [
+      "World Government"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Monkey D. Luffy",
+      "Straw Hat Pirates"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Nico Olvia"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Crocodile",
+      "result": "Victory (assisted)",
+      "method": "Used Hake to counter Crocodile's hook"
+    },
+    {
+      "opponent": "CP9 - Lucci and Kaku",
+      "result": "Victory",
+      "method": "Sacrificed herself to hold off CP9 for Luffy"
+    }
+  ],
+  "quotes": [
+    "I want to live! Take me with you!",
+    "I decided to trust you without knowing what tomorrow would bring.",
+    "The Poneglyphs... they record the true history of this world!"
+  ],
+  "voice_acting": {
+    "native_language": "Yuriko Yamaguchi (Japanese)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Yuriko Yamaguchi",
+    "english": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Currently traveling with Straw Hats",
+    "transformation": "Gigante Fleur forms (giant arm transformations)",
+    "awakening_potential": "Awakened Devil Fruit allows more elaborate creations",
+    "power_evolution": [
+      "Normal limbs",
+      "Wings",
+      "GiGigante Fleur"
+    ],
+    "role_in_story": "Major Supporting Character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [
+      "Thousand Sunny"
+    ],
+    "vehicles": [],
+    "headquarters": "Thousand Sunny",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 28; 30\nBirthdate: February 6, Aquarius\nHeight: 188cm (6'2\") \nSizes: 99 - 59 - 89\nAffiliation: Straw Hat Pirates; Baroque Works (former)\nPosition: Archaeologist\nDevil Fruit: Hana Hana no Mi (Flower Flower Fruit)\nType: Paramecia\nBounty: \nRobin is the seventh member of Straw Hat's Crew. She had a bounty of 79 million beri (One Piece currency)  since she was eight years old, during an incident in which she supposedly destroyed six Buster Call ships through the use of the powers she gained by the eating the Hana Hana no Mi (Flower Flower or Blooming Blooming Fruit). The fruit's power enables her to conjure up multiple replicas of her body parts (most often her arms) upon any surface she is able to see making her very powerful and dexterous as a result. \n\nRobin joined the Straw Hat Pirates after Luffy saved her life, or (how she states it) Luffy forced her to live when she wanted to die. To atone for his crime, Robin demands that Luffy allow her to join his crew, to which he complies leaving every other crew member except Sanji in shock. Although feared at first, she is quickly accepted and viewed as a comrade by the crew.\n\nRobin is actually an archaeologist of talent, and despises anyone who thoughtlessly damages any piece of history. The World Government fears her because she can decipher Poneglyphs (stones marked with glyphs from an ancient language), which contain details capable of reviving ancient weapons that have the power to destroy the world. In reality, Robin has stated that she does not care about ancient weapons, and that her dream is to find the True History written on the Rio Poneglyph.\n\nRobin is a mysterious and serious person who appears quiet and reclusive, and the wisest in the Straw Hat's Crew. She was thought by those around her to be cold and mean, but it was proven that she is actually a kind person who always thinks before she acts. She often only speaks when something interesting or important has happened. She loves to study history, and the comfort and freedom to study and read. She is also quick to point out gross or realistically morbid facts, often creeping out Nami or Usopp. Robin is the wisest and most sensible member of the crew. She has a vast knowledge of the seas and the world, and usually keeps her head during surprising situations, allowing her to logically analyze the situation without losing her cool. This trait makes her different from the other Straw Hats, who often comically react melodramatically to unexpected happenings and hold irrational ideas and conclusions. Despite her attempts to keep herself distant, Robin has fallen for her new friends, and has taken the role of the distant den mother.",
+  "note": null,
+  "source": "anime"
+}

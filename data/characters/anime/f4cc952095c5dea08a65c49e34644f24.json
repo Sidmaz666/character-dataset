@@ -1,0 +1,424 @@
+{
+  "id": "f4cc952095c5dea08a65c49e34644f24",
+  "name": "Asuma Sarutobi",
+  "native_name": "猿飛アスマ",
+  "full_name": "Asuma Sarutobi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human (Sarutobi Clan)",
+    "bloodline": "Sarutobi Clan",
+    "height_cm": 181,
+    "weight_kg": 72,
+    "age": "27-28 (Part I), 31 (Part II)",
+    "birthday": "October 18",
+    "zodiac": "Libra",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 22,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "skin_color": "Fair",
+    "notable_features": [
+      "Beard",
+      "Cigarette",
+      "Jonin vest",
+      "Chakra blades"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Team 10",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Ninja",
+    "secondary": "Jonin Commander",
+    "rank_title": "Jonin",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Team 10",
+      "Twelve Guardian Ninja"
+    ],
+    "previous": [
+      "Twelve Guardian Ninja"
+    ],
+    "relatives": [
+      "Hiruzen Sarutobi (father)",
+      "Kurenai (lover)",
+      "Mirai (daughter)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 34",
+    "manga": "Naruto Chapter 78",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Wind Release",
+      "native_name": "風遁",
+      "description": "Master of wind-style jutsu. Can infuse chakra blades with wind.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Mid",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Chakra Blades",
+      "native_name": "チャクラナイフ",
+      "description": "Infuses chakra into special blades for extended reach and cutting power.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Mid",
+      "limit": "Blades required"
+    },
+    {
+      "name": "Flying Swallow",
+      "native_name": "飛燕",
+      "description": "Extends chakra blade range with wind release, creating invisible blade.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 88,
+      "range": "Mid",
+      "limit": "Chakra cost"
+    },
+    {
+      "name": "Fire Release",
+      "native_name": "火遁",
+      "description": "Inherited Sarutobi fire techniques including fireball jutsu.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 82,
+      "range": "Mid",
+      "limit": "Chakra"
+    }
+  ],
+  "signature_moves": [
+    "Flying Swallow",
+    "Chakra blades",
+    "Wind release"
+  ],
+  "ultimate_move": "Wind Release: Dust Cloud",
+  "trump_card": "Chakra blade mastery",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Wind + Fire",
+    "combat_style": [
+      "Taijutsu",
+      "Ninjutsu"
+    ],
+    "weapon": "Chakra blades",
+    "equipment": [
+      "Chakra blades",
+      "Cigarette"
+    ],
+    "trump_card": "Chakra blade mastery",
+    "ultimate_move": "Wind Release: Dust Cloud"
+  },
+  "personality": {
+    "traits": [
+      "Laid-back",
+      "Caring",
+      "Wise",
+      "Protective",
+      "Cool",
+      "Mentor"
+    ],
+    "likes": [
+      "Kurenai",
+      "Team 10",
+      "Shogi",
+      "Cigarettes"
+    ],
+    "dislikes": [
+      "Akatsuki",
+      "Losing students",
+      "Hidan"
+    ],
+    "fear": "Failing students",
+    "dream": "Protect next generation",
+    "personality_type": "ENFP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Asuma is the cool, laid-back leader of Team 10. Mentor to Shikamaru, Choji, Ino. Dies protecting them from Akatsuki.",
+    "motivation": "Protect students, honor father",
+    "affinity": "Green/Wind",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Jonin Commander",
+    "Twelve Guardian Ninja",
+    "Team 10 leader",
+    "War hero"
+  ],
+  "titles": [
+    "Jonin",
+    "Guardian Ninja"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "Ninja"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 80,
+    "speed": 82,
+    "durability": 78,
+    "power": 88,
+    "combat": 90,
+    "total": 503
+  },
+  "weaknesses": {
+    "list": [
+      "Emotional about students",
+      "Chakra blades breakable",
+      "Smoking habit"
+    ],
+    "factors": [
+      "Students in danger"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Hidan",
+    "allies": [
+      "Kurenai",
+      "Shikamaru",
+      "Choji",
+      "Ino",
+      "Kakashi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shikamaru Nara",
+        "relationship": "Student",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Akatsuki",
+      "Hidan"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Hidan",
+        "relationship": "Killer",
+        "threat_level": "Extreme"
+      }
+    ],
+    "love_interest": "Kurenai",
+    "best_friend": "Kakashi",
+    "rival": "None",
+    "mentor": "Hiruzen",
+    "student": "Shikamaru, Choji, Ino",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Kurenai",
+      "Shikamaru",
+      "Choji",
+      "Ino",
+      "Kakashi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Hidan",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Shikamaru, Choji, Ino"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Kurenai",
+      "Shikamaru",
+      "Choji",
+      "Ino",
+      "Kakashi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Hiruzen"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Hidan",
+      "result": "Death",
+      "method": "Cursed technique"
+    },
+    {
+      "opponent": "Kisame",
+      "result": "Draw",
+      "method": "Chakra blades"
+    }
+  ],
+  "quotes": [
+    "You're the next generation.",
+    "Protect the king.",
+    "I'm proud of you."
+  ],
+  "voice_acting": {
+    "native_language": "Jurota Kosugi (Japanese)",
+    "note": "Cool, calm",
+    "native_name": null,
+    "english": "David Wald",
+    "japanese": "Nobunaga Shimazaki"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died protecting Team 10",
+    "transformation": "None",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Genin",
+      "Chunin",
+      "Jonin",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Team 10 base",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthdate: September 30\nAge: 15 (Beginning of Aincrad arc); 17 (End of Aincrad arc, Fairy Dance arc); 18 (Phantom Bullet arc); 19 (Alicization Arc)\nHeight: 168 cm\nWeight: 55 kg\nThree Sizes (BWH): 82-60-83\nWeapons of choice: Wind Fleuret (1st Floor), Lambent Light (Forged by Lisbeth)\n\nAsuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she's extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.",
+  "note": null,
+  "source": "anime"
+}

@@ -1,0 +1,392 @@
+{
+  "id": "d7789744d481bd3bde2a00ff7fef1756",
+  "name": "Starscream",
+  "native_name": null,
+  "full_name": "Starscream",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Cybertronian",
+    "race": "Transformer",
+    "bloodline": "Decepticon Seeker",
+    "height_cm": 700,
+    "weight_kg": 2500,
+    "age": "Unknown",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 51,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "None",
+    "skin_color": "Red/Gray/Metallic",
+    "notable_features": [
+      "Red and gray color scheme",
+      "Wings on back",
+      "Sharp angular design"
+    ],
+    "skin": "Red/Gray/Metallic",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Cybertron (Vos)",
+    "current_location": "Earth",
+    "base_of_operations": "Decepticon forces",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Decepticon Air Commander",
+    "secondary": "Seeker Leader",
+    "rank_title": "Commander",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Decepticons"
+    ],
+    "previous": [],
+    "relatives": [
+      "Megatron (commander)",
+      "Skywarp (fellow seeker)",
+      "Thundercracker (fellow seeker)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": null,
+    "comics": "Transformers (IDW Comics 2005)",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Jet Alt-Mode",
+      "native_name": null,
+      "description": "Transforms into Cybertronian jet fighter at supersonic speeds",
+      "type": "Support",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Null Rays",
+      "native_name": null,
+      "description": "Arm-mounted energy weapons disabling electronics",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Energy based"
+    },
+    {
+      "name": "Missile Launchers",
+      "native_name": null,
+      "description": "Integrated missile systems",
+      "type": "Attack",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Long",
+      "limit": "Limited ammo"
+    },
+    {
+      "name": "Aerial Combat Expert",
+      "native_name": null,
+      "description": "Master of aerial warfare and dogfighting",
+      "type": "Passive",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": null
+    },
+    {
+      "name": "Cunning Schemer",
+      "native_name": null,
+      "description": "Constantly plots to overthrow Megatron",
+      "type": "Passive",
+      "tier": "B",
+      "power_level": 80,
+      "range": "Self",
+      "limit": "Overconfidence leads to failure"
+    }
+  ],
+  "signature_moves": [
+    "Missile Salvo",
+    "Supersonic Strike",
+    "Null Ray Disable"
+  ],
+  "ultimate_move": "Seeker Squad Assault",
+  "trump_card": "Cunning and ambition",
+  "power_attributes": {
+    "power_type": "Cybertronian",
+    "power_source": "Spark/Energon",
+    "combat_style": [
+      "Aerial warfare",
+      "Missile combat"
+    ],
+    "weapon": "Null Rays",
+    "equipment": [
+      "Seeker wing pack"
+    ],
+    "trump_card": "Cunning and ambition",
+    "ultimate_move": "Seeker Squad Assault"
+  },
+  "personality": {
+    "traits": [
+      "Ambitious",
+      "Cowardly",
+      "Treacherous",
+      "Arrogant",
+      "Scheming"
+    ],
+    "likes": [
+      "Power",
+      "Scheming",
+      "Flying"
+    ],
+    "dislikes": [
+      "Megatron",
+      "Being ordered around",
+      "Losing"
+    ],
+    "fear": "Megatron's wrath",
+    "dream": "Lead the Decepticons",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Jet Alt-Mode",
+      "Null Rays",
+      "Missile Launchers",
+      "Aerial Combat Expert"
+    ],
+    "weaknesses": [
+      "Arrogant",
+      "Cowardly"
+    ]
+  },
+  "character": {
+    "arc": "The treacherous Decepticon Air Commander always plotting to overthrow Megatron",
+    "motivation": "Take command of the Decepticons",
+    "affinity": "Ambition/Betrayal",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Air Commander of Decepticons",
+    "Survived countless betrayals"
+  ],
+  "titles": [
+    "Air Commander",
+    "The Treacherous"
+  ],
+  "powerstats": {
+    "intelligence": 80,
+    "strength": 70,
+    "speed": 90,
+    "durability": 65,
+    "power": 75,
+    "combat": 75,
+    "total": 455
+  },
+  "weaknesses": {
+    "list": [
+      "Cowardice when outmatched",
+      "Overconfidence",
+      "Energon dependency"
+    ],
+    "factors": "Cybertronian weaknesses"
+  },
+  "relationships": {
+    "nemesis": "Megatron",
+    "allies": [
+      "Seekers",
+      "Decepticons"
+    ],
+    "enemies": [
+      "Megatron",
+      "Autobots",
+      "Soundwave"
+    ],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": "Soundwave",
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "allies_detailed": [],
+    "enemies_detailed": [],
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Seekers",
+      "Decepticons"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Megatron",
+      "Soundwave"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Soundwave"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Seekers",
+      "Decepticons"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [
+    {
+      "opponent": "Megatron",
+      "result": "Defeat",
+      "method": "Outmatched"
+    }
+  ],
+  "quotes": [
+    "Starscream! The name alone inspires fear!",
+    "One day, I will lead the Decepticons!"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "Unknown",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues scheming",
+    "transformation": "N/A",
+    "role_in_story": null,
+    "awakening_potential": "Awakened",
+    "power_evolution": [],
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "publisher": "idw_publishing",
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Decepticon forces",
+    "story_importance": null,
+    "note": null
+  },
+  "about": "Starscream is a character in the Transformers media franchise produced by the American toy company Hasbro and the Japanese toy company Takara Tomy. He is the (usual) second-in-command of the Decepticons, a villainous faction of alien robots that seeks to conquer their home planet of Cybertron and the rest of the known universe. As with all Cybertronians, Starscream can disguise himself by transforming into vehicles, in his case a fighter jet, and he is usually portrayed as a treacherous and cowardly air commander who seeks to overthrow the Decepticon leader, Megatron, and assume control of the Decepticons.",
+  "note": null,
+  "source": "idw_publishing"
+}

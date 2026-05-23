@@ -1,0 +1,423 @@
+{
+  "id": "9a5bedcc907a0c811cdfdb40e7c99d43",
+  "name": "Hiruzen Sarutobi",
+  "native_name": "猿飛 ヒルゼン",
+  "full_name": "Hiruzen Sarutobi",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Sarutobi Family",
+    "height_cm": 163,
+    "weight_kg": 50,
+    "age": "68-69",
+    "birthday": "February 8",
+    "zodiac": "Aquarius",
+    "blood_type": "A",
+    "weight_kkg": null,
+    "bmi": 18.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Black",
+    "hair_color": "White",
+    "skin_color": "Fair",
+    "notable_features": [
+      "White hair",
+      "Hokage hat",
+      "Pipe",
+      "Wrinkled",
+      "Kind eyes"
+    ],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Konohagakure",
+    "current_location": "Konohagakure",
+    "base_of_operations": "Hokage Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Shinobi",
+    "secondary": "Third Hokage",
+    "rank_title": "Hokage",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Konohagakure",
+      "Sarutobi Clan"
+    ],
+    "previous": [],
+    "relatives": [
+      "Asuma (son)",
+      "Konohamaru (grandson)",
+      "Biwako (wife, deceased)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Naruto Episode 1",
+    "manga": "Naruto Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Five Elements Mastery",
+      "native_name": "五行掌握",
+      "description": "Mastered all five chakra natures. Can use any jutsu from any element.",
+      "type": "Utility",
+      "tier": "Godly",
+      "power_level": 96,
+      "range": "Self",
+      "limit": "Age"
+    },
+    {
+      "name": "Summoning: Monkey King",
+      "native_name": "猿猴王",
+      "description": "Summons Enma, the Monkey King. Can transform into staff or fight alongside.",
+      "type": "Summon",
+      "tier": "S",
+      "power_level": 92,
+      "range": "Medium",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Shuriken Shadow Clone",
+      "native_name": "手里剣影分身",
+      "description": "Creates thousands of shuriken clones. Devastating area attack.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Area",
+      "limit": "Chakra"
+    },
+    {
+      "name": "Reaper Death Seal",
+      "native_name": "屍鬼封尽",
+      "description": "Sacrifices soul to seal opponent's soul. Ultimate sacrifice technique.",
+      "type": "Attack",
+      "tier": "Godly",
+      "power_level": 98,
+      "range": "Self",
+      "limit": "User's life"
+    }
+  ],
+  "signature_moves": [
+    "Five Elements",
+    "Monkey King summon",
+    "Shuriken Shadow Clone"
+  ],
+  "ultimate_move": "Reaper Death Seal",
+  "trump_card": "Professor mastery",
+  "power_attributes": {
+    "power_type": "Chakra",
+    "power_source": "Training",
+    "combat_style": [
+      "Ninjutsu",
+      "Summoning"
+    ],
+    "weapon": "Staff",
+    "equipment": [
+      "Hokage robes",
+      "Pipe"
+    ],
+    "trump_card": "Professor mastery",
+    "ultimate_move": "Reaper Death Seal"
+  },
+  "personality": {
+    "traits": [
+      "Wise",
+      "Kind",
+      "Fatherly",
+      "Sacrificial",
+      "Brilliant",
+      "Protective"
+    ],
+    "likes": [
+      "Konoha",
+      "Students",
+      "Peace",
+      "Naruto",
+      "Teaching"
+    ],
+    "dislikes": [
+      "War",
+      "Orochimaru",
+      "Evil",
+      "Losing students"
+    ],
+    "fear": "Failing village",
+    "dream": "Protect Konoha, see students succeed",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Protective",
+      "Wise"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Hiruzen is the Third Hokage, teacher of legendary Sannin. Raised Naruto after parents' death. Sacrifices life to seal Orochimaru's arms. Known as 'Professor' and 'God of Shinobi'.",
+    "motivation": "Protect Konoha, guide next generation",
+    "affinity": "White/Wisdom",
+    "alignment": "Lawful Good"
+  },
+  "achievements": [
+    "Third Hokage",
+    "Professor title",
+    "Taught Sannin",
+    "Sealed Orochimaru"
+  ],
+  "titles": [
+    "Third Hokage",
+    "Professor",
+    "God of Shinobi"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Ryo",
+    "details": "Hokage"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 78,
+    "speed": 80,
+    "durability": 82,
+    "power": 94,
+    "combat": 92,
+    "total": 521
+  },
+  "weaknesses": {
+    "list": [
+      "Age",
+      "Students' safety",
+      "Sacrificial nature"
+    ],
+    "factors": [
+      "Orochimaru",
+      "Naruto",
+      "Konoha"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Orochimaru",
+    "allies": [
+      "Naruto",
+      "Jiraiya",
+      "Tsunade",
+      "Kakashi",
+      "Asuma"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Naruto Uzumaki",
+        "relationship": "Surrogate grandson",
+        "trust_level": "Very High"
+      }
+    ],
+    "enemies": [
+      "Orochimaru",
+      "Orochimaru's forces"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Biwako (deceased)",
+    "best_friend": "Homura, Koharu",
+    "rival": "None",
+    "mentor": "First and Second Hokage",
+    "student": "Jiraiya, Tsunade, Orochimaru",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": "Sarutobi, Ayame",
+    "teammate": null,
+    "friend": [
+      "Naruto",
+      "Jiraiya",
+      "Tsunade",
+      "Kakashi",
+      "Asuma",
+      "Homura, Koharu"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Orochimaru",
+      "None"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "None"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Jiraiya, Tsunade, Orochimaru"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Naruto",
+      "Jiraiya",
+      "Tsunade",
+      "Kakashi",
+      "Asuma",
+      "Homura, Koharu"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "First and Second Hokage"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Orochimaru",
+      "result": "Victory (sacrifice)",
+      "method": "Reaper Death Seal"
+    },
+    {
+      "opponent": "Nine-Tails",
+      "result": "Loss",
+      "method": "Minato intervened"
+    }
+  ],
+  "quotes": [
+    "The Third Hokage, at your service.",
+    "Naruto... you are my grandson.",
+    "I will protect this village."
+  ],
+  "voice_acting": {
+    "native_language": "Hidekatsu Shibata (Japanese)",
+    "note": "Wise, fatherly",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Died sealing Orochimaru's arms",
+    "transformation": "None",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Shinobi",
+      "Hokage",
+      "Professor",
+      "Legend"
+    ],
+    "role_in_story": "Supporting",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Hokage Mansion",
+    "story_importance": "Supporting",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Birthday: June 2\nHeight: 169 cm\nWeight: 52 kg\n\nSarutobi Ayame is a ninja from the Oniwabanshuu by training, but is currently working as an assassin. She also has a part-time job at the Kunoichi Café. \n\nSince her initial appearance, she has developed a serious obsessive infatuation with Sakata Gintoki, to the point of even stalking him. She is severely myopic, to the point of being almost blind (cannot tell living things from inanimate objects) without her eye glasses. It was also hinted that she doesn't see well even with her eyeglasses on, as she once mistook Kagura (dressed up as Gintoki) for Gintoki himself. However, this could solely be due to her infatuation with him. She has frequently clashed with Otae for various reasons.\n\nAyame has a playful attitude, but gets serious when it comes to her work. She also seems to enjoy bondage and S&amp;M. Although Gintoki is indifferent to her affections and even treats her badly most times (e.g throwing things at her whenever he senses her stalker presence), her 'M' or masochistic personality only makes her enjoy the punishment, and his 'cruelty' only serves to encourage her.",
+  "note": null,
+  "source": "anime"
+}

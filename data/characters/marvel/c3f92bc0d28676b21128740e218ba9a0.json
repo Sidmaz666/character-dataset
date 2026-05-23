@@ -1,0 +1,385 @@
+{
+  "id": "c3f92bc0d28676b21128740e218ba9a0",
+  "name": "Emma Frost",
+  "native_name": "Emma Frost",
+  "full_name": "Emma Grace Frost",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Mutant",
+    "race": "Human",
+    "bloodline": "Frost family",
+    "height_cm": 175,
+    "weight_kg": 60,
+    "age": "Unknown",
+    "birthday": "December 10",
+    "zodiac": "Sagittarius",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.6,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Blue",
+    "hair_color": "White",
+    "skin_color": "Fair",
+    "notable_features": "Diamond form - translucent, blonde (normal)",
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Boston, Massachusetts",
+    "current_location": "X-Mansion",
+    "base_of_operations": "X-Mansion",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Headmistress / Teacher",
+    "secondary": "Superhero",
+    "rank_title": "White Queen (former)",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "X-Men",
+      "Hellfire Club"
+    ],
+    "previous": [
+      "Hellfire Club (Inner Circle)"
+    ],
+    "relatives": [
+      "Sebastian Shaw (former lover)",
+      "Adrienne Frost (sister - deceased)",
+      "Cordelia Frost (sister)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "N/A",
+    "manga": "Uncanny X-Men #129 (January 1980)",
+    "comics": "Uncanny X-Men #129",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Telepathy",
+      "native_name": null,
+      "description": "Omega-level telepath - read/control minds within 20 miles",
+      "type": "Attack/Support",
+      "tier": "S",
+      "power_level": 100,
+      "range": "20 miles",
+      "limit": "Cannot control highly skilled psychics"
+    },
+    {
+      "name": "Telekinesis",
+      "native_name": null,
+      "description": "Move objects with mind",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 80,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Diamond Form",
+      "native_name": null,
+      "description": "Transform into translucent diamond - bulletproof, super strength",
+      "type": "Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Self",
+      "limit": "Negates telepathy while in form"
+    },
+    {
+      "name": "Psionic Blasts",
+      "native_name": null,
+      "description": "Pure psychic energy attacks",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 90,
+      "range": "Long",
+      "limit": null
+    },
+    {
+      "name": "Mind Control",
+      "native_name": null,
+      "description": "Control and manipulate thoughts",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Medium",
+      "limit": "Highly resistant minds"
+    }
+  ],
+  "signature_moves": [
+    "Psychic scream",
+    "Mind shield"
+  ],
+  "ultimate_move": "Full Phoenix-dampened power",
+  "trump_card": "Omega-class telepathy",
+  "power_attributes": {
+    "power_type": "Psionic",
+    "power_source": "Mutant",
+    "combat_style": [
+      "Telepathy",
+      "Telekinesis"
+    ],
+    "weapon": "Psionic Blasts",
+    "equipment": [
+      "Mind shield"
+    ],
+    "trump_card": "Omega-class telepathy",
+    "ultimate_move": "Full Phoenix-dampened power"
+  },
+  "personality": {
+    "traits": [
+      "Cunning",
+      "Strategic",
+      "Ambitious",
+      "Caring (hidden)"
+    ],
+    "likes": [
+      "Power",
+      "Teaching students"
+    ],
+    "dislikes": [
+      "Weakness",
+      "Betrayal"
+    ],
+    "fear": "Being powerless",
+    "dream": "Protecting mutant kind",
+    "personality_type": "ENTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Strategic"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "From villain to hero - now protects mutants",
+    "motivation": "Protecting her students",
+    "affinity": "Psionic",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Headmistress of Xavier Institute",
+    "Omega-class telepath",
+    "X-Men leader"
+  ],
+  "titles": [
+    "White Queen",
+    "The Diamond Diva"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": null,
+    "details": "Priceless"
+  },
+  "powerstats": {
+    "intelligence": 95,
+    "strength": 70,
+    "speed": 50,
+    "durability": 85,
+    "power": 100,
+    "combat": 55,
+    "total": 455
+  },
+  "weaknesses": {
+    "list": [],
+    "factors": []
+  },
+  "relationships": {
+    "nemesis": "Sebastian Shaw",
+    "allies": [
+      "Cyclops",
+      "Kitty Pryde",
+      "X-Men"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Cyclops",
+        "relationship": "Former lover, ally",
+        "trust_level": "High"
+      }
+    ],
+    "enemies": [
+      "Hellfire Club (former)",
+      "Dark Phoenix"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "Cyclops",
+    "best_friend": "Kitty Pryde",
+    "rival": "Jean Grey",
+    "mentor": null,
+    "student": "Stepford Cuckoos",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Cyclops",
+      "Kitty Pryde",
+      "X-Men"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Sebastian Shaw",
+      "Jean Grey"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Jean Grey"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "Stepford Cuckoos"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Cyclops",
+      "Kitty Pryde",
+      "X-Men"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [
+    "I am what I am",
+    "No more - I choose to be better"
+  ],
+  "voice_acting": {
+    "native_language": "English",
+    "english": "February 8 (X-Men films)",
+    "note": null,
+    "native_name": null,
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Alive",
+    "fate": "Continues leading X-Men",
+    "transformation": "Born with mutant telepathy",
+    "awakening_potential": "Maximum",
+    "power_evolution": [
+      "White Queen",
+      "X-Men teacher"
+    ],
+    "role_in_story": "Major character",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "X-Mansion",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "marvel",
+  "about": "Emma Grace Frost is a character appearing in American comic books published by Marvel Comics. Created by writer Chris Claremont and artist/co-writer John Byrne, the character first appeared in The Uncanny X-Men #129. She belongs to a subspecies of humans called mutants who are born with superhuman abilities. Her mutation grants her high-level telepathic abilities and the power to turn into organic diamond. Emma Frost has evolved from a supervillain and foe of the X-Men to becoming a superhero and one of the team's most central members and leaders. The character has also been known as the White Queen of the Hellfire Club.",
+  "note": null,
+  "source": "marvel"
+}

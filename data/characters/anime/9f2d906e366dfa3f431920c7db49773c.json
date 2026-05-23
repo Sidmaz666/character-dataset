@@ -1,0 +1,317 @@
+{
+  "id": "9f2d906e366dfa3f431920c7db49773c",
+  "name": "Mu Qing",
+  "native_name": "",
+  "full_name": "Mu Qing",
+  "basic_info": {
+    "gender": "Unknown",
+    "species": "Human",
+    "race": "Human",
+    "bloodline": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "age": "28",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "O",
+    "weight_kkg": null,
+    "bmi": 20.8,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Unknown",
+    "hair_color": "Unknown",
+    "skin_color": "Fair",
+    "notable_features": [],
+    "skin": "Fair",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Unknown",
+    "current_location": "Unknown",
+    "base_of_operations": "Unknown",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Unknown",
+    "secondary": "Unknown",
+    "rank_title": "Unknown",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [],
+    "previous": [],
+    "relatives": []
+  },
+  "first_appearance": {
+    "anime": "Unknown",
+    "manga": "Unknown",
+    "comics": null,
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Physical Combat",
+      "type": "Combat",
+      "description": "Skilled in hand-to-hand combat techniques",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Tactical Awareness",
+      "type": "Mental",
+      "description": "Good situational awareness in combat",
+      "power_level": "Medium"
+    },
+    {
+      "name": "Endurance",
+      "type": "Physical",
+      "description": "Above average stamina and endurance",
+      "power_level": "Medium"
+    }
+  ],
+  "signature_moves": [
+    "Physical Combat",
+    "Tactical Awareness",
+    "Endurance"
+  ],
+  "ultimate_move": "Physical Combat",
+  "trump_card": "Tactical Awareness",
+  "power_attributes": {
+    "power_type": "Psychic",
+    "power_source": "Physical Training",
+    "combat_style": [
+      "Hand-to-hand combat"
+    ],
+    "weapon": "Fists",
+    "equipment": [
+      "Armor",
+      "Suit",
+      "Orb"
+    ],
+    "trump_card": "Tactical Awareness",
+    "ultimate_move": "Physical Combat"
+  },
+  "personality": {
+    "traits": [
+      "Determined",
+      "Brave",
+      "Resourceful",
+      "Loyal",
+      "Adaptable"
+    ],
+    "likes": [
+      "Protecting others",
+      "Spending time with friends",
+      "Efficiency"
+    ],
+    "dislikes": [
+      "Betrayal"
+    ],
+    "fear": "Unknown",
+    "dream": "Unknown",
+    "personality_type": "ENFJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Brave",
+      "Determined",
+      "Resourceful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Unknown character journey",
+    "motivation": "Unknown",
+    "affinity": "Neutral",
+    "alignment": "True Neutral"
+  },
+  "achievements": [
+    "Voiced by Chiaki Kobayashi (Japanese)",
+    "Voiced by Lucien Dodge (English)"
+  ],
+  "titles": [],
+  "bounty": {
+    "amount": null,
+    "currency": "Unknown",
+    "details": "None"
+  },
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 50,
+    "speed": 50,
+    "durability": 50,
+    "power": 50,
+    "combat": 50,
+    "total": 300
+  },
+  "weaknesses": {
+    "list": [
+      "Unknown"
+    ],
+    "factors": [
+      "Unknown"
+    ]
+  },
+  "relationships": {
+    "nemesis": null,
+    "allies": [],
+    "allies_detailed": [],
+    "enemies": [],
+    "enemies_detailed": [],
+    "love_interest": null,
+    "best_friend": null,
+    "rival": null,
+    "mentor": null,
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": null,
+    "colleague": null,
+    "enemy": null,
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": null,
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": []
+  },
+  "notable_battles": [],
+  "quotes": [],
+  "voice_acting": {
+    "native_language": "Unknown",
+    "english": "Lucien Dodge",
+    "note": "Unknown",
+    "native_name": null,
+    "japanese": "Chiaki Kobayashi"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Deceased",
+    "transformation": null,
+    "awakening_potential": "Potential exists",
+    "power_evolution": [],
+    "role_in_story": "Minor",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Unknown",
+    "story_importance": "Minor",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Rank: Lieutenant, Lieutenant Commander (PHASE-15), Commander (G.S.D)\nAge: 28 (SEED) 30 (SEED Destiny)\nBirthday: November 29\nBlood type: O\nGenetic type: Natural\nHeight: 183 cm\nAlias: Hawk of Endymion\nMobile armor: TS-MA2mod.00 Moebius Zero, FX-550 Skygrasper, F-7D Spearhead, TS-MA4F Exass \nMobile Suit: GAT-X105 Strike Gundam, GAT-04+AQM/E-A4E1 Jet Windam, ORB-01 Akatsuki\n\nGundam SEED\n\nMu La Flaga plays an important role in Gundam Seed. He was the lieutenant of the Archangel after his original mothership is destroyed and is also the pilot of the Moebius Zero. Mu La Flaga also develops a relationship with the captain of the Archangel, Murrue Ramius. Mu was one to encourage Kira to keep going and helped him through difficult times. Mwu along with being able to pilot a Gundam first started off piloting a jet, Sky Grasper. \nHe is the lieutanant of another group and has fought bravely in a previous battle to give him the name of \"Hawk of Endymion\" by singlehandedly shooting down five ZAFT mobile suits in one of the war's early battles. Courageous in all aspects, he encountered difficulties as the group he was with, was destroyed by ZAFT during the invasion of Heliopolis. As a result, he took shelter on the Archangel, in which he met Murrue as well as Kira Yamato. Though he is a lieutenant, he has practically no experience with military law. His father is Al Da Flaga, who despises him and prefers his other son, who is a clone of himself. Mu considers him as a greedy fool who was selfish and feels no remorse for his father's death. The clone of Al Da Flaga was Rau Le Creuset, whom he met once before during childhood. Rau always was treated better than Mu, whom his father considered as a godforsaken child. Mu has a special connection with Rau and can detect whenever he is near. \n\nHe has a very eccentric personality, but nonetheless great. He brings a sense of confidence to everyone on the ship and makes funny remarks occasionally to cheer people up. Even when injured, he tries his best to fight for the Archangel and is willing to go out to battle. Sometimes his carefree personality sometimes gets out of hand, such as when he pats Murrue Ramius on the back in which Murrue replies saying that what he was doing was sexual harassment, and in another instance, he teased Murrue by poking her nose and her head.\n\nIn the field of battle, he pilots the TS-MA2mod.00 Moebius Zero, which he is exceptionally skilled at. Although he is fairly carefree aboard the Archangel, he is much more serious in battle and is able to come up with great battle tactics. His primary role aboard the Archangel is to protect it and act as a support fighter. He is also great at piloting the Strike Gundam, which was given to him by Kira Yamato who configured the OS to be suitable for Naturals to operate\n\nGundam SEED Destiny\n\nIn early episode he was known as Neo Lorrnoke, takes role as Earth Alliance Military Commander of the Girty Lue. He takes his orders directly from Lord Jibril himself, which means that the operations he carries out are extremely of high importance. Neo is another one of those masked characters like the Creuset in Gundam SEED. Neo seems to have some sort of connection to Rey Za Burrel (reminds people of Creuset and Mu from Gundam Seed). He is an ace pilot of the mobile armor Exass in space, and a pilot of the Windam on Earth. \n\nNeo appears to have some mysterious link with Rey Za Burrel although it has not been revealed... yet. He is the Captain of the Girty Lue and fights under orders of Lord Jibril. He is also in charge of Auel, Stellar, and Sting in which he often sends out to fight. Eventually one day in the shower, he questions to himself what they were fighting for. Bearing the same DNA and physical structure of Mu, Murrue mistakens him for Mu when he is brought aboard the Archangel. \n\nHe often uses false promises to get what he wants. For instance, to keep Stellar under control, he tells her that no one was going to take away what was special to her... then telling himself how evil was as he was just lying followed by his order to a scientist to modify her memories. Another instance, Shinn Asuka asked Neo to promise that Stellar won't go back into combat again, which he promises at the time, but breaks it afterwords. Though he can be bad like this, his personality seems to gradually change towards Mu's and makes sarcastic remarks and somehow quoting Mu himself with the words,\"I can make the impossible possible\".\n\nIn space, Neo excells with speed and skill at piloting his Exass, though he seems to have some trouble fighting Rey. He also fares very well in his Windam and is good at going on the offensive using a few interesting tactics.",
+  "note": null,
+  "source": "anime"
+}

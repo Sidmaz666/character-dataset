@@ -1,0 +1,439 @@
+{
+  "id": "48d83bcf3acb43983b62215e2ebaf8f4",
+  "name": "Rei Ayanami",
+  "native_name": "綾波レイ",
+  "full_name": "Rei Ayanami",
+  "basic_info": {
+    "gender": "Female",
+    "species": "Humanoid (Clone/Angel)",
+    "race": "Clone of Yui Ikari / Vessel of Lilith",
+    "bloodline": "Ayanami Series (clone series)",
+    "height_cm": 148,
+    "weight_kg": 42,
+    "age": "14",
+    "birthday": "March 30, 2001",
+    "zodiac": "Aries",
+    "blood_type": "Unknown",
+    "weight_kkg": null,
+    "bmi": 19.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Red",
+    "hair_color": "Blue (short, styled in two braids)",
+    "skin_color": "Pale",
+    "notable_features": [
+      "Pale complexion",
+      "Often expressionless face",
+      "Blue hair in braids"
+    ],
+    "skin": "Pale",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "NERV Facility, Tokyo-3",
+    "current_location": "Tokyo-3",
+    "base_of_operations": "NERV Headquarters",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Evangelion Pilot (First Child)",
+    "secondary": "Student",
+    "rank_title": "First Child",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "NERV",
+      "Marduk Report"
+    ],
+    "previous": [],
+    "relatives": [
+      "Gendo Ikari (guardian/manipulator)",
+      "Yui Ikari (genetic template)",
+      "Shinji Ikari (genetic connection through Yui)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Neon Genesis Evangelion Episode 1",
+    "manga": "Neon Genesis Evangelion Chapter 1",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "EVA Unit-00 Piloting",
+      "native_name": "エヴァ弐号機操縦",
+      "description": "As the designated pilot of Evangelion Unit-00, Rei can synchronize with the giant mecha to fight Angels.",
+      "type": "Attack/Defense",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Short to Long (EVA range)",
+      "limit": "Synchronization rate varies; requires entry plug"
+    },
+    {
+      "name": "Dummy Plug System Compatibility",
+      "native_name": "ダミープラグシステム",
+      "description": "Rei is the template for the Dummy Plug system, allowing her to control EVA units with near-perfect efficiency.",
+      "type": "Support/Control",
+      "tier": "S",
+      "power_level": 92,
+      "range": "N/A",
+      "limit": "Moral implications; loss of personal agency"
+    },
+    {
+      "name": "High Synchronization",
+      "native_name": "同調率",
+      "description": "Rei demonstrates exceptionally high synchronization rates with Evangelion units, especially Unit-00.",
+      "type": "Support/Enhancement",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self (within EVA)",
+      "limit": "Tied to her mysterious nature"
+    },
+    {
+      "name": "Angelic Origin Powers",
+      "native_name": "天使の力",
+      "description": "As a vessel of Lilith (an Angel), Rei possesses latent powers connected to the Angels and Instrumentality.",
+      "type": "Attack/Defense/Utility",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Unknown",
+      "limit": "Not fully explored; subject to Gendo's manipulation"
+    }
+  ],
+  "signature_moves": [
+    "EVA-00 combat",
+    "Dummy Plug activation",
+    "High-risk synchronization"
+  ],
+  "ultimate_move": "Self-destruct with EVA-00 to destroy Angel",
+  "trump_card": "Angelic essence as vessel of Lilith",
+  "power_attributes": {
+    "power_type": "Evangelion Synchronization",
+    "power_source": "EVA Unit connection, Angelic DNA",
+    "combat_style": [
+      "EVA combat",
+      "Synchronized fighting",
+      "Distant tactical approach"
+    ],
+    "weapon": "EVA-00 (Positron Rifle, Progressive Knife, various weapons)",
+    "equipment": [
+      "Entry Plug",
+      "Plugsuit",
+      "NERV command center access"
+    ],
+    "trump_card": "Angelic essence as vessel of Lilith",
+    "ultimate_move": "Self-destruct with EVA-00 to destroy Angel"
+  },
+  "personality": {
+    "traits": [
+      "Stoic",
+      "Introverted",
+      "Detached",
+      "Quiet",
+      "Thoughtful",
+      "Devoted"
+    ],
+    "likes": [
+      "Reading books",
+      "Her duty",
+      "Being needed",
+      "Quiet moments"
+    ],
+    "dislikes": [
+      "Gendo's glasses being touched",
+      "Being called a doll",
+      "Her own meaninglessness"
+    ],
+    "fear": "Losing her purpose or being replaced",
+    "dream": "Find meaning in existence; break free from being a tool",
+    "personality_type": "INTJ",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "EVA Unit-00 Piloting",
+      "Dummy Plug System Compatibility",
+      "High Synchronization",
+      "Angelic Origin Powers"
+    ],
+    "weaknesses": []
+  },
+  "character": {
+    "arc": "Rei begins as a mysterious, emotionless figure serving as a tool for NERV. Through her relationship with Shinji, she gradually develops genuine emotions and begins to assert her own identity, ultimately making a pivotal choice to sacrifice herself rather than remain Gendo's puppet.",
+    "motivation": "Find meaning in her existence beyond being a tool",
+    "affinity": "Blue/Beyond human",
+    "alignment": "Neutral Good"
+  },
+  "achievements": [
+    "Successfully piloted EVA-00 against multiple Angels",
+    "Developed genuine human connections (rare for her)",
+    "Stood up to Gendo Ikari in the end",
+    "Became the catalyst for Instrumentality",
+    "First character to show emotional growth in the series"
+  ],
+  "titles": [
+    "First Child",
+    "The Blue-haired Pilot",
+    "Lilith's Vessel",
+    "Ayanami Rei"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "N/A",
+    "details": "NERV operative, not applicable"
+  },
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 45,
+    "speed": 55,
+    "durability": 60,
+    "power": 88,
+    "combat": 70,
+    "total": 403
+  },
+  "weaknesses": {
+    "list": [
+      "Emotionally underdeveloped",
+      "Can be easily replaced by clones",
+      "Mysterious origins make her vulnerable",
+      "Gendo's puppet"
+    ],
+    "factors": [
+      "Existential crisis over being a clone",
+      "Limited understanding of emotions",
+      "Subject to Gendo's manipulation"
+    ]
+  },
+  "relationships": {
+    "nemesis": "The Angels (particularly Armisael)",
+    "allies": [
+      "Shinji Ikari",
+      "Asuka Langley Soryu",
+      "Misato Katsuragi",
+      "Ritsuko Akagi"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Shinji Ikari",
+        "relationship": "Close friend/complex bond",
+        "trust_level": "High (growing)"
+      },
+      {
+        "name": "Asuka Langley Soryu",
+        "relationship": "Fellow pilot, rival",
+        "trust_level": "Complicated"
+      },
+      {
+        "name": "Ritsuko Akagi",
+        "relationship": "Caregiver figure",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Gendo Ikari (manipulator)",
+      "The Angels",
+      "SEELE"
+    ],
+    "enemies_detailed": [
+      {
+        "name": "Gendo Ikari",
+        "relationship": "Guardian who manipulates her",
+        "threat_level": "Psychological"
+      }
+    ],
+    "love_interest": "Shinji Ikari (implied)",
+    "best_friend": "Shinji Ikari",
+    "rival": "Asuka Langley Soryu",
+    "mentor": "Ritsuko Akagi",
+    "student": "N/A",
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Shinji Ikari",
+      "Asuka Langley Soryu",
+      "Misato Katsuragi",
+      "Ritsuko Akagi"
+    ],
+    "colleague": null,
+    "enemy": [
+      "The Angels (particularly Armisael)",
+      "Asuka Langley Soryu"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Asuka Langley Soryu"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": [
+      "N/A"
+    ],
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Shinji Ikari",
+      "Asuka Langley Soryu",
+      "Misato Katsuragi",
+      "Ritsuko Akagi"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "Ritsuko Akagi"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Ramiel (Angel)",
+      "result": "Victory",
+      "method": "Used progressive knife attack while Shinji distracted"
+    },
+    {
+      "opponent": "Armisael (Angel)",
+      "result": "Defeat (sacrificed)",
+      "method": "Self-destructed EVA-00 while connected to the Angel"
+    }
+  ],
+  "quotes": [
+    "If I have to pilot the Eva, someone must protect. Otherwise, those who pilot will just die.",
+    "I am myself. Not a doll, not a tool.",
+    "Who... who am I?",
+    "Don't look at me like that."
+  ],
+  "voice_acting": {
+    "native_language": "Megumi Hayashibara (Japanese)",
+    "note": "Both voice actors are iconic in the role",
+    "native_name": null,
+    "english": "Amanda Winn-Lee",
+    "japanese": "Megumi Hayashibara"
+  },
+  "story": {
+    "status": "Deceased (in original series) / Uncertain (Rebuild)",
+    "fate": "In original series: sacrificed in final battle. In Rebuild: story continues with new clones.",
+    "transformation": "From emotionless puppet to self-aware individual",
+    "awakening_potential": "Could potentially manifest full Angel powers",
+    "power_evolution": [
+      "Clone pilot",
+      "First Child",
+      "Emotional awakening",
+      "Self-sacrifice"
+    ],
+    "role_in_story": "Supporting Protagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "NERV Headquarters, Tokyo-3",
+    "story_importance": "Major",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Age: 14\nBirthday: March 30, 2001\nHeight: 4' 11\" / 149 cm\nSex: Female\nGuardian: Gendou Ikari\n\nRei Ayanami is the \"First Children\" of the Marduk Report and the pilot of EVA-00. Shrouded in mystery, she is socially withdrawn and rarely shows emotion. Seemingly completely devoted to her duty as an EVA pilot, her only apparent human relationship being with Nerv commander Gendou Ikari.\n\nHowever, Rei comes to know Shinji Ikari and after some initial mistrust they come to better understand each other, revealing more of Rei`s emotional side and helping Shinji trust others again.",
+  "note": null,
+  "source": "anime"
+}

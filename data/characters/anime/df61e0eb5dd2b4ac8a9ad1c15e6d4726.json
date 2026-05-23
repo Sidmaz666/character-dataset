@@ -1,0 +1,397 @@
+{
+  "id": "df61e0eb5dd2b4ac8a9ad1c15e6d4726",
+  "name": "Mahito",
+  "native_name": "真人",
+  "full_name": "Mahito",
+  "basic_info": {
+    "gender": "Male",
+    "species": "Curse",
+    "race": "Special Grade Curse",
+    "bloodline": "None",
+    "height_cm": 175,
+    "weight_kg": 65,
+    "age": "1 (appears young)",
+    "birthday": "Unknown",
+    "zodiac": "Unknown",
+    "blood_type": "None",
+    "weight_kkg": null,
+    "bmi": 21.2,
+    "nationality": null
+  },
+  "appearance": {
+    "eye_color": "Grey/Black",
+    "hair_color": "Black (spiky)",
+    "skin_color": "Grey",
+    "notable_features": [
+      "Stitched face",
+      "Spiky hair",
+      "Curse marks",
+      "Multiple arms"
+    ],
+    "skin": "Grey",
+    "eye": null,
+    "hair": null
+  },
+  "origin": {
+    "place_of_birth": "Tokyo (spawned from curses)",
+    "current_location": "Tokyo",
+    "base_of_operations": "Moving",
+    "place": null,
+    "current": null,
+    "base": null
+  },
+  "occupation": {
+    "primary": "Curse",
+    "secondary": "Disaster curse",
+    "rank_title": "Special Grade",
+    "rank": null,
+    "rank-title": null
+  },
+  "affiliations": {
+    "current": [
+      "Curses"
+    ],
+    "previous": [],
+    "relatives": [
+      "Jogo (ally)",
+      "Hanami (ally)",
+      "Geto (ally)"
+    ]
+  },
+  "first_appearance": {
+    "anime": "Jujutsu Kaisen Episode 7",
+    "manga": "Jujutsu Kaisen Chapter 7",
+    "comics": "N/A",
+    "game": null
+  },
+  "abilities": [
+    {
+      "name": "Idle Transfiguration",
+      "native_name": "無為転変",
+      "description": "Can reshape souls and bodies. Touches victims to transfigure them.",
+      "type": "Attack",
+      "tier": "S",
+      "power_level": 95,
+      "range": "Touch",
+      "limit": "Must touch"
+    },
+    {
+      "name": "Body Manipulation",
+      "native_name": "肉体操作",
+      "description": "Can reshape his own body at will. Grow extra limbs, change shape.",
+      "type": "Utility",
+      "tier": "A",
+      "power_level": 88,
+      "range": "Self",
+      "limit": "Imagination"
+    },
+    {
+      "name": "Soul Multiplication",
+      "native_name": "魂の増殖",
+      "description": "Creates multiple transfigured humans as minions.",
+      "type": "Attack",
+      "tier": "A",
+      "power_level": 85,
+      "range": "Area",
+      "limit": "Cursed energy"
+    }
+  ],
+  "signature_moves": [
+    "Idle Transfiguration",
+    "Body manipulation",
+    "Soul multiplication"
+  ],
+  "ultimate_move": "Idle Transfiguration (soul)",
+  "trump_card": "Soul manipulation",
+  "power_attributes": {
+    "power_type": "Cursed Energy",
+    "power_source": "Human hatred",
+    "combat_style": [
+      "Soul manipulation",
+      "Body transformation"
+    ],
+    "weapon": "None",
+    "equipment": [],
+    "trump_card": "Soul manipulation",
+    "ultimate_move": "Idle Transfiguration (soul)"
+  },
+  "personality": {
+    "traits": [
+      "Sadistic",
+      "Curious",
+      "Childlike",
+      "Evil",
+      "Playful",
+      "Philosophical"
+    ],
+    "likes": [
+      "Suffering",
+      "Yuji",
+      "Experiments",
+      "Chaos"
+    ],
+    "dislikes": [
+      "Boredom",
+      "Weakness",
+      "Order"
+    ],
+    "fear": "None",
+    "dream": "Understand souls through suffering",
+    "personality_type": "ENTP",
+    "Dream": null,
+    "alignment": null,
+    "strengths": [
+      "Idle Transfiguration",
+      "Body Manipulation",
+      "Soul Multiplication"
+    ],
+    "weaknesses": [
+      "Sadistic"
+    ]
+  },
+  "character": {
+    "arc": "Mahito is a curse born from human hatred. Obsessed with souls and transfiguration. Yuji's arch-nemesis. Pure evil with childlike curiosity.",
+    "motivation": "Understand souls, cause suffering",
+    "affinity": "Soul/Transfiguration",
+    "alignment": "Chaotic Evil"
+  },
+  "achievements": [
+    "Special Grade curse",
+    "Killed Nobara",
+    "Tormented Yuji"
+  ],
+  "titles": [
+    "Special Grade",
+    "Disaster Curse"
+  ],
+  "bounty": {
+    "amount": null,
+    "currency": "Yen",
+    "details": "Curse"
+  },
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 85,
+    "speed": 88,
+    "durability": 90,
+    "power": 95,
+    "combat": 88,
+    "total": 534
+  },
+  "weaknesses": {
+    "list": [
+      "Overconfidence",
+      "Curiosity",
+      "Yuji's punches"
+    ],
+    "factors": [
+      "Black Flash",
+      "Soul damage"
+    ]
+  },
+  "relationships": {
+    "nemesis": "Yuji Itadori",
+    "allies": [
+      "Jogo",
+      "Hanami",
+      "Geto"
+    ],
+    "allies_detailed": [
+      {
+        "name": "Jogo",
+        "relationship": "Fellow curse",
+        "trust_level": "Medium"
+      }
+    ],
+    "enemies": [
+      "Yuji",
+      "Jujutsu Sorcerers"
+    ],
+    "enemies_detailed": [],
+    "love_interest": "None",
+    "best_friend": "None",
+    "rival": "Yuji",
+    "mentor": "None",
+    "student": null,
+    "leader": null,
+    "subordinate": null,
+    "acquaintance": null,
+    "editor": null,
+    "son": null,
+    "servant": null,
+    "teammate": null,
+    "friend": [
+      "Jogo",
+      "Hanami",
+      "Geto",
+      "None"
+    ],
+    "colleague": null,
+    "enemy": [
+      "Yuji Itadori",
+      "Yuji"
+    ],
+    "partner": null,
+    "father": null,
+    "mother": null,
+    "adoptive_brother": null,
+    "master": null,
+    "relatives": [],
+    "grandson": null,
+    "girlfriend": null,
+    "Stand": null,
+    "boss": null,
+    "former_leader": null,
+    "customer": null,
+    "sister": null,
+    "commander": null,
+    "teacher": null,
+    "classmate": null,
+    "team": null,
+    "ward": null,
+    "stand": null,
+    "recipient": null,
+    "wife": null,
+    "employer": null,
+    "cousin": null,
+    "opponent": null,
+    "grandfather": null,
+    "brother": null,
+    "descendant": null,
+    "love": null,
+    "successor": null,
+    "bandmate": null,
+    "captain": null,
+    "protects": null,
+    "comrades": [],
+    "family": [],
+    "daughter": null,
+    "subject": null,
+    "former crew": null,
+    "predecessor": null,
+    "lieutenant": null,
+    "target": null,
+    "host": null,
+    "manager": null,
+    "ally": null,
+    "employee": null,
+    "savior": null,
+    "sibling": null,
+    "nephew": null,
+    "victim": null,
+    "fiancee": null,
+    "tenant": null,
+    "apprentice": null,
+    "senpai": null,
+    "charge": null,
+    "clan": null,
+    "subordinates": null,
+    "husband": null,
+    "junior": null,
+    "crush": null,
+    "nemesa": null,
+    "former opponent": null,
+    "boyfriend": null,
+    "rivals": [
+      "Yuji"
+    ],
+    "fiance": null,
+    "major": null,
+    "students": null,
+    "guardian": null,
+    "band": null,
+    "party": null,
+    "general": null,
+    "twin": null,
+    "parents": null,
+    "zodiac": null,
+    "child": null,
+    "niece": null,
+    "friends": [
+      "Jogo",
+      "Hanami",
+      "Geto",
+      "None"
+    ],
+    "sisters": null,
+    "coach": null,
+    "gym mates": [],
+    "creator": null,
+    "servants": [],
+    "president": null,
+    "grandmother": null,
+    "allegiance": null,
+    "patient": null,
+    "assistant": null,
+    "admirer": null,
+    "vice-captain": null,
+    "squad": null,
+    "empress": null,
+    "protectors": null,
+    "obsession": null,
+    "companion": null,
+    "crew": null,
+    "children": null,
+    "senior": null,
+    "superior": null,
+    "advisor": null,
+    "creation": null,
+    "father figure": null,
+    "former comrade": null,
+    "notable_battles": [],
+    "mentors": [
+      "None"
+    ]
+  },
+  "notable_battles": [
+    {
+      "opponent": "Yuji",
+      "result": "Loss",
+      "method": "Black Flash"
+    },
+    {
+      "opponent": "Nobara",
+      "result": "Victory",
+      "method": "Transfiguration"
+    }
+  ],
+  "quotes": [
+    "Don't worry, it won't hurt... much.",
+    "What's wrong with transfiguring?",
+    "I love you, Yuji!"
+  ],
+  "voice_acting": {
+    "native_language": "Nobunaga Shimazaki (Japanese)",
+    "note": "Playful, sinister",
+    "native_name": null,
+    "english": "Unknown",
+    "japanese": "Unknown"
+  },
+  "story": {
+    "status": "Deceased",
+    "fate": "Killed by Yuji",
+    "transformation": "Multiple forms",
+    "awakening_potential": "N/A",
+    "power_evolution": [
+      "Curse",
+      "Special Grade",
+      "Defeated"
+    ],
+    "role_in_story": "Antagonist",
+    "awakening": null,
+    "role": null,
+    "face": null,
+    "transform": null
+  },
+  "misc": {
+    "transports": [],
+    "vehicles": [],
+    "headquarters": "Moving",
+    "story_importance": "Main Antagonist",
+    "note": null
+  },
+  "publisher": "anime",
+  "about": "Mahito is a special grade Cursed Spirit who's allied with Suguru Geto, Jogo, Hanami and several others. Their ultimate goal is the eradication of humanity and ultimately replacing the population with Cursed Spirits.\n\nHe's a human-looking Cursed Spirit with a patchwork face. He's got light grey eyes and long grey hair that reaches past his neck and is sectioned off into three large strands with ties at the ends. Along with his face, there are stitches all across his body giving him the appearance that he was sewn together.\n\nAccording to Mahito, he was born from human transgressions. He considers himself the very manifestation of humans' hatred of each other. He's a sadistic and immature Cursed Spirit.\n\nHe enjoys toying with human emotions. He also shows no sympathy for human lives.",
+  "note": null,
+  "source": "anime"
+}
